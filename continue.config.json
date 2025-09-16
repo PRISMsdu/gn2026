@@ -1,0 +1,13 @@
+{
+  "model": "gpt-4",
+  "maxTokens": 2048,
+  "temperature": 0.7,
+  "include": [
+    "**/*.md"
+  ],
+  "exclude": [
+    ".git/**"
+  ],
+  "provider": "openai",
+  "openaiApiKey": "Ysk-proj-ZuTMUMwoNTC74K8QkCXequCxaUa0N3QkMgPvFzzbJRf7M2caCK9W6oJKxSB7U-sYFGSc1FvHpvT3BlbkFJxbypyI4O3w6tJcirIQBjZY8QeDTke-wI_KrTEfjf33w7dm09rKdHTK13R55jyULG39OVj-QPQA"
+}
