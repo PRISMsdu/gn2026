@@ -40,7 +40,8 @@ Elle fut recrutée comme "observatrice" par la Banque UBI, qui voyait en elle un
 - **Ydria Ventoss** : Neutralité - Pas d'interaction particulière
 - **Vaelric Dorn** : Neutralité - Pas d'interaction particulière
 - **Mafia (Sangs de la Steppe)** : Origines - Liée par le sang, veut réintégrer l'organisation
-- **Kaelan Thormane (Chef Mafia)** : Contact mafieux - Peut l'utiliser pour réintégrer l'organisation
+- **Kaelan Thormane (Chef Mafia)** : Contact mafieux - Peut l'utiliser pour réintégrer l'organisation, lui a fait parvenir une lettre lui demandant de contacter Raven pendant la régate
+- **Raven (Maître des Réseaux Mafia)** : Contact à rencontrer - Doit le retrouver le vendredi dans la nuit pendant la régate pour recevoir ses ordres
 
 ## Motivations et Objectifs
 
@@ -58,6 +59,7 @@ Elle fut recrutée comme "observatrice" par la Banque UBI, qui voyait en elle un
 - Orienter une partie de l'or vers la mafia lors de l'évacuation
 - Racheter sa place dans l'organisation secrète
 - Éviter l'exécution si elle est démasquée
+- **Mission urgente de la mafia** : Contacter Raven le vendredi dans la nuit pendant le week-end de la régate pour recevoir ses ordres. Une mission critique l'attend, qui déterminera si elle peut réintégrer la famille Dornik et les Sangs de la Steppe.
 
 ## Intégration au Groupe
 

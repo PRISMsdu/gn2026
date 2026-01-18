@@ -39,6 +39,7 @@ Raven géra des réseaux d'information pour des clients privés avant d'être d�
 - **Gareth Ironfist** : Protection des informateurs et des contacts
 - **Shadow** : Partage d'informations et coordination des informateurs
 - **Réseau d'informateurs** : Contacts dans tous les milieux sociaux
+- **Sybrel Dornik (Ombre UBI)** : Contact à rencontrer - Doit la retrouver le vendredi dans la nuit pendant la régate pour lui transmettre les ordres de Kaelan concernant une mission urgente dans la banque
 
 ## Motivations et Objectifs
 
@@ -46,6 +47,7 @@ Raven géra des réseaux d'information pour des clients privés avant d'être d�
 - Maintenir l'efficacité des réseaux d'informateurs
 - Développer de nouveaux contacts dans les cercles politiques
 - Améliorer la sécurité des communications
+- **Mission Sybrel** : Rencontrer Sybrel Dornik le vendredi dans la nuit pendant le week-end de la régate pour lui transmettre les ordres de Kaelan. Cette rencontre est critique pour une mission urgente dans la banque UBI.
 
 ### Objectifs Long Terme
 - Établir un réseau d'information permanent pour la mafia

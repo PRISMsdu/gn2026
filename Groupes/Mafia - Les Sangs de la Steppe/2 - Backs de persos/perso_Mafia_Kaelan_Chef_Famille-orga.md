@@ -41,7 +41,7 @@ Kaelan fut l'un des fondateurs des Sangs de la Steppe il y a 50 ans. Il organisa
 - **Autorités de la Confédération** : Ennemis institutionnels
 - **Rivaux internes** : Autres chefs de famille qui contestent son autorité
 - **Edorian (Directeur UBI)** : Ennemi indirect - Cible de déstabilisation, connaît ses malversations
-- **Sybrel Dornik (Ombre UBI)** : Agent potentiel - Peut l'utiliser pour infiltrer la Banque
+- **Sybrel Dornik (Ombre UBI)** : Agent critique - Mission urgente à lui confier via Raven pendant la régate. Test de loyauté décisif pour sa réintégration dans la famille Dornik et les Sangs de la Steppe
 - **Vaelric Dorn (Discréteur UBI)** : Menace - Agent double qui peut révéler ses plans
 - **Ydria Ventoss (Trésorière UBI)** : Contact financier - Peut l'aider à récupérer l'or de la Banque
 
@@ -51,6 +51,7 @@ Kaelan fut l'un des fondateurs des Sangs de la Steppe il y a 50 ans. Il organisa
 - Déstabiliser le nouveau conseil de la banque d'Il-Irion
 - Créer des tensions entre les cités de la Confédération
 - Maintenir la pression sur les familles nobles
+- **Mission Sybrel** : Coordonner via Raven la rencontre avec Sybrel Dornik le vendredi dans la nuit pendant la régate pour lui confier une mission critique dans la banque UBI. Cette mission déterminera si elle peut réintégrer l'organisation. Présenter à Kaelan ceci comme une oportunité d'avoir un espion dans le groupe UBI.
 
 ### Objectifs à Long Terme
 - Fragiliser complètement la Confédération

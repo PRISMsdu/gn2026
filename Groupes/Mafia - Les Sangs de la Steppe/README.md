@@ -4,8 +4,8 @@
 
 ### 1 - Back de groupe
 Contient les fichiers de background du groupe :
-- `Back_groupe_Mafia.md` - Background principal du groupe
-- `Historique_Mafia.md` - Historique du groupe
+- `Back_groupe_Mafia_Orga.md` - Background principal du groupe
+- `Back_groupe_Mafia.md` - Historique du groupe
 
 ### 2 - Backs de persos
 Contient les backgrounds des personnages (étape de création) :

@@ -1,68 +1,39 @@
-# Mafia - Les Sangs de la Steppe - Back de Groupe
+# Historique des « Sangs de la Steppe »
 
-## Informations Générales
-- **Nom du groupe** : Les Sangs de la Steppe
-- **Type d'organisation** : Mafia/Organisation criminelle
-- **Siège principal** : Réseau tentaculaire dans la Confédération du Levant
-- **Période d'activité** : Depuis 15 ans (créée de toute pièce par la République de Styrgie)
-- **Statut légal** : Illégal/Secret
-- **Origine réelle** : Créée par la République de Styrgie (le nom est un leurre pour faire croire à des origines tchélènes)
+## La Création et les Premiers Pas (Il y a 15-11 ans)
 
-## Historique du Groupe
-*Voir le fichier séparé : `Historique_Mafia.md`*
+Il y a 15 ans, la République de Styrgie créa de toute pièce l'organisation criminelle des « Sangs de la Steppe » dans le but secret de fragiliser la Confédération du Levant. La Styrgie cherchait à récupérer discrètement les deux grandes cités continentales d'Arthas et Ther-Felis, qui l'avaient quittée il y a 350 ans sous la pression de l'Empire Tchélène.
 
-## Fiche Organisation
+Le nom « Les Sangs de la Steppe » fut soigneusement choisi comme leurre stratégique : il devait laisser croire que cette mafia trouvait ses origines au sein de l'Empire Tchélène, permettant ainsi à la Styrgie de brouiller les pistes et de détourner les soupçons. Cette désinformation faisait passer l'organisation pour une menace extérieure venue des terres tchélènes plutôt que pour un instrument de déstabilisation contrôlé depuis la République de Styrgie.
 
-### Structure Légale
-- **Statut** : Illégal/Secret
-- **Charte/Statuts** : Code d'honneur basé sur la loyauté à l'organisation et à la Styrgie (façade de code tribal pour maintenir la cohésion et la légende)
+Les premiers membres furent recrutés parmi des individus sans attaches : anciens soldats de fortune, marchands ruinés, exilés politiques, et criminels de bas étage. La Styrgie leur fournit financement initial, protection discrète et une légende soigneusement construite. Ces fondateurs furent formés aux arts du chantage, de l'extorsion et de la manipulation politique.
 
-### Constitution du Groupe
-- **Chef/Leader** : Kaelan Thormane, Chef de famille, Leadership et stratégie politique
-- **Second** : Lieutenant de Confiance, Coordinateur des opérations, Organisation des réseaux
-- **Conseillers** : Expert en Extorsion (Chantage), Alchimiste Interrogateur (Soins et interrogatoires), Négociateur/Diplomate (Relations extérieures)
-- **Membres** : Homme de Main (Intimidation), Infiltrateur (Espionnage), Maître des Réseaux (Gestion des informateurs)
+Les premières opérations furent modestes mais ciblées : installation de relais clandestins aux frontières de la Confédération, corruption de douaniers et de capitaines de navires, création de maisons de jeu clandestines dans les ports. L'objectif était de s'implanter discrètement sans éveiller les soupçons, tout en commençant à collecter des informations sur les élites locales.
 
-### Règles et Codes
-- Loyauté absolue à l'organisation et à la République de Styrgie (commanditaire secret)
-- Secret absolu sur les opérations, les membres et les liens avec la Styrgie
-- Maintien de la façade d'origine tchélène pour brouiller les pistes
-- Revanche contre les puissants et les élites confédérales
-- Respect des serments et des codes internes pour maintenir la cohésion
-- Maintien de la peur et de l'incertitude chez les cibles
-- Protection absolue de l'identité réelle de l'organisation
+Un premier scandale éclata il y a 12 ans dans la cité de Staal : le patriarche d'une puissante famille marchande fut déchu, victime d'un chantage orchestré après la découverte d'accords secrets avec des contrebandiers. Les Sangs de la Steppe gagnèrent ainsi leur première réputation d'architectes de la chute silencieuse des élites locales, tout en restant dans l'ombre.
 
-## Objectifs et Motivations
+## L'Expansion et la Consolidation (Il y a 11-6 ans)
 
-### Motivations
-Organisation créée de toute pièce par la République de Styrgie il y a 15 ans pour servir ses intérêts géopolitiques. Motivations principales : servir les objectifs secrets de la Styrgie, fragiliser la Confédération du Levant, et récupérer discrètement les cités d'Arthas et Ther-Felis qui l'avaient quittée il y a 350 ans. Enrichissement personnel par la criminalité organisée, mépris des élites confédérales, et volonté de dominer par la peur et le secret. Le nom et la légende d'origine tchélène sont maintenus comme leurre stratégique pour brouiller les pistes et détourner les soupçons.
+Au cours de cette période, l'organisation prit de l'ampleur et étendit son influence de manière plus agressive. Les Sangs de la Steppe développèrent leur spécialité dans la manipulation des documents : fausses traites bancaires, détournements de cargaisons, falsification de correspondances. La banque d'Il-Irion, bien qu'officiellement neutre, servit malgré elle de coffre pour les parchemins compromettants extorqués ou volés.
 
-### Objectifs Jouables - 10 Tâches Concrètes
+La mafia concentra ses efforts sur Palyr, réputée pour ses légats influents et la porosité de ses institutions. Ils installèrent des points de relais dans les docks, les marchés aux grains, et les arènes. Un second scandale éclata il y a 8 ans : la matriarche d'une noble maison d'Il-Irion fut publiquement mise en accusation, ayant perdu toutes ses garanties après la divulgation de lettres retrouvées dans un coffre « oublié » de la banque à Il-Irion — lettres dont les Sangs de la Steppe avaient orchestré le vol et utilisé pour faire pression sur les élites confédérales.
 
-1. **Récupérer les lettres compromettantes dans le coffre n°47 de la banque d'Il-Irion** : Ces lettres contiennent des preuves de malversations de la famille Valdris d'Il-Irion et peuvent être utilisées pour faire pression sur leur représentant au conseil de l'UBI, l'empêchant de se présenter à la direction.
+Les méthodes se raffinèrent : la mafia devint indispensable aux factions locales qui espéraient prospérer au sein des rivalités entre cités. Ils se mirent à vendre leurs secrets à la fois à la Styrgie, à Sfaal, et à toute faction désireuse de faire tomber un rival. Plusieurs familles historiques d'Il-Irion s'effondrèrent sous les révélations de comptes secrets, la falsification de traites et la découverte de liens avec les pirates d'Albar — liens dont seuls les Sangs de la Steppe tiraient les ficelles dans l'ombre.
 
-2. **Neutraliser le candidat de Sfaal à la direction de l'UBI** : Utiliser le document sur le détournement de fer de Sfaal (remplacement par du fer de mauvaise qualité) pour faire chanter le représentant de Sfaal et le forcer à retirer sa candidature, laissant le champ libre aux candidats pro-Styrgie.
+Lors de la grande course de frégates de l'an 6, deux anciens trésoriers furent ruinés dans la journée par une fuite orchestrée de documents falsifiés, démontrant la capacité de l'organisation à frapper lors d'événements publics et à humilier ses victimes.
 
-3. **Saboter la régate de frégates** : Orchestrer un scandale public lors de la grande course de frégates en révélant des documents falsifiés compromettant deux trésoriers de Palyr, créant des tensions entre les cités insulaires et humiliant publiquement les élites.
+## La Mainmise et l'Influence Majeure (Il y a 6 ans à aujourd'hui)
 
-4. **Empêcher la vente d'arguethain** : Intercepter ou saboter la transaction entre le groupe de marchands et les cités, soit en corrompant les intermédiaires, soit en créant un incident qui annule la vente, affaiblissant économiquement la Confédération.
+Cette dernière période vit l'organisation atteindre son apogée d'influence et de puissance. Les Sangs de la Steppe développèrent des contacts secrets avec les factions séparatistes d'Arthas et Ther-Felis, celles qui rêvent de retourner dans le giron de la Styrgie. Cette alliance secrète transforma définitivement les Sangs de la Steppe en instrument de la politique styrgienne.
 
-5. **Prendre le contrôle du tripot de Staal** : Négocier ou forcer l'acquisition du tripot pour avoir accès aux flux financiers et aux informations confidentielles des élites qui s'y retrouvent, permettant de surveiller et manipuler les décideurs.
+À mesure que croissaient la puissance de la banque et le poids stratégique de la Confédération, ils raffinèrent encore leurs méthodes. Désormais, ils alternaient chantage, infiltration, et corruption de juges avec un objectif clair : créer des dissensions entre les cités continentales (Arthas, Ther-Felis) et les cités insulaires (Il-Irion, Sfaal, Palyr).
 
-6. **Récupérer les comptes secrets de la famille Thorne de Palyr** : Ces documents financiers compromettants, stockés dans un coffre de la banque, révèlent des liens avec les pirates d'Albar et peuvent être utilisés pour faire tomber cette famille influente et créer des tensions.
+Dans les salons confidentiels, leur nom devint synonyme de menace invisible pour tout joueur trop audacieux. La récente alliance discrète avec certains quartiers-maîtres de Staal leur donne accès aux flux financiers du casino et renforce leur chantage contre la banque et ses dirigeants. Les points de relais furent multipliés : maisons d'édition à Staal, réseaux d'informateurs dans toutes les cités, infiltrations dans les assemblées politiques.
 
-7. **Favoriser l'élection du candidat pro-Styrgie d'Arthas au poste de directeur de l'UBI** : Coordonner avec les factions séparatistes d'Arthas pour s'assurer que leur représentant obtienne le poste, en neutralisant les autres candidats et en utilisant les moyens de pression disponibles.
+L'organisation développa une capacité à provoquer des crises économiques localisées, à saboter des transactions majeures, et à influencer directement la politique bancaire pour favoriser les candidats pro-Styrgie d'Arthas et Ther-Felis au poste de directeur de l'UBI.
 
-8. **Créer un scandale public entre Il-Irion et Sfaal** : Révéler des correspondances secrètes falsifiées montrant une trahison supposée entre les deux cités insulaires, fragilisant leur alliance et créant des dissensions dans la Confédération.
+## Situation actuelle
 
-9. **Récupérer les documents sur le détournement de fer de Sfaal** : S'emparer des preuves matérielles du remplacement du fer de qualité par du fer de mauvaise qualité, documents stockés dans les archives de la banque, pour maintenir la pression sur Sfaal et empêcher toute révélation publique.
+Aujourd'hui, la mafia est plus puissante et redoutée que jamais. Son influence infecte non seulement les strates commerciales, mais aussi les assemblées politiques de la Confédération. Les Sangs de la Steppe n'oublient jamais une dette. S'ils agissent dans la nuit des secrets, leur ombre n'a jamais cessé, depuis 15 ans, de planer sur la Confédération. Leur puissance insaisissable est entièrement liée à leur alliance secrète avec la Styrgie, qui finance et protège leurs opérations en échange de services qui pourraient bien changer le visage de la Confédération. Leurre ou réalité, leur nom inspire désormais la terreur dans les cercles du pouvoir, et leur influence ne cesse de croître.
 
-10. **Infiltrer l'assemblée de Palyr lors du vote sur le renouvellement du conseil** : Placer un agent dans l'assemblée pour influencer le vote et s'assurer que le représentant de Palyr au nouveau conseil de l'UBI soit soit compromis, soit remplacé par quelqu'un de plus manipulable, affaiblissant ainsi la position des cités insulaires.
-
-
-## Relations et Alliances
-*Voir le fichier séparé : `Intrigue_Mafia.md`*
-
-
----
-*Template créé pour la standardisation des backs de groupe - GN Krondaar 2026*
+*Pour les objectifs jouables précis, voir le fichier `Back_groupe_Mafia_Orga.md`*

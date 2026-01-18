@@ -4,9 +4,9 @@
 
 ### 1 - Back de groupe
 Contient les fichiers de background du groupe :
-- `Back_groupe_UBI.md` - Background principal du groupe
+- `Back_groupe_UBI_Orga.md` - Background principal du groupe
 - `Charte_UBI.md` - Charte et règles du groupe
-- `Historique_UBI.md` - Historique du groupe
+- `Back_groupe_UBI.md` - Historique du groupe
 
 ### 2 - Backs de persos
 Contient les backgrounds des personnages (étape de création) :

@@ -1,98 +1,59 @@
-# Banquiers - Union Bancaire d'Il-Irion (UBI) - Back de Groupe
+# Historique de l'Union Bancaire d'Il-Irion
 
-## Informations Générales
-- **Nom du groupe** : Union Bancaire d'Il-Irion (UBI)
-- **Type d'organisation** : Conseil de direction de l'Institution bancaire officielle
-- **Siège principal** : Citadelle d'Ulgarth, Il-Irion
-- **Période d'activité** : Le groupe se connait depuis plusieurs années et est au conseil depuis 5 ans
-- **Statut légal** : Officiel (mais corrompu)
+## Prologue : L'ombre sur l'or
 
-## Historique du Groupe
-*Voir le fichier séparé : `Historique_UBI.md`*
+Depuis sa fondation, l'Union Bancaire d'Il-Irion (UBI) a été le cœur financier de la Confédération des cités libres du Levant. Installée dans la majestueuse Citadelle d'Ulgarth, la banque incarne la stabilité et la confiance. Ses murs de pierre abritent les fortunes des grandes familles, les documents les plus sensibles de la Confédération, et les secrets les mieux gardés. Mais derrière cette façade de respectabilité, la tentation du pouvoir et de l'argent a toujours rôdé dans les couloirs sombres et les coffres scellés.
 
-## Fiche Organisation
+## L'ascension vers le pouvoir (Il y a 10-5 ans)
 
-### Structure Légale
-- **Statut** : Officiel
-- **Charte/Statuts** : Charte officielle de l'Union Bancaire, statuts approuvés par la Confédération
+Pendant près d'une décennie avant leur prise de fonction, les cinq futurs membres du conseil ont patiemment tissé leur toile dans l'ombre. Chacun, dans sa cité d'origine, a su s'entourer d'alliés, éliminer ses rivaux et s'imposer comme le candidat incontournable pour diriger l'UBI.
 
-### Constitution du Groupe
+**Edorian**, héritier d'une lignée de directeurs, a grandi dans les galeries souterraines de la banque. Il a déjoué des tentatives de vol orchestrées par sa propre famille, fait exiler des rivaux pour détournement de fonds, et négocié en secret avec des guildes marchandes pour renforcer la position de la banque. À 25 ans, il prit la direction de la succursale d'Il-Irion après une querelle familiale sanglante.
 
-**Conseil de Direction (5 membres) :**
-- **Edorian (Directeur)** : Direction stratégique, décisions majeures, coordination générale
-- **Vaelric Dorn (Discréteur)** : Gestion des scandales, dissimulation, relations publiques
-- **Ydria Ventoss (Trésorière)** : Gestion de l'or physique, flux de capitaux, détournements
-- **Selvara Quenndral (Archiviste)** : Gestion des documents, codes des coffres, registres
-- **Horgrim Dval (Chef de la Garde)** : Sécurité physique, coordination de la garde, protection des coffres
+**Vaelric Dorn**, aux origines obscures, s'est imposé comme maître des secrets. Certains murmurent qu'il était espion pour une guilde rivale, d'autres qu'il était assassin au service d'un culte interdit. Toujours est-il qu'il s'est fait remarquer en effaçant les scandales : témoins disparus, rumeurs étouffées, dettes réglées par un couteau discret. La banque lui doit son image de respectabilité publique.
 
-**Personnel non-conseil :**
-- **Melian Torv (Conseiller spirituel)** : Dimension morale et spirituelle, bénédiction des coffres, conseil éthique
-- **Kaelen Veynar (Champion)** : Bras droit d'Horgrim, périmètre extérieur, entraînement des recrues
-- **Sybrel Dornik (L'Ombre)** : Opérations discrètes, surveillance intérieure, sécurité des tunnels
-- **Corvus (Gardien de coffres)** : Accès aux coffres, connaissance des procédures de sécurité, gestion des clés
+**Ydria Ventoss**, fille d'un marchand ruiné par la guerre, a juré de ne jamais connaître la misère. Elle a rejoint la banque comme apprentie comptable et s'est hissée au sommet par son talent pour les chiffres. Elle a développé des contacts avec les guildes marchandes, contrôlant désormais le flux de l'or physique.
 
-**Structure Parallèle :**
-- **Familles riches d'Il-Irion** : Commanditaires des malversations, réseau de soutien et de protection
-- **Le Tripot** : Partenaire de blanchiment, centre de redistribution des fonds détournés
-- **Réseaux d'informateurs** : Contacts dans les guildes marchandes, les assemblées politiques, les ports
+**Selvara Quenndral**, issue d'une famille de mages érudits ruinés, a trouvé refuge à la banque comme simple copiste. Utilisant sa mémoire prodigieuse, elle est devenue la seule à connaître par cœur les numéros et les codes des coffres. Elle est désormais gardienne des registres et des sceaux magiques.
 
-### Agents Infiltrés et Contacts
+**Horgrim Dval**, homme exilé de sa cité clanique, a vendu sa hache au plus offrant. La banque l'a recruté après qu'il eut massacré une bande de brigands qui tentaient de braquer une caravane d'or. Fidèle depuis vingt ans, il a formé la garde privée selon une discipline militaire stricte. Aucun coffre n'a jamais été pillé sous sa surveillance.
 
-**Infiltration de la Mafia :**
-- **Corvus** : Agent infiltré des Sangs de la Steppe via la Guilde des Ports Unis il y a 3 ans. Facilite l'accès aux coffres pour la mafia, point de contact principal pour les opérations bancaires de la mafia. Non découvert par le conseil.
-- **Sybrel Dornik** : Contact secondaire potentiel avec la mafia, liée par ses origines (ancienne membre des Sangs de la Steppe). Veut réintégrer l'organisation et peut être utilisée par la mafia.
+La campagne pour le conseil fut marquée par des scandales étouffés, des rumeurs de corruption, et des manœuvres politiques. Les cinq ont su exploiter les faiblesses de leurs adversaires, acheter des soutiens, et présenter une façade d'intégrité tout en préparant leur ascension commune. Leur victoire fut saluée comme un renouveau, mais les observateurs les plus attentifs percevaient déjà l'ombre d'un pacte secret.
 
-**Infiltration des Guildes Rivales :**
-- **Vaelric Dorn** : Agent double au service d'une guilde rivale. Travaille pour les guildes rivales qui veulent faire tomber la banque, mais la banque l'a fasciné et il hésite entre détruire la banque ou en prendre le contrôle. Doit être surveillé avec précaution.
+## Les cinq années du conseil (Il y a 5 ans à aujourd'hui)
 
-**Contacts Externes :**
-- **Familles riches d'Il-Irion** : Commanditaires des malversations, peuvent être faites chanter par Edorian pour assistance, refuge et protection
-- **Palyr** : Ennemi majeur, au courant des malversations grâce à Melian, peut faire chantage. Melian a vendu l'information à Palyr en échange de protection et de gains.
-- **Le Tripot** : Allié de blanchiment, peut aider à l'évacuation et fournir refuge
+Dès leur entrée en fonction, les nouveaux conseillers ont mis en place un système de gestion opaque, multipliant les audits internes et les opérations financières complexes. Le conseil a renforcé les liens avec le Tripot, transformant le casino en partenaire commercial privilégié. Les jeux, les comptes et les prêts sont devenus des outils de gestion financière sophistiqués. Chaque année, de nouvelles stratégies ont vu le jour : courses de frégates, artefacts magiques utilisés pour sécuriser les transactions, alliances avec des groupes commerciaux pour sécuriser les profits.
 
-### Règles et Codes
-Normalement, le conseil applique les codes suivants :
-- Neutralité bancaire et confidentialité des comptes clients
-- Loyauté envers l'institution et la Confédération
-- Respect des procédures de sécurité et des audits
-- Intégrité financière et transparence des opérations
+**Melian Torv**, ancien moine de l'Église de la Flamme, fut recruté par Edorian pour donner à la banque une façade morale et religieuse. Officiellement, il bénit les coffres et conseille sur l'éthique des investissements. Il apporte une dimension spirituelle aux décisions du conseil.
 
-Concernant ce groupe, il n'y a plus de codes autre que son intérêt personnel. Les règles sont devenues :
-- Protection des malversations et détournements des 5 dernières années
-- Maximisation des gains personnels avant la transition
-- Gestion des trahisons internes et des loyautés divisées
-- Préparation de la fuite ou de la défense face au nouveau conseil
-- Maintien du secret sur les détournements d'Edorian vis-à-vis des familles d'Il-Irion
+**Kaelen Veynar**, champion de guerre, fut recruté par Horgrim et pris sous son aile. Il est devenu le bras droit d'Horgrim, responsable du périmètre extérieur et de l'entraînement des recrues. Sa réputation de guerrier redoutable renforce la sécurité de la banque.
 
-## Objectifs et Motivations
+**Sybrel Dornik**, issue des bas-fonds d'une grande cité portuaire, fut recrutée comme "observatrice" par la banque, qui voyait en elle une experte des méthodes des voleurs. Sous la supervision d'Horgrim, elle fut intégrée à la garde et affectée à la sécurité intérieure, spécialisée dans la surveillance des tunnels et passages secrets.
 
-### Motivations
-Il y a cinq ans, les familles riches d'Il-Irion, au bord de la faillite, ont approché Edorian pour qu'il devienne directeur de l'UBI et organise des malversations pour remplir leurs caisses. Edorian a accepté, mais une fois en poste, il a décidé de pousser la corruption bien au-delà de leurs demandes initiales, s'enrichissant personnellement de manière considérable. Les familles d'Il-Irion, satisfaites de leurs gains, ont fermé les yeux sur les détournements supplémentaires d'Edorian, ignorant l'ampleur réelle de ses malversations.
+**Corvus**, ancien marchand, fut recruté il y a 3 ans comme gardien de coffres grâce à d'excellentes références de la Guilde des Ports Unis. Méthodique et discret, il connaît parfaitement la disposition des coffres et les procédures de sécurité. Sa réputation de professionnalisme lui a valu la confiance du conseil.
 
-Le conseil actuel a été transformé en machine à blanchir l'argent et à détourner les fonds, mais avec des motivations différentes : Edorian cherche à maximiser ses gains personnels et à protéger l'artefact maudit caché dans les coffres, tandis que les autres membres du conseil ont été progressivement corrompus par l'appât du gain et les alliances secrètes. Melian a découvert l'ampleur réelle du système il y a un an via des visions spirituelles et a vendu l'information à Palyr, créant une fracture majeure et une menace constante pour le conseil.
+La tension n'a cessé de croître au sein du conseil : rivalités, tensions, et divergences d'opinions ont rythmé les réunions. Pourtant, l'alliance a tenu, portée par la nécessité de maintenir la stabilité de la banque et la promesse de prospérité pour tous. Les cités, quant à elles, ont vu leur économie prospérer, mais les inégalités et les suspicions se sont accrues.
 
-### Objectifs
+## La situation actuelle
 
-1. **Protéger l'artefact maudit caché dans les coffres** : Edorian et Melian connaissent l'existence de cet artefact. Edorian cherche à le protéger et à le récupérer avant la transition, tandis que Melian voit dans l'inondation un signe divin de purification et pourrait laisser l'eau détruire l'artefact sacrilège.
+Aujourd'hui, alors que le mandat touche à sa fin, le conseil doit préparer la transition vers le nouveau conseil qui s'apprête à prendre le pouvoir. Cinq années de gestion ont façonné l'UBI, et le conseil actuel doit assurer une passation en douceur tout en préservant la stabilité de l'institution.
 
-2. **Éviter la découverte des malversations et détournements des 5 dernières années** : Le conseil doit effacer toutes les traces de corruption avant l'arrivée du nouveau conseil. Cela implique de falsifier les registres, de détruire les preuves compromettantes, et de faire taire les témoins potentiels.
+Chaque membre du conseil a un rôle crucial à jouer dans cette période de transition : Edorian dirige les opérations et coordonne la passation, Vaelric gère la communication et les relations publiques, Ydria supervise la gestion des fonds et des comptes, Selvara protège les registres et les documents, et Horgrim coordonne la sécurité.
 
-3. **Sauver les magots personnels et les documents compromettants** : Chaque membre du conseil a accumulé des richesses personnelles et des documents compromettants qu'il doit protéger. Ydria prépare secrètement sa fuite avec une partie de l'or détourné via ses contacts contrebandiers. Selvara a secrètement copié des documents compromettants et pourrait profiter de la crise pour subtiliser certains registres.
-
-4. **Préparer la fuite ou la défense face au nouveau conseil** : Le conseil doit préparer soit une évacuation d'urgence, soit une défense solide contre les accusations du nouveau conseil. Les familles d'Il-Irion peuvent fournir refuge, protection et ressources pour une évacuation d'urgence. Edorian peut faire chanter les familles d'Il-Irion en menaçant de révéler leur implication dans les malversations.
-
-5. **Gérer les trahisons internes et les loyautés divisées** : Melian a trahi vers Palyr, Vaelric est un agent double des guildes rivales, Corvus est un agent infiltré de la mafia, et Sybrel garde contact avec son clan mafieux. Le conseil doit naviguer entre ces trahisons multiples tout en maintenant une façade d'unité.
-
-6. **Maintenir le secret sur les détournements d'Edorian vis-à-vis des familles d'Il-Irion** : Les familles d'Il-Irion ignorent l'ampleur réelle des détournements d'Edorian. Si elles découvraient la vérité, elles pourraient se retourner contre lui. Edorian doit maintenir ce secret tout en utilisant les familles comme levier de chantage.
-
-7. **Maximiser les gains personnels d'Edorian avant la transition** : Edorian cherche à accumuler le maximum de richesses avant que le nouveau conseil ne prenne le pouvoir. Il doit blanchir l'argent, préparer son évacuation, et s'assurer que son magot personnel est en sécurité.
-
-8. **Gérer les soupçons concernant Melian et la menace de Palyr** : Edorian se doute que Melian a trahi vers Palyr, qui est désormais au courant de toutes les malversations. Palyr peut utiliser cette information comme levier de négociation ou de chantage, créant une menace majeure pour le conseil. Le conseil doit gérer cette situation explosive sans éclater publiquement.
-
-9. **Survivre à l'inondation et protéger les coffres** : Face à la crise de l'inondation, le conseil doit coordonner les efforts de sauvetage, protéger les documents confidentiels, et assurer que les coffres les plus précieux sont sécurisés. Chaque membre a un rôle crucial : Edorian dirige les opérations, Vaelric gère la communication, Ydria supervise l'évacuation des fonds, Selvara protège les registres, et Horgrim coordonne la sécurité.
-
-10. **Maintenir la réputation de l'UBI malgré les malversations** : Le conseil doit préserver l'image publique de la banque comme pilier financier de la Confédération, même si cela signifie dissimuler la vérité et manipuler l'information. La confiance du public et des institutions est essentielle pour la survie de l'organisation.
+L'avenir de l'UBI et de la confédération dépendra de la capacité du conseil à maintenir la confiance du public et des institutions pendant cette période de changement. La tension est palpable, et chaque membre du conseil doit faire preuve de loyauté et de détermination pour préserver l'intégrité de la banque.
 
 ---
 
-*Template créé pour la standardisation des backs de groupe - GN Krondaar 2026*
+## Composition du Groupe
+
+| Nom | Rôle | Éléments Clés |
+|-----|------|---------------|
+| **Edorian** | Directeur | Héritier d'une lignée de directeurs. Dirige les opérations de la banque. Expérience de vingt ans dans la gestion bancaire. |
+| **Vaelric Dorn** | Discréteur | Maître des secrets et de la communication. Responsable de la gestion des scandales et de l'image publique de la banque. |
+| **Ydria Ventoss** | Trésorière | Fille d'un marchand ruiné, a juré de ne jamais connaître la misère. Contrôle le flux de l'or physique. Talent reconnu pour les chiffres et la gestion financière. |
+| **Selvara Quenndral** | Archiviste | Issue d'une famille de mages érudits ruinés. Seule à connaître par cœur les numéros et codes des coffres. Gardienne des registres et des sceaux magiques. |
+| **Horgrim Dval** | Chef de la Garde | Homme exilé de sa cité clanique, fidèle depuis vingt ans. A formé la garde privée selon une discipline militaire stricte. Aucun coffre n'a jamais été pillé sous sa surveillance. |
+| **Melian Torv** | Conseiller Spirituel | Ancien moine de l'Église de la Flamme. Apporte une dimension morale et spirituelle aux décisions du conseil. Bénit les coffres et conseille sur l'éthique des investissements. |
+| **Kaelen Veynar** | Champion | Bras droit d'Horgrim, responsable du périmètre extérieur. Champion de guerre réputé, formé par Horgrim. Entraîne les recrues de la garde. |
+| **Sybrel Dornik** | L'Ombre | Issue des bas-fonds d'une grande cité portuaire. Spécialiste des opérations discrètes et de la surveillance intérieure. Experte des méthodes des voleurs. |
+| **Corvus** | Gardien de Coffres | Ancien marchand, recruté il y a 3 ans grâce à d'excellentes références de la Guilde des Ports Unis. Méthodique et discret. Connaît parfaitement la disposition des coffres. |
