@@ -1,0 +1,4 @@
+# Ignore les fichiers PDF et PPTX
+*.pdf
+*.pptx
+._*
