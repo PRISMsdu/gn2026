@@ -1,0 +1,36 @@
+---
+description: Prose sobre pour joueurs — codex, livrets, backs de rôle, fiches GN (style histoire_confederation).
+alwaysApply: true
+---
+
+# Rédaction textes joueurs et supports GN
+
+Règle par défaut pour toute rédaction ou révision destinée aux **joueurs** : codex (`codex/`), backs de groupe ou de rôle (`Groupes/`), livrets, gazette, pièces type contrats livrés aux joueurs (`Contrats_et_Livres/` quand le ton est joueur), et tout support équivalent. Sur demande explicite, s’applique aussi aux textes joueurs hors de ces dossiers.
+
+## Référence de ton
+
+Prendre pour référence le registre du chapitre « La Confédération des Trois Îles » dans `codex/Monde/histoire_confederation.md` : phrases complètes, informations posées une par une, vocabulaire du monde (lieux, institutions, métiers) sans surcharge littéraire.
+
+## À faire
+
+- Enchaîner sujet — verbe — complément ; privilégier un fait ou un nom propre par phrase quand c’est possible.
+- Dire qui fait quoi, où, avec quel instrument (contrat, route, cité, chiffre si utile).
+- Garder les listes courtes et homogènes ; en tête de puce ou de ligne utile, utiliser le format **Intitulé** : détail (cohérent avec la règle `markdown-gras-intitules` du dépôt).
+
+## À éviter
+
+- Métaphores gratuites ou images usées (cœur battant, symbole, vibrante, à vol d’oiseau, tenir pour vrai, ce n’est pas du folklore, etc.).
+- Formules d’auteur qui commentent le texte lui-même (« le lecteur comprendra », « il suffit de savoir », « peu de gens savent »).
+- Antithèses et paradoxes décoratifs pour « donner du style ».
+- Accumulations d’adjectifs (véritable, crucial, inestimable) si un seul mot concret suffit.
+- Ton ironique ou de leçon sur le jeu ou les joueurs.
+
+## Longueur
+
+- Paragraphes de quelques phrases ; éviter le monologue d’une demi-page sans respiration.
+- Si le contenu est technique (distances, po), un tableau ou une liste va mieux qu’un paragraphe dense.
+
+## Cohérence
+
+- Respecter les noms canon (Ulghart, Andulin, Escalèche, etc.) déjà fixés dans le dépôt.
+- Ne pas dupliquer tout un document technique dans le texte joueur : résumer, puis renvoyer vers la fiche technique si besoin.

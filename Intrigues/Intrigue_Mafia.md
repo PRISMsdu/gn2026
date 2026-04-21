@@ -1,109 +1,107 @@
-# Infiltration et Chantage - Intrigue de Groupe
+# Infiltration et chantage — Intrigue de groupe
 
-## Informations Générales
-- **Nom de l'intrigue** : Infiltration et Chantage
-- **Groupe concerné** : Mafia - Les Sangs de la Steppe
-- **Type d'intrigue** : Infiltration, Chantage, Manipulation politique
+<!--
+  DOCUMENT ORGA UNIQUE pour le groupe. Récit joueurs : `Back_Mafia.md`.
+-->
 
+## Informations générales
 
-## Contexte et Situation
+- **Nom de l'intrigue** : Infiltration et chantage
+- **Groupe concerné** : Mafia — Les Sangs de la Steppe
 
-### Situation Initiale
-Les Sangs de la Steppe ont établi un réseau tentaculaire dans la Confédération du Levant, mais leur objectif principal est de fragiliser la stabilité de la Confédération pour servir les intérêts secrets de la République de Styrgie. Le renouvellement imminent du conseil de la banque d'Il-Irion représente une opportunité unique de créer des tensions et de déstabiliser les flux financiers, tout en favorisant les factions séparatistes d'Arthas et Ther-Felis.
+---
 
-La mafia dispose déjà d'informateurs dans plusieurs institutions clés et de documents compromettants sur certaines familles nobles. Leur stratégie est de créer des dissensions internes qui affaiblissent la Confédération, permettant à la Styrgie de récupérer discrètement les deux grandes cités continentales (Arthas et Ther-Felis) qui l'avaient quittée il y a 350 ans sous la pression de l'Empire Tchélène.
+## Lecture rapide orga (scénaristes)
 
-### Objectifs
-- La mafia sait qu'il y a une potentielle vente d'arguethain entre un groupe de marchand et les cités. Ils doivent tout faire pour empêcher cette vente pour affaiblir les 5 cités et créer des tensions.
-- La mafia a des contacts avec les prétendants au poste de directeur de l'UBI des groupes d'Arthas et Ther-Felis (personnes représentant les factions qui souhaitent le retour des cités en Styrgie)
-- La mafia a des moyens de pression sur les représentants des 3 autres cités (Il-Irion, Sfaal, Palyr) pour qu'ils ne se présentent pas à la direction, laissant le champ libre aux candidats pro-Styrgie
-- Elle veut mettre la main sur le tripot, car elle sait que c'est une plaque tournante d'argent et d'information, idéale pour surveiller et manipuler les élites
-- Créer des scandales et des tensions entre les cités pour fragiliser l'unité confédérale et favoriser les mouvements séparatistes
-
-### Contexte Historique
-Il y a 15 ans, la République de Styrgie a créé de toute pièce l'organisation criminelle des Sangs de la Steppe dans le but de fragiliser la Confédération du Levant. Depuis leur création, les Sangs de la Steppe ont progressivement infiltré la Confédération, développant leur spécialité dans la manipulation des documents, le chantage politique et l'extorsion des élites locales.
-
-Le nom "Les Sangs de la Steppe" est en réalité un leurre soigneusement orchestré par la Styrgie pour laisser croire que cette mafia trouve ses origines au sein de l'Empire Tchélène. Cette désinformation stratégique permet à la Styrgie de brouiller les pistes et de détourner les soupçons, faisant passer l'organisation pour une menace extérieure venue des terres tchélènes plutôt que pour un instrument de déstabilisation contrôlé depuis la République de Styrgie.
-
-La Styrgie cherche à récupérer Arthas et Ther-Felis, les deux grandes cités qui l'avaient quittée il y a 350 ans sous la pression de l'Empire Tchélène. La stratégie est de créer des dissensions internes dans la Confédération pour affaiblir les liens entre les cités et favoriser les mouvements séparatistes, tout en maintenant l'illusion que les Sangs de la Steppe sont une organisation indépendante d'origine tchélène.
-
-### Enjeux
-- **Enjeu principal** : Fragilisation stratégique de la Confédération pour permettre à la Styrgie de récupérer Arthas et Ther-Felis par des moyens politiques et économiques
-- **Enjeux secondaires** : Déstabilisation des flux financiers, création de tensions politiques entre les cités, enrichissement personnel, maintien de la peur chez les élites, infiltration des institutions clés
-
-## Objectifs
-
-### Objectif Principal
-Créer des tensions et des crises qui fragilisent la Confédération, en particulier entre les cités continentales (Arthas, Ther-Felis) et les cités insulaires (Il-Irion, Sfaal, Palyr), permettant à la Styrgie de récupérer discrètement Arthas et Ther-Felis par des moyens politiques et économiques.
-
-### Objectifs Secondaires
-- Déstabiliser le nouveau conseil de la banque d'Il-Irion par des révélations compromettantes, en favorisant les candidats pro-Styrgie d'Arthas et Ther-Felis
-- Créer des tensions entre les cités de la Confédération, en particulier en exploitant les différences entre cités continentales et insulaires
-- Récupérer des documents compromettants pour maintenir la pression sur les élites et favoriser les factions séparatistes
-- Éliminer ou neutraliser les témoins gênants et les opposants à la réunification avec la Styrgie
-- Acheter ou mettre la main sur le tripot pour être au cœur des réseaux d'information et d'influence
-- Empêcher la vente d'arguethain pour affaiblir économiquement la Confédération et créer des tensions
-- est à l'origine du détournement de Fer de Sfaal vers et de son remaplcement d'un fer de mauvaise qualité
-
-## Acteurs et Parties Prenantes
-
-| Nom/Organisation | Type de Relation | Description de la Relation |
-|------------------|------------------|---------------------------|
-| Nouveau conseil de la banque | Ennemi/Cible | Cibles à compromettre ou éliminer, sauf les candidats pro-Styrgie d'Arthas et Ther-Felis |
-| Factions séparatistes d'Arthas | Allié | Partenaires secrets, souhaitent le retour en Styrgie |
-| Factions séparatistes de Ther-Felis | Allié | Partenaires secrets, souhaitent le retour en Styrgie |
-| Familles nobles d'Il-Irion | Ennemi | Cibles d'extorsion et de chantage pour affaiblir l'influence insulaire |
-| République de Styrgie | Allié | Commanditaire secret, bénéficiaire des opérations, financement et protection |
-| Ancien conseil de la banque | Neutre | Peut fournir des informations sur les nouveaux représentants |
-| Tripot | Cible | Cherche à acheter le tripot pour contrôler les flux d'information |
-| Groupe de marchands (arguethain) | Ennemi | Doivent empêcher la vente d'arguethain pour créer des tensions |
-| Cités insulaires (Il-Irion, Sfaal, Palyr) | Ennemi | Doivent être affaiblies pour favoriser la séparation des cités continentales |
-
-## Ressources et Moyens
-
-### Ressources Disponibles
-- **Financières** : Fonds provenant du racket et de l'extorsion
-- **Matérielles** : Réseau de relais clandestins, documents compromettants
-- **Humaines** : Réseau d'informateurs, contacts corrompus, hommes de main
-- **Informationnelles** : Documents falsifiés, preuves de malversations, correspondances secrètes
-
-## Plans et Stratégies
-
-### Plan Principal
-1. **Collecte d'informations** : Identifier les nouveaux représentants du conseil et leurs faiblesses, en particulier ceux d'Arthas et Ther-Felis favorables à la Styrgie
-2. **Déstabilisation** : Révéler des informations compromettantes pour créer des tensions, en ciblant particulièrement les liens entre cités insulaires et continentales
-3. **Division** : Exploiter les rivalités entre cités pour fragiliser l'unité confédérale, en accentuant les différences entre cités continentales (Arthas, Ther-Felis) et insulaires (Il-Irion, Sfaal, Palyr)
-4. **Infiltration politique** : Favoriser les candidats pro-Styrgie au poste de directeur de l'UBI en neutralisant les opposants des autres cités
-5. **Pression économique** : Empêcher la vente d'arguethain et créer des crises financières pour affaiblir la Confédération
-6. **Contrôle de l'information** : Prendre le contrôle du tripot pour surveiller et manipuler les élites
-7. **Négociation secrète** : Permettre à la Styrgie de négocier discrètement avec les factions séparatistes d'Arthas et Ther-Felis
-
-## Composition du Groupe
-
-### Rôles Nécessaires
-- **Chef de famille** : Direction des opérations, prise de décisions stratégiques
-- **Expert en extorsion** : Collecte d'informations compromettantes, chantage
-- **Infiltrateur** : Espionnage, collecte de renseignements
-- **Homme de main** : Intimidation, protection, élimination
-- **Coordinateur** : Gestion des réseaux, organisation des opérations
-- **Alchimiste interrogateur** : Soins, interrogatoires, poisons et antidotes
-- **Négociateur/Diplomate** : Interface avec les contacts extérieurs, négociations
-- **Maître des réseaux** : Gestion des informateurs, communication sécurisée
-
-## Secrets et Informations Sensibles
-- **Identité des nouveaux représentants du conseil** : Informations obtenues par les réseaux, à révéler progressivement, en particulier les candidats pro-Styrgie d'Arthas et Ther-Felis
-- **Documents compromettants dans les coffres** : Preuves de malversations stockées dans la banque, à récupérer lors de l'infiltration pour faire pression sur les opposants
-- **Liens secrets avec la République de Styrgie** : Alliance secrète et financement, à révéler uniquement en cas de crise majeure ou de succès
-- **Le nom "Les Sangs de la Steppe" comme leurre** : Le nom de l'organisation est une désinformation stratégique de la Styrgie pour faire croire que la mafia trouve ses origines dans l'Empire Tchélène, permettant de brouiller les pistes et de détourner les soupçons
-- **Contacts avec les factions séparatistes** : Réseau de partisans d'Arthas et Ther-Felis souhaitant le retour en Styrgie, à protéger absolument
-- **Localisation des relais clandestins** : Réseau de refuges et de contacts, à révéler selon les besoins
-- **Comptes secrets de familles nobles** : Informations financières compromettantes, connues par l'expert en extorsion, particulièrement celles des cités insulaires
-- **Correspondances secrètes** : Lettres compromettantes entre familles, stockées dans les coffres, à utiliser pour créer des tensions
-- **Plans d'infiltration des assemblées** : Stratégies détaillées pour influencer les décisions politiques en faveur de la Styrgie
-- **Rivalités entre cités continentales et insulaires** : Tensions historiques à exploiter pour fragiliser l'unité confédérale
-- **Orchestration du scandale de Staal** : Action passée qui fit tomber un patriarche marchand, conséquences possibles et méthodes réutilisables
-- **Informations sur la vente d'arguethain** : Détails de la transaction à saboter pour créer des tensions économiques
+- **Fil principal** : fragiliser la Confédération au profit de la **République de Styrgie** ; les cadres savent que **MiVI → Sangs** est la chaîne de finance et de consignes ; le narratif public reste flou (leurre steppe / tchélène).
+- **Tensions** : stagnation ~3 ans sur les dossiers sensibles ; le **MiVI** peut resserrer les relances à l’approche de la **régate** et du **renouvellement du conseil UBI**.
 
 
 ---
-*Template créé pour la standardisation des intrigues - GN Krondaar 2026*
+
+## Situation et contexte
+
+Réseau **illégal** sans capitale unique — maillons dans plusieurs cités de la Confédération ; visibilité publique limitée au **mythe** (steppe, codes tribaux). 
+
+La couverture de la mafia est la Guilde des Ports Unis, voir structure_guile_ports_unis.md.
+
+Les Sangs ont été montés par la **Styrgie** il y a ~15 ans pour déstabiliser la Confédération et préparer des leviers sur les cités continentales. Le **MiVI** (services du Primat) pilote la mafia : fonds, ordres, pression.
+
+Les **trois dernières années**, le bilan remonté au MiVI est jugé insuffisant (Tripot, UBI, doubles ventes, routes). L’échéance **régate + mandat UBI** est une fenêtre de rattrapage : ce sont les **boss** qui portent la ligne.
+
+L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécutée avec la **Guilde des Ports Unis** et des **Pirates d’Albar**, reste un dossier vif : les Sangs ont payé les pirates pour orienter le **bon fer** vers **Aquiléa** et non vers la Styrgie ; le **paiement** lié à cette manœuvre est encore **en suspens** pendant le GN. Contacts règlement : **Korran Vesper** (pirates) ↔ **Raven** (Sangs). Le bon fer a **disparu** ensuite — tension **MiVI** si le dossier refait surface.
+
+---
+
+## Objectifs
+
+- **Tripot** : Imposer une mainmise ou un accord de domination sur le **casino du fort d’Ulghart** (équipe de Marda) ; utiliser les flux pour presser l’UBI et les élites.
+- **Banquiers - UBI** : Infiltrer **coffres et archives** pour récupérer des documents compromettants ; influencer le **renouvellement du conseil** (priorités pro-**Arthas** / **Ther-Félis** là où ça sert la ligne Styrgie) ; chantage sur les cités à partir des preuves obtenues.
+- **Il-Irion** : Affaiblir le bloc insulaire ; exploiter la connaissance partielle d’un **détournement** lié à la banque ; chercher **preuves** et **leviers** sur les grandes familles.
+- **Ther-Félis** : Coordonner avec le **séparatiste pro-Styrgie** de la délégation (*nom orga à fixer*) et les moyens de bascule utiles à la Styrgie.
+- **Arthas** : Favoriser **candidatures ou appuis** alignés Styrgie à la Convention ; synchroniser avec le **contact séparatiste** (*nom orga à fixer*).
+- **Palyr** : Acquérir des **informations** (dont fils sur le détournement bancaire) ; croiser **régate**, docks et enjeux **fer**. La Mafia connait le nom de Mélian au tripot qui a des sources sures.
+- **Sfaal** : Maintenir le **chantage** sur le dossier **fer** et la complicité **sceau** (CORRESP-004, `Intrigue_Sfaal.md`) ; Sfaal ne sait pas que la mafia tient le **double jeu** ; pression sur le représentant ayant prêté le sceau (*nom orga à fixer*).
+- **La Compagnie du Dolmen Rouge (Voleurs 1)** : Bloquer ou salir la vente d’**Arguétheim** (sabotage, corruption, incident). La Mafia ne connait pas le groupe de la companie mais a entendu qu'il y avait une opération de transmutation or->arguethaim possible durant la régate. Ils savent que très peu d'alchimiste le peuvent et que certains ingédients sont très rares.
+- **MiVI** : Rattraper le **retard** sur les priorités fixées ; anticiper une **pression** ; être prêt à rendre des comptes sur le **fer** et **Aquiléa**.
+- **Les Sangs (interne)** : Viser une **retraite** avec **sortie négociée** au **MiVI** ; leviers : **or** des pirates, **documents compromettants**, et **rapport interne** sur la création de la **Guilde des Ports Unis** et des **Sangs** ; achat d’**informations** en général (Palyr, Tripot, tout canal utile).
+
+---
+
+## Interactions autre groupe
+
+| Nom / organisation | Type de relation | Description de la relation |
+|--------------------|------------------|----------------------------|
+| **République de Styrgie** / **MiVI** | Commanditaire | Finance, consignes, relances ; assumé par les cadres des Sangs. |
+| **Tripot** | Allié de circonstance / cible | Casino fort d’Ulghart ; négociation de mainmise |
+| **Banquiers - UBI** | Cible | Coffres, mandat, personnel et conseil sortant. |
+| **Il-Irion** | Cible | Grandes familles, élections, régate. |
+| **Palyr** | Cible / terrain | Coffres, régate, docks, pression croisée avec le fer. |
+| **Ther-Félis** | Levier | Délégation et griefs portuaires / financiers. |
+| **Arthas** | Levier | Candidatures et alternative bancaire hostile à l’UBI. |
+| **Sfaal** | Cible variable | Dossier fer, complice sceau, délégation. |
+| **La Compagnie du Dolmen Rouge (Voleurs 1)** | Adversaire sur Gorvan | Vente Arguétheim. |
+| **Pirates d’Albar** | Exécutants (PNJ) | Op. fer en mer ; paiement des Sangs en jeu. |
+| **Aquiléa** | Volet géopolitique (hors groupe PJ) | Destination du bon fer détourné. |
+
+---
+
+## Identité du groupe (orga)
+
+### Rôles nécessaires
+
+| Nom du personnage | Rôle | Compétences | Classe | Joueur |
+|-------------------|------|-------------|--------|--------|
+| Kaelan Thormane | Chef de famille | Stratégie, arbitrage **MiVI** / ligne styrgienne | *selon table* | *à compléter* |
+| Vorak Ironhand | Second / coordinateur | Opérations majeures, cellules, relais | *selon table* | *à compléter* |
+| Gareth Ironfist | Homme de main | Intimidation, protection, neutralisation | *selon table* | *à compléter* |
+| Drask Bloodmoon | Alchimiste interrogateur | Soins, interrogatoires, poisons | *selon table* | *à compléter* |
+| Shadow | Infiltrateur & expert en extorsion | Infiltration, chantage, documents — *nom de code* | *selon table* | *à compléter* |
+| Raven | Maître des réseaux & négociateur | Informateurs, interfaces externes | *selon table* | *à compléter* |
+
+### Documents additionnels
+
+- **Récit joueurs** : `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Back_Mafia.md` (renvoi depuis `Historique_Mafia.md`)
+- `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Operations_Guilde_Ports_Unis.md`
+- `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Creation_Guilde_Ports_Unis.md`
+
+
+### Culture et dynamique interne
+
+- **Pression MiVI** : bilan jugé insuffisant depuis ~3 ans ; les **boss** sont sur le terrain pour l’échéance (régate, mandat UBI).
+- **Tensions** : famille vs enrichissement personnel ; mythe tchélène vs initiés **styrgiens** ; doubles ventes de secrets ; dossier **fer / pirates / Aquiléa** ; **Shadow** et **Raven** : casquettes lourdes (surcharge, rivalités).
+- **Symboles / ambiance** : allégeances ritualisées, docks et tripots, tout se négocie.
+
+---
+
+## Secrets et informations sensibles
+
+- **Styrgie / MiVI** : connu des cadres ; révélation progressive possible pour les autres groupes à la table.
+- **Leurre tchélène / steppe** : couverture extérieure ; pas la confusion interne au réseau.
+- **Pression MiVI** : relances si les dossiers majeurs (Tripot, UBI, preuves, fer) stagnent encore.
+- **Coffres UBI** : CORRESP, fil Valdris, pièces « guerre » ou compromettantes pour la Styrgie.
+- **Opération fer 544–545** : chaîne MiVI → substitution en mer → **Palyr** reçoit du mauvais fer ; **CORRESP-004** / complice **Sfaal** ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
+- **Scandale de Staal (~12 ans)** : cohérence avec archives et chantage actuel sur familles.
+
+---
+*GN Krondaar 2026 — `Groupes/_templates/0 - Intrigues/template_intrigue.md`*

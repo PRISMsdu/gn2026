@@ -1,0 +1,16 @@
+---
+description: Commande d’export PDF des backs de groupe (référence rapide).
+alwaysApply: false
+---
+
+# Export PDF back de groupe
+
+**Tâche Cursor / VS Code** : palette de commandes → « Tasks: Run Task » → **Export PDF — Back groupe MiVI** (défini dans `.vscode/tasks.json`).
+
+**Ligne de commande** (depuis la racine du dépôt) :
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File "Scripts/export_back_groupe.ps1" -MarkdownPath "Groupes/MiVI/1 - Back de groupe/Back_groupe_MiVI.md"
+```
+
+Autre groupe : adapter `-MarkdownPath` ou utiliser `-BackGroupeFileName` + `-BackGroupeDirectory`. Sortie : PDF horodaté dans le même dossier que le `.md`.

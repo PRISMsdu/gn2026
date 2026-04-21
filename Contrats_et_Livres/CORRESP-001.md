@@ -3,8 +3,8 @@
 ## Métadonnées du Document
 - **Type** : Correspondance compromettante
 - **Format** : Lettre personnelle manuscrite
-- **Date** : Le 12 du mois de Ventôse de l'an 1524
-- **De** : Seigneur Marcus Valdris, Chef de la Maison Valdris
+- **Date** : Le 12 du mois de Ventôse de l'an mil-cinq-cent-trente-neuf
+- **De** : Dame Lysara Valdris, Cheffe de la Maison Valdris
 - **À** : Dame Elara Thornwood, épouse du marchand Thoren Thornwood
 - **Lieu d'origine** : Manoir Valdris, Il-Irion
 - **État** : Parchemin avec plis, tache d'encre dans le coin supérieur droit, parfum léger de rose fanée
@@ -33,7 +33,7 @@ Soyez assurée de ma discrétion, tant que vous respecterez nos arrangements.
 
 *[Signature illisible, mais le sceau de la Maison Valdris est apposé en bas de la lettre]*
 
-Marcus Valdris
+Lysara Valdris
 
 ---
 

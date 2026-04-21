@@ -1,0 +1,12 @@
+---
+description: Markdown — gras uniquement sur l’intitulé avant « : », pas sur tout le texte
+globs: "**/*.md"
+alwaysApply: true
+---
+
+# Gras en Markdown (prose GN)
+
+- Réserver le gras (`**...**`) aux **intitulés** qui précèdent immédiatement un **deux-points** (`:`), en début de puce ou de ligne utile : par exemple `**Fil principal** : une phrase…`, `**Nom** : valeur`.
+- Ne pas mettre en gras les mots à l’intérieur du corps de phrase, ni les noms propres en série, ni les termes pour « insister » : la lisibilité vient de la structure (titres, listes, tableaux), pas du gras répété.
+- Exceptions rares : titres de documents ou noms de code en en-tête de section si le template l’exige ; éviter le gras dans les cellules de tableau sauf ligne du type `**Libellé** : …` si le format le permet.
+- Si une phrase n’a pas de structure « sujet : détail », ne pas ajouter de gras pour décorer.

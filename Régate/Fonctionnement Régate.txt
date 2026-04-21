@@ -1,0 +1,13 @@
+Le classement de la régate donne l’ordre du choix des postes au conseil de l'UBI.
+-	Directeur
+-	Conseiller spirituel
+-	Trésorier
+-	Archiviste
+-	Chef de la garde
+
+
+Points de régate :
+- esthétisme des bateaux
+- régate course
+- régate épreuve
+

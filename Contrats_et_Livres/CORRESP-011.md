@@ -1,0 +1,17 @@
+# CORRESP-011 - Message codé (copie saisie — Sybrel Dornik)
+
+## Métadonnées du document
+- Type : Note codée — copie d'archive interne Sangs
+- Format : Bandelette de papier, chiffres et symboles
+- Date : l'an mil-cinq-cent-quarante-six (circulation récente)
+- De / À : identifié après déchiffrage comme relais **Sybrel Dornik** (Ombre, UBI) ↔ « nid » (réseau Sangs)
+
+---
+
+## Contenu déchiffré (sens opérationnel)
+
+« Tunnels niveau trois — rotation de garde : fenêtre demi-lune. Rien sur les coffres rouges avant signal du chef. »
+
+---
+
+*Référence pour jeu : prouve la coordination entre Sybrel et le réseau sans exposer tout le code ; la garde (Horgrim) ignore souvent le détail des échanges.*

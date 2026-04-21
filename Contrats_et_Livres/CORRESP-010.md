@@ -1,0 +1,20 @@
+# CORRESP-010 - Fragment de message vers Palyr (Melian Torv)
+
+## Métadonnées du document
+- Type : Fragment de lettre — saisie partielle
+- Format : Papier fin, encre violette, pli brûlé sur un bord
+- Date : (illisible) — estimée l'an mil-cinq-cent-quarante-cinq
+- De : **Melian Torv**, conseiller spirituel de l'UBI
+- À : contact à **Palyr** (nom du destinataire arraché)
+
+---
+
+## Contenu lisible
+
+*[...] les taux sur les scellés privés ne peuvent plus rester dans les coffres sans lecture. Si le conseil refuse la consolidation ouverte, **Palyr** doit disposer des chiffres avant la régate — autrement nous brûlerons tous sur le même feu que **Edorian***[...]*
+
+*[Suite manquante.]*
+
+---
+
+*Référence pour jeu : compromet Melian (ligne Palyr / tension avec Edorian) ; utile pour pression croisée banque–cités.*

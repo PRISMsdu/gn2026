@@ -1,0 +1,24 @@
+# CORRESP-021 - Reconnaissance de dette satellite (Tripot — jetons)
+
+## Métadonnées du document
+- Type : Reconnaissance manuscrite — copie client
+- Format : Papier teinté, pas d’en-tête banque UBI
+- Date : l'an mil-cinq-cent-quarante-six
+- Créancier désigné : **« maison satellite »** (prêteur lié au bar des paris secondaires)
+- Débiteur : initiales **M.T.** — témoin : initiales **V.** (pisteur)
+
+---
+
+## Contenu
+
+Reconnaissance de **soixante-deux jetons d’or équivalent** reportés sur trois séances, intérêts **un sur dix** par lune, payable en **faveurs** (introductions, silence sur main, accès couloir) si le liquide fait défaut.
+
+En cas de défaut : transmission du billet au **Trésor de salle** et aux **collecteurs** habilités.
+
+*[Empreinte de pouce — illisible.]*
+
+---
+
+*Référence pour jeu : pièce tangible pour le **secret** addiction / dettes du PJ **Miraen Talvas** ; les autres PJ ne l’ont pas dans le back commun — découverte en jeu.*
+
+*Registre UBI : **UBI-026** — `Registre_UBI.md`.*

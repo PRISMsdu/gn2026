@@ -1,0 +1,171 @@
+/*
+  Styles d’export pour backs de groupe (HTML → PDF).
+  Fond : page blanche uniquement (pas d’image de fond — marges stables avec @page).
+*/
+
+/*
+  PDF multi-pages : marges texte via @page (25 mm chaque côté, chaque feuille).
+*/
+@page {
+  size: A4;
+  margin: 25mm;
+}
+
+html {
+  background-color: #ffffff;
+  margin: 0;
+}
+
+body.back-groupe-document {
+  margin: 0 auto;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  color: #1a1a1a;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10pt;
+  line-height: 1.45;
+  /* Aperçu navigateur : même retrait que les marges PDF */
+  width: 210mm;
+  max-width: 210mm;
+  padding: 25mm;
+  min-height: 297mm;
+}
+
+#contenu-markdown {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+#contenu-markdown h1,
+#contenu-markdown h2,
+#contenu-markdown h3 {
+  font-weight: 600;
+  color: #1a2f1f;
+  text-align: left;
+  hyphens: manual;
+  -webkit-hyphens: manual;
+}
+
+#contenu-markdown h1 {
+  font-size: 1.35rem;
+  margin-top: 0;
+}
+
+#contenu-markdown h2 {
+  font-size: 1.15rem;
+  margin-top: 1.25em;
+  border-bottom: 1px solid rgba(26, 47, 31, 0.2);
+  padding-bottom: 0.2em;
+}
+
+#contenu-markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+
+#contenu-markdown th,
+#contenu-markdown td {
+  border: 1px solid rgba(26, 47, 31, 0.35);
+  padding: 0.4em 0.5em;
+  text-align: left;
+  vertical-align: top;
+}
+
+#contenu-markdown th {
+  background: rgba(250, 252, 249, 0.65);
+}
+
+#contenu-markdown hr {
+  border: none;
+  border-top: 1px solid rgba(26, 47, 31, 0.25);
+  margin: 1.25rem 0;
+}
+
+@media print {
+  html {
+    background-color: #ffffff;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body.back-groupe-document {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    min-height: auto;
+    background-color: #ffffff;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
+.entete-back-groupe {
+  margin-bottom: 0;
+}
+
+/* Cartouche + bandeau (remplis par export_back_groupe.ps1) */
+
+.cartouche-back-groupe {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin: 0 0 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border: 2px solid #1a4d2e;
+  border-radius: 6px;
+  background: #ffffff;
+  max-width: 100%;
+}
+
+.cartouche-back-groupe .cartouche-logo {
+  flex: 0 0 auto;
+}
+
+.cartouche-back-groupe .cartouche-logo img {
+  display: block;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.cartouche-back-groupe .cartouche-texte {
+  flex: 1 1 12rem;
+  min-width: 0;
+}
+
+.cartouche-back-groupe .cartouche-titre {
+  margin: 0;
+  padding: 0;
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #1a2f1f;
+  font-family: Georgia, "Times New Roman", serif;
+  text-align: left;
+  hyphens: manual;
+}
+
+.bandeau-separateur,
+.bandeau-fin-document {
+  margin: 1.25rem 0;
+}
+
+.bandeau-fin-document {
+  margin-top: 1.25rem;
+  margin-bottom: 0;
+}
+
+.bandeau-separateur img,
+.bandeau-fin-document img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}

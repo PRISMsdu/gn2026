@@ -18,4 +18,4 @@ Chaque cité, à l'exception de **Palyr** et **Staal**, nomme également un cons
 Cette structure de gouvernance assure une représentation équilibrée et une stabilité politique au sein de la confédération.
 
 ## Population
-Très peuplées à l'exception de **Palyr** et **Staal**, bon nombre des citoyens sont de riches commerçants ou des marins. La Confédération dispose de troupes mercenaires redoutables. Elle entretient en permanence entre **10 000** et **50 000** mercenaires très expérimentés (en fonction des besoins et des circonstances), mais certains prétendent qu'ils sont en réalité beaucoup moins que ça, bien que le nombre communiqué officiellement soit en leur faveur.
+Très peuplées à l'exception de **Palyr** et **Staal**, bon nombre des citoyens sont de riches commerçants ou des marins. La Confédération dispose de troupes mercenaires redoutables. Elle entretient en permanence entre **10 000** et **50 000** mercenaires très expérimentés (en fonction des besoins et des circonstances), mais certains prétendent qu'ils sont en réalité beaucoup moins que ça, bien que le nombre communiqué officiellement est un leurre.

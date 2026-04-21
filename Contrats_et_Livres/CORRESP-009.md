@@ -1,0 +1,24 @@
+# CORRESP-009 - Gage de remise (Pirates d'Albar)
+
+## Métadonnées du document
+- Type : Billet de gage / reconnaissance maritime
+- Format : Parchemin tanné, encre salée, marque d'ancre
+- Date : 2 du mois de Ventôse de l'an mil-cinq-cent-quarante-six
+- De : **Korran Vesper**, capitaine reconnu sur les eaux d'Albar
+- À : Kaelan Thormane (mentionné par titre : « le Faucon »)
+
+---
+
+## Contenu
+
+*[Style laconique]*
+
+Trois sacs marqués au sceau du corbeau. Remise au point convenu après la cloche du second gardien.
+
+Si retard d'une marée, la cargaison repart en rade et le prix est majoré d'un dixième.
+
+Signé d'une croix et du nom **Korran Vesper**.
+
+---
+
+*Référence pour jeu : trace matérielle d'une remise d'or avec les pirates ; à croiser avec `Groupes/PNJs/Scene_remise_or_mafia.md` si présent.*

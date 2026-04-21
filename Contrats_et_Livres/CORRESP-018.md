@@ -1,0 +1,29 @@
+# CORRESP-018 - Note de service (MiVI — détachement Corvel, Cognelot)
+
+## Métadonnées du document
+- Type : Note pliée, encre sympathique (réagit à la chaleur — lecture brève)
+- Format : Billet sans en-tête ; filigrane : ligne brisée (symbole interne Primat)
+- Date : 12 du mois de Prairial de l'an mil-cinq-cent-quarante-sept
+- De : bureau **M.** (MiVI, Elfrion)
+- À : **T. Corvel**, chef de détachement — lecture puis destruction recommandée
+
+---
+
+## Contenu (lisible après chauffe)
+
+Priorités sur la fenêtre **Ulghart / Convention** :
+
+1. **Fer** — Opération 544–545 : obtenir des **noms** et une chaîne **chiffrée** (mer, pirates, Palyr, Sfaal, sort du bon minerai). Sans cela, le reste ne compte pas pour la ligne.
+2. **UBI** — Passation conseil : nominations compatibles avec le rapprochement **Arthas / Ther-Félis** ; en parallèle localiser ou neutraliser les preuves de **guerre** contre la République (coffres, archives, correspondances).
+3. **Tripot** — Exploiter la friction **mafia–casino** sans spectacle ; le pisteur **Varek** reste l’entrée naturelle sur les flux d’élite.
+4. **Routes** — Faire pencher escales et rabais vers les **intermédiaires** liés à Arthas et Ther-Félis (voir annexe séparée **CORRESP-020**) ; éviter tout déclenchement d’**embargo** ouvert.
+
+Rappel : couverture **civile** ; aucune bannière styrgienne ; le récit public sur les **Sangs** reste celui de la steppe.
+
+*[Initiales griffonnées : illisibles — à traiter comme ordre opposable en interne.]*
+
+---
+
+*Référence pour jeu : document tangible pour **Théven Corvel** et, en extrait contrôlé, pour l’équipe ; ne pas dupliquer à la chaîne dans les autres groupes.*
+
+*Registre UBI : **UBI-023** — `Registre_UBI.md`.*

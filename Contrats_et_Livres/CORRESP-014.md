@@ -1,0 +1,21 @@
+# CORRESP-014 - Marque d'encre sur linge (remise quai)
+
+## Métadonnées du document
+- Type : Marque de reconnaissance — pas de sceau officiel
+- Format : Tissu plié, encre indigo, odeur de goudron
+- Date : l'an mil-cinq-cent-quarante-six — avant régate
+- Contexte : remise entre équipage et messager terrestre (homme de main du réseau)
+
+---
+
+## Contenu
+
+Trois barres ; la du milieu brisée. À montrer au second poste de garde côté terre — pas au même homme que la semaine dernière.
+
+*[Aucun nom ; usage opérationnel pour escorte sans papier traceable.]*
+
+---
+
+*Référence pour jeu : variante « physique » du gage maritime ; ne remplace pas `CORRESP-009.md` mais évite de dupliquer le même fichier selon le personnage joueur.*
+
+*Registre UBI : **UBI-019** — `Registre_UBI.md`.*

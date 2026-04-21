@@ -1,0 +1,22 @@
+# CORRESP-013 - Écart de réserves (signature Ydria Ventoss)
+
+## Métadonnées du document
+- Type : Bordereau de caisse — double
+- Format : Registre déchiré puis recollé
+- Date : 11 du mois de Prairial de l'an mil-cinq-cent-quarante-cinq
+- Signé : **Dame Ydria Ventoss**, Trésorière de l'UBI
+- Mention : « écart justifié — fonds de roulement »
+
+---
+
+## Contenu
+
+Écart constaté entre stocks d'or physiques et registre ouvert au conseil : **-217 pièces d'or** sur la semaine.
+
+Justification manuscrite de Ydria : « déplacements préventifs — risque de révision ».
+
+Le document montre que la trésorière déplace de l'or sans trace publique complète ; utile pour négociation ou chantage modéré.
+
+---
+
+*Référence pour jeu : levier sur Ydria sans l'accabler totalement (elle peut riposter par d'autres dossiers).*

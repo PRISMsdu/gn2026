@@ -1,0 +1,28 @@
+# CORRESP-020 - Annexe routes — intermédiaires Arthas & Ther-Félis (régate)
+
+## Métadonnées du document
+- Type : Liste d’appoint — non officielle
+- Format : Papier filigrané « maison maritime » (couverture)
+- Date : l'an mil-cinq-cent-quarante-sept
+- Rédigée pour : délégation sous couverture **convention / experts** (ligne MiVI)
+
+---
+
+## Contenu
+
+**Objectif tactique** : orienter **enchères d’escales**, **rabais fret** et **sous-traitances** vers des maisons que nous pourrons **retourner** ensuite — priorité aux réseaux **séparatistes** utiles à la ligne **Arthas ↔ Ther-Félis** sans attaquer l’UBI de front.
+
+| Cible / intermédiaire | Attache | Levier typique | Rappel |
+|------------------------|---------|----------------|--------|
+| **Sera Orist** | Arthas — armateur secondaire (flotte légère) | Sous-enchère sur ligne Palyr–Il-Irion si rabais accordé | Ne pas confondre avec les navires d’apparat de la délégation officielle. |
+| **Jonn Halet** | Ther-Félis — facteur d’escales (mandataire) | Contrepartie : réservation de quai pour contrebande « grise » tolérée | Signature souvent par tiers — exiger le bon interlocuteur vivant. |
+| **Maison Veth & Roole** | Guilde des Ports Unis (couverture) | Billets à ordre différés — angle pression Sangs si besoin | Ne pas brûler la Guilde sans ordre explicite. |
+| **Point de rendez-vous** | Quai **B** — avant-poste lanterne **jaune** (troisième nuit de régate) | Contact transitoire délégué Arthas | Voir aussi `Intrigues/Délégation Arthas.md` pour le contexte coffres UBI. |
+
+*[Note en marge : « si embargo murmuré — tout arrêter »]*
+
+---
+
+*Référence pour jeu : **Lucan Drest** en premier lieu ; **Théven Corvel** valide l’usage politique ; croiser avec `Routes_marchandes_confederation.md` et `Intrigue_MiVI.md`.*
+
+*Registre UBI : **UBI-025** — `Registre_UBI.md`.*

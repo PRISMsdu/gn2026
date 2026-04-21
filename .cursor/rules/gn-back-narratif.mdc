@@ -1,0 +1,15 @@
+---
+description: Back_groupe — document joueur collectif (rôle d’équipe), récit immersif long
+globs: "**/Back_groupe*.md"
+alwaysApply: false
+---
+
+# Back_groupe — exigence narrative (Krondaar)
+
+Chaîne documentaire : `Intrigues/Intrigue_*.md` (orga) → **`Back_groupe_*.md`** (rôle remis à **tout** le groupe) → `role_joueur_*.md`. Voir `Groupes/_templates/README.md`.
+
+- Viser une **mini-nouvelle** distribuable aux joueurs : ton littéraire, immersion, rythme, pas seulement une liste d’objectifs.
+- **Longueur** : au moins l’équivalent de **cinq pages A4** en corps **11 pt**, marges standard, interligne simple ou 1,15 (ordre de grandeur : **~2 500 mots** minimum pour le texte narratif hors tableaux techniques ; ajuster si police ou marges différentes).
+- Inclure de préférence : **origines** des PJ ou de l’entité, **comment le groupe s’est formé** ou s’est lié, **scènes** ou images fortes mémorables, en cohérence avec `Intrigues/Intrigue_*.md`.
+- Les **secrets** réservés à un seul joueur ou au MJ ne vont **pas** dans le back partagé : les renvoyer vers l’intrigue orga ou la fiche perso.
+- Respecter par ailleurs la règle Markdown du dépôt sur le **gras** (intitulés avant `:` dans les listes ; pas de sur-emphase dans la prose).
