@@ -119,13 +119,13 @@ Remplace l’ancien couple « contacts extérieurs + informations sensibles ».
 - **Un `##` par sujet** qui a une utilité en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement.  
 - Pour chaque sujet utile, donner au minimum : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d’attache** (banque, cité, guilde, fonction…).  
 - **Décrire le lien en une ou deux phrases** : nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Nommer les pièces de jeu** dont le joueur a besoin à table : codes du type `CORRESP-…`, `CONTRACT-…`, `DEBT-…`, etc. Aucun chemin de fichier ; pas d’outils de rédaction orga.
+- **Nommer les pièces de jeu** dont le joueur a besoin à table : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu’inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d’outils de rédaction orga.
 
 **Exemple de densité attendue**
 
 ## Prénom Nom — Maison ou famille (si utile), groupe / lieu
 
-Tu sais que [fait]. Il existe [preuve / pièce] : code **CORRESP-010** (ou autre), [ce que ça établit]. [Suite : ambiguïté, risque, ou consigne de jeu en une phrase.]
+Tu sais que [fait]. Il existe [preuve / pièce] : code **FL-III-545-002** (ou autre), [ce que ça établit]. [Suite : ambiguïté, risque, ou consigne de jeu en une phrase.]
 
 ---
 

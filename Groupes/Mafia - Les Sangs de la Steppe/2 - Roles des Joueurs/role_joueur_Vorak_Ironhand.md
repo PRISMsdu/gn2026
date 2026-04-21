@@ -103,20 +103,20 @@ Kaelan est ton point cardinal. Gareth reçoit de toi le rythme des intimidations
 
 ### Contacts extérieurs
 
-*(Les pièces ci-dessous sont distinctes de celles que le chef tient en référence directe — CORRESP-006 à 013 — pour éviter les mêmes correspondances entre fiches joueurs.)*
+*(Les pièces ci-dessous sont distinctes de celles que le chef tient en référence directe — **FC-III-544-001** à **BC-III-544-003** — pour éviter les mêmes correspondances entre fiches joueurs.)*
 
 | Personne | Groupe ou lieu d'attache | Type de relation | Lien |
 |----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Veille opérationnelle | `Contrats_et_Livres/CORRESP-005.md` — rapport arguethain / régate (piste que tu as cadrée pour le chef). |
-| Marda Velyss | Il-Irion — Tripot | Partenaire | Dette orale de salle — pas le même billet que `CORRESP-007.md` (détenu par Kaelan). |
-| Maître [nom à trouver] | Staal — imprimerie | Rumeur | `Contrats_et_Livres/CONTRACT-001.md` — contrat Sfaal–Palyr (acier) comme levier sur les nerfs des cités. |
+| Korran Vesper | Pirates d'Albar (PNJ) | Veille opérationnelle | RA-III-546-004 — rapport arguethain / régate (piste que tu as cadrée pour le chef). |
+| Marda Velyss | Il-Irion — Tripot | Partenaire | Dette orale de salle — pas le même billet que `RD-III-543-002` (détenu par Kaelan). |
+| Maître [nom à trouver] | Staal — imprimerie | Rumeur | CO-II-545-001 — contrat Sfaal–Palyr (acier) comme levier sur les nerfs des cités. |
 | [nom à trouver] | Les Sangs — autre chef | Rivalité | Méfiance respectueuse ; pas d'amitié. |
-| Edorian | UBI — direction | Cible | `Contrats_et_Livres/CONTRACT-002.md` — fer et sceau (angle logistique, pas le bordereau 006). |
-| Sybrel Dornik | UBI — Ombre | Actif | `Contrats_et_Livres/FALSIF-001.md` — reçu falsifié côté Palyr (autre entrée que le message codé 011). |
-| Maître Vaelric Dorn | UBI — Discréteur | Menace | `Contrats_et_Livres/FALSIF-002.md` — corruption falsifiée en circulation. |
-| Dame Ydria Ventoss | UBI — Trésorière | Levier | Recoupements sur les noms Ventoss / Forgefer ; le contrat `DEBT-001.md` est suivi par Gareth (autre angle). |
-| Melian Torv | UBI — conseiller spirituel | Faille | Recoupements oraux avec la ligne Palyr — sans le fragment `CORRESP-010.md` du dossier chef. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Ennemi | `Contrats_et_Livres/CORRESP-002.md` seul — exemple de mécanique de chantage (le chef détient le jeu complet 001–003). |
+| Edorian | UBI — direction | Cible | CO-II-547-001 — fer et sceau (angle logistique, pas le bordereau **FC-III-544-001**). |
+| Sybrel Dornik | UBI — Ombre | Actif | FA-III-546-003 — reçu falsifié côté Palyr (autre entrée que le message codé **MC-III-547-003**). |
+| Maître Vaelric Dorn | UBI — Discréteur | Menace | FA-III-547-002 — corruption falsifiée en circulation. |
+| Dame Ydria Ventoss | UBI — Trésorière | Levier | Recoupements sur les noms Ventoss / Forgefer ; le contrat `DE-II-546-001` est suivi par Gareth (autre angle). |
+| Melian Torv | UBI — conseiller spirituel | Faille | Recoupements oraux avec la ligne Palyr — sans le fragment `FL-III-545-002` du dossier chef. |
+| Cyrion Valdris | Il-Irion — Maison Valdris | Ennemi | CP-III-542-002 seul — exemple de mécanique de chantage (le chef détient le jeu complet **CP-III-542-001–CP-III-543-001**). |
 
 ## Informations sensibles
 

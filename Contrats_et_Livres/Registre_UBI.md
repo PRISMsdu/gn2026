@@ -2,98 +2,83 @@
 
 ## Informations Générales
 - **Institution** : Union Bancaire d'Il-Irion (UBI)
-- **Période couverte** : 50 dernières années (496-546)
-- **Responsable** : Directeur Edorian (depuis 541)
+- **Période couverte** : cinquante dernières années (498-547)
+- **Responsable** : Directeur Edorian (depuis 544)
 - **Localisation** : Citadelle d'Ulghart, Il-Irion
-- **Dernière mise à jour** : 547 (recensement **CORRESP-014** à **CORRESP-021**, détachement MiVI et quais ; mise à jour **CORRESP-008**)
+- **Dernière mise à jour** : 547 (recensement **MQ-II-547-004** à **RD-III-546-007**, détachement MiVI et quais ; mise à jour **CC-III-544-002**)
 
 ## Structure du Registre
 
 ### Colonnes du Tableau Principal
-| N° Enregistrement | Type de Document | Parties Impliquées | Description du Contenu | Déposé par | Date de Dépôt | Criticité | Statut | Format Document |
-|-------------------|------------------|-------------------|----------------------|------------|---------------|-----------|--------|-----------------|
-| UBI-001 | Contrat commercial | Sfaal ↔ Palyr | Fourniture de 10 tonnes d'acier pour 50 pièces d'or | Duc de Sfaal | 541 | 🟡 Sensible | Actif | CONTRACT-001 |
-| UBI-002 | Contrat de dette | Il-Irion ↔ Palyr | Prêt de 2000 ducats pour chantiers navals et production d'armes | Seigneur Aldric Ventoss | 543 | 🟡 Sensible | Actif | DEBT-001 |
-| UBI-003 | Correspondance compromettante | Dame Lysara Valdris ↔ Dame Elara Thornwood | Lettre de chantage révélant un adultère et exigeant un vote favorable au conseil de l'UBI | Déposant anonyme | 539 | 🟠 Très Sensible | Actif | CORRESP-001 |
-| UBI-004 | Correspondance compromettante | Dame Lysara Valdris ↔ Capitaine Thoren Blackwater | Lettre de chantage révélant un trafic d'alcool de contrebande et exigeant 30% des bénéfices | Déposant anonyme | 539 | 🟠 Très Sensible | Actif | CORRESP-002 |
-| UBI-005 | Correspondance compromettante | Dame Lysara Valdris ↔ Maître Aldric Portmaster | Lettre de chantage révélant des surtaxes portuaires illégales et détournement de 1500 pièces d'or | Déposant anonyme | 539 | 🟠 Très Sensible | Actif | CORRESP-003 |
-| UBI-006 | Contrat commercial | Sfaal ↔ Palyr | Fourniture de 20 tonnes de fer avec système de sceau de sécurité pour garantir l'authenticité et la qualité | Duc Thoren Forgefer | 544 | 🟡 Sensible | Actif | CONTRACT-002 |
-| UBI-007 | Correspondance compromettante | Expéditeur anonyme ↔ Maître Silas le Graveur | Lettre de demande de copie du sceau officiel de Sfaal pour falsification, rémunération de 200 pièces d'or | Déposant anonyme | 544 | 🟠 Très Sensible | Actif | CORRESP-004 |
-| UBI-008 | Document falsifié | Trésorerie de Palyr → Maître Thoren Forgefer | Reçu de transfert falsifié montrant un détournement de 570 pièces d'or des fonds publics vers le compte personnel du trésorier | Déposant anonyme | 545 | 🟠 Très Sensible | Actif | FALSIF-001 |
-| UBI-009 | Document falsifié | Capitaine Marcus Blackwater ↔ Maître Aldric Portmaster | Lettre de corruption falsifiée avec reçu de paiement de 320 pièces d'or en échange de l'approbation de contrats | Déposant anonyme | 545 | 🟠 Très Sensible | Actif | FALSIF-002 |
-| UBI-010 | Rapport d'agent | Agent "L'Ombre" → Kaelan Thormane | Rapport sur la vente potentielle d'arguethain pendant la régate, informations sur les parties impliquées et opportunités de sabotage | Déposant anonyme | 546 | 🟠 Très Sensible | Actif | CORRESP-005 |
-| UBI-011 | Fiche comptable (copie) | Détournements mandat — initiales « E. » | Bordereau interne reliant liquidité casino à report personnel présumé Edorian | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif | CORRESP-006 |
-| UBI-012 | Reconnaissance de dette | Marda Velyss → intermédiaire Sangs | Dette de salle et jetons non déclarés — Tripot | Copie conservée Sangs | 544 | 🟠 Très Sensible | Actif | CORRESP-007 |
-| UBI-013 | Correspondance commerciale | Maître Halwen Rask (Staal) → chroniqueur | Complaisance éditoriale sur récit de chute du patriarche marchand Orrin Malet | Saisie réseau Sangs | 543 | 🟠 Très Sensible | Actif | CORRESP-008 |
-| UBI-014 | Billet maritime | Korran Vesper → Kaelan Thormane | Gage de remise de sacs d'or — pirates d'Albar | Copie conservée Sangs | 546 | 🟠 Très Sensible | Actif | CORRESP-009 |
-| UBI-015 | Fragment de lettre | Melian Torv → Palyr (destinataire illisible) | Fuite d'informations sur scellés et taux — pression sur Edorian | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif | CORRESP-010 |
-| UBI-016 | Message codé (copie) | Sybrel Dornik ↔ réseau Sangs | Fenêtre de rotation et tunnels — coordination interne | Archive Sangs | 546 | 🟠 Très Sensible | Actif | CORRESP-011 |
-| UBI-017 | Placard anonyme | Auteur inconnu → circulation publique | Accusation de double vente de rumeurs ciblant le Discréteur | Copie conservée Sangs | 545 | 🟡 Sensible | Actif | CORRESP-012 |
-| UBI-018 | Bordereau de caisse | Ydria Ventoss — réserves UBI | Écart d'or « justifié » hors registre ouvert | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif | CORRESP-013 |
-| UBI-019 | Marque de quai | Guilde — remise informelle | Marque d'encre sur linge ; signal logistique escale | Saisie réseau Sangs | 546 | 🟡 Sensible | Actif | CORRESP-014 |
-| UBI-020 | Avis de conciliation | Fournisseur herbes ↔ initiales D.B. | Litige racines — trace hors greffe (angle pharmacie) | Saisie réseau Sangs | 545 | 🟡 Sensible | Actif | CORRESP-015 |
-| UBI-021 | Fragment de message | Infiltration — citadelle | Indices coffre nord / sceau secondaire avant conseil | Saisie réseau Sangs | 546 | 🟠 Très Sensible | Actif | CORRESP-016 |
-| UBI-022 | Tableau de relais | Initiales R. — quai Il-Irion | Grille marées, lanternes, séparation des couverts | Saisie réseau Sangs | 546 | 🟠 Très Sensible | Actif | CORRESP-017 |
-| UBI-023 | Note de service | Bureau M. (MiVI, Primat) → T. Corvel | Priorités Cognelot : fer, UBI, Tripot, routes — couverture civile | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif | CORRESP-018 |
-| UBI-024 | Grille de contact | Varek — Tripot, pisteur | Signaux rendez-vous, dé à coudre bleu, exclusions créneaux | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif | CORRESP-019 |
-| UBI-025 | Annexe commerciale | Arthas & Ther-Félis — intermédiaires | Sera Orist, Jonn Halet, Maison Veth & Roole ; quai B | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif | CORRESP-020 |
-| UBI-026 | Reconnaissance de dette | Initiales M.T. ↔ créancier satellite Tripot | Jetons, faveurs, témoin V. (pisteur) — bar paris secondaires | Copie recensée (archive confédérale) | 546 | 🟠 Très Sensible | Actif | CORRESP-021 |
+| N° Enregistrement (= code pièce, nom de fichier) | Type de Document | Parties Impliquées | Description du Contenu | Déposé par | Date de Dépôt | Criticité | Statut |
+|--------------------------------------------------|------------------|-------------------|----------------------|------------|---------------|-----------|--------|
+| CO-II-545-001 | Contrat commercial | Sfaal ↔ Palyr | Fourniture de 10 tonnes d'acier pour 1 500 couronnes | Duc de Sfaal | 545 | 🟡 Sensible | Actif |
+| DE-II-546-001 | Contrat de dette | Il-Irion ↔ Palyr | Prêt de 2000 ducats pour chantiers navals et production d'armes | Seigneur Aldric Ventoss | 546 | 🟡 Sensible | Actif |
+| CP-III-542-001 | Correspondance compromettante | Dame Lysara Valdris ↔ Dame Elara Thornwood | Lettre de chantage révélant un adultère et exigeant un vote favorable au conseil de l'UBI | Déposant anonyme | 542 | 🟠 Très Sensible | Actif |
+| CP-III-542-002 | Correspondance compromettante | Dame Lysara Valdris ↔ Capitaine Thoren Blackwater | Lettre de chantage révélant un trafic d'alcool de contrebande et exigeant 30% des bénéfices | Déposant anonyme | 542 | 🟠 Très Sensible | Actif |
+| CP-III-543-001 | Correspondance compromettante | Dame Lysara Valdris ↔ Maître Aldric Portmaster | Lettre de chantage révélant des surtaxes portuaires illégales et détournement de 1500 pièces d'or | Déposant anonyme | 543 | 🟠 Très Sensible | Actif |
+| CO-II-547-001 | Contrat commercial | Sfaal ↔ Palyr | Fourniture de 20 tonnes de fer avec système de sceau de sécurité pour garantir l'authenticité et la qualité | Duc Thoren Forgefer | 547 | 🟡 Sensible | Actif |
+| CP-III-546-002 | Correspondance compromettante | Expéditeur anonyme ↔ Maître Silas le Graveur | Lettre de demande de copie du sceau officiel de Sfaal pour falsification, rémunération de 200 pièces d'or | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
+| FA-III-546-003 | Document falsifié | Trésorerie de Palyr → Maître Thoren Forgefer | Reçu de transfert falsifié montrant un détournement de 570 pièces d'or des fonds publics vers le compte personnel du trésorier | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
+| FA-III-547-002 | Document falsifié | Capitaine Marcus Blackwater ↔ Maître Aldric Portmaster | Lettre de corruption falsifiée avec reçu de paiement de 320 pièces d'or en échange de l'approbation de contrats | Déposant anonyme | 547 | 🟠 Très Sensible | Actif |
+| RA-III-546-004 | Rapport d'agent | Agent "L'Ombre" → Kaelan Thormane | Rapport sur la vente potentielle d'arguethain pendant la régate, informations sur les parties impliquées et opportunités de sabotage | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
+| FC-III-544-001 | Fiche comptable (copie) | Détournements mandat — initiales « E. » | Bordereau interne reliant liquidité casino à report personnel présumé Edorian | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
+| RD-III-543-002 | Reconnaissance de dette | Marda Velyss → intermédiaire Sangs | Dette de salle et jetons non déclarés — Tripot | Copie conservée Sangs | 543 | 🟠 Très Sensible | Actif |
+| CC-III-544-002 | Correspondance commerciale | Maître Halwen Rask (Staal) → chroniqueur | Complaisance éditoriale sur récit de chute du patriarche marchand Orrin Malet | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
+| BM-III-546-005 | Billet maritime | Korran Vesper → Kaelan Thormane | Gage de remise de sacs d'or — pirates d'Albar | Copie conservée Sangs | 546 | 🟠 Très Sensible | Actif |
+| FL-III-545-002 | Fragment de lettre | Melian Torv → Palyr (destinataire illisible) | Fuite d'informations sur scellés et taux — pression sur Edorian | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif |
+| MC-III-547-003 | Message codé (copie) | Sybrel Dornik ↔ réseau Sangs | Fenêtre de rotation et tunnels — coordination interne | Archive Sangs | 547 | 🟠 Très Sensible | Actif |
+| PA-II-545-003 | Placard anonyme | Auteur inconnu → circulation publique | Accusation de double vente de rumeurs ciblant le Discréteur | Copie conservée Sangs | 545 | 🟡 Sensible | Actif |
+| BC-III-544-003 | Bordereau de caisse | Ydria Ventoss — réserves UBI | Écart d'or « justifié » hors registre ouvert | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
+| MQ-II-547-004 | Marque de quai | Guilde — remise informelle | Marque d'encre sur linge ; signal logistique escale | Saisie réseau Sangs | 547 | 🟡 Sensible | Actif |
+| AC-II-543-003 | Avis de conciliation | Fournisseur herbes ↔ initiales D.B. | Litige racines — trace hors greffe (angle pharmacie) | Saisie réseau Sangs | 543 | 🟡 Sensible | Actif |
+| FM-III-546-006 | Fragment de message | Infiltration — citadelle | Indices coffre nord / sceau secondaire avant conseil | Saisie réseau Sangs | 546 | 🟠 Très Sensible | Actif |
+| TR-III-547-005 | Tableau de relais | Initiales R. — quai Il-Irion | Grille marées, lanternes, séparation des couverts | Saisie réseau Sangs | 547 | 🟠 Très Sensible | Actif |
+| NS-III-547-006 | Note de service | Bureau M. (MiVI, Primat) → T. Corvel | Priorités Cognelot : fer, UBI, Tripot, routes — couverture civile | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif |
+| GC-III-547-007 | Grille de contact | Varek — Tripot, pisteur | Signaux rendez-vous, dé à coudre bleu, exclusions créneaux | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif |
+| AN-III-547-008 | Annexe commerciale | Arthas & Ther-Félis — intermédiaires | Sera Orist, Jonn Halet, Maison Veth & Roole ; quai B | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif |
+| RD-III-546-007 | Reconnaissance de dette | Initiales M.T. ↔ créancier satellite Tripot | Jetons, faveurs, témoin V. (pisteur) — bar paris secondaires | Copie recensée (archive confédérale) | 546 | 🟠 Très Sensible | Actif |
 
 ### Système de Numérotation
-- **Format** : `UBI-[N°]` (ex: UBI-001, UBI-002, etc.)
-- **Séquence** : Numérotation continue depuis 496
-- **Préfixes spéciaux** : 
+- **N° d’enregistrement** : identique au **code pièce** et au **nom de fichier** (sans `.md`), au format **`TT-R-YYY-NNN`** — voir la première colonne du tableau et la règle détaillée ci‑dessous.
+- **Séquence** : les entrées du tableau vivant ci-dessus concernent surtout les **trois à cinq dernières années** autour de l’an **547** ; le suffixe **`NNN`** est le rang **global dans l’année** de dépôt (voir *Date de Dépôt*).
+- **Références de pièces « physiques »** : chaque document porte un **code pièce** unique, **identique au nom de fichier** sans extension (ex. `CO-II-545-001`, `CP-III-542-001`). Détail du format : **`TT-R-YYY-NNN`** — `TT` = **deux lettres** (type ou template, voir grille ci‑dessous) ; `R` = **criticité en chiffres romains** alignée sur la zone de coffre : **I** (Standard), **II** (Sensible), **III** (Très sensible), **IV** (Critique) ; **`YYY`** = **année in-univers** du dépôt (colonne *Date de Dépôt*, sur **trois chiffres**) ; **`NNN`** = **numéro séquentiel dans l’année** (compteur **global** pour l’année : premier document déposé en 547 → `…-547-001`, suivant → `…-547-002`, etc., sur trois chiffres). Le fichier est `Contrats_et_Livres/TT-R-YYY-NNN.md`. L’**unicité** du code est garantie par le registre avant toute publication ou antidatation.
+- **Grille des deux lettres (`TT`)** : alignée sur les templates et les types d’archives — **CO** contrat commercial (CONTRACT) ; **DE** contrat de dette (DEBT) ; **AL** alliance (ALLIANCE) ; **SE** service (SERVICE) ; **EP** exploitation (EXPLOITATION) ; **EC** exclusivité (EXCLUSIVITY) ; **PR** protection (PROTECTION) ; **MA** mariage (MARRIAGE) ; **CP** correspondance compromettante ; **CC** correspondance commerciale ; **FA** document falsifié ; **RA** rapport d’agent ; **FC** fiche comptable ; **RD** reconnaissance de dette ; **BM** billet maritime ; **FL** fragment de lettre ; **MC** message codé ; **PA** placard anonyme ; **BC** bordereau de caisse ; **MQ** marque de quai ; **AC** avis de conciliation ; **FM** fragment de message ; **TR** tableau de relais ; **NS** note de service ; **GC** grille de contact ; **AN** annexe commerciale.
+- **Préfixes spéciaux** (hors schéma `TT-R-YYY-NNN`, usage interne rare) : 
   - `UBI-SEC-[N°]` pour les documents ultra-secrets
   - `UBI-TEMP-[N°]` pour les documents temporaires
 
-## Classification par Criticité
+## Criticité : définition, zone de coffres et accès
 
-### 🔴 Critique
-- **Définition** : Documents pouvant causer la chute de gouvernements, révélations de crimes majeurs, génocides
-- **Accès** : Directeur uniquement + 1 garde de confiance
-- **Exemples** : Plans de coups d'État, preuves de génocide, chantage sur dirigeants suprêmes
+Chaque rang aligne la **définition** (nature du risque si la pièce fuit), la **zone de coffres** (plage de numéros et niveau de sécurité physique) et les **personnes habilitées** à l’accès. Les codes pièce reprennent la criticité en **chiffres romains** : **IV** = Critique, **III** = Très Sensible, **II** = Sensible, **I** = Standard (voir aussi l’avis dépôt documents UBI).
+
+### 🔴 Critique 
+- **Définition** : documents pouvant causer la chute de gouvernements, révélations de crimes majeurs, génocides ; chantage sur dirigeants suprêmes.
+- **Zone de coffres** : verrouillage très élevé.
+- **Accès** : directeur avec **Corvus**, archiviste en chef et gardes.
+- **Exemples** : constitutions, plans de coups d’État, preuves de génocide ou de crimes majeurs, preuves de chantage sur dirigeants suprêmes.
 
 ### 🟠 Très Sensible
-- **Définition** : Scandales politiques majeurs, malversations importantes, chantage sur nobles
-- **Accès** : Conseil de direction + archiviste en chef
-- **Exemples** : Malversations bancaires, scandales sexuels de nobles, accords secrets entre cités
+- **Définition** : scandales politiques majeurs, malversations importantes, chantage sur nobles.
+- **Zone de coffres** : double verrouillage, gardes de jour.
+- **Accès** : conseil de direction + archiviste en chef.
+- **Exemples** : malversations bancaires, scandales sexuels de nobles, accords secrets entre cités, malversations et dossiers politiques sensibles.
 
-### 🟡 Sensible
-- **Définition** : Secrets commerciaux, affaires privées compromettantes, correspondances diplomatiques
-- **Accès** : Personnel autorisé + archivistes
-- **Exemples** : Contrats commerciaux sensibles, correspondances diplomatiques, dettes personnelles importantes
+### 🟡 Sensible ffaires privées compromettantes, correspondances diplomatiques, dettes personnelles importantes.
+- **Zone de coffres** :  verrouillage standard, surveillance.
+- **Accès** : personnel autorisé + archivistes.
+- **Exemples** : contrats commerciaux sensibles, correspondances diplomatiques, dettes importantes.
 
-### 🟢 Standard
-- **Définition** : Contrats normaux, correspondances publiques, documents administratifs
-- **Accès** : Personnel bancaire standard
-- **Exemples** : Prêts standards, contrats de mariage publics, testaments normaux
-
-## Zones de Coffres par Criticité
-
-### 🔴 Critique (Coffres 1-25)
-- **Sécurité** : Triple verrouillage, gardes 24h/24
-- **Accès** : Directeur + 1 clé de secours
-- **Exemples** : Constitutions, plans de coups d'État, preuves de crimes majeurs
-
-### 🟠 Très Sensible (Coffres 26-50)
-- **Sécurité** : Double verrouillage, gardes de jour
-- **Accès** : Conseil de direction + archiviste en chef
-- **Exemples** : Malversations, scandales politiques, accords secrets
-
-### 🟡 Sensible (Coffres 51-75)
-- **Sécurité** : Verrouillage standard, surveillance
-- **Accès** : Personnel autorisé + archivistes
-- **Exemples** : Contrats commerciaux, correspondances diplomatiques
-
-### 🟢 Standard (Coffres 76-100)
-- **Sécurité** : Verrouillage basique
-- **Accès** : Personnel bancaire standard
-- **Exemples** : Prêts standards, documents administratifs
+### 🟢 Standard 
+- **Définition** : contrats courants, correspondances publiques, documents administratifs, prêts courants.
+- **Zone de coffres** : verrouillage basique.
+- **Accès** : personnel bancaire standard.
+- **Exemples** : prêts standards, contrats de mariage publics, testaments normaux, documents administratifs courants.
 
 ## Types de Documents et Templates
 
 ### 1. Contrats Commerciaux
-- **Format** : `CONTRACT-[N°]`
+- **Format** : code pièce **`CO-R-YYY-NNN`** (fichier `CO-R-YYY-NNN.md`, voir colonne *N° Enregistrement* du tableau ; autres types de contrat : **DE**, **AL**, **SE**, **EP**, **EC**, **PR**, **MA** selon le template)
 - **Template** : En-tête officiel UBI, parties contractantes, clauses détaillées, signatures, sceaux officiels
 - **Exemples** : Fourniture de minerais, vente d'armes, accords commerciaux
 
@@ -113,7 +98,7 @@
 - **Exemples** : Testaments nobles, transferts de pouvoir, héritages
 
 ### 5. Correspondances Compromettantes
-- **Format** : `CORRESP-[N°]`
+- **Format** : code pièce **`CP-R-YYY-NNN`** (fichier `CP-R-YYY-NNN.md`, voir colonne *N° Enregistrement* du tableau ; correspondance commerciale : **CC**)
 - **Template** : Lettre personnelle, écriture cursive, taches, plis, parfum
 - **Exemples** : Liaisons secrètes, affaires extra-conjugales, révélations privées
 
@@ -171,11 +156,7 @@
 
 ## Règles de Sécurité
 
-### Accès aux Coffres
-1. **🔴 Critique** : Directeur + 1 garde de confiance
-2. **🟠 Très Sensible** : Conseil de direction + archiviste en chef
-3. **🟡 Sensible** : Personnel autorisé + archivistes
-4. **🟢 Standard** : Personnel bancaire standard
+Les **habilitations d’accès** et les **zones de coffres** par rang de criticité sont récapitulées dans la section **« Criticité : définition, zone de coffres et accès »** ci-dessus.
 
 ### Procédures de Consultation
 1. Demande écrite avec justification

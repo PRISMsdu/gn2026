@@ -105,10 +105,10 @@ Kaelan fixe le cadre ; Vorak le tempo ; Gareth la violence quand tu ne peux pas 
 
 | Personne | Groupe ou lieu d'attache | Type de relation | Lien |
 |----------|--------------------------|------------------|------|
-| Receveur anonyme / empreinte D.B. | Conciliation hors greffe | Chimie, sorties « propres » | `Contrats_et_Livres/CORRESP-015.md` — utile pour timings et traces distinctes des dossiers UBI centraux. |
-| Sybrel Dornik | UBI — Ombre | Tunnel | `Contrats_et_Livres/CORRESP-011.md` — angle chimique ; croisement possible avec d'autres PJ sur le même fil. |
-| Maître Vaelric Dorn | UBI — Discréteur | Récits | `Contrats_et_Livres/CORRESP-012.md` — crédibilité des récits vs. preuves physiques. |
-| Dame Ydria Ventoss | UBI — Trésorière | Or | `Contrats_et_Livres/CORRESP-013.md` — stress, pressions, narration financière. |
+| Receveur anonyme / empreinte D.B. | Conciliation hors greffe | Chimie, sorties « propres » | AC-II-543-003 — utile pour timings et traces distinctes des dossiers UBI centraux. |
+| Sybrel Dornik | UBI — Ombre | Tunnel | MC-III-547-003 — angle chimique ; croisement possible avec d'autres PJ sur le même fil. |
+| Maître Vaelric Dorn | UBI — Discréteur | Récits | PA-II-545-003 — crédibilité des récits vs. preuves physiques. |
+| Dame Ydria Ventoss | UBI — Trésorière | Or | BC-III-544-003 — stress, pressions, narration financière. |
 | Korran Vesper | Pirates d'Albar (PNJ) | Réseau maritime | Paiements et tensions liés au dossier fer — à synchroniser avec le chef et Raven. |
 
 ## Informations sensibles

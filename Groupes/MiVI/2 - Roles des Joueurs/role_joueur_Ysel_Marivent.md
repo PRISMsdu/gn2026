@@ -3,7 +3,7 @@
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
   Pas de chemins de fichiers ni de méta orga hors section « Connaissances ».
-  Dans « Connaissances » : codes de pièces (CORRESP-…, CONTRACT-…) conformément au template.
+  Dans « Connaissances » : **codes pièce** au format `TT-R-YYY-NNN` (voir `Registre_UBI.md` ; ex. `CP-III-542-001`, `CO-II-547-001`) conformément au template.
 -->
 
 Grandeur Nature Celtiana  
@@ -37,7 +37,7 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ysel Marivent |
-| Rôle dans le groupe | Renseignement ; priorité UBI — coffres, archives, CORRESP |
+| Rôle dans le groupe | Renseignement ; priorité UBI — coffres, archives, codes pièce |
 | Classe / profession | *(règlement — orga)* |
 | Groupe | MiVI (service du Primat, couverture civile) |
 | Points de vie | 3 |
@@ -83,7 +83,7 @@ Staal : correspondance qui filait vers une malle diplomatique. Le plan s'est dé
 
 ## Chapitre IV : Les défis actuels (Ulghart, UBI)
 
-Trente-cinq ans environ. Citadelle d'Ulghart, île d'Il-Irion, Convention. Ton terrain : coffres, archives du conseil, correspondances, CORRESP qui circulent comme des fièvres.
+Trente-cinq ans environ. Citadelle d'Ulghart, île d'Il-Irion, Convention. Ton terrain : coffres, archives du conseil, correspondances, **pièces codées** qui circulent comme des fièvres.
 
 Premier lot : traquer ce qui pourrait documenter une guerre imminente contre la Styrgie — avant qu'un concurrent confédéral ne l'emploie pour verrouiller opinion et budgets, ou avant que la transition de mandat ne referme les tiroirs que tu peux encore ouvrir. Localiser, substituer, effacer : Théven tranche le cadre ; toi tu exécutes le réel côté papier et sceau.
 
@@ -127,23 +127,23 @@ Les autres PJ ne sont pas tous briefés sur les angles personnels du Tripot : ce
 
 ## Sybrel Dornik — UBI (Ombre)
 
-Message codé saisi ; tunnels. Pièce : CORRESP-011.
+Message codé saisi ; tunnels. Pièce : MC-III-547-003.
 
 ## Maître Vaelric Dorn — UBI (Discréteur)
 
-Dénonciation anonyme qui le vise. Pièce : CORRESP-012.
+Dénonciation anonyme qui le vise. Pièce : PA-II-545-003.
 
 ## Melian Torv — UBI (conseiller spirituel)
 
-Fragment vers Palyr. Pièce : CORRESP-010. Avec Lucan, recouper avant une même scène coffre ou registre où Melian est présent.
+Fragment vers Palyr. Pièce : FL-III-545-002. Avec Lucan, recouper avant une même scène coffre ou registre où Melian est présent.
 
 ## Dame Ydria Ventoss — UBI (Trésorière)
 
-Écart de réserves ; signature Ydria. Pièce : CORRESP-013.
+Écart de réserves ; signature Ydria. Pièce : BC-III-544-003.
 
 ## Rapport d'agent (anonyme) — commerce gris, chaîne Arguethain
 
-Piste matérielle ; rumeur fer / guerre à cartographier. Pièce : CORRESP-005.
+Piste matérielle ; rumeur fer / guerre à cartographier. Pièce : RA-III-546-004.
 
 
 ---

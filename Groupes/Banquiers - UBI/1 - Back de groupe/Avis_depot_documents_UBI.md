@@ -10,19 +10,18 @@ L’Union reçoit papiers, parchemins et livres en dépôt : la maison en assure
 
 **Ce que l’on doit à la maison** : pour veiller sur les écrits et tenir les registres avec rigueur, une rémunération est due. Elle ne se mesure point en or pesé sur la table : elle se fonde sur la criticité du dépôt — c’est-à-dire sur ce que coûterait à la Confédération et au déposant la fuite, la perte ou la divulgation du bien confié.
 
-**Où la lire** : l’échelle de criticité et les droits afférents sont écrites au comptoir et reprises sur l’acte, afin que nul n’ignore ce qu’il s’engage à payer.
+**Où la lire** : l’échelle de criticité et les droits afférents sont écrites au comptoir et reprises sur l’acte, afin que nul n’ignore ce qu’il s’engage à payer. **Les quatre rangs** reprennent la même grille que le **grand registre** de l’Union (Standard, Sensible, Très Sensible, Critique) : le comptoir et le livre parlent un seul langage.
 
 ### Tableau de criticité
 
-Les droits de garde croissent du bas vers le haut. **Ce que fixe le comptoir** : les montants en monnaie courante, affichés et ajustés selon la saison et l’état de la Confédération. **Ce que fixe le présent tableau** : le sens des rangs, pour qu’accord et acte parlent le même langage.
+Les droits de garde croissent du bas vers le haut. **Ce que fixe le comptoir** : les montants en monnaie courante, affichés et ajustés selon la saison et l’état de la Confédération. **Ce que fixe le présent tableau** : le sens des quatre rangs, pour qu’accord et acte parlent le même langage.
 
-| Rang | Intitulé | Portée du risque si l’écrit fuit, se perd ou se lit sans permission |
-|------|----------|----------------------------------------------------------------------|
-| I | Commerce courant | Gêne pour le déposant ; peu d’éclat au-delà de sa maison ou de son comptoir. |
-| II | Sensible | Atteinte à la réputation, au crédit ou aux alliances privées ; rumeurs coûteuses. |
-| III | Confidentiel | Péril pour une entreprise, une flotte, un domaine ou une œuvre que l’on tenait secrète. |
-| IV | D’alliance | Engagement entre cités, dettes lourdes, scellés ou lettres qui feraient ployer une assemblée. |
-| V | Du plus haut sceau | Ce que la charte associe à la seconde mémoire et à l’approbation : le dépôt touche le cœur de la neutralité de l’Union. |
+| Rang | Criticité (registre) | Intitulé au comptoir | Portée du risque si l’écrit fuit, se perd ou se lit sans permission |
+|------|----------------------|----------------------|----------------------------------------------------------------------|
+| I | Standard | Commerce courant | Gêne pour le déposant ; peu d’éclat au-delà de sa maison ou de son comptoir ; contrats et écrits de circulation habituelle. |
+| II | Sensible | Sensible | Atteinte à la réputation, au crédit ou aux alliances privées ; rumeurs coûteuses ; secrets commerciaux ou correspondances délicates. |
+| III | Très Sensible | Du lourd secret | Péril pour une entreprise, une flotte ou un domaine tenu secret ; *ou* engagement entre cités, dettes lourdes, scellés ou lettres de nature à faire ployer une assemblée ou à ébranler plusieurs maisons. |
+| IV | Critique | Du plus haut sceau | Ce que la charte associe à la seconde mémoire et à l’approbation : le dépôt touche le cœur de la neutralité de l’Union ; risques qui pourraient faire chuter des têtes couronnées ou la confiance entre cités tout entières. |
 
 **Quand la payer** : ce qui couvre la période choisie doit être versé avant que l’on confie les écrits au lieu clos — sauf dispense rare, couchée par écrit sous le nom des services de la maison.
 
@@ -46,7 +45,7 @@ Les droits de garde croissent du bas vers le haut. **Ce que fixe le comptoir** :
 
 ## Des écrits qui pèsent lourd
 
-**Au-delà du seuil** : lorsque la criticité atteint le plus haut rang affiché au comptoir — ou lorsque l’écrit engage cités, dettes publiques ou scellés au sens de la charte — la maison applique la seconde mémoire et l’approbation prévues par les articles. Le déposant en est avisé ; il peut lui falloir patience avant que le sceau définitif ne soit posé.
+**Au-delà du seuil** : lorsque la criticité atteint le **quatrième rang** (critique) affiché au comptoir — ou lorsque l’écrit engage cités, dettes publiques ou scellés au sens de la charte — la maison applique la seconde mémoire et l’approbation prévues par les articles. Le déposant en est avisé ; il peut lui falloir patience avant que le sceau définitif ne soit posé.
 
 ---
 

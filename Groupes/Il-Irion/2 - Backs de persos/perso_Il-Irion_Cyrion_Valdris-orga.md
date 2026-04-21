@@ -36,7 +36,7 @@ Né dans la branche aînée des Valdris, élevé dans l'idée que le siège conf
 
 ### Carrière et Réalisations (25 ans - présent)
 
-Il consolide la Maison Valdris comme **voix diplomatique** d'Il-Irion : traités, assemblées, réputation. **Il y a huit ans**, sa mère **Dame Lysara Valdris** chute dans un **scandale public** : des lettres de chantage portant le sceau de la maison sont sorties d'un coffre de l'UBI (corpus **CORRESP-001 à 003**) ; les **Sangs de la Steppe** avaient orchestré le vol et la fuite. Lysara perd ses garanties et son autorité ; Cyrion **récupère le titre** et porte depuis l'héritage de cette « casserole » — tout adversaire peut rouvrir le dossier. Il y a dix ans, il soutient les mesures d'urgence (hausse des prix, réévaluation des prêts). Il y a cinq ans, il milite pour placer un conseil à l'UBI favorable aux familles — sans mesurer jusqu'où **Edorian** tirerait la couverture à lui seul. À l'échéance du mandat, il **se présente pour intégrer le nouveau conseil** de l'UBI : levier pour protéger les familles ou pour contrôler l'audit — selon ce que la table fera jouer.
+Il consolide la Maison Valdris comme **voix diplomatique** d'Il-Irion : traités, assemblées, réputation. **Il y a quatre ans**, sa mère **Dame Lysara Valdris** chute dans un **scandale public** : des lettres de chantage portant le sceau de la maison sont sorties d'un coffre de l'UBI (corpus **CP-III-542-001 à CP-III-543-001**) ; les **Sangs de la Steppe** avaient orchestré le vol et la fuite. Lysara perd ses garanties et son autorité ; Cyrion **récupère le titre** et porte depuis l'héritage de cette « casserole » — tout adversaire peut rouvrir le dossier. Il y a six ans, il soutient les mesures d'urgence (hausse des prix, réévaluation des prêts). Il y a trois ans, il milite pour placer un conseil à l'UBI favorable aux familles — sans mesurer jusqu'où **Edorian** tirerait la couverture à lui seul. À l'échéance du mandat, il **se présente pour intégrer le nouveau conseil** de l'UBI : levier pour protéger les familles ou pour contrôler l'audit — selon ce que la table fera jouer.
 
 ## Relations et Réseau
 
@@ -66,7 +66,7 @@ Il consolide la Maison Valdris comme **voix diplomatique** d'Il-Irion : traités
 ### Objectifs secrets
 
 - Savoir lequel des siens pourrait le lâcher pour sauver sa maison seule
-- **Empêcher la réactivation du dossier Lysara** : si les originaux du coffre 47 ou les CORRESP refont surface, sa candidature UBI et la coalition peuvent s'effondrer
+- **Empêcher la réactivation du dossier Lysara** : si les originaux du coffre 47 ou les pièces **CP-III-542-001 à CP-III-543-001** refont surface, sa candidature UBI et la coalition peuvent s'effondrer
 
 ## Intégration au Groupe
 

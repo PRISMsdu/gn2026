@@ -16,7 +16,7 @@
 **Objectif** : Remplacer le **fer de qualité** par du **fer médiocre** **en milieu de parcours** sur la **route maritime Sfaal → Palyr** ; les lots arrivant à Palyr doivent rester **crédiblement scellés** aux yeux du contrôle habituel.
 
 **Méthode** :
-- **Sceau** : un **complice à Sfaal** (contact payé par la mafia : fonctionnaire de scellerie, trésorerie ou magasin des mines — **PJ de la délégation Sfaal** à la table) permet la **sortie temporaire** du sceau officiel ; copie commandée à **Maître Silas le Graveur** (Il-Irion) — pièce [`CORRESP-004`](../../../Contrats_et_Livres/CORRESP-004.md) / UBI-007.
+- **Sceau** : un **complice à Sfaal** (contact payé par la mafia : fonctionnaire de scellerie, trésorerie ou magasin des mines — **PJ de la délégation Sfaal** à la table) permet la **sortie temporaire** du sceau officiel ; copie commandée à **Maître Silas le Graveur** (Il-Irion) — pièce [`CP-III-546-002`](../../../Contrats_et_Livres/CP-III-546-002.md) (n° d’enregistrement = nom de fichier).
 - **Lieu de l’échange** : **pas** à quai à Sfaal ni à l’arrivée à Palyr — **point convenu en mer**, sur la route (eaux de la **mer d’Albar**), où le convoi ou le navire de ligne est intercepté ou rejoint pour transbordement.
 - **Pirates d’Albar** : exécutants de l’**échange physique** des caisses (lots de bon fer retirés, lots de fer pourri rescellés avec la **réplique de sceau**). La guilde fournit **itinéraires, fenêtres horaires et parfois un navire légitime** en appui ou en leurre ; le geste décisif reste **pirates + substitution en mer**.
 - **Après l’échange** : le navire repart vers **Palyr** avec la cargaison **substituée** ; le **bon fer** est convoyé hors filière officielle.
@@ -25,11 +25,11 @@
 
 **Échec stratégique (option B — canon table)** : la **cargaison de bon fer** (y compris la part **attendue par des circuits styrgiens** / comptes MiVI) **n’a jamais rejoint** les destinations prévues après la prise en charge pirate : **perte réelle** — vol entre factions criminelles, revente, triple jeu, accident ou détournement interne au réseau. Le **MiVI** tient les **cadres des Sangs** pour **responsables** de la chaîne ; la **Styrgie** peut **exiger des comptes** via Elfrion — tension avec la **stagnation** déjà notée dans l’intrigue mafia.
 
-**Documents compromettants** : Stockés à la banque d'Il-Irion (à récupérer) — dont traces liées au **dossier fer** et à **CORRESP-004**.
+**Documents compromettants** : Stockés à la banque d'Il-Irion (à récupérer) — dont traces liées au **dossier fer** et à **CP-III-546-002**.
 
 ### 2. Transport de Lettres Compromettantes (545)
 
-**Objectif** : Transporter des copies ou reliques du dossier **Lysara Valdris** (lettres **CORRESP-001 à 003**) sans éveiller les soupçons — le maître de guilde **Torven Sorel** n’est pas un Valdris ; le contenu incrimine la **maison** de Cyrion
+**Objectif** : Transporter des copies ou reliques du dossier **Lysara Valdris** (lettres **CP-III-542-001 à CP-III-543-001**) sans éveiller les soupçons — le maître de guilde **Torven Sorel** n’est pas un Valdris ; le contenu incrimine la **maison** de Cyrion
 
 **Méthode** :
 - Les lettres ont été cachées dans des cargaisons légitimes de textiles

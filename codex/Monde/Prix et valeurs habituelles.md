@@ -24,6 +24,7 @@ Les prix **détail citadin** ; le **gros** (port, flotte) se négocie en rabais 
 | **Poisson** (kg, port du jour) | 10 à 20 cents | selon espèce et marée |
 | **Fer** (lingot marchand, kg, détail forge) | 18 à 32 cents | barre prête à travailler |
 | **Fer** (gros lot / cargaison, kg) | 6 à 12 cents | négocié à quai ou à la fonderie |
+| **Acier** (lingot ou barre affinée, qualité armes / fournitures militaires, gros contrat cité ou flotte, kg) | 12 à 24 cents | affinage et garantie ; les mêmes rabais de gros que pour le fer s’appliquent en négociation |
 | **Bois** (stère, 1 m³, bûches / chauffage) | 90 à 140 cents | 0,9 à 1,4 couronne |
 | **Bois** (madrier / charpente, le m³ équivalent livré) | 2,5 à 6 couronnes | selon essence et trait |
 | **Pierre** (brute, m³, carrière proche) | 1,4 à 2,8 couronnes | 140 à 280 cents |
@@ -55,7 +56,7 @@ Fourchettes **cité / foire** ; campagne, baisse possible.
 | **Petit vin** (pichet 50 cl, table commune) | 12 à 25 cents |
 | **Vin** (bouteille correcte, salle) | 45 à 120 cents |
 | **Eau-de-vie / spiritueux** (verre) | 20 à 60 cents |
-| **Soupe** + **pain** | 18 à 40 cents |
+| **Soupe** + **pain** | 6 à 16 cents — repas de subsistance ; ordinairement **bien en dessous** du kg de fer lingot en détail forge (voir *Matières premières*) |
 | **Plat du jour** (ragoût, légumes) | 35 à 70 cents |
 | **Repas** (viande, bière comprise) | 70 à 130 cents |
 | **Repas** (table « marchands », plusieurs plats) | 1,5 à 3 couronnes |

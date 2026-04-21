@@ -111,20 +111,20 @@ Kaelan te fait confiance utile, jamais totale — c'est le métier. Gareth te so
 
 | Personne | Groupe ou lieu d'attache | Type de relation | Lien |
 |----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Piste maritime | `Contrats_et_Livres/CORRESP-005.md` — rapport arguethain (coordonné avec Vorak, pas le gage 009 du chef). |
+| Korran Vesper | Pirates d'Albar (PNJ) | Piste maritime | RA-III-546-004 — rapport arguethain (coordonné avec Vorak, pas le gage **BM-III-546-005** du chef). |
 | Marda Velyss | Il-Irion — Tripot | Couverture | Nuit passée sous faux nom — pas la reconnaissance 007. |
-| Maître [nom à trouver] | Staal | Vol de copie | Tu n'as pas la lettre complète `CORRESP-008.md` — tu as arraché une épreuve avant tirage. |
-| Edorian | UBI — direction | Cible | `Contrats_et_Livres/CORRESP-016.md` — fragment brûlé sur coffres (indice d'accès). |
+| Maître [nom à trouver] | Staal | Vol de copie | Tu n'as pas la lettre complète `CC-III-544-002` — tu as arraché une épreuve avant tirage. |
+| Edorian | UBI — direction | Cible | FM-III-546-006 — fragment brûlé sur coffres (indice d'accès). |
 | Sybrel Dornik | UBI — Ombre | Dette personnelle / protection | Tu la connais depuis **avant** les Sangs ; elle est à la banque ; tu veux la **protéger** sans exposer ton choix d'alors ni fragiliser la mission. Croisements tunnels : vrai danger pour elle si le réseau **comprend** qui elle est. |
 | Maître Vaelric Dorn | UBI — Discréteur | Adversaire | Tu fabriques des fuites qu'il enterre — pas le placard 12 mot pour mot (Drask le cite). |
 | Dame Ydria Ventoss | UBI — Trésorière | Angle financier | Lecture des écarts par rumeurs de comptoir — pas le bordereau 13 en main. |
 | Melian Torv | UBI — conseiller spirituel | Faille | Confession simulée — sans le fragment 10 du dossier chef. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Cible | `Contrats_et_Livres/CORRESP-002.md` seul — une trame de chantage (le chef tient 001–003). |
+| Cyrion Valdris | Il-Irion — Maison Valdris | Cible | CP-III-542-002 seul — une trame de chantage (le chef tient **CP-III-542-001–CP-III-543-001**). |
 
 ## Informations sensibles
 
 - Ton identité réelle : si elle tombe, tu n'es plus un atout — tu es un otage qui connaît trop de coffres.
-- Rapport type « L'Ombre » : `Contrats_et_Livres/CORRESP-005.md` — billet d'agent vers Kaelan sur l'arguethain ; à toi de décider en jeu si c'est ta plume ou celle d'un prédécesseur.
+- Rapport type « L'Ombre » : RA-III-546-004 — billet d'agent vers Kaelan sur l'arguethain ; à toi de décider en jeu si c'est ta plume ou celle d'un prédécesseur.
 
 ---
 
@@ -138,4 +138,4 @@ Elle te **croit** peut-être encore du mauvais côté — couteau sans face, cel
 
 Quand la mission t'amène **contre** ou **à travers** l'UBI, tu es pris entre **deux loyautés** qui ne se parlent pas sur le même registre : rendre des comptes **sans** lui offrir en sacrifice ; **la couvrir** sans qu'elle doive t'aimer pour autant. Si elle te **voit** — vraiment —, tout peut basculer : reconnaissance, **panique**, ou les deux. Tu es prêt à **encaisser** sa méfiance si ça la garde vivante.
 
-*(Lien documentaire partagé avec d'autres angles mafia sur l'UBI : `Contrats_et_Livres/CORRESP-011.md` — message codé tunnels ; toi, tu joues la **couche humaine** seule, pas l'exclusivité du fil Drask/Raven.)*
+*(Lien documentaire partagé avec d'autres angles mafia sur l'UBI : MC-III-547-003 — message codé tunnels ; toi, tu joues la **couche humaine** seule, pas l'exclusivité du fil Drask/Raven.)*

@@ -107,17 +107,17 @@ Kaelan te donne les feux verts sur les gros parlements ; Vorak cadence les cellu
 
 | Personne | Groupe ou lieu d'attache | Type de relation | Lien |
 |----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Remises d'or | `Contrats_et_Livres/CORRESP-009.md` + `Groupes/PNJs/Scene_remise_or_mafia.md`. |
-| Marda Velyss | Il-Irion — Tripot | Casino | `Contrats_et_Livres/CORRESP-007.md`. |
-| Maître [nom à trouver] | Staal | Presse | `Contrats_et_Livres/CORRESP-008.md`. |
-| Torven Sorel | Guilde des Ports Unis (nom public) | Marchand | `Contrats_et_Livres/CONTRACT-001.md` — levier distinct du seul Tripot. |
-| Edorian | UBI — direction | Cible | `Contrats_et_Livres/CORRESP-006.md`. |
-| Sybrel Dornik | UBI — Ombre | Tunnel | `Contrats_et_Livres/CORRESP-011.md` (Drask : angle chimique ; toi : relecture des codes). |
-| Maître Vaelric Dorn | UBI — Discréteur | Récits | `Contrats_et_Livres/CORRESP-012.md` (Drask : crédibilité ; toi : tempo médiatique). |
-| Dame Ydria Ventoss | UBI — Trésorière | Or | `Contrats_et_Livres/CORRESP-013.md` (Drask : stress ; toi : narration politique). |
-| Melian Torv | UBI — conseiller spirituel | Palyr | `Contrats_et_Livres/CORRESP-010.md`. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Diplomatie | `Contrats_et_Livres/CORRESP-001.md`, `CORRESP-002.md`, `CORRESP-003.md` — aligné sur le dossier chef. |
-| — | Quai — relais internes | Logistique | `Contrats_et_Livres/CORRESP-017.md` — grille horaire / signaux (spécifique à ton rôle). |
+| Korran Vesper | Pirates d'Albar (PNJ) | Remises d'or | BM-III-546-005 + `Groupes/PNJs/Scene_remise_or_mafia.md`. |
+| Marda Velyss | Il-Irion — Tripot | Casino | RD-III-543-002. |
+| Maître [nom à trouver] | Staal | Presse | CC-III-544-002. |
+| Torven Sorel | Guilde des Ports Unis (nom public) | Marchand | CO-II-545-001 — levier distinct du seul Tripot. |
+| Edorian | UBI — direction | Cible | FC-III-544-001. |
+| Sybrel Dornik | UBI — Ombre | Tunnel | MC-III-547-003 (Drask : angle chimique ; toi : relecture des codes). |
+| Maître Vaelric Dorn | UBI — Discréteur | Récits | PA-II-545-003 (Drask : crédibilité ; toi : tempo médiatique). |
+| Dame Ydria Ventoss | UBI — Trésorière | Or | BC-III-544-003 (Drask : stress ; toi : narration politique). |
+| Melian Torv | UBI — conseiller spirituel | Palyr | FL-III-545-002. |
+| Cyrion Valdris | Il-Irion — Maison Valdris | Diplomatie | CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — aligné sur le dossier chef. |
+| — | Quai — relais internes | Logistique | TR-III-547-005 — grille horaire / signaux (spécifique à ton rôle). |
 
 ## Informations sensibles
 

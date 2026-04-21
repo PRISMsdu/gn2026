@@ -41,7 +41,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 - **Ther-Félis** : Coordonner avec le **séparatiste pro-Styrgie** de la délégation (*nom orga à fixer*) et les moyens de bascule utiles à la Styrgie.
 - **Arthas** : Favoriser **candidatures ou appuis** alignés Styrgie à la Convention ; synchroniser avec le **contact séparatiste** (*nom orga à fixer*).
 - **Palyr** : Acquérir des **informations** (dont fils sur le détournement bancaire) ; croiser **régate**, docks et enjeux **fer**. La Mafia connait le nom de Mélian au tripot qui a des sources sures.
-- **Sfaal** : Maintenir le **chantage** sur le dossier **fer** et la complicité **sceau** (CORRESP-004, `Intrigue_Sfaal.md`) ; Sfaal ne sait pas que la mafia tient le **double jeu** ; pression sur le représentant ayant prêté le sceau (*nom orga à fixer*).
+- **Sfaal** : Maintenir le **chantage** sur le dossier **fer** et la complicité **sceau** (**CP-III-546-002**, `Intrigue_Sfaal.md`) ; Sfaal ne sait pas que la mafia tient le **double jeu** ; pression sur le représentant ayant prêté le sceau (*nom orga à fixer*).
 - **La Compagnie du Dolmen Rouge (Voleurs 1)** : Bloquer ou salir la vente d’**Arguétheim** (sabotage, corruption, incident). La Mafia ne connait pas le groupe de la companie mais a entendu qu'il y avait une opération de transmutation or->arguethaim possible durant la régate. Ils savent que très peu d'alchimiste le peuvent et que certains ingédients sont très rares.
 - **MiVI** : Rattraper le **retard** sur les priorités fixées ; anticiper une **pression** ; être prêt à rendre des comptes sur le **fer** et **Aquiléa**.
 - **Les Sangs (interne)** : Viser une **retraite** avec **sortie négociée** au **MiVI** ; leviers : **or** des pirates, **documents compromettants**, et **rapport interne** sur la création de la **Guilde des Ports Unis** et des **Sangs** ; achat d’**informations** en général (Palyr, Tripot, tout canal utile).
@@ -99,8 +99,8 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 - **Styrgie / MiVI** : connu des cadres ; révélation progressive possible pour les autres groupes à la table.
 - **Leurre tchélène / steppe** : couverture extérieure ; pas la confusion interne au réseau.
 - **Pression MiVI** : relances si les dossiers majeurs (Tripot, UBI, preuves, fer) stagnent encore.
-- **Coffres UBI** : CORRESP, fil Valdris, pièces « guerre » ou compromettantes pour la Styrgie.
-- **Opération fer 544–545** : chaîne MiVI → substitution en mer → **Palyr** reçoit du mauvais fer ; **CORRESP-004** / complice **Sfaal** ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
+- **Coffres UBI** : pièces d’archive (codes pièce `TT-R-YYY-NNN`), fil Valdris, dossiers « guerre » ou compromettants pour la Styrgie.
+- **Opération fer 546–547** : chaîne MiVI → substitution en mer → **Palyr** reçoit du mauvais fer ; **CP-III-546-002** / complice **Sfaal** ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
 - **Scandale de Staal (~12 ans)** : cohérence avec archives et chantage actuel sur familles.
 
 ---

@@ -109,16 +109,16 @@ Hors du cercle serré, le Tripot au fort d'Ulghart et les milieux marchands de S
 
 | Personne | Groupe ou lieu d'attache | Type de relation | Lien |
 |----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Partenaire maritime — remises d'or | `Contrats_et_Livres/CORRESP-009.md` — gage de remise signé. |
-| Marda Velyss | Il-Irion — Tripot (fort d'Ulghart) | Alliée de circonstance — flux | `Contrats_et_Livres/CORRESP-007.md` — reconnaissance de dette de salle. |
-| Maître [nom à trouver] | Staal — imprimerie | Interface rumeur | `Contrats_et_Livres/CORRESP-008.md` — complaisance éditoriale ; noms à fixer. |
+| Korran Vesper | Pirates d'Albar (PNJ) | Partenaire maritime — remises d'or | BM-III-546-005 — gage de remise signé. |
+| Marda Velyss | Il-Irion — Tripot (fort d'Ulghart) | Alliée de circonstance — flux | RD-III-543-002 — reconnaissance de dette de salle. |
+| Maître [nom à trouver] | Staal — imprimerie | Interface rumeur | CC-III-544-002 — complaisance éditoriale ; noms à fixer. |
 | [nom à trouver] | Les Sangs — autre chef de famille | Rivalité | Paix de façade après arbitrage sur les relais du nord ; le nom du rival reste à cadrer en orga. |
-| Edorian | UBI — direction | Cible stratégique | `Contrats_et_Livres/CORRESP-006.md` — bordereau interne (initiales « E. »). |
-| Sybrel Dornik | UBI — Ombre | Actif / risque | `Contrats_et_Livres/CORRESP-011.md` — message codé. |
-| Maître Vaelric Dorn | UBI — Discréteur | Menace | `Contrats_et_Livres/CORRESP-012.md` — placard anonyme. |
-| Dame Ydria Ventoss | UBI — Trésorière | Levier financier | `Contrats_et_Livres/CORRESP-013.md` — bordereau d'écart. |
-| Melian Torv | UBI — conseiller spirituel | Faille Palyr | `Contrats_et_Livres/CORRESP-010.md` — fragment vers Palyr. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Ennemi de scène | `Contrats_et_Livres/CORRESP-001.md`, `CORRESP-002.md`, `CORRESP-003.md` — pression par l'héritage Lysara. |
+| Edorian | UBI — direction | Cible stratégique | FC-III-544-001 — bordereau interne (initiales « E. »). |
+| Sybrel Dornik | UBI — Ombre | Actif / risque | MC-III-547-003 — message codé. |
+| Maître Vaelric Dorn | UBI — Discréteur | Menace | PA-II-545-003 — placard anonyme. |
+| Dame Ydria Ventoss | UBI — Trésorière | Levier financier | BC-III-544-003 — bordereau d'écart. |
+| Melian Torv | UBI — conseiller spirituel | Faille Palyr | FL-III-545-002 — fragment vers Palyr. |
+| Cyrion Valdris | Il-Irion — Maison Valdris | Ennemi de scène | CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — pression par l'héritage Lysara. |
 
 ## Informations sensibles
 

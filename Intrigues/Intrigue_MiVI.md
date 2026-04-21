@@ -2,7 +2,7 @@
 
 <!--
   DOCUMENT ORGA pour le groupe MiVI (Styrgie). Équipe officieuse du service du Primat.
-  Récit joueurs : `Groupes/MiVI/1 - Back de groupe/Back_groupe_MiVI.md` — fiches rôles : `Groupes/MiVI/3 - Roles des Joueurs/` — pièces `Contrats_et_Livres/CORRESP-018.md` à `021.md` (README du dossier rôles) — sans secrets de personnage (addiction Tripot, etc.) dans le back partagé : voir section « Secret de personnage » ci-dessous ; fiche `role_joueur_Miraen_Talvas.md` + `CORRESP-021.md`.
+  Récit joueurs : `Groupes/MiVI/1 - Back de groupe/Back_groupe_MiVI.md` — fiches rôles : `Groupes/MiVI/3 - Roles des Joueurs/` — pièces **NS-III-547-006** à **RD-III-546-007** (voir `Contrats_et_Livres/README.md` et registre UBI) — sans secrets de personnage (addiction Tripot, etc.) dans le back partagé : voir section « Secret de personnage » ci-dessous ; fiche `role_joueur_Miraen_Talvas.md` + pièce **RD-III-546-007**.
   Croisements : [`Intrigue_Mafia.md`](Intrigue_Mafia.md), [`Intrigue_Tripot.md`](Intrigue_Tripot.md), [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md), [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md).
 -->
 
@@ -28,7 +28,7 @@
 
 Le MiVI (services du Primat, clin d’œil volontaire « élites » à la James Bond) est l’outil officieux de la République de Styrgie pour les opérations que ni les ambassades ni les armées ne peuvent assumer au grand jour. Depuis une quinzaine d’années, le MiVI pilote le montage des Sangs de la Steppe et, par là, la Guilde des Ports Unis — voir [`Intrigue_Mafia.md`](Intrigue_Mafia.md). La pression tchélène sur les imaginaires confédéraux masque le commanditaire réel : c’est une contrainte de scène pour le jeu, pas une option pour les joueurs MiVI de s’afficher « en couple » avec la mafia sur la place publique.
 
-Les trois dernières années, les bilans remontés à Elfrion sont jugés en retrait : résistance du Tripot au fort d’Ulghart, peu de levier obtenu sur la nomination au futur conseil UBI (partisans plutôt favorables à la réunion d’Arthas et de Ther-Félis — ligne Styrgie), doubles ventes, négociations de routes qui n’ont pas livré assez de marge. L’opération fer 544–545 (Sfaal–Palyr, Pirates d’Albar, sceau et complicité à Sfaal — canon [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md)) a été conçue par le MiVI et exécutée via la chaîne mafia / Guilde. Le bon fer a réellement disparu après coup ; la Styrgie veut des comptes — revente, vol interne, triple jeu — et peut pressionner les boss des Sangs sans attendre une version lisse.
+Les trois dernières années, les bilans remontés à Elfrion sont jugés en retrait : résistance du Tripot au fort d’Ulghart, peu de levier obtenu sur la nomination au futur conseil UBI (partisans plutôt favorables à la réunion d’Arthas et de Ther-Félis — ligne Styrgie), doubles ventes, négociations de routes qui n’ont pas livré assez de marge. L’opération fer 546–547 (Sfaal–Palyr, Pirates d’Albar, sceau et complicité à Sfaal — canon [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md)) a été conçue par le MiVI et exécutée via la chaîne mafia / Guilde. Le bon fer a réellement disparu après coup ; la Styrgie veut des comptes — revente, vol interne, triple jeu — et peut pressionner les boss des Sangs sans attendre une version lisse.
 
 En parallèle, des indices convergent vers des rapports (militaires, diplomatiques, financiers) détenus ou consolidés à l’UBI qui documenteraient une guerre imminente contre la Styrgie : les agents MiVI doivent les localiser, les voler, les contrefaire ou provoquer leur disparition — en concurrence avec d’autres acteurs qui chassent les mêmes pièces (services confédéraux, familles, corsaires d’archive).
 
@@ -46,7 +46,7 @@ Une rumeur de cellule de renseignement militaire confédéral aurait pour projet
 
 - **Rendre des comptes à Elfrion** : bilan chiffré sur les dossiers ouverts (Tripot, fer, mandat UBI / nominations au conseil pour la ligne Arthas–Ther-Félis, routes, agents locaux) — avec une ligne claire sur le fer disparu et les responsables côté Sangs.
 - **Resserrer la vis sur les cadres des Sangs** : exiger plans, ressources engagées, risques ; si le bilan flanche, déclencher une pression visible sur la famille (chef, seconds, coordinateurs) — sans sabotage gratuit de la Guilde des Ports Unis ni des relais stratégiques.
-- **Récupérer ou neutraliser les rapports** : « guerre imminente » supposés à l’UBI (coffres, CORRESP, archives conseil) — avant ou pendant la transition de mandat.
+- **Récupérer ou neutraliser les rapports** : « guerre imminente » supposés à l’UBI (coffres, pièces codées, archives conseil) — avant ou pendant la transition de mandat.
 - **Cartographier la chaîne or → Argheteim** : Sfaal, Palyr, Il-Irion, Voleurs / Gorvan selon table — trancher sabotage, fuite contrôlée, ou exploitation.
 - **Influencer une route ou une négociation marchande** : régate, appels d’offres, rabais sur escales — **priorité aux attributions qui profitent aux réseaux d’Arthas et de Ther-Félis** (séparatistes alignés Styrgie) et à leurs intermédiaires maritimes influençables ; par cette porte, **l’UBI** (nominations au conseil, flux, coffres) devient **plus contrôlable** qu’en attaquant la banque frontalement, tout en évitant l’embargo ouvert qui rallierait la Confédération.
 - **Ouvrir une fissure continent / îles** : rumeurs, preuves partielles, appuis contradictoires — sans victoire propre trop nette qui réconcilierait la Confédération.
@@ -75,7 +75,7 @@ Une rumeur de cellule de renseignement militaire confédéral aurait pour projet
 
 ### Informationnels
 
-- **Briefs** : Elfrion sur CORRESP, doublures UBI, et noms déjà connus côté mafia (aligner avec [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md) et documents `Contrats_et_Livres/`).
+- **Briefs** : Elfrion sur les **codes pièce** (`TT-R-YYY-NNN`), doublures UBI, et noms déjà connus côté mafia (aligner avec [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md) et dossier `Contrats_et_Livres/`).
 - **Carte** : des routes et enjeux — [`Routes_marchandes_confederation.md`](Routes_marchandes_confederation.md).
 
 ---
@@ -124,7 +124,7 @@ Le MiVI a constitué la cellule **séparément** (convocations dans une même sa
 | Nom du personnage | Rôle | Compétences | Classe | Joueur |
 |-------------------|------|-------------|--------|--------|
 | **Théven Corvel** | Chef de mission | Arbitrage Elfrion, pression sur Sangs, décision sur brûlage ; dossier fer | *selon table* | *à compléter* |
-| **Ysel Marivent** | Officier de renseignement (cible UBI) | Coffres, archives, CORRESP, concurrence services | *selon table* | *à compléter* |
+| **Ysel Marivent** | Officier de renseignement (cible UBI) | Coffres, archives, codes pièce, concurrence services | *selon table* | *à compléter* |
 | **Lucan Drest** | Négociateur / couverture « convention » | Régate, routes, salons, langues | *selon table* | *à compléter* |
 | **Varro Selt** | Infiltrateur ou exécutant | Neutralisation, extraction, violence maîtrisée | *selon table* | *à compléter* |
 | **Miraen Talvas** | Couverture salles / interface Tripot | Accès crédible casino (tables, codes, flux) ; **secret orga** addiction + dettes + contact principal — voir « Secret de personnage » | *selon table* | *à compléter* |
@@ -134,7 +134,7 @@ Le MiVI a constitué la cellule **séparément** (convocations dans une même sa
 ### Secret de personnage — contact Tripot, addiction, dettes (MJ + un PJ uniquement)
 
 - **Ne pas** recopier ce bloc dans `Back_groupe_MiVI.md` ni dans un document distribué à tout le groupe.
-- **Canon 2026** : le PJ concerné est **Miraen Talvas** — **contact principal** auprès du Tripot (crédibilité, accès tables, codes, visages) ; **addiction au jeu** ; **dettes** tenues par la maison ou des préteurs satellite — pression, rendez-vous imposés, faveurs, risque de **chantage** et de **fuite d’information** vers la mafia rivale, l’UBI ou des espions confédéraux. Pièce jouable : `Contrats_et_Livres/CORRESP-021.md` (cohérent avec `CORRESP-019.md`, témoin Varek). *(Si un autre PJ reprend l’arc en table, mettre à jour ce paragraphe et la fiche.)*
+- **Canon 2026** : le PJ concerné est **Miraen Talvas** — **contact principal** auprès du Tripot (crédibilité, accès tables, codes, visages) ; **addiction au jeu** ; **dettes** tenues par la maison ou des préteurs satellite — pression, rendez-vous imposés, faveurs, risque de **chantage** et de **fuite d’information** vers la mafia rivale, l’UBI ou des espions confédéraux. Pièce jouable : **RD-III-546-007** (cohérent avec **GC-III-547-007**, témoin Varek) — fichier `Contrats_et_Livres/RD-III-546-007.md` côté orga. *(Si un autre PJ reprend l’arc en table, mettre à jour ce paragraphe et la fiche.)*
 - Les **autres PJ** ne sont pas briefés dans le back commun : découverte **en jeu** ou brief MJ au cas par cas.
 - **Théven Corvel (chef)** : selon l’orga, briefé hors jeu sur l’existence du risque ou maintenu dans le flou jusqu’à incident.
 
@@ -157,7 +157,7 @@ Le MiVI a constitué la cellule **séparément** (convocations dans une même sa
 - **Chaîne MiVI → Sangs** : secret de mission ; révélation aux autres groupes PJ = bascule de thriller en guerre ouverte symbolique.
 - **Leurre steppe / tchélène** : ne pas le casser en vulgarisant « Styrgie » sur la place ; les MiVI jouent autre chose.
 - **Fer 544–545** : comptes réels demandés ; versions multiples sur la disparition — quelle vérité sort dépend des choix table.
-- **Rapports « guerre » à l’UBI** : existence probable ; localisation exacte à caler avec Intrigue_Banquiers et CORRESP.
+- **Rapports « guerre » à l’UBI** : existence probable ; localisation exacte à caler avec Intrigue_Banquiers et le registre des pièces.
 - **Or → Argheteim** : piste confédérale ; sabotage vs fuite décide la suite géopolitique micro (GN).
 - **Régate** : couverture de rencontre Sangs–Tripot — les MiVI peuvent écouter, orienter, ou déclencher un incident utile.
 - **Horizon** : moins de deux ans guerre au pire — indicateurs de réussite scénario : pression visible sur mafia sans effondrement du réseau ; piste fer claire ; rapports menacés ou neutralisés ; influence d’au moins une route ; fissure continent / îles ou entre cités.

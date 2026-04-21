@@ -3,7 +3,7 @@
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
   Pas de chemins de fichiers ni de méta orga hors section « Connaissances ».
-  Dans « Connaissances » : codes de pièces (CORRESP-…) conformément au template.
+  Dans « Connaissances » : **codes pièce** au format `TT-R-YYY-NNN` (voir `Registre_UBI.md` ; ex. `GC-III-547-007`, `RD-III-546-007`) conformément au template.
   Cette fiche contient des éléments non repris dans le back de groupe commun (voir Connaissances).
 -->
 
@@ -100,7 +100,7 @@ Tu te dois de sortir d'Ulghart avec la mission tenue et un nom encore maîtrisab
 
 Les comptes sur le fer et sur l'UBI ne se règlent pas à ta table : tu n'es pas le chef. Tu es la porte et l'oreille. Si tu fermes la porte par orgueil ou si tu l'ouvres par cupidité, le détachement paiera au quai et dans les archives. Tu portes cette vérité comme une veste lourde : elle ne se voit pas, elle alourdit chaque pas vers les lustres.
 
-Contact principal auprès du Tripot : crédibilité, accès tables, codes, visages — c'est toi que la maison et les satellites peuvent presser. Addiction au jeu : elle te rattache à la table au-delà de la mission ; elle peut te faire accepter des rendez-vous ou des faveurs qui servent d'autres camps (mafia rivale, UBI, espions confédéraux). Dettes tenues par la maison ou des préteurs satellite : chantage, fuites d'information, obligations impossibles à avouer au groupe sans coût dramatique — pièce tangible : CORRESP-021 (témoin V. = Varek). Les autres PJ ne sont pas briefés dans le back commun ; découverte en jeu ou brief MJ. Théven peut être tenu dans le flou ou briefé hors jeu selon décision orga.
+Contact principal auprès du Tripot : crédibilité, accès tables, codes, visages — c'est toi que la maison et les satellites peuvent presser. Addiction au jeu : elle te rattache à la table au-delà de la mission ; elle peut te faire accepter des rendez-vous ou des faveurs qui servent d'autres camps (mafia rivale, UBI, espions confédéraux). Dettes tenues par la maison ou des préteurs satellite : chantage, fuites d'information, obligations impossibles à avouer au groupe sans coût dramatique — pièce tangible : RD-III-546-007 (témoin V. = Varek). Les autres PJ ne sont pas briefés dans le back commun ; découverte en jeu ou brief MJ. Théven peut être tenu dans le flou ou briefé hors jeu selon décision orga.
 
 
 # Tes missions et objectifs
@@ -123,15 +123,15 @@ Contact principal auprès du Tripot : crédibilité, accès tables, codes, visag
 # Connaissances
 
 ## Varek — Tripot (pisteur / surveillance)
-Grille de contact : couloir bouteilles, dé à coudre bleu ; éviter de croiser les initiales G.I. le même jour. Pièce : CORRESP-019.
+Grille de contact : couloir bouteilles, dé à coudre bleu ; éviter de croiser les initiales G.I. le même jour. Pièce : GC-III-547-007.
 ## Marda Velyss — Tripot (gérante)
-Reconnaissance de dette de salle ; familles de l'Est / Sangs. Pièce : CORRESP-007.
+Reconnaissance de dette de salle ; familles de l'Est / Sangs. Pièce : RD-III-543-002.
 ## Éliane — Tripot (maîtresse des paris)
 Tables VIP ; paris d'élite. Pas de pièce codée dédiée dans ta fiche : tu joues la friction et les cotes en salle.
 ## Ardan Trevil — Tripot (protecteur des cercles)
 Muscle maison ; recouvrement. Limite physique à respecter.
 ## Dette personnelle — bar des paris secondaires (initiales M.T., créancier satellite)
-Reconnaissance jetons ; témoin V. = Varek. Pièce : CORRESP-021.
+Reconnaissance jetons ; témoin V. = Varek. Pièce : RD-III-546-007.
 
 ---
 

@@ -47,7 +47,7 @@ Je veux créer une intrigue pour le groupe MiVI (Styrgie) dans l'univers de Kron
     - Mafia — Les Sangs de la Steppe (`Intrigues/Intrigue_Mafia.md`) : réseau piloté par la Styrgie ; interlocuteurs type chef de famille, lieutenants ; couverture Guilde des Ports Unis.
     - Guilde des Ports Unis : façade commerciale de la mafia ; points d’accès docks, papers, blanchiment.
     - Tripot — casino du **fort d’Ulghart** (Il-Irion) (`Intrigues/Intrigue_Tripot.md`, `Groupes/Tripot/`) : flux, dettes, renseignements ; tension mafia qui veut prendre la main.
-    - Banquiers — UBI (`Intrigues/Intrigue_Banquiers.md`) : coffres, rapports de guerre, CORRESP ; mandat / régate.
+    - Banquiers — UBI (`Intrigues/Intrigue_Banquiers.md`) : coffres, rapports de guerre, pièces codées (registre) ; mandat / régate.
     - Il-Irion — Grandes Familles / mandat (`Intrigues/Intrigue_Il-Irion.md` si utilisé) : pression politique sur la banque et les délégations.
     - Palyr : fer (bon / mauvais), docks, espionnage ; renégociation des routes.
     - Arthas et Ther-Félis : factions pro-Styrgie ou séparatistes ; cible de récupération à long terme.

@@ -3,7 +3,7 @@
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
   Pas de chemins de fichiers ni de méta orga hors section « Connaissances ».
-  Dans « Connaissances » : codes de pièces (CORRESP-…, CONTRACT-…) conformément au template.
+  Dans « Connaissances » : **codes pièce** au format `TT-R-YYY-NNN` (voir `Registre_UBI.md` ; ex. `CP-III-542-001`, `CO-II-547-001`) conformément au template.
 -->
 
 Grandeur Nature Celtiana  
@@ -120,13 +120,13 @@ En dehors du détachement, tu t'appuies sur des interlocuteurs de convention et 
 # Connaissances
 
 ## Melian Torv — UBI (conseiller spirituel)
-Tu sais que Melian est en contact avec Palyr. Une fuite d'information a eu lieu : il existe un rapport dans les coffres de la banque, enregistré sous le code CORRESP-010, qui prouve ce lien. On parle d'une trahison ou d'une dénonciation de Melian en direction de Palyr. Les raisons restent inconnues.
+Tu sais que Melian est en contact avec Palyr. Une fuite d'information a eu lieu : il existe un rapport dans les coffres de la banque, enregistré sous le code FL-III-545-002, qui prouve ce lien. On parle d'une trahison ou d'une dénonciation de Melian en direction de Palyr. Les raisons restent inconnues.
 ## Cyrion Valdris — Maison Valdris (Il-Irion)
-Lettre qui peut gêner Cyrion au salon (adultère). Pièce : CORRESP-001. Ce n'est pas le dossier complet tenu ailleurs sur l'île par d'autres acteurs.
+Lettre qui peut gêner Cyrion au salon (adultère). Pièce : CP-III-542-001. Ce n'est pas le dossier complet tenu ailleurs sur l'île par d'autres acteurs.
 ## Torven Sorel — Guilde des Ports Unis (nom public)
-Contrat commercial sur le fer entre Sfaal et Palyr. Pièce : CONTRACT-001.
+Contrat commercial sur l’acier entre Sfaal et Palyr. Pièce : CO-II-545-001.
 ## Halwen Rask — Staal (imprimerie)
-Presse et rumeurs ; lien avec complaisance éditoriale et scandale Staale (patriarche Orrin Malet). Pièce : CORRESP-008.
+Presse et rumeurs ; lien avec complaisance éditoriale et scandale Staale (patriarche Orrin Malet). Pièce : CC-III-544-002.
 ## Annexe routes — Arthas et Ther-Félis
-Liste d'intermédiaires pour enchères d'escales, rabais fret. Pièce : CORRESP-020. Noms utiles : Sera Orist (Arthas, armateur), Jonn Halet (Ther-Félis, facteur d'escales), Maison Veth & Roole (Guilde des Ports Unis, couverture).
+Liste d'intermédiaires pour enchères d'escales, rabais fret. Pièce : AN-III-547-008. Noms utiles : Sera Orist (Arthas, armateur), Jonn Halet (Ther-Félis, facteur d'escales), Maison Veth & Roole (Guilde des Ports Unis, couverture).
 

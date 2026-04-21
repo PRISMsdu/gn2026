@@ -28,24 +28,25 @@ Sélectionnez le template correspondant au type de contrat que vous souhaitez cr
 
 Créez une copie du template avec un nouveau nom suivant la convention :
 ```
-[TYPE]-[N°].md
+[CODE].md
 ```
+où `[CODE]` suit le format **`TT-R-YYY-NNN`** décrit dans `Registre_UBI.md` (deux lettres de type, criticité romaine **I** à **IV**, année in-univers sur trois chiffres, numéro séquentiel **global dans l’année** sur trois chiffres), **unique** dans tout le dossier — à réserver dans `Registre_UBI.md` *avant* de figer le fichier (y compris si le document est antidaté in-univers).
 
 Exemples :
-- `CONTRACT-001.md` (premier contrat commercial)
-- `DEBT-002.md` (deuxième contrat de dette)
-- `ALLIANCE-001.md` (première alliance)
+- `CO-II-545-001.md` (contrat commercial)
+- `DE-II-546-001.md` (contrat de dette)
+- `CP-III-542-001.md` (correspondance / pièce d’archive)
 
 ### Étape 3 : Remplacer les variables
 
 Toutes les variables dans les templates sont indiquées entre crochets `[variable]`. Remplacez-les par les valeurs appropriées :
 
 **Variables communes :**
-- `[N°]` : Numéro du contrat (ex: `001`, `002`)
-- `[ANNÉE_EN_LETTRES]` : Année en toutes lettres du 4e Âge, identique à celle portée dans `[DATE]` (ex. `mil-cinq-cent-quarante-et-un` si la date se termine par `… de l'an mil-cinq-cent-quarante-et-un`)
+- `[CODE]` : **Code pièce** `TT-R-YYY-NNN` (ex. `CO-II-545-001`, `CP-III-542-001`) — identique au nom de fichier sans `.md` ; voir registre pour la grille des `TT`
+- `[ANNÉE_EN_LETTRES]` : Année en toutes lettres du calendrier courant (an **547** et alentours), identique à celle portée dans `[DATE]` (ex. `cinq cent quarante-cinq` si la date se termine par `… de l'an cinq cent quarante-cinq`)
 - `[partie1]`, `[partie2]` : Noms des cités ou parties
 - `[nom1]`, `[nom2]` : Noms des représentants
-- `[DATE]` : Date complète (ex: `le 15 du mois de Ventôse de l'an mil-cinq-cent-quarante-et-un`)
+- `[DATE]` : Date complète (ex: `le 15 du mois de Ventôse de l'an cinq cent quarante-cinq`)
 - `[LIEU]` : Lieu de signature (ex: `la Citadelle d'Ulghart`)
 
 **Variables spécifiques :**
@@ -71,12 +72,12 @@ Certaines sections peuvent nécessiter des ajustements selon le contexte :
 
 1. **Copier le template :**
    ```
-   Copier _template_CONTRACT.md → CONTRACT-002.md
+   Copier _template_CONTRACT.md → CO-II-547-001.md
    ```
 
 2. **Remplacer les variables :**
-   - `[N°]` → `002`
-   - `[ANNÉE_EN_LETTRES]` → `mil-cinq-cent-quarante-quatre` (identique à l’année en toutes lettres dans `[DATE]`)
+   - `[CODE]` → `CO-II-547-001`
+   - `[ANNÉE_EN_LETTRES]` → `cinq cent quarante-sept` (identique à l’année en toutes lettres dans `[DATE]`)
    - `[partie1]` → `Sfaal`
    - `[nom1]` → `Duc Thoren Forgefer`
    - `[partie2]` → `Il-Irion`
@@ -84,7 +85,7 @@ Certaines sections peuvent nécessiter des ajustements selon le contexte :
    - `[description de l'accord]` → `Sfaal s'engage à fournir à Il-Irion vingt tonnes de minerai de fer`
    - `[marchandise]` → `minerai de fer`
    - `[somme]` → `soixante pièces d'or`
-   - `[DATE]` → `le 10 du mois de Germinal de l'an mil-cinq-cent-quarante-quatre`
+   - `[DATE]` → `le 10 du mois de Germinal de l'an cinq cent quarante-sept`
    - `[LIEU]` → `la Citadelle d'Ulghart`
 
 3. **Compléter les sections :**
@@ -114,7 +115,7 @@ Palyr (représentée par le Légat Kaelen Forgefer) engage Il-Irion
 chantiers navals pendant 6 mois. Il-Irion fournira 10 gardes 
 équipés d'armes et d'armures. Le paiement sera de 500 pièces d'or, 
 versé en deux fois : la moitié au début, l'autre moitié à la fin. 
-Date : le 20 du mois de Germinal de l'an mil-cinq-cent-quarante-trois, à la Citadelle d'Ulghart.
+Date : le 20 du mois de Germinal de l'an cinq cent quarante-six, à la Citadelle d'Ulghart.
 ```
 
 #### Exemple 2 : Contrat commercial
@@ -123,7 +124,7 @@ Crée-moi un contrat commercial entre Sfaal et Palyr.
 Sfaal (Duc Thoren Forgefer) vend à Palyr (Seigneur Aldric Ventoss) 
 15 tonnes d'acier de qualité supérieure pour 75 pièces d'or. 
 Livraison dans 3 mois par voie terrestre avec escorte. 
-Date : le 15 du mois de Ventôse de l'an mil-cinq-cent-quarante-et-un.
+Date : le 15 du mois de Ventôse de l'an cinq cent quarante-cinq.
 ```
 
 #### Exemple 3 : Contrat d'alliance
@@ -175,7 +176,7 @@ en utilisant le template PROTECTION. Utilise des valeurs
 cohérentes avec l'univers et les autres contrats existants.
 ```
 
-L'IA pourra alors créer un contrat en s'inspirant des exemples existants (`CONTRACT-001.md`, `DEBT-001.md`) pour maintenir la cohérence.
+L'IA pourra alors créer un contrat en s'inspirant des exemples existants (`CO-II-545-001.md`, `DE-II-546-001.md`) pour maintenir la cohérence.
 
 ## 🎨 Style et conventions
 
@@ -192,15 +193,14 @@ L'IA pourra alors créer un contrat en s'inspirant des exemples existants (`CONT
 - **Signatures** : Format tabulaire avec noms, fonctions et signatures
 - **Témoins** : Liste des témoins (optionnel)
 
-### Numérotation
-- Les numéros de contrats sont séquentiels par type
-- Format : `[TYPE]-[N°]` avec `[N°]` sur 3 chiffres (ex: `001`, `002`, `010`)
+### Fichiers pièces
+- Chaque document publié dans ce dossier porte un nom **`[CODE].md`** avec **`[CODE]`** au format **`TT-R-YYY-NNN`**, attribué dans `Registre_UBI.md` (**`YYY`** = année du dépôt ; **`NNN`** = rang dans l’année, compteur global par année — voir registre).
 
 ## 📚 Références
 
 Pour voir des exemples de contrats remplis, consultez :
-- `CONTRACT-001.md` : Exemple de contrat commercial
-- `DEBT-001.md` : Exemple de contrat de dette
+- `CO-II-545-001.md` : Exemple de contrat commercial
+- `DE-II-546-001.md` : Exemple de contrat de dette
 
 ## ⚠️ Notes importantes
 
@@ -214,12 +214,12 @@ Pour voir des exemples de contrats remplis, consultez :
 
 Après avoir créé un contrat, il est **obligatoire** de l'enregistrer dans le `Registre_UBI.md` pour qu'il soit officiellement reconnu et archivé par l'Union Bancaire d'Il-Irion.
 
-### Étape 1 : Déterminer le numéro d'enregistrement
+### Étape 1 : Déterminer le numéro d'enregistrement (code pièce)
 
-Le registre utilise un système de numérotation continue depuis 496 :
-- Format : `UBI-[N°]` (ex: `UBI-001`, `UBI-002`, `UBI-003`)
-- Consultez le registre pour trouver le dernier numéro utilisé
-- Le prochain numéro sera celui qui suit
+Le **n° d’enregistrement** est le **code pièce** `TT-R-YYY-NNN`, **identique au nom du fichier** (sans `.md`) — voir `Registre_UBI.md` :
+- **`YYY`** : année in-univers du dépôt (colonne *Date de Dépôt*).
+- **`NNN`** : rang **global dans l’année** (001, 002, …) : comptez combien de pièces sont déjà enregistrées pour cette année dans le tableau, puis attribuez le suivant.
+- Exemples existants : `CO-II-545-001`, `DE-II-546-001`, `CP-III-542-001`.
 
 ### Étape 2 : Classifier la criticité
 
@@ -238,22 +238,21 @@ Ajoutez une nouvelle ligne dans le tableau principal du registre avec les inform
 
 | Colonne | Description | Exemple |
 |---------|-------------|---------|
-| **N° Enregistrement** | Format `UBI-[N°]` | `UBI-003` |
+| **N° Enregistrement** | Code pièce `TT-R-YYY-NNN` (= nom de fichier sans `.md`) | `CP-III-542-001` |
 | **Type de Document** | Type de contrat | `Contrat commercial`, `Contrat de dette`, `Contrat d'alliance`, etc. |
 | **Parties Impliquées** | Cités/familles concernées | `Sfaal ↔ Palyr`, `Il-Irion ↔ Palyr` |
-| **Description du Contenu** | Résumé du contrat | `Fourniture de 10 tonnes d'acier pour 50 pièces d'or` |
+| **Description du Contenu** | Résumé du contrat | `Fourniture de 10 tonnes d'acier pour 1 500 couronnes` |
 | **Déposé par** | Nom du représentant qui dépose | `Duc de Sfaal`, `Seigneur Aldric Ventoss` |
-| **Date de Dépôt** | Date de signature du contrat | `541`, `543` |
+| **Date de Dépôt** | Date de signature du contrat | `545`, `546` |
 | **Criticité** | Niveau de sensibilité | `🟡 Sensible`, `🟠 Très Sensible`, etc. |
 | **Statut** | État du document | `Actif` (en vigueur), `Archivé` (terminé) |
-| **Format Document** | Nom du fichier | `CONTRACT-001`, `DEBT-001`, `ALLIANCE-001` |
 
 ### Exemple d'enregistrement
 
-Pour un contrat de protection `PROTECTION-001` entre Palyr et Il-Irion :
+Pour un contrat de protection `PR-II-546-008.md` entre Palyr et Il-Irion (exemple : **huitième** pièce recensée pour l’an **546** au global) :
 
 ```
-| UBI-003 | Contrat de protection | Palyr ↔ Il-Irion | Protection des chantiers navals de Palyr par 10 gardes d'Il-Irion pour 6 mois, 500 pièces d'or | Légat Kaelen Forgefer | 543 | 🟡 Sensible | Actif | PROTECTION-001 |
+| PR-II-546-008 | Contrat de protection | Palyr ↔ Il-Irion | Protection des chantiers navals de Palyr par 10 gardes d'Il-Irion pour 6 mois, 500 pièces d'or | Légat Kaelen Forgefer | 546 | 🟡 Sensible | Actif |
 ```
 
 ### Format du prompt pour l'enregistrement
@@ -261,12 +260,12 @@ Pour un contrat de protection `PROTECTION-001` entre Palyr et Il-Irion :
 Vous pouvez demander à l'IA d'enregistrer le contrat :
 
 ```
-Enregistre le contrat PROTECTION-001 dans le registre UBI.
+Enregistre le contrat PR-II-546-008 dans le registre UBI.
 - Type : Contrat de protection
 - Parties : Palyr ↔ Il-Irion
 - Description : Protection des chantiers navals de Palyr par 10 gardes d'Il-Irion pour 6 mois, 500 pièces d'or
 - Déposé par : Légat Kaelen Forgefer
-- Date : 543
+- Date : 546
 - Criticité : 🟡 Sensible
 - Statut : Actif
 ```
@@ -282,7 +281,7 @@ L'IA extraira automatiquement les informations nécessaires du contrat créé.
 ### Notes sur l'enregistrement
 
 - **Tous les contrats doivent être enregistrés** : C'est une obligation pour la traçabilité
-- **Numérotation séquentielle** : Respectez l'ordre chronologique des numéros UBI
+- **Numérotation dans l’année** : respectez le compteur **`NNN`** global par année (voir registre)
 - **Criticité par défaut** : Si non spécifiée, utilisez `🟡 Sensible` pour la plupart des contrats
 - **Statut initial** : Les nouveaux contrats sont généralement `Actif`
 - **Mise à jour** : Si un contrat expire ou est résilié, changez son statut en `Archivé`
@@ -371,7 +370,7 @@ L'IA extraira automatiquement les informations nécessaires du contrat créé.
 - **Gardez une copie** du template original pour référence
 - **Vérifiez la cohérence** des dates et montants dans tout le document
 - **Adaptez le style** si nécessaire, mais gardez l'esprit médiéval
-- **Consultez les exemples** (`CONTRACT-001.md`, `DEBT-001.md`) pour voir comment remplir un contrat complet
+- **Consultez les exemples** (`CO-II-545-001.md`, `DE-II-546-001.md`) pour voir comment remplir un contrat complet
 
 ---
 

@@ -3,7 +3,7 @@
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
   Pas de chemins de fichiers ni de méta orga hors section « Connaissances ».
-  Dans « Connaissances » : codes de pièces (CORRESP-…, CONTRACT-…) conformément au template.
+  Dans « Connaissances » : **codes pièce** au format `TT-R-YYY-NNN` (voir `Registre_UBI.md` ; ex. `CP-III-542-001`, `CO-II-547-001`) conformément au template.
 -->
 
 Grandeur Nature Celtiana  
@@ -125,7 +125,7 @@ Tu représentes la ligne Elfrion : une phrase lâchée au mauvais endroit peut f
 
 ## Note de mission — Bureau « M. » (MiVI, Primat, Elfrion)
 
-Priorités écrites pour Ulghart : fer, UBI, Tripot, routes. Pièce : CORRESP-018. Consigne : détruire ou faire disparaître la note après lecture selon usage de service.
+Priorités écrites pour Ulghart : fer, UBI, Tripot, routes. Pièce : NS-III-547-006. Consigne : détruire ou faire disparaître la note après lecture selon usage de service.
 
 ## Kaelan Thormane — Les Sangs (chef de famille)
 
@@ -133,15 +133,15 @@ Tu dois lui faire rendre des comptes sur l'opération fer 544–545 et sur la Gu
 
 ## Raven — Les Sangs (réseaux et quai)
 
-Interface maritime ; grille de relais et créneaux quai. Pièce : CORRESP-017.
+Interface maritime ; grille de relais et créneaux quai. Pièce : TR-III-547-005.
 
 ## Edorian — UBI (direction)
 
-Cible stratégique documentaire. Pièce : CORRESP-006 (bordereau, initiales « E. »).
+Cible stratégique documentaire. Pièce : FC-III-544-001 (bordereau, initiales « E. »).
 
 ## Korran Vesper — Pirates d'Albar (PNJ)
 
-Mer et remises. Pièce : CORRESP-009 (gage de remise signé).
+Mer et remises. Pièce : BM-III-546-005 (gage de remise signé).
 
 
 ---

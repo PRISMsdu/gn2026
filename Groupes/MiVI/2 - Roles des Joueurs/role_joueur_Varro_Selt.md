@@ -3,7 +3,7 @@
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
   Pas de chemins de fichiers ni de méta orga hors section « Connaissances ».
-  Dans « Connaissances » : codes de pièces (CORRESP-…, CONTRACT-…) conformément au template.
+  Dans « Connaissances » : **codes pièce** au format `TT-R-YYY-NNN` (voir `Registre_UBI.md` ; ex. `CP-III-542-001`, `CO-II-547-001`) conformément au template.
 -->
 
 Grandeur Nature Celtiana  
@@ -123,27 +123,27 @@ Chaque coup qui se voit trop devient un dossier pour la Confédération : ton m�
 
 ## Gareth Ironfist — Les Sangs
 
-Muscle et extraction sur ordre des Sangs. Ne pas confondre avec une autre consigne pisteur le même jour : initiales G.I. Pièce : CORRESP-019 (grille de contact — ne pas croiser créneau sans plan).
+Muscle et extraction sur ordre des Sangs. Ne pas confondre avec une autre consigne pisteur le même jour : initiales G.I. Pièce : GC-III-547-007 (grille de contact — ne pas croiser créneau sans plan).
 
 ## Korran Vesper — Pirates d'Albar (PNJ)
 
-Mer ; rapport Arguethain, angle opérationnel. Pièce : CORRESP-005. (Le gage de remise signé est plutôt côté Théven.)
+Mer ; rapport Arguethain, angle opérationnel. Pièce : RA-III-546-004. (Le gage de remise signé est plutôt côté Théven.)
 
 ## Duc Thoren Forgefer — Sfaal (lots fer)
 
-Contrat Sfaal–Palyr ; sécurisation de convois, violence possible si détournement. Pièce : CONTRACT-002.
+Contrat Sfaal–Palyr ; sécurisation de convois, violence possible si détournement. Pièce : CO-II-547-001.
 
 ## Receveur anonyme / empreinte D.B. — conciliation hors greffe
 
-Avis de conciliation ; chimie ; timings de sortie « propre ». Pièce : CORRESP-015.
+Avis de conciliation ; chimie ; timings de sortie « propre ». Pièce : AC-II-543-003.
 
 ## Marque de quai — Guilde (remise)
 
-Encre sur linge ; signal logistique remise. Pièce : CORRESP-014.
+Encre sur linge ; signal logistique remise. Pièce : MQ-II-547-004.
 
 ## Reçu falsifié — Palyr (fausse piste)
 
-Angle distinct du message codé tunnels (Sybrel, CORRESP-011). Pièce : FALSIF-001.
+Angle distinct du message codé tunnels (Sybrel, MC-III-547-003). Pièce : FA-III-546-003.
 
 
 ---

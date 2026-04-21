@@ -1,9 +1,11 @@
-# DEBT-[N°] - Template de Contrat de Dette
+# [CODE] — Template de contrat de dette
+
+Remplacez `[CODE]` par le **code pièce** `DE-R-YYY-NNN` attribué dans `Registre_UBI.md` (ex. `DE-II-546-001`).
 
 ## En-tête
 ```
 CONTRAT DE DETTE
-N° DEBT-[N°]
+N° [CODE]
 ```
 
 En l'an de grâce [ANNÉE_EN_LETTRES], sous le regard des cieux et la bénédiction des anciens, que soit scellée cette charte de prêt entre

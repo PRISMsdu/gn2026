@@ -158,7 +158,7 @@ def _paths_in_backticks(text: str) -> list[str]:
 
 
 def extract_playable_excerpt(md_path: Path, max_len: int = 420) -> str:
-    """Extrait un passage jouable depuis un .md du dépôt (CORRESP, DEBT, CONTRACT, etc.)."""
+    """Extrait un passage jouable depuis un .md du dépôt (pièces Contrats_et_Livres, codes cinq lettres, etc.)."""
     try:
         raw = md_path.read_text(encoding="utf-8")
     except OSError:
@@ -221,7 +221,7 @@ def humanize_lien_for_scenariste(lien_col: str) -> str:
 
 
 def shorten_lien_if_doc_covers_ref(lien_h: str, docs: str) -> str:
-    """Retire du résumé Lien les « STEM » déjà développés dans les extraits (évite CORRESP répétés)."""
+    """Retire du résumé Lien les « STEM » déjà développés dans les extraits (évite codes pièce répétés)."""
     if not lien_h or not docs:
         return lien_h
     t = lien_h.strip()

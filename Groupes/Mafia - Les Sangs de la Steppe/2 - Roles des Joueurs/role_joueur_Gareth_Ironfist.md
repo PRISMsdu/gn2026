@@ -105,15 +105,15 @@ Pour toi, le réseau est une table où chacun a un siège : Kaelan parle, Vorak 
 
 | Personne | Groupe ou lieu d'attache | Type de relation | Lien |
 |----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Escorte terrestre | `Contrats_et_Livres/CORRESP-014.md` — marque sur linge pour poste côté terre (pas le gage 009 du chef). |
+| Korran Vesper | Pirates d'Albar (PNJ) | Escorte terrestre | MQ-II-547-004 — marque sur linge pour poste côté terre (pas le gage **BM-III-546-005** du chef). |
 | Marda Velyss | Il-Irion — Tripot | Zone sensible | Dette personnelle de jeu non écrite — tu lui dois une lune, elle te doit un couloir libre. |
-| Maître [nom à trouver] | Staal | Menace physique possible | Tu n'as pas la lettre `CORRESP-008.md` du chef — tu sais où loger un poing si la feuille sort. |
+| Maître [nom à trouver] | Staal | Menace physique possible | Tu n'as pas la lettre `CC-III-544-002` du chef — tu sais où loger un poing si la feuille sort. |
 | Garde [nom à trouver] | Prévôté / ville | Corruption | Dette de jeu — levier sans papier, pas d'amitié. |
-| Edorian | UBI — direction | Cible lointaine | `Contrats_et_Livres/CORRESP-004.md` — piste graveur / sceau Sfaal (angle indirect, pas le bordereau 006). |
-| Sybrel Dornik | UBI — Ombre | Croisement | Tu vous ignorez dans les tunnels — ordre implicite ; pas le message 011. |
+| Edorian | UBI — direction | Cible lointaine | CP-III-546-002 — piste graveur / sceau Sfaal (angle indirect, pas le bordereau **FC-III-544-001**). |
+| Sybrel Dornik | UBI — Ombre | Croisement | Tu vous ignorez dans les tunnels — ordre implicite ; pas le message MC-III-547-003. |
 | Maître Vaelric Dorn | UBI — Discréteur | Menace | Rumeurs et hommes de main — pas le placard 12 : tu gères la porte, pas le pamphlet. |
-| Dame Ydria Ventoss | UBI — Trésorière | Or | `Contrats_et_Livres/DEBT-001.md` — dette Il-Irion–Palyr ; noms Ventoss / Forgefer. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Cible | `Contrats_et_Livres/CORRESP-003.md` — surtaxes portuaires (facette distincte des lettres 001–002). |
+| Dame Ydria Ventoss | UBI — Trésorière | Or | DE-II-546-001 — dette Il-Irion–Palyr ; noms Ventoss / Forgefer. |
+| Cyrion Valdris | Il-Irion — Maison Valdris | Cible | CP-III-543-001 — surtaxes portuaires (facette distincte des lettres **CP-III-542-001–CP-III-542-002**). |
 
 ## Informations sensibles
 

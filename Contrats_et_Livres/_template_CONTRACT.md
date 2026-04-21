@@ -1,9 +1,11 @@
-# CONTRACT-[N°] - Template de Contrat Commercial
+# [CODE] — Template de contrat commercial
+
+Remplacez `[CODE]` par le **code pièce** `CO-R-YYY-NNN` attribué dans `Registre_UBI.md` (ex. `CO-II-545-001`).
 
 ## En-tête
 ```
 CONTRAT COMMERCIAL
-N° CONTRACT-[N°]
+N° [CODE]
 ```
 
 En l’an de grâce [ANNÉE_EN_LETTRES], sous le regard des cieux et la bénédiction des anciens, que soit scellée cette charte entre les honorables représentants 
