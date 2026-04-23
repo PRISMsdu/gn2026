@@ -100,7 +100,7 @@ Assurer la survie des grandes familles d'Il-Irion en éliminant toutes les menac
 
 ## Composition du Groupe — sept maisons (canon GN2026)
 
-Les grandes familles sont organisées en **sept maisons**, chacune avec un représentant joueur. Noms et fiches : `Groupes/Il-Irion/2 - Backs de persos/`.
+Les grandes familles sont organisées en **sept maisons**, chacune avec un représentant joueur. Noms et fiches joueurs : `Groupes/Il-Irion/2 - Roles des Joueurs/back_joueur_*.md`.
 
 **Répartition du leadership** : **Calis Aedris** (Maison Aedris) est le **chef de la coalition** — il coordonne les maisons sur le plan stratégique et tient les leviers **chantiers navals, flottes, transports** (missions maritimes, contrats de fabrication ou de location de navires, liaison opérationnelle avec **Ther-Félis** quand le jeu l’exige). **Cyrion Valdris** (Maison Valdris) n’est pas le chef : il est le **diplomate** du groupe, entretient les **relations avec toutes les cités** et la Confédération, représente Il-Irion sur la scène institutionnelle (**Oblat**, événements officiels) et **se présente pour un poste au conseil de l’UBI**.
 

@@ -32,7 +32,7 @@ Il n’y a **pas** d’étape séparée « Histoire du groupe » sous un autre n
 
 1. **Intrigue** — copier / compléter `template_prompt_intrigue.md`, produire `Intrigues/Intrigue_[Groupe].md`.
 2. **Back_groupe** — à partir de l’intrigue, rédiger le récit + objectifs + tableau d’équipe **pour les joueurs** (`Back_groupe_[Groupe].md`). Pas de secrets MJ dans ce fichier.
-3. **Rôles joueurs** — une fiche par personnage, alignée intrigue + Back_groupe (+ back perso orga si vous en utilisez un).
+3. **Rôles joueurs** — une fiche par personnage, alignée intrigue + Back_groupe.
 
 ### Intrigue
 
@@ -48,7 +48,7 @@ Il n’y a **pas** d’étape séparée « Histoire du groupe » sous un autre n
 ### Rôle joueur
 
 - Utiliser `../2 - Roles de groupe/template_role_joueur.md`
-- Source : intrigue + Back_groupe (+ `perso_*-orga.md` si présent)
+- Source : intrigue + Back_groupe
 
 ## Exemples de chemins (références projet)
 

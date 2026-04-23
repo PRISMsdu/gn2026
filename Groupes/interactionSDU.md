@@ -18,7 +18,7 @@ Gorvan Tresselune (compagnie du dolmen rouge) <-> Thoran Keld (Palyr) : intrigue
 
     Melian torv et Lucas Marivent : Lucas va demander à Mélian de jouer son rôle moral de protecteur de l'intégrité des coffres
 
-    Ilara chez Palyr sera la prétendante au conseil de la banque - attention, il faut seulement 5 joueurs
+    Ilara chez Palyr : diplomate poussant la **création du poste de directrice adjointe** à l’UBI (contrôle renforcé) — attention, il faut seulement 5 joueurs
 
     La cheffe du tripot cherche un appui politique fort, pourquoi pas Il-Irion, pour se protéger de la mafia.
 

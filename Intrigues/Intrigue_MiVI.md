@@ -2,8 +2,7 @@
 
 <!--
   DOCUMENT ORGA pour le groupe MiVI (Styrgie). Équipe officieuse du service du Primat.
-  Récit joueurs : `Groupes/MiVI/1 - Back de groupe/Back_groupe_MiVI.md` — fiches rôles : `Groupes/MiVI/3 - Roles des Joueurs/` — pièces **NS-III-547-006** à **RD-III-546-007** (voir `Contrats_et_Livres/README.md` et registre UBI) — sans secrets de personnage (addiction Tripot, etc.) dans le back partagé : voir section « Secret de personnage » ci-dessous ; fiche `role_joueur_Miraen_Talvas.md` + pièce **RD-III-546-007**.
-  Croisements : [`Intrigue_Mafia.md`](Intrigue_Mafia.md), [`Intrigue_Tripot.md`](Intrigue_Tripot.md), [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md), [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md).
+
 -->
 
 ## Informations générales

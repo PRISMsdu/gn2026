@@ -20,7 +20,7 @@
 
 ### Constitution du Groupe
 
-*Répartition fonctionnelle (PJ) — fiches détaillées dans `2 - Backs de persos/`.*
+*Répartition fonctionnelle (PJ) — fiches joueur : `Groupes/Il-Irion/2 - Roles des Joueurs/back_joueur_*.md`.*
 
 - **Chef / Leader** : **Calis Aedris** (Maison Aedris) — coalition, chantiers navals et stratégie maritime  
 - **Second** : **Seraphine Kaelthorne** (Maison Kaelthorne) — finances, interface banque / taux  

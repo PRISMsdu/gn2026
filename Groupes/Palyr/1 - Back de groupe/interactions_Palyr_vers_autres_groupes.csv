@@ -1,15 +1,23 @@
-Groupe_principal;Cible;Personnage_ou_pivot;Resume_interaction;Notes_detaillees
-Palyr (délégation);UBI / Banque Il-Irion;Lysa Morwyn + Edorian;Négociation secrète : fuite des banquiers corrompus contre or et documents supplémentaires ; récupération des dossiers Palyr en coffres.;Objectif secret niveau 1–2 du back Palyr ; tension avec exposition publique des preuves.
-Palyr (délégation);UBI;Melian Torv;Alliée de fait côté info : fuites vers Palyr (chantage, preuves) — Lysa comme interface dans la table des relations.;Melian accusée côté Il-Irion ; levier dramatique si révélé au groupe Palyr.
-Palyr (délégation);Il-Irion (familles / banque);Corvyn Valdrak + Ilara Vandesse;Ennemi politique fort : remplacer le système bancaire il-irionien, accumuler preuves de corruption.;Aligné Intrigue_Palyr et table « Relations connues » du back.
-Palyr (délégation);Arthas;Ilara Vandesse;Allié stratégique : accord de reprise bancaire et canal discret d'armes vers la Styrgie (illégal).;Objectif secret niveau 1 ; double jeu confédéral.
-Palyr (délégation);Sfaal;Thoran Keld;Conflit sur qualité des minerais et contrats ; chaîne acier jusqu'aux armées — négociation tendue.;Objectifs officiels + Intrigue_Palyr.
-Palyr (délégation);Tripot;Corvyn + Thoran / Arnek / Brael;Conflit ouvert : Corvyn veut fermer le casino ; trois membres sont addicts au Tripot — levier de dette et chantage.;Note confidentielle Légat ; cœur tension interne délégation.
-Palyr (délégation);Tripot;Soren;Enquête parallèle : Saevar traque le « déserteur » ; vérité : Grand Capitaine Brigade Noire — secret niveau 3.;Sans lien révélé au Légat dans le back.
-Palyr (délégation);Ther-Félis;Brael Tornek;Contact réseau à développer : pistes commerciales et renseignement.;Table du back : statut « À développer ».
-Palyr (délégation);Mafia;Brael Tornek;Contact gris à cadrer : ressources discrètes au prix de manipulation.;Table du back : « À développer » ; risque mafia.
-Palyr (délégation);Mercenaires;Brael Tornek;Piste sécurité et force — non détaillée dans le back ; à brancher selon besoins table.;Statut « À développer » dans la table.
-Palyr (délégation);Brigade Noire;Saevar Dren (infiltré);Agent secret : mission localiser Soren ; ignore encore le statut réel de la cible.;Révélations possibles avec Tripot et Intrigue_Palyr.
-Palyr (délégation);Juges de la régate;Arnek Sturmveld;Opération secrète : soudoyer les juges pour assurer la victoire de Palyr.;Objectif secret niveau 2 ; croisement Ther-Félis / Tripot sur mêmes juges.
-Palyr (délégation);Druides / spiritualité;Queldaryn;Lien cairn Lyrd, citadelle d'Ulghart ; intrigue druidique plus large (sorcier noir).;Secret niveau 3 ; option scénique forte.
-Palyr (délégation);Assemblée des Oblats;Ilara Vandesse;Scène politique pour pousser remplacement UBI et alliances (dont Arthas).;Intrigue_Palyr : cadre institutionnel.
+Groupe_principal;Personnage_Palyr;Cible_groupe;Personnage_ou_pivot_autre_groupe;Resume_interaction;Notes
+Palyr;Corvyn Valdrak;UBI;Melian Torv;Achat d'informations valide par Corvyn ; protection credibles si exposition.;Fiche Corvyn + ligne UBI / Melian cote banque
+Palyr;Corvyn Valdrak;Tripot;Marda Velyss;Fermeture casino vs survie Tripot ; enjeu Saevar addiction.;Marda role Palyr fuite
+Palyr;Ilara Vandesse;Arthas;Contacts delegation / lettres;Axe bancaire alternatif et engagements a sceller a Ulghart.;Diplomatie Ilara
+Palyr;Ilara Vandesse;Il-Irion;Notables delegation familles;Anciens reseaux personnels utiles ou explosifs avec preuves.;Pas allies delegation Palyr
+Palyr;Ilara Vandesse;MiVI;Point de contact Styrgie;Lettre de rendez-vous canal discret Styrgie.;Intrigue_Palyr objectif MiVI
+Palyr;Thoran Keld;Sfaal;Negociateurs delegation;Dernier chargement sceaux vs fer recu contrats confrontation publique.;Intrigue Sfaal
+Palyr;Thoran Keld;Voleurs;Gorvan Tresselune;Achat Arguetheim filiere grise.;Intrigue voleurs Gorvan
+Palyr;Thoran Keld;Tripot;Lira;Regate infos pressions sans addiction.;Fiche Thoran
+Palyr;Thoran Keld;Tripot;Eliane;Paris cotes regate prestige Palyr.;Fiche Thoran
+Palyr;Thoran Keld;Arthas;Interlocuteurs ports relais;Routes discretes Styrgie hors fil Ilara.;Fiche Thoran
+Palyr;Lysa Morwyn;UBI;Melian Torv;Canal secret preuves protection promise.;Fiche Lysa
+Palyr;Lysa Morwyn;UBI;Edorian;Negociation ombre fuite documents.;Fiche Lysa
+Palyr;Lysa Morwyn;UBI;Selvara Quenndral;Codes archives clef.;Fiche Lysa
+Palyr;Lysa Morwyn;UBI;Horgrim Dval;Verrouillage acces coffres vs mission Palyr et ligne BN.;Fiche Lysa orga
+Palyr;Lysa Morwyn;Tripot;Soren;Traque deserteur BN vs Grand Capitaine.;Secret Lysa
+Palyr;Lysa Morwyn;Brigade noire;Contact agent relais Ulghart;Actualisation mission couverture tresoriere.;Org BN
+Palyr;Saevar Dren;Il-Irion;Marek Thorne;Relais ports croisement reseaux.;Fiche Saevar + Il-Irion si mention
+Palyr;Saevar Dren;Ther-Felis;Dorian Marest;Transit Ther-Palyr-Sfaal renseignement Ulghart.;Back orga Dorian Palyr
+Palyr;Saevar Dren;Mafia;Interlocuteurs Sangs de la Steppe;Contacts ambigus dette jeu.;Fiche Saevar
+Palyr;Saevar Dren;Mercenaires;Courtiers contrats discrets;Intermediaire missions courtes.;Fiche Saevar
+Palyr;Saevar Dren;Tripot;Lira;Dettes jeu levier.;Fiche Saevar + Lira
+Palyr;Saevar Dren;UBI;Horgrim Dval;Surete delegation vs verrou banque.;Friction Lysa acces

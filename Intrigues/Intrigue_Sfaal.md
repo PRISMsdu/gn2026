@@ -19,14 +19,14 @@
 
 ## Situation et contexte
 
-Sfaal est sous **pression** : qualité du minerai contestée par Palyr, candidatures à l’**UBI**, rivalité avec Il-Irion, menace **Aquiléa** sur l’île. La cité ne peut pas se permettre un scandale public sur **falsification de sceau** ou **complicité avec la piraterie** — pourtant les traces mènent à l’opération **546** et au **dossier fer** déposé ou référencé à la banque.
+Sfaal est sous **pression** : l’**incident du dernier chargement** vers Palyr (certificats et apparence de conformité **au départ**, fer **inacceptable** à la réception) alimente la crise diplomatique, en parallèle des candidatures à l’**UBI**, de la rivalité avec Il-Irion et de la menace **Aquiléa** sur l’île. La cité ne peut pas se permettre un scandale public sur **falsification de sceau** ou **complicité avec la piraterie** — pourtant les traces mènent à l’opération **546** et au **dossier fer** déposé ou référencé à la banque.
 
 Un **PJ** incarne la **faille** : celui ou celle qui a facilité l’accès au sceau sait qu’il s’agissait d’un jeu dangereux ; il peut craindre la mafia, le MiVI (sans toujours nommer le service), la justice des cités ou le chantage croisé avec **Palyr** et l’**UBI** si [`CP-III-546-002`](../Contrats_et_Livres/CP-III-546-002.md) sort des coffres.
 
 ## Objectifs (orga)
 
 - **Dramatique** : jouer la **culpabilité** ou la **survie** du PJ complice ; tensions avec les autres membres de la délégation sfaalienne s’ils enquêtent.
-- **Politique** : défendre la **réputation** de Sfaal face à Palyr (qualité du fer) tout en sachant qu’une partie du « mauvais » fer résulte d’une **opération externe** — dilemme de révéler ou non une vérité qui désavouerait la cité.
+- **Politique** : défendre la **réputation** de Sfaal face à Palyr sur l’**incident du dernier lot** tout en sachant que le « mauvais » fer à l’arrivée résulte en réalité d’une **opération externe** (substitution en route, sceau copié) — dilemme de révéler ou non une vérité qui désavouerait la cité.
 - **Croisé MiVI** : si des agents styrgiens enquêtent sur la **disparition du bon fer**, le PJ peut être pris entre **réseau mafieux** et **pression d’Elfrion**.
 
 ## Acteurs et pivots
@@ -37,7 +37,7 @@ Un **PJ** incarne la **faille** : celui ou celle qui a facilité l’accès au s
 | **Sangs / Guilde des Ports Unis** | Logistique, finance, coordination avec pirates ; récupération des pièces à l’UBI si besoin. |
 | **Pirates d’Albar** | Échange **en mer**, milieu de route Sfaal–Palyr. |
 | **PJ Sfaal (complice sceau)** | Point d’ancrage joueur : accès au sceau, dette ou motivation à clarifier en back. |
-| **Palyr** | Destinataire du fer substitué ; crise économique et méfiance envers Sfaal — voir [`Intrigue_Palyr.md`](Intrigue_Palyr.md). |
+| **Palyr** | Destinataire du **dernier** convoi substitué ; crise sur la chaîne d’approvisionnement et tension avec Sfaal — voir [`Intrigue_Palyr.md`](Intrigue_Palyr.md). |
 | **UBI** | [`CP-III-546-002`](../Contrats_et_Livres/CP-III-546-002.md), [`CO-II-547-001`](../Contrats_et_Livres/CO-II-547-001.md) — entrées registre **CP-III-546-002**, **CO-II-547-001** ; preuves saisissables. |
 
 ## Scène PNJ à la demande (1–2 h)
@@ -46,7 +46,7 @@ Un **PJ** incarne la **faille** : celui ou celle qui a facilité l’accès au s
 
 ## Secrets et informations sensibles
 
-- Le **public** et une partie des élites sfaaliennes peuvent croire à une **baisse naturelle** de gisement ; l’**opération de substitution** reste **secrète** jusqu’à preuve.
+- Le **public** et une partie des élites peuvent attribuer l’incident à une **erreur ponctuelle** (mine, port, malentendu contractuel) ou à la **forge** palyroise ; l’**opération de substitution** reste **secrète** jusqu’à preuve.
 - La **disparition réelle** du bon fer **après** l’échange crée une **dette opérationnelle** du réseau envers le commanditaire — fil narratif commun avec [`Intrigue_Mafia.md`](Intrigue_Mafia.md).
 
 ---

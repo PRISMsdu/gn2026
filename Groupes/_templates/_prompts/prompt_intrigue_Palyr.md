@@ -36,19 +36,19 @@ Je veux créer une intrigue pour le groupe **Palyr** dans l'univers de Krondaar.
 ### Thèmes principaux
 - plusieurs personnages du groupe ont des contacts avec des personnages d'autres groupes, tels que Ther-Felis, la Mafia, les Mercenaires. Il faut dans le back groupe faire une table avec des relations inventées, à compléter ultérieurement
 -le groupe Palyr cherche à augmenter ses marchés sur les routes commerciales
-- un personnage du groupe est un membre caché des brigade noir, il recherche le déserteur du tripot. En fait ce déserteur n'en est pas un, il vient d'être nommé grand capitaine de la brigade et tout le monde le cherche.
+- la **trésorière** du groupe est un membre caché des **Brigades noires** ; elle suit la piste du « déserteur » du Tripot (**Soren**). En réalité ce n’est pas un déserteur : il vient d’être nommé **Grand Capitaine** BN et tout le monde le cherche.
 - Créer des tension avec Sfaal car les minerais actuellement produits sont pourris et la qualité des acier est moins bonne, donc les temps de forge sont plus long, coûtent plus cher, consomment plus de charbon.
 - augmenter le prix des armes, justement à cause du point précédent
 - négocier un droit de passage secret avec Arthas pour passer en Styrgie des lots d'armes de qualité moindre, mais tout de même pas trop déclarée.
 - trouver un moment avec la banque pour récupérer l'ensemble ds documents secrets de Palyr stocké à la banque, Palyr n'a plus confiance mais ne veut pas le montrer à tous
 - se positionner comme la garde des coffres, car actuellement c'est tout pourri
 - remporter la régate, quitte à la truquer, moyennant soudoiement des juges.
-- le chef du groupe veut faire fermer le tripot, car 3 personnes dans le groupe sont addictes
+- le chef du groupe veut faire fermer le tripot, car **Saevar** (chef de la sécurité) est **accro au jeu** — seul PJ addict au Tripot dans le canon actuel
 - créer beaucoup de tension, à la limite d'en venir aux mains, avec Il-Irion qui contrôle la banque. Palyr a des preuves de corruption de la banque actuelle et accuse Il-Irion de se gaver d'argent sur le dos de tout le monde.
 
 ### Conflits potentiels
 - en interne, concernant le tripot
-- Avec Sfaal sur la qualité des minerai
+- Avec Sfaal sur le **dernier chargement** (sceaux conformes vs fer reçu), chaîne d’approvisionnement
 - Banquiers, car ils les aiment pas
 - Il-Irion, voir thèmes
 
@@ -58,7 +58,7 @@ Je veux créer une intrigue pour le groupe **Palyr** dans l'univers de Krondaar.
 
 ### Relations avec d'autres groupes
 - **Arthas** : [aide et finance] - négociation d'un canal de vente discret avec la styrgie + prise en charge de la banque par Arthas
-- **Sfaal** : [tensions fortes] - qualité des minerai mauvaises
+- **Sfaal** : [tensions fortes] - incident du **dernier lot** (certificats vs réalité à Palyr)
 - **Edorian** : [négociation] - négociation pour faire sortir les banquiers, contre or et autres documents
 - **Il-Irion** : [tensions fortes] : remise en cause de la banque, preuve de corruption, demande des comptes
 

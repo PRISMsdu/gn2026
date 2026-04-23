@@ -2,7 +2,7 @@
 
 <!--
   TEMPLATE — Rôle joueur individuel (étape 3 du workflow).
-  Sources rédaction : intrigue MJ, back de groupe orga, backs perso orga si présents (hors livret joueur).
+  Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l’intrigue ou à la fiche perso).
   Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
   Ce fichier est distribué à un seul joueur.
 -->

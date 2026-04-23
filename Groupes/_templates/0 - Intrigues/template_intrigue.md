@@ -34,7 +34,7 @@
 
 ## Objectifs
 
-<!-- Une seule liste : interactions, actions de table, tensions ciblées. Nominatif si besoin. -->
+<!-- Une seule liste : interactions, actions de jeux, tensions ciblées. Nominatif si besoin. -->
 
 - [Objectif ou ligne de tension 1]
 - [Objectif ou ligne de tension 2]

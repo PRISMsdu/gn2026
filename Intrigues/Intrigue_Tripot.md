@@ -22,7 +22,7 @@
 
 - **Fil principal** : avec le **nouveau conseil UBI** qui menace d’exposer cinq ans de blanchiment, l’équipe de **Marda** doit **maximiser l’or**, **renégocier rétroactivement** la part des détournements (viser **15 %** au lieu des **10 %** versés), et **fuir** avec l’aide préparée côté **Palyr** — tout en tenant la **régate** (paris, juges, magot).
 - **Tensions** : UBI partenaire toxique (ils vous paient et vous noient) **vs** **Sangs** qui veulent le casino ; menace **Brigade Noire** liée au passé de **Soren** — le **détail jouable** de la traque n’est **pas** supposé connu de tout le groupe en début de partie (voir **Information réservée — traque** ci-dessous) ; clients VIP et dettes comme munitions.
-- **Collisions possibles** : **Kaelan** / **Raven** (mafia) pour la mainmise ou la trêve ; **Edorian** et ligne UBI ; **Palyr** (addictions, Légat, docks) ; juges de régate partagés avec d’autres groupes ; **MiVI** peut exploiter le casino comme plaque (voir [`Intrigue_MiVI.md`](Intrigue_MiVI.md)).
+- **Collisions possibles** : **Kaelan** / **Raven** (mafia) pour la mainmise ou la trêve ; **Edorian** et ligne UBI ; **Palyr** (addiction **Saevar**, représentant du Légat, docks) ; juges de régate partagés avec d’autres groupes ; **MiVI** peut exploiter le casino comme plaque (voir [`Intrigue_MiVI.md`](Intrigue_MiVI.md)).
 - **Point sensible jeu** : l’**artefact maudit** tenu par l’UBI — le Tripot croit savoir où il est et ce qu’il coûte ; ne pas tout révéler aux joueurs d’autres tables en une phrase ; négociation et rumeur.
 
 ---
@@ -106,7 +106,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 | UBI / conseil sortant | Partenaire toxique | Blanchiment, contrat de gestion ; **Edorian** et ligne banque — [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md), `Contrats_et_Livres/FC-III-544-001.md`, `RD-III-543-002.md`. |
 | Nouveau conseil UBI | Menace | Audit, intégrité, exposition des malversations. |
 | Sangs / Guilde | Pression / négociation | **Kaelan**, **Raven**, quai — mainmise ou trêve ; [`Intrigue_Mafia.md`](Intrigue_Mafia.md). |
-| Palyr | Fuite possible | Aide logistique, contre infos / régate ; addictions de notables Palyr au casino — [`Intrigue_Palyr.md`](Intrigue_Palyr.md). |
+| Palyr | Fuite possible | Aide logistique, contre infos / régate ; **Saevar** accro au jeu ; **Lysa** (trésorière) porte la **traque BN** sur **Soren** — [`Intrigue_Palyr.md`](Intrigue_Palyr.md). |
 | Il-Irion — familles | Clients & rumeurs | VIP, dettes, régate politique. |
 | Ther-Félis / marins | Surface casino | Paris, dettes, réseaux portuaires. |
 | Brigade Noire | Traque | Soren — désertion, enquête croisée possibles ; **détail** : surtout **Soren** + **Lydwen** (oracle) en amont — pas comme info de groupe dans le back. |

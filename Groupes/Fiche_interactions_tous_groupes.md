@@ -35,9 +35,9 @@ Colonnes :
 | Cyrion Valdris | Rauth Kaelmar (Ther-Felis) | Cyrion pousse la ligne officielle anti Ther-Felis tout en preservant une porte de sortie diplomatique utile a l'UBI. |
 | Lucan Marivent | Rauth Kaelmar (Ther-Felis) | Lucan prepare la plainte confederale (prix agressifs, denigrement) pour placer Ther-Felis en position defensive. |
 | Seraphine Kaelthorne | Dorian Marest (Ther-Felis) | Bras de fer sur les taux et la dette : Seraphine veut securiser les creances, Dorian veut renegocier en bloc. |
-| Calis Aedris | Arnek Sturmveld (Palyr) | Rivalite de regate et prestige maritime : Calis protege l'image navale d'Il-Irion contre Palyr. |
+| Calis Aedris | Thoran Keld (Palyr) | Rivalite de regate et prestige maritime : Calis protege l'image navale d'Il-Irion contre Palyr (capitaine / negoce). |
 | Isara Dornelis | Lysa Morwyn (Palyr) | Guerre d'information : Isara traque les fuites UBI vers Palyr pour limiter le levier de chantage. |
-| Marek Thorne | Brael Tornek (Palyr) | Duel de reseaux : chacun cherche a recruter les memes relais discrets dans les ports et assemblees. |
+| Marek Thorne | Saevar Dren (Palyr) | Duel de reseaux : chacun cherche a recruter les memes relais discrets dans les ports et assemblees. |
 | Garrick Halvaren | Kaelan Thormane (Mafia) | Opposition frontale : Garrick neutralise l'extorsion mafieuse ciblant les familles patriciennes. |
 | Cyrion Valdris | Edorian (UBI) | Relation toxique : Cyrion veut controle et stabilite, Edorian garde des secrets pouvant retourner les familles. |
 | Lucan Marivent | Melian (UBI) | Lucan tente de cadrer ou discrediter Melian selon l'impact de ses fuites vers Palyr. |
@@ -61,7 +61,7 @@ Colonnes :
 | Sybrel Dornik | Kaelan Thormane (Mafia) | Contact d'origine : Sybrel peut redevenir passerelle avec les Sangs en echange de protection ou statut. |
 | Edorian | Marda Velyss (Tripot) | Partenariat de blanchiment : maintien des commissions et du silence mutuel tant que l'UBI tient debout. |
 | Selvara Quenndral | Isara Dornelis (Il-Irion) | Combat documentaire : Selvara verrouille les registres, Isara tente d'obtenir des preuves exploitables. |
-| Horgrim Dval | Saevar Dren (Palyr) | Tension securitaire : Horgrim protege les souterrains, Saevar cherche des ouvertures autour de Soren et des coffres. |
+| Horgrim Dval | Lysa Morwyn (Palyr) | Tension securitaire : Horgrim protege les souterrains ; Lysa sonde coffres pour Palyr et pour la mission BN (Soren) — double jeu. |
 | Edorian | Dorian Marest (Ther-Felis) | Entretien de dette : Edorian concede des promesses vagues, Dorian exige un cadre ecrit avant le nouveau conseil. |
 
 ---
@@ -76,7 +76,7 @@ Colonnes :
 | Raven (maitre reseaux) | Corvus (UBI) | Relais infiltre : Raven recoit acces, horaires et fausses pistes depuis l'interieur de la banque. |
 | Lyanna (negociatrice) | Marda Velyss (Tripot) | Negociation coercitive : Lyanna propose une treve tarifee ou une prise de controle progressive du Tripot. |
 | Kaelan Thormane | Torven Sorel (Guilde facade) | Commandement indirect : Kaelan fait passer ses operations par la facade legale des ports pour rester invisible. |
-| Infiltrateur mafia | Brael Tornek (Palyr) | Approche informationnelle : tester si Brael peut fournir des acces politiques sans comprendre qu'il est manipule. |
+| Infiltrateur mafia | Saevar Dren (Palyr) | Approche informationnelle : tester si Saevar peut fournir des acces politiques sans comprendre qu'il est manipule. |
 | Negociateur mafia | Intermediaires Voleurs 1 | Sabotage discret : la mafia bloque la vente d'Arguetheim en achetant ou retournant les convoyeurs. |
 | Kaelan Thormane | Candidat UBI pro-Styrgie (Arthas) | Ingerence electorale : financer et proteger un candidat aligne Styrgie pour orienter la direction de l'UBI. |
 | Alchimiste interrogateur | Temoins de coffre | Extraction d'aveux : recuperer noms, codes et lieux des preuves avant les autres factions. |
@@ -87,20 +87,32 @@ Colonnes :
 
 ## 5. Palyr
 
+*Mise a jour consolidation* : synthese alignee sur `Groupes/Palyr/interactions du groupe Palyr.md` (**uniquement interactions avec d'autres groupes**, pas intra-delegation Palyr) ; fusions casting 5 PJ : `Groupes/Palyr/fusion_interactions_Palyr.m`.
+
 | Personnage du groupe (Palyr) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Corvyn Valdrak | Edorian (UBI) | Corvyn veut forcer la chute du systeme actuel ; Edorian negocie une sortie protegee contre or et silence. |
-| Lysa Morwyn | Melian (UBI) | Canal secret d'information : Lysa recupere des elements compromettants pour preparer un renversement bancaire. |
-| Ilara Vandesse | Delegue Arthas | Alliance de substitution : Ilara construit une option bancaire Arthas pour remplacer l'hegemonie UBI. |
-| Thoran Keld | Negociateur Sfaal | Tension commerciale : Thoran exige meilleure qualite de minerai ou compensations tarifaires immediates. |
-| Brael Tornek | Dorian Marest (Ther-Felis) | Contact reseau : echange de pistes commerciales et politiques selon opportunite anti Il-Irion. |
-| Arnek Sturmveld | Juges de la regate | Action clandestine : Arnek peut tenter de securiser la victoire de Palyr par influence sur les arbitres. |
-| Corvyn Valdrak | Marda Velyss (Tripot) | Hostilite ouverte : Corvyn cherche a fermer le Tripot qu'il juge destructeur pour sa delegation. |
-| Saevar Dren | Soren (Tripot) | Enquete secrete : Saevar poursuit le "deserteur" et decouvre progressivement son statut reel de Grand Capitaine. |
-| Queldaryn | Autorites druidiques / cairn Lyrd | Ligne mystique : Queldaryn active des leviers rituels pouvant influencer la legitimite politique de Palyr. |
-| Lysa Morwyn | Rauth Kaelmar (Ther-Felis) | Negociation de circonstance : cooperation limitee sur la dette et les preuves contre la banque d'Il-Irion. |
-| Brael Tornek | Contact mafia (a definir) | Brael approche un relais sombre pour obtenir des ressources discretes, au risque d'etre instrumentalise. |
-| Corvyn Valdrak | Cyrion Valdris (Il-Irion) | Duel institutionnel : Corvyn pousse le remplacement de l'UBI, Cyrion defend le maintien du systeme. |
+| Corvyn Valdrak | Melian Torv (UBI) | Tu as validé le paiement d’informations via Melian. Si elle est exposée, tu dois quand même tenir une protection crédible pour Palyr sans perdre le fil du dossier. |
+| Corvyn Valdrak | Marda Velyss (Tripot) | Tu veux fermer le casino ou le réduire parce que Saevar s’y ruine au jeu. Marda défend le Tripot et les accords de fuite. Vous vous opposez sur le plan politique. |
+| Ilara Vandesse | Contacts Arthas (délégation, lettres) | Tu as monté l’axe Arthas et le canal bancaire alternatif. À Ulghart tu dois signer ce que le Conseil attend sans tout dire à voix haute dans la délégation. |
+| Ilara Vandesse | Notables Il-Irion (délégation, familles) | Tu connais des visages à Il-Irion par ta formation. Ça aide ou ça brûle quand les preuves sortent. Ce ne sont pas des alliés de la délégation Palyr. |
+| Ilara Vandesse | Point de contact MiVI (Styrgie) | Tu portes la lettre de rendez-vous pour le contact styrgien. Ce n’est pas un membre de la délégation officielle : c’est un interlocuteur extérieur désigné par le Conseil. |
+| Thoran Keld | Négociateurs Sfaal (délégation) | Tu dois parler du **dernier chargement** : **sceaux et papiers** d’un côté, **résultat des fours** de l’autre — et des **contrats** devant témoins. La relation est déjà mauvaise. |
+| Thoran Keld | Gorvan Tresselune (Voleurs) | Tu négocies l’achat d’Arguetheim avec un vendeur à réputation douteuse. Tu ne dis pas tout ce que tu sais sur la filière. |
+| Thoran Keld | Lira (Tripot) | Tu la croises sur la régate et les quais. Tu n’es pas accro au jeu. Tu peux chercher des infos navales sans entrer dans la dette de Saevar. |
+| Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
+| Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les routes discrètes vers la Styrgie par des contacts quais, en dehors du fil diplomatique d’Ilara. |
+| Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et les preuves. Tu as promis de protéger Melian. Sans elle, le dossier s’effondre. |
+| Lysa Morwyn | Edorian (UBI) | Tu le vois dans l’ombre pour documents, fuite et marchandage. Tu le méprises mais tu négocies. |
+| Lysa Morwyn | Selvara Quenndral (UBI) | Elle tient codes et archives. Tu décides si tu t’alignes avec elle ou si tu la presses. |
+| Lysa Morwyn | Horgrim Dval (UBI) | Il bloque souterrains et tours. Tu dois approcher les coffres pour Palyr sans rester coincée au mauvais moment. Si d’autres missions te tirent ailleurs, tu dois choisir quel silence garder. |
+| Lysa Morwyn | Soren (Tripot) | Tu le suis pour une traque officielle ; ce que tu apprendras sur lui peut contredire le dossier qu’on t’a remis au départ. |
+| Lysa Morwyn | Contact Brigade noire (agent relais Ulghart) | Tu dois voir un relais pour mettre à jour ta mission. Si on te surprend, ta couverture de trésorière saute. |
+| Saevar Dren | Marek Thorne (Il-Irion) | Vous croisez les mêmes relais dans les ports et les assemblées. Chacun veut avancer sans montrer ses cartes. |
+| Saevar Dren | Dorian Marest (Ther-Félis) | Tu écoutes ce que Ther-Félis observe à Ulghart. Dorian tient les traités de transit et la ligne politique sur l’UBI. |
+| Saevar Dren | Interlocuteurs mafia (Sangs de la Steppe) | Tu as des contacts gris. À Ulghart on peut te tester. Ta dette au Tripot complique les choix. |
+| Saevar Dren | Courtiers mercenaires (contrats discrets) | On te prête pour des missions courtes. Tu peux monter des appuis ou des fuites sans papier complet. |
+| Saevar Dren | Lira (Tripot) | Elle sait te faire jouer. Tu es endetté. C’est un levier contre toi et contre Palyr. |
+| Saevar Dren | Horgrim Dval (UBI) | Tu cherches des accès au nom de la sûreté de Palyr. Horgrim verrouille ce que la banque montre. Lysa a besoin d’autres angles que toi. |
 
 ---
 
@@ -112,8 +124,8 @@ Colonnes :
 | Marda Velyss | Kaelan Thormane (Mafia) | Negociation sous menace : Kaelan veut absorber le Tripot, Marda gagne du temps pour organiser sa fuite. |
 | Ardan Trevil | Garrick Halvaren (Il-Irion) | Tension securitaire : Ardan verrouille le casino face aux pressions armees et aux provocations exterieures. |
 | Éliane (maîtresse des paris) | Sven Orlac (Ther-Felis) | Arrangement ponctuel : calibrer des cotes et des signaux pour influencer la regate sans exposer le Tripot. |
-| Éliane (maîtresse des paris) | Arnek Sturmveld (Palyr) | Double jeu : vendre la meme promesse a plusieurs camps et maximiser la marge avant la fuite. |
-| Soren | Saevar Dren (Palyr / Brigade Noire) | Traque inversee : Soren brouille les pistes pour eviter d'etre capture avant la fenetre d'evasion. |
+| Éliane (maîtresse des paris) | Thoran Keld (Palyr) | Double jeu : vendre la meme promesse a plusieurs camps et maximiser la marge avant la fuite. |
+| Soren | Lysa Morwyn (Palyr / Brigade Noire) | Traque inversee : Soren brouille les pistes pour eviter d'etre capture avant la fenetre d'evasion. |
 | Lira (manipulatrice) | Joric Tann (Ther-Felis) | Exploitation des dettes : Lira pousse Joric a miser plus pour obtenir infos et leviers sur Ther-Felis. |
 | Ysabeau | Clients VIP Il-Irion | Captation d'infos : Ysabeau extrait des secrets politiques au comptoir contre faveur de jeu. |
 | Marda Velyss | Corvyn Valdrak (Palyr) | Conflit frontal : Marda defend la survie du casino, Corvyn prepare sa fermeture politique. |

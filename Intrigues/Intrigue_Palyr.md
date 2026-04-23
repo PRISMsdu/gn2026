@@ -1,138 +1,114 @@
-# Le Renversement des Fondations - Intrigue de Groupe
+# Le Renversement des Fondations — Intrigue de groupe
 
-## Informations Générales
+<!--
+  DOCUMENT ORGA pour le groupe (scénaristes / MJ).
+
+  - Fichier cible : `Intrigues/Intrigue_Palyr.md`.
+  - Document joueurs **collectif** (rôle de tout le groupe) : `Groupes/Palyr/1 - Back de groupe/Back_groupe_Palyr.md` — voir `Groupes/_templates/README.md` (chaîne Intrigue → Back_groupe → Rôles joueurs).
+  - Ce fichier intrigue contient secrets, plans, ressources ; le Back_groupe ne les recopie pas pour les joueurs.
+-->
+
+## Informations générales
+
 - **Nom de l'intrigue** : Le Renversement des Fondations
 - **Groupe concerné** : Palyr
-- **Type d'intrigue** : Révolution politique, Négociation, Infiltration, Manipulation commerciale
 
-## Contexte et Situation
+---
 
-### Situation Initiale
-Le groupe de Palyr arrive au Fort d'Ulghart pour participer à la régate annuelle des cités de la Confédération, mais leur présence officielle masque des objectifs bien plus profonds et dangereux. Palyr est une cité en crise, coincée entre plusieurs tensions insoutenables qui pourraient mener à sa ruine économique et politique.
+## Lecture rapide orga (scénaristes)
 
-La qualité des minerais fournis par Sfaal a drastiquement baissé, rendant la production d'acier de Palyr non seulement plus coûteuse mais également de moindre qualité. Les temps de forge s'allongent, la consommation de charbon augmente, et les prix des armes doivent être revus à la hausse. Cette situation menace sérieusement la qualité des armes et la position de Palyr de fournisseur principal pour les armées.
+<!-- 5 à 8 lignes max : synchronisation immédiate entre auteurs. -->
 
-*MJ — couche orga (optionnelle en découverte)* : une partie de la « baisse de qualité » perçue peut provenir d’une **opération de substitution** sur la route maritime (fer médiocre rescellé — cf. **544–545**, Pirates d’Albar, [`Intrigues/Intrigue_Sfaal.md`](Intrigue_Sfaal.md)) en plus des causes naturelles, politiques ou rumeurs ; les PJ peuvent longtemps croire à un simple différend **Sfaal–Palyr**.
+- **Fil principal** : Forcer la bascule du système bancaire il-irionien vers une solution pilotée avec **Arthas**, récupérer les **archives Palyr** en coffre UBI, et sécuriser la position politique de la cité à Ulghart (dont poste **directrice adjointe** pour **Ilara** — création d’un poste neuf de contrôle).
+- **Tensions** : Crise **Sfaal** (minerais) vs prestige **régate** ; **Tripot** (**Saevar** accro au jeu) vs volonté de **Corvyn** de fermer le casino.
+- **Collisions possibles** : **Il-Irion** / **UBI** (Edorian, transition de conseil) ; **Tripot** (Marda, Soren) ; **Brigade noire** (ligne **Lysa**, couverture **trésorière**) ; **Ther-Félis**, **mafia**, **mercenaires** (réseaux **Saevar**) ; croisement **canal d’armes** avec **MiVI** à cadrer.
+- **Point sensible Jeu** : couverture **BN** de **Lysa** ; identité réelle de **Soren** ; **addiction Tripot** de **Saevar** seul ; **Melian** et timing des fuites du dossier.
 
-Parallèlement, la confiance envers la banque d'Il-Irion s'est effritée. Palyr détient des preuves de corruption massive du conseil bancaire actuel, mais ne peut pas les révéler publiquement sans risquer des représailles économiques. Des documents compromettants de Palyr sont stockés dans les coffres de la banque, et le groupe doit absolument les récupérer avant qu'ils ne tombent entre de mauvaises mains. De plus, trois membres du groupe sont accros aux jeux du Tripot, une addiction qui les ruine financièrement et moralement.
+---
 
-Enfin, un membre secret du groupe est un agent infiltré de la Brigade Noire qui recherche un prétendu déserteur du Tripot. Ce que personne ne sait, c'est que ce "déserteur" est en réalité le nouveau Grand Capitaine de la Brigade Noire, et toute l'organisation le recherche activement pour l'investiture.
+## Situation et contexte
 
-### Contexte Historique
-Palyr a toujours été la cité la plus mystérieuse de la Confédération, abritant le cairn Lyrd, vestige religieux des temps anciens où les druides venaient se recueillir. Cette relation spirituelle avec les anciennes traditions a toujours marqué l'identité de Palyr.
+Le groupe de Palyr arrive au **Fort d’Ulghart** pour la **régate** annuelle ; la couverture officielle masque une crise **minière**, **bancaire** et **diplomatique**. Palyr est coincée entre un **dernier lot de fer** qui **bloque** la forge d’élite malgré des **sceaux Sfaal** en règle, une **banque d’Il-Irion** dont elle détient des **preuves de corruption**, et des **documents compromettants** déposés dans les **coffres UBI** qui peuvent se retourner contre elle.
 
-Au cours des dernières décennies, Palyr s'est spécialisée dans la production d'armes de qualité supérieure, utilisant les minerais de Sfaal et fournissant officiellement les armées de la Confédération. Cependant, Palyr souhaite également développer des ventes illégales d'armes vers la Styrgie sans l'aval de la Confédération, ce qui nécessite des canaux secrets et des partenaires discrets. Cette dépendance économique vis-à-vis de Sfaal s'est révélée être un piège lorsque la qualité des minerais a commencé à se dégrader.
+Les livraisons **Sfaal** étaient stables ; seul le **dernier transport** s’est révélé **inutilisable** pour l’acier contractuel — coûts, charbon, délais, risque sur le poste d’**armurier**. Le paradoxe : **certificats et sceaux** attestent grade et origine **au départ** ; les fondeurs de Palyr lisent autre chose **à l’arrivée**. *MJ — piste centrale* : **substitution** ou rupture de chaîne **en route** (cf. **544–545**, Pirates d’Albar, [`Intrigues/Intrigue_Sfaal.md`](Intrigue_Sfaal.md)) ; autres options : entrepôt, contrefaçon de sceau, erreur de cale — à caler selon la table.
 
-La relation avec Il-Irion a toujours été tendue. Palyr soupçonne depuis longtemps que la banque se sert abusivement de sa position pour s'enrichir aux dépens des autres cités. Des preuves de détournements massifs ont été collectées, mais les documents compromettants de Palyr déposés en "sécurité" dans les coffres de la banque sont devenus un moyen de pression.
+**Corvyn** est **représentant mandaté** du Légat, **chef de délégation**. **Ilara** est **diplomate** et pousse la **création du poste** de **directrice adjointe** à l’UBI. **Lysa** est **trésorière** (coffres, **Melian**, **Edorian**, dossier corruption) — **couverture officielle** qui masque une **ligne Brigade noire** : mission de **localiser Soren** au Tripot comme « déserteur » alors qu’il s’agit du **nouveau Grand Capitaine** BN. **Thoran** porte **marché** et **régate**. **Saevar** assure **sécurité** et **réseaux** ; il est **accro au jeu** au Tripot (**Lira**, dettes) — **sans** ligne BN.
 
-Les liens avec Arthas sont plus récents. Cette cité portuaire bien organisée représente une alternative crédible pour un nouveau système bancaire et un canal de transport vers la Styrgie plus sûr que les routes traditionnelles.
+**Historiquement**, Palyr s’est appuyée sur la forge d’élite ; la dépendance à **Sfaal** et aux lignes de crédit **Il-Irion** s’est retournée en piège. Les accords avec **Arthas** offrent une **alternative bancaire** et un **canal** plus discret vers la **Styrgie** pour le commerce d’armes **non avalisé** par la Confédération — **Ilara** dispose d’une lettre de contact pour rencontrer le **MiVI**.
 
-### Enjeux
-- **Enjeu principal** : Remettre en cause le système bancaire contrôlé par Il-Irion et organiser son remplacement par Arthas, tout en récupérant les documents compromettants et en développant des canaux de vente illégaux d'armes vers la Styrgie
-- **Enjeux secondaires** : Résoudre la crise des minerais avec Sfaal, remporter la régate (même par la tricherie), fermer le Tripot pour protéger les trois membres addicts, organiser un canal de vente illégal d'armes vers la Styrgie, négocier l'évasion des banquiers corrompus, découvrir la vérité sur le "déserteur" de la Brigade Noire, utiliser le cairn Lyrd et la citadelle d'Ulghart dans un contexte druidique
+**Ressources utiles MJ** : budget régate et **pots-de-vin** ; navires et accès **citadelle** ; **preuves** détournements ; **cinq PJ** (le livrable joueur partagé ne fixe plus de PNJ nommé dans la délégation — escorte, druides du cairn ou autres figures : **à brancher ou non** selon la table, en note MJ uniquement).
+
+---
 
 ## Objectifs
 
-### Objectif Principal
-Créer une situation tellement compliquée que la seule issue viable sera le renversement de la banque actuelle d'Il-Irion et son remplacement par un système bancaire dirigé par Arthas, tout en récupérant les documents secrets de Palyr stockés dans les coffres et en développant des canaux de vente illégaux d'armes vers la Styrgie.
+<!-- Une seule liste : interactions, actions de table, tensions ciblées. Nominatif si besoin. -->
 
-### Objectifs Secondaires
-- **Récupérer les documents compromettants** : Sortir discrètement tous les documents secrets de Palyr stockés dans les coffres de la banque avant qu'ils ne soient découverts ou utilisés comme moyen de chantage
-- **Négocier l'évasion des banquiers** : Rencontrer secrètement Edorian (directeur de l'UBI) pour organiser la fuite du conseil bancaire corrompu en échange d'or et d'autres documents précieux
-- **Remporter la régate** : Gagner la régate à tout prix, quitte à soudoyer les juges et truquer les résultats, pour renforcer la position politique de Palyr
-- **Fermer le Tripot** : Le chef du groupe veut fermer le casino car trois membres sont accros aux jeux et se ruinent
-- **Créer des tensions avec Sfaal** : Confronter Sfaal sur la qualité dégradée des minerais, exiger une amélioration ou trouver des alternatives
-- **Augmenter les prix des armes** : Justifier et imposer une hausse des prix à cause de la qualité moindre des minerais
-- **Négocier avec Arthas** : Établir un partenariat stratégique pour remplacer la banque d'Il-Irion par un système dirigé par Arthas, créer un canal de vente illégal d'armes vers la Styrgie
-- **Se positionner comme garde des coffres** : Proposer à Arthas et aux autres cités de prendre la garde des coffres bancaires car le système actuel est corrompu
-- **Découvrir la vérité sur le "déserteur"** : L'agent infiltré de la Brigade Noire doit découvrir que Soren n'est pas un déserteur mais le nouveau Grand Capitaine
-- **Utiliser le cairn Lyrd** : Exploiter les liens druidiques avec le monument et la citadelle d'Ulghart dans le cadre de l'intrigue
-
-## Acteurs et Parties Prenantes
-
-| Nom/Organisation | Type de Relation | Description de la Relation |
-|------------------|------------------|---------------------------|
-| Arthas | Allié stratégique | Partenaire pour remplacer la banque, négociation d'un canal de vente illégal d'armes vers la Styrgie, prise en charge potentielle de la garde des coffres |
-| Il-Irion | Ennemi/Tensions fortes | Accusation de corruption bancaire, demande de comptes, tensions politiques, remise en cause du système bancaire actuel |
-| Sfaal | Tensions fortes/Conflit | Qualité dégradée des minerais, confrontations économiques, négociations tendues sur les contrats |
-| Edorian (UBI) | Négociation/Ennemi | Directeur de la banque corrompue, négociation secrète pour organiser la fuite des banquiers contre documents et or |
-| Nouveau conseil UBI | Ennemi | Arrive bientôt, découvrira les malversations, menace pour les documents de Palyr |
-| Tripot | Ennemi (chef du groupe) | Casino à fermer car 3 membres sont addicts, tension entre le chef et les membres concernés |
-| Brigade Noire | Enquête secrète | Agent infiltré recherche le "déserteur" (Soren), qui est en fait un Grand Capitaine |
-| Soren (Tripot) | Secret/Mystère | Prétendument déserteur de la Brigade Noire, en réalité le nouveau Grand Capitaine recherché par tous |
-| Juges de la régate | Neutre/Corruptible | Peuvent être soudoyés pour favoriser Palyr dans la régate |
-| Ther-Félis | Relations à définir | Contacts potentiels, relations commerciales à développer |
-| Mercenaires | Relations à définir | Contacts potentiels, ressources sécuritaires |
-| Druides | Alliés mystiques | Liens avec le cairn Lyrd, influence sur la citadelle d'Ulghart, conseils spirituels |
-| Assemblée des Oblats | Politique | Structure de gouvernance de la Confédération, peut être influencée |
-
-## Ressources et Moyens
-
-### Ressources Disponibles
-- **Financières** : Budget de Palyr pour la régate et les négociations, fonds alloués aux pots-de-vin, capacité de paiement pour les documents récupérés
-- **Matérielles** : Navires pour la régate, accès à la citadelle d'Ulghart, proximité du cairn Lyrd, documents officiels et preuves de corruption
-- **Humaines** : Équipe politique de Palyr, agent infiltré de la Brigade Noire, contacts avec Ther-Félis, Mafia, Mercenaires, druides, réseau de marchands
-- **Informationnelles** : Preuves de corruption bancaire d'Il-Irion, connaissance de la situation des minerais de Sfaal, informations sur les malversations UBI, liens avec le cairn Lyrd
-
-## Plans et Stratégies
-
-### Plan Principal
-1. **Arrivée et évaluation** : Évaluer la situation globale, identifier les opportunités et menaces, établir les priorités
-2. **Confrontation avec Sfaal** : Créer des tensions publiques sur la qualité des minerais, exiger des explications et des solutions, préparer des alternatives
-3. **Récupération des documents** : Négocier secrètement avec Edorian pour récupérer tous les documents compromettants de Palyr stockés dans les coffres, moyennant paiement en or
-4. **Organisation de l'évasion des banquiers** : Coordonner avec Marda Velyss (Tripot) et Edorian pour organiser la fuite du conseil bancaire corrompu, en échange de documents et d'or
-5. **Trucage de la régate** : Soudoyer les juges pour remporter la régate, renforcer la position politique de Palyr
-6. **Négociation avec Arthas** : Établir un partenariat stratégique pour remplacer la banque d'Il-Irion par un système dirigé par Arthas, créer un canal de vente discret vers la Styrgie
-7. **Fermeture du Tripot** : Le chef du groupe doit confronter la question de l'addiction et décider de la fermeture du casino
-8. **Confronter Il-Irion** : Révéler progressivement les preuves de corruption, créer une crise qui force le remplacement de la banque
-9. **Investigation Brigade Noire** : L'agent infiltré doit découvrir la vérité sur Soren avant que la situation ne devienne dangereuse
-10. **Utilisation du cairn Lyrd** : Mettre en place une action druidique en lien avec la citadelle d'Ulghart pour renforcer la position mystique et politique de Palyr
-
-## Composition du Groupe
-
-### Rôles Nécessaires
-- **Chef du groupe (Légat)** : Direction politique et stratégique, prise de décisions majeures, confrontation avec Il-Irion, décision sur la fermeture du Tripot
-- **Négociateur commercial** : Gestion des relations avec Sfaal, négociations sur les minerais, organisation des ventes illégales vers la Styrgie, augmentation des prix des armes
-- **Agent de la Brigade Noire (infiltré)** : Enquête secrète sur le prétendu déserteur Soren, découverte de sa vraie identité, coordination avec la hiérarchie de la Brigade
-- **Spécialiste bancaire/Négociateur financier** : Négociations secrètes avec Edorian, récupération des documents compromettants, organisation de l'évasion des banquiers, élaboration du nouveau système bancaire avec Arthas
-- **Capitaine de navire/Navigateur** : Participation à la régate, trucage des résultats, gestion de l'équipage, organisation des transports illégaux vers la Styrgie
-- **Druide/Conseiller spirituel** : Utilisation du cairn Lyrd, liens mystiques avec la citadelle d'Ulghart, conseils spirituels et politiques
-- **Diplomate/Négociateur politique** : Relations avec Arthas, coordination pour le renversement de la banque, représentant auprès de l'Assemblée des Oblats
-- **Informateur/Réseau** : Contacts avec Ther-Félis, Mafia, Mercenaires, collecte d'informations, réseaux secrets
-- **Garde/Protection** : Sécurité du groupe, protection lors des négociations secrètes, intervention en cas de tensions avec Sfaal ou Il-Irion
-- **Membres addicts au Tripot (3)** : Personnages qui doivent lutter contre leur addiction, créent des tensions internes, peuvent être utilisés comme informateurs ou leviers
-
-## Secrets et Informations Sensibles
-
-- **Preuves de corruption bancaire** : Documents détaillant les détournements massifs de l'UBI, connus par le chef et le spécialiste bancaire, à révéler progressivement
-- **Documents compromettants dans les coffres** : Archives secrètes de Palyr stockées à la banque, à récupérer avant qu'elles ne soient utilisées contre Palyr
-- **Identité de l'agent Brigade Noire** : Un membre du groupe est un agent infiltré de la Brigade Noire, secret absolu
-- **Vraie identité de Soren** : Soren du Tripot n'est pas un déserteur mais le nouveau Grand Capitaine de la Brigade Noire, découverte à faire par l'agent infiltré
-- **Addiction des trois membres** : Trois membres sont accros aux jeux du Tripot, secret interne qui crée des tensions
-- **Projet de remplacement bancaire** : Plan secret avec Arthas pour remplacer la banque d'Il-Irion, connu par les dirigeants et négociateurs
-- **Canal de vente illégal d'armes vers la Styrgie** : Accord secret avec Arthas pour faire transiter des armes vers la Styrgie sans l'aval de la Confédération, opération totalement illégale
-- **Relations avec Ther-Félis** : Contacts et relations à développer, table des relations à compléter
-- **Relations avec la Mafia** : Contacts potentiels, relations à définir dans le back de groupe
-- **Relations avec les Mercenaires** : Contacts et ressources sécuritaires, relations à établir
-- **Cairn Lyrd et citadelle d'Ulghart** : Liens mystiques et druidiques à exploiter, secrets anciens à révéler
-- **Situation des minerais de Sfaal** : Informations sur la dégradation de la qualité, causes possibles, solutions alternatives
-- **Plan de soudoiement des juges** : Stratégie pour truquer la régate, montants et contacts
-- **Négociation avec Edorian** : Modalités secrètes de l'évasion des banquiers, montants, conditions
-- **Rencontres secrètes avec Marda Velyss** : Coordination pour l'évasion des banquiers, relations complexes
-- **Tensions internes sur le Tripot** : Conflit entre le chef qui veut fermer le casino et les trois membres addicts
-
-## Relations Inter-Groupes (Table à compléter)
-
-| Groupe | Contact Principal | Nature de la Relation | Objectif de la Relation | Statut |
-|--------|-------------------|----------------------|-------------------------|--------|
-| Ther-Félis | [À définir] | [À définir] | [À définir] | [À compléter] |
-| Mafia (Sangs de la Steppe) | [À définir] | [À définir] | [À définir] | [À compléter] |
-| Mercenaires | [À définir] | [À définir] | [À définir] | [À compléter] |
-| Arthas | [À définir] | Alliance stratégique | Remplacement bancaire, canal illégal Styrgie | Actif |
-| Sfaal | [À définir] | Tensions/Conflit | Qualité minerais | Actif |
-| Il-Irion | [À définir] | Ennemi/Tensions | Remplacement banque | Actif |
-| UBI | Edorian | Négociation secrète | Récupération documents, évasion | Actif |
-| Tripot | Marda Velyss | Négociation secrète | Évasion banquiers | Actif |
+- Créer une situation telle que le **remplacement** de la banque actuelle par un système **sous influence Arthas** devienne l’issue crédible, sans sacrifier la récupération des **archives** ni la **crédibilité** publique de Palyr.
+- **Récupérer les documents compromettants** dans les coffres UBI avant qu’ils ne servent de **chantage** (négociation secrète avec **Edorian**, paiement, contreparties).
+- **Négocier l’évasion** du conseil corrompu avec **Edorian** et **Marda Velyss** (Tripot), contre **or** et **documents**.
+- **Remporter la régate** (y compris **soudoiement** des juges) pour le **prestige** politique et se positionner correctement pour prendre la place idéeale au conseil de la Banque.
+- **Fermer le Tripot** ou briser l’**addiction** : **Corvyn** cible le casino car **Saevar** (chef sécurité) est **accro au jeu** et **endetté** — levier contre lui et contre la délégation.
+- **Confronter Sfaal** sur l’**incident du dernier chargement** (sceaux vs minerai reçu) ; exiger **traçabilité**, **correctifs** ou **alternatives** ; **hausser les prix** des armes si la table assume le narratif commercial.
+- **Négocier avec Arthas** : **nouvelle banque**, **garde des coffres** proposée par Palyr
+- Prendre contact avec la **Styrgie** via le **MiVI** ; **Ilara** dispose d’une lettre de rendez-vous.
+- **Confronter Il-Irion** : révélation **progressive** des preuves pour **forcer** la crise sans griller toute la **munition** trop tôt.
+- **Lysa / Soren (BN)** : confirmer avant explosion que **Soren** n’est pas un **déserteur** mais **Grand Capitaine** BN — sans compromettre la mission **coffres** / **Melian** ni la couverture **trésorière**.
+- **Directrice adjointe (Ilara)** : **créer le poste** au conseil de la banque et le prendre.
 
 ---
-*Template créé pour la standardisation des intrigues - GN Krondaar 2026*
+
+## Interactions autre groupe
+
+| Nom / organisation | Type de relation | Description de la relation |
+|--------------------|------------------|----------------------------|
+| Arthas | Allié stratégique | Partenaire pour le **remplacement bancaire** |
+| Il-Irion | Ennemi / tensions fortes | **Corruption** bancaire, **détournements** ; remise en cause du système actuel. |
+| Sfaal | Tensions fortes / conflit | **Dernier lot** : **sceaux** conformes vs **fer** reçu ; **contrats**, chaîne d’approvisionnement, confrontations économiques. |
+| Edorian (UBI) | Négociation / ennemi | Directeur de la banque corrompue ; **fuite** du conseil contre **or** et **documents**. |
+| Nouveau conseil UBI | Ennemi / opportunité | Menace sur les **archives** Palyr ; fenêtre pour **faire adopter** le poste de **directrice adjointe** (Ilara) si la transition reste maîtrisée. |
+| Tripot | Ennemi (côté Corvyn) | Fermeture visée ; **addiction** **Saevar** ; **Marda** ; **Soren**. |
+| Brigade Noire | Enquête secrète | **Lysa** sous couverture **trésorière** ; traque du « déserteur » (**Soren**) ; ordres BN parallèles au mandat Palyr. |
+| Soren (Tripot) | Secret / mystère | Fausse piste **déserteur** ; **Grand Capitaine** recherché pour investiture. |
+| Ther-Félis | aucune directement | Contacts **réseau** / commerce — à brancher selon table. |
+
+---
+
+## Identité du groupe (orga)
+
+### Rôles nécessaires
+
+
+| Nom du personnage | Rôle | Compétences | Classe | Joueur |
+|-------------------|------|-------------|--------|--------|
+| **Corvyn Valdrak** | Représentant du Légat (mandaté), chef de délégation | Voix du Légat à Ulghart ; arbitrage public / secret ; dossier corruption et transition bancaire | *selon table* | *à compléter* |
+| **Ilara Vandesse** | Diplomate ; ligne conseil de la banque (poste neuf) | Proposition de **directrice adjointe** pour **renforcer le contrôle** ; diplomatie Arthas ; instances ; dossier Il-Irion comme levier | *selon table* | *à compléter* |
+| **Lysa Morwyn** | Trésorier | Coffres, flux, UBI (Edorian, Melian, Selvara) ; lecture comptable du dossier ; **secret orga** ligne **Brigade noire** / **Soren** — voir fiche joueur | *selon table* | *à compléter* |
+| **Thoran Keld** | Marchand ; capitaine de régate | Minerais Sfaal, acier, Arguetheim, régate, juges ; enjeux Tripot côté **régate** / salons (pas d’addiction personnelle) | *selon table* | *à compléter* |
+| **Saevar Dren** | Chef de la sécurité ; officier de renseignement (couverture) | Sûreté, Ther-Félis, mafia, mercenaires ; **secret orga** addiction Tripot + dettes — voir fiche joueur | *selon table* | *à compléter* |
+
+### Documents additionnels
+
+- Back groupe joueurs : [`Groupes/Palyr/1 - Back de groupe/Back_groupe_Palyr.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Back_groupe_Palyr.md)
+- Histoire de la cité (texte joueurs) : chronique **« L’acier et le mandat »** (Prologue à **V — Ulghart vous attend**) dans [`Groupes/Palyr/1 - Back de groupe/Back_groupe_Palyr.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Back_groupe_Palyr.md)
+- Fiches PJ : `Groupes/Palyr/2 - Roles des Joueurs/back_joueur_*.md`
+- Interactions **hors délégation Palyr** (croisements avec **autres groupes** uniquement — voir *Check d’un groupe* dans `Groupes/Afaire.md`) : [`Groupes/Palyr/interactions du groupe Palyr.md`](../Groupes/Palyr/interactions%20du%20groupe%20Palyr.md) ; CSV : [`Groupes/Palyr/1 - Back de groupe/interactions_Palyr_vers_autres_groupes.csv`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/interactions_Palyr_vers_autres_groupes.csv)
+- Piste minerais / substitution : [`Intrigues/Intrigue_Sfaal.md`](Intrigue_Sfaal.md)
+
+### Culture et dynamique interne
+
+- **Tripot** : **Saevar** accro au jeu — **Corvyn** veut **fermer** le casino ; leviers **Lira** / dettes.
+- **Brigade noire** : seule **Lysa** (et l’orga) porte la ligne ; **Corvyn** et les autres PJ ne sont pas briefés BN.
+- **Dossier banque** : **Lysa** tient la **précision** et les **accès coffre** ; tension si ordres **BN** et mission **Palyr** divergent sur **timing** ou **cibles** (**Horgrim**, **Soren**).
+
+## Secrets et informations sensibles
+
+- **Preuves de corruption bancaire** : **Détournements** et **captation** au profit des réseaux il-irioniens — maîtrise **Lysa**, arbitrage **Corvyn**, usage politique **Ilara** pour **créer / occuper** la **directrice adjointe** ; révéler **par étapes** pour ne pas griller la munition.
+- **Documents compromettants dans les coffres** : Archives Palyr à la banque ; à sortir avant qu’elles ne servent contre la cité.
+- **Identité BN de Lysa** : Agent sous couverture **trésorière** ; secret pour les **autres PJ** et pour **Corvyn**.
+- **Soren** : n’est pas un **déserteur** ; **Grand Capitaine** BN — découverte à charge de **Lysa** avant que la situation ne dérape.
+- **Addiction Tripot (Saevar)** : seul **Saevar** est **accro au jeu** ; leviers **Lira** / dettes, risque de **fuite d’information** vers la mafia ou l’UBI.
+- **Projet de remplacement bancaire** : Accord **Arthas** — connu des **décideurs** de la délégation selon brief MJ.
+- **Canal d’armes vers la Styrgie** : Opération **illégale** ; **prise de contact avec le MiVI** à organiser côté orga.
+- **Négociation Edorian** : Modalités de **fuite** du conseil, montants, **silence**.
+- **Marda Velyss** : Coordination **évasion** / Tripot ; relations **toxiques** utiles en scène.

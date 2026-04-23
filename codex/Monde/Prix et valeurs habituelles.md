@@ -56,7 +56,7 @@ Fourchettes **cité / foire** ; campagne, baisse possible.
 | **Petit vin** (pichet 50 cl, table commune) | 12 à 25 cents |
 | **Vin** (bouteille correcte, salle) | 45 à 120 cents |
 | **Eau-de-vie / spiritueux** (verre) | 20 à 60 cents |
-| **Soupe** + **pain** | 6 à 16 cents — repas de subsistance ; ordinairement **bien en dessous** du kg de fer lingot en détail forge (voir *Matières premières*) |
+| **Soupe** + **pain** | 6 à 16 cents — repas de subsistance |
 | **Plat du jour** (ragoût, légumes) | 35 à 70 cents |
 | **Repas** (viande, bière comprise) | 70 à 130 cents |
 | **Repas** (table « marchands », plusieurs plats) | 1,5 à 3 couronnes |
@@ -72,12 +72,12 @@ Les maisons sérieuses changent les **jetons** contre des **couronnes** à la ca
 
 | Élément | Prix indicatif |
 |---------|----------------|
-| **Entrée** (salle de jeu honnête, coupe à boire compris) | 15 à 50 cents |
-| **Jeton** de table (valeur faciale courante) | 25, 50 ou 100 cents |
-| **Mise minimale** (table de dés, tripot de port) | 50 cents à 2 couronnes |
+| **Entrée** (salle de jeu honnête, coupe à boire compris) | 5 couronnes |
+| **Jeton** de table (valeur faciale courante) | 1 couronne |
+| **Mise minimale** (table de dés, tripot de port) | 1 à 2 couronnes |
 | **Mise minimale** (salle de ville, réputation) | 2 à 10 couronnes |
-| **Partie** de cartes entre marchands (pot typique) | 5 à 40 couronnes |
-| **Rafraîchissement** au bar du casino (verre) | 15 à 45 cents |
+| **Partie** de cartes entre marchands (pot typique) | 20 à 100 couronnes |
+| **Rafraîchissement** au bar du casino (verre) | 50 cents |
 | **Chambre** (établissement lié au jeu, nuit) | 3 à 12 couronnes |
 
 ## Perles (bijouterie, négociant)
