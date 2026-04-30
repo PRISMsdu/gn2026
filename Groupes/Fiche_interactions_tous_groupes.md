@@ -58,7 +58,10 @@ Colonnes :
 | Edorian | Thoren — lien Ther-Félis | Tu dois protéger ton cousin placé sous nom d’emprunt avec changeurs ; c’est un levier contre toi si on l’atteint pour te contraindre. |
 | Edorian | Brann Crochemain (Corbeaux de Minuit) | Tu relies le casse mené par Brann au besoin d’un fait extérieur pendant que tu refermes tes dossiers ; s’ils parlent trop tôt, le braquage de façade devient une confession de mandat. |
 | Edorian | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs tient des éléments sur des flux encore sales ; tu gagneras encore du temps plutôt qu’un duel ouvert jusqu’à croisement des appuis. |
-| Melian Torv | Palyr | Tu as donné contre protection des informations utiles depuis l’UBI aux interlocuteurs Palyr ; si dossiers officiels et sermons se rejoignent, ta place publique saute avant ton honneur intact. |
+| Edorian | Marda Velyss (Tripot) | Tu as contraint Marda à blanchir des flux via le Tripot en te servant de ce qu’elle cherche à cacher. Elle sait trop sur ce qui transite par le casino. Tu dois soit la garder sous contrôle jusqu’à la passation, soit t’en débarrasser avant. |
+| Melian Torv | Lysa Morwyn (Palyr) | Elle tient le canal par lequel passent les informations que tu lui as vendues et les engagements de protection accordés par Palyr. Elle est à Ulghart pendant la Régate. Tu dois maintenir les échanges dans un circuit que tu contrôles jusqu’à la passation. |
+| Melian Torv | Corvyn Valdrak (Palyr) | Il valide le volet financier des informations achetées par Palyr. Si la ligne politique de Palyr change avant la passation, Lysa ne peut plus tenir seule la promesse de protection. Tu surveilles les signaux qui viendraient de lui via Lysa. |
+| Kaelen Veynar | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs a croisé tes réseaux de recouvrement plusieurs fois. Ni alliance ni conflit ouvert, mais une mémoire partagée de ce que chacun a vu sur le terrain. Cette connaissance mutuelle peut devenir une pression si l’un des deux décide d’en faire usage avant la passation. |
 | Ydria Ventoss | Kaelan Thormane (Mafia, Sangs) | Leur réseau peut évacuer de l’or hors circuit officiel quand tes filières ne suffisent plus ; tu portes une dette encore coûteuse à tenir fermée. |
 | Ydria Ventoss | Contrebandiers, nobles endettés | Fil de lingots mouvants et pressions sur signatures encore chères ; double ligne utile jusqu’à l’audit commun. |
 | Vaelric Dorn | Kaelan Thormane (Mafia, Sangs) | Chemins ennemis : mêmes couloirs, récits opposés ; tu étouffes ce qu’il veut rendre public quand la rumeur devient une arme. |
@@ -66,7 +69,7 @@ Colonnes :
 | Corvus | Kaelan Thormane (Mafia, Sangs) | Kaelan est ton commanditaire réel ; tu livres accès et infos tout en gardant la couverture banque intacte sous Horgrim. |
 | Corvus | Guilde des Ports Unis (couverture) | Tu gardes une identité plausible de couverture côté Guilde ; ta loyauté reste aux Sangs quand la pression monte. |
 
-Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Vaelric × Brann**, **Melian × Lucan Marivent**, **Selvara × Isara**, **Horgrim × Lysa**, **Edorian × Marda**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
+Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Vaelric × Brann**, **Melian × Lucan Marivent**, **Selvara × Isara**, **Horgrim × Lysa**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
 
 ---
 

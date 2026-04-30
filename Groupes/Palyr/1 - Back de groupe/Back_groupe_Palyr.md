@@ -2,7 +2,7 @@
 
 <!--
   DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
-  Chaîne : `Intrigues/Intrigue_Palyr.md` (orga) → ce fichier → `Groupes/Palyr/2 - Roles des Joueurs/back_joueur_*.md`.
+  Chaîne : `Intrigues/Intrigue_Palyr.md` (orga) → ce fichier → `Groupes/Palyr/2 - Roles des Joueurs/role_joueur_*.md`.
   Croisements avec d’autres groupes : `Groupes/Palyr/interactions du groupe Palyr.md` ; CSV orga : `Groupes/Palyr/1 - Back de groupe/interactions_Palyr_vers_autres_groupes.csv`.
   Style : langage simple et direct (consigne `Groupes/Afaire.md`, *Check d’un groupe*).
   Mise en forme impression : `Scripts/` — back_groupe_print.css, back_groupe_shell.html, export_back_groupe.ps1.
