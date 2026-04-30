@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Beauté troublante ; doigts d'araignée ; regard qui **cherche** la faille émotionnelle. |
-| Style vestimentaire | Élégance de croupière — bijoux qui disent « je contrôle le rythme ». |
 | Traits de caractère | Manipulatrice, charismatique, calculatrice — le sourire comme outil. |
 | Valeurs | La perfection du geste ; la loyauté **à l'équipe** avant le joueur isolé. |
 | Peur | Que l'on **lise** sa main dans un miroir trop grand. |

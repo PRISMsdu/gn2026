@@ -52,8 +52,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Quarante-deux ans ; calme apparent ; regard qui pose les questions avant les mots. |
-| Style vestimentaire | Tenues de convention ou de bureau maritime — jamais tapageur ; rien qui crie « uniforme ». |
 | Traits de caractère | Patient, froid quand il le faut, lecteur d'absences et de silences. |
 | Valeurs | Le résultat pour la ligne qu'on ne signe pas ; la précision contre le bruit. |
 | Peur | Que l'équipe paie une imprudence collective qu'on aurait pu trancher à temps. |

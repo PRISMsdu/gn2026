@@ -52,7 +52,7 @@ En même temps, le conseil bancaire d’Il-Irion a changé de ton sous **Edorian
 
 ## III — Melian et les preuves
 
-Il y a environ un an, **Melian Torv**, du conseil bancaire d’Il-Irion, a contacté une représentante de Palyr lors d’une escale. Elle vendait des informations. Elle demandait de l’argent et une protection.
+Il y a environ un an, **Melian Torv**, du conseil bancaire d’Il-Irion, a contacté une représentante de Palyr lors d’un passage au Fort d'Ulghart. Elle vendait des informations. Elle demandait de l’argent et une protection.
 
 Melian parlait de détournements massifs, documentés, impliquant le conseil sortant et des sommes prises sur plusieurs cités de la Confédération. Ce niveau de détail dépassait ce que Palyr soupçonnait sans le voir noir sur blanc.
 

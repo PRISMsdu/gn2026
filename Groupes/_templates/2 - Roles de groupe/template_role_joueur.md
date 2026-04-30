@@ -53,8 +53,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | [Description générale, signes distinctifs] |
-| Style vestimentaire | [Comment il s'habille, accessoires] |
 | Traits de caractère | [3 à 4 traits dominants] |
 | Valeurs | [Ce qui est important pour lui] |
 | Peur | [Sa plus grande crainte] |
@@ -64,35 +62,28 @@ Epopée en Krondaar
 
 # L'histoire de [NOM_DU_PERSONNAGE]
 
+**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde (origines, apprentissages, erreurs utiles au jeu, bifurcations). Chaque chapitre I à V doit comporter **au moins 10 lignes de texte** sous le titre de chapitre (plusieurs paragraphes : lieux, institutions, autres personnages nommés quand ils servent au joueur ; décisions et conséquences). Si un chapitre tient en moins de 10  lignes, le texte est **incomplet**. Utiliser les informations présentes sous forme de bullet point lorsqu'elles existent dans le chapitre pour construire le chapitre ; sinon, reprendre l'histoire écrite et l'adapter.
+
+**Rédaction** : tout ce qui concerne le ton, les interdictions, la syntaxe, la narration au « tu », la révision et le contrôle qualité est défini dans le fichier commun [Style.md](../Style.md) (`Groupes/_templates/Style.md` depuis la racine du dépôt). Après rédaction des chapitres I à V uniquement, appliquer la **passe §11** de ce même fichier (relecture anti-mélasse, section histoire).
+
+*(Apparence et caractère : traits observables ou habitudes attestables ; éviter une seule ligne d'« impression » sans comportement précis au jeu.)*
+
 ## Chapitre I : Les origines ([période])
 
-*[Récit romancé de l'enfance et des origines du personnage, intégrant le contexte familial, l'éducation, et les événements marquants. Style narratif immersif, 1 à 2 paragraphes.]*
-
-*[Intégrer ici les relations familiales et les premiers contacts importants dans le récit.]*
+Lieu et date ou tranche d’âge ; parents ou absence ; premier métier vécu depuis l’enfance ou première tâche payée ; comment tu as appris lecture, chiffre ou sceau hors cursus officiel si c’est ton cas ; un ou deux événements datés encore utiles dont la cause et l’effet restent dits sobrement ; ancrages (port, rue, comptoir) seulement s’ils servent à verrouiller le lieu avant la suite. 
 
 ## Chapitre II : L'apprentissage ([période])
-
-*[Récit de la formation et des premiers pas, intégrant l'apprentissage, les premiers exploits, et les choix de carrière. Style narratif, 1 à 2 paragraphes.]*
-
-*[Intégrer ici les mentors, les premiers alliés, et les relations professionnelles dans le récit.]*
+Formation métier ou illégale ; premiers patrons, premières couvertures, premières règles non écrites.
 
 ## Chapitre III : L'ascension ([période])
-
-*[Récit de l'évolution professionnelle et des réalisations, intégrant les succès, les échecs, et les relations importantes. Style narratif, 1 à 2 paragraphes.]*
-
-*[Intégrer ici les relations avec les autres membres du groupe, les alliés extérieurs, et les ennemis dans le récit.]*
+Ta place dans une maison, une guilde, un réseau ou un mandat : titres obtenus, rivalités, échecs retournés en crédit. Rencontres qui te positionnent par rapport aux autres membres du même groupe. 
 
 ## Chapitre IV : Les défis actuels ([période récente])
-
-*[Récit de la situation actuelle et des défis à relever, intégrant les tensions, les opportunités, et les enjeux. Style narratif, 1 à 2 paragraphes.]*
-
-*[Intégrer ici les relations actuelles, les conflits, et les alliances dans le récit.]*
+Ce qui tire sur toi dans les semaines qui précèdent l’arrivée à Ulghart : fins de mandat, menaces financières, dettes hors banque ou dettes officielles, pression confessionnelle ou politique, etc..  Relations **aujourd’hui**, pas seulement le passé lointain ; ce qui peut casser une fois sur place sous le fort.
 
 ## Chapitre V : Le réseau et les relations
+Alliés, clients et ennemis encore nommables : comment tu leur parles, ce qu’ils croient savoir sur toi, ce que tu dois encore leur cacher ou leur livrer avant que la situation change sous le fort.
 
-*[Récit des relations importantes, intégrant les alliés, les ennemis, et les contacts dans une narration fluide. Style narratif, 1 à 2 paragraphes.]*
-
-*[Intégrer ici toutes les relations du personnage de manière naturelle dans le récit.]*
 
 
 
@@ -115,11 +106,11 @@ Epopée en Krondaar
 Remplace l’ancien couple « contacts extérieurs + informations sensibles ».
 
 **Règles de forme (obligatoires)**  
-- **Concret seulement** : pas de paragraphe « décoratif » ni de formulation vide. Si tu ne peux pas cadrer un lien avec des faits nommés, **n’écris pas** ce bloc.  
-- **Un `##` par sujet** qui a une utilité en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement.  
-- Pour chaque sujet utile, donner au minimum : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d’attache** (banque, cité, guilde, fonction…).  
-- **Décrire le lien en une ou deux phrases** : nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Nommer les pièces de jeu** dont le joueur a besoin à table : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu’inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d’outils de rédaction orga.
+- **Rédaction** : respecter [Style.md](../Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
+- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §5).  
+- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d’attache** (banque, cité, guilde, fonction…).  
+- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
+- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu’inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d’outils de rédaction orga.
 
 **Exemple de densité attendue**
 

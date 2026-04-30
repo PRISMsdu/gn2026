@@ -55,6 +55,3 @@ Les droits de garde croissent du bas vers le haut. **Ce que fixe le comptoir** :
 
 *Union bancaire d’Il-Irion — avis affiché en salle publique.*
 
----
-
-*GN Krondaar 2026 — Union bancaire d’Il-Irion*

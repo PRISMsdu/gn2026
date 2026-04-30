@@ -1,6 +1,10 @@
 # Sybrel Dornik — L'ombre (UBI)
 
-<!-- UBI — Union bancaire d'Il-Irion. Récit partagé : `../1 - Back de groupe/Back_groupe_UBI.md`. Intrigue orga : `Intrigues/Intrigue_Banquiers.md`. -->
+<!--
+  Rôle joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe.
+  Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l'intrigue ou à la fiche perso).
+  Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
+-->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
@@ -33,14 +37,14 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Sybrel Dornik |
-| Rôle dans le groupe | Surveillance intérieure — tunnels, ombre |
+| Rôle dans le groupe | Surveillance intérieure — tunnels, coursives, ombre |
 | Classe / profession | Garde / espionne *(règlement — orga)* |
 | Groupe | Banquiers — UBI |
 | Points de vie | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | 25 ans ; origines Sangs de la Steppe ; fil Shadow (voir Connaissances). |
+| Remarques | 25 ans ; origines Sangs de la Steppe ; dette envers Shadow ; intégrée dans la combine depuis 3 ans. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -48,77 +52,112 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Femme jeune aux traits marqués par la survie, regard discret et calculateur. |
-| Style vestimentaire | Vêtements sombres, chaussures silencieuses, accessoires discrets. |
-| Traits de caractère | Silencieuse, calculatrice, obéissante en surface, imprévisible. |
-| Valeurs | Survie, loyauté conditionnelle, protection de soi, rédemption. |
-| Peur | Découverte de tes origines mafieuses, exécution par Horgrim ; **Shadow** qui sait qui tu étais et que tu es à la banque. |
-| Rêve | Réintégrer la mafia et racheter ta place — en tension avec la peur du réseau qui te connaît vraiment. |
+| Traits de caractère | Discrète, efficace, méfiance par défaut. Ne parle pas si ça ne sert à rien. |
+| Valeurs | Survivre. Ne pas se retrouver seule dans une situation sans issue. Garder des options ouvertes. |
+| Peur | Qu'on découvre ses origines. Qu'Horgrim fasse le lien. Que Shadow décide que sa présence ici est un problème pour les Sangs. |
+| Rêve | Une sortie propre, assez loin, sans que ni la banque ni les Sangs ne sachent où elle est allée. |
 
 ---
 
 # L'histoire de Sybrel Dornik
 
+**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
+
+**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
+
 ## Chapitre I : Les origines
 
-Née dans les bas-fonds d'une grande cité portuaire, famille de voleurs affiliée aux Sangs de la Steppe. **Shadow** a croisé ta route quand tu tenais un maillon d'une chaîne d'enfants — une passe ratée, un protocole qui voulait te sacrifier pour refermer le trou. Lui a fait l'autre choix : le silence qui t'a laissée vivre sans te livrer. Tu lui dois d'être encore là — et une terreur que tu ne sais pas nommer.
+Tu nais dans les bas-fonds d'une grande cité portuaire. Ta famille est affiliée aux Sangs de la Steppe — pas les chefs, pas les lieutenants. Les exécutants, les intermédiaires, ceux qui font passer des messages et des colis sans poser de questions sur le contenu. Ton enfance se passe dans cet environnement. Tu apprends à ne pas laisser de traces, à repérer qui surveille quoi, à sortir d'un bâtiment par d'autres chemins que celui par lequel tu es entrée.
+
+À douze ans tu commences à participer à des missions. Des petites choses : porter un paquet, observer un carrefour pendant une heure, signaler si quelqu'un sort d'une maison. Les Sangs paient peu mais régulièrement.
+
+À quatorze ans tu fais partie d'une chaîne plus sérieuse. Tu y joues un rôle de maillon intermédiaire. Puis un protocole de sécurité de la chaîne est activé, et ce protocole prévoit de sacrifier le maillon le plus exposé si quelqu'un est repéré. Tu es ce maillon. L'ordre est donné de te laisser tomber.
+
+Shadow y était. Il a fait l'autre choix. Il a gardé le silence et laissé la chaîne se refermer autrement. Tu es encore là parce qu'il a décidé que tu devais l'être. Tu ne sais pas pourquoi.
 
 ## Chapitre II : L'apprentissage
 
-À quinze ans, cambriolage raté, famille qui refusa la rançon : tu proposas tes services à la Banque comme experte des méthodes des voleurs. Tu as compris plus tard que Shadow des Sangs était l'homme du geste — et que la banque n'est pas un mur assez épais si les Sangs poussent jusqu'aux tunnels.
+Tu quittes la cité portuaire à quinze ans. Tu ne veux plus travailler pour les Sangs. Tu as besoin d'une nouvelle identité professionnelle et tu as une compétence précise : tu sais comment les voleurs opèrent dans les bâtiments sécurisés.
+
+Tu proposes tes services à une maison de change à Il-Irion comme consultante en sécurité intérieure. Tu leur décris comment une personne comme toi entrerait dans leurs entrepôts, par où, à quelle heure, avec quels outils. Ils t'embauchent pour colmater ces angles. Tu travailles là deux ans.
+
+Tu passes ensuite dans une maison bancaire plus importante. Puis une autre. Tu construis une réputation de spécialiste de la surveillance interne : les flux qui ne passent pas par les portes officielles, les coffrets qui changent de place sans déclaration, les gardes qui laissent des passages sans les noter. Tu ne voles rien. Tu identifies où ça peut se passer.
+
+C'est cette réputation qui arrive à l'UBI. Horgrim Dval cherche quelqu'un pour surveiller les tunnels et les coursives. Quelqu'un qui pense comme un voleur pour attraper les voleurs. Ton nom remonte.
 
 ## Chapitre III : L'ascension
 
-Recrutée observatrice, intégrée à la garde sous Horgrim : sécurité intérieure, couloirs que les clients ne voient pas. Tu empêches le vol interne — tout en sachant que ton passé peut te rattraper par une seule rencontre.
+Tu entres au service de l'UBI il y a cinq ans. Horgrim te donne un périmètre précis : tunnels, coursives secondaires, accès qui ne sont pas sur les plans officiels. Tu rédiges des rapports sur ce que tu observes. Ces rapports vont à Horgrim.
+
+Au bout de deux ans, Edorian te convoque. Il ne demande pas ce que Horgrim t'a demandé. Il te demande ce que tu vois réellement dans les tunnels — y compris les passages utilisés pour des mouvements hors registre que Horgrim n'a pas autorisés mais que le noyau du conseil utilise. Il te demande si tu peux orienter tes rapports pour ne pas enregistrer certaines de ces utilisations.
+
+Tu comprends ce qui se passe dans cette banque. Tu comprends aussi que tu sais trop pour rester neutre. Edorian ne te menace pas. Il te propose une place dans la sortie.
+
+Depuis trois ans tu fais partie de la combine. Tes rapports à Horgrim sont vrais à quatre-vingt pour cent. Le reste, tu le vois, tu le notes pour toi, et tu le transmets à Edorian quand c'est utile.
 
 ## Chapitre IV : Les défis actuels
 
-Tu caches tes origines ; tu peux orienter de l'or vers la mafia si une évacuation l'exige ; tu dois éviter qu'Horgrim ne te descende avant que tu aies choisi ton camp. Shadow reste le point chaud : chaque croisement banque / Sangs peut virer à la panique ou à la négociation tacite.
+Plusieurs gardes recrutés il y a trois ans te préoccupent. Ils font leur travail correctement. Mais plusieurs d'entre eux étaient proches des six gardes morts. Leur comportement dans les tunnels n'est pas normal : ils disparaissent à des heures inhabituelles, certains ont posé des questions sur des zones du fort qui ne sont pas leur affectation. Tu as signalé ça à Edorian. Tu ne sais pas encore ce qu'il en a fait.
+
+Shadow est à Ulghart pour la Régate. Les Sangs de la Steppe ont un intérêt dans ce qui se passe au fort. Sa présence ici croise ta présence ici. Si les Sangs apprennent que tu travailles dans cette banque, que tu sais ce que tu sais, ils ont deux options : te recruter ou te faire taire. Shadow avait fait un choix une fois. Tu ne sais pas s'il le referait.
+
+La passation et la Régate vont remplir le fort de monde. Plus de monde signifie plus de mouvements dans les tunnels, plus d'angles morts, plus de risques que quelqu'un voit ce que les Corbeaux de Minuit font la nuit prévue. Ton travail cette semaine-là sera de t'assurer que les bons passages soient libres au bon moment et que les mauvais témoins soient ailleurs.
 
 ## Chapitre V : Le réseau et les relations
 
-Horgrim te surveille sans te faire confiance ; Kaelen partage parfois tes rondes ; Edorian te soupçonne. Le groupe ne sait pas tout de ton passé — les Sangs, si.
+Edorian te fait confiance sur les tunnels. Il sait que tu orientes tes rapports et il sait que ça tient. Tu lui fais confiance sur le plan parce que tu n'as pas d'alternative qui vaille autant.
+
+Horgrim te surveille. Il ne te fait pas confiance mais il n'a pas de preuve de ce que tu fais vraiment. Il est méticuleux. Il pourrait trouver une incohérence dans tes rapports si tu n'es pas soigneuse. Tu l'es.
+
+Kaelen Veynar partage parfois tes rondes. Il ne pose pas de questions sur ce que tu fais dans les parties du fort où tu vas seule. C'est commode.
+
+Shadow sait qui tu es. Il sait que tu es ici. Ce que tu lui dois, ce que tu lui ferais, tu ne le sais pas encore. Il est le point le plus imprévisible de ta situation actuelle.
+
+Le groupe entier est dans la combine depuis trois ans. Tu le sais. Ils savent que tu le sais. Ce n'est pas de la confiance. C'est une situation où personne ne peut se permettre que l'autre parte sans prévenir.
 
 ---
 
-# Tes missions et actions
+# Tes missions et objectifs
 
-## Objectifs prioritaires
+- **Tunnels et passation** : s'assurer que les passages utilisés par l'opération extérieure sont libres et non surveillés la nuit prévue ; orienter les rondes pour éviter les mauvais témoins.
+- **Gardes suspects** : identifier ce que font dans les tunnels les gardes recrutés il y a trois ans, proches des six morts, avant que la Régate rende leurs mouvements impossibles à suivre.
+- **Shadow** : gérer la rencontre inévitable pendant la Régate sans que ça devienne un problème pour toi ou pour le plan.
+- **Sortie personnelle** : préparer une issue qui ne dépend ni des Sangs ni de la banque une fois la Régate passée.
 
-- Empêcher le vol **interne** ; veiller à l'intégrité des banquiers plus qu'à celle des clients ; cacher tes **origines**.
-- Orienter discrètement de l'**or** vers la mafia lors d'une évacuation si la ligne l'exige ; racheter ta **place** ; **ne pas laisser Shadow** t'enfermer dans un choix banque ou survie.
+# Membres du groupe
 
-## Membres du groupe UBI
-
-| Personnage | Lien |
-|------------|------|
-| Horgrim Dval | Supervision — surveillée constamment, pas de confiance. |
-| Edorian | Méfiance — il te surveille discrètement. |
-| Kaelen Veynar | Collaboration — missions garde. |
-| Melian Torv | Neutralité. |
-| Selvara Quenndral | Neutralité. |
-| Ydria Ventoss | Neutralité. |
-| Vaelric Dorn | Neutralité. |
-| Corvus | Méfiance mutuelle — mêmes ombres, ordres différents. |
-
----
+| Personnage | Interaction |
+|------------|-------------|
+| Edorian | Confiance fonctionnelle : tu orientes tes rapports pour lui depuis trois ans. |
+| Horgrim Dval | Supervision formelle ; méfiance mutuelle non déclarée. Tu restes soigneuse. |
+| Kaelen Veynar | Collaboration de terrain ; il ne pose pas de questions, c'est utile. |
+| Vaelric Dorn | Peu de contact direct ; mêmes espaces, briefings différents. |
+| Selvara Quenndral | Prudence : tu travailles près des archives sensibles, elle le sait. |
+| Ydria Ventoss | Peu de contact direct ; tu vois passer des choses au comptoir que le registre n'enregistre pas. |
+| Melian Torv | Peu de contact direct. |
+| Corvus | Méfiance mutuelle : mêmes ombres dans les tunnels, ordres différents. |
 
 # Connaissances
 
-## Fonction — les trois dépôts
+**Règles de forme (obligatoires)**  
+- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
+- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
+- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
+- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
+- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
-| Type de dépôt | Rôle pendant le dépôt |
-|---------------|------------------------|
-| Or | Hors comptoir : surveillance tunnels, vol interne, filières. |
-| Écrits | Substitution de coffrets, fuites d'information. |
-| Biens | Bien convoité ou dangereux : angles morts, doubles jeux. |
+## Tunnels et coursives — UBI
 
-## Shadow
+Tu connais les tunnels et coursives du fort mieux que quiconque, y compris ceux qui ne figurent pas sur les plans officiels. Tu sais lesquels sont surveillés, lesquels ne le sont pas, et lesquels ont été utilisés pour des mouvements non déclarés pendant ce mandat. Cette connaissance est ton actif le plus précieux dans le plan.
 
-Tu portes Shadow comme une lame dans le dos — pas celle qu'il t'a plantée, celle qu'il a refusé de sortir quand tu étais gamine sur une passe ratée. Tu le crains parce qu'il sait ; parce qu'il est des Sangs ; parce qu'il sait que tu es ici, dans les tunnels où sa mission peut croiser la tienne. Tu ne lui dois pas une reconnaissance tranquille : tu dois la peur d'être vue par le seul homme du réseau qui a une preuve vivante de ce que tu étais avant la banque.
+## Shadow — Sangs de la Steppe
 
-*(Le détail de la chaîne d'enfants et du geste est dans ton histoire ci-dessus.)*
+Shadow est membre des Sangs de la Steppe. Il était présent le jour où le protocole prévoyait de te laisser tomber à quatorze ans. Il a fait l'autre choix. Tu lui dois d'être encore là — mais tu ne sais pas pourquoi il a fait ce choix, et tu ne sais pas ce qu'il attend en retour. Il sait que tu es à la banque. Il est à Ulghart pour la Régate. Ce croisement va produire quelque chose. Tu ne sais pas quoi.
+
+## Rapports orientés — ce qu'Horgrim ne voit pas
+
+Depuis trois ans, une partie de ce que tu observes dans les tunnels ne figure pas dans tes rapports à Horgrim. Ces informations vont à Edorian. Cette pratique est irréversible : si Horgrim reconstituait la séquence, il comprendrait immédiatement l'étendue de ce que tu lui caches. C'est une raison supplémentaire pour que le plan fonctionne jusqu'au bout.
 
 ---
 
-*GN Krondaar 2026 — UBI*
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*

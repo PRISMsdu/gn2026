@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Air de famille avec Lira — on vous confond parfois au premier regard ; gestes fluides ; regard qui **lit** avant de parler. |
-| Style vestimentaire | Tenue de croupière impeccable — miroir du prestige du Tripot. |
 | Traits de caractère | Précise, rapide, fière ; le jeu comme langue maternelle. |
 | Valeurs | La table propre, la maison payante, la sœur **sans** tout mélanger. |
 | Peur | Que l'émotion au tapis brûle ce que des années ont construit. |

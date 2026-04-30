@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Quarante-cinq ans (est.) ; visage souvent masqué ou ombragé en public. |
-| Style vestimentaire | Discret, neutre, adapté aux salons comme aux docks. |
 | Traits de caractère | Analytique, organisé, méfiant, intelligent. |
 | Valeurs | L'information comme monnaie ; payer ceux qui t'ont traité en ressource. |
 | Peur | Perdre les fils ; qu'on retrouve ton nom de baptême. |

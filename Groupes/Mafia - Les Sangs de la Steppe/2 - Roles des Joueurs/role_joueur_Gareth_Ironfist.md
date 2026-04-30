@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Quarante ans, cicatrice sur le front ; regard qui annonce la violence avant le geste. |
-| Style vestimentaire | Sombre, cape de cuir, armes visibles quand il faut imposer le respect. |
 | Traits de caractère | Violent quand il le faut, loyal, protecteur avec les siens. |
 | Valeurs | La mafia comme famille qui ne trahit pas pour une pièce ; les injustices des puissants comme cibles légitimes. |
 | Peur | Qu'un compagnon vende le groupe ; d'échouer quand on compte sur toi. |

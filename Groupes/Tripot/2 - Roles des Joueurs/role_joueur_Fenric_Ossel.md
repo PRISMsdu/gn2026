@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Homme d'encre et de paumes propres ; lunettes ou regard de **comptable** qui ne loupe pas une ligne. |
-| Style vestimentaire | Sobriété de bureau noble — rien qui claque, tout ce qui **compte**. |
 | Traits de caractère | Précis, calme, patient — le silence d'une **colonne** bien tenue. |
 | Valeurs | Que les chiffres **tiennent** le jour où tout le monde ment. |
 | Peur | Le **sceau** sur un livre qu'on n'a pas eu le temps de **fermer**. |

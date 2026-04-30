@@ -14,3 +14,27 @@ powershell -NoProfile -ExecutionPolicy Bypass -File "Scripts/export_back_groupe.
 ```
 
 Autre groupe : adapter `-MarkdownPath` ou utiliser `-BackGroupeFileName` + `-BackGroupeDirectory`. Sortie : PDF horodaté dans le même dossier que le `.md`.
+
+**Blason de groupe** : si un fichier `Blason_*.png` (ou `.jpg`, `.jpeg`, `.webp`) est présent dans le même dossier que le `.md`, le script l'injecte automatiquement au début du `<h1>` — floatté à gauche, 96 × 96 px, style lettre enluminée. Nommer le fichier `Blason_[GROUPE].png` (ex. `Blason_UBI.png`) et le placer dans `Groupes/[GROUPE]/1 - Back de groupe/`.
+
+---
+
+## Export PDF — Avis (pièces de jeu)
+
+**Script** : `Scripts/export_avis.ps1`
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File "Scripts/export_avis.ps1" -MarkdownPath "Groupes/Banquiers - UBI/1 - Back de groupe/Avis_depot_biens_UBI.md"
+```
+
+**Paramètres** :
+- `-MarkdownPath` : chemin du `.md` source (obligatoire)
+- `-InstitutionNom` : nom affiché sous le blason (défaut : `"Union Bancaire d'Il-Irion"`)
+- `-Format` : `A4` (défaut) ou `A3`
+- `-Browser`, `-ChromePath`, `-PandocPath`, `-SkipPdf` : identiques au script back groupe
+
+**Style** : fond parchemin, police plume (IM Fell English via Google Fonts), titres en Cinzel Decorative avec ornements enluminés (✦), lettre ornée (drop cap) sur le premier § de chaque chapitre. Pas d'entête Celtiana.
+
+**Blason** : auto-détecté (`Blason_*.png/jpg/webp`) dans le même dossier que le `.md`, affiché centré en haut sous le nom de l'institution (110 × 110 px).
+
+**Fichiers** : `Scripts/avis_shell.html`, `Scripts/avis_print.css`.

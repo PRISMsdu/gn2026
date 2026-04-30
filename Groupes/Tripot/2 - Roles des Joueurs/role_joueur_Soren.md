@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Homme mûr ; mains d'alchimiste et de soldat ; cicatrices ; regard **sombre** mais présent. |
-| Style vestimentaire | Sombre, pratique — tablier d'atelier quand la mixture l'exige. |
 | Traits de caractère | Loyal, protecteur, déterminé — peu de mots, beaucoup de **dos**. |
 | Valeurs | Rédemption par l'**action** — pas par les discours. |
 | Peur | La **Brigade** au cou — la table **sans** lui. |

@@ -273,6 +273,22 @@ $cssHref = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $cssRe
 $bandeauSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $bandeauResolved
 $logoSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $logoResolved
 
+# Blason de groupe : chercher Blason_*.png|jpg|jpeg|webp dans le même répertoire que le .md
+$blasonPath = $null
+foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
+  $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
+    Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
+    Select-Object -First 1
+  if ($found) { $blasonPath = $found.FullName; break }
+}
+
+if ($blasonPath -and ([regex]'(?s)<h1[^>]*>').IsMatch($bodyInner)) {
+  $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPath
+  $blasonImg = "<img src=""$blasonSrc"" class=""blason-titre"" alt=""Blason du groupe"" />"
+  # Injection immédiatement après la balise ouvrante <h1> (première occurrence seulement)
+  $bodyInner = [regex]::Replace($bodyInner, '(<h1[^>]*>)', "`$1$blasonImg", 1)
+}
+
 $shell = Get-Content -Path $shellPath -Raw -Encoding UTF8
 $html = $shell.
   Replace('__CSS_HREF__', $cssHref).

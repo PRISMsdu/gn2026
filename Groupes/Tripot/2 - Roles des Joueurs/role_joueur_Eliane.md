@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Mains agiles ; sourire calculateur ; regard qui **lit** la foule comme une cote. |
-| Style vestimentaire | Élégance de maîtresse des paris — rien d'excessif qui effraie le parieur honnête. |
 | Traits de caractère | Manipulatrice, charmeuse, perspicace — le calme du chiffre qui monte. |
 | Valeurs | La cote juste **pour la maison** ; la loyauté à l'équipe. |
 | Peur | La preuve **écrite** qui retombe du plafond. |

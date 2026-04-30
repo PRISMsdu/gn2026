@@ -1,0 +1,319 @@
+<#
+  Export HTML + PDF parchemin medieval pour un avis GN a partir d'un fichier .md.
+
+  Prerequis :
+    - Pandoc dans le PATH (https://pandoc.org)
+    - Google Chrome ou Microsoft Edge (impression PDF headless)
+    - Acces internet au moment de la generation (Google Fonts chargees cote navigateur)
+
+  Navigateur : par defaut Chrome puis Edge. Pour forcer : -Browser Chrome | Edge
+
+  Exemples (depuis la racine du depot) :
+    .\Scripts\export_avis.ps1 -MarkdownPath "Groupes\Banquiers - UBI\1 - Back de groupe\Avis_depot_biens_UBI.md"
+    .\Scripts\export_avis.ps1 -MarkdownPath "Groupes\...\Avis_xxx.md" -Format A3 -InstitutionNom "Guilde des Ports Unis"
+
+  Sortie dans le meme repertoire que le .md :
+    - nom_avis_yyyyMMdd_HHmmss.pdf
+#>
+
+[CmdletBinding(DefaultParameterSetName = 'ByPath')]
+param(
+  [Parameter(ParameterSetName = 'ByPath', Mandatory = $true, Position = 0)]
+  [string] $MarkdownPath,
+
+  [Parameter(ParameterSetName = 'ByName', Mandatory = $true)]
+  [string] $AvisFileName,
+
+  [Parameter(ParameterSetName = 'ByName', Mandatory = $true)]
+  [string] $AvisDirectory,
+
+  [string] $OutputHtmlPath = "",
+
+  [string] $InstitutionNom = "Union Bancaire d'Il-Irion",
+
+  [ValidateSet('A4', 'A3')]
+  [string] $Format = 'A4',
+
+  [switch] $SkipPdf,
+
+  [ValidateSet('Auto', 'Chrome', 'Edge')]
+  [string] $Browser = 'Auto',
+
+  [string] $ChromePath = "",
+
+  [string] $PandocPath = ""
+)
+
+$ErrorActionPreference = "Stop"
+
+function ConvertTo-HtmlUriPath {
+  param([string] $Path)
+  return ($Path -replace '\\', '/')
+}
+
+function Get-RelativeUriPath {
+  param(
+    [string] $FromAbsoluteFile,
+    [string] $ToAbsoluteFile
+  )
+  $fromDir = Split-Path -Parent $FromAbsoluteFile
+  if (-not $fromDir.EndsWith('\')) { $fromDir += '\' }
+  $fromUri = New-Object System.Uri $fromDir
+  $toUri = New-Object System.Uri $ToAbsoluteFile
+  $rel = $fromUri.MakeRelativeUri($toUri).ToString()
+  return (ConvertTo-HtmlUriPath $rel)
+}
+
+function Get-PandocExecutable {
+  param([string] $ExplicitPath)
+  if (-not [string]::IsNullOrWhiteSpace($ExplicitPath)) {
+    if (-not (Test-Path -LiteralPath $ExplicitPath)) {
+      Write-Error "PandocPath introuvable : $ExplicitPath"
+    }
+    return (Resolve-Path -LiteralPath $ExplicitPath).Path
+  }
+  $cmd = Get-Command pandoc.exe -ErrorAction SilentlyContinue
+  if (-not $cmd) { $cmd = Get-Command pandoc -ErrorAction SilentlyContinue }
+  if ($cmd -and $cmd.Source -and (Test-Path -LiteralPath $cmd.Source)) {
+    return $cmd.Source
+  }
+  foreach ($c in @(
+      (Join-Path $env:ProgramFiles "Pandoc\pandoc.exe")
+      (Join-Path ${env:ProgramFiles(x86)} "Pandoc\pandoc.exe")
+    )) {
+    if (Test-Path -LiteralPath $c) { return $c }
+  }
+  return $null
+}
+
+function Get-EdgeExecutable {
+  $candidates = @(
+    (Join-Path $env:ProgramFiles "Microsoft\Edge\Application\msedge.exe")
+    (Join-Path ${env:ProgramFiles(x86)} "Microsoft\Edge\Application\msedge.exe")
+  )
+  foreach ($c in $candidates) {
+    if (Test-Path -LiteralPath $c) { return $c }
+  }
+  return $null
+}
+
+function Get-ChromeFromRegistry {
+  foreach ($key in @(
+      'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe'
+      'HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe'
+    )) {
+    if (-not (Test-Path -LiteralPath $key)) { continue }
+    try {
+      $def = (Get-ItemProperty -LiteralPath $key -ErrorAction Stop).'(default)'
+      if ([string]::IsNullOrWhiteSpace($def)) { continue }
+      if (Test-Path -LiteralPath $def) { return $def }
+    } catch { }
+  }
+  return $null
+}
+
+function Get-ChromeExecutable {
+  if (-not [string]::IsNullOrWhiteSpace($script:ChromePathParam)) {
+    $p = $script:ChromePathParam.Trim()
+    if (-not (Test-Path -LiteralPath $p)) {
+      Write-Error "ChromePath introuvable : $p"
+    }
+    return (Resolve-Path -LiteralPath $p).Path
+  }
+
+  foreach ($cmdName in @('chrome.exe', 'chrome')) {
+    $fromPath = Get-Command $cmdName -ErrorAction SilentlyContinue
+    if ($fromPath -and $fromPath.Source -and (Test-Path -LiteralPath $fromPath.Source)) {
+      return $fromPath.Source
+    }
+  }
+
+  $reg = Get-ChromeFromRegistry
+  if ($reg) { return $reg }
+
+  $candidates = @(
+    (Join-Path $env:LOCALAPPDATA "Google\Chrome\Application\chrome.exe")
+    (Join-Path $env:ProgramFiles "Google\Chrome\Application\chrome.exe")
+    (Join-Path ${env:ProgramFiles(x86)} "Google\Chrome\Application\chrome.exe")
+    (Join-Path $env:ProgramFiles "Google\Chrome Dev\Application\chrome.exe")
+  )
+  foreach ($c in $candidates) {
+    if (Test-Path -LiteralPath $c) { return $c }
+  }
+  return $null
+}
+
+function Resolve-BrowserForPdf {
+  param(
+    [string] $Mode
+  )
+  if ($Mode -eq 'Edge') {
+    $e = Get-EdgeExecutable
+    if (-not $e) { Write-Error "Edge demande mais introuvable." }
+    return $e
+  }
+  if ($Mode -eq 'Chrome') {
+    $c = Get-ChromeExecutable
+    if (-not $c) { Write-Error "Chrome demande mais introuvable." }
+    return $c
+  }
+  $c = Get-ChromeExecutable
+  if ($c) { return $c }
+  $e = Get-EdgeExecutable
+  if ($e) { return $e }
+  Write-Error "Aucun navigateur trouve pour l'export PDF."
+}
+
+function Export-HtmlFileToPdf {
+  param(
+    [string] $HtmlAbsolutePath,
+    [string] $PdfAbsolutePath,
+    [string] $BrowserExe
+  )
+
+  $htmlResolved = (Resolve-Path -LiteralPath $HtmlAbsolutePath).Path
+  $htmlUri = ([System.Uri]$htmlResolved).AbsoluteUri
+  $pdfArg = '--print-to-pdf="' + $PdfAbsolutePath + '"'
+
+  $args = @(
+    '--headless=new'
+    '--disable-gpu'
+    '--no-first-run'
+    '--no-default-browser-check'
+    '--no-pdf-header-footer'
+    $pdfArg
+    $htmlUri
+  )
+
+  $p = Start-Process -FilePath $BrowserExe -ArgumentList $args -Wait -PassThru -NoNewWindow
+  $code = $p.ExitCode
+  if ($null -eq $code) { $code = 0 }
+
+  if (-not (Test-Path -LiteralPath $PdfAbsolutePath)) {
+    Write-Error "Le fichier PDF n'a pas ete cree : $PdfAbsolutePath (navigateur : $BrowserExe)"
+  }
+  if ($code -ne 0) {
+    Write-Warning "Le navigateur a retourne le code $code, mais le PDF existe : $PdfAbsolutePath"
+  }
+}
+
+# --- Resolution du chemin .md ---
+
+if ($PSCmdlet.ParameterSetName -eq 'ByName') {
+  $name = $AvisFileName.Trim()
+  if ($name -notmatch '\.md$') {
+    $name = "$name.md"
+  }
+  $dir = [System.IO.Path]::GetFullPath($AvisDirectory)
+  $MarkdownPath = Join-Path $dir $name
+}
+
+$md = Resolve-Path -LiteralPath $MarkdownPath
+$mdDir = Split-Path -Parent $md
+$baseName = [System.IO.Path]::GetFileNameWithoutExtension($md.Path)
+
+if (-not $OutputHtmlPath) {
+  $OutputHtmlPath = Join-Path $mdDir "${baseName}_avis_print.html"
+}
+
+$outFile = [System.IO.Path]::GetFullPath($OutputHtmlPath)
+$outDir = Split-Path -Parent $outFile
+
+$pdfStamp = Get-Date -Format 'yyyyMMdd_HHmmss'
+$pdfFile = Join-Path $mdDir "${baseName}_avis_${pdfStamp}.pdf"
+$pdfFile = [System.IO.Path]::GetFullPath($pdfFile)
+
+if (-not (Test-Path -LiteralPath $outDir)) {
+  New-Item -ItemType Directory -Path $outDir -Force | Out-Null
+}
+
+# --- Pandoc : Markdown -> corps HTML ---
+
+$pandocExe = Get-PandocExecutable -ExplicitPath $PandocPath
+if (-not $pandocExe) {
+  Write-Error "Pandoc introuvable. Ajoutez Pandoc au PATH ou passez -PandocPath."
+}
+
+$tempBody = [System.IO.Path]::GetTempFileName() + ".html"
+try {
+  & $pandocExe $md.Path -f markdown -t html5 --standalone=false -o $tempBody
+  $bodyInner = Get-Content -Path $tempBody -Raw -Encoding UTF8
+  if ($bodyInner -match '(?s)<body[^>]*>(.*)</body>') {
+    $bodyInner = $Matches[1].Trim()
+  }
+} finally {
+  Remove-Item -Force -LiteralPath $tempBody -ErrorAction SilentlyContinue
+}
+
+# Supprimer le h1 du corps (il sera affiche dans l'entete)
+$bodyInner = [regex]::Replace($bodyInner, '(?s)<h1[^>]*>.*?</h1>', '', 1)
+
+# --- Blason : detection dans le repertoire du .md ---
+
+$blasonSrc = ''
+foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
+  $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
+    Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
+    Select-Object -First 1
+  if ($found) {
+    $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $found.FullName
+    break
+  }
+}
+
+if ($blasonSrc) {
+  $blasonHtml = '<img src="' + $blasonSrc + '" class="avis-blason" alt="Blason" />'
+} else {
+  $blasonHtml = ''
+}
+
+# --- Format de page : surcharge CSS ---
+
+if ($Format -eq 'A3') {
+  $pageOverride = '@page { size: A3; margin: 25mm 22mm; } body.avis-document { width: 297mm; max-width: 297mm; min-height: 420mm; padding: 25mm 22mm; }'
+} else {
+  $pageOverride = ''
+}
+
+# --- Titre du document et institution ---
+
+$institutionHtml = [System.Net.WebUtility]::HtmlEncode($InstitutionNom)
+
+$titlePlain = $baseName
+$rxH1 = [regex]'(?s)<h1[^>]*>(?<t>[\s\S]*?)</h1>'
+$mH1 = $rxH1.Match($bodyInner)
+if ($mH1.Success) {
+  $titlePlain = [regex]::Replace($mH1.Groups['t'].Value, '<[^>]+>', '').Trim()
+  if ([string]::IsNullOrWhiteSpace($titlePlain)) { $titlePlain = $baseName }
+}
+
+# --- Assemblage HTML ---
+
+$shellPath = Join-Path $PSScriptRoot "avis_shell.html"
+$cssPath = Join-Path $PSScriptRoot "avis_print.css"
+
+$cssResolved = (Resolve-Path -LiteralPath $cssPath).Path
+$cssHref = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $cssResolved
+
+$shell = Get-Content -Path $shellPath -Raw -Encoding UTF8
+$html = $shell.
+  Replace('__CSS_HREF__', $cssHref).
+  Replace('__PAGE_OVERRIDE__', $pageOverride).
+  Replace('__BLASON_HTML__', $blasonHtml).
+  Replace('__INSTITUTION_NOM__', $institutionHtml).
+  Replace('__MARKDOWN_BODY__', $bodyInner)
+
+[System.IO.File]::WriteAllText($outFile, $html, [System.Text.UTF8Encoding]::new($false))
+
+# --- Export PDF ---
+
+if ($SkipPdf) {
+  Write-Host "HTML : $outFile"
+} else {
+  $script:ChromePathParam = $ChromePath
+  $browserExe = Resolve-BrowserForPdf -Mode $Browser
+  Write-Host "PDF : navigateur - $browserExe"
+  Export-HtmlFileToPdf -HtmlAbsolutePath $outFile -PdfAbsolutePath $pdfFile -BrowserExe $browserExe
+  Remove-Item -LiteralPath $outFile -Force -ErrorAction Stop
+  Write-Host "PDF  : $pdfFile"
+}

@@ -49,20 +49,24 @@ Colonnes :
 
 ## 3. Banquiers - UBI
 
+*Mise à jour consolidation* : synthèse alignée sur `Groupes/Banquiers - UBI/interactions du groupe UBI.md` (**uniquement interactions avec d’autres groupes** selon Connaissances + chapitres où un hors UBI est nommé ; annexe MJ pour fils tablés ailleurs mais absents des Connaissances UBI).
+
 | Personnage du groupe (UBI) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Edorian | Cyrion Valdris (Il-Irion) | Negociation sous menace : Edorian promet stabilite de facade, Cyrion exige garanties avant audit et transition. |
-| Edorian | Calis Aedris (Il-Irion) | Discussion de crise : Calis veut preserver les flux maritimes, Edorian protege ses detournements derriere le recit du casse. |
-| Melian | Lysa Morwyn (Palyr) | Canal sensible : Melian transmet des elements compromettants en echange de protection et marge de survie. |
-| Edorian | Lysa Morwyn (Palyr) | Marchandage secret : Edorian negocie sa fuite et celle du conseil contre or, documents et silence. |
-| Vaelric Dorn | Brann Crochemain (Corbeaux) | Coordination operationnelle : Vaelric aligne timing et recit du braquage pour masquer les malversations internes. |
-| Ydria Ventoss | Kaelan Thormane (Mafia) | Alliance opportuniste : Ydria peut externaliser de l'or via la mafia si sa fuite personnelle devient prioritaire. |
-| Corvus | Agent Sangs de la Steppe | Infiltration active : Corvus facilite l'acces aux coffres et detourne l'information au profit de la mafia. |
-| Sybrel Dornik | Kaelan Thormane (Mafia) | Contact d'origine : Sybrel peut redevenir passerelle avec les Sangs en echange de protection ou statut. |
-| Edorian | Marda Velyss (Tripot) | Partenariat de blanchiment : maintien des commissions et du silence mutuel tant que l'UBI tient debout. |
-| Selvara Quenndral | Isara Dornelis (Il-Irion) | Combat documentaire : Selvara verrouille les registres, Isara tente d'obtenir des preuves exploitables. |
-| Horgrim Dval | Lysa Morwyn (Palyr) | Tension securitaire : Horgrim protege les souterrains ; Lysa sonde coffres pour Palyr et pour la mission BN (Soren) — double jeu. |
-| Edorian | Dorian Marest (Ther-Felis) | Entretien de dette : Edorian concede des promesses vagues, Dorian exige un cadre ecrit avant le nouveau conseil. |
+| Edorian | Cyrion Valdris (Il-Irion) | Tu listes Cyrion parmi les poids familiaux quand tu pèses alliances et représailles avant la transition ; l’historique commun est avant tout politique. |
+| Edorian | Seraphine Kaelthorne (Il-Irion) | Tu cites Seraphine comme ligne fortunes et arrangements côté maisons ; elle entre dans les opérations à boucler avant le conseil suivant. |
+| Edorian | Thoren — lien Ther-Félis | Tu dois protéger ton cousin placé sous nom d’emprunt avec changeurs ; c’est un levier contre toi si on l’atteint pour te contraindre. |
+| Edorian | Brann Crochemain (Corbeaux de Minuit) | Tu relies le casse mené par Brann au besoin d’un fait extérieur pendant que tu refermes tes dossiers ; s’ils parlent trop tôt, le braquage de façade devient une confession de mandat. |
+| Edorian | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs tient des éléments sur des flux encore sales ; tu gagneras encore du temps plutôt qu’un duel ouvert jusqu’à croisement des appuis. |
+| Melian Torv | Palyr | Tu as donné contre protection des informations utiles depuis l’UBI aux interlocuteurs Palyr ; si dossiers officiels et sermons se rejoignent, ta place publique saute avant ton honneur intact. |
+| Ydria Ventoss | Kaelan Thormane (Mafia, Sangs) | Leur réseau peut évacuer de l’or hors circuit officiel quand tes filières ne suffisent plus ; tu portes une dette encore coûteuse à tenir fermée. |
+| Ydria Ventoss | Contrebandiers, nobles endettés | Fil de lingots mouvants et pressions sur signatures encore chères ; double ligne utile jusqu’à l’audit commun. |
+| Vaelric Dorn | Kaelan Thormane (Mafia, Sangs) | Chemins ennemis : mêmes couloirs, récits opposés ; tu étouffes ce qu’il veut rendre public quand la rumeur devient une arme. |
+| Sybrel Dornik | Shadow (Mafia, Sangs) | Shadow sait ce que tu étais avant la banque dans la chaîne des Sangs ; tu crains une reconnaissance tunnels pendant qu’il mène une mission compatible sans pitié partagée. |
+| Corvus | Kaelan Thormane (Mafia, Sangs) | Kaelan est ton commanditaire réel ; tu livres accès et infos tout en gardant la couverture banque intacte sous Horgrim. |
+| Corvus | Guilde des Ports Unis (couverture) | Tu gardes une identité plausible de couverture côté Guilde ; ta loyauté reste aux Sangs quand la pression monte. |
+
+Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Vaelric × Brann**, **Melian × Lucan Marivent**, **Selvara × Isara**, **Horgrim × Lysa**, **Edorian × Marda**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
 
 ---
 
@@ -102,7 +106,7 @@ Colonnes :
 | Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
 | Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les routes discrètes vers la Styrgie par des contacts quais, en dehors du fil diplomatique d’Ilara. |
 | Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et les preuves. Tu as promis de protéger Melian. Sans elle, le dossier s’effondre. |
-| Lysa Morwyn | Edorian (UBI) | Tu le vois dans l’ombre pour documents, fuite et marchandage. Tu le méprises mais tu négocies. |
+| Lysa Morwyn | Edorian (UBI) | Croisements **officiels** (régate, dossiers délégués) : tension de façade — pas de canal secret Edorian–Palyr ; le fil sensible reste **Melian**. |
 | Lysa Morwyn | Selvara Quenndral (UBI) | Elle tient codes et archives. Tu décides si tu t’alignes avec elle ou si tu la presses. |
 | Lysa Morwyn | Horgrim Dval (UBI) | Il bloque souterrains et tours. Tu dois approcher les coffres pour Palyr sans rester coincée au mauvais moment. Si d’autres missions te tirent ailleurs, tu dois choisir quel silence garder. |
 | Lysa Morwyn | Soren (Tripot) | Tu le suis pour une traque officielle ; ce que tu apprendras sur lui peut contredire le dossier qu’on t’a remis au départ. |

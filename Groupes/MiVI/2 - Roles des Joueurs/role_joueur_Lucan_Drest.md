@@ -52,8 +52,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Allure de commis de confiance ou d'expert de traité — rien d'ostentatoire ; sourire quand il le faut. |
-| Style vestimentaire | Adapté aux salons et aux quais : propre, crédible, oubliable au bon moment. |
 | Traits de caractère | Calme, précis, capable de tenir une menace dans la politesse. |
 | Valeurs | Le mot juste au bon moment — la cargaison sauvée ou le masque tenu. |
 | Peur | Qu'un interprète de l'empire Tchélène reconnaisse, dans ta diction, la fabrique d'Elfrion — et qu'on te règle comme une dette de frontière, sans procès ni échange public. |

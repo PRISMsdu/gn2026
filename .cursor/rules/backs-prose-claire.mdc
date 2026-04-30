@@ -1,0 +1,39 @@
+---
+description: Backs groupe / templates — prose simple, faits explicites, pas de phrases creuses
+globs: "**/Back_groupe*.md,**/template_back*.md"
+alwaysApply: false
+---
+
+# Prose claire pour `Back_groupe` et `template_back`
+
+**Priorité :** que le joueur comprenne **qui fait quoi** et **quelle conséquence**, pas que le texte « sonne ».
+
+## Interdits (phrases « de merde »)
+
+- **Verbes flous sans complément logique** : *les taux suivent*, *ça porte*, *ça trace* — dire **qui** subit **quoi** (*emprunter coûte plus cher*, *la cité paie davantage*).
+
+- **Métaphores vides ou jeux sans terrain** : *perd des points*, *au cœur de*, symbole, vibrer — si l’image n’apporte pas un fait nouveau, **supprimer**.
+
+- **Substantifs abstraits à la chaîne** sans acteur : préférer **sujet concret — verbe — effet**.
+
+- **Ton « auteur »** : antithèses décoratives, paradoxes gratuits, formules qui commentent le texte au lieu de décrire le monde.
+
+## Obligation
+
+Chaque phrase utile contient au moins un **fait jouable ou vérifiable** (rôle, lieu, document, délai, risque) **ou** elle est coupée.
+
+## Exemples
+
+```markdown
+❌ Si ce nom perd des points, les taux suivent là où la Confédération a besoin de crédit.
+
+✅ Si la confiance dans l’UBI baisse, les cités qui empruntent paient des intérêts plus élevés sur les marchés du Levant.
+```
+
+```markdown
+❌ Les cinq portent le mandat où l’argent et les écritures peuvent ne pas suivre.
+
+✅ Les cinq portent un mandat où ce qui est écrit et ce qui circule réellement peuvent diverger quand un auditeur ouvre les livres.
+```
+
+Pour le ton général des textes joueurs du dépôt, croiser avec `redaction-textes-joueurs.mdc`.

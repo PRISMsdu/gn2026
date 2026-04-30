@@ -5,7 +5,7 @@ Plan d'action :
 [] checker le groupe Tripot
 [] checker le groupe Mafia
 [] checker le groupe MiVI
-[] checker le groupe UBI
+[x] checker le groupe UBI
 
 Checker un groupe est définit par le chapitre "checker un groupe". Tu dois bien suivre chacun des étapes.
 A ce stade, tu ne tiens pas comptes des ajouts des intéractions manquantes (chapitres en commentaires html)
@@ -14,7 +14,7 @@ Tu dois utiliser un language literraire mais simple, sans métaphore ou allégor
 
 ##Check d'un groupe
 
-[] Verifier que le back_groupe est maintenant fusionné avec l'historique_groupe, comme le prévoit les templates. L'hisotiruqe du groupe doit se trouver maintenant dans le back_goupe qui devient le document partagé avec les joueurs. il ne doit donc y avoir de mentions relatives à des secret d'orgas. Si besoin aligner le back et supprimer l'historique. Vérifie que le style narratif est simple, direct. il s'agit de raconter l'histoire du groupe simplement, avec des faits et des histoires sans métaphores ou allégories compliquées
+[] Verifier que le back_groupe est maintenant fusionné avec l'historique_groupe, comme le prévoit les templates. L'historirque du groupe doit se trouver maintenant dans le back_goupe qui devient le document partagé avec les joueurs. il ne doit donc y avoir de mentions relatives à des secret d'orgas. Si besoin aligner le back et supprimer l'historique. Vérifie que le style narratif est simple, direct. il s'agit de raconter l'histoire du groupe simplement, avec des faits et des histoires sans métaphores ou allégories compliquées
  [] verifier que le back_groupe est aligné avec l'Intrigue groupe. pour chaque écart, faire un fichier dans le répertoire Back_groupe "check_back.md" donnant une liste d'incohérences ou de manques, soit dans l'intrigue, soit dans le back_groupe. Ne pas modifier ni l'intrigue, ni le back. le fichier check_back doit être constuit comme un plan agent. Tu dois te comporter comme un rédacteur du scéanrio du jeu et après écriture du fichier, tu dois le reparcourir et vérifier le bien fondé des éléments remonté et si besoin, tu apporte des corrections ou des détails.
 [] Vérifier que les rôles du groupe soient alignés avec le back groupe. Faire un fichier "check_role.md" donnant de la même manière que le check_back, y compris concernant le fait de ne pas modifier ni le fichier back, ni les rôles et de revoir le résultat contenu dans le fichier chek_role.
 [] faire une synthèse dans un fichier md "interactions du groupe <nom du groupe> qui reprend chacun des intéractions issues des chapitres connaissances des rôles. sous la forme d'un tableau avec colonne : 
@@ -46,9 +46,9 @@ Les premiers nés sont contre l'argent donc il y a des tensions avec le tripot, 
 Cette liste d'intéraction doit être rédigée. pour chacune des intéractions ci-dessous, tu fais un fichier spécifique "int_persogroupe_persoautregroupe.md" et tu rédige l'intéraction tel que le modèle ci-dessus.
 
 
-    - Edorian (UBI) est piloté par Seraphin (Il-Irion) pour le détournement organisé par Il-Irion: il n'est peut-être pas clair que dans le rôle d'Edorian, les détournements d'argent pour Il-Irion soit organisés par Seraphin, son contact chez Il-Irion - [utiliser modèle 1]
+    - Edorian (UBI) est piloté par Seraphine Kaelthorne (Il-Irion) pour le détournement organisé par Il-Irion : il n'est peut-être pas clair dans le rôle d'Edorian que les détournements d'argent pour Il-Irion soit coordonnés par Seraphine, son interface familles–banque — [utiliser modèle 1]
 
-    - Melian torv (UBI) et Lucan Marivent (Il-Irion) : Lucas va demander à Mélian de jouer son rôle moral de protecteur de l'intégrité des coffres. [utiliser modèle 1] 
+    - Melian Torv (UBI) et Lucan Marivent (Il-Irion) : Lucan peut solliciter Melian sur le registre moral de l'intégrité des coffres (cf. intrigue banquiers) — ligne secrète Palyr = Melian seulement, pas Edorian–Palyr. [utiliser modèle 1] 
 
     - Marda (Tripot) La cheffe du tripot cherche un appui politique fort, pourquoi pas Il-Irion, pour se protéger de la mafia. Il faut lui conseiller de peut-être prendre contact avec Il-Irion pour discuter d'un appui contre la Mafia. Elle connait de nom Garrick Halvaren chez Il-Irion (lui ne la connait). Il est important de ne pas mentionner à Madras qu'Il-Irion est à l'origine des détournements organisé par Edorian, ceci doit être caché (aucune mention dans le role de Marda de cette situation) [utiliser modèle 2]
 

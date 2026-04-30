@@ -44,6 +44,4 @@ L’Union reçoit en dépôt tout bien que l’on peut nommer sans mensonge : ob
 
 *Union bancaire d’Il-Irion — avis affiché en salle publique.*
 
----
 
-*GN Krondaar 2026 — Union bancaire d’Il-Irion*

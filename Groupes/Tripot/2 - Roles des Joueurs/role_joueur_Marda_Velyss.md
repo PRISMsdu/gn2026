@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Femme mûre à l'allure magnétique ; regard d'acier ; cheveux argent ; bague de sceau. |
-| Style vestimentaire | Robes sombres de qualité, cape de patronne, accessoires de prestige sans ostentation inutile. |
 | Traits de caractère | Calcul, froid utile, charisme de table ; ne confond pas autorité et bruit. |
 | Valeurs | Survivre avec les siens — et avec l'or qui rend la fuite possible. |
 | Peur | Que l'audit ou le sang renversé ferment le casino avant la caisse. |

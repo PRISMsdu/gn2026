@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Quarante-deux ans, carrure de sous-officier. Cicatrice sur la joue gauche. |
-| Style vestimentaire | Tenues sombres de qualité, cape de cuir, armes de prestige sans fioritures inutiles. |
 | Traits de caractère | Loyal, méthodique, froid, stratège. |
 | Valeurs | Le chef d'abord, l'efficacité ensuite ; la compagnie comme discipline, pas comme slogan. |
 | Peur | Que la mission échoue par négligence ; qu'un homme à lui vende la troupe pour une poignée d'écus. |

@@ -1,6 +1,6 @@
 # Lysa Morwyn — Trésorière, délégation de Palyr
 
-**Rôle (couverture Palyr)** : **Trésorier** de la délégation — **spécialiste bancaire**, interface **UBI**, **coffres**, **Melian**, négociation **Edorian** ; tu tiens le **dossier** qui fait levier sur Il-Irion (et tu cadres avec **Ilara** ce qui peut sortir pour son poste de **directrice adjointe**).
+**Rôle (couverture Palyr)** : **Trésorier** de la délégation — **spécialiste bancaire**, interface **UBI** et **coffres** ; **Melian** est ton **unique canal secret** vers le dossier sensible — les échanges avec **Edorian** restent **de façade** (mandat, régates, demandes officielles). Tu tiens le **dossier** qui fait levier sur Il-Irion (et tu cadres avec **Ilara** ce qui peut sortir pour son poste de **directrice adjointe**).
 
 ## Ce que tu sais (et ce que tout le monde peut savoir)
 
@@ -16,7 +16,7 @@ Tu es **agente de la Brigade noire**. La **trésorerie** est ta **couverture** :
 
 ## Pistes de jeu
 
-- Négocier **froidement** avec Edorian (or, documents, silence) sans te laisser piéger émotionnellement.
+- Jouer les **rencontres officielles** avec **Edorian** (ton, statut, tempo) **sans** lui confier le cœur du dossier — celui-ci ne transite **pas** par un lien secret **Edorian–Palyr**, seulement via **Melian**.
 - Décider si **Selvara** est alliée, levier ou cible — sans alerter toute la banque.
 - Gérer le **retournement Soren** quand la vérité éclate — protéger l’investiture, pas l’arrestation, sans sacrifier les archives Palyr.
 

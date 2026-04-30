@@ -1,0 +1,231 @@
+/*
+  Styles d'export pour avis GN (HTML → PDF).
+  Ambiance parchemin médiéval-fantastique : police plume, enluminures, fond ivoire.
+  Format A4 par défaut ; le script peut surcharger via <style>__PAGE_OVERRIDE__</style>.
+*/
+
+@page {
+  size: A4;
+  margin: 22mm 20mm 22mm 20mm;
+}
+
+/* ---- Polices ---- */
+/* IM Fell English  : corps de texte (plume, époque) */
+/* Cinzel Decorative : titres, institution, enluminures */
+
+/* ---- Fond : blanc — impression sur papier parchemin physique ---- */
+
+html {
+  background-color: #ffffff;
+  margin: 0;
+}
+
+body.avis-document {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 11pt;
+  line-height: 1.6;
+  color: #1c0c00;
+  background: #ffffff;
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 210mm;
+  max-width: 210mm;
+  padding: 22mm 20mm;
+  min-height: 297mm;
+}
+
+@media print {
+  html { background: #ffffff; }
+  body.avis-document {
+    background: transparent;
+    width: auto; max-width: none; margin: 0; padding: 0;
+    min-height: auto;
+  }
+}
+
+/* ---- En-tête institution ---- */
+
+.avis-entete {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.avis-entete-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.avis-entete-inner img.avis-blason {
+  width: 110px;
+  height: 110px;
+  object-fit: contain;
+}
+
+.avis-institution-nom {
+  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #5c1400;
+  letter-spacing: 0.04em;
+  line-height: 1.3;
+}
+
+/* ---- Séparateurs ornementaux ---- */
+
+.avis-separateur,
+.avis-separateur-pied {
+  margin: 0.5rem 0 1rem;
+  text-align: center;
+}
+
+.avis-ornement {
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  color: #8b5a1a;
+  letter-spacing: 0.15em;
+}
+
+/* ---- Corps du document ---- */
+
+#contenu-avis {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+/* Titre principal h1 : centré, grand, rubrique */
+#contenu-avis h1 {
+  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #5c1400;
+  text-align: center;
+  margin: 0 0 1.2rem 0;
+  line-height: 1.35;
+  letter-spacing: 0.03em;
+}
+
+/* ---- Enluminures de chapitres (h2) ---- */
+
+#contenu-avis h2 {
+  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-size: 1.0rem;
+  font-weight: 400;
+  color: #6b1200;
+  text-align: center;
+  margin: 2em 0 0.5em;
+  padding: 0.35em 1em;
+  position: relative;
+  letter-spacing: 0.04em;
+  /* Bordures enluminées haut et bas */
+  border-top: 1px solid #a06820;
+  border-bottom: 1px solid #a06820;
+}
+
+/* Petits ornements de coin avant/après le texte du titre */
+#contenu-avis h2::before {
+  content: '✦  ';
+  color: #a06820;
+  font-size: 0.75em;
+}
+
+#contenu-avis h2::after {
+  content: '  ✦';
+  color: #a06820;
+  font-size: 0.75em;
+}
+
+/* ---- Lettre enluminée (drop cap) sur le §1 après chaque h2 ---- */
+
+#contenu-avis h2 + p::first-letter,
+#contenu-avis h2 + p > strong:first-child + *::first-letter {
+  float: left;
+  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-size: 3.6em;
+  line-height: 0.78;
+  color: #8b0000;
+  padding: 0.04em 0.14em 0.04em 0;
+  text-shadow: 2px 2px 0 rgba(160, 104, 32, 0.40);
+}
+
+/* Nettoyage du float après le paragraphe à drop cap */
+#contenu-avis h2 + p::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* ---- h3 ---- */
+
+#contenu-avis h3 {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: 1.0rem;
+  color: #4a1000;
+  margin: 1.4em 0 0.4em;
+  text-align: left;
+}
+
+/* ---- Séparateur horizontal (hr) : ornement plume ---- */
+
+#contenu-avis hr {
+  border: none;
+  text-align: center;
+  margin: 1.2rem 0;
+  overflow: visible;
+}
+
+#contenu-avis hr::after {
+  content: '⸻⸻  ✦  ⸻⸻';
+  display: inline-block;
+  font-size: 0.85rem;
+  color: #a06820;
+  letter-spacing: 0.1em;
+}
+
+/* ---- Gras (fort) : encre plus foncée, léger espacement ---- */
+
+#contenu-avis strong {
+  font-weight: bold;
+  color: #0e0400;
+  letter-spacing: 0.01em;
+}
+
+/* ---- Italique ---- */
+
+#contenu-avis em {
+  font-style: italic;
+  color: #2a0e00;
+}
+
+/* ---- Paragraphes ---- */
+
+#contenu-avis p {
+  margin: 0.55em 0;
+}
+
+/* ---- Tableaux (si présents) ---- */
+
+#contenu-avis table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+
+#contenu-avis th,
+#contenu-avis td {
+  border: 1px solid #a06820;
+  padding: 0.4em 0.6em;
+  vertical-align: top;
+}
+
+#contenu-avis th {
+  background: rgba(160, 104, 32, 0.12);
+  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-size: 0.85em;
+  color: #5c1400;
+}

@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Taille moyenne ; allure de prédateur calme ; mouvements **sans** bruit superflu. |
-| Style vestimentaire | Sombre, discret — bottes silencieuses, armes **cachées**. |
 | Traits de caractère | Patient, observateur, loyal à l'équipe. |
 | Valeurs | Voir avant d'être vu ; parler avec des **faits**. |
 | Peur | La mission ratée parce que personne n'a **écouté** le signal. |

@@ -14,9 +14,9 @@ Gorvan Tresselune (compagnie du dolmen rouge) <-> Thoran Keld (Palyr) : intrigue
 
 
 
-    Edorian est piloté par Seraphin pour le détournement organisé par Il-Irion
+    Edorian est piloté par Seraphine (Kaelthorne, Il-Irion) pour le détournement organisé par Il-Irion.
 
-    Melian torv et Lucas Marivent : Lucas va demander à Mélian de jouer son rôle moral de protecteur de l'intégrité des coffres
+    Melian Torv et Lucan Marivent (Il-Irion) : Lucan peut solliciter Melian pour cadrer le rôle moral de protecteur des coffres (aligné intrigue banquiers — pas de lien secret Edorian–Palyr).
 
     Ilara chez Palyr : diplomate poussant la **création du poste de directrice adjointe** à l’UBI (contrôle renforcé) — attention, il faut seulement 5 joueurs
 

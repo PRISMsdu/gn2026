@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Homme mûr ; mains de combattant ; cicatrices ; posture militaire sans parade inutile. |
-| Style vestimentaire | Cuir renforcé, armes de qualité, cape de capitaine — le calme avant la contrainte. |
 | Traits de caractère | Loyal, protecteur, intimidant quand la salle l'exige. |
 | Valeurs | Les siens d'abord — la mission ensuite. |
 | Peur | Perdre Marda ou l'équipe pour une erreur de **timing**. |

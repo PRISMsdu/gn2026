@@ -52,8 +52,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Discrète, efficace ; mains que tu ne commentes pas ; cicatrices possibles selon orga. |
-| Style vestimentaire | Neutre, adaptable — ce qu'il faut pour passer une porte ou une foule. |
 | Traits de caractère | Économie de parole, ponctualité dans la violence, loyauté au plan une fois tranché. |
 | Valeurs | La précision quand la plume a échoué. |
 | Peur | D'être utilisé comme excuse pour un massacre inutile. |

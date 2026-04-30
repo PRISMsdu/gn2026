@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Présence envoûtante ; gestes lents ; yeux qui **changent** selon les tirages. |
-| Style vestimentaire | Robes sombres, cartes, bijoux mystiques — le spectacle du **doute** utile. |
 | Traits de caractère | Intuitive, sage, parfois troublée par ce qu'elle voit. |
 | Valeurs | Protéger l'équipe — même quand la vision **coupe**. |
 | Peur | Que la carte vraie arrive **trop tard**. |

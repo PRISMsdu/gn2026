@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Beauté envoûtante ; gestes gracieux ; présence qui **retient** sans effort apparent. |
-| Style vestimentaire | Robes d'hôtesse, bijoux — le luxe comme promesse **tenable**. |
 | Traits de caractère | Charme calculé, élégance, perspicacité sociale. |
 | Valeurs | La signature avant le regret ; la maison avant l'ego. |
 | Peur | Que le charme devienne **bruit** — et attire les mauvais regards. |

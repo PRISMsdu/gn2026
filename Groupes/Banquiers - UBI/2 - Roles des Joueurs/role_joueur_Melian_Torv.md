@@ -1,6 +1,10 @@
 # Melian Torv — Conseiller spirituel (UBI)
 
-<!-- UBI — Union bancaire d'Il-Irion. Récit partagé : `../1 - Back de groupe/Back_groupe_UBI.md`. Intrigue orga : `Intrigues/Intrigue_Banquiers.md`. -->
+<!--
+  Rôle joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe.
+  Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l'intrigue ou à la fiche perso).
+  Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
+-->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
@@ -40,7 +44,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | 50 ans ; ancien moine de l'Église de la Flamme ; ligne secrète vers Palyr. |
+| Remarques | Ancien moine Église de la Flamme ; canal vers Lysa Morwyn (Palyr) ; artefact en réserve surveillé avec Edorian. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -48,76 +52,112 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Homme d'âge mûr aux traits marqués par la dévotion, regard parfois illuminé. |
-| Style vestimentaire | Robes de l'Église de la Flamme, accessoires religieux. |
-| Traits de caractère | Dévot, ambigu, parfois illuminé, moraliste. |
-| Valeurs | Pureté spirituelle, justice divine, rédemption, vérité. |
-| Peur | Corruption spirituelle, damnation éternelle, perte de la foi. |
-| Rêve | Voir la Banque purifiée de ses péchés par un jugement divin (forme à découvrir en jeu). |
+| Traits de caractère | Posé, peu de gestes inutiles, parole précise en public. Sait qu'un mot mal pesé devant une assemblée coûte plus qu'une erreur comptable. |
+| Valeurs | Que le visible reste défendable devant les fidèles et les notables. Éviter une chute où ni le dogme ni Palyr ne te couvriront. |
+| Peur | Qu'on relie en une seule plaidoirie tes sermons, tes signatures et la ligne physique des coffres sous la banque. |
+| Rêve | Une sortie avec une réputation encore tenace — ou assez de preuves sur les autres pour ne pas être le seul à tomber. |
 
 ---
 
 # L'histoire de Melian Torv
 
+**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
+
+**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
+
 ## Chapitre I : Les origines
 
-Ancien moine de l'Église de la Flamme, tu as grandi dans la dévotion et l'étude des textes sacrés, initié jeune aux rituels de purification.
+Tu nais dans une lignée où les enfants étaient envoyés dès l'enfance aux scriptoria de l'Église de la Flamme. Pas par dévotion particulière : par tradition familiale et parce que l'Église formait des lettrés, et que les lettrés trouvaient du travail. Tu entres au noviciat à dix ans.
+
+Tu apprends très tôt qu'un mot pesé avant un sceau vaut plus que dix plaidoyers après coup. Les moines t'apprennent la doctrine, les textes sacrés, les rites. Tu les retiens. Tu apprends aussi, en regardant les anciens, comment la parole publique d'un homme d'Église affecte des décisions qui n'ont rien de religieux. Une bénédiction avant un contrat rassure. Une mise en garde devant une assemblée ralentit.
+
+Tu as vingt-cinq ans et tu es prêtre officiel de l'Église de la Flamme dans une maison de Palyr. Tu offres des services spirituels à des familles marchandes qui paient pour que leurs transactions aient l'air propres. Tu n'as pas encore réalisé à quel point cette logique va loin.
 
 ## Chapitre II : L'apprentissage
 
-Tu as quitté ton ordre après un scandale jamais élucidé, mais tu as gardé la foi. Edorian t'a recruté pour donner à la Banque une façade morale et religieuse.
+Un scandale éclate dans ton ordre à Palyr. Des fonds collectés par l'Église pour des œuvres charitables ont servi à des investissements privés. Plusieurs prêtres sont impliqués. Tu l'es aussi, en périphérie : tu as signé des actes qui couvraient des mouvements que tu n'avais pas regardés de près.
+
+L'enquête interne de l'ordre te laisse en dehors de la liste des sanctionnés officiels. Tu gardes tes robes et ton titre. Mais tu quittes Palyr avec une réputation ternie dans les cercles intérieurs de l'Église. Tu sais désormais exactement comment fonctionne la mécanique : la bénédiction rend crédible, le signataire assume, et ceux qui ont conçu l'opération restent derrière.
+
+Tu passes quelques années à travailler pour des familles marchandes dans des cités différentes. Tu bénis des transactions, tu certifies des dépôts, tu accueilles des délégations nobles avec les bonnes formules. C'est mieux payé et moins risqué que l'Église. Tu développes un contact à Palyr : Lysa Morwyn, trésorière d'une délégation qui tient des lignes de financement inter-cités.
 
 ## Chapitre III : L'ascension
 
-Officiellement, tu bénis les coffres et conseilles sur l'éthique des investissements. Officieusement, tu fermais les yeux tant que la Banque prospérait — jusqu'à tes visions sur les malversations du conseil.
+Edorian te contacte deux ans avant la constitution du conseil. Il cherche un conseiller spirituel pour l'UBI : quelqu'un capable de donner une caution morale visible aux opérations du conseil, de recevoir des délégations nobles et religieuses avec le bon protocole, et de signer les actes d'engagement pour les biens dont la garde exige une validation doctrinale.
+
+Ce qu'il ne dit pas tout de suite, mais que tu comprends assez vite : la maison dans laquelle tu vas travailler n'est pas ordinaire. Edorian a un plan qui dépasse la gestion d'une banque. Tu entres dans le plan parce que tu n'as pas de meilleure option. Une position de conseiller spirituel dans une institution confédérale, c'est une protection. Ce que tu feras dedans, c'est une exposition.
+
+Il y a cinq ans tu prends le poste. Depuis le premier jour tu signes des bénédictions sur des dépôts où la valeur déclarée ne correspond pas toujours à la valeur réelle. Tu sais que les actes que Selvara rédige et que tu bénis donnent une apparence légitime à des opérations qui ne le sont pas. Tu l'as choisi. La dette que tu as envers le plan est la même que la leur.
+
+Depuis trois ans tu as transmis à Lysa Morwyn, à Palyr, des informations que l'UBI ne voulait pas rendre publiques. Ces informations ont un prix. Palyr paie. La transaction est documentée d'une façon qui rend difficile de distinguer ce que tu as vendu de ce que tu avais le droit de transmettre.
 
 ## Chapitre IV : Les défis actuels
 
-Il y a un an, tu as vendu ce que tu croyais devoir dire à Palyr en échange de protection et de gains. Tu surveilles un artefact sacrilège dans les coffres ; tu dois maintenir la confiance du peuple tout en trahissant le conseil — ou en jouant les deux contre le centre.
+Le mandat se termine. Corvyn Valdrak, à Palyr, valide les mandats financiers qui rendent cohérente la chaîne depuis ton bureau jusqu'aux preuves qu'il tient. Lysa Morwyn peut recouper ces informations avec les dossiers officiels sans passer par une ligne secrète directe. Ces deux fils mènent à toi si quelqu'un les tire ensemble.
+
+Un artefact est conservé dans les réserves de la banque, hors des catalogues ordinaires. Son statut à la passation est un point ouvert. Si le nouveau conseil le découvre et le répertorie, son histoire remontera des questions sur ce qui a été gardé et ce qui a été omis. Tu surveilles ce dossier avec Edorian.
+
+Les questeurs qui arrivent pour enquêter sur les six gardes morts ne viennent pas pour toi. Mais des questeurs posent des questions sur l'ensemble du fort, et tes bénédictions sur des actes sensibles figurent dans les archives. Tu maintiens la façade : un conseiller spirituel discret, moins présent que les membres opérationnels du conseil, difficile à relier directement aux flux financiers.
 
 ## Chapitre V : Le réseau et les relations
 
-Tu opposes une morale publique à Edorian ; tu admires l'érudition de Selvara ; tu condamnes Ydria. Horgrim incarne pour toi la discipline ; la ligne Palyr est ta sécurité et ta honte.
+Edorian et toi vous avez un accord sur l'artefact et sur la sortie. Tu t'opposes à lui en public sur les questions morales quand c'est nécessaire — ça t'évite d'apparaître comme une caution muette. Dans les salles fermées tu travailles avec lui.
+
+Selvara rédige les actes que tu signes. Tu lui fais confiance sur la précision du texte. Tu surveilles qu'elle ne constitue pas trop de capital personnel sur tes signatures : elle a des copies de documents que tu ne maîtrises pas.
+
+Ydria te renvoie un mépris direct sur les actes moraux que tu attaches aux transactions d'argent. Tu t'en accommodes. Tu as besoin qu'elle continue de signer les mouvements sans créer d'incident visible.
+
+Lysa Morwyn reste le fil le plus fragile. Elle est à Ulghart pendant la Régate en tant que déléguée de Palyr. Ce qu'elle sait, ce qu'elle peut recouper, ce qu'elle peut transmettre à Corvyn Valdrak : tout ça doit rester dans un canal que tu contrôles jusqu'à la passation.
+
+Vaelric te surveille. Il a compris que ton réseau à Palyr est un risque potentiel pour le plan s'il décide de coopérer avec le conseil entrant pour protéger sa propre sortie. Tu gères ça avec soin.
 
 ---
 
-# Tes missions et actions
+# Tes missions et objectifs
 
-## Objectifs prioritaires
+- **Façade morale** : maintenir la crédibilité publique du conseiller spirituel jusqu'à la passation ; aucune déclaration qui relie tes signatures aux flux hors registre.
+- **Lysa Morwyn** : gérer la relation pendant la Régate ; s'assurer que ce qu'elle sait reste dans le canal convenu et n'atteint pas Corvyn Valdrak trop tôt.
+- **Artefact** : trancher avec Edorian sur le sort de l'artefact avant que le nouveau conseil arrive et pose des questions.
+- **Sortie personnelle** : construire un récit défendable devant l'Église et devant Palyr qui te laisse une protection si le plan s'effondre.
 
-- Maintenir la confiance du peuple tout en gérant la traîtrise envers le conseil ; préparer une **épreuve** spirituelle sur la Banque.
-- Surveiller l'**artefact sacrilège** dans les coffres ; décider si la crise est un signe de purification.
-- **Purifier** l'institution ou la voir jugée ; protéger ta couverture et les gains obtenus via Palyr ; viser une réconciliation possible avec l'Église.
+# Membres du groupe
 
-## Membres du groupe UBI
-
-| Personnage | Lien |
-|------------|------|
-| Edorian | Opposition — tu le juges trop orgueilleux. |
-| Selvara Quenndral | Admiration — érudite proche du sacré. |
-| Ydria Ventoss | Condamnation — âme damnée à tes yeux. |
-| Horgrim Dval | Respect — discipline et force. |
-| Kaelen Veynar | Neutralité. |
-| Sybrel Dornik | Neutralité. |
-| Vaelric Dorn | Neutralité — soupçons latents. |
-| Corvus | Neutralité — coffres, pas autel. |
-
----
+| Personnage | Interaction |
+|------------|-------------|
+| Edorian | Accord de travail sur l'artefact et la sortie ; opposition de façade en public sur les questions morales. |
+| Selvara Quenndral | Collaboration sur les actes : elle rédige, tu signes. Tu surveilles ce qu'elle retient pour elle. |
+| Ydria Ventoss | Opposition frontale sur la morale affichée ; peu de coordination directe mais dépendance sur ses signatures. |
+| Horgrim Dval | Respect mutuel de périmètre : tu lui passes les ordres de fermeture de salle quand la doctrine l'exige. |
+| Vaelric Dorn | Méfiance : il tient le bruit hors registre, y compris sur toi. Il surveille ton réseau Palyr. |
+| Kaelen Veynar | Peu de contact direct. |
+| Sybrel Dornik | Prudence : elle voit ce qui se passe dans les espaces que tu n'occupes pas. |
+| Corvus | Coordination sur les procédures pour les biens dont le dépôt exige une validation doctrinale. |
 
 # Connaissances
 
-## Fonction — les trois dépôts
+**Règles de forme (obligatoires)**  
+- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
+- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
+- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
+- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
+- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
-| Type de dépôt | Rôle pendant le dépôt |
-|---------------|------------------------|
-| Or | Exception : présence si dépôt très visible (bénédiction / témoin moral). |
-| Écrits | Exception : tension foi / secret public ; tu ne remplaces pas les clercs au comptoir. |
-| Biens | Exception : ingrédient ou objet sensible au dogme (bénédiction, rituel, refus de caution). |
+## Fonction spirituelle aux comptoirs — UBI
 
-## Palyr et la double ligne
+Tu interviens pour bénédiction visible, pour accord sur la catégorie de garde quand le dogme l'exige, et pour signature de l'engagement sur les actes de dépôt de biens. Tu n'es pas sur le fil continu des pesées d'or. Tu apparais quand le client doit voir l'Église avant le chiffre.
 
-Tu as troqué des informations contre protection : une dette spirituelle et politique qui peut se retourner si quelqu'un aligne tes sermons et tes versements.
+## Lysa Morwyn — trésorière, délégation Palyr
+
+Lysa tient le canal par lequel passent les informations que tu lui as transmises et les engagements de protection que Palyr t'a donnés en échange. Elle est à Ulghart pendant la Régate. Les échanges se jouent sur des documents et des rendez-vous compatibles avec son rôle officiel. Sans elle, la promesse de couverture Palyr n'a plus de relais actif.
+
+## Corvyn Valdrak — Conseil, Palyr
+
+Il valide le volet financier des informations qu'on t'a achetées. Si la ligne politique Palyr change de position avant la passation, Lysa ne peut pas tenir seule la promesse de protection. Tu surveilles les signaux qui viendraient de lui via Lysa.
+
+## Artefact en réserve — UBI
+
+Un objet est conservé dans les réserves sans être catalogué comme dépôt ordinaire. Son existence est connue d'Edorian et de toi. La passation va forcer une décision : le déplacer, le mettre en jeu publiquement avec une explication doctorinale, ou le faire disparaître dans les mouvements des Corbeaux de Minuit. Chaque option a des conséquences différentes sur ta crédibilité.
 
 ---
 
-*GN Krondaar 2026 — UBI*
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*

@@ -50,6 +50,17 @@ body.back-groupe-document {
 #contenu-markdown h1 {
   font-size: 1.35rem;
   margin-top: 0;
+  overflow: hidden; /* contient le float du blason */
+}
+
+/* Blason de groupe : lettre enluminée flottante dans le titre principal */
+#contenu-markdown h1 .blason-titre {
+  float: left;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  margin: 0 1rem 0.25rem 0;
+  border-radius: 4px;
 }
 
 #contenu-markdown h2 {
@@ -152,18 +163,11 @@ body.back-groupe-document {
   hyphens: manual;
 }
 
-.bandeau-separateur,
-.bandeau-fin-document {
+.bandeau-separateur {
   margin: 1.25rem 0;
 }
 
-.bandeau-fin-document {
-  margin-top: 1.25rem;
-  margin-bottom: 0;
-}
-
-.bandeau-separateur img,
-.bandeau-fin-document img {
+.bandeau-separateur img {
   display: block;
   width: 100%;
   max-width: 100%;

@@ -8,7 +8,7 @@ alwaysApply: false
 
 Chaîne documentaire : `Intrigues/Intrigue_*.md` (orga) → **`Back_groupe_*.md`** (rôle remis à **tout** le groupe) → `2 - Roles des Joueurs/back_joueur_*.md` ou `role_joueur_*.md`. Voir `Groupes/_templates/README.md`.
 
-- Viser une **mini-nouvelle** distribuable aux joueurs : ton littéraire, immersion, rythme, pas seulement une liste d’objectifs.
+- Viser un **récit long** distribuable aux joueurs : faits enchaînés, scènes utiles, rythme — **sans** empilement de phrases décoratives (voir `backs-prose-claire.mdc` et `redaction-textes-joueurs.mdc`). Ce n’est pas une « belle écriture » : c’est du **matériau de jeu** lisible.
 - **Longueur** : au moins l’équivalent de **cinq pages A4** en corps **11 pt**, marges standard, interligne simple ou 1,15 (ordre de grandeur : **~2 500 mots** minimum pour le texte narratif hors tableaux techniques ; ajuster si police ou marges différentes).
 - Inclure de préférence : **origines** des PJ ou de l’entité, **comment le groupe s’est formé** ou s’est lié, **scènes** ou images fortes mémorables, en cohérence avec `Intrigues/Intrigue_*.md`.
 - Les **secrets** réservés à un seul joueur ou au MJ ne vont **pas** dans le back partagé : les renvoyer vers l’intrigue orga ou la fiche perso.

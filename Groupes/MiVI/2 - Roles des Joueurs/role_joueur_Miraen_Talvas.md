@@ -53,8 +53,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Allure de joueur qui sait où s'asseoir ; mains qui connaissent les jetons ; calme de façade. |
-| Style vestimentaire | Ce qu'exige la salle : ni trop riche ni trop pauvre — crédible pour tenir une table. |
 | Traits de caractère | Charme utile, nerveux contenu, intelligence des flux et des visages. |
 | Valeurs | Que la partie serve la ligne — même quand la partie veut te dévorer. |
 | Peur | D'être réduit au joueur qu'on croit voir — et de payer en vrai. |

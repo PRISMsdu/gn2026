@@ -1,13 +1,12 @@
 # Corvus — Gardien des coffres (UBI)
 
-<!-- UBI — Union bancaire d'Il-Irion. Récit partagé : `../1 - Back de groupe/Back_groupe_UBI.md`. Intrigue orga : `Intrigues/Intrigue_Banquiers.md`. -->
+<!-- Document joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe. -->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
 « Ulghart : six morts »
 
 ## Informations pratiques
-
 
 | Information | Détail |
 |-------------|--------|
@@ -20,7 +19,6 @@ Epopée en Krondaar
 | Fin du jeu | Dans la nuit du samedi au dimanche |
 | Débriefing | Dimanche matin vers 10h00 |
 
-
 ### Contacts
 
 | Libellé | Contenu |
@@ -29,20 +27,19 @@ Epopée en Krondaar
 | E-mail rédacteur | sebastien.dury@wanadoo.fr |
 | Whatsapp rédacteur | +41 79 305 82 19 |
 
-
 ### Fiche personnage
 
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Maître Corvus |
-| Rôle dans le groupe | Gardien de coffres — non conseil |
-| Classe / profession | Gardien de coffres *(règlement — orga)* |
+| Rôle dans le groupe | Gardien des coffres |
+| Classe / profession | Érudit *(règlement — orga)* |
 | Groupe | Banquiers — UBI |
 | Points de vie | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | 38 ans ; couverture marchand / Guilde des Ports Unis ; infiltration Sangs de la Steppe. |
+| Remarques | Gardien des clefs et des combinaisons ; nom public à l’UBI : Corvus ; alias hors banque (Sangs, filières marchandes) : Torvent Sorel ; ordres des Sangs via Kaelan Thormane ; couverture liée à la Guilde des Ports Unis. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -50,11 +47,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Style vestimentaire | Vêtements sobres de gardien, clés et outils de coffres, air respectable. |
-| Traits de caractère | Discret, méthodique, observateur, loyal à la mafia. |
-| Valeurs | Loyauté envers les Sangs de la Steppe, discrétion absolue, efficacité. |
-| Peur | Découverte de ton infiltration, exécution par Horgrim, perte de l'accès aux coffres. |
-| Rêve | Servir efficacement la mafia et gagner ta place dans l'organisation. |
+| Traits de caractère | Méthodique, prudent, observateur, peu bavard. |
+| Valeurs | Tenir les procédures visibles de l’UBI tant qu’elles te laissent respirer ; ne pas livrer le conseil aux Sangs ; rester utile à Edorian tant que votre sort commun dépend des mêmes clefs. |
+| Peur | Un inventaire qui aligne cinq années d’ouvertures avec les ordres du noyau et ce que Kaelan croit encore savoir de toi ; être coincé entre auditeurs, Sangs et coffres. |
+| Rêve | Sortir du fort avec Edorian quand le plan de passation le permet, avant qu’un soupçon ne te condamne d’un côté ou de l’autre. |
 
 ---
 
@@ -62,66 +58,134 @@ Epopée en Krondaar
 
 ## Chapitre I : Les origines
 
-Tu as grandi dans les bas-fonds d'Il-Irion, apprenti tôt à la discrétion et à l'observation. La mafia t'a recruté jeune et formé à l'infiltration.
+Tu nais à Il-Irion dans une rue où le bruit du port remonte jusqu’à la petite devanture du comptoir familial : piétinements du quai, freinage des charrettes humides et, parfois, un reste de sel sur le seuil après la marée du matin.
+
+Ton père tient un comptoir de commission pour marchands et bateliers ; ta mère tient la caisse du soir et relit les lignes sur le registre avant de fermer. Vous habitez derrière la boutique ; la lumière des bougies file sur les chiffres et sur les sceaux encore humides.
+
+Les matins chargés sentent encore le goudron chauffé, la corde mouillée et le panier où ta mère range les derniers tally du marché fermier du coin. Elle note au crayon noir ce que ton père a promis avant midi ; votre maison évite ainsi la double parole devant deux carnets différents.
+
+Tu apprends très tôt à lire noms, montants et marques de sceau. Ton père te fait recopier des reçus quand manque un clerc ; ta mère te fait recompter les pièces avant la fermeture.
+
+Une erreur de chiffre devient une dette ; une dette mal écrite devient une dispute ; tu en vois assez pour comprendre que la pièce compte autant que la bonne volonté.
+
+Les clients parlent souvent trop fort comme si tu n’étais pas là ; tu prends vite l’habitude de garder pour toi ce qu’ils disent quand ils règlent encore leur compte.
+
+Vers douze ans, tu portes des messages entre port, tavernes et bureaux de change. On te paie en petites pièces et parfois en repas.
+
+Tu croises des joueurs ruinés qui redemandent au même prêteur le même délai chaque semaine ; tu vois des bateliers crier à la vente conclue avant même d’avoir déchargé le dernier panier sous le registre douanier ; tu vois un commis effacer une ligne quand trop de bras croisés l’obligeront à payer devant trois témoins.
+
+Tu n’as pas les écoles des clercs de haut quartier ; un copiste du port t’apprend une écriture régulière et à repérer les faux sceaux grossiers où la cire saute déjà après une nuit trop chaude dans la poche.
+
+À quinze ans tu tiens un registre simple et tu sais fermer un coffre de boutique sans laisser de jour entre le loquet et le bois.
+
+Les Sangs de la Steppe te repèrent parce que tu écoutes sans poser de questions inutiles. Ils te confient d’abord des courses où le paquet doit arriver intact sous sceau différent selon le quai d’entrée ; après chaque trajet ils vérifient ce que tu as dit à qui, et ce qui est resté sur le registre public.
+
+Tu comprends vite que ce réseau protège quelques familles sans couvert notariale contre des recouvreurs qui changent de nom sur la même dette avant la fin du mois. Tu comprends aussi qu’ils règlent vite ceux qui vendent un nom appris sur le quai pour obtenir un verre ou un délai sans contrepartie.
+
+Tu acceptes leur salaire régulier : ta famille n’a pas de protecteur officiel au greffe des grandes maisons qui tiennent le port, et un écu inscrit sur un registre que deux mains ont vues vaut mieux qu’un serment entendu seulement entre deux barriques.
 
 ## Chapitre II : L'apprentissage
 
-Agent pour la mafia, tu as développé espionnage et couvertures. La Guilde des Ports Unis t'a donné une identité de marchand fiable — Torven Sorel et le réseau tiennent la ficelle avec les Sangs.
+Les Sangs te forment d’abord à tenir une couverture séparée de ton futur métier à la banque. Pour les démarches portuaires, les bordereaux qu’ils veulent tenir hors trace officielle et les contacts où tu dois passer pour un petit marchand, on te donne le nom de **Torvent Sorel**. Ce nom-là figure sur des factures, des récépissés et des routes que la Guilde des Ports Unis peut reconnaître du côté commerce ; il ne doit jamais apparaître sur une liasse qui engage l’Union bancaire ni sur une attestation de salaire au fort.
+
+Tu signes **Torvent** quand Kaelan exige une signature qui n’est pas celle du gardien Corvus. Tu conserves **Corvus** pour tout ce qui touche aux coffres, aux serments devant clerc et aux maisons qui pourraient te recommander plus tard pour un poste sérieux.
+
+Ton père t’a appris une écriture nette ; tu alignes sous Torvent des montants plausibles pour du fret court et des commissions minuscules, assez pour qu’un contrôleur occasionnel ne creuse pas trois cargaisons à la fois.
+
+Tu apprends à répondre comme un marchand quand on t’interroge au quai, et à ne jamais donner plus d’informations que la question ne contient de mots.
+
+Tu passes plusieurs saisons sur les quais : tu observes les contrôles de cargaisons, la manière dont les droits de port sont inscrits, et comment une caisse ouverte puis refermée laisse des traces avant inventaire quand les cordes ne repassent plus dans le même sens.
+
+Tu apprends à lire des indices simples : cire grattée, corde remplacée, marque de couteau sur une latte de casse mal replacée. Tu n’es pas encore gardien de coffres à l’Union, mais tu comprends déjà le lien entre acte écrit et contenu réel quand la procédure exige des témoins.
+
+Kaelan Thormane devient ton relais principal chez les Sangs. Il ne cherche pas ton amitié : il te donne des délais, des noms à suivre et des comptes rendus qu’il compare à d’autres sources. D’abord il veut des horaires de garde sur les quais, des noms de commis et des itinéraires ; puis il te demande qui dépose de l’or et où passent les sacs qu’on ne déclare pas au premier bureau.
+
+Tu comprends que les Sangs veulent savoir qui possède quoi avant de décider d’un braquage ou d’un chantage. La Guilde des Ports Unis te sert de couverture marchande : des contacts valident parfois tes déplacements sur des routes où un homme sans étiquette resterait trop visible.
+
+Un registre de port mal fichu ruine une couverture à Ulghart comme ailleurs. Tu conserves les traces utiles et tu détruis celles qui t’exposent. Tu retiens cette règle : un mensonge tient si les papiers ordinaires le portent ; **Torvent** est un de ces papiers, **Corvus** en sera un autre.
 
 ## Chapitre III : L'ascension
 
-Il y a trois ans, sur ordre des Sangs, tu as pris un poste de gardien de coffres à la banque. Tu facilites parfois l'accès pour la mafia et tu remontes des informations sur ce que les coffres contiennent vraiment.
+Il y a cinq ans, Kaelan te fixe un objectif : entrer à l’Union bancaire d’Il-Irion et obtenir un poste proche des coffres. Tu ne postules pas sous **Torvent Sorel**. Tu présentes ton expérience de gardiennage, de scellés et de salles protégées sous le nom par lequel les préposés aux caisses et les maîtres de change te connaissent déjà : **Corvus**. Les attestations citent des saisons sur les quais et des inventaires où ton écriture figure au bas des pages ; aucune d’elles ne mentionne l’alias des Sangs.
 
-## Chapitre IV : Les défis actuels
+Les entretiens testent ta mémoire des procédures et ta patience sous répétition. On te confie d’abord des tâches secondaires : inventaires de caisses, contrôle de listes, dépôt de documents dans un ordre qu’on ne peut pas raccourcir sans laisser une trace au passage.
 
-Tu dois monter dans la hiérarchie des Sangs sans éveiller Horgrim ni Selvara ; récupérer des lettres et dossiers sensibles ; garder la couverture de la Guilde intacte.
+Quand l’Union te confie des clefs et des combinaisons, tu sais que ce n’est pas une faveur : c’est un poste observé. Tu documentes chaque ouverture comme le règlement l’exige. Pour Kaelan, tu continues de rapporter ce qu’il peut déjà vérifier par d’autres filières : dépôts signalés, clients exposés, retards utiles aux Sangs.
 
-## Chapitre V : Le réseau et les relations
+Tu restes en contact avec lui par canaux discrets. Il te demande parfois de retarder une information, de laisser passer un message ou de confirmer un mouvement absent des registres publics. Tu comprends que ton utilité vient de ce que tu vois sans exposer ta main sur la table du bureau des coffres.
 
-Kaelan Thormane est ton commanditaire réel ; Horgrim te surveille ; Selvara connaît les codes ; Sybrel sent le même monde que toi sous autre drapeau. Vaelric te met en danger d'agent double si tu croises trop ses filières.
+## Chapitre IV : La maturité
+
+Les cinq dernières années t’ont appris à séparer trois couches : le registre que lit la maison, les ordres que te donne Kaelan, et ce que tu comprends des décisions du **noyau du conseil** quand Edorian, Ydria, Vaelric, Selvara et Horgrim verrouillent une procédure qui ne correspond plus au seul dépôt du client du jour.
+
+Tu vois des ouvertures autorisées par signature convergente du conseil. Tu vois des mouvements d’or et des actes qui passent par le Tripot ou par des salles que la charte ne décrit pas dans les brochures remises aux cités. Tu ne participes pas aux arbitrages : tu appliques les combinaisons et les clefs qu’on te remet dans les formes. À force de tenir les chaînes, tu sais assez pour deviner qu’une partie du mandat a servi à **détourner** des flux au profit d’un cercle restreint — pas seulement au profit des Sangs.
+
+**Tu n’as pas rapporté l’ampleur de ce schéma à Kaelan.** Tu lui as laissé les détails « utiles » aux Sangs sur qui dépose où et quand une ouverture peut les arranger ; tu lui as évité le tableau complet qui ferait des conseillers des cibles et toi un indicateur irréversible. Les Sangs sentent qu’il leur manque une pièce ; Kaelan te presse parfois avec une froideur nouvelle.
+
+Edorian, directeur de l’agence, te connaît comme homme de confiance pour les coffres et les combinaisons. Il ne te demande pas la politique des cités : il te demande des procédures respectées et des salles sécurisées pendant les opérations sensibles. Une faute de clef ou de combinaison coûte plus qu’un vol ; elle apparaît sur les lignes officielles et elle expose le directeur autant que le gardien.
+
+Sur le fond, vos intérêts se rejoignent : il prépare une **sortie** qui tient avec la Régate et la passation ; tu tiens les accès sans lesquelles rien ne bouge. Tu cherches **à partir avec lui** quand le plan le permet : rester seul entre deux feux — auditeurs, conseil entrant, Sangs — te paraît plus court que la corde d’un registre mal fermé.
+
+Ydria coordonne inventaires et flux ; Selvara amène visiteurs et demandes pressantes ; Horgrim tient la sécurité visible ; Vaelric tient les récits et les partenaires ; Melian croise tes scellés sur le trésor. Chacun a sa zone ; la tienne reste celle des accès physiques et des secrets de combinaison.
+
+Quand Kaelan te contacte, tu calcules ce que tu peux livrer sans livrer Edorian ni te dénoncer toi-même. Les « suggestions » deviennent des tests : il veut savoir si tu lui caches encore quelque chose sur le conseil.
+
+## Chapitre V : Le présent
+
+La Régate approche : l’agence UBI accueille des clients, des rivaux et des curieux. Les coffres seront sollicités ; les salles s’ouvriront plus souvent ; des yeux que tu ne contrôles pas reliront les listes sur cinq ans.
+
+Le plan d’Edorian exige une passation **propre sur le papier** pendant que d’autres mouvements coulent sous le bruit du week-end. Tu sais où sont les clefs et quelles combinaisons il reste à tourner pour que ce plan tienne encore quelques jours.
+
+La pression monte des deux côtés : un inventaire mal aligné te livre aux auditeurs ; un mot de trop à Kaelan te livre aux Sangs ; une ouverture sans témoin prévu te livre au conseil entrant.
+
+
+Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, couvrir les procédures que la maison doit encore montrer crédibles, et **rejoindre la sortie qu’Edorian a calée** avec le noyau — fuir le fort avec lui et ceux qu’il entraîne si les portes et les dettes le permettent, avant que l’inventaire ne raconte ton silence aux uns et ta trahison aux autres.
 
 ---
 
-# Tes missions et actions
+## Informations générales
 
-## Objectifs prioritaires
+### Missions
 
-- Maintenir l'**accès** aux coffres sans éveiller les soupçons ; fournir **infos** et documents à la mafia.
-- **Monter** dans la hiérarchie des Sangs ; récupérer les lettres et dossiers que ta ligne exige ; préserver la **couverture** Guilde des Ports Unis.
+| Mission | Détail |
+|---------|--------|
+| Maintenir l'accès aux coffres | Tu contrôles clefs et combinaisons ; tu vérifies les doubles et les délais autorisés. |
+| Inventaires | Tu participes aux inventaires officiels comme le règlement l'exige. |
+| Ouvertures de salles | Tu ouvres sous procédures annoncées avant la Régate lorsque plusieurs clients sensibles utilisent encore la maison. |
+| Liaison avec Kaelan Thormane | Tu reçois les ordres des Sangs par Kaelan ; tu lui rends compte sans tout lui dire sur le conseil. |
+| Passation et sortie | Tu prépares les accès et documents sensibles pour la passation ; ton sort est lié au plan de sortie du noyau et à Edorian. |
+| Couverture Torvent | Tu n’emploies **Torvent Sorel** que hors banque ; à l’UBI tu es **Corvus**. |
 
-## Membres du groupe UBI
+### Membres du groupe
 
-| Personnage | Lien |
+| Personnage | Rôle |
 |------------|------|
-| Horgrim Dval | Méfiance — surveillance ; éviter les soupçons. |
-| Selvara Quenndral | Collaboration pro. sur codes coffres — pas confiance totale. |
-| Edorian | Neutralité — tu observes. |
-| Vaelric Dorn | Méfiance — agent double possible ; contact minimal. |
-| Sybrel Dornik | Méfiance mutuelle — mêmes ombres, pas mêmes ordres. |
-| Ydria Ventoss | Neutralité. |
-| Melian Torv | Neutralité. |
-| Kaelen Veynar | Neutralité. |
+| Edorian | Directeur de l'agence UBI d'Il-Irion. |
+| Ydria | Directrice des opérations. |
+| Selvara Quenndral | Directrice de la clientèle. |
+| Horgrim | Chef de la sécurité de l'agence. |
+| Vaelric | Directeur des relations extérieures. |
+| Melian | Directeur du trésor. |
+| Corvus | Gardien des coffres (toi). |
+| Sybrel | Directeur régional de l'UBI. |
+| Kaelen | Directeur des opérations du siège de l'UBI. |
+
+### Connaissances
+
+| Avec... | Vous savez... |
+|---------|---------------|
+| Edorian | Edorian et toi connaissez les coffres, les combinaisons et les procédures d'ouverture ; vous savez aussi que ta coopération et sa sortie dépendent l'une de l'autre quand la Régate referme le mandat. |
+| Ydria | Tu sais qu'elle exige des inventaires propres et des dates respectées. |
+| Selvara | Tu vois les noms et les heures qu'elle amène ; elle sait que tu bloques toute ouverture hors procédure. |
+| Horgrim | Tu coordonnes les accès physiques quand sa sécurité impose des rondes ou des verrouillages. |
+| Vaelric | Ta couverture marchande via la Guilde des Ports Unis peut croiser ses partenariats ; vous évitez les contradictions publiques. |
+| Melian | Vous croisez les flux et les scellés ; une erreur de son côté ou du tien se lit vite sur les écarts. |
+| Kaelan Thormane | Tu es son relais à l’Union sous le nom **Corvus** ; il connaît **Torvent Sorel** comme ton alias hors banque. Il te soupçonne de lui cacher ce que le noyau du conseil organise ; tu ne lui as pas livré l’ampleur du détournement. |
 
 ---
 
-# Connaissances
+**Version** : 1.1 — **Date** : 2026-04-29  
+**Auteur** : Sébastien Dury  
+**Modifications** : Distinction Corvus / Torvent Sorel ; détournement du noyau, silence envers Kaelan, enjeu de fuite avec Edorian ; réparation du chapitre II.
 
-## Fonction — les trois dépôts
-
-| Type de dépôt | Rôle pendant le dépôt |
-|---------------|------------------------|
-| Or | Coffres : clés, dépôt du métal, scellement ; blocage si incohérence acte / lingot. |
-| Écrits | Chambres closes ou armoires scellées selon la procédure. |
-| Biens | Choix du lieu (coffre, salle, cercle) ; scellement ou cernage ; cohérence acte / contenu. |
-
-## Codes des portes des salles de coffres
-
-Tu es responsable du changement des codes des portes d’accès aux salles de coffres (combinaisons à trois chiffres, rotation et horaires selon la note interne de la maison). Tu exécutes la procédure dans la chaîne des clés ; seuls toi et le directeur de la banque détenez les combinaisons en vigueur et le détail technique du dispositif.
-
-## Procédure et trahison
-
-Tu es la règle qui dit « non » si le papier et le contenu ne s'accordent pas — une armure pour la Banque et un risque pour toi si quelqu'un teste la chaîne des clés.
-
----
-
-*GN Krondaar 2026 — UBI*
+© 2026 — Perso

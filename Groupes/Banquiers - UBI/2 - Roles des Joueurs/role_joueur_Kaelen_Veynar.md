@@ -1,6 +1,10 @@
-# Kaelen Veynar — Champion de la Banque (UBI)
+# Kaelen Veynar — Exécuteur de contrats (UBI)
 
-<!-- UBI — Union bancaire d'Il-Irion. Récit partagé : `../1 - Back de groupe/Back_groupe_UBI.md`. Intrigue orga : `Intrigues/Intrigue_Banquiers.md`. -->
+<!--
+  Rôle joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe.
+  Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l'intrigue ou à la fiche perso).
+  Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
+-->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
@@ -33,14 +37,14 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Kaelen « Griffes-de-Fer » Veynar |
-| Rôle dans le groupe | Champion — garde ; périmètre extérieur, escorte |
+| Rôle dans le groupe | Exécuteur de contrats — recouvrement, pression, réseau d'influence |
 | Classe / profession | Guerrier *(règlement — orga)* |
 | Groupe | Banquiers — UBI |
 | Points de vie | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | 30 ans ; famille de forgerons du nord ; cicatrice d'ours à l'épaule gauche. |
+| Remarques | 30 ans ; famille de forgerons du nord ; cicatrice d'ours à l'épaule gauche ; intégré dans la combine depuis 3 ans. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -48,76 +52,112 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Homme imposant aux traits marqués par les combats, regard fier et brutal. |
-| Style vestimentaire | Armure de garde, armes de prestige, cape de champion. |
-| Traits de caractère | Fier, brutal, loyal en apparence, sensible à l'or et à la gloire. |
-| Valeurs | Honneur martial, reconnaissance, puissance, richesse. |
-| Peur | Être ignoré, perdre sa réputation, échec de la Banque. |
-| Rêve | Remplacer Horgrim comme chef de la garde et être reconnu. |
+| Traits de caractère | Direct, peu patient avec les justifications longues. Comprend vite ce qu'une personne veut éviter. |
+| Valeurs | La reconnaissance d'un travail bien fait. L'or comme preuve concrète que le travail compte. |
+| Peur | Rester dans l'ombre d'Horgrim indéfiniment. Que les dossiers qu'il a constitués remontent contre lui si quelqu'un les aligne correctement. |
+| Rêve | Prendre la tête de la garde après le départ d'Horgrim. Partir d'Ulghart avec assez pour s'installer ailleurs à ses propres conditions. |
 
 ---
 
 # L'histoire de Kaelen Veynar
 
+**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
+
+**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
+
 ## Chapitre I : Les origines
 
-Né dans une famille de forgerons du nord, tu refusais l'enclume : très jeune, tu t'es engagé comme mercenaire.
+Tu nais dans une famille de forgerons dans une ville du nord. Ton père fabrique des outils et des armes pour les marchands et les milices locales. Le travail à la forge est dur, régulier, peu payé. Tu regardes ton père travailler depuis l'enfance et tu décides très tôt que ce n'est pas ta vie.
+
+Tu apprends les armes en dehors de la forge. D'abord en te battant avec les fils des autres artisans du quartier, puis en t'entraînant avec des soldats de passage qui campent près de la ville quelques semaines et acceptent d'apprendre quelque chose à un gamin qui ne recule pas.
+
+À seize ans tu es dans la forêt avec deux autres jeunes de la ville quand vous tombez sur un ours. Les deux autres fuient. Tu restes, par instinct ou par stupidité — tu n'as jamais su. Tu en sors avec une cicatrice longue sur l'épaule gauche et une réputation dans la région. On te surnomme Griffes-de-Fer. Tu t'en accommodes.
 
 ## Chapitre II : L'apprentissage
 
-On dit que tu t'es battu à mains nues contre un ours à seize ans — cicatrice à l'épaule gauche. Tu t'es illustré dans les guerres de frontières au service d'un baron.
+Tu quittes ta ville à dix-sept ans. Tu rejoins la garde privée d'un baron local qui contrôle plusieurs routes commerciales dans le nord. Tu travailles là plusieurs années. Tu apprends ce que ça signifie de travailler pour quelqu'un qui a des ennemis : escortes, intimidation de débiteurs, protection de convois, règlement discret de litiges entre marchands qui ne veulent pas de procès confédéral.
+
+Ton baron est assassiné. Tu identifies le présumé coupable dans les jours qui suivent. Tu le retrouves dans une taverne à deux journées de route. Tu le décapites devant les autres clients. Ce n'était pas un ordre. C'était un choix personnel.
+
+Tu te retrouves sans employeur, avec un nom qui circule dans les réseaux de gardes comme quelqu'un de loyal mais imprévisible. Tu vends tes services à plusieurs maisons avant que l'UBI t'embauche. Horgrim Dval fait la sélection. Il voit ce que tu peux faire. Il te prend sous son aile.
 
 ## Chapitre III : L'ascension
 
-Quand ton baron fut assassiné, tu décapitas le meurtrier présumé dans une taverne. Tu vendis tes services à la Banque ; Horgrim te prit sous son aile.
+Tu entres au service de l'UBI il y a cinq ans, sous Horgrim. On te confie d'abord des missions d'escorte et de surveillance visible. Tu travailles correctement. Horgrim te monte en grade et te confie un deuxième rôle : le recouvrement de dettes.
+
+Le recouvrement de dettes à l'UBI, c'est plus que présenter une lettre officielle à un débiteur. La banque a des créances que personne d'autre ne veut aller chercher, sur des personnes que personne d'autre ne veut approcher. Tu y vas. Tu trouves le bon levier — un membre de la famille à exposer, un secret à révéler, une dette croisée avec quelqu'un d'autre. Les dettes rentrent.
+
+Chaque intervention te donne une prise sur une maison noble ou une famille marchande. Tu sais où sont les dossiers, ce qu'ils ont mis en gage, ce qu'ils ont fait pour éviter de payer. Ces informations ne sont pas dans les registres officiels. Elles sont dans ta tête et dans des notes que tu gardes pour toi.
+
+Il y a trois ans, Edorian te convoque. Il te dit ce qui se passe dans cette banque depuis cinq ans. Il te dit que tu en fais partie qu'on te l'ait dit ou non : un auditeur qui remonte tes interventions trouverait des mouvements sans trace officielle et des accords verbaux que personne ne pourra nier avoir honorés. Tu es dans la combine. Tu peux choisir d'en bénéficier ou de l'ignorer — mais tu ne peux pas en sortir.
+
+Tu choisis d'en bénéficier.
 
 ## Chapitre IV : Les défis actuels
 
-Tu veux la reconnaissance que la discipline refuse encore : titre de chef, gloire, or. Si l'UBI vacille, tu vendras ton épée ailleurs — ou tu prendras la place d'Horgrim par la voie qui reste.
+Le mandat se termine. Edorian sort. Horgrim sort aussi. Ce que tu veux, c'est sortir avec eux — et prendre la tête de la garde dans le chaos de la passation si une opportunité se présente.
+
+Les dossiers que tu as constitués pendant cinq ans sur des familles nobles d'Il-Irion, de Sfaal et d'ailleurs sont une ressource. Si quelqu'un essaie de te laisser seul face aux auditeurs après la passation, ces dossiers deviennent une protection. Tu les gardes hors du circuit officiel.
+
+Les questeurs d'Il-Irion qui arrivent pour enquêter sur les six gardes morts vont probablement croiser des noms que tu connais. Des familles qui ont subi des recouvrements musclés ont des raisons de parler. Tu dois savoir qui parmi eux est encore sous pression suffisante pour se taire.
+
+La Régate va ramener du monde dans le fort. Parmi ce monde, des personnes qui te connaissent et qui ont des comptes à régler. Tu prépares les escortes et les accès avec Horgrim, mais tu gardes l'œil sur les délégations dont tu sais qu'elles ont des dossiers sensibles avec toi.
 
 ## Chapitre V : Le réseau et les relations
 
-Horgrim est mentor et obstacle ; Edorian est le toit qui signe ; Sybrel partage parfois tes rondes. Le reste du conseil est bruit de salle pour toi — sauf quand un dépôt exige une escorte et que tu deviens le visage de la force de la Banque.
+Horgrim est ton mentor et ton obstacle. Il t'a formé, il t'a donné ta place dans cette institution. Il est aussi la raison pour laquelle tu n'as pas encore le titre que tu veux. La passation va créer un vide. Tu y penses.
+
+Edorian te respecte pour ce que tu as fait. Il ne t'a pas intégré dans le noyau initial, mais il sait ce que tu vaux. Tu travailles avec lui sur les dossiers de familles nobles qui pourraient bloquer la sortie du conseil.
+
+Sybrel partage parfois tes rondes dans les tunnels. Elle ne pose pas de questions. Toi non plus. C'est une collaboration fonctionnelle.
+
+Les familles nobles que tu as récupérées pendant cinq ans savent qui tu es et ce que tu peux faire. Certaines te haïssent. Toutes préfèrent que tu restes silencieux sur leurs dossiers. C'est ton levier principal pendant la Régate.
+
+Kaelan Thormane et les Sangs de la Steppe ont croisé tes réseaux de recouvrement plusieurs fois. Ni alliance, ni conflit ouvert : une mémoire mutuelle de ce que chacun a vu sur le terrain.
 
 ---
 
-# Tes missions et actions
+# Tes missions et objectifs
 
-## Objectifs prioritaires
+- **Dossiers nobles** : identifier les familles présentes à la Régate qui ont des comptes à régler avec toi et s'assurer qu'elles ne parlent pas aux questeurs avant la passation.
+- **Sortie avec le noyau** : partir d'Ulghart avec ce que le plan prévoit ; protéger tes propres dossiers hors du circuit collectif comme garantie personnelle.
+- **Poste de chef de garde** : si Horgrim part dans les formes, te positionner pour que la passation te laisse en place ou que tu sortes avec un titre reconnu.
+- **Recouvrement final** : solder les dernières créances actives avant la passation pour que rien ne remonte vers toi par une procédure en cours.
 
-- Défendre la Banque **par les armes** ; verrouiller l'accès aux couloirs des coffres ; **entraîner** les recrues.
-- Prouver que tu es l'**héritier** naturel de la garde ; obtenir gloire et reconnaissance.
-- **Remplacer** Horgrim si nécessaire ; vendre tes services ailleurs si l'UBI s'effondre.
+# Membres du groupe
 
-## Membres du groupe UBI
-
-| Personnage | Lien |
-|------------|------|
-| Horgrim Dval | Mentorat — tu veux son poste. |
-| Edorian | Autorité — respect, mais tu veux plus de reconnaissance. |
-| Sybrel Dornik | Collaboration — missions garde. |
-| Melian Torv | Neutralité. |
-| Selvara Quenndral | Neutralité. |
-| Ydria Ventoss | Neutralité. |
-| Vaelric Dorn | Neutralité. |
-| Corvus | Neutralité — même bâtiment, pas même chaîne de commandement. |
-
----
+| Personnage | Interaction |
+|------------|-------------|
+| Horgrim Dval | Mentor et obstacle : il t'a formé, il tient le poste que tu veux. |
+| Edorian | Respect mutuel : tu as fait le travail sale, il le sait. |
+| Sybrel Dornik | Collaboration de terrain sans affect ni questions inutiles. |
+| Vaelric Dorn | Peu de contact direct ; utile quand une affaire doit rester discrète dans la ville. |
+| Selvara Quenndral | Peu de contact direct. |
+| Ydria Ventoss | Peu de contact direct ; vos fils se croisent sur des recouvrements où les dettes passaient aussi par le comptoir. |
+| Melian Torv | Peu de contact direct. |
+| Corvus | Peu de contact direct ; mêmes corridors, pas même chaîne de commandement. |
 
 # Connaissances
 
-## Fonction — les trois dépôts
+**Règles de forme (obligatoires)**  
+- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
+- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
+- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
+- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
+- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
-| Type de dépôt | Rôle pendant le dépôt |
-|---------------|------------------------|
-| Or | Garde visible ; escorte du client ou du métal sur ordre. |
-| Écrits | Escorte vers les lieux clos ; pas de lecture des actes à ta place. |
-| Biens | Escorte de colis ou biens sensibles dans les couloirs. |
+## Recouvrement et dossiers nobles — UBI
 
-## La force visible
+Pendant cinq ans tu as récupéré ce que la banque était censée récupérer — et parfois ce qu'elle n'était pas censée demander. Chaque intervention t'a donné une prise sur une maison noble ou une famille marchande. Tu sais où sont les dossiers, ce qu'ils ont mis en gage, ce qu'ils ont fait pour éviter de payer. Un auditeur qui remonte tes interventions trouverait des mouvements sans trace officielle et des accords verbaux que personne ne pourra nier avoir honorés.
 
-Tu n'écris pas les registres : tu fais respecter l'ordre quand la salle s'échauffe et tu portes le métal ou les coffrets quand Horgrim l'ordonne.
+## Dépôts — escorte et force visible — UBI
+
+Tu n'es pas sur le fil continu du comptoir. Tu interviens pour l'escorte visible lors des dépôts qui exigent une présence armée, et pour le maintien de l'ordre si la salle s'échauffe. Pour les dépôts importants, tu escortes le client ou le métal sur ordre d'Horgrim.
+
+## Kaelan Thormane — Sangs de la Steppe
+
+Le chef des Sangs a croisé tes réseaux de recouvrement plusieurs fois. Il sait ce que tu fais et dans quel cadre. Ni alliance officielle, ni conflit ouvert : une mémoire mutuelle de ce que chacun a vu sur le terrain, qui peut devenir une pression si l'un des deux décide d'en faire usage.
 
 ---
 
-*GN Krondaar 2026 — UBI*
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*

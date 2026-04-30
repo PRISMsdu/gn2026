@@ -19,7 +19,7 @@ Chaque ligne rappelle un **croisement possible à Ulghart** entre ton personnage
 | Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
 | Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les routes discrètes vers la Styrgie par des contacts quais, en dehors du fil diplomatique d’Ilara. |
 | Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et les preuves. Tu as promis de protéger Melian. Sans elle, le dossier s’effondre. |
-| Lysa Morwyn | Edorian (UBI) | Tu le vois dans l’ombre pour documents, fuite et marchandage. Tu le méprises mais tu négocies. |
+| Lysa Morwyn | Edorian (UBI) | Croisements **officiels** (régate, dossiers délégués) : tension de façade — pas de canal secret Edorian–Palyr ; le fil sensible reste **Melian**. |
 | Lysa Morwyn | Selvara Quenndral (UBI) | Elle tient codes et archives. Tu décides si tu t’alignes avec elle ou si tu la presses. |
 | Lysa Morwyn | Horgrim Dval (UBI) | Il bloque souterrains et tours. Tu dois approcher les coffres pour Palyr sans rester coincée au mauvais moment. Si d’autres missions te tirent ailleurs, tu dois choisir quel silence garder. |
 | Lysa Morwyn | Soren (Tripot) | Tu le suis pour une traque officielle ; ce que tu apprendras sur lui peut contredire le dossier qu’on t’a remis au départ. |

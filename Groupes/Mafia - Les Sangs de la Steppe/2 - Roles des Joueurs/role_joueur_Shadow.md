@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Trente-deux ans (est.) ; apparence modulée : cheveux, lentilles, posture — rien de fixe hors mission. |
-| Style vestimentaire | Ce que la mission exige : de la soie au haillon. |
 | Traits de caractère | Furtif, observateur, adaptable, méfiant. |
 | Valeurs | Survivre, payer ceux qui t'ont exploité, vendre cher ta compétence. |
 | Peur | Qu'on retrouve ton vrai nom ; de retomber dans la faim. |

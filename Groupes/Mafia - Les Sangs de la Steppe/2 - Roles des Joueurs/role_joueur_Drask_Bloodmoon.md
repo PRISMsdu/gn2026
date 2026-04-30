@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Mains tachées par des réactifs que tu expliques par le métier ; regard calme qui attend la bonne minute. |
-| Style vestimentaire | Sombre, propre, flacons discrets — rien qui annonce « poison » avant la phrase. |
 | Traits de caractère | Méthodique, patient, froid quand la consigne l'exige. |
 | Valeurs | La vérité comme outil, pas comme morale ; la chaîne de commande avant l'élégance. |
 | Peur | Qu'une erreur de dosage fasse payer le réseau entier ; qu'on te confonde avec un simple bourreau sans science. |

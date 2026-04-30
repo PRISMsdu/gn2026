@@ -50,11 +50,11 @@ La présente Charte ne peut être amendée que par l'accord unanime des cinq cit
 
 *Par les représentants des Cités Libres du Levant :*
 
-- **Il-Irion** : [Signatures des représentants]
-- **Staal** : [Signatures des représentants]  
-- **Palyr** : [Signatures des représentants]
-- **Ther-Felis** : [Signatures des représentants]
-- **Arthas** : [Signatures des représentants]
+- **Il-Irion** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Il-Irion_+.png]
+- **Sfaal** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Sfaal_+.png]  
+- **Palyr** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Palyr_+.png]
+- **Ther-Felis** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Ther-Félis_+.png]
+- **Arthas** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Arthas_+.png]
 
 *Sous le sceau de l'Union Bancaire d'Il-Irion et la protection des dieux de la prospérité.*
 

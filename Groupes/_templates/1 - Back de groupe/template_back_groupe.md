@@ -1,5 +1,17 @@
 # Template — `Back_groupe_[NOM_DU_GROUPE].md`
 
+## Règle de forme et de style
+
+Ce fichier est **distribué à tous les joueurs du groupe**. La **forme compte** autant que le fond : même plan d’ensemble d’un groupe à l’autre, titres clairs, séparateurs lisibles, tableaux qui se lisent sans chercher l’information.
+
+- **Priorité au clair, pas au style** : faire du **matériau de jeu** (qui, quoi, conséquence), pas une démo de « belle prose ». Voir aussi la règle Cursor du dépôt `backs-prose-claire.mdc` et `.cursor/rules/redaction-textes-joueurs.mdc`.
+- **Structure** : suivre l’ordre **titre principal** → sections `##` avec intitulés explicites → **Résumé des objectifs** (liste courte) → **Composition du groupe** (tableau) → annexes jugées nécessaires. Un trait horizontal `---` peut séparer les objectifs du tableau comme dans ce modèle.
+- **Langage** : français **simple**. Phrases courtes ou moyennes, **sujet — verbe — complément**. **Pas de jargon** qui ne soit pas déjà dans le jeu (titres réels du monde). **Interdit :** métaphores vagues, verbes incomplets (« les taux suivent », « perd des points » sans dire quoi), adjectifs de remplissage. **Chaque phrase livre un fait utile aux joueurs** ou elle saute.
+- **Référence auteur scénario** : `Intrigues/Intrigue_[GROUPE].md` pour garder les mêmes **faits** (qui, quoi, quand dans le monde du GN). Ce **back groupe** **ne répète pas** les secrets MJ, ni les ficelles que seuls l’organisation ou une fiche perso doit porter ; il les **renvoie** dans le document orga correspondant ou la fiche PJ.
+- **Longueur** : prévoir une **chronique** assez longue pour distribuer en jeu (voir règle projet sur les backs de groupe dans le dépôt : ordre de grandeur **~2 500 mots** de texte narratif hors annexes très techniques si la campagne GN l’exige).
+
+---
+
 <!--
   DOCUMENT JOUEUR — remis à TOUT LE GROUPE.
   C’est le « rôle collectif » : même niveau qu’une fiche joueur, mais pour l’équipe entière.
@@ -14,7 +26,7 @@
 
 ## [Titre de partie — ex. Prologue, …]
 
-[Prose : 1 à plusieurs paragraphes. Ton cohérent : chronique, récit, témoignage — **distribuable tel quel** à tous les joueurs du groupe.]
+[Prose : 1 à plusieurs paragraphes. Dire les faits (lieux, rôles, enjeux) ; ton direct ; pas de phrases creuses pour l’effet littéraire.]
 
 ## [Titre de partie — ex. …]
 
@@ -22,11 +34,13 @@
 
 ## [Titre de partie — ex. La situation actuelle]
 
-[Prose — tension du moment **sans** détailler les secrets d’intrigue : ils restent dans `Intrigue_*.md` ou sur une fiche perso.]
+[Prose — tension du moment **sans** détailler les secrets réservés orga ou fiche perso.]
+
+---
 
 ## Résumé des objectifs
 
-<!-- Reformulation **in-world**, alignée sur `Intrigue_*.md` : pas la liste brute orga si elle contient des infos cachées. -->
+<!-- Reformulation **in-world**, alignée sur `Intrigue_[Groupe].md` : adapter si l’intrigue contient une action que les PJ ne doivent pas connaître avant la partie. -->
 
 [Liste courte : ce que **vous** (le groupe) cherchez à obtenir — visible pour les PJ.]
 
@@ -34,8 +48,8 @@
 
 ## Composition du groupe
 
-<!-- Tableau des PJ : noms, rôles, en bref — pas les secrets individuels (fiche perso ou intrigue orga). -->
+<!-- Tableau des PJ : noms, rôles, synthèse, joueur attribué quand il est connu. Pas les secrets individuels. -->
 
-| Nom | Rôle | En bref |
-|-----|------|---------|
-| … | … | … |
+| Nom | Rôle | En bref | Joueur |
+|-----|------|---------|---------|
+| … | … | … | … |

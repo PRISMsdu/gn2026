@@ -52,8 +52,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Trente-cinq ans environ ; mains de copiste et d'arrimeuse ; regard vif quand on parle de registres. |
-| Style vestimentaire | Sobriété fonctionnelle ; rien qui accroche l'œil en salle des coffres. |
 | Traits de caractère | Méticuleuse, tenace, peu bavarde quand il s'agit de sources. |
 | Valeurs | La trace exacte ; la preuve qui tient quand le récit ment. |
 | Peur | De confondre une copie propre avec la vérité — et de brûler une source par excès de zèle. |

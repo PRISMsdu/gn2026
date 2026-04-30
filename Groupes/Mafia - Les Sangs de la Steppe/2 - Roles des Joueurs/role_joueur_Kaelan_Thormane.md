@@ -48,8 +48,6 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Apparence physique | Homme d'une quarantaine d'années au port de chef de guerre. Cicatrice en travers du visage, souvenir d'un duel d'honneur. Marque de compagnie tatouée sur l'avant-bras gauche. |
-| Style vestimentaire | Tenues sombres de bonne facture, cape de cuir, armes de prestige qui affichent le rang sans excès inutile. |
 | Traits de caractère | Autoritaire, calculateur, loyal envers les siens, impitoyable quand il le faut. |
 | Valeurs | La loyauté de bande avant tout, la revanche contre ceux qui croient tout acheter, la protection de sa famille criminelle comme d'un clan. |
 | Peur | Que les siens le trahissent ; que les engagements pris envers les puissants d'Elfrion ne tiennent plus et que l'organisation se désagrège sous lui. |
@@ -81,7 +79,7 @@ Tu tiens les rênes au plus haut niveau : ce sont tes accords qui engagent les c
 
 Vorak Ironhand est ton second : exécution des grandes manœuvres, coordination, une loyauté que tu ne traites pas à la légère. Gareth Ironfist porte tes ordres dans le muscle et la peur. Drask Bloodmoon tient les interrogatoires et la pharmacie des vérités arrachées. Shadow et Raven portent des noms de couverture : infiltration, documents, extorsion d'un côté ; informateurs, parlements de couloir et filières maritimes ou bancaires de l'autre — jusqu'aux remises d'or avec les pirates quand le réseau le juge nécessaire.
 
-Hors du cercle serré, le Tripot au fort d'Ulghart et les milieux marchands de Staal sont des partenaires de circonstance, jamais confondus : lieux et interlocuteurs différents. Les familles nobles d'Il-Irion sont des cibles de prédilection ; les autorités confédérées, le cadre ennemi. Côté Union bancaire, Edorian est une cible de déstabilisation et un homme dont tu connais les faiblesses ; Sybrel peut servir d'infiltration ; Vaelric te menace s'il joue double ; Ydria peut ouvrir des portes financières que tu sais fermer ailleurs.
+Hors du cercle serré, le Tripot au fort d'Ulghart et les milieux marchands de Staal sont des partenaires de circonstance, jamais confondus : lieux et interlocuteurs différents. Les familles nobles d'Il-Irion sont des cibles de prédilection ; les autorités confédérées, le cadre ennemi. Côté Union bancaire, Edorian est une cible de déstabilisation et un homme dont tu connais les faiblesses ; Sybrel peut servir d'infiltration ; Vaelric peut bloquer ton narratif s’il estime que tu nuis à ses dossiers hors banque ; Ydria peut ouvrir des portes financières que tu sais fermer ailleurs.
 
 ---
 
