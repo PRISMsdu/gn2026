@@ -14,10 +14,10 @@ Chaque ligne rappelle un **croisement possible à Ulghart** entre ton personnage
 | Ilara Vandesse | Notables Il-Irion (délégation, familles) | Tu connais des visages à Il-Irion par ta formation. Ça aide ou ça brûle quand les preuves sortent. Ce ne sont pas des alliés de la délégation Palyr. |
 | Ilara Vandesse | Point de contact MiVI (Styrgie) | Tu portes la lettre de rendez-vous pour le contact styrgien. Ce n’est pas un membre de la délégation officielle : c’est un interlocuteur extérieur désigné par le Conseil. |
 | Thoran Keld | Négociateurs Sfaal (délégation) | Tu dois parler du **dernier chargement** : **sceaux et papiers** d’un côté, **résultat des fours** de l’autre — et des **contrats** devant témoins. La relation est déjà mauvaise. |
-| Thoran Keld | Gorvan Tresselune (Voleurs) | Tu négocies l’achat d’Arguetheim avec un vendeur à réputation douteuse. Tu ne dis pas tout ce que tu sais sur la filière. |
 | Thoran Keld | Lira (Tripot) | Tu la croises sur la régate et les quais. Tu n’es pas accro au jeu. Tu peux chercher des infos navales sans entrer dans la dette de Saevar. |
 | Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
 | Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les routes discrètes vers la Styrgie par des contacts quais, en dehors du fil diplomatique d’Ilara. |
+| Lysa Morwyn | Gorvan Tresselune (Voleurs) | Tu tiens la couverture administrative et les papiers de transport pour l’Arguétheim ; Gorvan tient le minerai et a ses propres contacts banque — tu sépares ce fil de celui que tu passes avec Melian. |
 | Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et les preuves. Tu as promis de protéger Melian. Sans elle, le dossier s’effondre. |
 | Lysa Morwyn | Edorian (UBI) | Croisements **officiels** (régate, dossiers délégués) : tension de façade — pas de canal secret Edorian–Palyr ; le fil sensible reste **Melian**. |
 | Lysa Morwyn | Selvara Quenndral (UBI) | Elle tient codes et archives. Tu décides si tu t’alignes avec elle ou si tu la presses. |
@@ -30,3 +30,5 @@ Chaque ligne rappelle un **croisement possible à Ulghart** entre ton personnage
 | Saevar Dren | Courtiers mercenaires (contrats discrets) | On te prête pour des missions courtes. Tu peux monter des appuis ou des fuites sans papier complet. |
 | Saevar Dren | Lira (Tripot) | Elle sait te faire jouer. Tu es endetté. C’est un levier contre toi et contre Palyr. |
 | Saevar Dren | Horgrim Dval (UBI) | Tu cherches des accès au nom de la sûreté de Palyr. Horgrim verrouille ce que la banque montre. Lysa a besoin d’autres angles que toi. |
+| Saevar Dren | Tavish Kaironi (Ulghart) | Un courrier adressé à la délégation propose un rendez-vous. Tavish se présente comme un habitant local ; il affirme détenir un récit des îles du Levant que les chroniques des greffes ne retiennent pas. Tu contrôles le contact pour la sûreté ; Corvyn tranche si la rencontre engage le mandat. |
+| Corvyn Valdrak | Tavish Kaironi (Ulghart) | Le courrier vise la délégation, pas un nom seul. Tu décides si Palyr écoute une parole officieuse sur l’histoire des îles ou si tu coupes court pour éviter tout engagement hors brief. |

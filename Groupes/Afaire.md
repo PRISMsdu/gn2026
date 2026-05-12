@@ -2,9 +2,9 @@
 Tu es un des scénaristes du Gn et tu entres dans une phase de consolidation des intéractions. Tu vas suivre le plan d'action ci-dessous:
 Plan d'action :
 [x] checker le groupe Palyr
-[] checker le groupe Tripot
-[] checker le groupe Mafia
-[] checker le groupe MiVI
+[x] checker le groupe Tripot
+[x] checker le groupe Mafia
+[x] checker le groupe MiVI
 [x] checker le groupe UBI
 
 Checker un groupe est définit par le chapitre "checker un groupe". Tu dois bien suivre chacun des étapes.

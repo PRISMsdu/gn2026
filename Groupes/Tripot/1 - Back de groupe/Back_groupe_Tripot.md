@@ -1,96 +1,98 @@
-# Les jetons qui ne s’arrêtent pas — Chronique du Tripot
+# L’or qui passe — Chronique du Tripot
 
-<!-- Récit joueurs. Secrets MJ (artefact précis, détail Fenric, briefs tirage oracle) : `Intrigues/Intrigue_Tripot.md` et fiches individuelles. -->
-
-## Prologue — L’odeur du fort
-
-Le fort d’Ulghart porte dans ses pierres l’écho des sièges qu’il a vus passer. Ici, la guerre a laissé la place au commerce ; le commerce, au jeu. Au cœur du bastion, le Tripot occupe l’emplacement d’un vieux casino que la poussière et la faillite avaient rendu présentable seulement aux rats. Aujourd’hui, les miroirs renvoient des lustres, l’air mêle parfum et sueur, et quelque part entre les tables court une ligne d’encre que seuls ceux qui savent lire les colonnes reconnaissent pour ce qu’elle est : une promesse, ou une corde.
-
-Vous n’êtes ni saints ni héros de légende. Vous êtes des professionnels du seuil — celui qu’on franchit en jurant que la prochaine mise sera la dernière. Ce livret raconte comment vous vous êtes hissés jusqu’ici, et ce que la Convention vous impose encore : tenir une maison ouverte tant que l’or doit couler, puis partir avant que la vertu des autres ne vous enferme.
-
----
-
-## I — La lettre et la relève
-
-Il y a dix ans, une lettre de l’Union bancaire d’Il-Irion a mis un point final à une direction qui préférait les dettes aux réponses. Le casino fermait pour « réorganisation ». On cherchait une tête capable de redresser le verre sans se couper les mains.
-
-**Marda Velyss** est entrée la première. On ne lui a pas offert une couronne : un contrat de gestion, des objectifs, une marge. Elle a accepté comme on accepte une table qu’on sait truquée — parce qu’on connaît déjà la main qui tient le jeu.
-
-Elle a bâti son équipe sans bruit inutile. **Ardan Trevil**, sorti des cercles de jeu d’Ascanir, est devenu le mur que les poignards heurtent avant la salle. Les sœurs **Sira** et **Lira Vestrann**, arrivées de Palyr avec le même nom et des tempéraments qui ne coïncident pas toujours, ont pris les tables comme on prend un théâtre : le sourire en façade, le calcul dans le geste. **Varek** a glissé dans l’ombre du fort — pisteur, oreilles, silhouette qui apprend le quai avant la foule. **Lydwen** s’est installée là où le velours absorbe le bruit : cartes, silences, fragments d’avenir dont vous décidez en jeu, avec l’orga, ce qui est vérité et ce qui est utile. **Éliane** a pris les paris pour ce qu’ils sont — un langage que la foule croit gratuite et que la maison facture toujours. **Ysabeau** a ouvert les salons où l’on signe avant d’avoir conscience d’avoir dit oui.
-
-Puis est venu **Soren**, alchimiste et homme de main, avec un passé qui pèse comme une armure qu’on ne retire pas devant les clients. Vous avez tous compris qu’il traînait quelque chose de lourd ; vous avez choisi de partager le fardeau plutôt que de le peser à voix haute. Au Tripot, la loyauté se mesure aux silences qu’on garde.
-
-Quand les flux ont grossi jusqu’à faire plier les étagères, **Fenric Ossel** a pris les registres. Les livres officiels pour l’UBI, les totaux que la patronne doit voir, et le reste — ce que toute maison sérieuse garde hors du regard des créanciers.
-
-On a rouvert après travaux. Les tournois sont revenus, les roulettes ont repris leur chant, les paris sur la mer ont donné aux riches l’illusion de commander aux vagues. La banque a souri : l’argent rentrait. Vous avez souri aussi : une maison qui respire la prospérité cache mieux ceux qui travaillent dans le dos des colonnes.
+<!--
+  DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
+  Chaîne : `Intrigues/Intrigue_Tripot.md` (orga) → ce fichier → `Groupes/Tripot/2 - Roles des Joueurs/role_joueur_*.md`.
+  Secrets MJ (artefact précis, tirages oracle, détail registres Fenric) : `Intrigues/Intrigue_Tripot.md` et fiches individuelles.
+  Style : langage simple et direct (consigne `Groupes/Afaire.md`, *Check d'un groupe*).
+-->
 
 ---
 
-## II — L’âge des tables bien réglées
+## Ce qu’est le Tripot et pourquoi vous êtes là
 
-Pendant des années, le Tripot a tenu sa promesse. Les nuits y ressemblaient à des chaînes de fêtes : le bruit montait, retombait, repartait plus haut, comme si le fort lui-même respirait au rythme des jetons. On y voyait des visages qu’on ne croise pas deux fois dans une même vie — marchands, nobles déchus, marins qui parient leur prochaine escale sur un seul regard. La maison ne jugeait pas : elle encaissait.
+Le **Tripot** est le casino du **fort d’Ulghart**, sur **Il-Irion**. Il fonctionne sous **contrat de gestion** avec l’**Union bancaire d’Il-Irion**. Les salles accueillent tables, paris, clients fortunés et dettes. Ce document raconte comment l’équipe de **Marda Velyss** a repris la maison il y a **dix ans**, ce que ces années ont produit, et ce qui vous attend pendant la **Convention** et la **Régate**.
 
-Ardan a serré la sécurité du casino jusqu’à ce qu’elle devienne une seconde peau de la maison : pas de sang sur le tapis quand un poignard suffit dans la coulisse, pas de cris qui fassent lever les gardes de la citadelle pour une histoire de dette — son périmètre, ce sont les salles et les accès du Tripot, pas les murailles ni la garnison du fort. Varek a appris les odeurs du fort — qui transpire la peur, qui porte l’avidité trop forte, qui revient parce qu’il ne peut plus s’arrêter — et surtout il a appris à distinguer celui qui joue de celui qui cherche à voler la maison sans toucher aux cartes.
+Pour vous, le Tripot ce n’est pas seulement un contrat : c’est le bruit des jetons le soir, l’odeur du tabac et du bois ciré, les visages qui reviennent par habitude et ceux qui entrent une fois pour tout perdre. Vous repérez vite qui bluffe, qui compte, qui observe les coffres sans jouer. Dix ans, c’est assez long pour que des alliances tiennent sans serment public et assez long pour qu’un malentendu en salle coûte cher à toute la maison.
 
-Les sœurs Vestrann ont fait des tables des arènes où la défaite se joue en sourire ; entre elles, l’alliance et la jalousie ont parfois partagé la même nappe, et le Tripot a su en tirer des scènes que les clients payent deux fois : une fois en or, une fois en rumeur. Éliane a monté les cotes comme on monte une voix : assez fort pour entraîner la salle, jamais assez pour qu’on voie la couture. Ysabeau a tenu les portes des salons où les dettes deviennent des signatures, et où un mot trop tôt dit peut valoir une alliance ; elle sait qu’un regard bien placé tient parfois mieux qu’un contrat. Lydwen a posé des cartes sur le velours et des vérités sur le silence — assez pour que Marda tranche un soir plutôt qu’un autre, jamais assez pour que le destin soit écrit sans marge de manœuvre.
-
-Soren est resté l’outil qu’on ne brandit pas en salle : potions, poisons, basses œuvres propres. On l’a laissé dans la pénombre non par mépris, mais par nécessité : certaines solutions ne supportent pas la lumière des lustres. Fenric, lui, a veillé à ce que les chiffres ne mentent pas tous dans le même sens — car une maison qui perd la trace de ses mensonges perd aussi son magot, et une maison sans magot n’est plus qu’un décor.
+Vous êtes **dix** — **six femmes** et **quatre hommes**.
 
 ---
 
-## III — Dix pour cent quand le risque valait quinze
+## I — La relève (il y a dix ans)
 
-Puis le conseil a changé du côté banque, et le monde a appris un mot doux pour dire sale : détournement. Pendant environ cinq ans, une ligne corrompue à l’UBI a utilisé le Tripot comme laveur. Dix pour cent des flux qu’ils faisaient disparaître retombaient dans vos coffres — commission de risque sur les papiers ; risque de vie, dans les faits. Les paris se sont alignés un peu trop bien sur ce que voulaient certains navires ; les nuits ont senti le soufre des accords qu’on ne lit pas à voix haute.
+Il y a dix ans, l’**Union bancaire** a mis fin à une direction précédente du casino. Le lieu fermait pour réorganisation. La banque cherchait un gestionnaire avec objectifs et marge contractuelle.
 
-Vous avez tenu parce que tenir rapportait. Vous avez ajusté les tables à la marge parce que la marge est parfois la seule morale qui survive quand les juges sont achetables et les jugements reportés.
+**Marda Velyss** a pris le contrat en premier. Elle n’a pas reçu un titre honorifique : elle a reçu des **chiffres**, des échéances et une part du résultat. Elle a signé en sachant qu’une erreur de chiffre ou de ton avec la banque peut fermer une salle en quelques jours : vous le lui rappelez encore quand une décision se prend à la hâte.
 
-Et un jour, quelqu’un a vu dans un coffre quelque chose qui n’aurait pas dû répondre à une question de joueur — une chose qui n’est pas un jeton, une ombre que les banquiers croient maîtriser et que vous savez nommer assez pour en faire un levier, pas assez pour brûler la table entière. Vous ne l’avez pas étalée : c’est une arme qui ne se joue qu’une fois, ou qui vous tue si vous la brandissez comme un enfant son bâton.
+Elle a monté l’équipe sans tapage inutile. **Ardan Trevil**, issu des cercles de jeu d’**Ascanir**, tient la sécurité **à l’intérieur du Tripot** : salles et accès du casino, pas les murailles du fort ni la garnison générale. Il sait calmer une altercation sans faire monter l’affaire jusqu’aux autorités du fort : pour vous, c’est aussi important que gagner un tournoi. Les sœurs **Sira** et **Lira Vestrann**, venues de **Palyr**, tiennent les tables. Leur voix et leurs mains rythment la salle ; entre elles, la rivalité est une habitude de famille autant qu’un levier pour le spectacle. **Varek** assure pistage, quai et coulisses : qui entre, qui ment, qui revient trop souvent. Il rapporte ce qu’il voit sans dramatiser : Marda préfère un fait mal fichu à une belle histoire inutile. **Lydwen** tient les tirages et lectures où la patronne cadre avec vous ce qui peut tenir pour vérité utile en salle. **Éliane** gère les **paris**, en particulier autour de la mer et de la **régate**. **Ysabeau** tient les salons où les signatures valent autant que les mises ; une phrase mal placée au bon salon peut valoir une dette qu’aucune table ne paiera à votre place.
 
-La mafia — les Sangs de la Steppe — ne se cache pas derrière les mots doux. Elle frappe aux portes jusqu’à ce que le bois cède ou que la monnaie parle. Elle veut votre salle, votre réseau, la peau de confiance dont vous vous couvrez pour ouvrir chaque soir. Vous avez résisté : des rendez-vous au quai, des messagers qui ne se nomment pas, des dettes anciennes qu’on rappelle au bon moment — assez pour tenir, jamais assez pour déclencher une guerre de salle où tout le monde perdrait le magot en une seule bavure d’orgueil.
+**Soren** est arrivé comme alchimiste et homme de main : potions, interventions discrètes. Le groupe a traité son passé comme une chose à ne pas étaler en salle ; au Tripot, la confiance se mesure aussi aux informations que chacun garde. Vous savez que certaines questions sur lui dépassent le registre du casino : la maison a choisi de protéger le travail collectif plutôt que le curieux qui poserait trop de questions au bar.
 
-Vous avez payé en nuits blanches et en sourires serrés. La régate approche : tout le monde sera là, même ceux qui prétendent ne jouer qu’un peu — et surtout ceux qui jouent déjà depuis longtemps, ailleurs, avec des jetons que vous ne voyez pas.
+Quand les flux ont augmenté, **Fenric Ossel** a pris les **registres** : livres visibles pour l’UBI, totaux pour la patronne, et ce que toute maison sérieuse sort des livres officiels. Les chiffres sont devenus un métier à part entière ; Fenric et Marda se parlent souvent à voix basse avant les grandes soirées.
 
----
-
-## IV — La fenêtre, la corde, la dernière main
-
-Le nouveau conseil ne ressemblera pas au vieux. Les rumeurs disent intégrité, audit, balai. Pour vous, cela se lit sans métaphore : si vous restez assez longtemps pour être propres sur le papier, vous serez morts sur le fond — coffres saisis, noms livrés, chaînes au poignet.
-
-Vous avez refait les comptes à la manière dont on compte les blessures : cinq ans à dix pour cent quand le risque en valait quinze. Vous voulez le différentiel avant de plier bagage — l’or liquide, les gages, les mains qui lâchent les chaînes.
-
-**Palyr** vous tend une corde : quai, bateau, fuite. Ce n’est pas une promesse de poème ; c’est une dette qu’il faudra payer en informations, en services, en gages — à sceller en jeu avec ceux qui tiennent les docks et les secrets. Rien n’est gratuit quand on veut disparaître proprement : la discrétion se monnaie comme le reste, et les passeurs n’aiment pas les histoires qui traînent.
-
-La régate et la Convention dressent votre dernière grande table ouverte : les paris monteront, les juges seront sollicités, les rumeurs iront plus vite que les barques — et d’autres groupes toucheront les mêmes officiels, les mêmes eaux, les mêmes dettes d’apparence. La cohérence n’est pas un luxe : c’est une contrainte. Un juge soudoyé deux fois dans deux histoires incompatibles peut faire échouer tout le monde d’un coup.
-
-Vous ne pouvez pas quitter le fort facilement et pas en pleine lumière. Il y a des dettes et des choses à régler correctement. Le monde est petit et les bons chasseurs de têtes sont nombreux.
-
-Entre la banque qui paie encore et celle qui viendra demain, entre la mafia qui veut votre chaise et la foule qui veut votre chance, il vous reste à choisir quels mensonges emporter pour la route et lesquels laisser sur le tapis pour payer la dette du monde.
+Après travaux, le casino a rouvert. Les premières semaines, vous avez senti le relief des équipes : des salles enfin pleines, des clients qui testent la nouvelle maison, des pertes et des gains qui confirment que le Tripot redevient un nom qu’on cite sur le quai. Les tournois et les paris maritimes ont rapporté des marges ; la banque encaissait sa part visible ; la maison aussi.
 
 ---
 
-## V — Dix visages, une table
+## II — Les années stables
 
-Vous n’êtes pas une compagnie de marionnettes. Vous êtes dix — **six femmes**, **quatre hommes** — qui ont appris à respirer au même tempo quand la musique monte. Marda tranche quand la ligne doit tenir ; Ardan quand les portes du Tripot doivent rester closes ; Sira et Lira quand les mains des joueurs trahissent le cœur avant les mots ; Varek quand la salle ment trop fort ; Lydwen quand l’avenir refuse d’attendre la fin de la partie ; Éliane quand la mer et les cotes exigent une phrase nette ; Ysabeau quand il faut qu’on dise oui sans savoir pourquoi ; Soren quand la peste ou le remède doivent passer par le verre ; Fenric quand les colonnes doivent tenir debout assez longtemps pour que la caisse suive.
+Pendant plusieurs années, le Tripot a rempli son rôle : encaisser, tenir les salles, éviter les incidents qui feraient intervenir la garnison du fort pour une histoire de dette entre joueurs. Ce fut une longue suite de nuits où le risque principal était le ridicule public ou la perte brutale d’une réputation — pas encore la menace d’un conseil qui refermerait les dossiers. **Ardan** a resserré les procédures : peu de sang sur le tapis public, les règlements se traitent hors vue quand c’est possible.
 
-Tant que les lustres du Tripot éclairent encore des visages assez naïfs pour croire au jeu, vous avez une chance : celle de partir avec assez d’or pour ne plus jamais avoir à prouver que vous aviez raison.
+**Varek** connaît les habitudes du fort : qui revient trop souvent, qui joue pour fuir autre chose, qui observe les coffres sans être client. Il a fini par reconnaître des pas dans les couloirs autant que des visages.
+
+**Sira** et **Lira** maîtrisent la dynamique des tables ; leur rivalité entre sœurs fait partie du spectacle pour les clients et une contrainte de coordination pour Marda. Quand elles se contredisent en pleine salle, ce n’est pas seulement du théâtre : chaque cliente fortunée choisit son camp pour la soirée, et la maison doit encaisser le résultat.
+
+**Éliane** calibre les **cotes** pour entraîner la salle sans exposer la mécanique. **Ysabeau** gère les salons où une phrase trop tôt peut coûter une alliance. **Lydwen** fournit des lectures exploitables quand Marda doit trancher — pas pour embrouiller la table, mais pour donner un cadre quand la décision refuse d’être purement comptable. **Soren** reste hors lustre : réactifs, discipline ; on l’appelle quand une dispute dépasse ce qu’une simple mise ou un règlement public peuvent encore contenir. **Fenric** sépare ce qui doit tenir devant un auditeur de ce qui tient devant la caisse interne.
+
+Vous avez vécu ces années comme une suite de services bien rendus : dettes honorées côté maison quand il le fallait, clients VIP flattés, crises étouffées avant l’aube. La routine n’a pas effacé la vigilance ; elle vous a habitués à vous parler vite quand quelque chose cloche.
+
+---
+
+## III — Environ cinq ans de ligne grise avec l’UBI
+
+Le **conseil de la banque** a changé du côté UBI. Depuis **cinq ans**, l'équipe en place corrompue a utilisé le Tripot comme **laveur** : une part des montants **détournés** en interne a été **versée** au casino. La maison a reçu environ **dix pour cent** de ces flux, sur la base d’accords pris avec Edorian.
+
+Vous avez tenu la maison ouverte parce que cela payait. L’argent sale est entré par circuits que vous n’affichez pas sur la porte ; vous l’avez traité comme une contrainte de métier, avec des nuits où Fenric et Marda refermaient les livres longtemps après la dernière table. Vous avez ajusté paris et marges quand des navires ou des intérêts extérieurs voulaient des alignements précis. Le risque réel ne correspondait pas toujours à la comptabilité affichée : c’est l’enjeu principal de la **renégociation** que vous vous souhaitez mener aujourd’hui — vous visez **quinze pour cent** et l’**arriéré** sur la base de ce constat, **avant** qu’une passation ne verrouille les preuves.
+
+Vous savez qu’un **levier** existe du côté banque — lié à ce que certains coffres retiennent au-delà des jetons. Le détail précis se joue en scène ou sur les fiches personnelles ; ce qui compte pour vous : **ne pas compromettre d’un coup** tout ce qui peut encore servir en caisse ou en négociation.
+
+Et puis il y a les **Sangs de la Steppe**, puissante mafia, qui veulent **contrôler** ou **absorber** le casino. Ils frappent fort au quai et dans les dettes. Les rencontres avec leurs chefs ne ressemblent pas à des banquets : pauses courtes, regards qui comptent les gardiens, messagers qui repartent sans laisser de lettre. Vous avez **résisté** par rendez-vous, messagers anonymes et rappels de vieilles dettes — assez pour tenir sans déclencher une **guerre ouverte en salle** qui ferait fuir le magot et attirer les autorités sur tout le monde. Ils vont venir, vous le savez, ils viennent tout le temps, et avec tout ce monde, ils se savent moins visibles.
+
+---
+
+## IV — La passation et la fenêtre Ulghart
+
+Un **nouveau conseil** UBI arrive. Les rumeurs parlent d’**audit**, d’**intégrité**, de **saisies**. Si vous restez sans accord alors que les dossiers se referment, vous risquez noms livrés et coffres gelés. L’idée d’être cités dans un rapport vous suffit à imaginer la fermeture du casino avant même qu’un juge ne parle. Il va falloir fuir, les preuves sont trop nombreuses. Fuir ou trouver des appuis forts pour se protéger.
+
+Vous avez refait les comptes sur les **cinq ans** de commission à dix pour cent : vous estimez que le **risque** et le **travail réel** justifient **quinze pour cent** et le **rattrapage** avant fermeture des preuves. Ce n’est pas une reclamation de bureau : c’est le prix que vous demandez pour des années où vous avez tenu la porte quand la banque salissait ses mains. Quitte à balancer la Banque.
+
+Grâce à Varek, dont le réseau dépasse largement Il-Irion, vous entendez des bruits, des histoires qui circulent dans les couloirs : l'équipe des banquiers pourris ne serait pas si unie. Mélian Torv (de l'UBI) aurait vendu de l'information auprès de Palyr. Palyr pourrait vous proposer une **sortie** possible : quai, bateau, logistique — contre **informations**, **services** ou **gages** à fixer. La discrétion se paie ; les passeurs n’aiment pas les histoires qui traînent. Vous savez qu’un passage sans papier peut vous sauver ou vous perdre si vous mentez sur le poids des sacs ou sur les noms cités.
+
+La **Régate** et la **Convention** concentrent délégations, juges et paris. Les couloirs du fort se remplissent de costumes, de badges et de voix qui monteraient trop haut si vous les laissiez faire. **D’autres groupes** pourraient toucher les juges de la régate, habituellement votre terrain de jeu pour favoriser certaines cités moyennant dessous de table naturellement. Si plusieurs personnes soudoient le même juge, tout le monde peut perdre.
+
+Vous ne pouvez pas quitter le fort à la légère : dettes, contrats et regards multiples vous retiennent jusqu’à la fenêtre où départ et caisse peuvent encore coïncider. Les derniers jours de la Convention sont une suite d’heures où la maison doit encore tourner pendant que d’autres délégations règlent déjà les leurs — sans lever le pied trop tôt au risque de tout perdre sur la ligne d’arrivée.
 
 ---
 
 ## Résumé des objectifs
 
 - **Or et rétroactif** : obtenir le paiement des commissions sur la base **15 %** (et l’arriéré) avant que la transition banque ne verrouille les preuves.
-- **Régate** : monter les paris, influencer ce qui peut l’être sans fermer le casino trop tôt — cohérence avec les autres groupes qui touchent aux mêmes juges.
-- **Mafia** : négocier une sortie ou un prix — éviter la guerre ouverte en salle qui ferait fuir le magot et attirer les autorités.
-- **Palyr** : sécuriser l’aide à la fuite — or, bateau, silence — contre ce que la table décidera de payer (informations, gages, services).
-- **UBI** : tenir la ligne jusqu’au dernier sac ; utiliser les leviers sans brûler toutes les cartes d’un coup.
-- **Image** : rester une maison qui gagne jusqu’au moment de partir — pas d’émeute gratuite, pas de scandale inutile avant la caisse.
+- **Tenir le casino** jusqu’au départ : pas d’incident qui ferme le site avant la fenêtre ; gérer VIP, salle, inspections si elles viennent.
+- **Régate** : paris, cotes, **juges** en fonction d'intérêts plus ou moins bien payés.
+- **Mafia** : négocier trêve, prix ou terrain d’entente sans tout donner s'ils refuse.
+- **Palyr** ou tout autre : trouver de l’aide à la fuite contre contreparties ou mieux encore, rester sur place et tenir avec les bons appuis. Ceci signifiera probablement d'autres arrangements.
+- **UBI** : tenir la ligne avec ce qui paye encore ; ne pas gaspiller les leviers avant la caisse.
+- **Image** : rester une maison qui gagne jusqu’au moment de partir — éviter scandale inutile avant l’encaissement.
 
-## Référence — les dix rôles
+---
+
+## Composition du groupe
 
 | Nom | Fonction |
 |-----|----------|
-| Marda Velyss | Patronne — stratégie, négociations banque et mafia |
-| Ardan Trevil | Capitaine des gardes — sécurité du casino (Tripot), pas du fort |
+| Marda Velyss | Patronne — stratégie, négociations  |
+| Ardan Trevil | Capitaine des gardes — sécurité du Tripot |
 | Sira Vestrann | Croupière — sœur de Lira |
 | Lira Vestrann | Croupière — sœur de Sira |
 | Varek | Pisteur — filatures, quai, coulisses |

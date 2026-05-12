@@ -75,20 +75,30 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 
 ## 4. Mafia - Les Sangs de la Steppe
 
+*Mise à jour consolidation* : synthèse alignée sur `Groupes/Mafia - Les Sangs de la Steppe/interactions du groupe Mafia.md` ; casting joueurs : Kaelan, Vorak, Gareth, Drask, Shadow, Raven.
+
 | Personnage du groupe (Mafia) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Kaelan Thormane | Edorian (UBI) | Chantage bancaire : Kaelan exploite les malversations pour forcer des concessions ou des remises de documents. |
-| Kaelan Thormane | Cyrion Valdris (Il-Irion) | Pression politique : Kaelan tente de neutraliser la candidature de Cyrion via des lettres compromettantes. |
-| Selena (expert extorsion) | Lucan Marivent (Il-Irion) | Extorsion ciblee : Selena cherche les failles juridiques et reputationnelles de la ligne de plainte d'Il-Irion. |
-| Raven (maitre reseaux) | Corvus (UBI) | Relais infiltre : Raven recoit acces, horaires et fausses pistes depuis l'interieur de la banque. |
-| Lyanna (negociatrice) | Marda Velyss (Tripot) | Negociation coercitive : Lyanna propose une treve tarifee ou une prise de controle progressive du Tripot. |
-| Kaelan Thormane | Torven Sorel (Guilde facade) | Commandement indirect : Kaelan fait passer ses operations par la facade legale des ports pour rester invisible. |
-| Infiltrateur mafia | Saevar Dren (Palyr) | Approche informationnelle : tester si Saevar peut fournir des acces politiques sans comprendre qu'il est manipule. |
-| Negociateur mafia | Intermediaires Voleurs 1 | Sabotage discret : la mafia bloque la vente d'Arguetheim en achetant ou retournant les convoyeurs. |
-| Kaelan Thormane | Candidat UBI pro-Styrgie (Arthas) | Ingerence electorale : financer et proteger un candidat aligne Styrgie pour orienter la direction de l'UBI. |
-| Alchimiste interrogateur | Temoins de coffre | Extraction d'aveux : recuperer noms, codes et lieux des preuves avant les autres factions. |
-| Homme de main mafia | Juges regate | Influence indirecte : creer un scandale sportif utile pour fracturer les cites rivales. |
-| Kaelan Thormane | Corvyn Valdrak (Palyr) | Confrontation indirecte : Kaelan exploite les faiblesses internes de Palyr pour bloquer son agenda anti UBI. |
+| Kaelan Thormane | Korran Vesper (pirates, PNJ) | Remises et gages maritimes : le chef pilote la chaîne avec Raven ; erreur de signature ou de timing = perte de confiance des équipages. |
+| Kaelan Thormane | Marda Velyss (Tripot) | Dette de salle et flux casino ; ne pas confondre tables Tripot et relais Staal. |
+| Kaelan Thormane | Presse / imprimerie (Staal, nom à figer) | Rumeur et feuilles ; entrée distincte des autres angles sur la même ville. |
+| Kaelan Thormane | Edorian, Sybrel Dornik, Vaelric Dorn, Ydria Ventoss, Melian Torv (UBI) | Plusieurs portes dans la banque ; le chef tient les pièces complètes sur Edorian et la faille Palyr (Melian). |
+| Kaelan Thormane | Cyrion Valdris (Il-Irion, Maison Valdris) | Chantage par l’héritage Lysara ; série de lettres CP tenue par le chef. |
+| Vorak Ironhand | Marda Velyss (Tripot) | Dette orale de salle distincte du papier du chef ; synchroniser quai et casino avec Kaelan. |
+| Vorak Ironhand | Staal (imprimerie, contrat Sfaal–Palyr) | Levier sur les nerfs des cités ; angle différent du bordereau Edorian du chef. |
+| Vorak Ironhand | Edorian, Sybrel, Vaelric, Ydria, Melian (UBI) | Chaque fiche porte un angle ou une pièce distincte : éviter que deux joueurs citent le même code sans accord table. |
+| Vorak Ironhand | Cyrion Valdris (Il-Irion) | Un fragment du dossier Valdris seulement ; le chef garde la série complète. |
+| Gareth Ironfist | Korran Vesper (PNJ) | Escorte terrestre des remises ; pas le même billet que le gage du chef. |
+| Gareth Ironfist | Marda Velyss (Tripot) | Dette de jeu et couloir libre ; zone sensible, pas alliance ouverte. |
+| Gareth Ironfist | Edorian / ligne UBI | Angle muscle et accès — pas le pamphlet entier du discréteur. |
+| Gareth Ironfist | Cyrion Valdris (Il-Irion) | Facette surtaxes portuaires distincte des lettres d’adultère exploitées ailleurs. |
+| Drask Bloodmoon | Sybrel Dornik, Vaelric Dorn, Ydria Ventoss (UBI) | Lecture chimique et stress des dossiers ; cadre interrogatoires avec Vorak. |
+| Drask Bloodmoon | Korran Vesper (PNJ) | Synchronisation si une séquence relie pirates et preuves fer. |
+| Raven | Korran Vesper (PNJ) | Remises d’or et grilles quai ; même ligne BM que le chef sur les signatures. |
+| Raven | Marda Velyss (Tripot) | Reconnaissance RD alignée sur le chef ; parlements quai et casino. |
+| Raven | Torven Sorel (Guilde des Ports Unis, nom public) | Levier commerce et acier hors seul Tripot. |
+| Raven | Bloc UBI (Edorian à Cyrion) | Relais codes et tempo ; croisement avec Drask sur fil tunnels si besoin. |
+| Shadow | Edorian, Sybrel, Vaelric, Ydria, Melian, Cyrion (UBI / Il-Irion) | Fuites et infiltration ; lien personnel avec Sybrel porté par Shadow seul parmi les Sangs. |
 
 ---
 
@@ -103,8 +113,8 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Ilara Vandesse | Contacts Arthas (délégation, lettres) | Tu as monté l’axe Arthas et le canal bancaire alternatif. À Ulghart tu dois signer ce que le Conseil attend sans tout dire à voix haute dans la délégation. |
 | Ilara Vandesse | Notables Il-Irion (délégation, familles) | Tu connais des visages à Il-Irion par ta formation. Ça aide ou ça brûle quand les preuves sortent. Ce ne sont pas des alliés de la délégation Palyr. |
 | Ilara Vandesse | Point de contact MiVI (Styrgie) | Tu portes la lettre de rendez-vous pour le contact styrgien. Ce n’est pas un membre de la délégation officielle : c’est un interlocuteur extérieur désigné par le Conseil. |
+| Lysa Morwyn | Gorvan Tresselune (Voleurs) | Tu tiens la couverture administrative et les papiers de transport pour l’Arguétheim ; Gorvan tient le minerai et a ses propres contacts banque — tu sépares ce fil de celui que tu passes avec Melian. |
 | Thoran Keld | Négociateurs Sfaal (délégation) | Tu dois parler du **dernier chargement** : **sceaux et papiers** d’un côté, **résultat des fours** de l’autre — et des **contrats** devant témoins. La relation est déjà mauvaise. |
-| Thoran Keld | Gorvan Tresselune (Voleurs) | Tu négocies l’achat d’Arguetheim avec un vendeur à réputation douteuse. Tu ne dis pas tout ce que tu sais sur la filière. |
 | Thoran Keld | Lira (Tripot) | Tu la croises sur la régate et les quais. Tu n’es pas accro au jeu. Tu peux chercher des infos navales sans entrer dans la dette de Saevar. |
 | Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
 | Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les routes discrètes vers la Styrgie par des contacts quais, en dehors du fil diplomatique d’Ilara. |
@@ -125,20 +135,27 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 
 ## 6. Tripot
 
+*Mise à jour consolidation* : synthèse alignée sur `Groupes/Tripot/interactions du groupe Tripot.md`.
+
 | Personnage du groupe (Tripot) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Marda Velyss | Edorian (UBI) | Pacte instable : Marda exige sa part des flux blanchis, Edorian veut garder la main sur le recit de crise. |
-| Marda Velyss | Kaelan Thormane (Mafia) | Negociation sous menace : Kaelan veut absorber le Tripot, Marda gagne du temps pour organiser sa fuite. |
-| Ardan Trevil | Garrick Halvaren (Il-Irion) | Tension securitaire : Ardan verrouille le casino face aux pressions armees et aux provocations exterieures. |
-| Éliane (maîtresse des paris) | Sven Orlac (Ther-Felis) | Arrangement ponctuel : calibrer des cotes et des signaux pour influencer la regate sans exposer le Tripot. |
-| Éliane (maîtresse des paris) | Thoran Keld (Palyr) | Double jeu : vendre la meme promesse a plusieurs camps et maximiser la marge avant la fuite. |
-| Soren | Lysa Morwyn (Palyr / Brigade Noire) | Traque inversee : Soren brouille les pistes pour eviter d'etre capture avant la fenetre d'evasion. |
-| Lira (manipulatrice) | Joric Tann (Ther-Felis) | Exploitation des dettes : Lira pousse Joric a miser plus pour obtenir infos et leviers sur Ther-Felis. |
-| Ysabeau | Clients VIP Il-Irion | Captation d'infos : Ysabeau extrait des secrets politiques au comptoir contre faveur de jeu. |
-| Marda Velyss | Corvyn Valdrak (Palyr) | Conflit frontal : Marda defend la survie du casino, Corvyn prepare sa fermeture politique. |
-| Varek (pisteur) | Corvus (UBI) | Liaison discrete : Varek peut recuperer ou livrer un paquet sensible entre banque et reseau noir. |
-| Lydwen (oracle) | Melian (UBI) | Friction spirituelle : visions concurrentes sur l'artefact et consequences d'un effondrement public. |
-| Marda Velyss | Intermediaire Il-Irion | Preparation d'exfiltration : securiser un depart discret apres samedi minuit avec le maximum d'or. |
+| Marda Velyss | Edorian (UBI) | Bordereaux et initiales : pression de coulisse sur le conseil ; trop pousser sans filet brûle le casino. |
+| Marda Velyss | Kaelan Thormane / Raven (Sangs) | Dette des familles de l’Est et calme quai : éviter que la salle devienne le champ clos de la mafia. |
+| Marda Velyss | Palyr (délégation, logistique fuite) | Passages et contreparties à officialiser en scène ; sans livraison au bon registre, la promesse de départ reste fragile. |
+| Ardan Trevil | Réseau Sangs / Kaelan | Sécurité maison : la dette de salle lie Marda à la mafia ; Ardan ne double pas la ligne politique pour son compte. |
+| Sira Vestrann | Maison Valdris / notables Il-Irion | Lettre sur trafic d’alcool : levier de chantage à ne pas empiler avec d’autres sur la même scène. |
+| Lira Vestrann | Cyrion Valdris (Il-Irion) | Lettre d’adultère au salon ; ne pas supposer tout le dossier avant le jeu de Cyrion. |
+| Varek | Relais quai / indices Sangs ↔ UBI | Filatures et messages codés entre réseaux pour comprendre les rotations sans tout livrer. |
+| Lydwen | Melian Torv (UBI) | Avec Ysabeau, recoupler avant scène coffre ou salon commun : Melian est le pont Palyr / foi. |
+| Lydwen | Ligne UBI / rumeur artefact | Cartes sans preuve ; arbitrage MJ sur l’objet et la banque. |
+| Éliane | Juges / officiels (Convention, régate) | Soudoiement ou intermédiaires ; mêmes officiels que MiVI, marins, mafia — cohérence publique. |
+| Éliane | Paris croisés (Ther-Félis, marins) | Cotes et quai qui traversent le casino ; croisement Thoran (Palyr) pour prestige régate ; cadre avec Fenric si audit UBI. |
+| Ysabeau | Melian Torv (UBI) | Même fil sensible que Lydwen ; pas de promesse hors cadre Marda. |
+| Ysabeau | Notables Il-Irion (VIP) | Dettes de salon ; chaîne VIP → tables avec les sœurs. |
+| Soren | Brigade noire | Traque et arrestation ; indices matériels ; scènes d’arrestation avec l’orga. |
+| Fenric Ossel | Audit / registres UBI | Double ligne comptable avec Marda ; archives banque si scène au coffre central. |
+| Marda Velyss | Corvyn Valdrak (Palyr) | Elle défend le Tripot et les accords de fuite ; il veut réduire ou fermer le casino — ligne politique opposée. |
+| Lira Vestrann | Joric Tann (Ther-Félis) | Dettes et paris : levier déjà tablé côté Ther-Félis ; garder si la table le joue encore. |
 
 ---
 
@@ -173,6 +190,33 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Brann Crochemain | Gorvan Tresselune (Voleurs 1) | Risque de doublon : deux equipes de vol sur la meme banque provoquent erreurs, competition ou alliance forcee. |
 | Brann Crochemain | Marda Velyss (Tripot) | Repli possible : utilisation du Tripot comme sas logistique ou relais de blanchiment post-operation. |
 | Brann Crochemain | Horgrim Dval (UBI) | Affrontement tactique : Horgrim verrouille les acces, Brann cherche la fenetre courte et les sorties non surveillees. |
+
+---
+
+## 9. MiVI (détachement Corvel)
+
+*Mise à jour consolidation* : synthèse alignée sur `Groupes/MiVI/interactions du groupe MiVI.md` ; casting joueurs : Théven Corvel, Ysel Marivent, Lucan Drest, Varro Selt, Miraen Talvas.
+
+| Personnage du groupe (MiVI) | Personnage en interaction | Descriptif rapide |
+|---|---|---|
+| Théven Corvel | Kaelan Thormane (Sangs) | Comptes à rendre sur le fer et la Guilde sans étaler le MiVI en place publique. |
+| Théven Corvel | Raven (Sangs) | Interface maritime et grille quai : créneaux alignés sur la pièce TR. |
+| Théven Corvel | Edorian (UBI) | Cible documentaire prioritaire ; bordereau FC comme levier officiel. |
+| Théven Corvel | Korran Vesper (PNJ) | Mer et remises ; gage BM pour signatures avec les pirates. |
+| Ysel Marivent | Sybrel Dornik, Vaelric Dorn, Ydria Ventoss, Melian Torv (UBI) | Coffres, tunnels, écarts ; avec Lucan, éviter de doubler Melian sur une même scène registre sans accord. |
+| Ysel Marivent | Rapport agent / commerce gris (RA, chaîne Arguethain) | Cartographier rumeur fer et guerre sans confondre avec l’angle « corps » de Varro. |
+| Lucan Drest | Melian Torv (UBI) | Lien Palyr documenté FL ; recoupler avec Ysel si Melian est dans la pièce. |
+| Lucan Drest | Cyrion Valdris (Il-Irion) | Lettre d’adultère partielle ; pas le dossier complet tenu ailleurs sur l’île. |
+| Lucan Drest | Torven Sorel (Guilde des Ports Unis) | Contrat acier Sfaal–Palyr ; levier commerce hors seul casino. |
+| Lucan Drest | Halwen Rask (Staal, imprimerie) | Presse et complaisance éditoriale ; lien scandale Staale. |
+| Lucan Drest | Intermédiaires Arthas / Ther-Félis (pièce AN) | Routes et escales ; noms utiles Sera Orist, Jonn Halet, Maison Veth & Roole. |
+| Varro Selt | Gareth Ironfist (Sangs) | Muscle et extraction ; éviter de croiser la grille GC le même jour sans plan. |
+| Varro Selt | Korran Vesper (PNJ) | Angle maritime RA ; gage BM plutôt sur la fiche Théven pour la même opération. |
+| Varro Selt | Duc Thoren Forgefer (Sfaal, fer) | Convoi et violence possible sur détournement ; lien dossier fer CO-II-547. |
+| Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas fusionner avec l’angle chimique Drask sans arbitrage. |
+| Varro Selt | Fausse piste Palyr (FA) | Distinct du message tunnel Sybrel ; pas fusionner en accusation publique. |
+| Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Réalité du casino : dette RD, paris, muscle maison ; recoupler avec Ysel sur ce qui doit tenir en preuve. |
+| Miraen Talvas | Dette personnelle (créancier satellite, témoin Varek) | Jetons et reconnaissance ; angles addiction réservés fiche perso. |
 
 ---
 

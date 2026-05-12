@@ -23,6 +23,7 @@
 - **Tensions** : Crise **Sfaal** (minerais) vs prestige **régate** ; **Tripot** (**Saevar** accro au jeu) vs volonté de **Corvyn** de fermer le casino.
 - **Collisions possibles** : **Il-Irion** / **UBI** (Edorian, transition de conseil) ; **Tripot** (Marda, Soren) ; **Brigade noire** (ligne **Lysa**, couverture **trésorière**) ; **Ther-Félis**, **mafia**, **mercenaires** (réseaux **Saevar**) ; croisement **canal d’armes** avec **MiVI** à cadrer.
 - **Point sensible Jeu** : couverture **BN** de **Lysa** ; identité réelle de **Soren** ; **addiction Tripot** de **Saevar** seul ; **Melian** et timing des fuites du dossier.
+- **Piste** : **Tavish Kaironi** (Ulghart) contacte la délégation par **courrier** avant le voyage ; il propose un récit « autre » des îles du Levant — **MJ** : premier né ; ne pas exposer ce fait dans le livrable joueur.
 
 ---
 
@@ -71,6 +72,7 @@ Les livraisons **Sfaal** étaient stables ; seul le **dernier transport** s’es
 | Brigade Noire | Enquête secrète | **Lysa** sous couverture **trésorière** ; traque du « déserteur » (**Soren**) ; ordres BN parallèles au mandat Palyr. |
 | Soren (Tripot) | Secret / mystère | Fausse piste **déserteur** ; **Grand Capitaine** recherché pour investiture. |
 | Ther-Félis | aucune directement | Contacts **réseau** / commerce — à brancher selon table. |
+| Tavish Kaironi (Ulghart) | Contact / récit | Habitant qui sollicite la délégation (**courrier**) ; promet une lecture des îles du Levant hors chroniques officielles — **MJ** : premier né (secret, absent du back joueur). |
 
 ---
 

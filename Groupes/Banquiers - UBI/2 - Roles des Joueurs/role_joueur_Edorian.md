@@ -60,9 +60,6 @@ Epopée en Krondaar
 
 # L'histoire d'Edorian
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins vingt lignes de texte**. Si un chapitre tient en moins de vingt lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
 
 ## Chapitre I : Les origines
 

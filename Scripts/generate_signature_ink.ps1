@@ -1513,14 +1513,14 @@ function Export-SvgToPng {
     $dpi = [int][math]::Max(96, [math]::Min(600, $WidthPx / 200.0 * 120))
     $bg = if ($PngBackground -eq 'Transparent') { 'none' } else { 'white' }
     if ($PngBackground -eq 'Transparent') {
-      $arg = @(
-        '-density', $dpi.ToString()
+    $arg = @(
+      '-density', $dpi.ToString()
         '-background', $bg
         $inputSvgRaster
-        '-resize', ($WidthPx.ToString() + 'x')
-        '-alpha', 'on'
-        $pngFull
-      )
+      '-resize', ($WidthPx.ToString() + 'x')
+      '-alpha', 'on'
+      $pngFull
+    )
     }
     else {
       $arg = @(
@@ -1555,13 +1555,13 @@ function Export-SvgToPng {
       $exportTarget = Join-Path $env:TEMP ("sig_ink_" + [Guid]::NewGuid().ToString('N') + '.png')
     }
     if ($PngBackground -eq 'Transparent') {
-      $arg = @(
+    $arg = @(
         $svgWork
-        '--export-type=png'
+      '--export-type=png'
         "--export-filename=$exportTarget"
-        "--export-width=$WidthPx"
-        '--export-background-opacity=0'
-      )
+      "--export-width=$WidthPx"
+      '--export-background-opacity=0'
+    )
     }
     else {
       $arg = @(
@@ -1645,9 +1645,9 @@ if ($RenderMode -eq 'PenNib') {
 }
 else {
   $d = Build-SignatureInkPathD -GeometrySeed $geomSeed -StyleNum $styleNum
-  $svgDoc = Build-SignatureSvgDocument -PathD $d `
-    -InkMain $Ink -InkUnder $haloResolved -UnderOpacity $effectiveHaloOpacity `
-    -MainWidth $mainW -UnderWidth $underW -SlantDeg $SlantDegrees -FilterUniqueId $fid
+$svgDoc = Build-SignatureSvgDocument -PathD $d `
+  -InkMain $Ink -InkUnder $haloResolved -UnderOpacity $effectiveHaloOpacity `
+  -MainWidth $mainW -UnderWidth $underW -SlantDeg $SlantDegrees -FilterUniqueId $fid
 }
 
 $safeStem = ([regex]::Replace($Seed.Substring(0, [math]::Min(48, $Seed.Length)), '[^\p{L}\p{N}_\-\s]', '')).Trim() -replace '\s+', '_'

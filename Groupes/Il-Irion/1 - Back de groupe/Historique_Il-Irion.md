@@ -14,7 +14,7 @@
 
 ## Il y a quatre ans — Scandale de la matriarche Valdris
 
-- **Dame Lysara Valdris**, cheffe de la Maison Valdris, est publiquement accusée lorsque des **lettres de chantage** (sceau Valdris, dépôt bancaire) sont révélées — le même dossier que les pièces **CP-III-542-001 à CP-III-543-001** côté UBI. Elle perd prestige et garanties ; son fils **Cyrion Valdris** lui succède comme figure de la maison. La mafia (Sangs de la Steppe) a orchestré la fuite des preuves ; les arènes de **Palyr** et les ragots de port ont amplifié l'affaire. *Détail : `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Back_Mafia.md`.*
+- **Dame Lysara Valdris**, cheffe de la Maison Valdris, est publiquement accusée lorsque des **lettres de chantage** (sceau Valdris, dépôt bancaire) sont révélées — le même dossier que les pièces **CP-III-542-001 à CP-III-543-001** côté UBI. Elle perd prestige et garanties ; son fils **Cyrion Valdris** lui succède comme figure de la maison. La mafia (Sangs de la Steppe) a orchestré la fuite des preuves ; les arènes de **Palyr** et les ragots de port ont amplifié l'affaire. *Détail : `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Back_groupe_Mafia.md`.*
 
 ## Stratégies de survie (cumul sur la décennie)
 

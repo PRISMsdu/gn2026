@@ -101,13 +101,12 @@ Tu te dois de ne pas confondre copie propre et vérité. Tu te dois de ne pas br
 
 Si tu échoues, ce n'est pas une phrase de rapport qui meurt : c'est la marge qu'Elfrion croit encore avoir avant que la Confédération ne verrouille l'île comme forteresse commune. Tu n'as pas le luxe d'être éprise de ta propre rigueur au point d'oublier l'échéance. Tu travailles vite quand il le faut, lent quand il le faut, et tu laisses Théven porter le poids des phrases qu'aucun coffre ne peut signer à ta place.
 
-Les autres PJ ne sont pas tous briefés sur les angles personnels du Tripot : ce que Miraen porte comme secret relève de son jeu — à toi de ne pas « résumer » l'orga à table sans cadre.
 
 
 # Tes missions et objectifs
 
 - **Localiser ou neutraliser** les preuves « guerre imminente » supposées à l'UBI (coffres, archives conseil, correspondances) — avant ou pendant la transition de mandat.
-- **Cartographier** la chaîne or → Argheteim (Sfaal, Palyr, Il-Irion, autres selon table) et recommander : sabotage, fuite contrôlée, exploitation.
+- **Cartographier** la chaîne or → Argheteim et recommander : sabotage, fuite contrôlée, exploitation.
 - **Soutenir la ligne** Arthas / Ther-Félis sur le plan documentaire : qui nominate, quels flux, quels doubles.
 
 

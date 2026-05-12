@@ -40,7 +40,7 @@ Ce fichier trace les actions réalisées lors des passes « check groupe » pour
 
 ### Reste à faire (autres groupes)
 
-- Tripot, Mafia, MiVI, UBI : cases encore `[ ]` dans `Afaire.md`.
+- ~~Tripot, Mafia, MiVI~~ : traités le 2026-05-04 ; **UBI** : à confirmer selon état du dépôt (`Afaire.md` l.7).
 
 ---
 
@@ -49,3 +49,17 @@ Ce fichier trace les actions réalisées lors des passes « check groupe » pour
 - Supprimé : répertoire `Groupes/Palyr/2 - Backs de persos/` (fiches `perso_Palyr_*-orga.md`). La chaîne de publication pour ce groupe est désormais **intrigue** → **Back_groupe** → **`2 - Roles des Joueurs/back_joueur_*.md`**.
 - Casting : le cinquième homme reste **Saevar Dren** (références croisées avec d’autres groupes) ; les angles « réseaux / Tripot » qui avaient été regroupés sous le nom Brael sont portés par **Saevar** sur la fiche joueur et dans les tableaux d’interactions.
 - `_templates/README.md` et prompts : retrait de la mention d’une étape intermédiaire `perso_*-orga.md` comme étape de workflow du dépôt.
+
+---
+
+## 2026-05-04 — Groupes **Tripot**, **Mafia (Sangs)**, **MiVI** (consolidation Afaire)
+
+**Référence** : `Groupes/Afaire.md`, chapitre « Check d’un groupe » (hors commentaires HTML sur interactions manquantes).
+
+### Actions réalisées
+
+1. **Backs** : `Back_groupe_Tripot.md`, `Back_groupe_Mafia.md` (ex-`Back_Mafia.md`), `Back_groupe_MiVI.md` — ton factuel, structure type UBI (déjà en place en amont de cette passe).
+2. **Checks** : `check_back.md` et `check_role.md` dans `1 - Back de groupe/` pour chacun des trois groupes — inventaires orga sans modification des intrigues, backs ou rôles dans ces fichiers.
+3. **Synthèses interactions** : `interactions du groupe Tripot.md`, `interactions du groupe Mafia.md`, `interactions du groupe MiVI.md` à la racine des dossiers groupe (uniquement hors-groupe, tableaux style Palyr).
+4. **Fiche globale** : `Fiche_interactions_tous_groupes.md` — §4 Mafia et §6 Tripot réalignés sur ces synthèses ; **§9 MiVI** ajouté ; §5 Palyr : ligne Thoran×Gorvan retirée, ligne **Lysa×Gorvan** ajoutée (cohérence `role_joueur_Lysa_Morwyn.md`).
+5. **Checklist** : cases Tripot, Mafia, MiVI passées à `[x]` dans `Afaire.md` (l.3–5).

@@ -72,6 +72,8 @@ Vous avez ensuite travaillé en petit groupe sur des mises en situation : audien
 
 On a répété des formulations courtes pour les halls publics. On a listé les noms qu’il vaut mieux ne pas crier dans une cour. On a fixé des mots de passe et des lieux de rendez-vous pour les messages urgents. Rien de fantaisiste : des consignes qu’un officier peut relire à voix basse la veille du départ.
 
+Un courrier est arrivé au Conseil avec les papiers de mission ; on vous l’a remis au même titre que les instructions de voyage. Tavish Kaironi signe. Il se présente comme un habitant d’Ulghart, avec des attaches familiales sur plusieurs îles du Levant. Il demande un entretien hors tribune, sans témoin pris sur la place. Il annonce vouloir raconter ce qu’il appelle la vraie histoire des îles du Levant : alliances et silences, pas seulement les dates qu’on cite dans les séances. Le Conseil n’a pas vérifié son identité au-delà du nom sur le pli. La délégation choisit qui lit la lettre, qui répond, et jusqu’où vous écoutez une parole qui ne figure sur aucun mandat officiel.
+
 Les règles du voyage ont été rappelées en une page. En public, vous défendez Palyr. Ce que le mandat tait reste dans les salles fermées. Les informations sensibles circulent selon le besoin de savoir, pas par habitude de tout partager.
 
 ## V — Ce que vous faites à Ulghart

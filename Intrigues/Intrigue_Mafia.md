@@ -1,7 +1,7 @@
 # Infiltration et chantage — Intrigue de groupe
 
 <!--
-  DOCUMENT ORGA UNIQUE pour le groupe. Récit joueurs : `Back_Mafia.md`.
+  DOCUMENT ORGA UNIQUE pour le groupe. Récit joueurs : `Back_groupe_Mafia.md`.
 -->
 
 ## Informations générales
@@ -81,7 +81,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 
 ### Documents additionnels
 
-- **Récit joueurs** : `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Back_Mafia.md` (renvoi depuis `Historique_Mafia.md`)
+- **Récit joueurs** : `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Back_groupe_Mafia.md`
 - `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Operations_Guilde_Ports_Unis.md`
 - `Groupes/Mafia - Les Sangs de la Steppe/1 - Back de groupe/Creation_Guilde_Ports_Unis.md`
 
