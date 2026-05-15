@@ -55,9 +55,10 @@ Le **conseil de la banque** a changé du côté UBI. Depuis **cinq ans**, l'équ
 
 Vous avez tenu la maison ouverte parce que cela payait. L’argent sale est entré par circuits que vous n’affichez pas sur la porte ; vous l’avez traité comme une contrainte de métier, avec des nuits où Fenric et Marda refermaient les livres longtemps après la dernière table. Vous avez ajusté paris et marges quand des navires ou des intérêts extérieurs voulaient des alignements précis. Le risque réel ne correspondait pas toujours à la comptabilité affichée : c’est l’enjeu principal de la **renégociation** que vous vous souhaitez mener aujourd’hui — vous visez **quinze pour cent** et l’**arriéré** sur la base de ce constat, **avant** qu’une passation ne verrouille les preuves.
 
-Vous savez qu’un **levier** existe du côté banque — lié à ce que certains coffres retiennent au-delà des jetons. Le détail précis se joue en scène ou sur les fiches personnelles ; ce qui compte pour vous : **ne pas compromettre d’un coup** tout ce qui peut encore servir en caisse ou en négociation.
+Et puis il y a les **Sangs de la Steppe**, puissante mafia, qui veulent **contrôler** ou **absorber** le casino. Les rencontres avec leurs chefs ne ressemblent pas à des banquets : pauses courtes, regards qui comptent les gardiens, messagers qui repartent sans laisser de lettre. Vous avez **résisté** par rendez-vous, messagers anonymes et rappels de vieilles dettes — assez pour tenir sans déclencher une **guerre ouverte en salle** qui ferait fuir le magot et attirer les autorités sur tout le monde. Ils vont venir, vous le savez, ils viennent tout le temps, et avec tout ce monde, ils se savent moins visibles.
 
-Et puis il y a les **Sangs de la Steppe**, puissante mafia, qui veulent **contrôler** ou **absorber** le casino. Ils frappent fort au quai et dans les dettes. Les rencontres avec leurs chefs ne ressemblent pas à des banquets : pauses courtes, regards qui comptent les gardiens, messagers qui repartent sans laisser de lettre. Vous avez **résisté** par rendez-vous, messagers anonymes et rappels de vieilles dettes — assez pour tenir sans déclencher une **guerre ouverte en salle** qui ferait fuir le magot et attirer les autorités sur tout le monde. Ils vont venir, vous le savez, ils viennent tout le temps, et avec tout ce monde, ils se savent moins visibles.
+À partir d’il y a deux ans, vous avez commencé à vous méfier de certains gardes de la banque. Les doutes visent surtout les six gardes retrouvés morts récemment, ainsi que leurs proches dans le service. Depuis cette période, vous avez constaté plusieurs tentatives de dégradation du Tripot : poissons pourris laissés dans les réserves, débuts de feu dans des couloirs de service, dégâts mineurs sur les accès. Le calendrier vous a marqués : ces incidents ont commencé un an après leur arrivée, puis se sont répétés régulièrement. Vous n’avez pas de preuve complète, mais pour Varek, ce n’est plus une coïncidence. Holgrim, chef de la garde de la banque, n’écoute pas vos requêtes. Pour lui, ces six morts rendent toute alerte venant du Tripot encore plus suspecte.
+
 
 ---
 
@@ -71,14 +72,18 @@ Grâce à Varek, dont le réseau dépasse largement Il-Irion, vous entendez des 
 
 La **Régate** et la **Convention** concentrent délégations, juges et paris. Les couloirs du fort se remplissent de costumes, de badges et de voix qui monteraient trop haut si vous les laissiez faire. **D’autres groupes** pourraient toucher les juges de la régate, habituellement votre terrain de jeu pour favoriser certaines cités moyennant dessous de table naturellement. Si plusieurs personnes soudoient le même juge, tout le monde peut perdre.
 
-Vous ne pouvez pas quitter le fort à la légère : dettes, contrats et regards multiples vous retiennent jusqu’à la fenêtre où départ et caisse peuvent encore coïncider. Les derniers jours de la Convention sont une suite d’heures où la maison doit encore tourner pendant que d’autres délégations règlent déjà les leurs — sans lever le pied trop tôt au risque de tout perdre sur la ligne d’arrivée.
+Vous ne quittez pas le fort à la légère. Pendant la Régate et la Convention, des débiteurs et des familles créancières sont présents. Si vous partez sans les voir, une partie des dettes ne sera jamais recouvrée. La renégociation des commissions avec l’UBI se joue au même moment.
+
+Vous détenez encore des informations précises sur les détournements de la banque : circuits de paiement, signataires, rythme des écritures. Sans sortie préparée, vous devenez des cibles faciles. Les cités chercheront des responsables. Les débiteurs utiliseront leurs appuis pour faire disparaître les créances.
+
+Le Tripot vous donne encore une base de travail : une salle active, une équipe, un contrat de gestion avec l’UBI. Le quitter sans accord solide, c’est perdre ce levier sans garantie de revenu ailleurs.
 
 ---
 
 ## Résumé des objectifs
 
 - **Or et rétroactif** : obtenir le paiement des commissions sur la base **15 %** (et l’arriéré) avant que la transition banque ne verrouille les preuves.
-- **Tenir le casino** jusqu’au départ : pas d’incident qui ferme le site avant la fenêtre ; gérer VIP, salle, inspections si elles viennent.
+- **Tenir le casino** jusqu’au départ : pas d’incident qui ferme le site avant la fenêtre ; gérer VIP, salle, inspections si elles viennent. Et si possible, le garder.
 - **Régate** : paris, cotes, **juges** en fonction d'intérêts plus ou moins bien payés.
 - **Mafia** : négocier trêve, prix ou terrain d’entente sans tout donner s'ils refuse.
 - **Palyr** ou tout autre : trouver de l’aide à la fuite contre contreparties ou mieux encore, rester sur place et tenir avec les bons appuis. Ceci signifiera probablement d'autres arrangements.

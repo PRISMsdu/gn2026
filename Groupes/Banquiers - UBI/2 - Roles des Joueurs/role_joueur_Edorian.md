@@ -97,7 +97,7 @@ La même année, ta famille fait faillite. Tes parents meurent peu après. La ba
 Tu décides donc de changer de cap. L'objectif : monter au sein de la banque, prendre l'argent, tout détruire, partir. Tu en parles à Vaelric qui en a autant gros que toi. Vous posez les premières bases d'un plan.
 Dans les mois qui suivent, tu rencontres Ydria, Selvara et Horgrim, originaire de cités différentes. Vous vous accordez sur un objectif commun : prendre le contrôle de la banque d'Ulghart à la prochaine Régate, dans trois ans. C'était il y a huit ans.
 
-Par un curieux hasard, les familles dirigeantes d'Il-Irion (Cyrion Valdris, Seraphine Kaelthorne) te contactent. Elles veulent te pousser au poste de directeur général et organiser des détournements à leur profit. Il-Irion est au bord du gouffre financier, ça te le sais bien. Tu acceptes leur proposition. Ce qu'elles ignorent : ton plan avec les quatre autres est de les doubler, de vider la banque, et de détruire Il-Irion.
+Par un curieux hasard, les familles dirigeantes d'Il-Irion (Cyrion Valdris, Seraphin Kaelthorne) te contactent. Elles veulent te pousser au poste de directeur général et organiser des détournements à leur profit. Il-Irion est au bord du gouffre financier, ça te le sais bien. Tu acceptes leur proposition. Ce qu'elles ignorent : ton plan avec les quatre autres est de les doubler, de vider la banque, et de détruire Il-Irion.
 
 Des fois, c'est bien fichu la vie, il y a cinq ans, tu prends la tête de la banque à Ulghart.
 
@@ -124,7 +124,7 @@ Le mandat s'arrête le week-end de la Régate. Le fort reçoit des délégations
 
 Le vol doit être déclenché après la passation de pouvoir. Si l'intervention a lieu avant que tu aies formellement transmis le mandat, tu es encore directeur en titre et donc responsable légal de toute disparition. La séquence : passation d'abord, coffres après.
 
-La sortie doit être propre. Tu dois quitter le poste sans laisser de dossier ouvert sur toi ou sur le cercle. Cyrion Valdris et Seraphine Kaelthorne ont leurs propres détournements dans les coffres. Leur présenter ces preuves peut suffire à les tenir tranquilles le temps nécessaire.
+La sortie doit être propre. Tu dois quitter le poste sans laisser de dossier ouvert sur toi ou sur le cercle. Cyrion Valdris et Seraphin Kaelthorne ont leurs propres détournements dans les coffres. Leur présenter ces preuves peut suffire à les tenir tranquilles le temps nécessaire.
 
 Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que tu y fais passer. Elle peut tout révéler si elle se sent menacée ou si quelqu'un la presse. Il te faut plus d'informations sur son passé et son lien avec la Styrgie. Avec ça, tu peux l'occuper ou t'en débarrasser avant la Régate.
 
@@ -134,7 +134,7 @@ Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que t
 # Tes missions et objectifs
 
 - **Fin de mandat** : mener la passation sans déclencher un audit qui bloque les couloirs avant ton départ.
-- **Grandes Familles** : négocier avec Cyrion Valdris, Seraphine Kaelthorne et les autres jusqu'à savoir ce qu'ils accepteront pour laisser passer ta sortie.
+- **Grandes Familles** : négocier avec Cyrion Valdris, Seraphin Kaelthorne et les autres jusqu'à savoir ce qu'ils accepteront pour laisser passer ta sortie.
 - **Biens et preuves** : protéger jusqu'au dernier moment ce qui doit rester coffré, déplacé ou détruit selon les arbitrages assumés devant le conseil entrant.
 - **Partir propre** : ou pas... 
 
@@ -143,18 +143,18 @@ Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que t
 
 | Personnage | Interaction |
 |------------|-------------|
-| Horgrim Dval | Chef de la garde ; confiance étroite sur portes fermées, armes dans les corridors, salles critiques. |
+| Horgrim Dval | Chef de la garde ; confiance étroite |
 | Vaelric Dorn | Discréteur ; Ami et fidèle |
 | Ydria Ventoss | Trésorière ; Fidèle |
 | Selvara Quenndral | Archiviste en chef — textes et scellés inter-cités ; Fidèle |
-| Melian Torv | Conseiller spirituel ; rôle moral en public utile |
-| Kaelen Veynar | Recouvrement et pression  |
-| Sybrel Dornik | Surveillance interne et tunnels ; utile ou risque selon ce qu'elle voit et rapporte. |
-| Corvus | Gardien des clefs et combinaisons |
+| Melian Torv | Conseiller spirituel ; rôle moral en public utile, un peu trop morale... |
+| Kaelen Veynar | Recouvrement et pression, normal  |
+| Sybrel Dornik | Surveillance interne et tunnels ; trop libre |
+| Corvus | Gardien des clefs ; intransigeant |
 
 # Connaissances
 
-## Cyrion Valdris et Seraphine Kaelthorne — Grandes Familles d'Il-Irion
+## Cyrion Valdris et Seraphin Kaelthorne — Grandes Familles d'Il-Irion
 Ce sont les porte-parole des maisons sur finances et taux. Ils sont des appuis ou des obstacles si la transition tourne au conflit informel avant la Régate.
 
 ## Thoren — cousin à Ther-Félis

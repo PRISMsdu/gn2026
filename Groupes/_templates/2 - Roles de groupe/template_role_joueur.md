@@ -3,8 +3,8 @@
 <!--
   TEMPLATE — Rôle joueur individuel (étape 3 du workflow).
   Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l’intrigue ou à la fiche perso).
-  Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
-  Ce fichier est distribué à un seul joueur.
+  Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir annexe rédacteurs).
+  Livrable joueur : une fiche remise au joueur ne contient pas de méta de conception (consignes de longueur, renvois Style.md / passes de relecture, « Règles de forme » sous # Connaissances, checklists rédacteur). Voir en fin de fichier l’annexe réservée aux rédacteurs.
 -->
 
 Grandeur Nature Celtiana  
@@ -62,12 +62,6 @@ Epopée en Krondaar
 
 # L'histoire de [NOM_DU_PERSONNAGE]
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde (origines, apprentissages, erreurs utiles au jeu, bifurcations). Chaque chapitre I à V doit comporter **au moins 10 lignes de texte** sous le titre de chapitre (plusieurs paragraphes : lieux, institutions, autres personnages nommés quand ils servent au joueur ; décisions et conséquences). Si un chapitre tient en moins de 10  lignes, le texte est **incomplet**. Utiliser les informations présentes sous forme de bullet point lorsqu'elles existent dans le chapitre pour construire le chapitre ; sinon, reprendre l'histoire écrite et l'adapter.
-
-**Rédaction** : tout ce qui concerne le ton, les interdictions, la syntaxe, la narration au « tu », la révision et le contrôle qualité est défini dans le fichier commun [Style.md](../Style.md) (`Groupes/_templates/Style.md` depuis la racine du dépôt). Après rédaction des chapitres I à V uniquement, appliquer la **passe §11** de ce même fichier (relecture anti-mélasse, section histoire).
-
-*(Apparence et caractère : traits observables ou habitudes attestables ; éviter une seule ligne d'« impression » sans comportement précis au jeu.)*
-
 ## Chapitre I : Les origines ([période])
 
 Lieu et date ou tranche d’âge ; parents ou absence ; premier métier vécu depuis l’enfance ou première tâche payée ; comment tu as appris lecture, chiffre ou sceau hors cursus officiel si c’est ton cas ; un ou deux événements datés encore utiles dont la cause et l’effet restent dits sobrement ; ancrages (port, rue, comptoir) seulement s’ils servent à verrouiller le lieu avant la suite. 
@@ -79,7 +73,7 @@ Formation métier ou illégale ; premiers patrons, premières couvertures, premi
 Ta place dans une maison, une guilde, un réseau ou un mandat : titres obtenus, rivalités, échecs retournés en crédit. Rencontres qui te positionnent par rapport aux autres membres du même groupe. 
 
 ## Chapitre IV : Les défis actuels ([période récente])
-Ce qui tire sur toi dans les semaines qui précèdent l’arrivée à Ulghart : fins de mandat, menaces financières, dettes hors banque ou dettes officielles, pression confessionnelle ou politique, etc..  Relations **aujourd’hui**, pas seulement le passé lointain ; ce qui peut casser une fois sur place sous le fort.
+Ce qui tire sur toi dans les semaines qui précèdent l’arrivée à Ulghart : fins de mandat, menaces financières, dettes hors banque ou dettes officielles, pression confessionnelle ou politique, etc..  Relations aujourd’hui, pas seulement le passé lointain ; ce qui peut casser une fois sur place sous le fort.
 
 ## Chapitre V : Le réseau et les relations
 Alliés, clients et ennemis encore nommables : comment tu leur parles, ce qu’ils croient savoir sur toi, ce que tu dois encore leur cacher ou leur livrer avant que la situation change sous le fort.
@@ -103,21 +97,29 @@ Alliés, clients et ennemis encore nommables : comment tu leur parles, ce qu’i
 
 # Connaissances
 
-Remplace l’ancien couple « contacts extérieurs + informations sensibles ».
-
-**Règles de forme (obligatoires)**  
-- **Rédaction** : respecter [Style.md](../Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
-- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §5).  
-- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d’attache** (banque, cité, guilde, fonction…).  
-- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu’inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d’outils de rédaction orga.
-
-**Exemple de densité attendue**
-
 ## Prénom Nom — Maison ou famille (si utile), groupe / lieu
 
-Tu sais que [fait]. Il existe [preuve / pièce] : code **FL-III-545-002** (ou autre), [ce que ça établit]. [Suite : ambiguïté, risque, ou consigne de jeu en une phrase.]
+Tu sais que [fait]. Il existe [preuve / pièce] : code `FL-III-545-002` (ou autre), [ce que ça établit]. [Suite : ambiguïté, risque, ou consigne de jeu en une phrase.]
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu’un flou.)*
+## Annexe — réservée aux rédacteurs (ne pas copier dans la fiche distribuée au joueur)
+
+**Cette annexe** ne doit pas figurer sur la version remise au joueur. La fiche distribuée commence au titre `# [NOM] — …` en tête de fichier et ne contient que du contenu in-univers, plus les blocs utiles au joueur déjà prévus dans ce gabarit : informations pratiques, contacts orga, fiche personnage, apparence, histoire, missions, membres, connaissances sous forme de sections `##` par sujet de jeu (sans le bloc « Règles de forme » ni tout autre paragraphe de consigne rédactionnelle).
+
+**Histoire** : la section `# L'histoire de …` enchaîne directement sur les chapitres I à V en narration au **tu**, sans paragraphe d'instructions entre le titre `# L'histoire` et le premier `## Chapitre`. Chaque chapitre I à V comporte au moins dix lignes de texte sous son titre (plusieurs paragraphes : lieux, institutions, personnages nommés utiles, décisions et conséquences). Si un chapitre tient en moins de dix lignes, le texte est incomplet pour le dépôt.
+
+**Apparence et caractère** : traits observables ou habitudes attestables ; éviter une seule ligne d'« impression » sans comportement précis au jeu.
+
+**Rédaction et relecture** : ton, interdits, narration au « tu », relecture — [Style.md](../Style.md). Après rédaction des chapitres I à V, appliquer la relecture obligatoire (Style.md §9).
+
+**Connaissances (consignes de dépôt, pas sur la fiche joueur)**  
+- Rédaction : même [Style.md](../Style.md) que pour le reste du rôle.  
+- Un `##` par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
+- Contenu minimal par sujet : prénom et nom ; maison ou famille si utile ; groupe ou lieu d'attache.  
+- Lien avec le personnage : nature du rapport en une ou deux phrases.  
+- Pièces de jeu : code seul `TT-R-YYY-NNN` tel qu'en usage au registre des pièces du groupe concerné ; jamais de chemin vers un fichier du dépôt ; pas d'outils de rédaction orga sur la fiche joueur.
+
+*(Adapter le nombre de `##` sous # Connaissances au dépôt : zéro section vaut mieux qu’un flou.)*
+
+Les phrases-guide sous chaque titre `## Chapitre …` dans ce fichier (lignes « Lieu et date… », etc.) sont des rappels pour la rédaction dans le dépôt ; sur la fiche remise au joueur, elles doivent être entièrement remplacées par la prose au **tu**, sans conserver ces lignes d'instruction.

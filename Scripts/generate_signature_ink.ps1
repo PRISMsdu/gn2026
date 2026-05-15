@@ -29,13 +29,15 @@
 
 .EXAMPLE
   .\generate_signature_ink.ps1 -Seed "Test" -Ink "#2a1540" -Energy Wild -Weight Bold -Density Tight `
-    -OutputSvg ".\sig.svg" -OutputPng ".\sig.png" -PngWidthPx 1200
+    -OutputSvg ".\sig.svg" -OutputPng ".\sig.png" -PngHeightPx 280
 
 .EXAMPLE
   .\generate_signature_ink.ps1 -Seed "Nom" -PngBackground White -OutputPng ".\sig.png"
 
 .NOTES
   ViewBox SVG par défaut : 200 x 48 (unités arbitraires).
+  Par défaut, le PNG est dimensionné par **hauteur** (`-PngHeightPx`) : la largeur suit le ratio du viewBox.
+  L’ancien mode **largeur** (`-PngWidthPx` > 0 uniquement) reste disponible pour compatibilité.
 #>
 
 [CmdletBinding()]
@@ -72,9 +74,13 @@ param(
 
   [string] $OutputPng = '',
 
-  # Largeur du PNG en pixels (hauteur proportionnelle au viewBox)
-  [ValidateRange(64, 8192)]
-  [int] $PngWidthPx = 800,
+  # Hauteur raster du PNG en pixels ; la largeur est dérivée du viewBox 200×48 (comportement par défaut, lisible sous CSS print).
+  [ValidateRange(32, 8192)]
+  [int] $PngHeightPx = 280,
+
+  # Si strictement positif : ignore -PngHeightPx et retranche par largeur (ancien comportement).
+  [ValidateRange(0, 8192)]
+  [int] $PngWidthPx = 0,
 
   [string] $MagickPath = '',
 
@@ -1482,12 +1488,23 @@ function Export-SvgToPng {
   param(
     [string] $SvgPath,
     [string] $PngPath,
-    [int] $WidthPx,
+    # Une seule dimension active : si WidthPx > 0, retranche par largeur ; sinon par hauteur (HeightPx ≥ 32).
+    [int] $WidthPx = 0,
+    [int] $HeightPx = 240,
     [string] $MagickExe,
     [string] $InkscapeExe,
     [ValidateSet('Transparent', 'White')]
     [string] $PngBackground = 'Transparent'
   )
+
+  $useWidth = ($WidthPx -gt 0)
+  if (-not $useWidth) {
+    if ($HeightPx -lt 32) { $HeightPx = 32 }
+    $densityRef = ($HeightPx / 48.0) * 120.0
+  }
+  else {
+    $densityRef = ($WidthPx / 200.0) * 120.0
+  }
 
   $svgFull = (Resolve-Path -LiteralPath $SvgPath).Path
   $pngFull = [System.IO.Path]::GetFullPath($PngPath)
@@ -1510,14 +1527,15 @@ function Export-SvgToPng {
   }
 
   if ($MagickExe) {
-    $dpi = [int][math]::Max(96, [math]::Min(600, $WidthPx / 200.0 * 120))
+    $dpi = [int][math]::Max(96, [math]::Min(600, [math]::Round($densityRef)))
     $bg = if ($PngBackground -eq 'Transparent') { 'none' } else { 'white' }
+    $resizeArg = if ($useWidth) { ($WidthPx.ToString() + 'x') } else { ('x' + $HeightPx.ToString()) }
     if ($PngBackground -eq 'Transparent') {
     $arg = @(
       '-density', $dpi.ToString()
         '-background', $bg
         $inputSvgRaster
-      '-resize', ($WidthPx.ToString() + 'x')
+      '-resize', $resizeArg
       '-alpha', 'on'
       $pngFull
     )
@@ -1527,7 +1545,7 @@ function Export-SvgToPng {
         '-density', $dpi.ToString()
         '-background', $bg
         $inputSvgRaster
-        '-resize', ($WidthPx.ToString() + 'x')
+        '-resize', $resizeArg
         '-alpha', 'off'
         $pngFull
       )
@@ -1554,12 +1572,18 @@ function Export-SvgToPng {
     if ($pngFull -match '[\s;]') {
       $exportTarget = Join-Path $env:TEMP ("sig_ink_" + [Guid]::NewGuid().ToString('N') + '.png')
     }
+    if ($useWidth) {
+      $dimArg = '--export-width=' + $WidthPx.ToString()
+    }
+    else {
+      $dimArg = '--export-height=' + $HeightPx.ToString()
+    }
     if ($PngBackground -eq 'Transparent') {
     $arg = @(
         $svgWork
       '--export-type=png'
         "--export-filename=$exportTarget"
-      "--export-width=$WidthPx"
+      $dimArg
       '--export-background-opacity=0'
     )
     }
@@ -1568,7 +1592,7 @@ function Export-SvgToPng {
         $svgWork
         '--export-type=png'
         "--export-filename=$exportTarget"
-        "--export-width=$WidthPx"
+        $dimArg
         '--export-background=#ffffff'
         '--export-background-opacity=1'
       )
@@ -1690,8 +1714,14 @@ if (-not $SkipPng) {
   }
   $magickExe = Get-MagickExecutable -Explicit $MagickPath
   $inksExe = Get-InkscapeExecutable -Explicit $InkscapePath
-  $which = Export-SvgToPng -SvgPath $svgFull -PngPath $outPng -WidthPx $PngWidthPx `
-    -MagickExe $magickExe -InkscapeExe $inksExe -PngBackground $PngBackground
+  $which = if ($PngWidthPx -gt 0) {
+    Export-SvgToPng -SvgPath $svgFull -PngPath $outPng -WidthPx $PngWidthPx -HeightPx $PngHeightPx `
+      -MagickExe $magickExe -InkscapeExe $inksExe -PngBackground $PngBackground
+  }
+  else {
+    Export-SvgToPng -SvgPath $svgFull -PngPath $outPng -WidthPx 0 -HeightPx $PngHeightPx `
+      -MagickExe $magickExe -InkscapeExe $inksExe -PngBackground $PngBackground
+  }
   Write-Host "PNG : $(([System.IO.Path]::GetFullPath($outPng)))  (via $which)"
   $result['PngPath'] = [System.IO.Path]::GetFullPath($outPng)
   $result['Renderer'] = $which

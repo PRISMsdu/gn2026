@@ -14,6 +14,9 @@
 
   Sortie dans le meme repertoire que le .md :
     - nom_avis_yyyyMMdd_HHmmss.pdf
+
+  Marqueurs (*Signature*: Nom) : PNG automatique via generate_signature_ink.ps1 (Scripts\\Signatures).
+  Pour forcer la regeneration des PNG deja presents : -ForceSignatures
 #>
 
 [CmdletBinding(DefaultParameterSetName = 'ByPath')]
@@ -41,10 +44,13 @@ param(
 
   [string] $ChromePath = "",
 
-  [string] $PandocPath = ""
+  [string] $PandocPath = "",
+
+  [switch] $ForceSignatures
 )
 
 $ErrorActionPreference = "Stop"
+. (Join-Path $PSScriptRoot "Expand-MarkdownExportSignatures.ps1")
 
 function ConvertTo-HtmlUriPath {
   param([string] $Path)
@@ -234,15 +240,33 @@ if (-not $pandocExe) {
   Write-Error "Pandoc introuvable. Ajoutez Pandoc au PATH ou passez -PandocPath."
 }
 
+$markdownUtf8Raw = Get-Content -LiteralPath $md.Path -Raw -Encoding UTF8
+$markdownSansComments = [regex]::Replace($markdownUtf8Raw, "<!--[\s\S]*?-->", "")
+
+$pandocSourcePath = $md.Path
+$tempMdExpanded = ""
+if ($markdownSansComments -match "(?msi)\(\*\s*[Ss]ignature\s*\*\s*:") {
+  $expandedMdText = Expand-MarkdownInkSignatureMarkers -MarkdownRaw $markdownSansComments `
+    -HtmlAbsolutePath $outFile -ScriptsPSScriptRoot $PSScriptRoot `
+    -ForceRegenerate:$ForceSignatures
+  $tempMdExpanded = [System.IO.Path]::GetTempFileName() + ".md"
+  [System.IO.File]::WriteAllText($tempMdExpanded, $expandedMdText,
+    ([System.Text.UTF8Encoding]::new($false)))
+  $pandocSourcePath = $tempMdExpanded
+}
+
 $tempBody = [System.IO.Path]::GetTempFileName() + ".html"
 try {
-  & $pandocExe $md.Path -f markdown -t html5 --standalone=false -o $tempBody
+  & $pandocExe $pandocSourcePath -f markdown -t html5 --standalone=false -o $tempBody
   $bodyInner = Get-Content -Path $tempBody -Raw -Encoding UTF8
   if ($bodyInner -match '(?s)<body[^>]*>(.*)</body>') {
     $bodyInner = $Matches[1].Trim()
   }
 } finally {
   Remove-Item -Force -LiteralPath $tempBody -ErrorAction SilentlyContinue
+  if ($tempMdExpanded -ne "") {
+    Remove-Item -Force -LiteralPath $tempMdExpanded -ErrorAction SilentlyContinue
+  }
 }
 
 # Supprimer le h1 du corps (il sera affiche dans l'entete)

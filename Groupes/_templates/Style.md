@@ -3,19 +3,19 @@
 Ce document définit le style d'écriture attendu pour l'ensemble des textes du projet
 (narration, jeu de rôle, contexte, documentation).
 
-Objectif : produire des textes **lisibles et utiles**. Chaque phrase dit quelque chose. Rien de plus.
+Objectif : produire des textes lisibles et utiles. Chaque phrase dit quelque chose. Rien de plus.
 
 ---
 
 ## 1. Méthode de rédaction — bullet points vers paragraphe
 
-**Le processus est toujours le même :**
+Le processus est toujours le même :
 
-1. Le rédacteur fournit des **bullet points** (faits bruts, sans style).
-2. L'assistant transforme chaque groupe de bullet points en **2 à 5 phrases**.
+1. Le rédacteur fournit des bullet points (faits bruts, sans style).
+2. L'assistant transforme chaque groupe de bullet points en 2 à 5 phrases.
 3. L'assistant relit le résultat et le corrige avant de le livrer (voir §9).
 
-**Règle de transformation :**
+Règle de transformation :
 
 - Chaque bullet point devient au plus une ou deux phrases.
 - Les phrases s'enchaînent dans l'ordre logique des faits.
@@ -77,7 +77,7 @@ Règle de détection : si tu lis la phrase à voix haute et qu'elle sonne comme 
 
 ## 6. Narration à la deuxième personne ("tu")
 
-L'usage du **"tu"** est normal pour les rôles joueurs. Règles :
+L'usage du "tu" est normal pour les rôles joueurs. Règles :
 
 - Ne pas commencer chaque phrase par « tu ».
 - Varier les constructions : commencer parfois par le contexte, le lieu, le nom d'une personne.
@@ -115,10 +115,10 @@ L'émotion passe par les faits, pas par les adjectifs.
 
 Après chaque rédaction, relire dans l'ordre :
 
-1. **Chaque phrase dit-elle une chose précise ?** Si non → couper ou supprimer.
-2. **Y a-t-il un effet de style, une métaphore, une tournure alambiquée ?** Si oui → réécrire en langage direct.
-3. **Y a-t-il une information inventée** qui ne vient pas des bullet points fournis ? Si oui → supprimer.
-4. **Lire à voix haute.** Tout ce qui sonne faux ou prétentieux → simplifier.
+1. Chaque phrase dit-elle une chose précise ? Si non → couper ou supprimer.
+2. Y a-t-il un effet de style, une métaphore, une tournure alambiquée ? Si oui → réécrire en langage direct.
+3. Y a-t-il une information inventée qui ne vient pas des bullet points fournis ? Si oui → supprimer.
+4. Lire à voix haute. Tout ce qui sonne faux ou prétentieux → simplifier.
 
 Cette relecture n'est pas optionnelle. Elle fait partie du travail.
 
@@ -126,5 +126,15 @@ Cette relecture n'est pas optionnelle. Elle fait partie du travail.
 
 ## 10. Règle finale
 
-**Un bon texte est discret.**
+Un bon texte est discret.
 Si le style attire plus l'attention que le contenu, il est mauvais.
+
+---
+
+## 11. Markdown — pas de gras
+
+Ne pas utiliser le gras Markdown (`** … **`) dans les textes livrés aux joueurs et dans la documentation de jeu à publier telle quelle : backs de groupe, fiches rôle, lettres et pièces annexes, synopsis joueur, gazette, etc.
+
+Privilégier la structure : titres (`#`, `##`), listes, tableaux, citations, paragraphes courts. Si un libellé doit ressortir dans une liste, préférer une incise du type « Intitulé : détail » sans encadrer l’intitulé en gras.
+
+Cette règle s’applique aussi au présent fichier de style : elle n’illustre pas le gras comme norme décorative.

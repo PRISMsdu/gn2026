@@ -64,7 +64,7 @@ Et personne ne peut se retirer. Un auditeur qui démarre son travail maintenant 
 
 **Les Grandes Familles d'Il-Irion** s'en doute mais elles ne peuvent pas déclencher un audit sans se retrouver elles-mêmes dans le dossier. Elles cherchent, elles menacent, elles envoient des émissaires formels au fort. Ce qu'elles veulent, c'est récupérer leur part avant que tout parte ailleurs.
 
-**Horgrim** supervise en parallèle une procédure interne sur la mort de **six anciens gardes** au cours du mandat. La procédure est ouverte. Elle n'a pas encore de conclusions. Si elle en trouve, ça concerne la garde — et par la garde, ça remonte.
+**Horgrim** supervise en parallèle une procédure interne sur la mort de **six anciens gardes** au cours du mandat. La procédure est ouverte. Elle n'a pas encore de conclusions. Si elle en trouve, ça concerne la garde — et par la garde, ça remonte. Par contre c'est chaud, le conseil des Oblats a demandé l'intervention d'un Questeur. Les Questeurs, ce ne sont pas des gens cools. Entre inquisiteur et paladin, il risque de pousser son enquête un peu trop loin... 
 
 Depuis trois ans, le cercle s'est élargi. Les cinq membres du conseil ne sont plus les seuls à être dans la combine : **Melian**, **Kaelen**, **Sybrel** et **Corvus** ont chacun été intégrés progressivement — par nécessité, par pression, ou parce qu'ils ont vu assez pour qu'on ne puisse plus les laisser à l'extérieur. Aujourd'hui, l'ensemble du groupe UBI est dedans. Personne n'est neutre. Personne ne peut se retirer en prétendant n'avoir rien fait.
 
@@ -75,7 +75,7 @@ Le plan d'Edorian tient si tout le monde joue son rôle jusqu'au bout. Il ne tie
 ## Résumé des objectifs
 
 - **Exécuter la passation** dans les formes, sans déclencher un audit anticipé ni donner au nouveau conseil une raison d'ouvrir les dossiers avant que la sortie soit complète.
-- **Tenir chaque poste jusqu'au bout** : le plan ne fonctionne que si la garde, les coffres, les registres et la façade morale restent opérationnels et crédibles jusqu'à la Régate.
+- **Tenir chaque poste jusqu'au bout** : le plan ne fonctionne que si la garde, les coffres, les registres et la façade morale restent opérationnels et crédibles jusqu'à fin de la Régate.
 - **Contenir les pressions extérieures** — les familles, Palyr, le conseil entrant — sans céder de preuves, sans déclencher de procédure, sans que l'une de ces factions obtienne ce qu'elle cherche avant le bon moment.
 - **Gérer Marda Velyss** : elle sait ce qu'elle a géré au Tripot. Elle doit soit partir avec vous, soit être neutralisée autrement avant la passation.
 - **Ne pas se trahir entre vous** : le seul scénario catastrophe qui n'est pas récupérable, c'est qu'un membre de la maison choisisse de coopérer avec le conseil entrant ou les auditeurs. Chacun le sait. Chacun surveille les autres.

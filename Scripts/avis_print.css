@@ -229,3 +229,19 @@ body.avis-document {
   font-size: 0.85em;
   color: #5c1400;
 }
+
+/* PNG signataires : marqueurs (*Signature*: texte...) depuis export_doc / export_avis */
+
+#contenu-avis .doc-export-signature {
+  margin: 0.85rem 0 0.15rem;
+  text-align: right;
+}
+
+#contenu-avis .doc-export-signature img.doc-export-signature-ink {
+  display: inline-block;
+  max-height: 32mm;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}

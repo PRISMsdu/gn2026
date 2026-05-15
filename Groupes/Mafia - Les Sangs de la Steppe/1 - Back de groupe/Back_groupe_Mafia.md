@@ -1,95 +1,126 @@
-# Le mythe et la chaîne — Chronique des Sangs de la Steppe
+# Les Sangs de la Steppe — chronique de groupe
 
 <!--
-  DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
+  DOCUMENT JOUEUR — remis à tout le groupe (rôle collectif).
   Chaîne : `Intrigues/Intrigue_Mafia.md` (orga) → ce fichier → `Groupes/Mafia - Les Sangs de la Steppe/2 - Roles des Joueurs/role_joueur_*.md`.
-  Style : langage simple et direct (consigne `Groupes/Afaire.md`, *Check d'un groupe*).
 -->
 
 ---
 
 ## Ce que sont les Sangs et pourquoi vous êtes là
 
-Les **Sangs de la Steppe** sont un réseau illégal présent dans plusieurs cités de la Confédération. Le public entend surtout un **mythe** : menace venue des terres tchélènes, codes tribaux, murmures sur la steppe. La réalité que **vous** portez en tant que cadres, c’est une autre : la République de **Styrgie** a monté ce réseau il y a environ quinze ans pour fragiliser la Confédération et rouvrir des leviers sur **Arthas** et **Ther-Félis**.
+Les Sangs de la Steppe sont un réseau illégal actif dans plusieurs cités de la Confédération. Dans les tavernes et les rapports de milice, on parle d'une menace venue du nord, de codes tribaux, de l'Empire tchélène. Ce récit détourne les enquêtes. Il a été fabriqué.
 
-Le fil d’argent et d’ordres ne passe pas par la légende. Il passe par le **MiVI**, service du **Primat** à Elfrion : choix des premiers interlocuteurs, validation des relais, budgets. Les fondateurs ont vite compris à qui ils répondaient. Ce savoir reste dans la tête des dirigeants ; pour l’extérieur, il ne reste que le mythe.
+Le réseau a été fondé il y a environ quinze ans par la République de Styrgie. L'objectif fixé par les services styriens est d'affaiblir les institutions confédérales et de préparer des appuis pour récupérer Arthas et Ther-Félis : corruption, rumeurs achetées, dossiers montés ou volés.
 
-Le nom **Sangs de la Steppe** est un **leurre** : faire croire à une menace importée de l’Empire tchélène et détourner la vigilance des cités et des services confédéraux.
+Le financement et les instructions viennent du MiVI, service secret de la Styrgie. C'est lui qui désigne les interlocuteurs, valide les relais, ordonne les versements et relance les chantiers qui stagnent.
 
-Vous êtes **six hommes** à la table des décisions visibles du réseau : chef, second, homme de main, alchimiste des interrogatoires, et deux figures dont les noms circulent autrement (**Shadow**, **Raven** — noms de code). Ce document dit comment le réseau s’est construit, ce que vous avez fait monter ensemble, et dans quel état vous arrivez à Ulghart pour la **Régate** et le renouvellement du **conseil de l’UBI**.
+Le nom « Sangs de la Steppe » est une couverture. Il attribue les actes du réseau à une menace extérieure sans jamais citer Styrgie ni Elfrion.
 
----
+Sur les quais et dans les comptoirs, le réseau opère sous le nom de la très reconnue Guilde des Ports Unis.
 
-## I — Genèse (il y a environ quinze ans)
-
-La Styrgie a financé et structuré le réseau pour affaiblir les institutions confédérales et préparer des appuis sur le continent. Le MiVI a formé les premiers cadres au chantage, à l’extorsion et à la manipulation politique — pas comme simples bandits, mais comme responsables de cellules capables de rendre des comptes à Elfrion.
-
-Les recrutements ont visé des individus sans attaches : soldats de fortune, marchands ruinés, exilés, petits criminels. Les premières opérations étaient modestes mais ciblées : relais aux frontières de la Confédération, corruption de douaniers et de capitaines, maisons de jeu dans les ports. L’objectif était de s’implanter sans bruit tout en cartographiant les élites.
-
-Il y a environ **douze ans**, un scandale a éclaté à **Staal** : le patriarche d’une grande famille marchande a été déchu après un chantage sur des accords secrets avec des contrebandiers. Les Sangs ont pris une réputation de « chutes silencieuses » tout en restant dans l’ombre.
+Vous êtes six à la tête du réseau : un chef, un second, un homme de main, un alchimiste chargé des interrogatoires, et deux figures qui circulent sous des noms de code — Shadow et Raven. Vous arrivez à Ulghart pour la Régate et le renouvellement du conseil de l'UBI, avec l'ensemble de ces dossiers en main.
 
 ---
 
-## II — Expansion (il y a environ onze à six ans)
+## I — La mise en place, il y a environ quinze ans
 
-Les relais avec **Elfrion** se sont régularisés. Les correspondants du MiVI resserraient la vis quand les flux d’information faiblissaient ou qu’un relais était compromis. Les chefs du réseau obtenaient des feux verts pour les opérations lourdes et des fonds pour acheter une institution ou un silence.
+En 15 ans, vous avez mis sur place une véritable organisation, cachée derrière la Guilde des Ports Unis, bien sous tout rapport. La Guilde des Ports Unis est un syndicats des métiers de la mer, vous arrivez rapidement à vous faire adopter par les dockers, vous gérez la publication et le respect des routes commerciales, défendez les travailleurs des chantiers navals, les marins et les gars des entrepots. La Guilde a une sacrée réputation, elle représente les forces vives, les travailleurs qu'il faut savoir défendre, mais qu'il faut aussi cadrer (voir recadrer...). Vous êtes des habitués des moments forts, des rixes, vous êtes des grandes gueules et les cités n'aiment pas vous mettre à leur dos, ils savent qu'ils peuvent le payer cher.
 
-Les Sangs ont développé la manipulation des documents : fausses traites, détournements de cargaisons, falsifications. La banque d’**Il-Irion**, officiellement neutre, a servi de lieu de dépôt pour des parchemins compromettants extorqués ou volés.
+Et quel plaisir d'avoir comme couveture à vos activités illégales un rôle aussi dur, quelque fois violent, en contact avec toutes les parties, des oreilles et des yeux partout... 
 
-La mafia a concentré des efforts sur **Palyr** : docks, marchés, arènes — lieux où ragots et paris amplifient les rumeurs.
-
-Il y a environ **huit ans**, l’affaire **Lysara Valdris** a éclaté. Elle était cheffe de la **Maison Valdris** et figure d’Il-Irion. Des **lettres de chantage** sorties d’un coffre de la banque sont venues en place publique : votes à l’Union bancaire, contrebande, surtaxes portuaires. On rattache ces pièces au **dossier Valdris** dans les mémoires des greffes. Les Sangs avaient orchestré le vol et la diffusion pour faire pression sur les élites. Lysara Valdris a perdu honorabilité, sièges et garanties. Son fils **Cyrion Valdris** a repris la tête affichée de la maison et porte aujourd’hui la voix d’Il-Irion en délégation.
-
-Les méthodes se sont affinées : la mafia est devenue intermédiaire entre factions rivales. Elle a vendu des secrets à la Styrgie, à **Sfaal**, et à quiconque payait pour faire tomber un rival. Plusieurs familles d’Il-Irion ont été touchées par des révélations de comptes, des falsifications et des « preuves » de liens avec les pirates d’**Albar**.
+Grâce à cette position vous avez pu fomenter de nonbreuses opérations de discrimination, de pression politique, d'affaiblissement de certaines familles. Les cas sont nombreux et vous avez des dossiers sur presque toutes les grandes familles des cités. 
 
 ---
 
-## III — Vous tenez les rênes : fer, Tripot, pression du MiVI
+## II — Ce que le réseau a produit sur le terrain
 
-**Depuis cette période**, vous ne dirigez plus des cellules en marge : vous êtes les **cadres** dont les signatures engagent le réseau et dont les têtes sont identifiées par le MiVI et les familles internes quand il s’agit de rendre des comptes à Elfrion.
+Vous n'êtes cependant pas libre, pas totalement. Pas vraiment en fait. Un organe Styrgien vous contrôle, le MiVI, bras exécutif du prélat de la Styrgie : quand un flux d’informations faiblit ou qu’un relais devient compromis, le MiVI intervient. le MiVI donne les ordres, l'argent, le réseau et d'autres moyens, vous agissez, via la Guilde des Ports Unis. Poupée styrgienne dans des poupées styrgienne, le systèmes est imparable, très efficace et impossible à prouver. Enfin c'est ce qu'ils pensent...
 
-Vous avez entretenu les contacts avec les courants **séparatistes** d’**Arthas** et **Ther-Félis** qui regardent vers la Styrgie. Les priorités viennent toujours de la ligne **MiVI** : qui viser à l’UBI, où pousser une fuite, quels maillons sacrifier.
+Les Sangs ont développé une spécialité documentaire : fausses traites, détournements de cargaisons, falsifications de marques, copies de sceaux quand le dossier l’exigeait. La banque d’**Il-Irion**, officiellement neutre, a servi de lieu de dépôt pour des parchemins extorqués ou volés. Il ne s’agissait pas d’un traité public entre la banque et le réseau : il s’agissait d’accès contrôlé à des intermédiaires et à des coffres.
 
-Vous avez utilisé chantage, infiltration et corruption de juges pour creuser les frictions entre cités du continent et îles (**Il-Irion**, **Sfaal**, **Palyr**). Le nom des Sangs est devenu synonyme de menace dans les salons ; les coups lourds se jouent sous votre responsabilité.
+La pression s’est concentrée sur **Palyr** parce que la cité rassemble ce dont vous avez besoin : docks, marchés, arènes, paris, ragots qui circulent vite et se vendent dans des arrière-salles.
 
-### L’affaire du fer (route Sfaal–Palyr)
+Il y a environ **huit ans**, l’affaire **Lysara Valdris** a éclaté. Lysara dirigeait la **Maison Valdris** et tenait une place visible à Il-Irion. Des **lettres de chantage** sorties d’un coffre de la banque ont été lues en public : votes à l’Union bancaire, contrebande, surtaxes portuaires. Les greffes et les maisons rivales ont rangé ces pièces sous le nom de **dossier Valdris**. Lysara Valdris a perdu honorabilité, sièges et garanties. Son fils **Cyrion Valdris** a repris la tête affichée de la maison et porte aujourd’hui la voix d’Il-Irion en délégation ; toute copie des pièces reste un risque pour lui et pour vous.
 
-Il y a **quelques mois**, sur demande du MiVI, vous avez monté l’opération sur la route maritime **Sfaal–Palyr** : substitution **en mer** — échanger le **bon minerai** contre du fer médiocre tout en gardant les apparences officielles.
+Sur la même période, le réseau s’est placé comme courtier entre factions rivales. Il a vendu des secrets à la Styrgie, à **Sfaal**, et à tout acheteur qui payait pour obtenir la chute d’un rival. Plusieurs familles d’Il-Irion ont été touchées par des fuites de comptes, des falsifications et des dossiers « preuves » de liens avec les pirates d’**Albar**. Chaque vente a rapporté de l’argent.
 
-Pour que les **sceaux** et les papiers tiennent à **Sfaal**, vous avez obtenu une **complicité interne** : récupération du sceau qui marque le fer, copie des marques, remise du sceau à sa place. La **Guilde des Ports Unis** a tenu les relais portuaires. Les **pirates des eaux d’Albar** ont exécuté l’abordage et le transbordement. À l’arrivée, **Palyr** recevait le métal médiocre pendant que le **bon fer** sortait du circuit officiel.
+---
 
-En parallèle de ce que le dispositif MiVI affichait, vous avez mis **vos propres fonds** pour orienter ce bon fer vers **Aquiléa** plutôt que vers les circuits que certains intérêts styrgiens attendaient. C’était un double jeu : la ligne d’État et un marché parallèle financé par le réseau.
+## III — La situation aujourd’hui
 
-Aujourd’hui le **bon fer** a **disparu** des suivis qu’Elfrion utilisait. Les versions divergent ; la **responsabilité** retombe sur vous aux yeux du MiVI.
+Vous êtes les parrains, les boss dont les signatures engagent le réseau et dont les noms sont connus du MiVI quand Elfrion demande des comptes. Chacun d'entre vous à un rôle dans la Mafia et un rôle dans la Guilde des Ports Unis:
 
-Une partie du pactole avait été convertie en **or** avec les pirates. Cet or ne arrive pas par mandat sur un coffre : il faut un **rendez-vous** (lieu, heure, signes), compter les sacs, confronter aux engagements. Sans rencontre avec les pirates — en pratique avec le capitaine-négociant **Korran Vesper** — pas de règlement net. **Raven** est votre vis-à-vis désigné pour ces remises. Vous portez ensemble le dossier : clore la remise, éviter une bavure qui ferait sauter le double jeu, décider quoi faire de l’argent si les pirates ou les contreparties d’Aquiléa ne tiennent pas leurs engagements.
+**Kaelan Thormane** décide et signe. Il porte la discussion avec le MiVI quand les ordres ne peuvent pas s’appliquer tels quels sur le terrain sans exposer le réseau. Kaelan est également le Maître des quais (dockers) dans la Guilde.
+
+**Vorak Ironhand** coordonne les opérations majeures, les cellules et les relais : quand une opération se termine ou qu’un site se ferme, il réaffecte les hommes et les itinéraires. Maitre des Entrepots.
+
+**Gareth Ironfist** tient l’intimidation physique, la protection des cadres et les règlements qui ne passent pas par un tribunal. Maitre des Chantiers Navals.
+
+**Drask Bloodmoon** tient les salles d’interrogatoire, les soins et les substances utilisées pour obtenir des aveux ou des déclarations. Maitre des Marins, les durs, les vrais.
+
+**Shadow** tient infiltration, chantage et documents. Le poste cumule plusieurs accès et plusieurs mandats. Maitre de rien, mais maitre de tout en fait, car il tient tous les informateurs de tous les corps de métiers dans sous son réseau. 
+
+**Raven** tient l’extérieur : informateurs, parlementaires, négociations. Maitre des routes (publication et respects des contrats commerciaux fixés durant la Régate)
+
+Vous avez entretenu des contacts avec des courants **séparatistes** d’**Arthas** et de **Ther-Félis** qui se tournent vers la Styrgie.
+
+En interne, la maison n’est pas homogène. La discipline demandée par le MiVI cohabite avec vos intérêts personnels : argent détourné sur une vente, dossier conservé pour un usage privé. En gros, depuis 1 an, vous avez détourné plus de 10'000 couronnes. Car il est temps pour vous de prendre retraitre. Ce genre de rôle est impossible à tenir dans la durée et vous avez déjà réussi l'impossible : plus de 15 ans à jouer ces doubles rôles sans vous faire prendre. Vous n'êtes pas dupes cependant, un jour le vent tournera, et la sentence sera radicale. Il vous faut partir mais pas n'importe comment. Bien que vous soyez riches, une fuite, une disparition, ne resistera pas longtemps au MiVI. Ils vous traqueront, vous trouveront et vous découperont, petit patapons.
+
+
+### L’affaire du tripot du fort d'Ulgarth
+
+Il existe un endroit sur lequel vous n'avez pas de pression, pas de relais et même pas d'espion : le tripot du fort d'Ulgarth. Prendre la main sur le casino permettrait d'accélérer fortement la réussite de nombreux objectifs. Dans un casino on entend tout, on croise du monde. On blanchit de l'or également. Le Casino est très proche de la banque, vous pensez qu'il lui appartient. Malgré plusieurs tentatives de pression et des rencontres houleuses avec Marda Velyss, la patrone du Casino, vous n'avez jamais réussi à la faire cracher, à la faire tomber. C'est pourtant un objectif que vous a fixé depuis longtemps le MiVI. Il doit y avoir un secret, quelque chose, qui  donne tant d'applomb et de resistance a ce groupe dont vous vous méfiez, certains d'entre eux sont connus partout et ont des relais dans toutes les grandes familles. Surtout ceux qui ont des dettes...
+
+
+### L’affaire du fer (route maritime Sfaal–Palyr)
+
+Il y a **quelques mois**, sur ordre du MiVI, vous avez monté une substitution **en mer** sur la route **Sfaal–Palyr** : remplacer le **bon minerai** par du fer médiocre tout en conservant des documents d’expédition conformes à l’arrivée.
+
+À **Sfaal**, les **sceaux** et les marques devaient tenir : vous avez obtenu une **complicité interne** — récupération du sceau qui atteste le fer, copie des marques, remise du sceau à sa place. La **Guilde des Ports Unis** a tenu les relais portuaires. Les **pirates des eaux d’Albar** ont exécuté l’abordage et le transbordement. À **Palyr**, les forges et les arsenaux ont reçu le métal médiocre pendant que le **bon fer** quittait le circuit officiel.
+
+En parallèle des instructions reçues des officiels styrgiens, vous avez mis **vos propres fonds** pour orienter ce bon fer vers **Aquiléa** plutôt que vers les circuits que certains intérêts styrgiens attendaient. Vous avez donc servi deux séries d’ordres : celles transmises officiellement et celles financées par vos liquidités.
+
+Aujourd’hui, le **bon fer** a **disparu**. Les versions divergent selon les interlocuteurs ; le MiVI vous tient pour responsables des manques dans les inventaires et les rapports qu’il exige.
+
+Une partie du produit de la manœuvre avait été convertie en **or** avec les pirates. Cet or **n’arrive** pas par mandat sur un coffre : il faut un **rendez-vous** (lieu, heure, signes), compter les sacs, confronter aux engagements pris en mer. Sans rencontre avec les pirates — en pratique avec **Korran Vesper** — pas de règlement net. **Raven** porte la relation opérationnelle. Vous devez clore la remise, éviter un incident qui révélerait le double jeu aux officiels styrgiens et aux pirates, et décider du sort de l’argent si les pirates ou les contreparties d’Aquiléa ne tiennent pas leurs engagements.
 
 ### Bilan des trois dernières années
 
-Votre réputation reste haute chez les élites qui craignent pour leurs secrets. Pourtant le bilan remonté à Elfrion est jugé **en retrait** sur plusieurs chantiers : résistance du **Tripot** au fort d’Ulghart, vigilance à l’**UBI**, doubles ventes de renseignements, négociations incomplètes. Les **relances du MiVI** se font plus insistantes : comptes à rendre, menace de réduire les flux ou d’envoyer des observateurs sur le terrain.
+Les élites aux secrets graves vous craignent encore. Elfrion juge pourtant le bilan **en retrait** : le **Tripot** tient le fort d’Ulghart, l’**UBI** surveille davantage, des renseignements se vendent deux fois, des dossiers stagnent sans conclusion. Le **MiVI** relance souvent : comptes attendus, coupure possible des flux, envoi possible d’observateurs sur le terrain.
 
-La **régate**, le **renouvellement du conseil de l’UBI** et les tensions sur les nominations forment votre **échéance**. Il faut des résultats visibles. Vous montez **en personne** : déléguer l’essentiel sur une telle fenêtre passerait pour de la faiblesse, côté familles internes comme côté Elfrion.
+À **Ulghart** ce week-end se croisent délégations, équipages de Régate et pressions politiques. Tous les cinq ans le conseil de l’UBI change ; dans le même mouvement se renégocient les routes commerciales, avec les cités réunies. Officiellement vous êtes la **Guilde des Ports Unis** : pour la **troisième** fois, elle assiste sans intervenir aux échanges sur les postes au conseil, selon un usage désormais fixé. Le **MiVI** vous convoque aussi : des fuites touchent des transactions récentes, et plusieurs objectifs restent en retard :
+
+- mainmise sur le casino ;
+- accélération de l’écroulement d’Il-Irion, Palyr et Sfaal ;
+- le détournement de Fer — une réussite que vous n’exhiberez pas devant les bureaux d’Elfrion.
+
+Une confrontation nette sur le terrain, vous savez encore la pousser jusqu’au bout.
+
+Votre **échéance** tient là : **Régate**, **renouvellement du conseil de l’UBI**, tensions sur les nominations. Elfrion attend des résultats tenables : traces écrites ou faits vérifiables sans ambiguïté.
+
 
 ### Retraite négociée
 
-Au-delà du moment présent, vous partagez une visée : **partir avec des garanties** — pas dans la précipitation et les balles perdues, mais avec une sortie arrangée. L’or à recouvrer auprès des pirates et les **documents compromettants** que vous avez rassemblés au fil des années (archives, coffres, correspondances, dossiers sur les élites) doivent vous servir : fortune ailleurs, silence sur vos noms, ou assurance contre ceux qui voudraient vous rattraper.
+Derrière cette échéance, votre ligne commune reste simple : **partir avec des garanties**, par une sortie arrangée plutôt qu’une fuite précipitée.
 
-Vous ne cherchez pas une rupture frontale avec Elfrion. Vous visez une **négociation avec le MiVI** sur ce que devient l’**histoire publique** du réseau : ce qu’on enterre, ce qu’on laisse au mythe de la steppe, ce qu’on ne met pas par écrit à la Confédération.
+L’or à récupérer chez les pirates et les **documents compromettants** que vous accumulez depuis des années (archives, coffres, correspondances, dossiers sur les élites) font votre jeu : capitaux ailleurs, silence gardé sur vos noms, prise contre d’éventuels poursuivants.
 
-Vous détenez un levier : un **rapport interne** qui documente la création de la **Guilde des Ports Unis** et la mise sur pied des Sangs telle qu’elle a été consignée côté services — ce que le réseau sait, ce que le MiVI a validé, et ce que personne ne souhaite voir fuiter hors des salles closes. Ce n’est pas un texte à distribuer : c’est une **monnaie de négociation** pour cadrer la discussion avec vos interlocuteurs styrgiens et obtenir les quittances dont vous avez besoin pour partir.
+Vous ne cherchez pas la rupture publique avec Elfrion. Vous visez une **négociation avec le MiVI** sur le récit qui suivra votre départ : quels dossiers se ferment, quels noms restent rangés sous l’histoire « steppe », quelles pièces ne partent pas en dénonciation signée vers les autorités confédérées.
+
+Vous tenez un **rapport interne** sur la naissance de la **Guilde des Ports Unis** et le montage des Sangs tel que les services l’ont consigné : ce que le réseau sait, ce que le MiVI a validé ou couvert, et ce que les **signataires** refusent de voir circuler hors des salles fermées. Ce n’est pas un texte pour la place publique : c’est votre levier pour obtenir quittances et engagements écrits des interlocuteurs styrgiens avant votre départ.
 
 ---
 
 ## Résumé des objectifs
 
-- **Tenir la ligne styrgienne** sans brûler la Confédération tout de suite : affaiblir institutions et rivalités entre îles et continent pour donner du levier à la Styrgie sur Arthas et Ther-Félis.
-- **Entretenir le leurre** steppe / tchélène hors de votre cercle quand cela protège vos appuis réels.
-- **Jouer la banque et le mandat** : le nouveau conseil de l’UBI et les nominations sont au centre — obtenir des alliés de délégation, faire pencher des candidatures, récupérer ou neutraliser preuves et correspondances dans coffres et archives (y compris ce qui touche les **Valdris** et le dossier familial).
-- **Imposer votre main sur le Tripot** (casino du fort d’Ulghart) : les flux — blanchiment, dettes, renseignements — ne sont pas encore à vous ; il vous faut une mainmise ou un accord qui vous donne l’avantage face à **Marda Velyss** et à son équipe.
-- **Cultiver les séparatistes** d’Arthas et Ther-Félis utiles aux votes et à la rumeur quand l’UBI tranche.
+- **Exécuter les priorités Styrgie (MiVI)** : affaiblir institutions et rivalités entre îles et continent pour obtenir des appuis politiques et financiers utiles à la Styrgie sur Arthas et Ther-Félis, sans déclencher un effondrement immédiat de la Confédération si ce n’est pas votre ordre du jour.
+- **Intervenir sur l’UBI et le mandat** : le nouveau conseil de l’UBI et les nominations sont au centre — obtenir des alliés de délégation, favoriser ou bloquer des candidatures, récupérer ou neutraliser preuves et correspondances dans coffres et archives (y compris ce qui touche les **Valdris** et le dossier familial).
+- **Contrôler le Tripot** (casino du fort d’Ulghart) : les flux — blanchiment, dettes, renseignements — ne sont pas encore sous votre autorité ; il vous faut une mainmise ou un accord écrit qui fixe vos droits de regard et vos commissions sur ces flux face à **Marda Velyss** et à son équipe. Comprendre comment Marda peut-elle être si puissante, car si vous ne pouvez partir proprement, il faudra disparaitre et la réputation de certaines personnes de l'équipe de Marda est reconnue (Varek, Ardan Trevil sont connus dans le monde du jeu, des silences et des réseaux depuis plus longtemps que vous).
+- **Maintenir des contacts avec les séparatistes** d’Arthas et de Ther-Félis utiles aux votes et à la rumeur quand l’UBI tranche. Faire que Arthas et Ther-Félis prennent des positions fortes dans le prochain conseil.
 - **Documenter, faire fuiter ou faire taire** selon ce qui vous sert, et réduire les témoins ou fuites qui vous menacent vous-mêmes.
 - **Clore les dettes vives** : affaire du fer et or attendu — remises avec les pirates (**Korran Vesper**), contreparties Aquiléa ; sans règlement net, exposition aux relances du MiVI et aux règlements internes.
-- **Préparer la retraite** : or des pirates, documents compromettants, **rapport Guilde / Sangs** comme levier pour une sortie négociée avec le MiVI.
+- **Préparer la retraite** : or des pirates, documents compromettants, **rapport Guilde / Sangs** comme base pour exiger des quittances écrites dans une sortie négociée avec le MiVI.
 
 ---
 
@@ -103,3 +134,7 @@ Vous détenez un levier : un **rapport interne** qui documente la création de l
 | **Drask Bloodmoon** | Alchimiste interrogateur | Soins, substances, interrogatoires |
 | **Shadow** | Infiltrateur et expert en extorsion | Renseignement, infiltration, chantage, documents *(nom de code)* |
 | **Raven** | Maître des réseaux et négociateur | Informateurs, parlement, extérieur ; remises avec **Korran Vesper** (pirates) |
+
+---
+
+*GN Krondaar 2026 — Les Sangs de la Steppe*

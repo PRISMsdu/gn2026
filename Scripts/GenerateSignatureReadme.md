@@ -55,7 +55,8 @@ Le **premier argument positionnel** est le `Seed` :
 | `SlantDegrees` | Inclinaison du groupe de tracés, entre **-18** et **18** degrés. | `0` |
 | `OutputSvg` | Chemin du fichier SVG de sortie. Si omis : **`Scripts/Signatures`** + nom dérivé du `Seed` (`*_ink.svg`). Le dossier est créé au besoin (à côté du script `.ps1`). | vide |
 | `OutputPng` | Chemin du PNG. Si omis avec génération PNG, **même dossier que le SVG** (par défaut `Scripts/Signatures`) et même nom de base, extension `.png`. | vide |
-| `PngWidthPx` | Largeur du PNG en pixels (hauteur **proportionnelle** au viewBox 200×48). | `800` |
+| `PngHeightPx` | **Hauteur** du PNG en pixels ; la largeur suit le ratio du viewBox **200×48** (comportement par défaut pour un rendu lisible à l’impression). | `280` |
+| `PngWidthPx` | Si **> 0** : ancien comportement retranché **par largeur** (ignore alors `PngHeightPx`). | `0` (désactivé) |
 | `MagickPath` | Chemin explicite vers `magick.exe` si non dans le `PATH`. | vide |
 | `InkscapePath` | Chemin explicite vers `inkscape.exe` si non dans le `PATH`. | vide |
 | `SkipPng` | Ne génère **que** le SVG, pas le PNG. | — |
@@ -71,7 +72,7 @@ Le **premier argument positionnel** est le `Seed` :
 
 - **Procedural** : la progression horizontale du faux-tracé utilise une plage utile **réduite de 20 %** (centrée), pour un ruban **plus dense**, aligné sur la même idée de rapprochement.
 
-- **ViewBox** : le document SVG fait **200×48** unités (hauteur du PNG = `PngWidthPx × 48 / 200`).
+- **ViewBox** : le document SVG fait **200×48** unités. Par défaut, le raster fixe **la hauteur** (`PngHeightPx`) ; avec l’ancien mode largeur uniquement : largeur du PNG = `PngWidthPx`, hauteur = `PngWidthPx × 48 / 200`.
 
 - **Rendu PNG** : **ImageMagick** est essayé en premier ; sinon **Inkscape**. Fond du PNG selon **`-PngBackground`** (voir ci-dessus).
 
@@ -81,7 +82,7 @@ Signature plus expressive, encre violette, image large :
 
 ```powershell
 .\generate_signature_ink.ps1 -Seed "Test" -Ink "#2a1540" -Energy Wild -Weight Bold -Density Tight `
-  -OutputSvg ".\sig.svg" -OutputPng ".\sig.png" -PngWidthPx 1200
+  -OutputSvg ".\sig.svg" -OutputPng ".\sig.png" -PngHeightPx 320
 ```
 
 SVG seul (pas d’outil de conversion installé) :

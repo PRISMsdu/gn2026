@@ -143,6 +143,10 @@ Fragment vers Palyr. Pièce : FL-III-545-002. Avec Lucan, recouper avant une mê
 Piste matérielle ; rumeur fer / guerre à cartographier. Pièce : RA-III-546-004.
 
 
+
+Une **rumeur** court sur de l’**or** converti en métal de guerre (**Arguétheim**) pour compenser le fer médiocre côté confédéral : vous devez **cartographier** qui croit quoi et qui paie quand la situation bouge, sans tout prendre pour avéré. 
+
+
 ---
 
 *GN Krondaar 2026 — MiVI, détachement Corvel*

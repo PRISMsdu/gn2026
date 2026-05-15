@@ -1,9 +1,9 @@
 # Horgrim Dval — Chef de la garde (UBI)
 
 <!--
-  Rôle joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe.
-  Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l'intrigue ou à la fiche perso).
-  Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
+  TEMPLATE — Rôle joueur individuel. Sources : intrigue MJ, back de groupe joueurs (hors secrets MJ).
+  Texte : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces au format indiqué sous # Connaissances.
+  Ce fichier est distribué à un seul joueur.
 -->
 
 Grandeur Nature Celtiana  
@@ -60,9 +60,6 @@ Epopée en Krondaar
 
 # L'histoire de Horgrim Dval
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
 
 ## Chapitre I : Les origines
 
@@ -70,7 +67,7 @@ Tu nais à Ther-Félis. La cité est organisée autour de lignées de combat : l
 
 Dès l'enfance tu apprends les armes avant les chiffres. Un garçon de ta lignée sait tenir une lame à sept ans. Il connaît les codes d'engagement à dix. Une faute sur le terrain est traitée comme un manquement à l'honneur de la lignée, pas seulement comme une erreur personnelle.
 
-Ther-Félis entre en guerre contre Aquiléa quand tu as une vingtaine d'années. Tu combats sur plusieurs fronts. La guerre dure huit ans, elle devait être gagnée en quelques mois Aquiléa est bien plsu faible que Ther-Félis. Après huit d'un enfer sur mer et sur terre, personne ne gagne, tout le monde perd, beaucoup. Une guerre pour rien. Les conditions d'arrêt des combats incluent l'exil des familles de la caste guerrière qui ont commandé les troupes. Ta lignée est dans cette liste. Tes proches en mourront, ta famille disparaitra dans la misère.
+Ther-Félis entre en guerre contre Aquiléa quand tu as une vingtaine d'années. Tu combats sur plusieurs fronts. La guerre dure huit ans ; au départ on annonçait quelques mois de campagne. Aquiléa est numériquement plus faible que Ther-Félis, mais le conflit s'éternise. Après huit ans de combats sur mer et sur terre, l'équilibre se brise sans vrai vainqueur. Les conditions d'arrêt incluent l'exil des familles de la caste guerrière qui ont commandé les troupes. Ta lignée est dans cette liste. Tes proches meurent ou disparaissent dans la misère.
 
 Tu pars avec tes armes et rien d'autre. Tu as trente ans.
 
@@ -98,6 +95,10 @@ Le plan se déroule nickel, trop fort le gars, tu finis chef de la garde de la b
 Le mandat d'Edorian touche à sa fin. Une passation approche. Pour toi, une passation signifie une période de flottement dans les accès : nouveaux signataires, nouvelles combinaisons à distribuer, anciens accès à fermer. C'est le moment où les coffres sont les plus exposés.
 
 Une procédure interne est ouverte sur la mort de six gardes il y a 2 jours. Cette procédure lie les responsabilités de la garde et les accès aux coffres dans la même enquête. Tant qu'elle est ouverte, tu évites les déclarations inutiles. Il va falloir gérer l'enquête et la cloisonner sur ce seul sujet. Tu sais que des Questeurs sont envoyés depuis Il-Irion. Ce sont des gars pas simples, pas drôle, et qui certes seront là pour enquêter sur ces 6 morts étranges, voir magiques, mais leur pouvoir quasi sans limite pourrait poser un problème pour déouler le plan de sortie.
+
+Depuis environ deux ans, Varek au Tripot t'envoie des signalements sur des incidents contre la maison du casino : poissons pourris dans les réserves, feux naissants dans des couloirs de service, dégâts mineurs sur les accès. Il relie ces actes à certains gardes de la banque, surtout aux six morts et à leurs proches encore en service. Pour lui, le calendrier tient : les incidents ont commencé un an après l'arrivée de ces hommes, puis se sont répétés. Il n'a pas de preuve complète, mais il ne croit plus au hasard.
+
+Pour toi, la situation est inverse. Le Tripot est sous contrat avec l'UBI ; la maison du casino touche à des flux que tu ne contrôles pas sur le papier. Tant que la procédure sur les six morts est ouverte sur ta garde, toute alerte venant du Tripot te paraît d'autant plus suspecte : elle peut servir à te faire porter la faute ou à masquer un autre jeu. Tu n'accordes pas à Varek le droit de dicter qui tu retires du service sur la base de listes dressées depuis les coulisses du casino. Tu exiges des faits exploitables, des noms vérifiables hors du Tripot, des témoins qui ne sont pas payés par la maison. Sans ça, tu gardes la main sur tes rotations et tu réponds froidement aux requêtes.
 
 Sybrel Dornik est sous ta surveillance constante. Elle a accès aux tunnels intérieurs. Tu ne sais pas exactement pour qui elle transmet au-delà de sa fonction officielle. Ce qu'elle rapporte, à qui, par quel passage : tu n'as pas encore toutes les réponses.
 
@@ -129,6 +130,7 @@ Quelques gardes recrutés il y a trois ans te préoccupent. Ils font leur travai
 - **Passation sans incident** : les rotations de garde, les accès au fort pendant la Régate et les escortes de dépôts doivent tenir sans faille. Un incident pendant la passation remonte directement vers toi.
 - **Procédure sur les six gardes** : la procédure interne est ouverte. Tu dois savoir ce qu'elle peut produire comme conclusions avant qu'un auditeur extérieur y mette le nez.
 - **Gardes suspects** : identifier ce que ces hommes cherchent dans le fort avant que l'affluence de la Régate rende leurs mouvements impossibles à suivre.
+- **Varek et les 6 gardes morts** : creuser cette piste qui pointe du doigt le Casino ou Varek de manière un peu trop évidente. 
 
 
 # Membres du groupe
@@ -146,7 +148,6 @@ Quelques gardes recrutés il y a trois ans te préoccupent. Ils font leur travai
 
 # Connaissances
 
-
 ## La ligne des portes
 Tu décides qui entre, avec quelles armes, et jusqu'où monte l'escorte. C'est ta loi dans l'édifice. Elle s'applique aux membres du conseil comme aux visiteurs. Edorian peut te donner un ordre d'accès ; lui seul.
 
@@ -161,3 +162,8 @@ Tu l'as formé. Il connaît les procédures de la garde aussi bien que toi. Tu l
 
 ## Sybrel Dornik — surveillance interne (UBI)
 Elle a accès aux tunnels intérieurs et aux coursives. Son travail officiel est la surveillance interne. Ce qu'elle transmet au-delà de ses rapports officiels, tu ne le sais pas avec certitude. Tu la surveilles. Tu notes ses horaires de passage dans les zones sensibles.
+
+## Varek — Tripot (alertes contre la garde)
+Depuis environ deux ans Varek  te signale des actes contre le Tripot : poissons pourris dans les réserves, débuts de feu dans des couloirs de service, dégâts mineurs sur les accès. Il relie ces incidents à certains gardes de la banque, en priorité aux six morts récemment et à leurs proches encore en service. Il note un calendrier : les dégradations ont commencé un an après l'arrivée de ces hommes, puis se sont répétées. Il n'a pas de preuve complète, mais pour lui ce n'est plus une coïncidence.
+
+Tu ne traites pas ses requêtes en profondeur, bien que ce qu'il raconte ne soit pas débile. Cependant tant que la procédure interne sur les six morts pèse sur la garde, toute alerte venant du Tripot te paraît d'autant plus suspecte...

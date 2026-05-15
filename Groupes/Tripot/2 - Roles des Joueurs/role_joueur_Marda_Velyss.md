@@ -40,7 +40,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Mage des sceaux ; dernier mot sur la ligne **financière** et les **accords** avec l'UBI. |
+| Remarques | Mage des sceaux ; adepte de Jorok ; signature finale sur l'argent et les contrats avec l'UBI. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -48,84 +48,151 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Calcul, froid utile, charisme de table ; ne confond pas autorité et bruit. |
-| Valeurs | Survivre avec les siens — et avec l'or qui rend la fuite possible. |
-| Peur | Que l'audit ou le sang renversé ferment le casino avant la caisse. |
-| Rêve | Repartir assez loin pour que le fort ne soit plus qu'une anecdote payante. |
+| Traits de caractère | Peu de mots en public. Décisions prises sur chiffres et délais. |
+| Valeurs | Protéger les dix qui travaillent avec toi. Partir avec assez d'or pour ne plus dépendre du fort. |
+| Peur | Fermeture du site avant d'avoir encaissé ce que la banque doit encore. |
+| Rêve | Quitter Ulghart avec la table entière et les sommes convenues. |
 
 ---
 
-# L'histoire de Marda Velyss
+# Biographie
 
-## Chapitre I : Les origines
+## Jeunesse dans le clan
 
-Tu es née dans le marché du Levant : l'enfant n'y reçoit pas des contes, elle reçoit des **taux**. À dix ans, une crise familiale t'a montré que la magie et les chiffres peuvent sauver la même maison — à condition que personne ne lise le bon livre trop tôt.
+Tu es née dans l'Empire tchélène, dans un camp de clan qui compte parmi les plus puissants des tribus. Ton nom de naissance n'est pas celui que tu portes aujourd'hui ; tu ne le rappelles qu'à ceux qui doivent le savoir.
 
-## Chapitre II : L'apprentissage
+Dès l'enfance, on t'apprend à lire les listes de dettes et les alliances, pas à jouer. Les femmes de la lignée te préparent à un rôle de chef ou d'épouse de chef : tenue, silence devant les visiteurs, acceptation des punitions quand une parole déplaît. Tu as subi des corrections physiques et des humiliations devant la tente commune. Tu as vu une cousine mariée de force à un allié vieux de plus de trente ans ; personne n'a protesté.
 
-Tu as gravi les cercles d'investissement où l'on se serre la main avec des gants. L'UBI t'a recrutée pour ta précision ; tu l'as quittée quand la corruption est devenue trop lisible — en emportant des **clés** utiles pour plus tard.
+À douze ans, tu comprends que le camp ne te laissera pas choisir. Tu commences à noter qui entre, qui sort, quels messagers partent vers l'ouest. Tu écoutes les marchands qui échangent des peaux contre du sel et des nouvelles des routes.
 
-## Chapitre III : L'ascension
+À seize ou dix-sept ans, on te présente officiellement aux chefs voisins comme future successeure possible. Tu refuses en privé ; en public, tu acquiesces. C'est la seule façon de gagner du temps.
 
-Il y a dix ans, tu as pris le Tripot comme on prend une arme : fermement. Le fort a appris ton nom ; la banque a appris ton **sourire** ; la mafia a appris ton **prix**. Tu as pris **Soren** au motif qu’un bon outil mérite un toit — sans exiger de lui un testament sur tout son passé.
+## La fuite
 
-## Chapitre IV : Les défis actuels
+La branche qui te devait la place meurt en quelques mois : maladie, embuscade, exécution selon les versions que le camp colporte. Les rites te nomment héritière. Des cavaliers partent vers les cités où l'on dit que tu pourrais être cachée. L'administration impériale ouvre un dossier : correspondance lente, récompense modérée, pas de grande chasse publique.
 
-Le **nouveau conseil** UBI te lit sur la nuque : audit, vertu, prison. Tu veux le **rétroactif** à **15 %** sur cinq ans de risque réel, pas l'aumône à **10 %** qu'on t'a versée. La **régate** et la **Convention** sont ta fenêtre : paris, juges, VIP en haus — sans incident qui ferme le site avant la fenêtre que tu t'es fixée pour partir avec ceux qui tiennent la corde côté Palyr. Tu dois **sceller** en jeu ce qui n'est encore qu'arrangement.
+Tu prépares ton départ pendant deux saisons. Tu mets de côté des pièces volées au trésor familial, converties en couronnes tchélènes par un changeur complice. Tu copies des sceaux sur du cuir avec de la suie et de l'encre. Tu repères un convoi de marchands qui quitte le camp vers l'ouest.
 
-## Chapitre V : Le réseau et les relations
+Tu pars une nuit de pluie, vêtue en servante, avec un faux laissez-passer signé d'une main qui n'est pas la tienne. Tu marches trois jours avec le convoi. À la première ville où l'alphabet confédéral remplace les marques du camp, tu changes de nom : Marda Velyss. Tu dis que tu viens d'une famille ruinée du Levant.
 
-**Ardan** est la ligne de feu du casino que tu ne négocies pas ; **Fenric** tient les livres que tu crois tout voir ; **Éliane** monte la température de l'eau et des cotes ; **Lydwen** te donne des angles que les salles ne devinent pas toujours ; **Sira** et **Lira** tiennent le cœur des salles ; **Varek** te dit qui ment dans les coulisses ; **Ysabeau** transforme un refus en signature ; **Soren** règle ce que la politesse refuse.
+Tu ne retournes pas à l'est. Tu refuses les lettres qu'on pourrait encore t'adresser sous l'ancien nom. Tu sais que le clan et l'Empire peuvent attendre des années avant de te retrouver : cela t'a déjà donné une première décennie de liberté.
+
+## Premiers pas à l'ouest
+
+Tu traverses Sfaal, puis les ports du Levant. Tu travailles comme commise chez un changeur, puis chez un prêteur qui prête aux capitaines. Tu apprends les taux du jour, les cautions sur navire, les noms qu'on efface quand on change de protecteur.
+
+Tu entends parler de la République de Styrgie comme d'un voisin puissant et méfiant. Tu n'y as pas de famille. Tu évites les délégations styrgiennes : leur diplomatie te rappelle trop les visites officielles au camp.
+
+## Années d'apprentissage
+
+À Koméo puis sur les comptoirs, tu apprends le change, les cautions et les contrats qu'on refait quand on change de protecteur.
+
+Vers vingt ans, tu adhères au culte de Jorok. Tu n'affiches aucun titre de temple. Tu utilises l'illusion, les engagements écrits et les sceaux dans ton métier : deux carnets quand il le faut, signatures contrôlées, comptes montrés aux clients qui ne doivent pas voir l'autre moitié.
+
+Tu entres dans les maisons de crédit du Levant, puis à l'Union bancaire d'Il-Irion. On t'embauche pour la rigueur des totaux. Tu démissionnes quand les écarts entre livres officiels et annexes deviennent impossibles à ignorer. Tu gardes des codes d'accès et des copies de dossiers.
+
+## Styrgie, Empire et ce qui remonte sur ton passé
+
+Depuis un an ou deux, des rumeurs circulent dans les couloirs du fort : des émissaires styrgiens auraient reçu des indications sur une héritière de clan tchélène réfugiée à l'ouest. Tu ne sais pas qui a parlé. Tu sais que la Styrgie cherche des leviers contre la Confédération et que ton profil peut servir sans que tu aies à coopérer.
+
+Aucun plenipotentiaire styrgien ne t'a encore abordée ouvertement sous ton vrai passé. Des intermédiaires au port ont laissé entendre qu'un « arrangement » avec la République pourrait te protéger de l'Empire : otage de confort, garantie diplomatique, ou simple échange contre une concession sur les ports. Tu n'as signé rien.
+
+À Ulghart, une autre rumeur revient souvent, surtout quand la délégation styrgienne est présente : si tu mourais sur le sol confédéré et que la mort était imputée à la Styrgie, alors que ton nom figure déjà sur des lettres impériales que tu n'as pas toutes lues, l'Empire pourrait frapper des voisins. Tu ne sais pas si c'est exact. Des négociateurs s'en servent pour te ménager ou te faire peur. Tu t'en sers parfois toi-même, sans l'avouer.
+
+L'Empire, de son côté, n'a pas cessé sa recherche lente. Tu as croisé une fois, à Il-Irion, un homme en bureaux impériaux qui t'a regardée trop longtemps avant de repartir. Tu as changé d'auberge le soir même.
+
+## Dix ans au Tripot
+
+Il y a dix ans, l'UBI te confie la gestion du casino installé dans le fort d'Ulghart. Tu refais l'équipe.
+
+Tu recrutes Ardan Trevil pour l'ordre en salle : il vient des cercles de jeu d'Ascanir, il connaît les habitués violents. Les sœurs Sira et Lira Vestrann, de Palyr, tiennent les tables ; leur querelle de famille sert parfois le spectacle, parfois complique tes arbitrages. Varek, que tu connaissais déjà sur d'autres ports, surveille quai et coulisses. Lydwen gère tirages et lectures quand une décision ne peut pas reposer sur un seul chiffre. Éliane monte les paris, surtout autour de la mer et de la régate. Ysabeau tient les salons où l'on signe des dettes autant que des mises. Fenric Ossel arrive quand les volumes augmentent : livres pour l'UBI, totaux pour toi, registres que l'auditeur ne doit pas voir. Soren rejoint plus tard pour la chimie et les interventions que la salle ne doit pas voir ; tu ne lui as pas demandé son histoire complète.
+
+Pendant cinq ans, une partie des sommes détournées par le conseil sortant de la banque repasse par tes caisses. La maison reçoit environ dix pour cent. Tu estimes que le risque réel valait quinze pour cent et tu veux l'arriéré avant que le nouveau conseil ne ferme les dossiers.
+
+Edorian, directeur général, t'a contrainte à accélérer les passages. Il menace parfois de t'accuser d'un lien avec la Styrgie. Ce n'est pas ta filiation : tu es tchélène, pas styrgienne. Tu traites la menace comme un chantage de bureau.
+
+Depuis deux ans, des incidents frappent le casino : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Six de ces gardes sont morts récemment sur les quais. Ardan soupçonnait l'un d'eux avant les corps. Holgrim, chef des gardes de la banque, n'a jamais donné suite à tes signalements ; avec les morts, il te considère davantage comme un problème que comme une plaignante.
+
+Les Sangs de la Steppe veulent une part du casino ou une soumission. Kaelan et Raven t'ont déjà confrontée en salle. Tu as une reconnaissance ancienne signée sur une dette de salle : papier que leurs chefs ressortent quand ils veulent du calme ou de la pression.
+
+## Ce week-end à Ulghart
+
+La Régate et la Convention remplissent le fort. Un nouveau conseil UBI annonce audit et vertu. Tu dois obtenir quinze pour cent sur cinq ans de flux passés par la maison, en numéraire ou en engagements écrits, avant que les pièces ne soient classées hors de portée.
+
+Des interlocuteurs à Palyr ont évoqué bateau, or rangé et silence après départ. Rien n'est encore acté devant témoins. Tu ne partiras pas sans la table.
+
+Tu cherches un appui côté Il-Irion contre la pression des Sangs. Tu connais de nom Garrick Halvaren, chargé de la sécurité dans la coalition des grandes maisons. Il ne te connaît pas. Tu pourrais le contacter pendant le séjour.
+
+Corvyn Valdrak, délégation Palyr, veut réduire ou fermer le Tripot parce que Saevar s'y ruine au jeu. Vous êtes opposées sur ce point.
+
+Calis Aedris, maison Aedris, surveille indirectement les flux et la clientèle : il ne veut pas que le casino devienne un outil contre le prestige d'Il-Irion.
+
+Joric Tann, Ther-Félis, joue et emprunte des rumeurs ; relation utile si la table le joue encore.
+
+Un objet tenu par l'UBI, dont on parle comme d'une pièce de négociation, circule en rumeur. Lydwen en entend parler sans tout dire. Tu attends de voir ce que la banque montrera avant d'en faire un incident public.
+
+Les pièces qui prouvent ce que la banque te doit sont réparties entre Fenric, Éliane, Ysabeau et les sœurs. Une saisie globale pourrait tout reconstituer. Tu dois centraliser assez de documents avant l'audit.
 
 ---
 
-# Tes missions Objectifss
+# Tes missions et objectifs
 
-- **Négocier le rétroactif 15 %** : argent comptant ou engagements **avant** que les preuves ne soient verrouillées — tu restes alignée avec ce que la banque peut encore accepter sans tout briser.
-- **Tenir le casino ouvert** jusqu'à la fenêtre de fuite — image de norme, pas d'émeute gratuite.
-- **Arbitrer mafia** (Kaelan, Raven) et **UBI** sans déclencher la guerre de salle qui tue le magot.
-- **Cadre Palyr** : officialiser contreparties (or, bateau, silence) en scène avec les interlocuteurs concernés.
+- **Commission et arriéré** : obtenir quinze pour cent sur cinq ans de flux passés par le Tripot, en or ou en écrit, sans provoquer une fermeture immédiate du site.
+- **Tenir le fort** : garder le casino ouvert et présentable jusqu'à la date que tu as fixée pour le départ ; pas d'émeute ni de fermeture administrative prématurée.
+- **Sangs et banque** : négocier avec Kaelan, Raven et la direction UBI sans guerre ouverte en salle.
+- **Départ Palyr** : faire signer ou constater devant témoins le passage, l'or et le silence promis.
+- **Appui Il-Irion** : explorer un contact avec Garrick Halvaren ou un autre représentant des maisons pour limiter la mainmise des Sangs.
 
 # Membres du Tripot
 
-| Personnage | Lien |
-|------------|------|
-| Ardan Trevil | Confiance de terrain — sécurité du casino ; il tient la ligne du Tripot quand tu parles en haut lieu. |
-| Fenric Ossel | Tes chiffres passent par lui — exige la clarté **sans** paralysie. |
-| Éliane | Levier régate / juges — tu valides le risque réputationnel des truquages. |
-| Sira & Lira Vestrann | Cœur des tables — tension entre sœurs possible, utile dramatiquement. |
-| Lydwen | Cartes / artefact — tu ne confonds pas vision et preuve. |
-| Varek | Oreilles — tu lui donnes des cibles, il te rend des faits. |
-| Ysabeau | Salons VIP — signature avant conscience. |
-| Soren | Atout discret — chimie et opérations que la salle ne doit pas voir ; le **pourquoi** de son passé peut rester flou jusqu’aux scènes. |
+| Personnage | Rôle pour toi |
+|------------|----------------|
+| Ardan Trevil | Ordre en salle ; il applique ta consigne quand une rixe monte ; il tenait des notes sur les gardes banque avant les six morts. |
+| Fenric Ossel | Livres UBI et livres internes ; tu le confrontes quand un total te semble flou. |
+| Éliane | Paris et juges de régate ; tu valides ou refuses un truquage selon le risque pour la maison. |
+| Sira et Lira Vestrann | Tables ; leur rivalité peut diviser une soirée de clientes. |
+| Lydwen | Cartes ; tu distingues ce qu'elle affirme de ce que tu peux prouver, y compris sur l'objet de rumeur côté banque. |
+| Varek | Filatures et quai ; tu lui donnes des noms, il revient avec dates et lieux ; relais possible vers l'extérieur sans que ton nom soit sur les papiers. |
+| Ysabeau | Salons VIP ; dettes signées avant que les clients retournent aux tables. |
+| Soren | Alchimie et règlements discrets ; tu n'as pas fouillé son passé. |
 
 ---
 
-# Connaissances
+# Relations hors Tripot
 
-## La ligne de l’Union bancaire, le conseil et Edorian
+## Edorian et la direction UBI
 
-Tu sais comment la banque te tient : des bordereaux internes circulent encore, avec des honoraires de mandat, des marges annotées — parfois une initiale qui ressemble à un **E.** et qui peut désigner **Edorian** si la confrontation monte. Ce n’est pas une arme de spectacle : c’est une pression de coulisse. Tant que le conseil veut paraître vertueux, tu peux rappeler ce qui traîne dans les tiroirs. Si tu pousses trop fort sans avoir sécurisé le reste du groupe, tu exposes le casino tout entier. Tu joues la ligne **financière** comme une lame : proche du cou, jamais au hasard.
+Edorian dirige encore la banque jusqu'à la passation. Des flux illégaux ont transité par ton casino à son initiative. Tu détiens des bordereaux avec honoraires, marges et parfois une initiale E. Tant que le conseil entrant veut paraître propre, ces papiers te servent en coulisse. Si tu les étalés sans filet pour les dix du Tripot, la maison ferme.
 
-## Les « familles de l’Est » et la dette de salle
+Edorian te menace d'une filiation styrgienne inventée. Tu sais que c'est faux. Tu réponds par d'autres papiers ou par le silence selon la salle.
 
-Sous le nom des réseaux qui parlent le langage des **Sangs**, tu traînes une dette **ancienne** : une reconnaissance signée de ta main sur une **dette de salle** — le genre de papier qu’on ressort quand on veut rappeler une alliance ou une pression. Ce n’est pas une anecdote : c’est une monnaie que Kaelan et les siens peuvent brandir en pleine négociation. Tu peux t’en servir pour rappeler que tu as déjà payé en sang et en loyauté de façade — ou ils peuvent t’en servir pour te rappeler que tu leur dois encore le calme dans **leur** salle. Tu négocies avec le sourire ; tu ne donnes pas raison à l’humiliation publique d’un chef, parce que là tu ne parles plus de dette : tu parles de guerre ouverte.
+## Kaelan, Raven et les Sangs
 
-## Kaelan, Raven et ce qui se joue sur le quai
+Kaelan Thormane et Raven portent la pression du quai et de la Guilde des Ports Unis. Ils veulent commission, regard sur les caisses ou accord écrit. Tu refuses de livrer le fonds de commerce. La dette de salle signée autrefois reste leur meilleur argument ; tu rappelles les sommes déjà versées en liquide et les nuits où tu as tenu le calme pour eux.
 
-**Kaelan** et **Raven** incarnent la mafia du quai et des ports unis : pression, trêve, parfois une respiration quand la régate et la Convention attirent trop de monde. Tu n’es pas là pour leur faire une démonstration de force dans le tapis : tu veux le **temps** et le **calme** pour finir ton affaire avec la banque et préparer la sortie. Ce qu’ils vivent sur le port et ce que vivent d’autres délégations le même week-end doit **tenir ensemble** : si tu décroches un fil ici sans voir l’ensemble, le Tripot devient l’arène de quelqu’un d’autre.
+Garrick Halvaren, côté Il-Irion, s'oppose à l'extorsion mafieuse contre les patriciens. Tu as entendu son nom ; il ne connaît pas le tien. Un rendez-vous pourrait t'aider sans lier le Tripot à une maison précise.
 
-## Palyr et la corde de la fuite
+## Palyr
 
-**Palyr** n’est pas un décor : c’est la logistique qui peut transformer une promesse en bateau, en or rangé, en silence après le départ. Tu dois **officialiser** en scène ce qui n’est encore qu’arrangements : contreparties en or, passage, discrétion. Tant que ce n’est pas dit et joué devant les bons interlocuteurs, c’est du vent. Tu ne pars pas seule : tu pars avec une table qui a accepté de se disperser sans se trahir au passage. C’est ton chapitre le plus concret : sans lui, tout le reste est une belle comptabilité dans un fort fermé.
+Des négociateurs palyriens ont parlé de navire et de cachette d'or. Corvyn Valdrak, lui, veut te voir perdre le casino pour protéger Saevar du jeu. Tu dois séparer les alliés possibles des adversaires dans la même délégation.
 
-## L’artefact et la rumeur qui vient de la banque
+## Styrgie
 
-Tu **sais** qu’un objet lié à l’UBI — un **artefact** dont on murmure qu’il pourrait servir de levier — flotte dans la rumeur et dans ce que **Lydwen** peut entrevoir sans tout livrer. Le détail exact n’est pas gravé sur ton front : il appartient au jeu vivant et à ce que la banque choisira de montrer. Ton rôle est de ne **pas** casser toute la ligne banque pour un coup d’éclat tant que la situation ne l’a pas ouverte clairement. Tu utilises la rumeur comme tu utilises les chiffres : pour faire pencher la balance, pas pour mettre le feu au tapis sans raison.
+La délégation styrgienne à la Convention suit les flux d'or et les alliances entre cités. Ton casino attire des capitaines et des officiers qui parlent aussi à leurs ambassadeurs. Tu sais que la Styrgie n'aime pas une maison qui refuse de négocier.
 
-## Les preuves éclatées du rétroactif
+Si un émissaire styrgien te contacte, il proposera sans doute protection ou neutralité en échange d'un geste public ou d'une information sur la banque, les coffres ou les délégations rivales. Tu peux refuser. Tu peux temporiser. Tu peux accepter un rendez-vous pour voir ce qu'ils offrent, sans rien signer sur-le-champ.
 
-Tu **crois** voir l’essentiel des flux ; en réalité les preuves du passage que tu défends — de ce qu’on t’a versé à ce que tu estimes te devoir — peuvent être **éparpillées**. Une partie passe par **Fenric** et ses livres ; une partie peut dormir dans les registres qu’**Éliane** tient pour les paris ; une partie vit dans des dossiers VIP que **Ysabeau** ou les sœurs savent refermer. Ce n’est pas une faiblesse : c’est une géographie que seule une saisie massive pourrait reconstituer — et tant que tu joues vite et serré, personne n’a tout le puzzle en main. Ton défi est de ramasser assez de morceaux **avant** que l’audit ne verrouille ce qui reste lisible.
+Tu n'es pas styrgienne. Edorian le sait quand il menace de te « dénoncer » à la Styrgie : c'est un bluff. En revanche, si la Styrgie croit pouvoir t'utiliser, elle le fera sans scrupule.
+
+## Banque : gardes et Holgrim
+
+Holgrim Dval commande les gardes de la banque. Tes plaintes sur dégradations et gardes suspects n'ont pas été suivies. Les six morts compliquent sa procédure interne ; il te voit comme gênante.
+
+## Ther-Félis et autres
+
+Joric Tann fréquente les tables ; dettes et rumeurs échangées selon les soirées.
+
+Calis Aedris observe les flux du Tripot pour la maison Aedris : pas d'alliance ouverte, mais intérêt à ce que le casino ne devienne pas un scandale public contre Il-Irion avant la Régate.
 
 ---
 

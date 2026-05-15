@@ -8,89 +8,85 @@
 -->
 
 ---
+## Prologue — L’ombre du Primat
 
-## Ce qu’est le MiVI et pourquoi vous êtes à Ulghart
+À Elfrion, on dit parfois que la République a deux visages : celui qu’on affiche aux ambassades, et celui qu’on confie au Primat. Le MiVI appartient au second : petit nom d’atelier pour un service qui mêle renseignement d’État, couverture civile et action quand il faut aller là où ni les uniformes ni les sceaux ne passent. Vous n’êtes pas des héros de pamphlet ; vous êtes des professionnels qu’on envoie parce que le résultat pèse plus que le décor.
 
-Le **MiVI** est le service officieux du **Primat** à **Elfrion** (République de Styrgie) : renseignement d’État, couvertures civiles, actions quand les chaînes officielles ne suffisent pas. Vous n’êtes pas une ambassade : vous portez des ordres qu’on ne crie pas en place publique.
+Ce document raconte qui vous êtes devenus ensemble — pas seulement ce que vous devez faire à Ulgarth. Les noms sont les vôtres ; les cicatrices aussi.
 
-La **Confédération** vous verra comme marchands, experts ou consultants selon la **couverture** retenue pour la Convention. Votre mission n’est pas de convaincre les salles que la Styrgie a raison : c’est d’**obtenir des résultats** sur des dossiers ouverts — comptes sur le réseau **Sangs de la Steppe**, **fer**, **Tripot**, **UBI**, **routes** — sans provoquer un closing confédéral autour d’Elfrion.
+## I — Ce que la République n’écrit pas
 
----
+Il y a longtemps que la Styrgie a appris à ne pas jouer seule sur un échiquier où ses rivaux tiennent les ports et les banques. C’est le MiVI, côté Primat, qui a porté l’implantation de ce que la Confédération appelle la mafia : les Sangs de la Steppe. Le choix des premiers interlocuteurs, la chaîne de commandement, l’argent qui a transformé des marginaux en réseau tenable — tout cela figure dans des registres que vous n’avez jamais vus en entier, et c’est aussi bien ainsi.
 
-## I — Sangs, Guilde, leurre
+Pour donner des docks, des papiers et une respectabilité de façade, on a fait créer la Guilde des Ports Unis. Elle sert de couverture commerciale et logistique à la mafia. Parmi les ombres, ce que les uns appellent encore la menace des steppes effraie les salons sans livrer vos véritables chaînes de commandement. Vous savez à qui vous parlez quand vous exigez des comptes ; vous savez ce que ce savoir vaut, pour vous comme pour eux.
 
-Depuis une quinzaine d’années, le MiVI a porté l’implantation de la mafia dite **Sangs de la Steppe** : choix des interlocuteurs, chaîne de commandement, budgets. Pour les **docks**, les **papiers** et une façade acceptable, on a fait lever la **Guilde des Ports Unis** : couverture commerciale et logistique ; le **récit public** parle steppe et tchélène, pas Styrgie.
+Les opérations ont porté leurs fruits. Elles ont aussi laissé des dettes : depuis environ trois ans, les bilans que les chefs des Sangs remontent ne suffisent plus à ceux qui lisent au-dessus de vous. Trois grands objectifs que le réseau n’arrive pas à boucler comme attendu — et sur lesquels vous allez exiger des réponses nommées, avec des noms attachés à chaque ligne.
 
-Les opérations ont donné des effets. Elles ont aussi laissé des **dettes** : depuis environ **trois ans**, les bilans que les cadres des Sangs remontent ne suffisent plus à Elfrion.
+L’opération de détournement du fer est le dossier le plus lourd. Conçue par vos services, exécutée avec la Guilde des Ports Unis et donc la mafia, elle devait substituer le bon minerai en mer sur la route Sfaal–Palyr — Palyr recevant du fer médiocre, les papiers et le sceau venant d’une complicité à Sfaal. Aujourd’hui le bon fer a disparu des écrans où on le suivait ; les versions divergent ; sans ligne claire sur le fer, le reste sonne creux.
 
----
+Le Tripot résiste : on visait une mainmise ou un accord de domination sur le casino du fort d’Ulgarth, et les flux qu’on comptait pour presser l’île ne tiennent pas le niveau fixé. Pour tenir face au réseau, le casino doit s’appuyer sur quelque chose de solide — fils propres, dettes d’élite, alliances qu’on n’a pas encore assez cartographiées. L’approche la plus fine n’est peut-être pas d’écraser la table : c’est de découvrir d’où vient cette force, puis de s’en servir plutôt que de tout casser d’un coup.
 
-## II — Trois chantiers en retard
+Pour la banque, l’enjeu n’est pas un tableau abstrait de retards. Ce qui compte pour la ligne, c’est de faire pencher la nomination au futur conseil de l’UBI vers des partisans plutôt favorables à la réunion d’Arthas et de Ther-Félis — le rapprochement politique que la Styrgie veut outiller. Tant que les chefs du réseau n’ont pas livré de levier clair sur cette passation, le bilan banque reste insuffisant.
 
-**Fer (route Sfaal–Palyr, référence opération 544–545 / cartographie Primat)**  
-L’opération devait substituer le bon minerai en mer ; **Palyr** recevait du fer médiocre avec des **papiers** tenus côté **Sfaal**. Elle a été conçue par vos services et exécutée avec la Guilde des Ports Unis et la mafia. Le **bon fer** a ensuite **disparu** des suivis ; les versions divergent. Sans ligne claire sur le fer, le reste du bilan sonne creux pour Elfrion.
+À côté de ces trois axes, les doubles ventes de renseignements et les négociations de routes traînent encore : ce sont des lignes de compte dans le même bilan, pas des succès à célébrer. Ce n’est pas une humiliation pour vous : c’est un chiffre. Et les chiffres, chez vous, finissent toujours par devenir des ordres.
 
-**Tripot**  
-La mainmise ou le niveau de contrôle espéré sur le **casino** du fort d’Ulghart n’a pas été atteint ; les flux attendus pour presser la ligne île ne tiennent pas le niveau fixé.
+On vous a aussi parlé des papiers qui circulent dans des coffres comme des maladies ; d’une rumeur de transmutation, d’or en métal de guerre, assez folle pour être vraie quelque part. Vous n’êtes pas là pour tout croire : vous êtes là pour savoir qui croit quoi, et qui paie quand la table bascule.
 
-**Banque UBI**  
-L’enjeu n’est pas seulement un tableau de retards. Il faut faire pencher la **nomination au futur conseil** vers des lignes **utiles à la réunion d’Arthas et de Ther-Félis** — objectif politique que la Styrgie veut **outiller**. Tant que les chefs du réseau n’ont pas de levier clair sur cette passation, le bilan banque reste **insuffisant**.
+## II — Cinq noms pour une table
 
-À côté de ces trois axes : doubles ventes de renseignements, négociations de routes encore ouvertes — ce sont des lignes du même bilan.
+Théven Corvel n’a jamais aimé les salles où l’on parle trop fort. Il a grandi dans le bureau des cartes — pas celles des géographes, mais celles des opérations : qui tient quel port, quel sceau dort dans quel tiroir, quelle ligne télégraphique mentale relie Elfrion aux réseaux de la mer intérieure. On l’a promu parce qu’il lit les silences comme d’autres lisent les manifestes. À quarante-deux ans, il porte le détachement Cognelot parce qu’il a tenu le dossier fer sur son bureau avant même que la mer ne le confirme : il sait quelles questions poser quand les autres récitent des excuses.
 
-Une **rumeur** court sur de l’**or** converti en métal de guerre (**Arguétheim** / variant orthographique selon sources) pour compenser le fer médiocre côté confédéral : vous devez **cartographier** qui croit quoi et qui paie quand la situation bouge, sans tout prendre pour avéré.
+Ysel Marivent vient des quais, pas des académies. Petite fille d’arrimeurs et de copistes, elle a appris tôt qu’un registre mal signé vaut une flotte mal rangée. Recrutée pour son flair sur les doubles livres, elle a passé trois ans à apprendre les couloirs de l’UBI par rumeurs et par pièces volées en copie — jamais assez pour se brûler, toujours assez pour savoir où la lumière baisse. Elle déteste qu’on touche à ses archives mentales ; c’est une forme d’amour.
 
----
+Lucan Drest parle cinq langues du Levant avec l’accent qu’il faut pour qu’on lui donne une chaise plutôt qu’une menotte. Ancien interprète sur une ligne marchande qui ne lui appartenait pas, il a rejoint le MiVI après une nuit où un mot de trop aurait coûté une cargaison entière — il a choisi le mot juste. Il sait tenir un salon, un quai et une menace dans la même respiration.
 
-## III — Les cinq du détachement Corvel
+Varro Selt ne raconte pas d’où viennent ses mains. On sait seulement qu’elles savent ouvrir ce qui refuse de l’être, et refermer ce qui a trop parlé. Il a servi dans des brigades dont les noms ne figurent sur aucune feuille ; il est là pour ce qui ne peut pas se régler à la plume. Il respecte Théven parce que Théven ne lui demande jamais d’être propre quand il faut être précis.
 
-**Théven Corvel** — chef de mission. Il vient des bureaux de **cartes opérationnelles** (ports, sceaux, lignes de renseignement). Il a porté le dossier fer avant même que la mer ne confirme les pertes. À quarante-deux ans il **tranche** les arbitrages avec la ligne Elfrion ; il décide ce qui peut passer au rapport et ce qui doit rester hors feuille.
+Miraen Talvas est entré par la grande porte des casinos avant d’entrer par la petite porte du service. Il connaît le bruit des jetons comme d’autres connaissent le cri des mouettes : ce n’est pas un talent qu’on enseigne à l’école du Primat, c’est une espèce de grâce suspecte. On l’a pris pour tenir les tables d’Ulgarth du côté du détachement — couverture crédible, accès aux salles où les autres ne passent qu’avec un masque. Ce que le récit partagé ne détaille pas appartient aux briefs serrés ; le groupe sait seulement qu’à lui confier le Tripot, c’est miser sur le visage qu’on montre au monde.
 
-**Ysel Marivent** — officier de renseignement. Issue des **quais** et des **registres**, elle travaille **coffres**, archives et doubles livres ; elle connaît l’UBI par copies et rumeurs sans s’y être brûlée.
+## III — La forge de la cellule
 
-**Lucan Drest** — négociateur et couverture « convention ». **Interprète** formé sur les langues du Levant ; tient **salons**, **quais** et menaces dans le même tempo.
+Vous ne vous êtes pas rencontrés par hasard dans un couloir du Primat. On vous a convoqués séparément, des mois écartés parfois, toujours dans la même salle sans fenêtre où l’air sent le papier brûlé et l’encre fraîche. On vous a dit la même phrase, à chacun : « On ne vous demande pas d’être loyal à un drapeau qu’on ne hisse pas. On vous demande d’être utile à une ligne qu’on ne signe pas. »
 
-**Varro Selt** — infiltration et exécution quand la **plume** ne suffit pas. Brigades dont les noms ne sont pas sur les feuilles officielles ; il respecte Théven parce que celui-ci ne lui demande pas la propreté quand il faut la **précision**.
+La forge a commencé par une simulation — un Il-Rion de carton-pâte, des archives factices, une sirène qui hurlait trop tôt. Vous avez échoué la première fois : trop de parole, pas assez de silence. La deuxième fois, quelqu’un — Varro — a bloqué une porte avec le corps ; Ysel a lu le faux registre plus vite que l’instructeur ne l’attendait ; Lucan a tenu un gardien en conversation assez longtemps pour que Théven tranche la priorité sans crier ; Miraen a feint la panique là où il fallait qu’on regarde ailleurs. Quand la sirène s’est tue, vous étiez encore debout, essoufflés, pas encore une équipe mais déjà une chaîne.
 
-**Miraen Talvas** — couverture **Tripot** : habitué des salles, accès crédible aux **tables** et aux **flux** du casino pour le détachement. Le détail des angles personnels relève des briefs MJ et des fiches ; le groupe sait qu’il est l’interface maison de jeu.
+Après coup, dans la pièce où l’on vous servait du thé trop fort, Théven avait posé sur la table une seule question : « Qui aurait craqué si c’avait été vrai ? » Personne n’a répondu tout de suite. C’était peut-être la meilleure réponse — et celle que le MiVI voulait entendre avant de vous envoyer vers de vrais registres, de vrais coffres, de vrais morts possibles au bout des décisions.
 
----
+On vous a donné le nom de Corvel — du nom de jeune fille de la mère de Théven, femme de chiffres qu’on n’inscrit nulle part et qui pourtant a tout pesé dans la carrière du fils. Ce n’est pas un hommage sentimental public : c’est une étiquette interne pour dire que vos erreurs retomberont sur une table où quelqu’un sait additionner.
 
-## IV — Forge de l’équipe et mission à Staal
+La mission suivante, réelle celle-là, vous a pris à Staal pour une nuit — récupération d’une copie de correspondance avant qu’elle ne parte dans une malle diplomatique. Rien d’épique sur le papier ; sur le terrain, un prévôt a changé d’itinéraire, une lampe a grésillé, et c’est Lucan qui a inventé une histoire de dette d’honneur assez belle pour qu’on lui laisse passer un message dans l’autre sens. Vous êtes ressortis avec la copie et avec quelque chose d’autre : la certitude que chacun sait où se placer quand le plan se déchire.
 
-On vous a convoqués **séparément** dans une même salle sans fenêtre. La phrase reçue était la même pour chacun : être utile à une **ligne qu’on ne signe pas**.
+Depuis dix-huit mois, vous vous voyez entre les missions comme on voit des parenthèses : rarement, mais avec une netteté qui compte. Théven a le dernier mot sur les arbitrages ; Ysel sur ce qui touche aux coffres et aux preuves ; Lucan sur les couvertures parlées ; Varro sur ce qui doit cesser de respirer ; Miraen sur ce qui se joue à la lumière des chandeliers. Ce n’est pas toujours confortable. C’est cohérent.
 
-Une **simulation** (fausses archives, fausse alerte) a servi de test. Premier essai : trop de parole. Deuxième essai : Varro bloque une porte ; Ysel lit vite ; Lucan retient un gardien ; Théven fixe la priorité sans hausser le ton ; Miraen détourne le regard de la salle. Ensuite, une question posée à table : qui aurait craqué si le scénario avait été réel ? Personne n’a répondu tout de suite.
+## IV — Ulgarth vous attend
 
-Le détachement porte le nom **Corvel** (référence interne liée à la mère de Théven, femme de chiffres — **étiquette de service**, pas hommage public).
+Vous venez en particulier pour demander des comptes aux chefs de la mafia — plans, ressources, risques pris — sur l’opération de détournement du fer en priorité absolue, puis sur le blocage du Tripot et ce qu’ils ont réellement avancé sur la nomination au futur conseil UBI, ligne favorable à la réunion d’Arthas et de Ther-Félis. Sans réponses tenables sur la chaîne maritime, les sceaux et la disparition du bon minerai, la pression sur les deux autres dossiers ne sera que du bruit.
 
-Une mission **réelle** vous a menés à **Staal** : récupérer une copie de correspondance avant une malle diplomatique. Sur le terrain, imprévus ; Lucan a gagné du temps par la parole ; vous êtes sortis avec la copie et avec la certitude que chacun sait où se placer quand le plan se déchire.
+La Convention vous ramène à Ulgarth au pire moment pour la Confédération et le meilleur pour le calendrier styrgien : régate, renouvellements, marchés réouverts, nerfs à vif. Vous arrivez sous une couverture qu’il faudra tenir comme une armure — délégation, experts, consultants d’une maison maritime, selon ce qu’on aura validé pour vous. Pas de bannière, pas de discours : si Elfrion voulait un spectacle, il enverrait un autre corps.
 
-Depuis environ **dix-huit mois**, vous vous croisez entre missions par **parenthèses** courtes. Théven : dernier mot sur les arbitrages. Ysel : coffres et preuves. Lucan : couvertures parlées. Varro : ce qui doit s’arrêter sans débat. Miraen : ce qui se joue en lumière au Tripot.
+Sur place, le terrain est un triangle habité : le casino attire l’or et les langues ; la banque retient les preuves et les dettes ; le réseau — Sangs et Guilde des Ports Unis — pousse pour agrandir sa part du jeu et déteste qu’on lui résiste. Entre ces trois feux, il y a des rencontres qu’on ne peut plus reculer indéfiniment — et des rivaux qui chassent les mêmes dossiers que vous, parfois avec un uniforme, parfois avec un sourire.
 
----
+Vous n’êtes pas médiateurs. Vous êtes ceux qui décident si une tension doit durer, s’enflammer, ou profiter à la ligne qu’on vous a donnée — y compris quand la ligne exige que des négociations propres échouent, pour que le bloc confédéral ne se referme pas trop tôt sur une paix confortable. C’est un métier qui laisse des cicatrices. Vous l’avez accepté en signant — chacun de votre main, la même année, dans la même encre qui ne sèche jamais tout à fait.
 
-## V — Ulghart : Convention et Régate
+## V — Couverture et Rumeurs
 
-Vous venez pour la Convention pour **exiger des comptes** aux **cadres des Sangs** — en priorité sur le **fer**, puis sur le **Tripot** et sur ce qu’ils ont réellement avancé sur la **nomination au conseil UBI** (ligne Arthas / Ther-Félis). Sans réponses tenables sur la chaîne maritime et la disparition du bon minerai, la pression sur les autres dossiers reste du bruit.
+Il n’est pas facile de s’incruster à Ulghart. Sans bonnes raisons, vous seriez vite démasqués. Si le MiVI dispose de ressources étonnantes, c’est surtout grâce à vos capacités d’improvisation que vous avez pu trouver la raison et le moment idéaux pour vous introduire dans le site.
 
-Vous arrivez sous **couverture** (délégation, experts, consultants maritimes — selon validation orga). Pas de bannière Styrgie en façade.
+Arrivés avec un prétexte délicat à défendre sur place (je vous laisse l’imaginer : c’est aussi une porte de sortie pour vous), à deux jours du Fort en passant par les terres — le chemin le plus dangereux, et pour cause —, vous interceptez un groupe de Questeurs, en charge de l’enquête portant sur les 6 gardiens de la banque retrouvés morts dernièrement.
 
-Sur place, trois pôles se croisent : le **Tripot** attire l’or et les langues ; l’**UBI** retient coffres et dettes ; le réseau **Sangs / Guilde** pousse pour agrandir sa part et résiste aux ordres qu’il ne veut pas payer. D’autres acteurs chassent les **mêmes pièces** (services confédéraux, familles).
+Les Questeurs sont des gens puissants au sein de la Confédération. Ils disposent de pouvoirs législatifs élevés dès lors que leurs enquêtes démontrent l’intervention du surnaturel, de la magie. Vous endossez leurs personnes après un malheureux accident d’empoisonnement à la hache, et vous arrivez sur place avec un sentiment de toute-puissance : en règle générale, on n’énerve pas les Questeurs.
 
-Vous n’êtes pas médiateurs neutres : vous décidez si une tension doit durer, monter ou servir la ligne reçue — y compris lorsque la ligne impose que des **négociations propres** échouent pour éviter qu’un bloc confédéral ne se referme trop vite sur une paix confortable.
-
----
+Vous trouverez toutes sortes de documents qui vous permettront, ou pas, de jouer leur rôle. Bien entendu, il faudra faire preuve d’inspiration et de créativité : vous n’avez aucune idée de leurs méthodes, de leurs compétences ni de leurs moyens. En revanche, vous avez les pouvoirs dont parle la lettre d’ordre des Oblats retrouvée sur le corps *(texte : `Lettre_ordre_Oblats_Questeur_Montfou.md` dans ce dossier).* Le Questeur officiellement désigné pour l’enquête y est nommé messire Ydrael Montfou ; la demande d’instruction est actée au nom de messire Horgrim Dval, chef de la Garde du fort d’Ulghart.
 
 ## Résumé des objectifs
 
-- **Rendre compte à Elfrion** : bilan **chiffré** et **nommé** sur fer, Tripot, nominations au conseil UBI (ligne Arthas / Ther-Félis), routes — pas seulement des rumeurs.
-- **Resserrer la vis sur les cadres des Sangs** : plans, ressources, risques ; priorité au dossier **fer** (mer, pirates, Palyr, Sfaal, règlements) puis Tripot puis levier **conseil UBI**.
-- **Archives et coffres UBI** : trouver, effacer ou substituer ce qui pourrait documenter une guerre imminente contre la Styrgie — avant qu’un concurrent n’y mette la main.
-- **Cartographier la rumeur Arguétheim / or → métal** : qui tire les ficelles côté confédéral, où ça bloque, sabotage ou fuite contrôlée selon la ligne.
-- **Routes et mer** : orienter concrètement régate, escales, fret et rabais vers des **intermédiaires** d’**Arthas** et **Ther-Félis** alignés sur la ligne utile à la Styrgie ; faciliter une **prise d’influence** sur l’UBI par cette porte plutôt qu’en assaillant la banque de front ; éviter l’**embargo ouvert** qui rallierait toute la Confédération.
-- **Appuis lointains** : entretenir les contacts utiles sans les exposer.
-- **Tripot** : salle d’écoute, levier et risque — selon couvertures et briefs.
+- Rendre compte à Elfrion : bilan chiffré et nommé sur fer, Tripot, nominations au conseil UBI (ligne Arthas / Ther-Félis), routes — pas seulement des rumeurs.
+- Resserrer la vis sur les cadres des Sangs : plans, ressources, risques ; priorité au dossier fer (mer, pirates, Palyr, Sfaal, règlements) puis Tripot puis levier conseil UBI.
+- Archives et coffres UBI : trouver, effacer ou substituer ce qui pourrait documenter une guerre imminente contre la Styrgie — avant qu’un concurrent n’y mette la main.
+- Cartographier la rumeur Arguétheim / or → métal : qui tire les ficelles côté confédéral, où ça bloque, sabotage ou fuite contrôlée selon la ligne.
+- Routes et mer : orienter concrètement régate, escales, fret et rabais vers des intermédiaires d’Arthas et Ther-Félis alignés sur la ligne utile à la Styrgie ; faciliter une prise d’influence sur l’UBI par cette porte plutôt qu’en assaillant la banque de front ; éviter l’embargo ouvert qui rallierait toute la Confédération.
+- Appuis lointains : entretenir les contacts utiles sans les exposer.
+- Tripot : salle d’écoute, levier et risque — selon couvertures et briefs.
 
 ---
 
