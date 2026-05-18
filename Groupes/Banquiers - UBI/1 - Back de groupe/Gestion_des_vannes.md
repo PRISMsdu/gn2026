@@ -16,7 +16,6 @@ Ce document décrit le fonctionnement du dispositif de protection des couloirs b
 
 **Règle d’exclusion** : les deux vannes ne doivent pas rester ouvertes en même temps sur une même manœuvre de routine. L’inondation se fait par fermeture de l’évacuation puis ouverture de l’alimentation ; le vidage, par l’inverse.
 
-**Poste de commande** : la roue dentée est fixée sur l’arbre des vannes en fin de service ou en début de service. Entre les deux, elle est retirée et rangée au coffre du poste, afin qu’aucune manœuvre accidentelle ne soit possible sans personnel autorisé.
 
 ---
 
@@ -32,17 +31,17 @@ Ce document décrit le fonctionnement du dispositif de protection des couloirs b
 
 ## Qui peut manœuvrer les vannes
 
-**Droit général** : tout membre du personnel de l’agence UBI d’Ulghart peut, en théorie, exécuter la manœuvre s’il détient la roue et connaît la séquence. En pratique, la banque tient à ce que **la même personne** enchaîne les cycles d’ouverture et de fermeture, pour limiter les erreurs de position et les oublis de consignation.
+**Droit général** : tout membre du personnel de l’agence UBI d’Ulghart peut, en théorie, exécuter la manœuvre s’il connaît la séquence. En pratique, la banque tient à ce que **la même personne** enchaîne les cycles d’ouverture et de fermeture, pour limiter les erreurs de position et les oublis de consignation.
 
-**Opérateur de référence** : **Sybrel Dornik**, chargée de la surveillance des tunnels et coursives bas, est l’opératrice habituelle. Son périmètre inclut le poste des vannes et les feuilles de ronde associées ; elle rend compte au **chef de garde** (Horgrim Dval) des anomalies constatées sur les couloirs.
+**Opérateur de référence** : **Corvus**, gardien des coffres et maître des clés, exécute la manœuvre habituelle. Le poste des vannes relève de la chaîne des clés : il fixe ou retire la roue dentée, assure le vidage à dix heures et l’inondation à vingt et une heures, et consigne chaque cycle sur la feuille de ronde du poste vannes. Il signale au **chef de garde** (Horgrim Dval) et au **directeur** toute anomalie sur les couloirs bas.
 
-**Suppléance** : en son absence, le chef de garde désigne un remplaçant pour la journée et le fait inscrire au registre. Le gardien de coffres n’exécute pas la manœuvre de routine, sauf ordre écrit du directeur en cas d’urgence.
+**Suppléance** : en l’absence de Corvus, le chef de garde désigne un remplaçant pour la journée et le fait inscrire au registre. La roue ne quitte la chaîne des clés que sous double contrôle gardien de coffres / directeur, sauf urgence consignée par écrit.
 
 ---
 
 ## Connaissance et confidentialité
 
-**Détail technique** : le tracé exact des canalisations, la course des vannes et la tenue des roues dentées de rechange ne sont détaillés que pour l’opérateur de référence, le chef de garde et le directeur de la banque. Les autres postes savent que l’inondation **ferme** l’accès aux coffres ; ils n’ont pas à mémoriser la séquence complète.
+**Détail technique** : le tracé exact des canalisations, la course des vannes et la tenue des roues dentées de rechange ne sont détaillés que pour le gardien de coffres (opérateur de référence), le chef de garde et le directeur de la banque. Les autres postes savent que l’inondation **ferme** l’accès aux coffres ; ils n’ont pas à mémoriser la séquence complète.
 
 **Registre** : chaque cycle (vidage matin, inondation soir) est coché sur la feuille de ronde du poste vannes, avec heure et initiales. Toute manœuvre hors horaire est datée, motivée en une ligne, et signée par le directeur ou le chef de garde.
 

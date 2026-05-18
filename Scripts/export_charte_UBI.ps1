@@ -1,10 +1,10 @@
 <#
   Export HTML + PDF parchemin medieval pour la Charte Fondatrice de l'UBI.
 
-  Identique a export_avis.ps1, avec une difference :
-  le bloc de signatures (liste markdown "- **Cite** : [chemin_blason]")
-  est remplace par un cartouche enlumines par signataire :
-    Pour [Cite]  ->  blason  ->  signature calligraphiee  ->  ligne  ->  nom de la cite
+  Identique a export_avis.ps1 pour le flux signatures :
+  marqueurs (*Signature*: Nom) dans le .md, PNG via generate_signature_ink.ps1
+  (Expand-MarkdownExportSignatures.ps1). Apres Pandoc, les blocs cite + blason + signature
+  sont regroupes en cartouche enlumine (grille charte-signatures).
 
   Prerequis :
     - Pandoc dans le PATH (https://pandoc.org)
@@ -17,6 +17,9 @@
 
   Sortie dans le meme repertoire que le .md :
     - Charte_UBI_yyyyMMdd_HHmmss.pdf
+
+  Les blasons LivretsLocaux (souvent 2-3 Mo chacun) sont redimensionnes avant PDF
+  (voir Export-ImageForPrint.ps1) : Chrome embarquait les PNG pleine resolution (~16 Mo au total).
 #>
 
 [CmdletBinding()]
@@ -30,32 +33,15 @@ param(
   [ValidateSet('Auto', 'Chrome', 'Edge')]
   [string] $Browser = 'Auto',
   [string] $ChromePath = "",
-  [string] $PandocPath = ""
+  [string] $PandocPath = "",
+  [switch] $ForceSignatures
 )
 
 $ErrorActionPreference = "Stop"
+. (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+. (Join-Path $PSScriptRoot 'Expand-MarkdownExportSignatures.ps1')
 
-# Noms calligraphies des representants par cite.
-# La cle doit correspondre exactement au gras dans le markdown.
-$signataireNoms = @{
-  'Il-Irion'   = 'Aelindra Vorn'
-  'Staal'      = 'Gordas Fen-Mael'
-  'Palyr'      = 'Lysa Morwyn'
-  'Ther-Felis' = 'Caelindis Thar'
-  'Arthas'     = 'Borghal Fervaine'
-}
-
-# Chemins absolus des blasons par cite.
-# Construits automatiquement depuis le dossier LivretsLocaux/Blasons
-# (un niveau au-dessus du dossier Scripts/).
-$blasonDir = Join-Path (Split-Path -Parent $PSScriptRoot) 'LivretsLocaux\Blasons'
-$signataireBlasons = @{
-  'Il-Irion'   = Join-Path $blasonDir 'Blason_Il-Irion_+.png'
-  'Staal'      = Join-Path $blasonDir 'Blason_Sfaal_+.png'
-  'Palyr'      = Join-Path $blasonDir 'Blason_Palyr_+.png'
-  'Ther-Felis' = Join-Path $blasonDir "Blason_Ther-F$([char]0xe9)lis_+.png"
-  'Arthas'     = Join-Path $blasonDir 'Blason_Arthas_+.png'
-}
+$exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
 # ---------------------------------------------------------------------------
 # Fonctions utilitaires (identiques a export_avis.ps1)
@@ -192,153 +178,144 @@ function ConvertTo-FileUri {
 }
 
 # ---------------------------------------------------------------------------
-# Cle interne pour blasons / noms (le markdown peut dire "Sfaal", le script "Staal").
+# Blason : chemin local depuis href Pandoc (file:// ou chemin Windows)
 # ---------------------------------------------------------------------------
-function Resolve-CiteKey {
-  param([string] $Cite)
-  $c = $Cite.Trim()
-  if ($c -eq 'Sfaal') { return 'Staal' }
-  return $c
-}
-
-# ---------------------------------------------------------------------------
-# Trace vectoriel type encre (courbes de Bézier, pas de police manuscrite).
-# Deterministe : meme graine -> meme signature a chaque export.
-# ---------------------------------------------------------------------------
-function Build-InkPathD {
-  param([string] $Seed)
-  $bytes = [System.Security.Cryptography.SHA256]::Create().ComputeHash(
-    [System.Text.Encoding]::UTF8.GetBytes($Seed))
-  $b = { param([int] $i) [int]$bytes[$i % 32] }
-  $n = 9
-  $xb = 6.0
-  $xe = 194.0
-  $inv = [Globalization.CultureInfo]::InvariantCulture
-  $parts = [System.Text.StringBuilder]::new()
-  $prevX = $xb + (& $b 0) / 40.0
-  $prevY = 22.0 + ([int](& $b 1) - 128) / 18.0
-  [void]$parts.AppendFormat($inv, 'M{0:0.##},{1:0.##}', $prevX, $prevY)
-  for ($k = 1; $k -le $n; $k++) {
-    $t = $k / $n
-    $x = $xb + $t * ($xe - $xb) + ([int](& $b ($k + 2)) - 128) / 35.0
-    $y = 22.0 + [math]::Sin($t * 5.2 + (& $b 5) / 50.0) * 11.0 + ([int](& $b ($k + 10)) - 128) / 28.0
-    $c1x = $prevX + ($x - $prevX) * 0.35 + ([int](& $b ($k + 15)) - 128) / 25.0
-    $c1y = $prevY + ([int](& $b ($k + 16)) - 128) / 22.0
-    $c2x = $prevX + ($x - $prevX) * 0.72 + ([int](& $b ($k + 17)) - 128) / 26.0
-    $c2y = $y + ([int](& $b ($k + 18)) - 128) / 30.0
-    [void]$parts.AppendFormat($inv, 'C{0:0.##},{1:0.##},{2:0.##},{3:0.##},{4:0.##},{5:0.##}',
-      $c1x, $c1y, $c2x, $c2y, $x, $y)
-    $prevX = $x
-    $prevY = $y
+function ConvertFrom-BlasonHrefToPath {
+  param([string] $Href)
+  if ([string]::IsNullOrWhiteSpace($Href)) { return $null }
+  $h = $Href.Trim()
+  if ($h -match '^file:///(.+)$') {
+    return [Uri]::UnescapeDataString($Matches[1]).Replace('/', [IO.Path]::DirectorySeparatorChar)
   }
-  # Petit juron final (boucle d'encre)
-  $fx = [math]::Min(198.0, $prevX + 5.0 + (& $b 24) / 40.0)
-  $fy = $prevY - 4.0 - (& $b 25) / 50.0
-  $mx = ($prevX + $fx) / 2.0 + ([int](& $b 26) - 128) / 30.0
-  $my = ($prevY + $fy) / 2.0 - 3.0 - (& $b 27) / 45.0
-  [void]$parts.AppendFormat($inv, 'Q{0:0.##},{1:0.##},{2:0.##},{3:0.##}', $mx, $my, $fx, $fy)
-  return $parts.ToString()
-}
-
-function Get-InkSignatureSvgHtml {
-  param([string] $Seed)
-  if ([string]::IsNullOrWhiteSpace($Seed)) { $Seed = '?' }
-  $pathD = Build-InkPathD -Seed $Seed
-  $id = [System.BitConverter]::ToString(
-    [System.Security.Cryptography.MD5]::Create().ComputeHash(
-      [System.Text.Encoding]::UTF8.GetBytes($Seed))).Replace('-', '').Substring(0, 10)
-  $html = @"
-      <div class="charte-sig-ink-wrap">
-        <svg class="charte-sig-ink" viewBox="0 0 200 48" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <defs>
-            <filter id="ink-soft-$id" x="-5%" y="-5%" width="110%" height="110%">
-              <feGaussianBlur in="SourceGraphic" stdDeviation="0.18" result="b" />
-              <feMerge>
-                <feMergeNode in="b" />
-                <feMergeNode in="SourceGraphic" />
-              </feMerge>
-            </filter>
-          </defs>
-          <path class="charte-sig-ink-under" d="$pathD" fill="none" stroke="#684434" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round" opacity="0.22" />
-          <path class="charte-sig-ink-main" d="$pathD" fill="none" stroke="#1f1210" stroke-width="1.18" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink-soft-$id)" />
-        </svg>
-      </div>
-"@
-  return $html
+  if ($h -match '^file://(.+)$') {
+    return [Uri]::UnescapeDataString($Matches[1]).Replace('/', [IO.Path]::DirectorySeparatorChar)
+  }
+  if (Test-Path -LiteralPath $h) { return (Resolve-Path -LiteralPath $h).Path }
+  return $null
 }
 
 # ---------------------------------------------------------------------------
-# Construction du bloc de signatures enluminees
-# Detecte la <ul> contenant des items "- **Cite** : [...]"
-# et la remplace par un cartouche HTML par signataire.
-# Les blasons sont fournis via $BlasonsByCite (hashtable cite -> chemin absolu).
+# Cartouche signatures : **Cite** : [blason] + (*Signature*: Nom) -> PNG ink
 # ---------------------------------------------------------------------------
-function Build-SignatureBlock {
+$script:CharteSignatoryCities = @(
+  'Il-Irion', 'Sfaal', 'Staal', 'Palyr', 'Ther-Felis', 'Ther-Félis', 'Arthas'
+)
+
+function Remove-CharteClosingFormulaFromHtml {
+  param([string] $BodyHtml)
+  # Retire la formule de clôture (souvent sur plusieurs lignes après Pandoc).
+  $rx = '(?is)<p>\s*<strong>\s*Sign.*?scell.*?</strong>\s*</p>\s*'
+  return [regex]::Replace($BodyHtml, $rx, '')
+}
+
+function New-CharteSignatureCartoucheHtml {
   param(
-    [string]    $BodyHtml,
-    [hashtable] $NomsByCite,
-    [hashtable] $BlasonsByCite
+    [System.Text.RegularExpressions.Match] $Match,
+    [hashtable] $BlasonByCite,
+    [string] $ImageCacheDir,
+    [string] $HtmlAbsolutePath
   )
-
-  # Trouve la <ul> qui contient au moins un item de type : <strong>X</strong> : [...]
-  $ulPattern   = '(?s)<ul>.*?</ul>'
-  $itemPattern = '<strong>([^<]+)</strong>\s*:\s*\['
-  $sigListMatch = $null
-
-  foreach ($m in [regex]::Matches($BodyHtml, $ulPattern)) {
-    if ([regex]::IsMatch($m.Value, $itemPattern)) {
-      $sigListMatch = $m
-      break
+  $cite = $Match.Groups['cite'].Value.Trim()
+  $citeEnc = [System.Net.WebUtility]::HtmlEncode($cite)
+  $between = $Match.Value
+  $blasonPath = $null
+  if ($between -match '<img\s[^>]*src="([^"]+)"') {
+    $blasonPath = ConvertFrom-BlasonHrefToPath -Href $Matches[1]
+    if (-not $blasonPath) {
+      $rel = $Matches[1] -replace '/', '\'
+      $fromHtml = Join-Path (Split-Path -Parent $HtmlAbsolutePath) $rel
+      if (Test-Path -LiteralPath $fromHtml) { $blasonPath = (Resolve-Path -LiteralPath $fromHtml).Path }
     }
   }
+  if (-not $blasonPath -and $BlasonByCite.ContainsKey($cite)) {
+    $blasonPath = $BlasonByCite[$cite]
+  }
 
-  if (-not $sigListMatch) {
-    Write-Warning 'Bloc de signatures non detecte dans le HTML genere - la liste reste inchangee.'
+  if ($blasonPath -and (Test-Path -LiteralPath $blasonPath)) {
+    $blasonPrint = Optimize-ExportImageForPrint -SourcePath $blasonPath -MaxEdgePx 160 -CacheDir $ImageCacheDir
+    $imgUri = ConvertTo-FileUri -AbsolutePath $blasonPrint
+    $imgHtml = '<img src="' + $imgUri + '" class="charte-sig-blason" alt="Blason ' + $citeEnc + '" />'
+  } else {
+    if ($cite) { Write-Warning "Blason introuvable pour $cite" }
+    $imgHtml = '<div class="charte-sig-blason-vide"></div>'
+  }
+
+  $sigBlock = $Match.Groups['sig'].Value.Trim()
+  $nomEnc = $citeEnc
+  if ($sigBlock -match 'alt="([^"]+)"') {
+    $nomEnc = [System.Net.WebUtility]::HtmlEncode($Matches[1])
+  }
+
+  return (
+    "`n    <div class=`"charte-signature`">" +
+    "`n      <div class=`"charte-sig-pour`">Pour $citeEnc</div>" +
+    "`n      $imgHtml" +
+    "`n      <div class=`"charte-sig-ink-wrap`"><div class=`"doc-export-signature charte-sig-ink-slot`">$sigBlock</div></div>" +
+    "`n      <div class=`"charte-sig-nom-legible`">$nomEnc</div>" +
+    "`n      <div class=`"charte-sig-ligne`"></div>" +
+    "`n      <div class=`"charte-sig-label`">$citeEnc</div>" +
+    "`n    </div>"
+  )
+}
+
+function Build-CharteSignatureBlockFromHtml {
+  param(
+    [string] $BodyHtml,
+    [string] $ImageCacheDir,
+    [string] $HtmlAbsolutePath
+  )
+
+  $BodyHtml = Remove-CharteClosingFormulaFromHtml -BodyHtml $BodyHtml
+
+  $blasonDir = Join-Path (Split-Path -Parent $PSScriptRoot) 'LivretsLocaux\Blasons'
+  $blasonByCite = @{
+    'Il-Irion'   = Join-Path $blasonDir 'Blason_Il-Irion_+.png'
+    'Sfaal'      = Join-Path $blasonDir 'Blason_Sfaal_+.png'
+    'Staal'      = Join-Path $blasonDir 'Blason_Sfaal_+.png'
+    'Palyr'      = Join-Path $blasonDir 'Blason_Palyr_+.png'
+    'Ther-Felis' = Join-Path $blasonDir "Blason_Ther-F$([char]0xe9)lis_+.png"
+    'Ther-Félis' = Join-Path $blasonDir "Blason_Ther-F$([char]0xe9)lis_+.png"
+    'Arthas'     = Join-Path $blasonDir 'Blason_Arthas_+.png'
+  }
+
+  $citeAlternation = ($script:CharteSignatoryCities | ForEach-Object { [regex]::Escape($_) }) -join '|'
+  $itemRx = [regex]::new(
+    "(?s)<p>\s*<strong>(?<cite>$citeAlternation)</strong>.*?</p>\s*<div class=`"doc-export-signature`"[^>]*>(?<sig>.*?)</div>",
+    [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+
+  $matches = @($itemRx.Matches($BodyHtml))
+  if ($matches.Count -eq 0) {
+    Write-Warning 'Bloc signatures charte non detecte (cite + (*Signature*: ...) attendus dans le HTML).'
     return $BodyHtml
   }
 
-  $items = [regex]::Matches($sigListMatch.Value, $itemPattern)
-  $sb    = [System.Text.StringBuilder]::new()
+  $firstIndex = $matches[0].Index
+  $lastIndex = $matches[$matches.Count - 1].Index + $matches[$matches.Count - 1].Length
 
-  foreach ($item in $items) {
-    $cite      = $item.Groups[1].Value.Trim()
-    $citeKey   = Resolve-CiteKey -Cite $cite
-    $nom       = if ($NomsByCite.ContainsKey($citeKey))    { $NomsByCite[$citeKey] }    else { '' }
-    $imgPath   = if ($BlasonsByCite.ContainsKey($citeKey)) { $BlasonsByCite[$citeKey] } else { '' }
-
-    $citeEnc = [System.Net.WebUtility]::HtmlEncode($cite)
-    $nomEnc  = [System.Net.WebUtility]::HtmlEncode($nom)
-    $seedInk = "${nom}|${citeKey}"
-    $inkHtml = Get-InkSignatureSvgHtml -Seed $seedInk
-
-    if ($imgPath -and (Test-Path -LiteralPath $imgPath -ErrorAction SilentlyContinue)) {
-      $imgUri  = ConvertTo-FileUri -AbsolutePath $imgPath
-      $imgHtml = '<img src="' + $imgUri + '" class="charte-sig-blason" alt="Blason ' + $citeEnc + '" />'
+  $row1 = [System.Text.StringBuilder]::new()
+  $row2 = [System.Text.StringBuilder]::new()
+  for ($i = 0; $i -lt $matches.Count; $i++) {
+    $cartouche = New-CharteSignatureCartoucheHtml -Match $matches[$i] `
+      -BlasonByCite $blasonByCite -ImageCacheDir $ImageCacheDir -HtmlAbsolutePath $HtmlAbsolutePath
+    if ($i -lt 3) {
+      [void]$row1.Append($cartouche)
     } else {
-      if ($imgPath) { Write-Warning "Blason introuvable : $imgPath" }
-      $imgHtml = '<div class="charte-sig-blason-vide"></div>'
+      [void]$row2.Append($cartouche)
     }
-
-    [void]$sb.Append(
-      "`n    <div class=" + '"' + 'charte-signature' + '"' + '>' +
-      "`n      <div class=" + '"' + 'charte-sig-pour' + '"' + ">Pour $citeEnc</div>" +
-      "`n      $imgHtml" +
-      "`n      $inkHtml" +
-      "`n      <div class=" + '"' + 'charte-sig-nom-legible' + '"' + ">$nomEnc</div>" +
-      "`n      <div class=" + '"' + 'charte-sig-ligne' + '"' + '></div>' +
-      "`n      <div class=" + '"' + 'charte-sig-label' + '"' + ">$citeEnc</div>" +
-      "`n    </div>"
-    )
   }
 
-  $titreTxt  = '&#10022;&ensp;Signatures des Repr&eacute;sentants&ensp;&#10022;'
+  $titreTxt = '&#10022;&ensp;Signatures des Repr&eacute;sentants&ensp;&#10022;'
   $blockHtml = '<section class="charte-signatures">' + "`n" +
-               '  <div class="charte-signatures-titre">' + $titreTxt + '</div>' + "`n" +
-               '  <div class="charte-signatures-grille">' + $sb.ToString() + "`n  </div>" + "`n" +
-               '</section>'
+    '  <div class="charte-signatures-titre">' + $titreTxt + '</div>' + "`n" +
+    '  <div class="charte-signatures-grille">' + "`n" +
+    '    <div class="charte-signatures-row charte-signatures-row-trois">' + $row1.ToString() + "`n    </div>" + "`n" +
+    '    <div class="charte-signatures-row charte-signatures-row-deux">' + $row2.ToString() + "`n    </div>" + "`n" +
+    '  </div>' + "`n" +
+    '</section>'
 
-  return $BodyHtml.Replace($sigListMatch.Value, $blockHtml)
+  return $BodyHtml.Substring(0, $firstIndex) + $blockHtml + $BodyHtml.Substring($lastIndex)
 }
+
 
 # ---------------------------------------------------------------------------
 # Resolution du chemin .md
@@ -368,22 +345,40 @@ if (-not (Test-Path -LiteralPath $outDir)) {
 $pandocExe = Get-PandocExecutable -ExplicitPath $PandocPath
 if (-not $pandocExe) { Write-Error 'Pandoc introuvable. Ajoutez Pandoc au PATH ou passez -PandocPath.' }
 
+$markdownUtf8Raw = Get-Content -LiteralPath $md.Path -Raw -Encoding UTF8
+$markdownSansComments = [regex]::Replace($markdownUtf8Raw, '<!--[\s\S]*?-->', '')
+
+$pandocSourcePath = $md.Path
+$tempMdExpanded = ''
+if ($markdownSansComments -match '(?msi)\(\*\s*[Ss]ignatures?\s*\*\s*:') {
+  $expandedMdText = Expand-MarkdownInkSignatureMarkers -MarkdownRaw $markdownSansComments `
+    -HtmlAbsolutePath $outFile -ScriptsPSScriptRoot $PSScriptRoot `
+    -ForceRegenerate:$ForceSignatures
+  $tempMdExpanded = [System.IO.Path]::GetTempFileName() + '.md'
+  [System.IO.File]::WriteAllText($tempMdExpanded, $expandedMdText,
+    ([System.Text.UTF8Encoding]::new($false)))
+  $pandocSourcePath = $tempMdExpanded
+}
+
 $tempBody = [System.IO.Path]::GetTempFileName() + '.html'
 try {
-  & $pandocExe $md.Path -f markdown -t html5 --standalone=false -o $tempBody
+  & $pandocExe $pandocSourcePath -f markdown -t html5 --standalone=false -o $tempBody
   $bodyInner = Get-Content -Path $tempBody -Raw -Encoding UTF8
   if ($bodyInner -match '(?s)<body[^>]*>(.*)</body>') {
     $bodyInner = $Matches[1].Trim()
   }
 } finally {
   Remove-Item -Force -LiteralPath $tempBody -ErrorAction SilentlyContinue
+  if ($tempMdExpanded -ne '') {
+    Remove-Item -Force -LiteralPath $tempMdExpanded -ErrorAction SilentlyContinue
+  }
 }
 
 # Supprimer le h1 (affiche dans l'en-tete)
 $bodyInner = [regex]::Replace($bodyInner, '(?s)<h1[^>]*>.*?</h1>', '', 1)
 
-# Remplacer la liste de signatures par le cartouche enluminé
-$bodyInner = Build-SignatureBlock -BodyHtml $bodyInner -NomsByCite $signataireNoms -BlasonsByCite $signataireBlasons
+# Regrouper cite + blason + signature PNG en cartouche charte
+$bodyInner = Build-CharteSignatureBlockFromHtml -BodyHtml $bodyInner -ImageCacheDir $exportImageCacheDir -HtmlAbsolutePath $outFile
 
 # ---------------------------------------------------------------------------
 # Blason UBI : detection dans le repertoire du .md (pour l'en-tete institution)
@@ -395,7 +390,8 @@ foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
     Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
     Select-Object -First 1
   if ($found) {
-    $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $found.FullName
+    $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+    $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
     break
   }
 }
@@ -438,10 +434,22 @@ $signatureCss = '
 
 .charte-signatures-grille {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.charte-signatures-row {
+  display: flex;
+  flex-wrap: nowrap;
   justify-content: center;
   align-items: flex-start;
-  gap: 2.25rem 1.85rem;
+  gap: 1.85rem;
+  width: 100%;
+}
+
+.charte-signatures-row-deux {
+  max-width: 22rem;
 }
 
 .charte-signature {
@@ -485,11 +493,18 @@ $signatureCss = '
   margin: 0 auto 0.35rem auto;
 }
 
-.charte-sig-ink {
-  width: 100%;
-  height: auto;
+.charte-sig-ink-slot.doc-export-signature {
+  margin: 0;
+  text-align: center;
+}
+
+.charte-sig-ink-slot img.doc-export-signature-ink {
   display: block;
-  overflow: visible;
+  width: 100%;
+  max-width: 118px;
+  max-height: 42px;
+  height: auto;
+  margin: 0 auto;
 }
 
 .charte-sig-nom-legible {

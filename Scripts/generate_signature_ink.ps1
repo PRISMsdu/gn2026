@@ -1527,7 +1527,7 @@ function Export-SvgToPng {
   }
 
   if ($MagickExe) {
-    $dpi = [int][math]::Max(96, [math]::Min(600, [math]::Round($densityRef)))
+    $dpi = [int][math]::Max(96, [math]::Min(280, [math]::Round($densityRef)))
     $bg = if ($PngBackground -eq 'Transparent') { 'none' } else { 'white' }
     $resizeArg = if ($useWidth) { ($WidthPx.ToString() + 'x') } else { ('x' + $HeightPx.ToString()) }
     if ($PngBackground -eq 'Transparent') {
@@ -1632,6 +1632,11 @@ function Export-SvgToPng {
 # Corps
 # ---------------------------------------------------------------------------
 
+$exportImageHelper = Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1'
+if (Test-Path -LiteralPath $exportImageHelper) {
+  . $exportImageHelper
+}
+
 if (-not (Test-HexColor $Ink)) { throw "Ink invalide. Utilisez #RRGGBB, ex: #1f1210  (valeur recue : $Ink)" }
 if (-not [string]::IsNullOrWhiteSpace($InkHalo)) {
   if (-not (Test-HexColor $InkHalo)) { throw "InkHalo invalide (#RRGGBB) : $InkHalo" }
@@ -1722,8 +1727,15 @@ if (-not $SkipPng) {
     Export-SvgToPng -SvgPath $svgFull -PngPath $outPng -WidthPx 0 -HeightPx $PngHeightPx `
       -MagickExe $magickExe -InkscapeExe $inksExe -PngBackground $PngBackground
   }
-  Write-Host "PNG : $(([System.IO.Path]::GetFullPath($outPng)))  (via $which)"
-  $result['PngPath'] = [System.IO.Path]::GetFullPath($outPng)
+  $pngFullPath = [System.IO.Path]::GetFullPath($outPng)
+  if (Get-Command Optimize-ExportImageForPrint -ErrorAction SilentlyContinue) {
+    $sigMaxPx = [int][math]::Min(480, [math]::Max(160, [math]::Max($PngHeightPx, $PngWidthPx) + 80))
+    $sigCache = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
+    $optPng = Optimize-ExportImageForPrint -SourcePath $pngFullPath -MaxEdgePx $sigMaxPx -CacheDir $sigCache -InPlace
+    if ($optPng) { $pngFullPath = $optPng }
+  }
+  Write-Host "PNG : $pngFullPath  (via $which)"
+  $result['PngPath'] = $pngFullPath
   $result['Renderer'] = $which
 } else {
   Write-Host "PNG omis (-SkipPng)."

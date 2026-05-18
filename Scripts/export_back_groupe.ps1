@@ -44,6 +44,8 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+. (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+$exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
 function ConvertTo-HtmlUriPath {
   param([string] $Path)
@@ -283,7 +285,8 @@ foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
 }
 
 if ($blasonPath -and ([regex]'(?s)<h1[^>]*>').IsMatch($bodyInner)) {
-  $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPath
+  $blasonPrint = Optimize-ExportImageForPrint -SourcePath $blasonPath -MaxEdgePx 192 -CacheDir $exportImageCacheDir
+  $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
   $blasonImg = "<img src=""$blasonSrc"" class=""blason-titre"" alt=""Blason du groupe"" />"
   # Injection immédiatement après la balise ouvrante <h1> (première occurrence seulement)
   $bodyInner = [regex]::Replace($bodyInner, '(<h1[^>]*>)', "`$1$blasonImg", 1)

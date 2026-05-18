@@ -75,6 +75,10 @@ Il existe un endroit sur lequel vous n'avez pas de pression, pas de relais et m�
 
 ### L’affaire du fer (route maritime Sfaal–Palyr)
 
+**Ther-Félis** détient encore le **contrat de transport du fer** confédéré, mais la cité n’a plus les moyens d’entretenir sa flotte. Les navires restent à quai ; les convois passent par **sous-traitance** à la **Guilde des Ports Unis**. Les délégués et les greffes de Ther-Félis traitent la Guilde comme un syndicat maritime reconnu : ils **ne savent pas** que c’est votre réseau. Des **écrits** (mandat, avenants, correspondance avec le représentant des routes commerciales de la Guilde) circulent dans les coffres et les registres — pièces utiles si quelqu’un relie Ther-Félis à ce qui s’est passé en mer.
+
+C’est cette porte ouverte qui vous a permis d’**organiser le détournement** lorsque le MiVI l’a exigé.
+
 Il y a **quelques mois**, sur ordre du MiVI, vous avez monté une substitution **en mer** sur la route **Sfaal–Palyr** : remplacer le **bon minerai** par du fer médiocre tout en conservant des documents d’expédition conformes à l’arrivée.
 
 À **Sfaal**, les **sceaux** et les marques devaient tenir : vous avez obtenu une **complicité interne** — récupération du sceau qui atteste le fer, copie des marques, remise du sceau à sa place. La **Guilde des Ports Unis** a tenu les relais portuaires. Les **pirates des eaux d’Albar** ont exécuté l’abordage et le transbordement. À **Palyr**, les forges et les arsenaux ont reçu le métal médiocre pendant que le **bon fer** quittait le circuit officiel.

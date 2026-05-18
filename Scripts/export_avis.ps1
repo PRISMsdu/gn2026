@@ -51,6 +51,8 @@ param(
 
 $ErrorActionPreference = "Stop"
 . (Join-Path $PSScriptRoot "Expand-MarkdownExportSignatures.ps1")
+. (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+$exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
 function ConvertTo-HtmlUriPath {
   param([string] $Path)
@@ -280,7 +282,8 @@ foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
     Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
     Select-Object -First 1
   if ($found) {
-    $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $found.FullName
+    $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+    $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
     break
   }
 }

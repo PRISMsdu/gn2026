@@ -4,7 +4,7 @@
 
 ## Ce qu'est l'UBI et pourquoi vous êtes là
 
-L'**Union bancaire d'Il-Irion** existe depuis cent quarante-cinq ans. Elle est installée dans la forteresse d'**Ulghart**, sur Il-Irion. Son rôle officiel : garder de l'**or** et des **documents** pour les cités et les familles qui lui font confiance, enregistrer les **dettes** et les **prêts** entre membres de la Confédération, tenir les **scellés** que les parties ne veulent pas garder chez elles. Les cités lui font confiance parce qu'elle est neutre — ou du moins parce qu'elle a toujours prétendu l'être.
+L'**Union bancaire d'Il-Irion** existe depuis cent cinquante ans. Son centre névralgique  est installée dans la forteresse d'**Ulghart**, sur Il-Irion. Son rôle officiel : garder de l'**or** et des **documents** pour les cités et les familles qui lui font confiance, enregistrer les **dettes** et les **prêts** entre membres de la Confédération, tenir les **scellés** que les parties ne veulent pas garder chez elles. Les cités lui font confiance parce qu'elle est neutre — ou du moins parce qu'elle a toujours prétendu l'être.
 
 Cette neutralité a un prix et des limites. L'UBI n'est pas dirigée par des techniciens sans attaches : chaque conseiller du noyau a été nommé par une cité, pour des raisons, et chaque cité attend un retour.
 
@@ -87,14 +87,14 @@ Le plan d'Edorian tient si tout le monde joue son rôle jusqu'au bout. Il ne tie
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
 | Edorian | Directeur général | Face publique, cités, familles, arbitrage de crise | Jonathan |
-| Vaelric Dorn | Discréteur | Image, rumeurs, dossiers hors registre | Paf? |
-| Ydria Ventoss | Trésorière | Or, flux, mouvements de lingots | Cha? |
+| Vaelric Dorn | Discréteur | Image, rumeurs, dossiers hors registre | Paf |
+| Ydria Ventoss | Trésorière | Or, flux, mouvements de lingots | Cha |
 | Selvara Quenndral | Archiviste & juridique | Registres, scellés inter-cités, défenses légales |Marie? |
 | Horgrim Dval | Chef de la garde | Accès, procédures, souterrains | Taloche? |
-| Melian Torv | Conseiller spirituel | Présence morale, actes officiels, contacts extérieurs | Alexandre? |
-| Kaelen Veynar | Exécuteur de contrats | Recouvrement, réseau d'influence, pression sur débiteurs | Primo? |
+| Melian Torv | Conseiller spirituel | Présence morale, actes officiels, contacts extérieurs |Alexandre|
+| Kaelen Veynar | Exécuteur de contrats | Recouvrement, réseau d'influence, pression sur débiteurs | Primo|
 | Sybrel Dornik | Ombre | Surveillance interne, tunnels, coursives | Chloé |
-| Corvus | Gardien de coffres | Clés, combinaisons, procédures d'accès | Louis? |
+| Corvus | Gardien de coffres | Clés, combinaisons, procédures d'accès | Louis |
 
 
 ---

@@ -1,6 +1,6 @@
 # Utilitaire inclus par export_doc.ps1 et export_avis.ps1 pour inserer les signatures PNG aux exports.
 # Detecte dans le Markdown les marqueurs du type :
-#   (*Signature*: Nom du signataire)
+#   (*Signature*: Nom) ou (*Signatures*: Nom)
 #   Espaces facultatifs autour de * Signature * et avant : tolérés pour relectures humaines.
 # et les remplace par du HTML brut pointant vers un PNG genere par generate_signature_ink.ps1
 # sous Scripts/Signatures/ (nom stable par hash SHA256 du texte UTF-8).
@@ -28,10 +28,11 @@ function Expand-MarkdownInkSignatureMarkers {
     [Parameter(Mandatory)][string]$MarkdownRaw,
     [Parameter(Mandatory)][string]$HtmlAbsolutePath,
     [Parameter(Mandatory)][string]$ScriptsPSScriptRoot,
-    [switch]$ForceRegenerate
+    [switch]$ForceRegenerate,
+    [int]$SignatureMaxEdgePx = 400
   )
 
-  $pattern = '(?msi)\(\*\s*[Ss]ignature\s*\*\s*:\s*([^\)]+)\)'
+  $pattern = '(?msi)\(\*\s*[Ss]ignatures?\s*\*\s*:\s*([^\)]+)\)'
   $rx = New-Object regex $pattern
 
   $genScript = Join-Path $ScriptsPSScriptRoot 'generate_signature_ink.ps1'
@@ -70,7 +71,14 @@ function Expand-MarkdownInkSignatureMarkers {
       }
     }
 
-    $rel = Get-RelativeUriBetweenFiles -FromAbsoluteFile $HtmlAbsolutePath -ToAbsoluteFile $pngAbs
+    $sigCacheDir = Join-Path $ScriptsPSScriptRoot '.export_image_cache'
+    $pngForPrint = $pngAbs
+    if (Get-Command Optimize-ExportImageForPrint -ErrorAction SilentlyContinue) {
+      $opt = Optimize-ExportImageForPrint -SourcePath $pngAbs -MaxEdgePx $SignatureMaxEdgePx -CacheDir $sigCacheDir
+      if ($opt) { $pngForPrint = $opt }
+    }
+
+    $rel = Get-RelativeUriBetweenFiles -FromAbsoluteFile $HtmlAbsolutePath -ToAbsoluteFile $pngForPrint
     $altEsc = [System.Net.WebUtility]::HtmlEncode($signatory)
     # Bloc brut accepte par Pandoc Markdown (HTML passe en sortie lorsque autorise par le format).
     $replacement = "`n<div class=`"doc-export-signature`">`n<img src=`"$rel`" alt=`"$altEsc`" class=`"doc-export-signature-ink`" />`n</div>`n"

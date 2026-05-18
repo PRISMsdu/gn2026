@@ -39,7 +39,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Gardien des clefs et des combinaisons ; nom public à l’UBI : Corvus ; alias hors banque (Sangs, filières marchandes) : Torvent Sorel ; ordres des Sangs via Kaelan Thormane ; couverture liée à la Guilde des Ports Unis. |
+| Remarques | Gardien des clefs et des combinaisons ; opérateur de référence des vannes d’inondation des couloirs bas (vidage 10 h, inondation 21 h) ; nom public à l’UBI : Corvus ; alias hors banque (Sangs, filières marchandes) : Torvent Sorel ; ordres des Sangs via Kaelan Thormane ; couverture liée à la Guilde des Ports Unis. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -126,7 +126,9 @@ Edorian, directeur de l’agence, te connaît comme homme de confiance pour les 
 
 Sur le fond, vos intérêts se rejoignent : il prépare une **sortie** qui tient avec la Régate et la passation ; tu tiens les accès sans lesquelles rien ne bouge. Tu cherches **à partir avec lui** quand le plan le permet : rester seul entre deux feux — auditeurs, conseil entrant, Sangs — te paraît plus court que la corde d’un registre mal fermé.
 
-Ydria coordonne inventaires et flux ; Selvara amène visiteurs et demandes pressantes ; Horgrim tient la sécurité visible ; Vaelric tient les récits et les partenaires ; Melian croise tes scellés sur le trésor. Chacun a sa zone ; la tienne reste celle des accès physiques et des secrets de combinaison.
+Ydria coordonne inventaires et flux ; Selvara amène visiteurs et demandes pressantes ; Horgrim tient la sécurité visible ; Vaelric tient les récits et les partenaires ; Melian croise tes scellés sur le trésor. Chacun a sa zone ; la tienne reste celle des accès physiques, des secrets de combinaison et du poste des vannes : chaque matin tu vides les couloirs bas avant l’ouverture des salles, chaque soir tu les inondes après vingt et une heures, et tu consignes la roue dentée comme une clef de plus.
+
+La note interne sur la gestion des vannes te désigne comme opérateur de référence ; Horgrim peut te désigner un remplaçant, mais en cinq ans c’est presque toujours toi qui signes la feuille de ronde du poste.
 
 Quand Kaelan te contacte, tu calcules ce que tu peux livrer sans livrer Edorian ni te dénoncer toi-même. Les « suggestions » deviennent des tests : il veut savoir si tu lui caches encore quelque chose sur le conseil.
 
@@ -150,6 +152,7 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 | Mission | Détail |
 |---------|--------|
 | Maintenir l'accès aux coffres | Tu contrôles clefs et combinaisons ; tu vérifies les doubles et les délais autorisés. |
+| Vannes d'inondation | Opérateur de référence : vidage des couloirs bas à 10 h, inondation à 21 h, roue dentée et registre du poste vannes ; signaler toute anomalie au chef de garde et au directeur. |
 | Inventaires | Tu participes aux inventaires officiels comme le règlement l'exige. |
 | Ouvertures de salles | Tu ouvres sous procédures annoncées avant la Régate lorsque plusieurs clients sensibles utilisent encore la maison. |
 | Liaison avec Kaelan Thormane | Tu reçois les ordres des Sangs par Kaelan ; tu lui rends compte sans tout lui dire sur le conseil. |
@@ -177,7 +180,8 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 | Edorian | Edorian et toi connaissez les coffres, les combinaisons et les procédures d'ouverture ; vous savez aussi que ta coopération et sa sortie dépendent l'une de l'autre quand la Régate referme le mandat. |
 | Ydria | Tu sais qu'elle exige des inventaires propres et des dates respectées. |
 | Selvara | Tu vois les noms et les heures qu'elle amène ; elle sait que tu bloques toute ouverture hors procédure. |
-| Horgrim | Tu coordonnes les accès physiques quand sa sécurité impose des rondes ou des verrouillages. |
+| Horgrim | Tu coordonnes les accès physiques quand sa sécurité impose des rondes ou des verrouillages ; tu lui rends compte des cycles vannes et des anomalies sur les couloirs bas. |
+| Vannes et couloirs bas | Tu connais la séquence d’alimentation et d’évacuation, l’emplacement de la roue de rechange et la feuille de ronde du poste ; tant que les couloirs sont inondés, personne n’atteint les salles des coffres sans déroger à la procédure. |
 | Vaelric | Ta couverture marchande via la Guilde des Ports Unis peut croiser ses partenariats ; vous évitez les contradictions publiques. |
 | Melian | Vous croisez les flux et les scellés ; une erreur de son côté ou du tien se lit vite sur les écarts. |
 | Kaelan Thormane | Tu es son relais à l’Union sous le nom **Corvus** ; il connaît **Torvent Sorel** comme ton alias hors banque. Il te soupçonne de lui cacher ce que le noyau du conseil organise ; tu ne lui as pas livré l’ampleur du détournement. |

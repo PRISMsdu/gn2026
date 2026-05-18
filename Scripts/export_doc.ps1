@@ -3,7 +3,8 @@
   Apparence : meme charte typo que les Avis UBI (avis_print.css), sans bandeau GN.
   Aucun ornement Unicode en en-tete ni sur les lignes horizontales (-- en markdown) ni sur les titres h2,
   car le moteur PDF de Chrome les degrade souvent en mojibake.
-  Export doc-officiel : chaque titre h2 sous #contenu-avis commence sur une nouvelle page (pagination PDF).
+  Export doc-officiel : par defaut, chaque titre h2 sous #contenu-avis commence sur une nouvelle page.
+  Pour enchaîner les sections sans saut de page : -nochangepage (ou -SkipH2PageBreak).
 
   Prerequis : Pandoc, Chrome ou Edge, accès Google Fonts lors de la generation.
 
@@ -16,6 +17,7 @@
     .\Scripts\export_doc.ps1 -MarkdownPath "Groupes\MiVI\1 - Back de groupe\Lettre_ordre_Oblats_Questeur_Montfou.md"
     .\Scripts\export_doc.ps1 -MarkdownPath "Contrats_et_Livres\CO-II-545-001.md"
     .\Scripts\export_doc.ps1 -MarkdownPath "Groupes\Banquiers - UBI\1 - Back de groupe\Avis_depot_documents_UBI.md" -InstitutionLigne "Union bancaire d Il-Irion - Citadelle d Ulghart"
+    .\Scripts\export_doc.ps1 -MarkdownPath "codex\Monde\Fonctionnement de la bourse des échanges de la Confédération.md" -nochangepage
 
   Sortie : dossier du .md, fichier <nom>_doc_yyyyMMdd_HHmmss.pdf
 
@@ -24,6 +26,10 @@
     le fichier est Scripts\Signatures puis insere avec un chemin relatif vers la page d impression.
 
   Pour forcer la regeneration des PNG deja presents : -ForceSignatures
+
+  Disposition signatures type Charte UBI (cartouches, blasons, taille reduite) :
+    -CharteSignatures
+  Format markdown : **Cite** : ![blason](chemin) puis (*Signature*: Nom) — voir Charte_UBI.md
 #>
 
 [CmdletBinding(DefaultParameterSetName = 'ByPath')]
@@ -46,11 +52,17 @@ param(
   [string] $Browser = 'Auto',
   [string] $ChromePath = "",
   [string] $PandocPath = "",
-  [switch] $ForceSignatures
+  [switch] $ForceSignatures,
+  [Alias('nochangepage')]
+  [switch] $SkipH2PageBreak,
+  [switch] $CharteSignatures
 )
 
 $ErrorActionPreference = 'Stop'
 . (Join-Path $PSScriptRoot 'Expand-MarkdownExportSignatures.ps1')
+. (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+. (Join-Path $PSScriptRoot 'Charte-SignatureLayout.ps1')
+$exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
 function ConvertTo-HtmlUriPath {
   param([string] $Path)
@@ -226,9 +238,10 @@ $markdownSansComments = [regex]::Replace($markdownUtf8Raw, '<!--[\s\S]*?-->', ''
 $pandocSourcePath = $md.Path
 $tempMdExpanded = ''
 if ($markdownSansComments -match '(?msi)\(\*\s*[Ss]ignature\s*\*\s*:') {
+  $sigMaxPx = if ($CharteSignatures) { 160 } else { 400 }
   $expandedMdText = Expand-MarkdownInkSignatureMarkers -MarkdownRaw $markdownSansComments `
     -HtmlAbsolutePath $outFile -ScriptsPSScriptRoot $PSScriptRoot `
-    -ForceRegenerate:$ForceSignatures
+    -ForceRegenerate:$ForceSignatures -SignatureMaxEdgePx $sigMaxPx
   $tempMdExpanded = [System.IO.Path]::GetTempFileName() + '.md'
   [System.IO.File]::WriteAllText($tempMdExpanded, $expandedMdText,
     ([System.Text.UTF8Encoding]::new($false)))
@@ -253,6 +266,12 @@ finally {
 # Commentaires MJ / HTML hors impression
 $bodyInner = [regex]::Replace($bodyInner, '<!--[\s\S]*?-->', '')
 
+if ($CharteSignatures) {
+  $bodyInner = Build-CharteSignatureBlockFromHtml -BodyHtml $bodyInner `
+    -ImageCacheDir $exportImageCacheDir -HtmlAbsolutePath $outFile `
+    -TitreHtml '&#10022;&ensp;Signatures et visa&ensp;&#10022;'
+}
+
 $pageTitle = Get-ExtractedPlainFromFirstH1 -Html $bodyInner
 if ([string]::IsNullOrWhiteSpace($pageTitle)) { $pageTitle = $baseName }
 $pageTitleEsc = [System.Net.WebUtility]::HtmlEncode($pageTitle)
@@ -266,7 +285,8 @@ if (-not [string]::IsNullOrWhiteSpace($InstitutionLigne)) {
       Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
       Select-Object -First 1
     if ($found) {
-      $rel = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $found.FullName
+      $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+      $rel = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
       $blasonHtml = '<img src="' + $rel + '" class="avis-blason" alt="" />'
       break
     }
@@ -307,10 +327,20 @@ body.doc-officiel #contenu-avis hr::after {
   border-bottom: 1px solid #a06820;
 }
 
+'@
+
+if (-not $SkipH2PageBreak) {
+  $docOverridesCss += @'
+
 body.doc-officiel #contenu-avis h2 {
   break-before: page;
   page-break-before: always;
 }
+
+'@
+}
+
+$docOverridesCss += @'
 
 body.doc-officiel #contenu-avis h2::before,
 body.doc-officiel #contenu-avis h2::after {
@@ -325,6 +355,9 @@ else {
   $pageOverride = ''
 }
 $pageOverride += $docOverridesCss
+if ($CharteSignatures) {
+  $pageOverride += (Get-CharteSignatureBlockCss)
+}
 
 $shellPath = Join-Path $PSScriptRoot 'document_shell.html'
 $cssPath = Join-Path $PSScriptRoot 'avis_print.css'

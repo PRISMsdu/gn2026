@@ -105,7 +105,7 @@ Depuis trois ans tu fais partie de la combine. Tes rapports à Horgrim sont vrai
 
 Les gardes morts dont tout le monde parle faisaient partie ceux que tu as fait entrer dans la garde. Ils étaient des tiens autant que des leurs. Tu portes leur mort comme un poids froid. Tu es triste au point de te réveiller sur des détails de ronde qui ne collent plus. Tu es inquiète pour les survivants du même noyau : chaque pas de questeur peut les enfermer ou les faire parler au mauvais moment. Tu continues de défendre leur cause en secret, mais tu ne peux pas pleurer en salle de garde. Les premiers nés cherchent à libérer Wyv, leur divinité tutélaire (lis bien la véritable histoire des iles du Levant).
 
-La dernière tentative avortée remonte à avant-hier : c'est là qu'ils ont perdu ces six membres. En début d'après-midi aujourd'hui, les Premiers Nés t'ont contactée dans un passage que tu fréquentes sans afficher de rendez-vous. Ils retentent le coup ce soir. Pour ce faire, le système de sécurité doit être débrayé, il faut retirer une roue cranté du mécanisme de fonctionnement des vannes.  Pour la sécurité du groupe, ils veulent que ce soit toi qui leur remettes les roues dentées une fois le système activé pour la nuit (l'idée est de bloquer le système de vanne avec de l'eau partout pour pemettre à Wyv de circuler librement dans les couloirs) — seule personne assez proche des mécanismes et des feuilles de ronde pour le faire sans laisser une ligne lisible sur un registre que Horgrim ouvre tous les matins.
+La dernière tentative avortée remonte à avant-hier : c'est là qu'ils ont perdu ces six membres. En début d'après-midi aujourd'hui, les Premiers Nés t'ont contactée dans un passage que tu fréquentes sans afficher de rendez-vous. Ils retentent le coup ce soir. Pour ce faire, le système de sécurité doit être débrayé : il faut retirer la roue crantée du mécanisme des vannes, que **Corvus** range chaque soir dans la chaîne des clés après l'inondation de vingt et une heures. L'idée est de laisser les couloirs bas inondés pour que Wyv circule librement. Ce n'est pas ton poste officiel ; les Premiers Nés te demandent une diversion sur les rondes, un repérage du poste ou une fenêtre où Corvus n'a pas encore consigné la manœuvre — pas d'exécuter toi-même le cycle au registre des vannes.
 
 Shadow est à Ulghart pour la Régate, tu en es sûre, tu as un vrai don pour détecter les gens de la mafia. Ils se cachant dans la délégation de la Guilde des Ports Unis. Les Sangs de la Steppe ont un intérêt dans ce qui se passe au fort. Sa présence ici croise ta présence ici. Si les Sangs apprennent que tu travailles dans cette banque, que tu sais ce que tu sais, ils ont deux options : te recruter ou te faire taire. Shadow avait fait un choix une fois. Tu ne sais pas s'il le referait.
 
@@ -134,7 +134,7 @@ La manière dont l'UBI a glissé vers les détournements et les morts te dégoû
 - **Shadow** : gérer la rencontre inévitable pendant la Régate sans que ça devienne un problème pour toi ou pour les plans.
 - **Sortie personnelle** : préparer une issue qui ne dépend ni des Sangs ni de la banque une fois la Régate passée.
 - **Ligne Premiers Nés** : tenir les survivants hors de la lumière des questeurs sans brûler ton couvert ; empêcher que la mort des six te rattache publiquement au dossier que tu as monté pour Horgrim. Les aider pour punir le système pourri jusqu'à l'os.
-- **Roues et seconde tentative** : ce soir, les Premiers Nés retentent après l'échec d'avant-hier ; ils comptent sur toi pour leur remettre les roues des mécanismes d'inondation une fois le système activé pour la nuit, sans laisser de trace sur les registres officiels. Il est convenu que tu leur donne les roues crantées le vendredi à 23h au tripot.
+- **Roue des vannes et seconde tentative** : ce soir, les Premiers Nés retentent après l'échec d'avant-hier ; ils ont besoin que la roue soit retirée ou qu'ils la récupèrent alors que Corvus tient le poste. Convoi convenu au Tripot vendredi 23 h ; à toi d'ouvrir une brèche (rondes, tunnels) sans que ton nom figure sur la feuille de ronde que Corvus signe chaque soir.
 
 # Membres du groupe
 
@@ -147,7 +147,7 @@ La manière dont l'UBI a glissé vers les détournements et les morts te dégoû
 | Selvara Quenndral | Prudence : tu travailles près des archives sensibles, elle le sait. |
 | Ydria Ventoss | Peu de contact direct ; tu vois passer des choses au comptoir que le registre n'enregistre pas. |
 | Melian Torv | Peu de contact direct. |
-| Corvus | Méfiance mutuelle : mêmes ombres dans les tunnels, ordres différents. |
+| Corvus | Méfiance mutuelle : il tient les vannes et le registre du poste ; tu connais les couloirs qu'il ne parcourt pas toujours. Les Premiers Nés visent sa roue, pas ton poste. |
 
 # Connaissances
 

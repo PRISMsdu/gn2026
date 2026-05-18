@@ -1,21 +1,25 @@
 # Paraphe des treize lignes marchandes
 
 *Acte de greffe — vingt-neuvième régate, an 542 — Confédération des cités libres du Levant*  
-*Référence greffe UBI : 542-R29 / Paraphe*
+*Référence greffe UBI : 542-R29 / Paraphe — constat des propriétés contractuelles des treize lignes*
 
 ---
 
 Attendu que la vingt-neuvième régate s’est tenue conformément au [Fonctionnement de la bourse des échanges de la Confédération](Fonctionnement de la bourse des échanges de la Confédération.md) ;
 
-Attendu que la séance pléniaire du samedi a réuni les parties requises et que les auditeurs de la Convention ont attesté la conformité du présent constat ;
+Attendu que les Grands ordonnateurs de la Convention ont convoqué et tenu la séance pléniaire du samedi, que les cinq cités contractantes, le greffier de l’Union bancaire d’Il-Irion et le collège des Grands ordonnateurs y ont été présents conformément au texte sur la bourse, et que l’acte de clôture ainsi que le procès-verbal de supervision ont été signés ;
+
+Attendu que le tableau ci-dessous reprend l’état enregistré, à l’issue de cette bourse, des titres de route, des mentions « qui » et des montants indicatifs des treize lignes de la Convention — y compris les lignes renouvelées par maintien tacite lorsqu’aucun article nouveau n’a été inscrit pour elles ;
+
+Attendu que le collège des Grands ordonnateurs assermentés a vérifié la conformité de ce constat au droit confédéral et visé son enregistrement au greffe : sans ce visa, le présent paraphe ne peut être tenu pour valide ;
 
 Attendu que les titres de route et mentions « qui » applicables aux connaissements pour la période ouverte après cette clôture doivent se conformer au présent paraphe jusqu’à l’enregistrement de la régate suivante ;
 
-Il est paraphé et enregistré ce qui suit, à valoir pour les cinq ans à compter de la date d’effet portée au bas du présent acte, sous réserve des délais transitoires éventuellement annexés au procès-verbal de clôture.
+Il est paraphé et enregistré ce qui suit, à valoir pour les cinq ans à compter de la date d’effet portée au bas du présent acte, sous réserve des délais transitoires éventuellement annexés au procès-verbal de clôture. Les quotas d’escale, droits de passe et tarifs de quai arrêtés à la même clôture figurent dans les autres articles de l’acte de clôture ; le présent document ne constate que les propriétés des lignes nommées ci-dessous.
 
 ## Article unique — Titres et répartition contractuelle des treize lignes
 
-Les liaisons ci-dessous portent les noms de route de la Convention. La colonne « Titulaire(s) » reprend la mention « qui » du tableau technique arrêté à cette bourse.
+Les liaisons ci-dessous portent les noms de route de la Convention. La colonne « Titulaire(s) » reprend la mention « qui » inscrite au procès-verbal de clôture et arrêtée à cette bourse.
 
 | Ligne | km (ordre de grandeur) | ~couronne/an | Titulaire(s) |
 |-------|-------------------------|--------------|--------------|
@@ -39,18 +43,38 @@ Les liaisons ci-dessous portent les noms de route de la Convention. La colonne �
 
 ---
 
-**Fait** : au greffe de l’Union bancaire d’Il-Irion, sous le sceau de la banque et le visa des auditeurs.
+**Fait** : au greffe de l’Union bancaire d’Il-Irion, avec numéro d’article, date et sceau, sous le visa du collège des Grands ordonnateurs assermentés de la Convention.
 
 **Date d’effet** : premier jour du mois suivant la clôture de la vingt-neuvième régate, sauf délai transitoire expressément inscrit au procès-verbal.
 
-| Partie | Signature et cachet |
-|--------|---------------------|
-| Il-Irion <br><br>| |
-| Palyr  <br><br> | |
-| Sfaal  <br><br>| |
-| Arthas  <br><br>| |
-| Ther-Félis  <br><br>| |
-| Greffe UBI  <br><br>| |
-| Auditeurs de la Convention  <br><br>| |
+## Signatures
+
+**Il-Irion** : ![](../../LivretsLocaux/Blasons/Blason_Il-Irion_+.png)
+
+(*Signature*: Il-Irion)
+
+**Palyr** : ![](../../LivretsLocaux/Blasons/Blason_Palyr_+.png)
+
+(*Signature*: Palyr)
+
+**Sfaal** : ![](../../LivretsLocaux/Blasons/Blason_Sfaal_+.png)
+
+(*Signature*: Sfaal)
+
+**Arthas** : ![](../../LivretsLocaux/Blasons/Blason_Arthas_+.png)
+
+(*Signature*: Arthas)
+
+**Ther-Félis** : ![](../../LivretsLocaux/Blasons/Blason_Ther-Félis_+.png)
+
+(*Signature*: Ther-Félis)
+
+**Greffe UBI** :
+
+(*Signature*: Greffe de mes 2)
+
+**Grands ordonnateurs de la Convention** :
+
+(*Signature*: Les Gros enculés)
 
 *Copies certifiées conformes : archives des cinq cités, Guilde des Ports Unis, registres de la Convention sur les routes marchandes.*

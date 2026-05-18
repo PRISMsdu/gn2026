@@ -33,15 +33,15 @@ La citadelle d’Ulghart se trouve au centre de l’île d’Il-Irion. Elle n’
 | Il-Irion – Arthas | ~245 | 21 000 | Il-Irion |
 | Palyr – Arthas | ~535 | 10 000 | Palyr |
 | Il-Irion – Ther-Félis | ~375 | 15 000 | Il-Irion  |
-| Palyr – Ther-Félis | ~665 | 12 000 | Palyr |
+| Palyr – Ther-Félis | ~665 | 8 000 | Palyr |
 | Sfaal – Ther-Félis | ~220 | 16 000 | Sfaal |
 | Sfaal – Arthas | ~515 | 12 000 | Sfaal |
-| Arthas – Ther-Félis | ~290 | 8 000 | 50% Arthas, 50% Ther-Félis |
+| Arthas – Ther-Félis | ~290 | 36 000 | mixte |
 | Arthas – Escalèche | ~35 | 10 000 | Arthas |
 | Arthas – Ulghart | ~275 | 25 000 | Arthas |
 | Il-Irion – Ulghart | ~55 | 3 200 | Il-Irion |
 
-**Totaux** : ~4 710 km cumulés sur les trajets des lignes ; ~161 400 couronnes/an au tableau (treize lignes).
+**Totaux** : ~4 710 km cumulés sur les trajets des lignes ; ~185 400 couronnes/an au tableau (treize lignes).
 
 ### Répartition par mention « qui »
 
@@ -50,16 +50,16 @@ Les montants reprennent la colonne du tableau principal ; les kilomètres sont l
 | Qui | Lignes | km cumulés | ~couronne/an |
 |-----|--------|-------------|--------------|
 | Il-Irion | 5 | ~1 425 | 61 200 |
-| Arthas | 2,5 | ~455 | 39 000 |
+| Arthas | 2,5 | ~455 | 53 000 |
 | Sfaal | 2 | ~735 | 28 000 |
-| Palyr | 2 | ~1 200 | 22 000 |
-| Ther-Félis | 1,5 | ~895 | 11 200 |
+| Palyr | 2 | ~1 200 | 18 000 |
+| Ther-Félis | 1,5 | ~895 | 25 200 |
 
 ## Chiffres d’affaires contractuels
 
-Les montants figurent dans le tableau ci-dessus. La liaison Arthas–Ulghart (or et papiers) affiche le plus gros total contractuel, suivie du maritime Il-Irion–Arthas par Escalèche, puis de la baie entre Sfaal et Ther-Félis et du trajet Il-Irion–Ther-Félis. La ligne Andulin entre Arthas et Ther-Félis reste dense au trafic, avec un total contractuel plus bas que ces grands axes. La ligne terrestre Il-Irion–Ulghart affiche un total contractuel modeste : les frais de passage et de garde pèsent lourd par rapport au tonnage.
+Les montants figurent dans le tableau ci-dessus. La ligne Andulin entre Arthas et Ther-Félis affiche le plus gros total contractuel du paraphe en vigueur, suivie de la liaison Arthas–Ulghart (or et papiers), du maritime Il-Irion–Arthas par Escalèche, puis de la baie entre Sfaal et Ther-Félis. La ligne terrestre Il-Irion–Ulghart affiche un total contractuel modeste : les frais de passage et de garde pèsent lourd par rapport au tonnage.
 
-La somme des treize lignes du tableau technique fait environ 161 400 po/an. Ce total ne correspond pas à ce qu’un seul navire paie en réalité : une cargaison peut changer de nom de route en cours de parcours, et les maisons de commerce ne publient pas toujours la même chose sur les registres publics et sur les livres internes.
+La somme des treize lignes du tableau technique fait environ 185 400 po/an. Ce total ne correspond pas à ce qu’un seul navire paie en réalité : une cargaison peut changer de nom de route en cours de parcours, et les maisons de commerce ne publient pas toujours la même chose sur les registres publics et sur les livres internes.
 
 ## Convention
 

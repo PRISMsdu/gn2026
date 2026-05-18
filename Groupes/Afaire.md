@@ -49,29 +49,30 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
     [X] Edorian (UBI) est piloté par Seraphine Kaelthorne (Il-Irion) pour le détournement organisé par Il-Irion : il n'est peut-être pas clair dans le rôle d'Edorian que les détournements d'argent pour Il-Irion soit coordonnés par Seraphine, son interface familles–banque — [utiliser modèle 1]
 
 
-    [ ] MiVI prend contact avec Sven Orlac pour Ther-Félis via scaro selt.. 
-    [ ] Ils ont également contact avec Arthas Shark Brooks. Attention, ce perso n'existe pas dans le groupe Arthas.
-    faire des lettres de mise en contact.
+    [ X ] MiVI prend contact avec Sven Orlac pour Ther-Félis via scaro selt.. 
+    [ X ] Ils ont également contact avec Arthas Shark Brooks. Attention, ce perso n'existe pas dans le groupe Arthas.
+    [ X ] faire des lettres de mise en contact.
 
-    [ ] revoir le livret et mettre la date de creation de la banque en meme temps que l'unification de la confédéréation, soit -150 ans.
+    [X] revoir le livret et mettre la date de creation de la banque en meme temps que l'unification de la confédéréation, soit -150 ans. (codex + Charte_UBI + Back_groupe_UBI — an 397)
 
     [ ] mettre dans Palyr un responsable militaire
 
-    [] mettre que l'argent détourné d'Edorian est dans une salle inondée, trouvée par Sybrel.
+    [ ] mettre que l'argent détourné d'Edorian est dans une salle inondée, trouvée par Sybrel.
 
     - Marda (Tripot) La cheffe du tripot cherche un appui politique fort, pourquoi pas Il-Irion, pour se protéger de la mafia. Il faut lui conseiller de peut-être prendre contact avec Il-Irion pour discuter d'un appui contre la Mafia. Elle connait de nom Garrick Halvaren chez Il-Irion (lui ne la connait). Il est important de ne pas mentionner à Madras qu'Il-Irion est à l'origine des détournements organisé par Edorian, ceci doit être caché (aucune mention dans le role de Marda de cette situation) [utiliser modèle 2]
 
-    - Il y a eu un contact entre la Styrgie (Ysel Marivent, chez MiVI) et Il-Irion (Garick Alvaren) il y a un an, une tentative de discussion lancé par la Stygie pour entreprendre une discussion de négociation de partenariat avec Il-Irion, au motif que Il-Irion est exangue et que la confédération est mourrante, pour offrir une porte de sortie à Il-Irion. Un contact est organisé pendant le jeu. Il faut rédiger une lettre écrite par Ysel à Garick, qui donne rendez-vous à Garick dans la salle de la Guilde des Ports Unis, le samedi avant 9h30.[utiliser modèle 1]
+    [ X ] Il y a eu un contact entre la Styrgie (Ysel Marivent, chez MiVI) et Il-Irion (Garick Alvaren) il y a un an, une tentative de discussion lancé par la Stygie pour entreprendre une discussion de négociation de partenariat avec Il-Irion, au motif que Il-Irion est exangue et que la confédération est mourrante, pour offrir une porte de sortie à Il-Irion. Un contact est organisé pendant le jeu. Il faut rédiger une lettre écrite par Ysel à Garick, qui donne rendez-vous à Garick dans la salle de la Guilde des Ports Unis, le samedi avant 9h30.[utiliser modèle 1]
     
-    [X] Ajouter dans l'organisation de la guilde un responsable par pole (et donc un joueur de la mafia) : les dockers, les routes commerciales (publication), chantier naval, les Marins, les entrepots.
+    [ X ] Ajouter dans l'organisation de la guilde un responsable par pole (et donc un joueur de la mafia) : les dockers, les routes commerciales (publication), chantier naval, les Marins, les entrepots.
     
-    [ ] Ajouter que les Ports Unis organise les échanges commerciaux, n'y prennent pas part. vérifier la fiche de fonctionnement de la bourse d'échange (fichier dans codex/monde/Fonctionnement de la bourse d'échange). Ajouter que les nouveaux contrats sont enregistré auprès de la banque sous valiation des auditeurs officiels assermentés -  Helias de Montclair [model 3]]
+    [ X ] Bourse (codex) : Ports Unis organisent les échanges, ne signent pas ; nouveaux contrats déposés à l'UBI, visa auditeurs assermentés (règles générales sans nom — instance GN : Hélias de Montclair, RAF Corbeaux) [model 3]
    
-    - Ajouter dans les banquiers, que les 6 morts étaient les anciens gardiens. Les premiers nés ont été embauchés par les banquiers il y a 3 ans. curieux ? Il y avait 10 gardes et maintenant 4. les 6 morts ont été tués lors de la dernière tentative des premiers nés de briser le sceau de la vouivre. Les corps sont toujours là en attente de la cérémonie mortuaire qui se fasse avant le samedi midi. histoire : les 6 corps trouvés sur les quais ont été déplacés dans un coffre sur décision de la banque pour pas laisser des cadavre à l'arrivée de la régate. [modèle 3] 
+    [ X ] Ajouter dans les banquiers, que les 6 morts étaient les anciens gardiens. Les premiers nés ont été embauchés par les banquiers il y a 3 ans. curieux ? Il y avait 10 gardes et maintenant 4. les 6 morts ont été tués lors de la dernière tentative des premiers nés de briser le sceau de la vouivre. Les corps sont toujours là en attente de la cérémonie mortuaire qui se fasse avant le samedi midi. histoire : les 6 corps trouvés sur les quais ont été déplacés dans un coffre sur décision de la banque pour pas laisser des cadavre à l'arrivée de la régate. [modèle 3] 
     
     - En lien avec le point précédent : Holgrim (UBI) est responsablede la sécurité de la banque. Il dispose de 2 sergent dans le groupe UBI (définir qui, fait une propositin), et d'une garde permanente de 15 gardes. Il est en charge d'organiser les tours de garde, par relève de 2 heures, 4 gardes qui circulent en particulier autour des coffres. [modèle 2]
 
-
+    [ ] Ther-Félis, n'a plus de fric donc ils n'entretiennent pas leur flotte et donc ils ont sous-traité le transport àa la Guilde des Ports Unis. Qui du coup en ont profité pour orgaser le détournement du Fer.
+    
   
     [ ] Palyr : Ils ont été contacté par un groupe nommé les fils du levant qui leur propose la création d'un nouvel ordre ou toutes les cités et les peuples des îles auraient leur place et leur libertés. Ca va interessé Palyr pour prendre plus de place, et dimunuer l'influence d'IL-Irion. faire une lettre pour Palyr, signée par Tavish Kaironui.
 
@@ -81,6 +82,6 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
 
     En lien avec Palyr: les druides avait mit la vouivre pour protéger et pour la libérer il faut un sceau, cassé en 5, chaque île possède un bout de l'artéfact. et chacun a un morceau dans les coffres de la banque. Eric fait le petit texte qui explique ça. texte à intégrer dans les back + texte qui raconte l'histoire dans la bilbiothèque.
 
-    [ ] ajouter une intéraction entre 
+ 
 -->
 

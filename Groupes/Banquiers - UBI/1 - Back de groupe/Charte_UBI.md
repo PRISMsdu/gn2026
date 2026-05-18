@@ -14,7 +14,17 @@ Les Cités d'Il-Irion, de Staal, de Palyr, de Ther-Felis et d'Arthas s'engagent 
 
 ## Article Troisième - Du Conseil Directeur
 
-Le Conseil Directeur de l'Union Bancaire sera composé de dix membres, deux représentants par cité, choisis pour leur intégrité, leur compétence et leur dévouement au bien commun. Leur mandat durera cinq années, renouvelable une seule fois. Le Conseil élit en son sein un Directeur qui préside aux destinées de l'institution et représente l'Union devant les puissances étrangères.
+Le Conseil Directeur de l'Union Bancaire est composé de cinq membres, un représentant par cité (Il-Irion, Staal, Palyr, Ther-Félis, Arthas), choisis pour leur intégrité, leur compétence et leur dévouement au bien commun. Leur mandat dure cinq ans, renouvelable une seule fois.
+
+Les cinq postes du Conseil sont les suivants :
+
+- **Directeur général** : préside aux destinées de l'institution, représente l'Union devant les cités de la Confédération et les puissances étrangères, arbitre les crises qui engagent la maison.
+- **Discréteur** : tient l'image publique de l'Union, oriente les récits et les rumeurs, gère les dossiers qui ne doivent pas figurer au registre officiel.
+- **Trésorier** : tient l'or et les réserves, signe les mouvements de lingots, fixe la trace comptable des flux qui entrent et sortent des coffres.
+- **Archiviste et juridique** : tient les archives, les textes légaux et les scellés inter-cités ; rédige ou valide les actes engageant plusieurs cités et veille à ce que le registre tienne devant un auditeur.
+- **Chef de la garde** : commande la garde de la citadelle, contrôle l'accès aux zones sensibles et fixe les procédures d'entrée dans les réserves et les couloirs des coffres.
+
+Ces postes sont pourvus lors de la Régate, selon l'usage confédéral : chaque cité désigne ou confirme le titulaire du poste qu'elle revendique pour le mandat suivant. Aucun de ces titulaires n'est élu par le Conseil : chacun est nommé dans le même cycle et selon les mêmes règles de désignation liées à la Régate.
 
 ## Article Quatrième - De la Sécurité des Dépôts
 
@@ -38,7 +48,7 @@ L'Union Bancaire peut établir des relations commerciales et financières avec l
 
 ## Article Neuvième - De la Succession et de la Continuité
 
-En cas de décès, de démission ou de destitution d'un membre du Conseil, sa cité d'origine désigne un remplaçant dans les trente jours. Si une cité entière venait à se retirer de la Confédération, ses représentants au Conseil seraient immédiatement remplacés et ses fonds transférés selon des modalités équitables. L'Union Bancaire survit à ses créateurs et demeure éternelle.
+En cas de décès, de démission ou de destitution d'un membre du Conseil, sa cité d'origine désigne un remplaçant dans les trente jours. Si une cité entière venait à se retirer de la Confédération, son représentant au Conseil serait immédiatement remplacé et ses fonds transférés selon des modalités équitables. L'Union Bancaire survit à ses créateurs et demeure éternelle.
 
 ## Article Dixième - De l'Amendement et de la Dissolution
 
@@ -46,15 +56,30 @@ La présente Charte ne peut être amendée que par l'accord unanime des cinq cit
 
 ---
 
-**Signé et scellé en l'an 402 du quatrième Âge, année de fondation de l'Union Bancaire d'Il-Irion, dans la citadelle d'Ulghart,**
+**Signé et scellé en l'an 397 du quatrième Âge, année de fondation de l'Union Bancaire d'Il-Irion, dans la citadelle d'Ulghart,**
 
 *Par les représentants des Cités Libres du Levant :*
 
-- **Il-Irion** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Il-Irion_+.png]
-- **Sfaal** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Sfaal_+.png]  
-- **Palyr** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Palyr_+.png]
-- **Ther-Felis** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Ther-Félis_+.png]
-- **Arthas** : [C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026\LivretsLocaux\Blasons\Blason_Arthas_+.png]
+**Il-Irion** : ![](../../../LivretsLocaux/Blasons/Blason_Il-Irion_+.png)
+
+(*Signature*: August Sert Halvaren)
+
+**Sfaal** : ![](../../../LivretsLocaux/Blasons/Blason_Sfaal_+.png)
+
+(*Signature*: Ulbi Guelendag)
+
+**Palyr** : ![](../../../LivretsLocaux/Blasons/Blason_Palyr_+.png)
+
+(*Signature*: Donarien Valdrak)
+
+**Ther-Felis** : ![](../../../LivretsLocaux/Blasons/Blason_Ther-Félis_+.png)
+
+(*Signature*: Daenariss Vell)
+
+**Arthas** : ![](../../../LivretsLocaux/Blasons/Blason_Arthas_+.png)
+
+(*Signature*: Benaroth Calveran)
+
 
 *Sous le sceau de l'Union Bancaire d'Il-Irion et la protection des dieux de la prospérité.*
 

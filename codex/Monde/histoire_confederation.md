@@ -2,25 +2,24 @@
 
 ## Chronologie (4e Âge)
 
-Les chroniqueurs des cités libres comptent les années à partir du début du **quatrième Âge**. L’**an 547** est l’année du présent : **trentième régate**, et **cent cinquante ans** depuis l’entrée d’**Arthas** et de **Ther-Félis** dans la Confédération (**an 397**).
+Les chroniqueurs des cités libres comptent les années à partir du début du **quatrième Âge**. L’**an 547** est l’année du présent : **trentième régate**, et **cent cinquante ans** depuis l’entrée d’**Arthas** et de **Ther-Félis** dans la Confédération, la fondation de l’**UBI** et la **première régate** (**an 397**).
 
 | Année | Événement |
 |-------|-----------|
 | **24** | Arrivée des premiers colons styrgiens dans les îles du Levant. |
 | **92** | Fondation de la **Confédération des îles du Levant** (Il-Irion, Sfaal, Palyr). |
 | **293** | Construction de la forteresse d’**Ulghart** sur Il-Irion ; ce n’est pas encore le siège des coffres de la banque. |
-| **397** | **Arthas** et **Ther-Félis** rejoignent la Confédération ; naissance de l’ensemble à **cinq cités**. |
-| **402** | Fondation de la **banque UBI** (Union bancaire d’Il-Irion) et **deuxième régate**. |
+| **397** | **Arthas** et **Ther-Félis** rejoignent la Confédération ; naissance de l’ensemble à **cinq cités** ; fondation de la **banque UBI** (Union bancaire d’Il-Irion) et **première régate**. |
 | **547** | Année courante du scénario : trentième régate ; cent cinquante ans après l’an 397. |
 
-Repères : **305 ans** entre la confédération insulaire seule (92) et l’élargissement continental (397) ; **150 ans** de confédération à cinq cités en 547 ; **145 ans** entre la fondation de l’UBI (402) et le présent.
+Repères : **305 ans** entre la confédération insulaire seule (92) et l’élargissement continental (397) ; **150 ans** depuis l’unification à cinq cités, la fondation de l’UBI et la première régate (397) jusqu’en 547.
 
 ## Les Origines : La Fondation de la Confédération (92 et avant)
 
 Dès l’an **24**, des colons styrgiens s’étaient installés dans les îles du Levant. Les lignées et les querelles qui suivirent dépassent ce résumé ; ce qui compte pour la suite, c’est qu’en l’an **92**, les dirigeants d’**Il-Irion**, de **Sfaal** et de **Palyr** scellèrent une alliance durable : la **Confédération des îles du Levant**. L’Empire Tchélène, alors en pleine expansion vers les rivages de la mer de Sytie, donnait à cette union un ennemi commun et un prétexte à la discipline commune.
 Les trois cités-états, autrefois rivales sur bien des points, formèrent une entité puissante sur le plan commercial et militaire, puis un rempart tenu contre l’Empire Tchélène. La Confédération des Cités Libres du Levant prospéra, non seulement en repoussant les envahisseurs, mais aussi en établissant des routes commerciales florissantes et en développant une culture riche et diversifiée.
 
-En l’an **293**, la forteresse d’**Ulghart** fut élevée au centre d’Il-Irion. Longtemps bastion militaire et lieu de stockage du pouvoir insulaire, elle précéda de plus d’un siècle la banque : ce n’est qu’en **402**, cinq ans après l’entrée d’Arthas et de Ther-Félis dans la Confédération, que l’**Union bancaire d’Il-Irion** y installa ses coffres et ses règles connues aujourd’hui, lors de la **deuxième régate**.
+En l’an **293**, la forteresse d’**Ulghart** fut élevée au centre d’Il-Irion. Longtemps bastion militaire et lieu de stockage du pouvoir insulaire, elle accueillit plus d’un siècle plus tard l’**Union bancaire d’Il-Irion** : en **397**, année où **Arthas** et **Ther-Félis** rejoignirent la Confédération, les coffres et les règles de la banque y furent installés lors de la **première régate**.
 
 ### La Confédération des Trois Îles
 
