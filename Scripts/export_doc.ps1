@@ -233,6 +233,18 @@ $pandocExe = Get-PandocExecutable -ExplicitPath $PandocPath
 if (-not $pandocExe) { Write-Error 'Pandoc introuvable.' }
 
 $markdownUtf8Raw = Get-Content -LiteralPath $md.Path -Raw -Encoding UTF8
+
+# InstitutionLigne optionnelle dans un commentaire HTML du .md (avant suppression des commentaires) :
+#   <!-- … InstitutionLigne : Cité de Palyr — … -->
+if ([string]::IsNullOrWhiteSpace($InstitutionLigne)) {
+  foreach ($cm in [regex]::Matches($markdownUtf8Raw, '<!--([\s\S]*?)-->')) {
+    if ($cm.Groups[1].Value -match '(?m)InstitutionLigne\s*:\s*(.+?)\s*$') {
+      $InstitutionLigne = $Matches[1].Trim()
+      break
+    }
+  }
+}
+
 $markdownSansComments = [regex]::Replace($markdownUtf8Raw, '<!--[\s\S]*?-->', '')
 
 $pandocSourcePath = $md.Path

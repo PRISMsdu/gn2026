@@ -10,14 +10,11 @@ Les montants négociés étaient de 10'000 Ducat or pour le remplacement du Fer 
 
 ## Points de contact (paiement — canon orga)
 
-Pour le **règlement** lié à l’opération fer et aux **flux d’or** en jeu (paiement dû aux pirates, reliquat / argent **détourné** négocié avec les associés) :
-
 | Côté | Personnage | Rôle |
 |------|------------|------|
 | **Pirates d’Albar** | **Korran Vesper** | **Point de contact** équipage : mène la remise, **négocie** le montant, représente la parole des pirates face aux Sangs. |
 | **Sangs de la Steppe** | **Raven** | **Point de contact** mafia : reçoit l’or, **valide** le dépôt contre **écrits et montants** convenus, **parlement** et quitus côté réseau (réseaux & négociation externe). |
 
-Les deux se **font face** sur la scène de remise ; le reste de l’équipage (Miren, Garm, etc.) soutient Korran ; côté mafia, l’orga peut faire assister Raven d’autres PJ si besoin — *voir `Intrigues/Intrigue_Mafia.md`.*
 
 ## Noms et rôles
 
@@ -28,8 +25,3 @@ Les deux se **font face** sur la scène de remise ; le reste de l’équipage (M
 | **Garm le Roc** | **Maître d’armes** — sécurise le lieu du rendez-vous, dissuade les curieux, protège l’or et l’équipage si ça dérape. |
 | **Sera Vane** | **Second / messager** — tient le **fil** du rendez-vous (heure, lieu, signes), explique retards de mer, porte les **ordres** du patron resté à bord. |
 | **Ren Til** (option) | **Mousse** — porte les **sacs**, tient la **lanterne** ; peut jouer la tension du premier gros rendez-vous. |
-
-
-
----
-*GN Krondaar 2026 — `Groupes/PNJs/`*

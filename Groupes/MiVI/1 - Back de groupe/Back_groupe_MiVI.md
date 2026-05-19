@@ -2,7 +2,7 @@
 
 <!--
   DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
-  Chaîne : `Intrigues/Intrigue_MiVI.md` (orga) → ce fichier → `Groupes/MiVI/2 - Roles des Joueurs/role_joueur_*.md`.
+  Chaîne : `Intrigues/Intrigue_MiVI.md` (orga) → ce fichier → `Groupes/MiVI/2 - Roles des Joueurs/MiVI_*_*.md` (nom du personnage + rôle dans le détachement).
   Secrets de personnage et briefs serrés : `Intrigues/Intrigue_MiVI.md` et fiches individuelles — ne pas dupliquer ici.
   Style : langage simple et direct (consigne `Groupes/Afaire.md`, *Check d'un groupe*).
 -->
@@ -23,7 +23,7 @@ Le Primat juge les bilans insuffisants depuis environ trois ans. Vous allez exig
 
 **Détournement du fer** : opération conçue par vos services, menée avec la Guilde et les Sangs. Sur la route Sfaal–Palyr, le bon minerai devait être substitué en mer : Palyr recevait du fer médiocre, les papiers et le sceau venant d’une complicité à Sfaal. Le bon fer a disparu des suivis ; les versions divergent. Sans responsables identifiés et sans preuves sur le chargement (navire, quai, registres), le reste du mandat ne tient pas.
 
-**Tripot** : les **Sangs** veulent la mainmise sur le casino du fort d’Ulgarth ; la maison **résiste**. **Marda Velyss**, la patronne, tient face à la mafia mieux que prévu — dettes d’élite ? Appuis politique ?. Les services à Elfrion soupçonnent qu’elle dispose d’appuis **hors Confédération** : assez solides pour qu’on hésite à la briser trop tôt. Avant de forcer le Tripot ou d’imposer une solution ouverte aux Sangs, comprendre qui soutient Marda et pourquoi la maison tient encore ; ensuite seulement négocier, infiltrer ou presser.
+**Tripot** : les Sangs veulent la mainmise sur le casino du fort d’Ulgarth ; la maison résiste. Marda Velyss, la patronne, tient face à la mafia mieux que prévu — dettes d’élite, appuis politiques ? Les services à Elfrion soupçonnent qu’elle dispose d’appuis hors Confédération : assez solides pour qu’on hésite à la briser trop tôt. Avant de forcer le Tripot ou d’imposer une solution ouverte aux Sangs, comprendre qui soutient Marda et pourquoi la maison tient encore ; ensuite seulement négocier, infiltrer ou presser.
 
 **Banque** : l’enjeu est la nomination au futur conseil de l’UBI. La Styrgie veut des sièges favorables au rapprochement Arthas / Ther-Félis. Tant que les Sangs n’ont pas livré un levier clair sur cette passation, le dossier banque reste insuffisant.
 
@@ -73,20 +73,26 @@ Le renseignement militaire confédéral compile des rapports — militaires, fin
 
 Des interlocuteurs pro-styrgiens sont identifiés dans les deux délégations. À Ther-Félis, c’est Sven Orlac : vous lui avez fait parvenir une lettre de rendez-vous, avec un signe de reconnaissance convenu. À Arthas, un contact est identifié de la même façon — la lettre est partie avant votre départ ; le nom figure sur le pli remis au détachement. Vous devez les rencontrer à Ulghart sans exposer le MiVI : réassurer, fixer les priorités, avancer le rapprochement des deux cités avec la République sans déclencher l’embargo qui rallierait toute la Confédération.
 
+### Palyr — commerce gris (armes et matériel)
+
+Palyr a longtemps expédié des cargaisons discrètes vers la Styrgie : armes, matériel de forge, pièces hors registres confédéraux. Le Conseil de Palyr fermait les yeux sur le papier. Les livraisons ont ralenti ; Elfrion veut relancer le canal sans passer par la Guilde des Ports Unis sur ce fil.
+
+Une lettre sans en-tête de cité est partie pour Thoran Keld (référence STY-547-PAL-THO-01). Lucan Drest est l’envoyé secret : couverture marchande, mot « cale close avant l’aube », rendez-vous vendredi soir au quai du fort.
+
 ### Il-Irion
 
-Il y a environ un an, **Ysel Marivent** a pris contact avec **Garick Alvaren**, de la délégation d’Il-Irion. La Styrgie avait ouvert une piste de négociation : proposer à Il-Irion un partenariat discret, au motif que l’île est exsangue et que la Confédération s’affaiblit — une porte de sortie avant que le bloc ne se referme. Les objectifs de la Styrgie sont multiples :
+Il y a environ un an, Ysel Marivent a pris contact avec Garick Alvaren, de la délégation d’Il-Irion. La Styrgie avait ouvert une piste de négociation : proposer à Il-Irion un partenariat discret, au motif que l’île est exsangue et que la Confédération s’affaiblit — une porte de sortie avant que le bloc ne se referme. Les objectifs de la Styrgie sont multiples :
 
 - enfoncer sa position au sein de la Confédération et la dépendance d’Il-Irion ;
 - lorsque la guerre arrivera, la Styrgie aura des moyens de pression pour retarder la Confédération, voire retourner Il-Irion contre elle ;
 - avoir des appuis pour la récupération d’Arthas et de Ther-Félis ;
 - récupérer des lignes commerciales, visuellement à la charge d’Il-Irion, mais dans les faits et les finances gérées par la Styrgie — ce qui apportera d’autant de capacité à bloquer la Confédération d’ici deux ans.
 
-La première approche n’a pas abouti. À Ulghart, vous reprenez le fil : une **lettre de la Guilde des Ports Unis**, signée au nom de la **Styrgie**, fixe le rendez-vous avec Garick (jointe à vos papiers — sous couverture des Ports Unis). Lieu : **salle de la Guilde des Ports Unis** ; **samedi**, avant **9 h**. Mot de reconnaissance : **« registre du quai nord »**.
+La première approche n’a pas abouti. À Ulghart, vous reprenez le fil : une lettre de la Guilde des Ports Unis, signée au nom de la Styrgie, fixe le rendez-vous avec Garick (jointe à vos papiers — sous couverture des Ports Unis). Lieu : salle de la Guilde des Ports Unis ; samedi, avant 9 h. Mot de reconnaissance : « registre du quai nord ».
 
 ### Tripot
 
-Les rapports convergent : **Marda Velyss** la patronne du Tripot, ne se comporte pas comme une simple gestionnaire sous pression. Elle résiste à la mafia comme si d’autres puissances la protégeaient — peut-être **en dehors de la Confédération** (voisin, empire, réseau occulte : vous n’avez pas encore de preuve, seulement des doutes partagés à Elfrion). Avant toute manœuvre brutale — fermeture, descente, chantage public —, cartographier qui la soutient et ce que le Tripot sait sur la mafia. **Miraen** assure l’accès crédible aux salles ; le reste du détachement recoupe à distance. Forcer le Tripot sans cette étape, c’est risquer de révéler la main styrgienne ou de livrer un avantage à un tiers inconnu.
+Les rapports convergent : Marda Velyss, la patronne du Tripot, ne se comporte pas comme une simple gestionnaire sous pression. Elle résiste à la mafia comme si d’autres puissances la protégeaient — peut-être en dehors de la Confédération (voisin, empire, réseau occulte : vous n’avez pas encore de preuve, seulement des doutes partagés à Elfrion). Avant toute manœuvre brutale — fermeture, descente, chantage public —, cartographier qui la soutient et ce que le Tripot sait sur la mafia. Miraen assure l’accès crédible aux salles ; le reste du détachement recoupe à distance. Forcer le Tripot sans cette étape, c’est risquer de révéler la main styrgienne ou de livrer un avantage à un tiers inconnu.
 
 ## V — Couverture : les Questeurs
 
@@ -96,30 +102,31 @@ Sans motif crédible, une délégation styrgienne serait repérée en quelques j
 
 Les Questeurs sont des enquêteurs confédéraux. Quand leurs rapports établissent l’usage de la magie ou du surnaturel, leurs conclusions ouvrent des pouvoirs exceptionnels. Vous prenez leur place après un accident — empoisonnement à la hache — et vous entrez au fort sous cette identité. En principe, on évite de contrarier un Questeur.
 
-Vous récupérez leurs effets sur place : papiers, ordre, ce qui permet de tenir le rôle. Vous ne connaissez pas leurs habitudes ni leurs méthodes ; il faudra improviser. En revanche, la lettre d’ordre des Oblats trouvée sur un corps fixe le cadre légal : le Questeur désigné est messire **Ydrael Montfou** ; la demande d’instruction est actée au nom de messire **Horgrim Dval**, chef de la Garde du fort d’Ulghart.
+Vous récupérez leurs effets sur place : papiers, ordre, ce qui permet de tenir le rôle. Vous ne connaissez pas leurs habitudes ni leurs méthodes ; il faudra improviser. En revanche, la lettre d’ordre des Oblats trouvée sur un corps fixe le cadre légal : le Questeur désigné est messire Ydrael Montfou ; la demande d’instruction est actée au nom de messire Horgrim Dval, chef de la Garde du fort d’Ulghart.
 
 Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d’un accès large — banque, forteresse, auditions — au prix d’un risque égal si l’imposture éclate.
 
 ## Résumé des objectifs
 
-- Rendre compte à Elfrion : bilan chiffré et nommé sur fer, Tripot, nominations au conseil UBI (mandat favorable à Arthas / Ther-Félis), routes — pas seulement des rumeurs.
-- Resserrer la vis sur les cadres des Sangs : plans, ressources, risques ; priorité au dossier fer (Palyr, Sfaal, navires, sceaux, registres) puis Tripot puis levier conseil UBI.
-- Archives et coffres UBI : intercepter les rapports du renseignement militaire confédéral (guerre, budgets, préparatifs) avant qu’ils ne soudent les cinq cités contre la Styrgie — avant qu’un concurrent n’y mette la main.
-- Contacts pro-styrgiens : tenir les rendez-vous avec **Sven Orlac** (Ther-Félis) et le contact identifié à **Arthas** (lettres déjà remises, signe de reconnaissance).
-- **Il-Irion** : reprendre la piste avec **Garick Alvaren** ; lettre de la **Guilde des Ports Unis** (au nom de la Styrgie), rendez-vous samedi avant 9 — **Ysel**, mot « registre du quai nord ».
-- Rumeur Arguétheim / or → métal : identifier qui la propage côté confédéral, où ça bloque, sabotage ou fuite contrôlée selon les ordres du Primat.
-- Routes et mer : orienter régate, escales, fret et rabais vers des intermédiaires d’Arthas et Ther-Félis alignés sur les objectifs fixés à Elfrion ; faciliter une prise d’influence sur l’UBI par cette porte plutôt qu’en attaquant la banque de front ; éviter l’embargo ouvert qui rallierait toute la Confédération.
-- Appuis lointains : entretenir les contacts utiles sans les exposer.
-- **Tripot** : comprendre pourquoi **Marda Velyss** résiste à la mafia et quels appuis (probablement hors Confédération) soutiennent la maison — ne pas forcer avant d’avoir des noms ; puis exploiter, négocier ou presser (couverture Questeur, **Miraen** en salle).
+- **Rendre compte à Elfrion** : bilan chiffré et nommé sur fer, Tripot, nominations au conseil UBI (mandat favorable à Arthas / Ther-Félis), routes — pas seulement des rumeurs.
+- **Resserrer la vis sur les Sangs** : plans, ressources, risques ; priorité au dossier fer (Palyr, Sfaal, navires, sceaux, registres) puis Tripot puis levier conseil UBI.
+- **Archives et coffres UBI** : intercepter les rapports du renseignement militaire confédéral (guerre, budgets, préparatifs) avant qu’ils ne soudent les cinq cités contre la Styrgie — avant qu’un concurrent n’y mette la main.
+- **Contacts pro-styrgiens** : tenir les rendez-vous avec Sven Orlac (Ther-Félis) et le contact identifié à Arthas (lettres déjà remises, signe de reconnaissance).
+- **Palyr — Thoran Keld** : Lucan tient le rendez-vous commerce gris (lettre STY-547-PAL-THO-01, mot « cale close avant l’aube », vendredi soir quai) ; relancer achats discrets armes / matériel, hors registres confédéraux.
+- **Il-Irion** : reprendre la piste avec Garick Alvaren ; lettre de la Guilde des Ports Unis (au nom de la Styrgie), rendez-vous samedi avant 9 h — Ysel, mot « registre du quai nord ».
+- **Rumeur Arguétheim** : identifier qui la propage côté confédéral, où ça bloque, sabotage ou fuite contrôlée selon les ordres du Primat.
+- **Routes et mer** : orienter régate, escales, fret et rabais vers des intermédiaires d’Arthas et Ther-Félis alignés sur les objectifs fixés à Elfrion ; faciliter une prise d’influence sur l’UBI par cette porte plutôt qu’en attaquant la banque de front ; éviter l’embargo ouvert qui rallierait toute la Confédération.
+- **Appuis lointains** : entretenir les contacts utiles sans les exposer.
+- **Tripot** : comprendre pourquoi Marda Velyss résiste à la mafia et quels appuis (probablement hors Confédération) soutiennent la maison — ne pas forcer avant d’avoir des noms ; puis exploiter, négocier ou presser (couverture Questeur, Miraen en salle).
 
 ---
 
 ## Composition du groupe — détachement Corvel
 
-| Nom | Rôle | En bref |
-|-----|------|---------|
-| Théven Corvel | Chef de mission | Arbitrage avec Elfrion / le Primat ; dossier fer ; décisions de retrait ou de brûlage |
-| Ysel Marivent | Officier de renseignement | Coffres, archives, correspondances |
-| Lucan Drest | Négociateur / couverture convention | Régate, routes, salons ; langues |
-| Varro Selt | Infiltrateur / exécutant | Extraction, neutralisation quand la couverture ne suffit pas |
-| Miraen Talvas | Couverture Tripot | Accès crédible au casino — codes, flux, salons |
+| Nom | Rôle | En bref | Joueur |
+|-----|------|---------|--------|
+| Théven Corvel | Chef de mission | Arbitrage avec Elfrion / le Primat ; dossier fer ; décisions de retrait ou de brûlage | *Joueur* |
+| Ysel Marivent | Officier de renseignement | Coffres, archives, correspondances | *Joueur* |
+| Lucan Drest | Négociateur / couverture convention | Régate, routes, salons ; langues | *Joueur* |
+| Varro Selt | Infiltrateur / exécutant | Extraction, neutralisation quand la couverture ne suffit pas | *Joueur* |
+| Miraen Talvas | Couverture Tripot | Accès crédible au casino — codes, flux, salons | *Joueur* |

@@ -29,6 +29,8 @@ Les Sangs ont été montés par la **Styrgie** il y a ~15 ans pour déstabiliser
 
 Les **trois dernières années**, le bilan remonté au MiVI est jugé insuffisant (Tripot, UBI, doubles ventes, routes). L’échéance **régate + mandat UBI** est une fenêtre de rattrapage : ce sont les **boss** qui portent la ligne.
 
+**Ther-Félis et la sous-traitance** : Ther-Félis conserve le **contrat confédéré de transport du fer**, mais la cité n’a plus les moyens d’**entretenir sa flotte** (navires à quai). Les convois passent par **sous-traitance** à la **Guilde des Ports Unis**. Greffes et délégation traitent la Guilde comme syndicat maritime reconnu et **ignorent** le réseau Sangs. Mandats, avenants et correspondance avec le **directeur de syndicat des routes** circulent dans les coffres — pièces utiles si une enquête relie Ther-Félis à ce qui s’est passé en mer. C’est cette porte ouverte qui a permis d’**organiser le détournement** lorsque le MiVI l’a exigé (détail joueurs : `Back_groupe_Mafia.md`, section *L’affaire du fer*).
+
 L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécutée avec la **Guilde des Ports Unis** et des **Pirates d’Albar**, reste un dossier vif : les Sangs ont payé les pirates pour orienter le **bon fer** vers **Aquiléa** et non vers la Styrgie ; le **paiement** lié à cette manœuvre est encore **en suspens** pendant le GN. Contacts règlement : **Korran Vesper** (pirates) ↔ **Raven** (Sangs). Le bon fer a **disparu** ensuite — tension **MiVI** si le dossier refait surface.
 
 ---
@@ -38,7 +40,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 - **Tripot** : Imposer une mainmise ou un accord de domination sur le **casino du fort d’Ulghart** (équipe de Marda) ; utiliser les flux pour presser l’UBI et les élites.
 - **Banquiers - UBI** : Infiltrer **coffres et archives** pour récupérer des documents compromettants ; influencer le **renouvellement du conseil** (priorités pro-**Arthas** / **Ther-Félis** là où ça sert la ligne Styrgie) ; chantage sur les cités à partir des preuves obtenues.
 - **Il-Irion** : Affaiblir le bloc insulaire ; exploiter la connaissance partielle d’un **détournement** lié à la banque ; chercher **preuves** et **leviers** sur les grandes familles.
-- **Ther-Félis** : Coordonner avec le **séparatiste pro-Styrgie** de la délégation (*nom orga à fixer*) et les moyens de bascule utiles à la Styrgie.
+- **Ther-Félis** : Coordonner avec le **séparatiste pro-Styrgie** de la délégation (*nom orga à fixer*) ; **maintenir** la façade syndicale sur le **contrat de transport du fer** (sous-traitance officielle, flotte immobilisée) ; empêcher qu’une enquête ne relie mandats Ther-Félis et substitution en mer.
 - **Arthas** : Favoriser **candidatures ou appuis** alignés Styrgie à la Convention ; synchroniser avec le **contact séparatiste** (*nom orga à fixer*).
 - **Palyr** : Acquérir des **informations** (dont fils sur le détournement bancaire) ; croiser **régate**, docks et enjeux **fer**. La Mafia connait le nom de Mélian au tripot qui a des sources sures.
 - **Sfaal** : Maintenir le **chantage** sur le dossier **fer** et la complicité **sceau** (**CP-III-546-002**, `Intrigue_Sfaal.md`) ; Sfaal ne sait pas que la mafia tient le **double jeu** ; pression sur le représentant ayant prêté le sceau (*nom orga à fixer*).
@@ -57,7 +59,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 | **Banquiers - UBI** | Cible | Coffres, mandat, personnel et conseil sortant. |
 | **Il-Irion** | Cible | Grandes familles, élections, régate. |
 | **Palyr** | Cible / terrain | Coffres, régate, docks, pression croisée avec le fer. |
-| **Ther-Félis** | Levier | Délégation et griefs portuaires / financiers. |
+| **Ther-Félis** | Levier / façade contractuelle | Contrat fer sous-traité à la Guilde ; cité **ignore** le réseau ; délégation, séparatiste pro-Styrgie, écrits en coffre. |
 | **Arthas** | Levier | Candidatures et alternative bancaire hostile à l’UBI. |
 | **Sfaal** | Cible variable | Dossier fer, complice sceau, délégation. |
 | **La Compagnie du Dolmen Rouge (Voleurs 1)** | Adversaire sur Gorvan | Vente Arguétheim. |
@@ -100,7 +102,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 - **Leurre tchélène / steppe** : couverture extérieure ; pas la confusion interne au réseau.
 - **Pression MiVI** : relances si les dossiers majeurs (Tripot, UBI, preuves, fer) stagnent encore.
 - **Coffres UBI** : pièces d’archive (codes pièce `TT-R-YYY-NNN`), fil Valdris, dossiers « guerre » ou compromettants pour la Styrgie.
-- **Opération fer 546–547** : chaîne MiVI → substitution en mer → **Palyr** reçoit du mauvais fer ; **CP-III-546-002** / complice **Sfaal** ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
+- **Opération fer 546–547** : **Ther-Félis** (contrat, flotte à quai, sous-traitance Guilde) → MiVI ordonne le détournement → substitution en mer → **Palyr** reçoit du mauvais fer ; **CP-III-546-002** / complice **Sfaal** ; relais portuaires Guilde ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
 - **Scandale de Staal (~12 ans)** : cohérence avec archives et chantage actuel sur familles.
 
 ---

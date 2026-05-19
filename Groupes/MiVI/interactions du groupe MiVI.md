@@ -17,6 +17,7 @@ Chaque ligne part des **fiches PJ** (section Connaissances) ; les arbitrages int
 | Lucan Drest | Melian Torv (UBI) | Tu sais le lien Palyr documenté FL ; tu ne joues pas la confession sans avoir recouplé avec Ysel si Melian est dans la pièce. |
 | Lucan Drest | Cyrion Valdris (Il-Irion) | Lettre d’adultère partielle ; ce n’est pas le dossier complet tenu ailleurs sur l’île. |
 | Lucan Drest | Torven Sorel (Guilde des Ports Unis) | Contrat acier Sfaal–Palyr ; levier commerce distinct du seul casino. |
+| Lucan Drest | Thoran Keld (Palyr) | Lettre STY-547-PAL-THO-01 ; envoyé secret commerce gris armes / matériel ; mot « cale close avant l'aube » ; vendredi soir quai marchand — pas de brief détachement entier. |
 | Lucan Drest | Halwen Rask (Staal, imprimerie) | Presse et complaisance éditoriale ; lien avec le scandale Staale. |
 | Lucan Drest | Intermédiaires Arthas / Ther-Félis (pièce AN) | Routes et enchères d’escales ; noms utiles Sera Orist, Jonn Halet, Maison Veth & Roole. |
 | Varro Selt | Gareth Ironfist (Sangs) | Muscle et extraction ; tu évites de croiser la grille GC le même jour qu’un autre contact sans plan. |

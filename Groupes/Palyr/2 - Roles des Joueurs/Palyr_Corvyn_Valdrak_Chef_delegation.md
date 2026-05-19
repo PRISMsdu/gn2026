@@ -60,9 +60,6 @@ Epopée en Krondaar
 
 # L'histoire de Corvyn Valdrak
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
 
 ## Chapitre I : Les origines (enfance à Palyr)
 
@@ -88,7 +85,7 @@ Tu passes aussi par des négociations commerciales avec des partenaires extérie
 
 Le Légat actuel te confie la représentation à Ulghart. Tu reçois une lettre de créance pour le commerce, la diplomatie et les finances de mission. C'est le mandat le plus large qu'on t'ait confié. Il couvre aussi les dossiers que la lettre n'énumère pas.
 
-Il y a environ un an, Lysa Morwyn te présente un dossier. Melian Torv, du conseil de la banque, a vendu des informations à une représentante de Palyr lors d'un passage au fort. Lysa a croisé et structuré ces données. Le dossier est lourd : détournements documentés, captation de fonds sur plusieurs cités, signatures de conseil identifiables. Ce niveau de détail dépasse ce que Palyr soupçonnait.
+Il y a environ un an, Lysa Morwyn te présente un dossier. Melian Torv, conseiller spirituel de l'UBI, a vendu des informations lors d'un passage au fort. Prix : 2 000 couronnes. Palyr a versé 1 000 couronnes et reçu une lettre de dénonciation sans les références internes des pièces. Lysa a croisé ce que vous tenez. Le dossier décrit des détournements massifs et des prêts parallèles ; il n'est pleinement exploitable qu'après le second versement.
 
 Tu portes le dossier au Conseil. Les juristes classent ce qui peut sortir en public, ce qui doit rester interne, et ce qui doit être récupéré avant toute lecture par un tiers — en particulier les archives que Palyr avait déposées en coffre à une époque où la banque semblait fiable.
 
@@ -101,6 +98,8 @@ Le mandat concentre plusieurs dossiers en même temps. La régate d'abord : Paly
 La banque ensuite : Edorian sort. Tu veux récupérer les documents Palyr avant que le nouveau conseil ferme les accès. Ilara travaille le dossier de l'intérieur pour le poste de directrice adjointe. Lysa tient les accès et les contacts. La difficulté est de rythme : Ilara veut aller vite pour forcer les votes, Lysa a besoin de temps pour les coffres. Tu arbitres entre les deux.
 
 L'incident Sfaal reste ouvert. Le dernier chargement de minerai était certifié conforme, les creusets de Palyr disent autre chose. Thoran doit confronter Sfaal sans accuser à vide. Tant que la chaîne entre le quai de chargement et les fours de Palyr n'est pas établie, une accusation publique reviendrait à couper le fer avant d'avoir un remplaçant.
+
+Le haut commandement exige de l'Arguetheim pendant que le fer ordinaire échoue. L'Oblat t'a investi d'un mandat général sur toute la délégation à la Convention : tu fixes les priorités, tu engages Palyr jusqu'à cent mille couronnes, tu ne peux pas lever d'armée. Tu délègues à Maren la réception et le contrôle du métal ; tu valides, tu tranches avec Lysa sur les paiements. Tu as chargé Lysa du contact commercial : elle a mandaté Gorvan Tresselune à Ther-Félis il y a environ un mois. La vente doit être conclue au plus tard en fin de journée du samedi. Si la transaction échoue ou si les documents ne tiennent pas, Palyr perd face au haut commandement autant que face à la banque.
 
 Le Tripot te préoccupe différemment. Saevar est accro au jeu et endetté là-bas. Sa dette est un levier direct contre lui. Si quelqu'un veut bloquer la délégation pendant la Régate, Saevar est la porte d'entrée la plus simple. Tu veux fermer cette porte. La question est de savoir comment sans perdre son efficacité et ses réseaux au moment où tu en as le plus besoin.
 
@@ -131,17 +130,20 @@ Edorian est la cible principale de la négociation. Il veut sortir du conseil av
 
 | Personnage | Interaction |
 |------------|-------------|
-| Ilara Vandesse | Coordination sur le dossier banque ; tu arbitres le timing des preuves avec elle ; risque qu'elle aille trop vite. |
-| Lysa Morwyn | Confiance sur les chiffres et les coffres ; elle ne partage pas tout ce qu'elle fait en marge — tu l'acceptes pour l'instant. |
-| Thoran Keld | Solide sur le commerce et la régate ; t'as confié les moyens pour les juges ; tient son périmètre. |
-| Saevar Dren | Chef de sécurité ; accro au jeu au Tripot, endetté — levier direct contre lui et contre la délégation. |
+| Ilara Vandesse | Diplomate ; tu arbitres le timing des preuves avec elle ; risque qu'elle aille trop vite en commission. |
+| Lysa Morwyn | Trésorière ; confiance sur les chiffres et les coffres ; elle ne partage pas tout — tu l'acceptes tant que le résultat avance. |
+| Thoran Keld | Marchand et capitaine ; régate, Sfaal, filière de remplacement ; tient son périmètre ; moyens pour les juges à garder intraçables. |
+| Saevar Dren | Chef de sécurité ; réseaux utiles ; Tripot et dette — levier et menace pour la délégation. |
+| Maren Holt | Commandant ; armement et Arguetheim sous ta direction ; tu valides, il réceptionne le métal pour le haut commandement. |
+| Syndri Ashfeld | Herboriste ; mandat Conseil sur l'objet en coffre UBI ; tu veux des faits, pas du folklore en séance. |
+| Bran Lyrd | Druide ; frère de l'Oblat de Palyr ; voyage sous escorte ; toléré tant qu'il ne bloque pas le mandat collectif. |
 
 
 # Connaissances
 
 ## Melian Torv — conseil de la banque (UBI)
 
-Melian est le canal initial du dossier de corruption. Elle a vendu des informations à Lysa contre de l'argent et une promesse de protection. Tu ne traites pas directement avec elle : tout passe par Lysa. Si Melian tombe ou disparaît, le dossier perd son seul témoin interne au conseil.
+Melian est le canal initial du dossier de corruption. Accord : 2 000 couronnes ; 1 000 payées ; lettre reçue ; références et extraits après le solde. Tu ne traites pas directement avec lui : tout passe par Lysa. Si Melian tombe avant le second paquet, le dossier reste partiel.
 
 ## Edorian — directeur du conseil (UBI)
 

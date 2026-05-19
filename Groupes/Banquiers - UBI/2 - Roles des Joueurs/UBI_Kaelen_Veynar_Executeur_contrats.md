@@ -61,10 +61,6 @@ Epopée en Krondaar
 
 # L'histoire de Kaelen Veynar
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
-
 ## Chapitre I : Les origines
 
 Tu nais dans une famille de forgerons dans une ville du nord. Ton père fabrique des outils et des armes pour les marchands et les milices locales. Le travail à la forge est dur, régulier, peu payé. Tu regardes ton père travailler depuis l'enfance et tu décides très tôt que ce n'est pas ta vie.
@@ -139,12 +135,6 @@ Kaelan Thormane et les Sangs de la Steppe ont croisé tes réseaux de recouvreme
 
 # Connaissances
 
-**Règles de forme (obligatoires)**  
-- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
-- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
-- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
-- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
 ## Recouvrement et dossiers nobles — UBI
 

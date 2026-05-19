@@ -2,9 +2,9 @@
 
 <!--
   DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
-  Chaîne : `Intrigues/Intrigue_Palyr.md` (orga) → ce fichier → `Groupes/Palyr/2 - Roles des Joueurs/role_joueur_*.md`.
+  Chaîne : `Intrigues/Intrigue_Palyr.md` (orga) → ce fichier → `Groupes/Palyr/2 - Roles des Joueurs/Palyr_*_*.md` (nom du personnage + rôle dans la délégation).
   Croisements avec d’autres groupes : `Groupes/Palyr/interactions du groupe Palyr.md` ; CSV orga : `Groupes/Palyr/1 - Back de groupe/interactions_Palyr_vers_autres_groupes.csv`.
-  Style : langage simple et direct (consigne `Groupes/Afaire.md`, *Check d’un groupe*).
+  Style : `Groupes/_templates/Style.md` ; skill `.cursor/skills/redaction-gn/`.
   Mise en forme impression : `Scripts/` — back_groupe_print.css, back_groupe_shell.html, export_back_groupe.ps1.
 -->
 
@@ -16,7 +16,7 @@ Les forgerons de guerre y travaillèrent pendant des générations. Ils équipai
 
 Au centre de l’île se dressait le cairn Lyrd, lieu druidique ancien. Les forgerons laissaient le site aux rituels. Les druides laissaient travailler les forges. Les deux camps évitaient de se gêner. Cette habitude a duré.
 
-Les ateliers tournaient par quarts quand les commandes pressaient. Les enfants y entraient jeunes pour trier le charbon et apprendre les noms des outils. Les accidents étaient notés dans des registres municipaux. Les familles savaient qui avait perdu un doigt et quelle commande était en retard. Cette densité sociale a façonné une culture directe : peu de place pour les discours vides quand le four chauffe.
+Les ateliers tournaient par quarts quand les commandes pressaient. Les enfants y entraient jeunes pour trier le charbon et apprendre les noms des outils. Les accidents étaient notés dans des registres municipaux. Les familles savaient qui avait perdu un doigt et quelle commande était en retard. Sur l’île, peu de place pour les discours vides quand le four chauffe.
 
 Quand une cité vit ainsi du métal, elle mesure vite ce qui est solide et ce qui ne l’est pas. Les alliances se discutaient d’abord avec des échantillons et des clauses, puis avec des serments publics. Les trahisons se voyaient surtout sur les quais : un chargement qui change de destination, une signature qui manque, un prix qui saute sans lettre officielle.
 
@@ -26,13 +26,13 @@ Quand les cités ont formé la Confédération, Palyr a hésité longtemps. Elle
 
 Après environ deux générations de négociations, Palyr a signé. Les conditions étaient claires : pas de garnison étrangère sur l’île ; contrôle des ateliers conservé à Palyr. En retour, Palyr fournissait l’armement des armées confédérales à tarif préférentiel.
 
-Les contrats avec Sfaal se sont alignés sur la même période. Palyr achetait du minerai brut à long terme. Sfaal recevait des outils, du matériel minier et une sorte de couverture militaire implicite par le jeu des alliances. Les deux cités avaient besoin l’une de l’autre.
+Les contrats avec Sfaal se sont alignés sur la même période. Palyr achetait du minerai brut à long terme. Sfaal recevait des outils, du matériel minier et une couverture militaire implicite par le jeu des alliances. Les deux cités avaient besoin l’une de l’autre.
 
-Les livraisons suivaient un rythme connu : tonnages, grades de minerai, dates de départ et d’arrivée. Les maîtres de forge tenaient des registres. Chaque cargaison officielle portait le **sceau de Sfaal** : origine, grade, date de chargement. Les épreuves en atelier confirmaient presque toujours les papiers. Les écarts étaient rares et petits. Quand un lot arrivait en retard, on cherchait d’abord la météo et le navire, pas la politique.
+Les livraisons suivaient un rythme connu : tonnages, grades de minerai, dates de départ et d’arrivée. Les maîtres de forge tenaient des registres. Chaque cargaison officielle portait le sceau de Sfaal : origine, grade, date de chargement. Les épreuves en atelier confirmaient presque toujours les papiers. Les écarts étaient rares et petits. Quand un lot arrivait en retard, on cherchait d’abord la météo et le navire, pas la politique.
 
 Le rôle public de Palyr dans la Confédération tenait en une phrase répétée aux assemblées : fournir l’armement des troupes communes à un prix réglementé. En échange, la Confédération garantissait un cadre pour les routes et une forme de reconnaissance quand Palyr réclamait un accès marchand. Chaque côté relisait le texte et notait les écarts.
 
-Sous le Grand Légat **Karyk Valdrak**, père de **Corvyn**, l’île a connu une phase prospère. Les commandes militaires affluaient. Les forges tournaient. On a investi dans le port, les entrepôts, les routes entre forges et quais.
+Sous le Grand Légat Karyk Valdrak, père de Corvyn, l’île a connu une phase prospère. Les commandes militaires affluaient. Les forges tournaient. On a investi dans le port, les entrepôts, les routes entre forges et quais.
 
 En parallèle des contrats officiels, des cargaisons plus discrètes partaient vers des acheteurs non déclarés. La Styrgie achetait. Le Conseil de Palyr fermait les yeux sur le papier. Sur l’île, beaucoup savaient ce qui se chargeait avant l’aube.
 
@@ -40,83 +40,87 @@ La banque d’Il-Irion est devenue le partenaire financier habituel. Le crédit 
 
 ## II — Ce qui a cassé
 
-Le **dernier** transport de minerai brut en provenance de Sfaal s’est révélé **catastrophique** pour les forges. Impuretés, cycles allongés, charbon gaspillé : les maîtres n’ont pas tiré l’acier d’élite attendu par les contrats confédéraux. La **production d’armement de qualité a été bloquée** sur ce lot — sans qu’aucune livraison antérieure n’ait annoncé pareil écart.
+Le dernier transport de minerai brut en provenance de Sfaal a bloqué les forges. Impuretés, cycles allongés, charbon gaspillé : les maîtres n’ont pas tiré l’acier d’élite attendu par les contrats confédéraux. La production d’armement de qualité s’est arrêtée sur ce lot. Aucune livraison antérieure n’avait annoncé pareil écart.
 
-Jusque-là, les chargements correspondaient aux grades annoncés. Le **sceau de Sfaal** sur les ballots et les bulletins d’expédition attestait **origine et qualité** au départ. Ce dernier lot porte **les mêmes sceaux et les mêmes mentions de grade** que les lots précédents ; pourtant le minerai reçu à Palyr ne tient pas l’**épreuve** en creuset.
+Jusque-là, les chargements correspondaient aux grades annoncés. Le sceau de Sfaal sur les ballots et les bulletins d’expédition attestait origine et qualité au départ. Ce dernier lot porte les mêmes sceaux et les mêmes mentions de grade que les lots précédents. À Palyr, le minerai ne tient pas l’épreuve en creuset.
 
-Sfaal a ouvert livres et registres : sortie de mine, contrôles, embarquement — tout ce qu’on peut exiger devant un conseil. Les négociateurs affirment que **leur** cargaison partie était conforme. Palyr montre fours, cassures, analyses. Les deux parties parlent le langage du contrat sans se mettre d’accord sur **où** la chaîne a menti.
+Sfaal a ouvert livres et registres : sortie de mine, contrôles, embarquement — tout ce qu’on peut exiger devant un conseil. Les négociateurs affirment que leur cargaison partie était conforme. Palyr montre fours, cassures, analyses. Les deux parties parlent le langage du contrat sans s’accorder sur l’endroit où la chaîne a menti.
 
-Le Conseil et les marchands savent depuis longtemps qu’**un minerai peut changer de mains en route** : transbordement, mélange, substitution dans une cale. Tant qu’on ne peut le prouver ni le nommer devant témoins, accuser Sfaal en assemblée revient à risquer de **couper le fer**. Les séances fermées ne demandent plus « Sfaal triche-t-elle depuis des années ? » mais « **Entre le quai scellé et nos creusets, qu’est-il arrivé à ce chargement — et que peut-on prouver sans nous ruiner diplomatiquement ?** »
+Le Conseil et les marchands savent depuis longtemps qu’un minerai peut changer de mains en route : transbordement, mélange, substitution dans une cale. Tant qu’on ne peut le prouver ni le nommer devant témoins, accuser Sfaal en assemblée revient à risquer de couper le fer. Les séances fermées ne demandent plus si Sfaal triche depuis des années. Elles demandent ce qui est arrivé à ce chargement entre le quai scellé et les creusets, et ce qu’on peut prouver sans se ruiner diplomatiquement.
 
-En même temps, le conseil bancaire d’Il-Irion a changé de ton sous **Edorian**. Les taux ont grimpé sans bruit. Des dossiers demandés sont restés « introuvables ». Des audits annoncés ne se sont pas tenus. Palyr n’avait pas encore de preuve solide. Elle avait déjà des raisons de se méfier.
+En même temps, le conseil bancaire d’Il-Irion a changé de ton sous Edorian. Les taux ont grimpé sans bruit. Des dossiers demandés sont restés introuvables. Des audits annoncés ne se sont pas tenus. Palyr n’avait pas encore de preuve solide. Elle avait déjà des raisons de se méfier.
+
+Le haut commandement confédéral a ouvert une commande d’Arguetheim pendant que le fer ordinaire échoue. Le mandat circule par lettres scellées et par la Bibliothèque du fort d’Ulghart.
 
 ## III — Melian et les preuves
 
-Il y a environ un an, **Melian Torv**, du conseil bancaire d’Il-Irion, a contacté une représentante de Palyr lors d’un passage au Fort d'Ulghart. Elle vendait des informations. Elle demandait de l’argent et une protection.
+Il y a environ un an, Melian Torv, conseiller spirituel de l’UBI, a contacté Lysa Morwyn lors d’un passage au fort d’Ulghart. Il vendait des informations sur des détournements financiers observés au sein de la banque. Il demandait 2 000 couronnes et une protection.
 
-Melian parlait de détournements massifs, documentés, impliquant le conseil sortant et des sommes prises sur plusieurs cités de la Confédération. Ce niveau de détail dépassait ce que Palyr soupçonnait sans le voir noir sur blanc.
+Melian décrivait des prêts parallèles, des reconnaissances sous sceau et des actes de dépôt dont les montants déclarés ne collent pas aux pesées en chambre close. Le Conseil a validé l’achat. Palyr a versé 1 000 couronnes. Melian a remis une lettre de dénonciation : elle expose le mécanisme et cite l’existence des pièces en coffre, sans donner les références ni les extraits qui permettraient de les retrouver au registre.
 
-Palyr a payé. Le Conseil a alors un dossier lourd à porter. Les preuves pouvaient servir contre la banque actuelle. Les mêmes coffres contenaient aussi des archives gênantes pour Palyr elle-même, déposées à une époque où la confiance semblait raisonnable.
+Le second versement de 1 000 couronnes reste dû. Melian refuse de transmettre les codes et les copies exploitables tant qu’il n’a pas été payé en totalité. Lysa structure ce que Palyr tient déjà ; le dossier n’est pleinement actionnable qu’après le solde, avant ou pendant la Régate selon le signal convenu.
 
-Les juristes de Palyr ont classé ce qui peut sortir en public, ce qui doit rester interne, et ce qui doit être récupéré avant toute lecture par un tiers. Les échéances suivaient le calendrier bancaire d’Il-Irion, pas le calendrier des forges. Chaque jour de retard augmentait le risque qu’un concurrent politique ou un banquier de transition s’empare des mêmes tiroirs.
+Les mêmes coffres contiennent aussi des archives gênantes pour Palyr, déposées à une époque où la confiance semblait raisonnable. Les juristes ont classé ce qui peut sortir en public, ce qui doit rester interne, et ce qui doit être récupéré avant toute lecture par un tiers. Chaque jour de retard augmente le risque qu’un concurrent ou un banquier de transition s’empare des tiroirs avant vous.
 
 La Convention d’Ulghart est le prochain rendez-vous commun. Les banquiers, les cités, les marchands s’y croisent. Un nouveau conseil doit prendre la suite à la banque. Le Conseil de Palyr a jugé que c’était le moment de bouger avant que les accès aux coffres ne changent de main sans contrôle.
 
-## IV — Avant le départ
+## IV — Constituer la délégation
 
-Le Conseil a d’abord vérifié les besoins du voyage. Il fallait quelqu’un pour parler en séance, quelqu’un pour les chiffres et les coffres, quelqu’un pour le commerce et la mer, quelqu’un pour la sécurité et les réseaux, et un chef de délégation capable de trancher quand les instructions se croisent.
+Le Conseil a d’abord vérifié les besoins du voyage : quelqu’un pour parler en séance, pour les chiffres et les coffres, pour le commerce et la mer, pour la défense et l’armement, et un chef capable de trancher quand les instructions se croisent.
 
-On vous a reçus un par un. On vous a posé des questions simples sur des cas limites : un allié vous demande de détruire une preuve utile à Palyr ; pression publique à la régate ; rumeur sur un quai. Les réponses servaient à voir où chacun tenait sous stress, pas à vous noter comme à un examen scolaire.
+Huit personnes partent pour Ulghart. Cinq portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Saevar. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Bran Lyrd (druide du cairn Lyrd, frère de l’Oblat resté à Palyr, artefact trouvé sur le site).
 
-Vous avez ensuite travaillé en petit groupe sur des mises en situation : audience tendue, quai avec un interlocuteur de Sfaal hostile, salon où l’on vous tend à boire et à parler trop. Le but était fixé à l’avance : savoir qui parle en premier, qui calme la salle, qui coupe une phrase risquée.
+On vous a reçus un par un, puis en petit groupe : cas limites, mises en situation (audience, quai hostile, salon), formulations courtes pour les halls publics, mots de passe et lieux de rendez-vous pour les messages urgents.
 
-On a répété des formulations courtes pour les halls publics. On a listé les noms qu’il vaut mieux ne pas crier dans une cour. On a fixé des mots de passe et des lieux de rendez-vous pour les messages urgents. Rien de fantaisiste : des consignes qu’un officier peut relire à voix basse la veille du départ.
+Un courrier est arrivé au Conseil avec les papiers de mission ; on vous l’a remis au même titre que les instructions de voyage. Tavish Kaironi signe depuis Ulghart. Il dit relayer un message de cercles qui ne veulent pas encore paraître en séance publique : les Fils du Levant.
 
-Un courrier est arrivé au Conseil avec les papiers de mission ; on vous l’a remis au même titre que les instructions de voyage. Tavish Kaironi signe. Il se présente comme un habitant d’Ulghart, avec des attaches familiales sur plusieurs îles du Levant. Il demande un entretien hors tribune, sans témoin pris sur la place. Il annonce vouloir raconter ce qu’il appelle la vraie histoire des îles du Levant : alliances et silences, pas seulement les dates qu’on cite dans les séances. Le Conseil n’a pas vérifié son identité au-delà du nom sur le pli. La délégation choisit qui lit la lettre, qui répond, et jusqu’où vous écoutez une parole qui ne figure sur aucun mandat officiel.
+Ils proposent de discuter, à Ulghart et hors tribune, d’un nouvel ordre entre les îles : chaque cité et chaque peuple aurait sa place reconnue et plus de marge face aux maisons d’Il-Irion, qui pèsent aujourd’hui sur la banque, les votes et les archives. Le texte s’adresse à Palyr parce que l’île fournit l’armement confédéral tout en payant le prix des dettes et des taux. Le Conseil n’a pas vérifié Tavish au-delà du nom sur le pli. Il demande de ne pas diffuser la lettre en séance ouverte. Pour répondre, la formule convenue est « le fer et le serment ».
 
-Les règles du voyage ont été rappelées en une page. En public, vous défendez Palyr. Ce que le mandat tait reste dans les salles fermées. Les informations sensibles circulent selon le besoin de savoir, pas par habitude de tout partager.
+La délégation choisit qui lit le pli, qui répond, et jusqu’où ce contact — absent du mandat officiel du Légat — peut engager Palyr.
 
 ## V — Ce que vous faites à Ulghart
 
-**Corvyn Valdrak** porte le mandat du Légat à Ulghart. Le Légat reste à Palyr. Corvyn est chef de délégation. Il a une lettre de créance pour le commerce, la diplomatie et les finances de mission. La Confédération voit une délégation normale : régate, contrats, cérémonies.
+Corvyn Valdrak porte le mandat du Légat. Le Légat reste à Palyr. Corvyn est chef de délégation. Il fixe les priorités, parle avec Edorian, et tranche quand Ilara, Lysa, Maren et Thoran tirent la délégation dans des directions différentes. En public : régate, contrats, cérémonies. En coulisse : récupérer les documents en banque, utiliser les preuves par étapes, avancer l’accord avec Arthas, négocier la sortie d’Edorian (or, documents, silence ; Marda au Tripot peut servir d’intermédiaire).
 
-La vérité est plus tendue. Palyr veut récupérer ses documents en banque. Elle veut utiliser les preuves sans perdre en crédit public ce qu’elle gagne en pression sur la banque. Elle veut avancer sur un accord avec **Arthas**. Elle veut sécuriser des filières que le Conseil n’a pas écrites noir sur blanc dans les circulaires.
+Ilara Vandesse mène la diplomatie et les commissions. Elle pousse la création d’un poste de directrice adjointe au conseil de l’UBI, fait voter sa création, puis vise le siège pour Palyr. Elle porte la ligne Arthas. Elle reste alignée avec Lysa et Corvyn sur ce qui sort du dossier corruption.
 
-**Ilara Vandesse** mène la diplomatie et les commissions où se jouent les votes. Elle pousse la création d’un poste de **directrice adjointe** au conseil de la banque pour renforcer le contrôle sur l’UBI. Elle doit rester alignée avec Lysa et Corvyn sur ce qui sort du dossier.
+Lysa Morwyn tient l’ordre de mandat de l’Oblat sur le coffre délégué de Palyr à l’UBI, le dossier Melian, la sortie des archives avant le changement de conseil, et le contact commercial sur l’Arguetheim. Il y a environ un mois, Lysa a mandaté Gorvan Tresselune, de la Compagnie du Dolmen Rouge, à Ther-Félis. La vente doit être conclue au plus tard en fin de journée du samedi de la Régate.
 
-**Lysa Morwyn** tient les chiffres, les coffres et les contacts banque. Elle porte les négociations sensibles sur les documents, les interfaces avec l’UBI, et la sortie des archives que Palyr veut retirer des coffres avant le basculement du conseil.
+Corvyn Valdrak porte l’ordre des Oblats sur toute la délégation à la Convention (plafond d’engagement cent mille couronnes, pas de levée d’armée). Il fixe les priorités, délègue à chacun et tranche les conflits. Maren Holt exécute sous sa direction les dossiers militaires et d’armement — dont l’Arguetheim : réception du métal, vérification, remise au haut commandement ; les paiements passent avec Lysa. Maren ne peut pas outrepasser Corvyn. Maren mène aussi les lectures à la Bibliothèque, retrouve la Hanse des Lames (contacts dispersés, un par un) et porte en public le dossier fer Sfaal aux côtés de Thoran.
 
-**Thoran Keld** porte le commerce, l’acier, l’achat d’Arguetheim, la frégate et la régate. Il n’est pas accro au jeu. Il croise tout de même le Tripot sur le volet paris et régate. Son travail sur les quais reste distinct de la diplomatie d’Ilara.
+Thoran Keld renégocie routes et fret (Guilde des Ports Unis, paraphes, entrepôts), commande la frégate pour la régate, et confronte Sfaal sur le dernier chargement. Le Conseil lui a remis une lettre pour relancer les achats discrets d’armes et de matériel vers la Styrgie : Thoran est le seul interlocuteur désigné ; un envoyé secret le contactera à Ulghart au mot **« cale close avant l’aube »**. Ce fil n’est pas dans le mandat public du Légat. Il croise le Tripot sur les paris autour de la régate, sans y être accro.
 
-**Saevar Dren** coordonne la sécurité de la délégation et les contacts discrets : Ther-Félis, milieux gris à Ulghart, mercenaires de passage quand la mission a besoin d’appuis sans signature publique.
+Saevar Dren tient la sûreté de la délégation, les contacts discrets (Ther-Félis, milieux gris, mercenaires de passage) et celle d’un éventuel rendez-vous Tavish. Il joue au Tripot et doit de l’argent à Lira ; Corvyn sait qu’il est endetté, pas le montant. Si la dette éclate, la mafia ou la banque peuvent s’en servir contre la délégation.
 
-Le fort d’Ulghart concentre banque, quais, Tripot et autorités militaires. Vous y croisez des délégations rivales. Les décisions se prennent vite. Les erreurs de langage coûtent cher.
+Syndri Ashfeld vous appuiera grâce à ces compétences d'Herboriste. Prennez soin lde lui et il prendra soin de vous.
 
-La Convention mêle régate, marchés, renouvellements de mandats et rituels d’apparat. Les journées sont longues. Les nuits aussi, parce que les rendez-vous utiles tombent souvent après les banquets officiels. Vous devrez suivre en parallèle le commerce, la banque, et les consignes que le Conseil n’a pas écrites dans la lettre ouverte.
+Bran Lyrd "protégé" par votre Oblat a ses propres raisons d'aller sur Ulghart. Discutez avec lui mais ne le brusquez point. Les Druides sont rares, mystérieux, intouchables. C'est un honneur pour vous qu'il vous accompagne. Il ne fait pas partie de la délégation, mais il vous parait nécessaire, voir obligatoire, d'assurer sa sécurité, quand bien même il vous dit qu'il n'a vraiment aucun besoin d'aide. Il n'empêche, s'il lui arrivait malheur, ça ne serait pas simple pour vous...
 
-Le Tripot tient près des quais. Vous entendrez le casino même si vous évitez la salle. L’argent et les dettes de jeu y font pression sur des membres précis de la délégation. Le Conseil le sait. Il vous a dit ce qu’il veut voir en public et ce qu’il ne veut pas voir fuiter.
-
-À Ulghart, la banque concentre les transitions de conseil, les coffres et les archives qui peuvent avancer ou disparaître. Vous devez récupérer des documents utiles à Palyr sans laisser d’autres pages se retourner contre vous.
-
-Ce texte fixe ce que la délégation sait et partage en arrivant au fort : l’histoire de la cité, le mandat, et la carte des enjeux visibles à Ulghart.
 
 ## Résumé des objectifs
 
-- **Régate** : participer à la régate et défendre le prestige naval et politique de Palyr. Le Conseil a prévu des moyens de pression sur les juges ; si cela fuite, Palyr porte le scandale.
-- **Minerais** : clarifier l’**incident du dernier chargement** (sceaux conformes, fer réel défectueux), sécuriser la chaîne ou les preuves, et tenir la place d’**armurier** sans perdre Sfaal ni la crédibilité publique.
-- **Banque** : récupérer les documents déposés en coffre et décider comment utiliser les preuves sans détruire la position de Palyr.
-- **Institution** : faire avancer une solution où l’influence d’Il-Irion sur l’UBI diminue au profit d’un cadre plus favorable à Palyr, dont le poste de directrice adjointe porté par Ilara.
-- **Arthas** : consolider l’alliance et les accords discrets préparés avant le voyage.
-- **Tripot** : gérer le conflit entre la ligne politique contre le casino et les dettes de jeu qui touchent un membre de l’équipe, sans laisser l’affaire éclater en public si le Conseil peut l’éviter.
+- Régate : participer et défendre le prestige de Palyr ; le Conseil a prévu des moyens de pression sur les juges — si cela fuite, Palyr porte le scandale.
+- Minerais : clarifier le dernier chargement Sfaal (sceaux conformes, fer défectueux en creuset) sans rompre le contrat sans preuve ni remplaçant.
+- Arguetheim : conclure l’achat avec Gorvan (Dolmen Rouge) avant la fin du samedi
+- Banque : retirer les documents Palyr des coffres, négocier la sortie d’Edorian, utiliser les preuves par étapes.
+- Institution : faire adopter et occuper le poste de directrice adjointe porté par Ilara ; faire avancer une solution où Arthas pèse davantage qu’Il-Irion.
+- Arthas : consolider l’alliance et les accords discrets préparés avant le voyage.
+- Styrgie (commerce gris) : Thoran tient la lettre de relance et le rendez-vous avec l’envoyé secret, hors registres confédéraux et hors mandat public du Légat.
+- Tripot : gérer la ligne politique contre le casino et la dette de Saevar.
+- Bran : aide, protection, retour avec la délégation.
+- Fils du Levant : décider si Palyr répond au courrier de Tavish (« le fer et le serment ») et jusqu’où engager la cité hors mandat du Légat.
 
 ---
 
-## Composition du groupe — cinq mandats pour Ulghart
+## Composition du groupe — huit mandats pour Ulghart
 
-| Nom | Rôle | En bref |
-|-----|------|---------|
-| **Corvyn Valdrak** | Représentant mandaté du Légat, chef de délégation | Voix du Légat à Ulghart ; arbitrage de mission ; dossier corruption et transition bancaire. |
-| **Ilara Vandesse** | Diplomate | Poste de **directrice adjointe** à l’UBI ; axe Arthas ; instances ; levier Il-Irion — coordination avec Lysa et Corvyn sur le dossier banque. |
-| **Lysa Morwyn** | Trésorier | Coffres, flux, banque ; dossier de preuves ; négociations sensibles avec l’UBI ; récupération des archives en coffre. |
-| **Thoran Keld** | Marchand, capitaine de frégate | Sfaal, acier, Arguetheim, régate ; Tripot côté paris et salons — **sans** addiction personnelle au jeu. |
-| **Saevar Dren** | Chef de la sécurité | Sûreté de la délégation ; renseignement ; réseaux portuaires et filières que la délégation ne peut pas signer en séance publique. |
+| Nom | Rôle | En bref | Joueur |
+|-----|------|---------|--------|
+| Corvyn Valdrak | Représentant mandaté du Légat, chef de délégation | Voix du Légat à Ulghart ; arbitrage ; banque, Edorian, corruption par étapes. | *Joueur* |
+| Ilara Vandesse | Diplomate | Directrice adjointe à l’UBI ; axe Arthas ; coordination avec Lysa et Corvyn sur le dossier banque. | *Joueur* |
+| Lysa Morwyn | Trésorière | Mandat coffre Oblat ; contact Gorvan (Dolmen Rouge) ; achat Arguetheim (vente samedi fin de journée max) ; Melian ; archives. | *Joueur* |
+| Thoran Keld | Marchand, capitaine de frégate | Routes et fret ; Sfaal ; régate ; lettre Styrgie et rendez-vous discret (armes, matériel). | *Joueur* |
+| Saevar Dren | Chef de la sécurité | Sûreté ; Ther-Félis ; Tripot et Lira ; contact Tavish. | *Joueur* |
+| Maren Holt | Commandant militaire | Armement et Arguetheim sous Corvyn ; Hanse des Lames ; fer Sfaal ; Bibliothèque. | *Joueur* |
+| Syndri Ashfeld | Herboriste | Objet magique lié à Edorian et au coffre de Palyr. | *Joueur* |
+| Bran Lyrd | Druide (cairn Lyrd) | Artefact hommes-branchies ; Bibliothèque ; druide confrère ; frère de l’Oblat de Palyr. | *Joueur* |

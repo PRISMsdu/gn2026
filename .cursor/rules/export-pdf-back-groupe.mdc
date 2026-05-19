@@ -17,6 +17,8 @@ Autre groupe : adapter `-MarkdownPath` ou utiliser `-BackGroupeFileName` + `-Bac
 
 **Blason de groupe** : si un fichier `Blason_*.png` (ou `.jpg`, `.jpeg`, `.webp`) est présent dans le même dossier que le `.md`, le script l'injecte automatiquement au début du `<h1>` — floatté à gauche, 96 × 96 px, style lettre enluminée. Nommer le fichier `Blason_[GROUPE].png` (ex. `Blason_UBI.png`) et le placer dans `Groupes/[GROUPE]/1 - Back de groupe/`. Les PNG lourds sont redimensionnés avant PDF (`Scripts/Export-ImageForPrint.ps1`, cache `Scripts/.export_image_cache/`).
 
+**Mandats / pièces officielles (`export_doc.ps1`)** : en-tête blason + ligne institution si le `.md` contient `InstitutionLigne : …` dans un commentaire HTML, ou si `-InstitutionLigne "…"` est passé en paramètre. Le `Blason_*.png` du même dossier est alors affiché centré en tête (ex. mandats Oblat Palyr + `Blason_Palyr_+.png`).
+
 **Charte UBI** : `.\Scripts\export_charte_UBI.ps1` — blasons cités depuis `LivretsLocaux/Blasons/` (fichiers `*_+.png` souvent ~2,5 Mo) ; même optimisation à l'export.
 
 ---

@@ -133,8 +133,12 @@ Si le style attire plus l'attention que le contenu, il est mauvais.
 
 ## 11. Markdown — pas de gras
 
-Ne pas utiliser le gras Markdown (`** … **`) dans les textes livrés aux joueurs et dans la documentation de jeu à publier telle quelle : backs de groupe, fiches rôle, lettres et pièces annexes, synopsis joueur, gazette, etc.
+Ne pas utiliser le gras Markdown (`** … **`) dans les textes livrés aux joueurs et dans la documentation de jeu à publier telle quelle : backs de groupe, fiches rôle, lettres et pièces annexes, synopsis joueur, gazette, codex joueur, etc.
 
 Privilégier la structure : titres (`#`, `##`), listes, tableaux, citations, paragraphes courts. Si un libellé doit ressortir dans une liste, préférer une incise du type « Intitulé : détail » sans encadrer l’intitulé en gras.
+
+Ne pas mettre en gras les noms propres, les lieux, les institutions ni un mot « pour insister » au milieu d’une phrase. En rédaction scénaristique, appliquer cette règle à chaque livraison ; la relecture §9 inclut une passe « gras inutile ».
+
+Exception limitée aux seuls documents orga non remis aux joueurs (`Intrigues/`, notes MJ, `Afaire.md`) : gras uniquement sur un intitulé immédiatement suivi de `:` en tête de puce ou de ligne — voir `.cursor/rules/markdown-gras-intitules.mdc`. Même en orga, pas de gras décoratif dans le corps de phrase.
 
 Cette règle s’applique aussi au présent fichier de style : elle n’illustre pas le gras comme norme décorative.

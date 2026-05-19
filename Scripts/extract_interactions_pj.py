@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Extrait les interactions nominatives PJ↔PJ depuis les fiches role_joueur_*.md d'un groupe,
+Extrait les interactions nominatives PJ↔PJ depuis les fiches rôle d'un groupe (`2 - Roles des Joueurs/*.md`),
 agrégées par couple (une seule ligne par paire de personnages).
 
 Usage:
@@ -29,6 +29,23 @@ from pathlib import Path
 
 
 PREFIXES = ("maître ", "maitre ", "dame ", "frère ", "frere ", "m. ")
+
+ROLE_DIR_SKIP = frozenset({"README.md"})
+
+
+def is_role_player_file(path: Path) -> bool:
+    name = path.name
+    return (
+        path.suffix == ".md"
+        and name not in ROLE_DIR_SKIP
+        and not name.startswith("template_")
+    )
+
+
+def iter_role_files(directory: Path):
+    for md in sorted(directory.glob("*.md")):
+        if is_role_player_file(md):
+            yield md
 
 
 def fold(s: str) -> str:
@@ -61,17 +78,20 @@ def nom_variants(line: str) -> list[str]:
 
 def collect_registry(groupes_root: Path) -> dict[str, tuple[str, Path, str]]:
     reg: dict[str, tuple[str, Path, str]] = {}
-    for md in groupes_root.glob("**/2 - Roles des Joueurs/role_joueur_*.md"):
-        text = md.read_text(encoding="utf-8")
-        m = re.search(r"^\| Nom du personnage \| ([^|]+) \|", text, re.MULTILINE)
-        if not m:
+    for roles_dir in groupes_root.glob("**/2 - Roles des Joueurs"):
+        if not roles_dir.is_dir():
             continue
-        raw = m.group(1).strip()
-        group_folder = md.parent.parent.name
-        for variant in nom_variants(raw):
-            k = fold(normalize_key(variant))
-            if k and k not in reg:
-                reg[k] = (variant, md, group_folder)
+        for md in iter_role_files(roles_dir):
+            text = md.read_text(encoding="utf-8")
+            m = re.search(r"^\| Nom du personnage \| ([^|]+) \|", text, re.MULTILINE)
+            if not m:
+                continue
+            raw = m.group(1).strip()
+            group_folder = md.parent.parent.name
+            for variant in nom_variants(raw):
+                k = fold(normalize_key(variant))
+                if k and k not in reg:
+                    reg[k] = (variant, md, group_folder)
     corvus = reg.get(fold(normalize_key("Maître Corvus")))
     if corvus:
         reg.setdefault("torven sorel", corvus)
@@ -387,7 +407,7 @@ def run(group_path: Path, groupes_root: Path, repo_root: Path) -> str:
     # snippets par couple : clé (PJ local, groupe local, autre PJ, autre groupe) — PJ local en tête
     aggregated: dict[tuple[str, str, str, str], list[str]] = defaultdict(list)
 
-    for f in sorted(roles_dir.glob("role_joueur_*.md")):
+    for f in iter_role_files(roles_dir):
         text = f.read_text(encoding="utf-8")
         src = source_pj_from_file(text)
         if not src:
@@ -448,7 +468,7 @@ def run(group_path: Path, groupes_root: Path, repo_root: Path) -> str:
     lines: list[str] = [
         f"# Interactions nominatives (PJ) — {group_label}",
         "",
-        f"**Fichier** : généré depuis les rôles (`2 - Roles des Joueurs/role_joueur_*.md`). Compléter au besoin avec la vue intrigue du groupe dans `1 - Back de groupe/`.",
+        f"**Fichier** : généré depuis les rôles (`2 - Roles des Joueurs/*.md`). Compléter au besoin avec la vue intrigue du groupe dans `1 - Back de groupe/`.",
         "**Commande** : `python scripts/extract_interactions_pj.py \"Groupes/…\"`",
         "",
         "Une ligne par **couple** ; le **premier personnage** est toujours un membre de ce groupe (le nom du groupe est celui du titre ci-dessus), lignes **classées par ce personnage** puis par le contact. La colonne **Détail** est rédigée pour une **relecture scénariste** : phrases complètes (qui contacte qui, cadre, type de relation, contenu jouable issu du rôle, extraits des pièces citées), puis une phrase de contrôle pour vérifier que les deux fiches permettent de jouer la même interaction.",

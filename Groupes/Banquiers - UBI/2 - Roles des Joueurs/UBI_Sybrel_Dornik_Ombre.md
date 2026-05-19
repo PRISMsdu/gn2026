@@ -61,10 +61,6 @@ Epopée en Krondaar
 
 # L'histoire de Sybrel Dornik
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
-
 ## Chapitre I : Les origines
 
 Tu nais dans les bas-fonds d'une grande cité portuaire. Ta famille est affiliée aux Sangs de la Steppe — pas les chefs, pas les lieutenants. Les exécutants, les intermédiaires, ceux qui font passer des messages et des colis sans poser de questions sur le contenu. Ton enfance se passe dans cet environnement. Tu apprends à ne pas laisser de traces, à repérer qui surveille quoi, à sortir d'un bâtiment par d'autres chemins que celui par lequel tu es entrée.

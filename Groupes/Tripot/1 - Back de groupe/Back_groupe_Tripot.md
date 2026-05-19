@@ -2,7 +2,7 @@
 
 <!--
   DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
-  Chaîne : `Intrigues/Intrigue_Tripot.md` (orga) → ce fichier → `Groupes/Tripot/2 - Roles des Joueurs/role_joueur_*.md`.
+  Chaîne : `Intrigues/Intrigue_Tripot.md` (orga) → ce fichier → `Groupes/Tripot/2 - Roles des Joueurs/Tripot_*_*.md` (nom du personnage + rôle dans la maison).
   Secrets MJ (artefact précis, tirages oracle, détail registres Fenric) : `Intrigues/Intrigue_Tripot.md` et fiches individuelles.
   Style : langage simple et direct (consigne `Groupes/Afaire.md`, *Check d'un groupe*).
 -->
@@ -94,15 +94,15 @@ Le Tripot vous donne encore une base de travail : une salle active, une équipe,
 
 ## Composition du groupe
 
-| Nom | Fonction |
-|-----|----------|
-| Marda Velyss | Patronne — stratégie, négociations  |
-| Ardan Trevil | Capitaine des gardes — sécurité du Tripot |
-| Sira Vestrann | Croupière — sœur de Lira |
-| Lira Vestrann | Croupière — sœur de Sira |
-| Varek | Pisteur — filatures, quai, coulisses |
-| Lydwen | Oracle, cartes |
-| Éliane | Maîtresse des paris — régate |
-| Ysabeau | Hôtesse — VIP, salons |
-| Soren | Homme de main, alchimiste |
-| Fenric Ossel | Maître des registres |
+| Nom | Fonction | Joueur |
+|-----|----------|--------|
+| Marda Velyss | Patronne — stratégie, négociations  | *Joueur* |
+| Ardan Trevil | Capitaine des gardes — sécurité du Tripot | *Joueur* |
+| Sira Vestrann | Croupière — sœur de Lira | *Joueur* |
+| Lira Vestrann | Croupière — sœur de Sira | *Joueur* |
+| Varek | Pisteur — filatures, quai, coulisses | *Joueur* |
+| Lydwen | Oracle, cartes | *Joueur* |
+| Éliane | Maîtresse des paris — régate | *Joueur* |
+| Ysabeau | Hôtesse — VIP, salons | *Joueur* |
+| Soren | Homme de main, alchimiste | *Joueur* |
+| Fenric Ossel | Maître des registres | *Joueur* |

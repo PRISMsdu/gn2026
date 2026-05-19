@@ -59,7 +59,7 @@ Colonnes :
 | Edorian | Brann Crochemain (Corbeaux de Minuit) | Tu relies le casse mené par Brann au besoin d’un fait extérieur pendant que tu refermes tes dossiers ; s’ils parlent trop tôt, le braquage de façade devient une confession de mandat. |
 | Edorian | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs tient des éléments sur des flux encore sales ; tu gagneras encore du temps plutôt qu’un duel ouvert jusqu’à croisement des appuis. |
 | Edorian | Marda Velyss (Tripot) | Tu as contraint Marda à blanchir des flux via le Tripot en te servant de ce qu’elle cherche à cacher. Elle sait trop sur ce qui transite par le casino. Tu dois soit la garder sous contrôle jusqu’à la passation, soit t’en débarrasser avant. |
-| Melian Torv | Lysa Morwyn (Palyr) | Elle tient le canal par lequel passent les informations que tu lui as vendues et les engagements de protection accordés par Palyr. Elle est à Ulghart pendant la Régate. Tu dois maintenir les échanges dans un circuit que tu contrôles jusqu’à la passation. |
+| Melian Torv | Lysa Morwyn (Palyr) | 2 000 couronnes convenues ; 1 000 reçues. Tu as remis la lettre sans références internes. Tu livreras codes et extraits après le second millier. Elle est à Ulghart pour la Régate ; garde le canal fermé jusqu’à la passation. |
 | Melian Torv | Corvyn Valdrak (Palyr) | Il valide le volet financier des informations achetées par Palyr. Si la ligne politique de Palyr change avant la passation, Lysa ne peut plus tenir seule la promesse de protection. Tu surveilles les signaux qui viendraient de lui via Lysa. |
 | Kaelen Veynar | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs a croisé tes réseaux de recouvrement plusieurs fois. Ni alliance ni conflit ouvert, mais une mémoire partagée de ce que chacun a vu sur le terrain. Cette connaissance mutuelle peut devenir une pression si l’un des deux décide d’en faire usage avant la passation. |
 | Ydria Ventoss | Kaelan Thormane (Mafia, Sangs) | Leur réseau peut évacuer de l’or hors circuit officiel quand tes filières ne suffisent plus ; tu portes une dette encore coûteuse à tenir fermée. |
@@ -108,22 +108,21 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 
 | Personnage du groupe (Palyr) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Corvyn Valdrak | Melian Torv (UBI) | Tu as validé le paiement d’informations via Melian. Si elle est exposée, tu dois quand même tenir une protection crédible pour Palyr sans perdre le fil du dossier. |
+| Corvyn Valdrak | Melian Torv (UBI) | Tu as validé l’achat : 1 000 couronnes versées, solde dû pour les références. Si Melian est exposé avant le second paquet, tu perds le levier sans perdre la protection promise. |
 | Corvyn Valdrak | Marda Velyss (Tripot) | Tu veux fermer le casino ou le réduire parce que Saevar s’y ruine au jeu. Marda défend le Tripot et les accords de fuite. Vous vous opposez sur le plan politique. |
 | Ilara Vandesse | Contacts Arthas (délégation, lettres) | Tu as monté l’axe Arthas et le canal bancaire alternatif. À Ulghart tu dois signer ce que le Conseil attend sans tout dire à voix haute dans la délégation. |
 | Ilara Vandesse | Notables Il-Irion (délégation, familles) | Tu connais des visages à Il-Irion par ta formation. Ça aide ou ça brûle quand les preuves sortent. Ce ne sont pas des alliés de la délégation Palyr. |
-| Ilara Vandesse | Point de contact MiVI (Styrgie) | Tu portes la lettre de rendez-vous pour le contact styrgien. Ce n’est pas un membre de la délégation officielle : c’est un interlocuteur extérieur désigné par le Conseil. |
-| Lysa Morwyn | Gorvan Tresselune (Voleurs) | Tu tiens la couverture administrative et les papiers de transport pour l’Arguétheim ; Gorvan tient le minerai et a ses propres contacts banque — tu sépares ce fil de celui que tu passes avec Melian. |
+| Lysa Morwyn | Gorvan Tresselune (Voleurs) | Tu as mandaté Gorvan à Ther-Félis pour l’Arguétheim ; à Ulghart tu négocies la vente et les papiers (samedi fin de journée max) ; Maren réceptionne pour le haut commandement — tu sépares ce fil de celui que tu passes avec Melian. |
 | Thoran Keld | Négociateurs Sfaal (délégation) | Tu dois parler du **dernier chargement** : **sceaux et papiers** d’un côté, **résultat des fours** de l’autre — et des **contrats** devant témoins. La relation est déjà mauvaise. |
 | Thoran Keld | Lira (Tripot) | Tu la croises sur la régate et les quais. Tu n’es pas accro au jeu. Tu peux chercher des infos navales sans entrer dans la dette de Saevar. |
 | Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
-| Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les routes discrètes vers la Styrgie par des contacts quais, en dehors du fil diplomatique d’Ilara. |
-| Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et les preuves. Tu as promis de protéger Melian. Sans elle, le dossier s’effondre. |
+| Thoran Keld | Envoyé secret Styrgie (Ulghart) | Tu portes la lettre STY-547-PAL-THO-01 ; rendez-vous vendredi soir quai marchand ; mot « cale close avant l’aube » ; commerce gris armes et matériel, hors registres confédéraux. |
+| Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les contacts quais pour minerai et fret ; filière de remplacement si Sfaal rompt. |
+| Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et la lettre ; les références viennent après le second millier. Tu as promis de protéger Melian. Sans lui ou sans le solde, le dossier reste incomplet. |
 | Lysa Morwyn | Edorian (UBI) | Croisements **officiels** (régate, dossiers délégués) : tension de façade — pas de canal secret Edorian–Palyr ; le fil sensible reste **Melian**. |
 | Lysa Morwyn | Selvara Quenndral (UBI) | Elle tient codes et archives. Tu décides si tu t’alignes avec elle ou si tu la presses. |
 | Lysa Morwyn | Horgrim Dval (UBI) | Il bloque souterrains et tours. Tu dois approcher les coffres pour Palyr sans rester coincée au mauvais moment. Si d’autres missions te tirent ailleurs, tu dois choisir quel silence garder. |
-| Lysa Morwyn | Soren (Tripot) | Tu le suis pour une traque officielle ; ce que tu apprendras sur lui peut contredire le dossier qu’on t’a remis au départ. |
-| Lysa Morwyn | Contact Brigade noire (agent relais Ulghart) | Tu dois voir un relais pour mettre à jour ta mission. Si on te surprend, ta couverture de trésorière saute. |
+| Lysa Morwyn | Soren (Tripot) | Tu dois le retrouver et lui annoncer qu’il devient capitaine de la Brigade ; il se cache, tu ignores pourquoi ; aucun autre contact BN au fort. |
 | Saevar Dren | Marek Thorne (Il-Irion) | Vous croisez les mêmes relais dans les ports et les assemblées. Chacun veut avancer sans montrer ses cartes. |
 | Saevar Dren | Dorian Marest (Ther-Félis) | Tu écoutes ce que Ther-Félis observe à Ulghart. Dorian tient les traités de transit et la ligne politique sur l’UBI. |
 | Saevar Dren | Interlocuteurs mafia (Sangs de la Steppe) | Tu as des contacts gris. À Ulghart on peut te tester. Ta dette au Tripot complique les choix. |
@@ -165,7 +164,7 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 |---|---|---|
 | Gorvan Tresselune | Elaran Morthwyn | Pacte a haut risque : Elaran promet transmutation de l'or en Arguetheim, Gorvan fournit le plan et les moyens. |
 | Gorvan Tresselune | Dorian Marest (Ther-Felis) | Negociation de filiere : Gorvan cherche un port sur et des acheteurs, Dorian veut capter la valeur politique du metal. |
-| Gorvan Tresselune | Lysa Morwyn (Palyr) | Vente strategique : Gorvan propose de l'Arguetheim, Lysa evalue l'impact sur l'armement et la banque. |
+| Gorvan Tresselune | Lysa Morwyn (Palyr) | Mandat Ther-Félis : Gorvan trouve l'Arguetheim ; à Ulghart vente avec Lysa (samedi fin de journée max) ; Maren réceptionne côté Palyr. |
 | Gorvan Tresselune | Edorian (UBI) | Interaction indirecte : le plan de casse de Gorvan menace les memes coffres que les complots internes UBI. |
 | Gorvan Tresselune | Brann Crochemain (Corbeaux) | Conflit de methode : deux operations de vol sur la meme cible risquent de se parasiter. |
 | Gorvan Tresselune | Intermediaire mafia | Antagonisme : la mafia cherche a saboter la transaction Arguetheim et a capter la chaine logistique. |

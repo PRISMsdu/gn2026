@@ -61,5 +61,5 @@ Ce fichier trace les actions réalisées lors des passes « check groupe » pour
 1. **Backs** : `Back_groupe_Tripot.md`, `Back_groupe_Mafia.md` (ex-`Back_Mafia.md`), `Back_groupe_MiVI.md` — ton factuel, structure type UBI (déjà en place en amont de cette passe).
 2. **Checks** : `check_back.md` et `check_role.md` dans `1 - Back de groupe/` pour chacun des trois groupes — inventaires orga sans modification des intrigues, backs ou rôles dans ces fichiers.
 3. **Synthèses interactions** : `interactions du groupe Tripot.md`, `interactions du groupe Mafia.md`, `interactions du groupe MiVI.md` à la racine des dossiers groupe (uniquement hors-groupe, tableaux style Palyr).
-4. **Fiche globale** : `Fiche_interactions_tous_groupes.md` — §4 Mafia et §6 Tripot réalignés sur ces synthèses ; **§9 MiVI** ajouté ; §5 Palyr : ligne Thoran×Gorvan retirée, ligne **Lysa×Gorvan** ajoutée (cohérence `role_joueur_Lysa_Morwyn.md`).
+4. **Fiche globale** : `Fiche_interactions_tous_groupes.md` — §4 Mafia et §6 Tripot réalignés sur ces synthèses ; **§9 MiVI** ajouté ; §5 Palyr : ligne Thoran×Gorvan retirée, ligne **Lysa×Gorvan** ajoutée (cohérence `Palyr_Lysa_Morwyn_Tresoriere.md`).
 5. **Checklist** : cases Tripot, Mafia, MiVI passées à `[x]` dans `Afaire.md` (l.3–5).

@@ -83,7 +83,9 @@ La forge t'a appris ce que la mer n'enseigne pas toujours : l'ordre des gestes. 
 
 Citadelle d'Ulghart, île d'Il-Irion. Convention. Tu arrives sous couverture maison maritime : experts, consultants, délégation civile. Zéro bannière styrgienne. Ton terrain : salons, quais, négociations de régate, rabais d'escale, attributions de fret. Objectif politique clair : favoriser les maisons et armateurs liés à Arthas et Ther-Félis pour donner à la Styrgie des leviers sur l'UBI sans attaquer la banque de front ni déclencher un embargo qui refermerait la Confédération contre Elfrion.
 
-Sur l'île, trois feux te concernent au quotidien : le Tripot au fort d'Ulghart (or, dettes, oreilles), l'UBI (preuves, nominations au futur conseil), le réseau mafia / Guilde des Ports Unis (dont vos propres instructeurs attendent des comptes sur le fer, le casino, la banque). Tu négocies. 
+Sur l'île, trois feux te concernent au quotidien : le Tripot au fort d'Ulghart (or, dettes, oreilles), l'UBI (preuves, nominations au futur conseil), le réseau mafia / Guilde des Ports Unis (dont vos propres instructeurs attendent des comptes sur le fer, le casino, la banque). Tu négocies.
+
+Elfrion t'a aussi chargé d'un fil à part : relancer les achats discrets de Palyr vers la Styrgie (armes, matériel de forge), hors registres confédéraux. Une lettre sans en-tête de cité est partie pour **Thoran Keld** (STY-547-PAL-THO-01). Tu es l'envoyé secret : vendredi soir, quai du fort, mot **« cale close avant l'aube »**. Le reste du détachement n'est pas briefé sur cette ligne. Ce commerce ne passe pas par la Guilde sur ce rendez-vous. Ne le confonds pas avec l'opération fer : écoute, négocie, ne signe rien de lourd sans Théven. 
 
 L'empire Tchélène n'est pas une abstraction sur tes cartes. C'est la steppe qui rappelle qu'on peut mourir loin des murs. Enfant, tu as vu un entrepôt neutre brûler après une rixe de frontière ; on a parlé de « bandes », de « rançons », de « malentendu ». Toi, tu te souviens des sabots sur les pavés et d'un officier tchélène qui lisait la liste des noms à voix haute, calmement, comme s'il dictait un manifeste. Depuis, tu portes une peur simple : croiser à une table de convention un interprète tchélène assez bon pour entendre, sous tes cinq langues, la grammaire secrète d'Elfrion. Si ça arrive, tu n'attends pas un duel d'honneur. Tu attends un papier qui te vendra sans bruit, ou une disparition de quai expliquée par la marée.
 
@@ -103,6 +105,7 @@ En dehors du détachement, tu t'appuies sur des interlocuteurs de convention et 
 - **Maintenir la couverture** : aucune bannière styrgienne ; discours de convention, de commerce, de neutralité crédible.
 - **Influencer routes et négociations** (régate, escales, rabais) pour favoriser Arthas et Ther-Félis et leurs armateurs — levier vers l'UBI, pas attaque frontale sur la banque.
 - **Entretenir les contacts** utiles aux séparatistes alignés Styrgie sans les exposer — leur mission n'est pas la tienne en surface.
+- **Thoran Keld (Palyr)** : tenir le rendez-vous commerce gris ; mot « cale close avant l'aube » ; relancer armes et matériel hors registres confédéraux ; écouter ce que Palyr sait sur le fer et les quais sans avouer l'opération substitution.
 
 
 # Membres du groupe
@@ -117,14 +120,21 @@ En dehors du détachement, tu t'appuies sur des interlocuteurs de convention et 
 
 # Connaissances
 
+## Thoran Keld — Palyr (commerce gris)
+Lettre STY-547-PAL-THO-01 remise côté Palyr ; tu es l'envoyé secret. Rendez-vous : vendredi soir, quai du fort. Ne cite pas le MiVI ni le Questeur.
+
 ## Melian Torv — UBI (conseiller spirituel)
 Tu sais que Melian est en contact avec Palyr. Une fuite d'information a eu lieu : il existe un rapport dans les coffres de la banque, enregistré sous le code FL-III-545-002, qui prouve ce lien. On parle d'une trahison ou d'une dénonciation de Melian en direction de Palyr. Les raisons restent inconnues.
+
 ## Cyrion Valdris — Maison Valdris (Il-Irion)
 Lettre qui peut gêner Cyrion au salon (adultère). Pièce : CP-III-542-001. Ce n'est pas le dossier complet tenu ailleurs sur l'île par d'autres acteurs.
+
 ## Torven Sorel — Guilde des Ports Unis (nom public)
 Contrat commercial sur l’acier entre Sfaal et Palyr. Pièce : CO-II-545-001.
+
 ## Halwen Rask — Staal (imprimerie)
 Presse et rumeurs ; lien avec complaisance éditoriale et scandale Staale (patriarche Orrin Malet). Pièce : CC-III-544-002.
+
 ## Annexe routes — Arthas et Ther-Félis
 Liste d'intermédiaires pour enchères d'escales, rabais fret. Pièce : AN-III-547-008. Noms utiles : Sera Orist (Arthas, armateur), Jonn Halet (Ther-Félis, facteur d'escales), Maison Veth & Roole (Guilde des Ports Unis, couverture).
 

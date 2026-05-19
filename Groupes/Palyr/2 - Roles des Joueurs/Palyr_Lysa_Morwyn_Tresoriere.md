@@ -52,17 +52,13 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Précise. Peu de gestes inutiles. Rien ne transparaît sur son visage quand deux lignes se croisent. |
-| Valeurs | La mission accomplie. Pas nécessairement pour Palyr seule, pas nécessairement pour la Brigade seule. Pour les deux quand c'est possible. |
-| Peur | Que la Brigade lui donne un ordre qui coupe la fenêtre sur les coffres Palyr. Que Corvyn découvre sa ligne parallèle avant qu'elle ait terminé les deux missions. |
-| Rêve | Sortir d'Ulghart avec les archives Palyr récupérées, Melian protégée, et Soren identifié sans que sa couverture ne tremble. |
+| Valeurs | La mission accomplie. Pas nécessairement pour Palyr seule, pas nécessairement pour la compagnie seule. Pour les deux quand c'est possible. |
+| Peur | Qu'un lieutenant de la Brigade te donne un ordre qui coupe la fenêtre sur les coffres Palyr. Que Corvyn découvre ta ligne parallèle avant que les deux mandats soient bouclés. |
+| Rêve | Sortir d'Ulghart avec les archives Palyr récupérées, le second paquet Melian en poche, et avoir trouvé Soren pour lui annoncer la capitainerie sans que ta couverture ne saute. |
 
 ---
 
 # L'histoire de Lysa Morwyn
-
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
 
 ## Chapitre I : Les origines (formation financière, Palyr)
 
@@ -74,33 +70,39 @@ Tu passes ta formation dans les archives municipales de Palyr, puis dans une éc
 
 ## Chapitre II : L'apprentissage (recrutement Brigade Noire)
 
-La Brigade Noire est une organisation d'enquête confédérale. Elle opère sous couverture dans les institutions civiles et bancaires. Tu ne sais pas qu'elle t'observe avant qu'un contact se manifeste, présenté comme un responsable d'audit externe.
+Tu connais la Brigade Noire de réputation avant de la croiser. C'est une compagnie franche : plusieurs centaines d'hommes, fondée au début du quatrième Âge. Un capitaine la commande ; les lieutenants l'élisent quand le précédent meurt. Dans les ports on la traite de bande de traîne-savates ivres et indisciplinés. Dans les rapports militaires on la cite parmi les corps les plus redoutables de Krondaar. Les deux images tiennent. C'est la seule compagnie franche dont on dit qu'elle peut mener des actions sérieuses contre la Loge Funèbre.
 
-Le recrutement prend plusieurs mois. On vérifie tes loyautés, ta discrétion, ta capacité à travailler en parallèle sans mélanger les registres. La Brigade recrute des gens qui savent ne pas faire de bruit. Ton profil correspond. Tu acceptes.
+Tu n'as pas servi sous ses bannières. Ton métier t'a mise sur ses traces par les chiffres. Le Conseil de Palyr t'envoie contrôler des paiements liés à un contrat confédéral : livraisons d'armement, soldes dues à une troupe tierce, registres du port qui ne collent pas aux manifestes. La signature revient à la Brigade. Tu relèves des écarts sans les publier sur la place. Tu demandes les pièces manquantes. Tu les obtiens.
 
-Ta couverture reste la trésorerie et l'audit. Ce n'est pas un déguisement — c'est ton vrai travail. La Brigade te demande d'opérer depuis des postes légitimes dans des institutions sensibles. L'accès aux archives, aux flux d'argent et aux coffres est une ressource que beaucoup d'agents de terrain ne peuvent pas approcher de façon crédible. Toi si. C'est pour ça qu'ils t'ont prise.
+Un sergent, mandaté par un lieutenant, te retrouve à la sortie des archives. Il ne se présente pas comme auditeur de la Confédération. Il parle du contrat, de la discrétion, de ce que la compagnie ne veut pas voir fuiter vers Il-Irion ni vers ses ennemis. Il te propose un arrangement : tu continues ton travail visible pour Palyr et pour qui te paie légalement ; tu remontes ce que tu vois sur les flux qui touchent la Brigade ou ses rivaux. Pas un nouveau métier : tu restes comptable et auditrice. Tu acceptes. Refuser t'aurait rendue gênante pour des gens qui règlent leurs comptes avec des lames.
 
-Tu apprends les méthodes de la Brigade progressivement. Comment produire un rapport propre pour la couverture et un rapport réel pour l'ordre. Comment gérer deux circuits d'information sans que l'un ne compromette l'autre. Comment reconnaître un contact BN dans un lieu inconnu. Tu t'en sors bien.
+Le recrutement dure des mois. On teste ta discrétion, pas ton courage au combat. Tu n'entres pas dans la chaîne capitaine — lieutenants — sergents — soldats. Tu n'emportes pas l'équipement de campagne. Tu tiens deux registres : ce qu'une mairie ou un conseil peut lire, et ce qu'un lieutenant référent peut utiliser avant qu'une escouade parte ou qu'un contrat soit dénoncé.
+
+Tu apprends leur façon de travailler. Comment repérer un contact par une phrase ou un cachet convenu, pas par un insigne confédéral. Comment ne pas mélanger les circuits quand un greffier pose une question de trop. La Brigade ne te forme pas à « enquêter » au sens des questeurs : elle te forme à lire l'argent et les archives là où une compagnie franche passe sans pouvoir assiéger une banque. À Ulghart, cette compétence vaut une escouade entière quand les coffres et les contrats se croisent.
 
 ## Chapitre III : L'ascension (dossier Melian, trésorière de la délégation)
 
-Il y a environ un an, tu passes au Fort d'Ulghart pour une mission d'audit. Melian Torv te contacte. Elle est membre du conseil bancaire de l'UBI. Elle veut vendre des informations sur des détournements internes. Elle demande de l'argent et une protection.
+Il y a environ un an, tu passes au Fort d'Ulghart pour une mission d'audit. Melian Torv te contacte. Il est conseiller spirituel de l'UBI. Il veut vendre des informations sur des détournements internes. Il demande 2 000 couronnes et une protection.
 
-Tu rencontres Melian deux fois. La première fois pour évaluer la valeur du dossier. La deuxième pour le recevoir contre paiement et une promesse de protection que tu n'as pas l'autorité de donner seule. Tu transmets à Palyr. Le Conseil paie. Tu gères la relation avec Melian depuis ce moment.
+Tu rencontres Melian deux fois. La première fois pour évaluer la valeur du dossier. La deuxième pour fixer le prix et le canal de réponse. Tu transmets à Palyr. Le Conseil valide. Palyr verse 1 000 couronnes. Melian remet la lettre de dénonciation : elle décrit le mécanisme et l'existence des pièces en coffre, sans les références internes ni les extraits exploitables. Le second versement de 1 000 couronnes reste dû ; Melian ne donnera les codes qu'après le solde.
 
-Tu structures le dossier : tu croises les informations de Melian avec les registres publics, les mouvements de fonds que tu connais depuis tes audits, et les données issues de tes contacts bancaires. Ce que tu présentes au Conseil est un dossier vérifiable sur plusieurs points. Pas une déposition : des preuves croisées.
+Tu structures ce que tu tiens déjà : tu croises la lettre avec les registres publics, les mouvements de fonds que tu connais depuis tes audits, et les données issues de tes contacts bancaires. Le dossier est crédible mais incomplet tant que Melian n'a pas été payé en totalité.
 
 Le Conseil te nomme trésorière de la délégation à Ulghart. La trésorerie est ta couverture officielle. Tes vraies missions sont les coffres Palyr et la gestion du canal Melian. Corvyn te fait confiance sur les chiffres. Il ne sait pas pour la Brigade.
+
+Le haut commandement ouvre une commande d'Arguetheim pendant que le fer ordinaire échoue. Corvyn te charge du contact commercial hors circuits officiels. Il y a environ un mois, tu es allée à Ther-Félis. Tu as pris contact avec Gorvan Tresselune, chef de la Compagnie du Dolmen Rouge. Tu lui as exposé le mandat de Palyr : trouver de l'Arguetheim, coûte que coûte, avec récompense à la hauteur si la livraison est crédible. Il a accepté. Depuis, des nouvelles arrivent par courrier : son équipe cherche, il parle d'obstacles, il ne renonce pas encore.
 
 ## Chapitre IV : Les défis actuels (double mission, tensions)
 
 Tu arrives à Ulghart avec deux lignes actives en même temps. La première, pour Palyr : récupérer physiquement les documents Palyr des coffres UBI avant que le nouveau conseil prenne les accès. Selvara Quenndral est l'archiviste qui tient les codes. C'est ta clef principale pour les chambres closes. Horgrim Dval bloque les accès à certaines zones du fort pour des raisons liées à sa propre mission. Il n'a aucune raison de te faciliter les choses.
 
-La deuxième ligne, pour la Brigade : localiser Soren au Tripot. L'ordre initial le désigne comme déserteur. Tu as des raisons de penser que l'information est fausse ou déformée. Soren est probablement le nouveau Grand Capitaine de la Brigade Noire, en attente d'investiture. Si c'est le cas, son arrestation serait un désastre pour l'ordre. Tu dois trouver ton contact BN à Ulghart pour actualiser avant que la situation ne dérape.
+La deuxième ligne, pour la Brigade : retrouver Soren au Tripot. Les lieutenants l'ont choisi pour succéder au capitaine mort ou déchu. Il se cache ; tu ne sais pas pourquoi. On ne t'a donné aucun autre contact de la compagnie à Ulghart : à toi seule de le localiser et de lui annoncer qu'il devient capitaine de la Brigade — pas en séance, pas devant la table du casino.
 
-Ces deux missions peuvent entrer en conflit sur le temps et les priorités. Si la Brigade te donne un ordre urgent sur Soren qui t'éloigne des coffres au mauvais moment, tu perds la fenêtre Palyr. Si tu restes sur les coffres trop longtemps, la situation Soren peut se résoudre sans toi et dans le mauvais sens.
+Ces deux missions peuvent entrer en conflit sur le temps et les priorités. Chercher Soren t'éloigne des coffres au mauvais moment ; rester trop longtemps sur Melian et Selvara sans avoir parlé à Soren laisse la succession en suspens, sans relais sur place pour te couvrir.
 
-Melian doit être protégée. Elle a livré les preuves. Si elle tombe avant la fin de la Régate, le dossier perd son seul témoin interne. Elle n'est pas armée. Elle n'est pas préparée pour une exposition publique. C'est toi qui gères sa sécurité dans les marges.
+Melian doit être protégée. Il a livré la lettre, pas encore les références. Si il tombe avant la fin de la Régate, tu perds le seul témoin interne et le second paquet. Il n'est pas armé. Il n'est pas préparé pour une exposition publique. C'est toi qui gères sa sécurité dans les marges, et le paiement du solde au bon moment.
+
+À Ulghart, Gorvan doit livrer et vendre l'Arguetheim. Tu négocies le prix, les lignes de paiement et les documents de transport. Maren Holt signe la réception pour le haut commandement. La vente doit être conclue au plus tard en fin de journée du samedi de la Régate. Sans tes papiers, la cargaison ne sort pas du fort proprement.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -114,13 +116,16 @@ Saevar est au Tripot. Il est accro au jeu. Sa présence au casino et ses contact
 
 Melian est fragile. Tu lui as promis une protection que tu n'es pas certaine de pouvoir tenir si les deux missions entrent en collision. Tu gardes ce problème pour toi.
 
+Corvyn Valdrak porte le mandat général des Oblats sur la délégation ; Maren exécute l'armement sous sa direction. Tu portes le contact avec Gorvan ton contact marchand, la vente et les papiers ; Maren réceptionne pour le haut commandement avec le visa de Corvyn.
+
 ---
 
 # Tes missions et objectifs
 
+- **Arguetheim** : conclure l'achat avec Gorvan Tresselune à Ulghart avant la fin du samedi ; fournir transport et paiement ; aligner Maren sur la réception militaire.
 - **Récupérer les archives Palyr** : sortir physiquement les documents Palyr des coffres UBI avant que le nouveau conseil en prenne les accès. Selvara est la clef pour les codes. Horgrim bloque les zones sensibles. Tu dois trouver la fenêtre.
-- **Protéger Melian Torv** : elle est le seul témoin interne du dossier de corruption. Si elle tombe, le dossier perd sa source. Gérer sa sécurité discrètement.
-- **Localiser Soren (mission Brigade)** : trouver ton contact BN à Ulghart pour confirmer si Soren est déserteur ou Grand Capitaine en attente d'investiture. Secret : les autres membres de la délégation ne savent pas que tu es agente de la Brigade Noire.
+- **Melian Torv** : verser le second millier de couronnes et obtenir les références et extraits ; protéger Melian jusqu'à la passation.
+- **Soren (mission Brigade)** : le retrouver au Tripot et lui annoncer qu'il est nommé capitaine de la Brigade. Tu ignores pourquoi il se cache. Aucun autre agent de la compagnie à Ulghart — tu es seule sur ce fil. Secret : les autres membres de la délégation ne savent pas que tu travailles pour la Brigade Noire.
 - **Cadrer les sorties de preuves avec Ilara** : transmettre à Ilara ce qu'elle peut utiliser en commission sans brûler les accès aux coffres. Arbitrer le rythme avec elle et avec Corvyn.
 - **Gérer Selvara** : décider si Selvara est une alliée pour les codes des coffres ou une cible à neutraliser avant qu'elle change de camp.
 
@@ -131,15 +136,18 @@ Melian est fragile. Tu lui as promis une protection que tu n'es pas certaine de 
 |------------|-------------|
 | Corvyn Valdrak | Chef de délégation ; te fait confiance sur les chiffres ; ignore ta ligne Brigade. |
 | Ilara Vandesse | Partage le dossier banque ; pression sur le timing des preuves — tu lui transmets ce qu'elle peut utiliser. |
-| Thoran Keld | Peu de contact direct ; tu surveilles si ses contacts arthasiens croisent tes propres réseaux. |
-| Saevar Dren | Sa présence au Tripot peut perturber tes deux lignes ; tu le surveilles sans lui expliquer pourquoi. |
+| Thoran Keld | Marchand ; peu de chevauchement direct ; tu surveilles si ses contacts croisent Melian ou les coffres. |
+| Saevar Dren | Sécurité ; Tripot — sa présence peut faire fuiter des bribes ; tu le surveilles sans lui expliquer pourquoi. |
+| Maren Holt | Commandant ; réception Arguetheim ; alignement obligatoire avant ta signature sur l'achat Gorvan. |
+| Syndri Ashfeld | Herboriste ; alliée sur les accès coffre ; mandats distincts — ne pas mélanger ton objet et le sien. |
+| Bran Lyrd | Druide ; frère de l'Oblat qui a signé ton mandat coffre ; lignes séparées ; respect, pas de partage de dossiers. |
 
 
 # Connaissances
 
 ## Melian Torv — conseil de la banque (UBI)
 
-Melian est ton unique canal vers le dossier de corruption interne à l'UBI. Elle t'a vendu les informations contre argent et une promesse de protection. Ses échanges avec Edorian sont de façade — il ne sait pas qu'elle a transmis à Palyr. Si elle est exposée avant la fin de la Régate, le dossier perd son seul témoin interne. Tu gères sa sécurité.
+Melian est ton unique canal vers le dossier de corruption interne à l'UBI. Prix convenu : 2 000 couronnes ; 1 000 versées ; 1 000 restantes pour les références et extraits. Tu as la lettre de dénonciation ; les codes de chambre close viendront après le solde. Ses échanges avec Edorian sont de façade — il ne sait pas qu'il t'a transmis à Palyr. Si il est exposé avant la fin de la Régate, tu perds le témoin et le second paquet. Tu gères sa sécurité et le timing du paiement.
 
 ## Selvara Quenndral — archiviste (UBI)
 
@@ -151,13 +159,13 @@ Horgrim verrouille les accès à certaines zones du fort. Il opère selon ses pr
 
 ## Soren — Tripot (Brigade Noire — secret)
 
-*Ce que tu sais seule : tu es agente de la Brigade Noire. Ta couverture est la trésorerie.*
+*Ce que tu sais seule : tu es attachée financière à la Brigade Noire. Ta couverture visible est la trésorerie.*
 
-La Brigade t'a envoyée localiser Soren au Tripot, désigné comme déserteur. Tu as des doutes sur cette information. Les signaux que tu as croisés avant le départ indiquent que Soren est probablement le nouveau Grand Capitaine de la Brigade, en attente d'investiture. Son arrestation serait catastrophique pour l'ordre. Tu dois retrouver ton contact BN à Ulghart pour confirmer avant d'agir.
+La Brigade t'a chargée de retrouver Soren au Tripot. Il a quitté la compagnie il y a longtemps et vit sous un autre visage dans la maison de Marda. Les lieutenants veulent le proclamer capitaine : tu dois le lui dire en face, discrètement. Les raisons de sa disparition ne figurent pas sur ton ordre ; tu ne les connais pas. Il n'y a personne d'autre de la Brigade au fort pour t'épauler ou confirmer le mot — si tu échoues, la succession attend.
 
 ## Gorvan Tresselune — Compagnie du Dolmen Rouge
 
-Gorvan est marchand et chef de la Compagnie du Dolmen Rouge. C'est lui qui peut fournir l'Arguétheim, un minerai d'exception que la Confédération cherche en urgence pour ses armées. Il a besoin de Palyr pour une chose : la légitimité. Il veut des documents de transport officiels qui justifient la provenance du minerai et lui permettent de quitter Ulghart sans être arrêté. Toi tu fournis la couverture administrative, il fournit ce que personne d'autre ne peut trouver. La relation est un échange de services mutuels. Gorvan connaît aussi Melian — il a ses propres contacts dans la banque. Tu gardes ces deux fils séparés.
+Gorvan Tresselune mène la Compagnie du Dolmen Rouge. Tu l'as contacté à Ther-Félis il y a environ un mois pour trouver de l'Arguetheim hors circuits officiels. Gorvan a accepté le mandat de Palyr. À Ulghart, il doit livrer et vendre ; toi tu négocies, paies et fournis la couverture administrative : documents de transport, lignes de paiement, provenance acceptable devant un greffier. Maren signe la réception pour le haut commandement. La vente doit être conclue au plus tard en fin de journée du samedi. Sans tes papiers, il ne sort pas du fort proprement. Gorvan a ses propres contacts à la banque ; tu gardes ce fil séparé du dossier Melian.
 
 ## Dossier corruption UBI — périmètre de ton rôle
 

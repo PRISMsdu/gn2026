@@ -33,8 +33,7 @@ Une intéraction entre deux role se traduit par un chapitre dans "connaissances"
 L'intéraction se décrit suivant les modèles ci-dessous. Dans cette phase de consolidation, ne pas modifier les back, les roles et les intrigues. se référer à la méthode ##Check d'un groupe.
 
 **Model 1 d'intéraction entre personnage**
-Gorvan Tresselune (compagnie du dolmen rouge) <-> Thoran Keld (Palyr) : intrigue de la fourniture de l'arguetheim. ils sont en contact pour établir les conditions d'achat de l'arguetheim par Palyr. voir :
-    C’est dans ce climat de fébrilité qu’entre en scène **Thoran Keld**, émissaire commercial influent de Palyr. Conscient que les circuits officiels sont une impasse, il décide de se tourner vers les zones grises de l’économie. Il prend contact avec **Gorvan Tresselune** à Ther-Félis, un marchand à la réputation aussi sulfureuse qu'efficace, connu pour dénicher les denrées les plus exotiques et les artefacts les plus introuvables là où d'autres ne trouvent que la mort.
+Gorvan Tresselune (compagnie du dolmen rouge) <-> Lysa Morwyn (Palyr) : intrigue de la fourniture de l'arguetheim. Lysa a mandaté Gorvan à Ther-Félis ; vente à Ulghart au plus tard samedi fin de journée ; Maren réceptionne pour le haut commandement. Intrigue Dolmen : voir `Intrigues/Intrigue_CompagnieDolmenRouge.md` (rédaction groupe voleurs). Palyr : `Intrigues/Intrigue_Palyr.md`, back et rôles `Groupes/Palyr/`.
 
 **Model 2 d'objectifs de personnage**
 Marda (Tripot) La cheffe du tripot cherche un appui politique fort, pourquoi pas Il-Irion, pour se protéger de la mafia. Il faut lui conseiller de peut-être prendre contact avec Il-Irion pour discuter d'un appui contre la Mafia. Elle connait de nom Garrick Halvaren chez Il-Irion (lui ne la connait). Il est important de ne pas mentionner à Madras qu'Il-Irion est à l'origine des détournements organisé par Edorian, ceci doit être caché (aucune mention dans le role de Marda de cette situation)
@@ -55,7 +54,7 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
 
     [X] revoir le livret et mettre la date de creation de la banque en meme temps que l'unification de la confédéréation, soit -150 ans. (codex + Charte_UBI + Back_groupe_UBI — an 397)
 
-    [ ] mettre dans Palyr un responsable militaire
+    [ X ] mettre dans Palyr un responsable militaire
 
     [ ] mettre que l'argent détourné d'Edorian est dans une salle inondée, trouvée par Sybrel.
 
@@ -69,18 +68,18 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
    
     [ X ] Ajouter dans les banquiers, que les 6 morts étaient les anciens gardiens. Les premiers nés ont été embauchés par les banquiers il y a 3 ans. curieux ? Il y avait 10 gardes et maintenant 4. les 6 morts ont été tués lors de la dernière tentative des premiers nés de briser le sceau de la vouivre. Les corps sont toujours là en attente de la cérémonie mortuaire qui se fasse avant le samedi midi. histoire : les 6 corps trouvés sur les quais ont été déplacés dans un coffre sur décision de la banque pour pas laisser des cadavre à l'arrivée de la régate. [modèle 3] 
     
-    - En lien avec le point précédent : Holgrim (UBI) est responsablede la sécurité de la banque. Il dispose de 2 sergent dans le groupe UBI (définir qui, fait une propositin), et d'une garde permanente de 15 gardes. Il est en charge d'organiser les tours de garde, par relève de 2 heures, 4 gardes qui circulent en particulier autour des coffres. [modèle 2]
+    [ ]  En lien avec le point précédent : Holgrim (UBI) est responsablede la sécurité de la banque. Il dispose de 2 sergent dans le groupe UBI (définir qui, fait une propositin), et d'une garde permanente de 15 gardes. Il est en charge d'organiser les tours de garde, par relève de 2 heures, 4 gardes qui circulent en particulier autour des coffres. [modèle 2]
 
     [ ] Ther-Félis, n'a plus de fric donc ils n'entretiennent pas leur flotte et donc ils ont sous-traité le transport àa la Guilde des Ports Unis. Qui du coup en ont profité pour orgaser le détournement du Fer.
-    
-  
-    [ ] Palyr : Ils ont été contacté par un groupe nommé les fils du levant qui leur propose la création d'un nouvel ordre ou toutes les cités et les peuples des îles auraient leur place et leur libertés. Ca va interessé Palyr pour prendre plus de place, et dimunuer l'influence d'IL-Irion. faire une lettre pour Palyr, signée par Tavish Kaironui.
 
-    Ther-félis possède le contrat de transport du fer. Ther-Félis a sous-traité le transport à la Mafia (mais Ther-Félis ne le sait pas que c'est la Mafia). Le contact Ther-Félis <-> guilde des ports Unis doit être dans les coffres. Prendre le représantant route commerciale chez les Ports Unis.
+  
+    [ X ] Palyr : Ils ont été contacté par un groupe nommé les fils du levant qui leur propose la création d'un nouvel ordre ou toutes les cités et les peuples des îles auraient leur place et leur libertés. Ca va interessé Palyr pour prendre plus de place, et dimunuer l'influence d'IL-Irion. faire une lettre pour Palyr, signée par Tavish Kaironui.
+
+    [ ] Ther-félis possède le contrat de transport du fer. Ther-Félis a sous-traité le transport à la Mafia (mais Ther-Félis ne le sait pas que c'est la Mafia). Le contact Ther-Félis <-> guilde des ports Unis doit être dans les coffres. Prendre le représantant route commerciale chez les Ports Unis.
 
     Le contact pro-Styrgie de Ther-Félis est Sven Orlac, faire une lettre de rdv avec le MiVI. Mettre un signe distinctif de reconnaissance. 
 
-    En lien avec Palyr: les druides avait mit la vouivre pour protéger et pour la libérer il faut un sceau, cassé en 5, chaque île possède un bout de l'artéfact. et chacun a un morceau dans les coffres de la banque. Eric fait le petit texte qui explique ça. texte à intégrer dans les back + texte qui raconte l'histoire dans la bilbiothèque.
+    [ ] En lien avec Palyr: les druides avait mit la vouivre pour protéger et pour la libérer il faut un sceau, cassé en 5, chaque île possède un bout de l'artéfact. et chacun a un morceau dans les coffres de la banque. Eric fait le petit texte qui explique ça. texte à intégrer dans les back + texte qui raconte l'histoire dans la bilbiothèque.
 
  
 -->

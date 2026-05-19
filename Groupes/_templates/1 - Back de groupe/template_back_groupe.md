@@ -17,7 +17,7 @@ Ce fichier est **distribué à tous les joueurs du groupe**. La **forme compte**
   C’est le « rôle collectif » : même niveau qu’une fiche joueur, mais pour l’équipe entière.
 
   Référence auteur (orga) : Intrigues/Intrigue_[GROUPE].md — ne pas y recopier les secrets MJ ni les tableaux techniques réservés orga.
-  Suite du workflow : 3 - Roles des Joueurs/role_joueur_*.md (une fiche par PJ).
+  Suite du workflow : 3 - Roles des Joueurs/GROUPE_NomDuPersonnage_RoleDansLeGroupe.md (une fiche par PJ).
 
   Mise en forme (A4, fond, cartouche, bandeaux) : fichiers dans Scripts/ — back_groupe_print.css, back_groupe_shell.html, export_back_groupe.ps1.
 -->

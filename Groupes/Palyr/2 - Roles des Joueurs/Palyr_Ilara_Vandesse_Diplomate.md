@@ -60,9 +60,6 @@ Epopée en Krondaar
 
 # L'histoire de Ilara Vandesse
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
 
 ## Chapitre I : Les origines (formation à Il-Irion et Palyr)
 
@@ -96,8 +93,6 @@ Corvyn fixe le tempo. Il veut attendre que Lysa ait récupéré les archives Pal
 
 Tes contacts à Il-Irion sont une ressource et un risque. Certains savent que tu portes un dossier sur la banque. Ils n'en connaissent pas le contenu. Si l'un d'eux parle aux mauvaises personnes, ta position en commission devient vulnérable avant même que tu aies pu utiliser les preuves.
 
-Tu as aussi une lettre de contact pour le représentant MiVI, la délégation de Styrgie. Ilara tient ce contact. Le canal d'armes non avoué entre Palyr et la Styrgie passe par ce fil. Tu dois organiser cette rencontre discrètement pendant la Régate. Ce dossier n'est pas dans la lettre de créance officielle.
-
 ## Chapitre V : Le réseau et les relations
 
 Corvyn est le chef de délégation. Tu acceptes son arbitrage final sur ce qui sort en public. Là où tu diverges de lui, c'est sur le tempo : il attend, tu anticipes. Vous avez eu cette conversation plusieurs fois. Elle recommencera à Ulghart.
@@ -106,7 +101,7 @@ Lysa partage le dossier banque avec toi. Elle tient la précision des chiffres e
 
 Thoran ne croise pas beaucoup tes lignes. Il tient le commerce, la régate et les quais. Ses contacts arthasiens pour le canal maritime recoupent les tiens sur le plan bancaire. Tu lui transmets ce dont il a besoin pour ne pas créer de friction involontaire avec tes propres contacts Arthas. Il ne cherche pas à étendre son périmètre.
 
-Saevar assure la sécurité de la délégation. Sa situation au Tripot peut créer des fuites au mauvais moment. Si une information sur tes contacts Il-Irion ou sur le canal MiVI sort par le Tripot, c'est terminé pour plusieurs dossiers en même temps. Tu surveilles ce que Saevar approche comme personnes pendant la Régate sans lui en expliquer la raison.
+Saevar assure la sécurité de la délégation. Sa situation au Tripot peut créer des fuites au mauvais moment. Si une information sur tes contacts Il-Irion ou sur le commerce discret de Thoran avec la Styrgie sort par le Tripot, c'est terminé pour plusieurs dossiers en même temps. Tu surveilles ce que Saevar approche comme personnes pendant la Régate sans lui en expliquer la raison.
 
 Tes contacts à Il-Irion ont une valeur limitée dans le temps. Passé la transition de conseil, certains d'entre eux disparaissent dans d'autres mandats ou changent de camp. Tu veux utiliser ces contacts pendant la Régate, avant que la fenêtre se referme.
 
@@ -116,7 +111,6 @@ Tes contacts à Il-Irion ont une valeur limitée dans le temps. Passé la transi
 
 - **Créer et occuper le poste de directrice adjointe** : convaincre les délégations clefs en commission, utiliser le dossier de corruption comme levier au bon moment, sans brûler toute la munition avant que Lysa ait sécurisé les coffres.
 - **Axe Arthas — transition bancaire** : consolider le projet de remplacement du système bancaire il-irionien par un cadre piloté avec Arthas. Palyr propose la garde des coffres comme contrepartie.
-- **Contact MiVI / Styrgie** : rencontrer le représentant MiVI discrètement pour ouvrir le canal d'armes non officiel. Ilara seule détient la lettre de contact.
 - **Contacts Il-Irion** : utiliser les informateurs encore actifs pour préparer les votes en commission. Gérer le risque qu'ils retournent contre toi si la situation se dégrade.
 - **Timing avec Lysa et Corvyn** : coordonner les sorties de preuves avec Lysa (coffres) et Corvyn (arbitrage). Toi tu décides dans les marges — mais une erreur de timing peut couper les deux lignes à la fois.
 
@@ -126,9 +120,12 @@ Tes contacts à Il-Irion ont une valeur limitée dans le temps. Passé la transi
 | Personnage | Interaction |
 |------------|-------------|
 | Corvyn Valdrak | Chef de délégation ; arbitrage final sur ce qui sort ; tu gères le tempo en marge de ses consignes. |
-| Lysa Morwyn | Partage le dossier banque ; tension sur le timing des preuves — toi tu pousses, elle retient. |
-| Thoran Keld | Peu de contact direct sur les commissions ; recoupement sur les contacts Arthas maritimes à gérer. |
-| Saevar Dren | Chef de sécurité ; sa situation au Tripot peut contaminer tes lignes sans qu'il s'en rende compte. |
+| Lysa Morwyn | Partage le dossier banque ; tension sur le timing des preuves — toi tu pousses, elle retient les coffres. |
+| Thoran Keld | Peu de contact en commission ; contacts Arthas maritimes échangés pour éviter les frictions. |
+| Saevar Dren | Sécurité ; sa situation au Tripot peut contaminer tes lignes sans qu'il s'en rende compte. |
+| Maren Holt | Commandant ; fer et Arguetheim ; peu de recoupement direct avec tes votes en commission. |
+| Syndri Ashfeld | Herboriste ; objet en coffre ; une crise banque trop publique peut fermer les accès qu'il cherche. |
+| Bran Lyrd | Druide ; poids de l'Oblat (son frère) ; tu évites de le mêler aux séances ouvertes sur Il-Irion. |
 
 
 # Connaissances
@@ -149,6 +146,3 @@ Tu as formé des liens à Il-Irion pendant tes années de formation. Certains so
 
 Le poste n'existe pas encore. Tu as préparé les statuts et identifié les délégations à convaincre. Trois délégations sont susceptibles de voter pour si tu présentes les preuves correctement. Le vote doit se tenir avant l'installation formelle du nouveau conseil UBI : après ce délai, le rapport de force change.
 
-## MiVI — contact Styrgie
-
-Tu détiens une lettre de rendez-vous pour le représentant MiVI à Ulghart. Ce contact ouvre un canal commercial non avoué entre Palyr et la Styrgie sur les armes. La rencontre doit se tenir discrètement pendant la Régate. Ce dossier n'est pas dans la lettre de créance officielle de la délégation.

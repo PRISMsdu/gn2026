@@ -104,7 +104,7 @@ Les consignes peuvent exiger que la plupart des négociations « propres » (tra
 | Sangs de la Steppe / Guilde des Ports Unis | Réseau piloté (sensibilité : pression / sanction) | Interlocuteurs opérationnels ; comptes sur le fer, l’or pirates, les retards ; jamais égaux : le MiVI tient la ligne. |
 | Tripot (Marda, équipe) | Terrain + cible d’influence | Varek : plaque tournante ; addiction d’un agent = levier pour rivaux ; statut quo mafia–Tripot explosif à la régate. |
 | UBI | Cible + risque | Passation du conseil : pousser des nominations favorables à la réunion Arthas / Ther-Félis ; coffres et rapports « guerre » en parallèle ; méfiance avec le Tripot malgré flux communs. |
-| Palyr | Levier (fer, régate, fuite) | Aide ou financement possibles via contacts Tripot–Palyr à officialiser en jeu ; or ou information contre passage ou soutien à la régate. |
+| Palyr | Levier (fer, régate, commerce gris) | Opération fer Sfaal–Palyr (priorité) ; **Lucan** = envoyé secret vers **Thoran Keld** (lettre STY-547-PAL-THO-01, mot « cale close avant l’aube », pas Guilde sur ce fil) ; distinct du contact Garick / Il-Irion. |
 | Sfaal | Observation + pression | Dossier sceau / fer ; corps d’armée et rumeur Argheteim. |
 | Arthas / Ther-Félis | Contacts pro-Styrgie | Séparatistes ou nuances utiles à long terme ; pas de reconnaissance publique de la mission. |
 | Renseignement militaire confédéral | Adversaire (piste Argheteim / rapports) | Cartographier, infiltrer, retourner ou exposer selon ordre. |

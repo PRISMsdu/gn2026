@@ -54,7 +54,7 @@ Epopée en Krondaar
 | Traits de caractère | Direct sur les chiffres et les contrats. Peu d'intérêt pour les discours sans données. Sait quand un lot ne correspond pas à son certificat. |
 | Valeurs | L'honnêteté du contrat. Un acier qui tient au combat vaut plus que dix promesses d'alliance. |
 | Peur | Qu'on lui demande d'accuser Sfaal sans preuves de la chaîne complète. Que le pot-de-vin aux juges fuite et porte le scandale sur Palyr. |
-| Rêve | Remporter la régate, ouvrir une filière de remplacement pour le minerai, et rentrer à Palyr avec la chaîne Sfaal résolue. |
+| Rêve | Remporter la régate, clarifier le fer Sfaal, et rentrer à Palyr avec les routes et les contrats sous contrôle. |
 
 ---
 
@@ -83,9 +83,11 @@ Le Conseil de Palyr te confie la représentation commerciale sur les dossiers mi
 
 Tu travailles aussi sur un plan de remplacement si la confrontation avec Sfaal tourne mal. Palyr ne peut pas se permettre de rompre le contrat Sfaal sans avoir une filière alternative. Tu identifies des marchands arthasiens capables de fournir des grades de minerai équivalents sur des volumes suffisants pour les forges. Ce n'est pas encore un contrat signé. C'est une option de secours que tu veux avoir prête avant que le Conseil ait besoin de l'utiliser.
 
-Tu t'imposes aussi comme capitaine de la frégate de délégation. La régate annuelle est un événement diplomatique autant que sportif. Palyr y engage un navire et son équipage. Remporter la régate ne valeur pas de l'or mais du prestige : les délégations qui gagnent occupent une position plus favorable dans les séances qui suivent. Corvyn veut ce prestige. Il t'a confié les moyens pour les juges si c'est nécessaire.
+Tu t'imposes aussi comme capitaine de la frégate de délégation. La régate annuelle est un événement diplomatique autant que sportif. Palyr y engage un navire et son équipage. Remporter la régate ne vaut pas de l'or mais du prestige : les délégations qui gagnent occupent une position plus favorable dans les séances qui suivent. Corvyn veut ce prestige. Il t'a confié les moyens pour les juges si c'est nécessaire.
 
-## Chapitre IV : Les défis actuels (incident Sfaal, régate, Arguetheim)
+Sur l'île, tu as vu des chargements partir avant l'aube vers des acheteurs que les registres officiels ne nommaient pas. Le Conseil fermait les yeux sur le papier. La Styrgie achetait armes et matériel de forge par ce canal. Ce n'est pas ton seul métier, mais le Conseil sait que tu connais les quais et les hommes qui signent sans tambour.
+
+## Chapitre IV : Les défis actuels (incident Sfaal, régate, lettre Styrgie)
 
 Le dernier chargement de minerai de Sfaal a bloqué les forges de Palyr. Les sceaux attestaient le grade standard. Les creusets ont produit autre chose. Les maîtres de forge ont sorti les analyses : impuretés, cycles allongés, charbon gaspillé. L'acier d'élite attendu par les contrats confédéraux n'est pas sorti de ce lot.
 
@@ -95,11 +97,15 @@ Corvyn t'a remis les moyens pour soudoyer les juges de la régate si tu en as be
 
 Trouver une filière de remplacement en cas de rupture avec Sfaal est ta priorité commerciale. Tu as identifié des marchands arthasiens capables de fournir des grades similaires. Tu veux rencontrer un ou deux représentants pendant la Régate pour évaluer les volumes et les délais. Si tu sors d'Ulghart avec cette option en poche, Palyr n'est plus en position de faiblesse dans la confrontation sur le dernier chargement.
 
+Avant le départ, le Conseil t'a remis une lettre sans en-tête de cité : relance des achats discrets vers la Styrgie. Tu es le seul interlocuteur désigné. Un envoyé secret te contactera à Ulghart au mot **« cale close avant l'aube »**. Rendez-vous proposé : vendredi soir, quai du fort. Corvyn sait que tu portes ce fil ; Ce dossier n'est pas dans le mandat public du Légat.
+
 ## Chapitre V : Le réseau et les relations
 
 Corvyn t'a donné un mandat clair : commerce, régate, Sfaal, filière de remplacement. Tu n'as pas besoin qu'il t'explique deux fois. Tu fais ton travail, tu lui remontes ce qui dépasse ton périmètre, tu n'empiètes pas sur la diplomatie d'Ilara. Cette organisation te convient.
 
 Saevar est proche de toi sur les quais. Vous partagez les mêmes espaces : embarquements, entrepôts, sorties de port. Tu sais qu'il est accro au jeu. Il sait que tu le sais. Il ne demande pas que tu lui couvres ses sorties au Tripot. Tu ne lui demandes pas ce qu'il y fait. Ce que tu évites, c'est que ses dettes contaminent les opérations de régate. Les paris autour de la régate passent par le Tripot aussi, via Éliane. Si Saevar est compromis là-bas au mauvais moment, ça peut toucher les cotes.
+
+Maren Holt porte les dossiers d'armement sous Corvyn : réquisitions, Bibliothèque, réception pour le haut commandement. Lysa Morwyn a mandaté Gorvan Tresselune, de la Compagnie du Dolmen Rouge, à Ther-Félis il y a environ un mois. Elle négocie l'achat à Ulghart ; Maren signe la réception. La vente doit être conclue au plus tard en fin de journée du samedi. Ce n'est pas ton fil : tu peux prêter un entrepôt ou un convoi si Corvyn te le demande, sans tenir la relation avec Gorvan.
 
 Tes contacts arthasiens sont des marchands et des armateurs, pas des diplomates. Tu leur parles tonnages, grades, délais. Ils n'ont pas besoin de savoir pourquoi Palyr cherche une alternative à Sfaal. Ilara travaille un axe Arthas différent, côté banque. Vous avez échangé vos listes de noms pour éviter les frictions ; vous n'avez pas besoin de coordonner au-delà.
 
@@ -110,19 +116,27 @@ Tes contacts arthasiens sont des marchands et des armateurs, pas des diplomates.
 - **Incident Sfaal** : confronter Sfaal sur le dernier chargement. Sceaux conformes, minerai inutilisable à la forge. Tu veux établir où la chaîne a rompu sans accuser à vide en séance plénière. Si tu trouves des preuves de substitution en route, elles changent la position de Palyr.
 - **Filière de remplacement Sfaal** : identifier des marchands arthasiens capables de fournir un minerai de grade équivalent en volumes suffisants pour les forges de Palyr. Cette option transforme la confrontation Sfaal d'une crise en une négociation.
 - **Régate** : commander la frégate et remporter l'épreuve pour le prestige de Palyr. Corvyn t'a donné les moyens pour les juges si nécessaire. Tu gardes cette option en dernier recours et tu la tiens intraçable.
+- **Styrgie — commerce gris** : tenir le rendez-vous de la lettre STY-547-PAL-THO-01 avec l'envoyé secret ; reprendre négociation sur armes et matériel hors registres confédéraux ; ne rien inscrire aux livres publics.
 
 
 # Membres du groupe
 
 | Personnage | Interaction |
 |------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; mandat régate et commerce ; t'a donné les moyens pour les juges ; tu lui remontes ce qui dépasse ton périmètre. |
-| Ilara Vandesse | Diplomate ; peu de contact direct sur les commissions ; tu lui as transmis tes contacts Arthas maritimes pour éviter les frictions. |
-| Lysa Morwyn | Trésorière ; tu passes par elle pour les transferts liés aux achats de minerai ; peu de contact sur le reste. |
-| Saevar Dren | Sécurité ; partagez le quai et les salons de régate ; tu sais pour le Tripot, ça ne te bloque pas tant que ça ne touche pas les cotes. |
+| Corvyn Valdrak | Chef de délégation ; mandat régate et commerce ; tu lui remontes ce qui dépasse ton périmètre. |
+| Ilara Vandesse | Diplomate ; peu de contact en commission ; listes Arthas échangées pour éviter les doublons. |
+| Lysa Morwyn | Trésorière ; Gorvan et Arguetheim — pas ton fil sauf fret ou entrepôt si Corvyn demande. |
+| Saevar Dren | Sécurité ; quais et salons de régate partagés ; Tripot connu — tu ne remontes pas à Corvyn. |
+| Maren Holt | Commandant ; alignement sur Sfaal, quais et dernier chargement ; Arguetheim côté réception militaire. |
+| Syndri Ashfeld | Herboriste ; peu de croisement ; évite de mélanger coffres UBI et commerce maritime. |
+| Bran Lyrd | Druide ; escorte commune ; artefact du cairn — pas ton dossier. |
 
 
 # Connaissances
+
+## Arguetheim — ce que tu sais
+
+Le haut commandement a ouvert une commande d'Arguetheim. Lysa a mandaté Gorvan Tresselune, de la Compagnie du Dolmen Rouge, à Ther-Félis. Maren doit réceptionner le métal pour l'armée. La vente doit être conclue au plus tard en fin de journée du samedi. Tu n'es pas sur ce dossier sauf si Corvyn te demande du fret ou un entrepôt.
 
 ## Sfaal — incident du dernier chargement
 
@@ -141,3 +155,7 @@ Aucun de ces trois ne sait qu'il travaille pour une délégation officielle. Tu 
 ## Régate — juges et prestige
 
 Corvyn t'a remis les moyens pour soudoyer les juges si nécessaire. Le prestige d'une victoire à la régate vaut plusieurs positions favorables dans les séances qui suivent. Si le soudoiement fuite, c'est Palyr qui porte le scandale. Tu gardes cette option en dernier recours et tu travailles d'abord à gagner autrement.
+
+## Styrgie — réapprovisionnement discret
+
+Pièce : lettre STY-547-PAL-THO-01 (remise avec tes papiers de mission).

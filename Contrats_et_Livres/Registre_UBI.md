@@ -5,7 +5,7 @@
 - **Période couverte** : cinquante dernières années (498-547)
 - **Responsable** : Directeur Edorian (depuis 544)
 - **Localisation** : Citadelle d'Ulghart, Il-Irion
-- **Dernière mise à jour** : 547 (recensement **MQ-II-547-004** à **RD-III-546-007**, détachement MiVI et quais ; mise à jour **CC-III-544-002**)
+- **Dernière mise à jour** : 547 (recensement **RD-III-542-003**, **RD-III-543-004**, **FC-III-544-004**, **CC-II-545-004** — dossier prêts parallèles / Melian–Palyr)
 
 ## Structure du Registre
 
@@ -17,18 +17,22 @@
 | CP-III-542-001 | Correspondance compromettante | Dame Lysara Valdris ↔ Dame Elara Thornwood | Lettre de chantage révélant un adultère et exigeant un vote favorable au conseil de l'UBI | Déposant anonyme | 542 | 🟠 Très Sensible | Actif |
 | CP-III-542-002 | Correspondance compromettante | Dame Lysara Valdris ↔ Capitaine Thoren Blackwater | Lettre de chantage révélant un trafic d'alcool de contrebande et exigeant 30% des bénéfices | Déposant anonyme | 542 | 🟠 Très Sensible | Actif |
 | CP-III-543-001 | Correspondance compromettante | Dame Lysara Valdris ↔ Maître Aldric Portmaster | Lettre de chantage révélant des surtaxes portuaires illégales et détournement de 1500 pièces d'or | Déposant anonyme | 543 | 🟠 Très Sensible | Actif |
+| RD-III-542-003 | Reconnaissance de dette | Grandes maisons Il-Irion ↔ Ther-Félis | Prêt parallèle hors consolidation ; ~22 000 couronnes ; taux 12 % (+4 pt vs tarif affiché) | Conseil sortant UBI | 542 | 🟠 Très Sensible | Actif |
+| RD-III-543-004 | Avenant reconnaissance | Il-Irion ↔ Arthas | Extension schéma 542 ; ~18 000 couronnes ; bénédiction Melian Torv | Conseil sortant UBI | 543 | 🟠 Très Sensible | Actif |
 | CO-II-547-001 | Contrat commercial | Sfaal ↔ Palyr | Fourniture de 20 tonnes de fer avec système de sceau de sécurité pour garantir l'authenticité et la qualité | Duc Thoren Forgefer | 547 | 🟡 Sensible | Actif |
 | CP-III-546-002 | Correspondance compromettante | Expéditeur anonyme ↔ Maître Silas le Graveur | Lettre de demande de copie du sceau officiel de Sfaal pour falsification, rémunération de 200 pièces d'or | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
 | FA-III-546-003 | Document falsifié | Trésorerie de Palyr → Maître Thoren Forgefer | Reçu de transfert falsifié montrant un détournement de 570 pièces d'or des fonds publics vers le compte personnel du trésorier | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
 | FA-III-547-002 | Document falsifié | Capitaine Marcus Blackwater ↔ Maître Aldric Portmaster | Lettre de corruption falsifiée avec reçu de paiement de 320 pièces d'or en échange de l'approbation de contrats | Déposant anonyme | 547 | 🟠 Très Sensible | Actif |
 | RA-III-546-004 | Rapport d'agent | Agent "L'Ombre" → Kaelan Thormane | Rapport sur la vente potentielle d'arguethain pendant la régate, informations sur les parties impliquées et opportunités de sabotage | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
 | FC-III-544-001 | Fiche comptable (copie) | Détournements mandat — initiales « E. » | Bordereau interne reliant liquidité casino à report personnel présumé Edorian | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
+| FC-III-544-004 | Fiche comptable (chambre close) | UBI — dépôt de valeur | Écart de pesée : 1 200 onces déclarées, 1 470 pesées ; greffier « H » | Archiviste chambres closes | 544 | 🟠 Très Sensible | Actif |
 | RD-III-543-002 | Reconnaissance de dette | Marda Velyss → intermédiaire Sangs | Dette de salle et jetons non déclarés — Tripot | Copie conservée Sangs | 543 | 🟠 Très Sensible | Actif |
 | CC-III-544-002 | Correspondance commerciale | Maître Halwen Rask (Staal) → chroniqueur | Complaisance éditoriale sur récit de chute du patriarche marchand Orrin Malet | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
 | BM-III-546-005 | Billet maritime | Korran Vesper → Kaelan Thormane | Gage de remise de sacs d'or — pirates d'Albar | Copie conservée Sangs | 546 | 🟠 Très Sensible | Actif |
 | FL-III-545-002 | Fragment de lettre | Melian Torv → Palyr (destinataire illisible) | Fuite d'informations sur scellés et taux — pression sur Edorian | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif |
 | MC-III-547-003 | Message codé (copie) | Sybrel Dornik ↔ réseau Sangs | Fenêtre de rotation et tunnels — coordination interne | Archive Sangs | 547 | 🟠 Très Sensible | Actif |
 | PA-II-545-003 | Placard anonyme | Auteur inconnu → circulation publique | Accusation de double vente de rumeurs ciblant le Discréteur | Copie conservée Sangs | 545 | 🟡 Sensible | Actif |
+| CC-II-545-004 | Correspondance commerciale | UBI → Ther-Félis | Troisième relève de taux sur prêt parallèle ; non déposé au registre ouvert | Trésorerie sortante UBI | 545 | 🟡 Sensible | Actif |
 | BC-III-544-003 | Bordereau de caisse | Ydria Ventoss — réserves UBI | Écart d'or « justifié » hors registre ouvert | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
 | MQ-II-547-004 | Marque de quai | Guilde — remise informelle | Marque d'encre sur linge ; signal logistique escale | Saisie réseau Sangs | 547 | 🟡 Sensible | Actif |
 | AC-II-543-003 | Avis de conciliation | Fournisseur herbes ↔ initiales D.B. | Litige racines — trace hors greffe (angle pharmacie) | Saisie réseau Sangs | 543 | 🟡 Sensible | Actif |

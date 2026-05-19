@@ -61,10 +61,6 @@ Epopée en Krondaar
 
 # L'histoire d'Ydria Ventoss
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
-
 ## Chapitre I : Les origines
 
 Tu nais à Palyr dans une famille de marchands moyens. Ton père tient un comptoir de change dans un quartier commerçant. Il a de l'argent, pas beaucoup, mais assez pour vivre sans compter chaque pièce. Puis une guerre de frontière entre Palyr et une cité voisine ruine ses lignes de crédit en moins d'un an. Les partenaires qui lui devaient de l'argent disparaissent. Les dettes qu'il avait garanties remontent toutes en même temps.
@@ -135,12 +131,6 @@ Kaelan Thormane offre un corridor gris pour faire partir du lingot hors fil banc
 
 # Connaissances
 
-**Règles de forme (obligatoires)**  
-- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
-- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
-- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
-- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
 ## Comptoir or, écrits, biens — UBI
 

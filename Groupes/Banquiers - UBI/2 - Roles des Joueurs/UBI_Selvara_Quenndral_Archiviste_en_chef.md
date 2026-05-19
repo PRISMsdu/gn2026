@@ -61,10 +61,6 @@ Epopée en Krondaar
 
 # L'histoire de Selvara Quenndral
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
-
 ## Chapitre I : Les origines
 
 Tu nais à Sfaal dans une famille de mages érudits. Pas des mages puissants : des spécialistes des textes anciens, des traducteurs, des consultants sollicités par des maisons nobles pour déchiffrer des actes de propriété ou des sceaux magiques incompréhensibles pour les gens ordinaires. La famille vit bien, de façon modeste, sur la réputation de ses compétences.
@@ -133,12 +129,6 @@ Le réseau érudit que tu as entretenu à l'extérieur reste une porte de sortie
 
 # Connaissances
 
-**Règles de forme (obligatoires)**  
-- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
-- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
-- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
-- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
 ## Registres officiels et registres internes — UBI
 

@@ -1,17 +1,16 @@
-# Mandats à Ulghart — Palyr
+# Rôles joueurs — Palyr
 
-<!--
-  Index auteurs (hors univers) : alignement `Intrigues/Intrigue_Palyr.md` et `../1 - Back de groupe/Back_groupe_Palyr.md` ; chemins de fichiers ci-dessous pour le dépôt uniquement.
--->
+Fiches individuelles remises à chaque joueur. Convention de nommage : `Palyr_NomDuPersonnage_RoleDansLeGroupe.md` (rôle = intitulé dans la délégation, sans accents dans le nom de fichier).
 
-**Cinq personnages** — 2 femmes (Ilara, Lysa), 3 hommes (Corvyn, Thoran, Saevar).
+| Fichier | Rôle dans le groupe |
+|---------|---------------------|
+| `Palyr_Corvyn_Valdrak_Chef_delegation.md` | Représentant du Légat, chef de délégation |
+| `Palyr_Ilara_Vandesse_Diplomate.md` | Diplomate ; directrice adjointe UBI ; Arthas |
+| `Palyr_Lysa_Morwyn_Tresoriere.md` | Trésorière ; mandat coffre Oblat ; Melian |
+| `Palyr_Thoran_Keld_Marchand_capitaine.md` | Marchand, capitaine ; routes, Sfaal, régate ; lettre Styrgie (commerce gris) |
+| `Palyr_Saevar_Dren_Chef_securite.md` | Chef de la sécurité ; Tripot / Lira |
+| `Palyr_Maren_Holt_Commandant_militaire.md` | Commandant militaire ; armement sous Corvyn ; Hanse des Lames |
+| `Palyr_Syndri_Ashfeld_Herboriste.md` | Herboriste ; objet magique coffre UBI |
+| `Palyr_Bran_Lyrd_Druide.md` | Druide cairn Lyrd ; artefact ; frère de l'Oblat |
 
-| Fichier | Personnage |
-|---------|------------|
-| `back_joueur_Corvyn_Valdrak.md` | Représentant du Légat (mandaté), chef de délégation |
-| `back_joueur_Ilara_Vandesse.md` | Diplomate ; poste de directrice adjointe (UBI) ; Arthas |
-| `back_joueur_Lysa_Morwyn.md` | Trésorier ; banque / coffres / Melian ; lignes confidentielles (BN / Soren) |
-| `back_joueur_Thoran_Keld.md` | Marchand ; commerce, capitainerie, régate ; Tripot (régate / salons, sans addiction) |
-| `back_joueur_Saevar_Dren.md` | Chef de la sécurité ; renseignement, réseaux ; addiction au Tripot |
-
-Synthèse des croisements **hors Palyr seule** : `../interactions du groupe Palyr.md`. Mémo casting : `../fusion_interactions_Palyr.m`.
+Gabarit : `Groupes/_templates/2 - Roles de groupe/template_GROUPE_NomDuPersonnage_role.md`.

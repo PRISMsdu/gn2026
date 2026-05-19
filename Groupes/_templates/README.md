@@ -18,7 +18,7 @@ Rôles joueurs  ← une fiche par PJ
 |-------|----------------|--------|------|
 | **1** | `Intrigues/Intrigue_[Groupe].md` | Orga / MJ / scénaristes | Tout le volet auteur : lecture rapide, situation, objectifs, interactions, identité du groupe (tableau des rôles), secrets, ressources. Gabarit : `0 - Intrigues/template_intrigue.md`. |
 | **2** | `Groupes/[Groupe]/1 - Back de groupe/Back_groupe_[Groupe].md` | **Tous les joueurs du groupe** | **Le seul texte « groupe » remis aux joueurs** : récit immersif (légende, enjeux, ton), résumé des objectifs jouables, composition de l’équipe — **sans** les secrets réservés MJ (ceux-ci restent dans l’intrigue ou sur une fiche perso). Gabarit : `1 - Back de groupe/template_back_groupe.md`. |
-| **3** | `Groupes/[Groupe]/2 - Roles des Joueurs/back_joueur_*.md` (ou `role_joueur_*.md` selon le groupe) | **Chaque joueur** | Fiche individuelle : pratique GN, portrait, histoire courte, missions, contacts, informations sensibles du perso. Gabarit : `2 - Roles de groupe/template_role_joueur.md`. |
+| **3** | `Groupes/[Groupe]/2 - Roles des Joueurs/back_joueur_*.md` (ou `{Groupe}_*_{Role}.md` selon le groupe) | **Chaque joueur** | Fiche individuelle : pratique GN, portrait, histoire courte, missions, contacts, informations sensibles du perso. Gabarit : `2 - Roles de groupe/template_GROUPE_NomDuPersonnage_role.md`. |
 
 **Important.** Le **Back_groupe** n’est pas une « ébauche orga » à part : c’est **directement** le document que vous donnez à l’ensemble du groupe. Il ne remplace pas l’intrigue (l’intrigue reste la référence auteur) et il ne doublonne pas un autre fichier « Histoire du groupe » sous un autre nom — **sauf** choix volontaire de maintenir un fichier séparé pour un groupe donné.
 
@@ -28,7 +28,7 @@ Rôles joueurs  ← une fiche par PJ
 |---------|---------|
 | `0 - Intrigues/` | `template_intrigue.md` — intrigue tout-en-un orga |
 | `1 - Back de groupe/` | `template_back_groupe.md` — rôle / livret **collectif** joueurs |
-| `2 - Roles de groupe/` | `template_role_joueur.md` — fiche **individuelle** joueur |
+| `2 - Roles de groupe/` | `template_GROUPE_NomDuPersonnage_role.md` — fiche **individuelle** joueur |
 | `_prompts/` | Prompts IA et `README` d’ordre de génération |
 
 ## Avantages

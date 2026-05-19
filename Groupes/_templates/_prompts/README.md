@@ -26,7 +26,7 @@ Il n’y a **pas** d’étape séparée « Histoire du groupe » sous un autre n
 | `prompt_intrigue_*.md` | Prompts sauvegardés par groupe / lieu |
 | `../0 - Intrigues/template_intrigue.md` | Gabarit de sortie intrigue |
 | `../1 - Back de groupe/template_back_groupe.md` | Gabarit du document collectif joueurs |
-| `../2 - Roles de groupe/template_role_joueur.md` | Gabarit fiche individuelle |
+| `../2 - Roles de groupe/template_GROUPE_NomDuPersonnage_role.md` | Gabarit fiche individuelle |
 
 ## Ordre de génération recommandé
 
@@ -47,12 +47,12 @@ Il n’y a **pas** d’étape séparée « Histoire du groupe » sous un autre n
 
 ### Rôle joueur
 
-- Utiliser `../2 - Roles de groupe/template_role_joueur.md`
+- Utiliser `../2 - Roles de groupe/template_GROUPE_NomDuPersonnage_role.md`
 - Source : intrigue + Back_groupe
 
 ## Exemples de chemins (références projet)
 
-- **Mafia** : `Intrigue_Mafia.md` → `Back_groupe` côté Sangs si présent → `3 - Roles des Joueurs/role_joueur_*.md`
+- **Mafia** : `Intrigue_Mafia.md` → `Back_groupe` côté Sangs si présent → `3 - Roles des Joueurs/{Groupe}_*_{Role}.md`
 - **MiVI** : `Intrigue_MiVI.md` → `Groupes/MiVI/1 - Back de groupe/Back_groupe_MiVI.md` → rôles Corvel
 
 ## Checklist

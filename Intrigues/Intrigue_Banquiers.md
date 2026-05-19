@@ -1,4 +1,4 @@
-﻿# L'Effondrement de l'UBI — Intrigue de groupe
+# L'Effondrement de l'UBI — Intrigue de groupe
 
 <!--
   DOCUMENT ORGA pour le groupe (scénaristes / MJ).
@@ -85,7 +85,7 @@ Canon **genre** (9 PJ, 3 F / 6 H).
 
 ## Objectifs et histoire personnages
 
-<!-- Rédaction factuelle : voir `Groupes/_templates/0 - Intrigues/template_intrigue.md` (PAS DE TOURNURE DE STYLE). Ce passage couvre surtout les liens avec d’autres groupes. Les relations entre les neuf PJ UBI sont détaillées dans `Back_groupe_UBI.md` et les `role_joueur_*.md`. -->
+<!-- Rédaction factuelle : voir `Groupes/_templates/0 - Intrigues/template_intrigue.md` (PAS DE TOURNURE DE STYLE). Ce passage couvre surtout les liens avec d’autres groupes. Les relations entre les neuf PJ UBI sont détaillées dans `Back_groupe_UBI.md` et les fiches `UBI_*_*.md` du dossier rôles. -->
 
 ### Edorian
 Directeur de l’UBI. Il prépare la fin du mandat, la sortie d’argent et de documents, et la réponse aux familles d’Il-Irion ; Seraphine Kaelthorne est le nom du côté des maisons pour les finances et les taux (détail dans `Intrigue_Il-Irion.md` et fiches Il-Irion). Il a participé avec Vaelric, Ydria, Selvara et Horgrim aux décisions du conseil sur les détournements. Pour le braquage avec les Corbeaux de Minuit : il travaille avec Ydria ; le contact opérationnel avec les voleurs passe par Varek au Tripot.
@@ -131,7 +131,7 @@ Surveillance dans les tunnels et couloirs de service ; elle n’a pas le même p
 ### Corvus
 Gardien de coffres et des combinaisons d’accès aux salles (procédure interne UBI décrite dans sa fiche). Infiltration mafia : ses ordres passent par Kaelan Thormane ; son identité de couverture repose sur la Guilde des Ports Unis.
 
-*Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` ; `Groupes/Mafia - Les Sangs de la Steppe/2 - Roles des Joueurs/role_joueur_Kaelan_Thormane.md`.
+*Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` ; `Groupes/Mafia - Les Sangs de la Steppe/2 - Roles des Joueurs/Mafia_Kaelan_Thormane_Chef_de_famille.md`.
 
 
 ## Interactions autre groupe

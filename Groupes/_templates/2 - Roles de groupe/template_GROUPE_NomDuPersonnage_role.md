@@ -2,6 +2,7 @@
 
 <!--
   TEMPLATE — Rôle joueur individuel (étape 3 du workflow).
+  Nom de fichier livrable : `GROUPE_NomDuPersonnage_RoleDansLeGroupe.md` (ex. `Palyr_Lysa_Morwyn_Tresoriere.md`, `UBI_Melian_Torv_Conseiller_spirituel.md`). Slug du rôle : sans accents, mots séparés par des tirets bas, d’après la colonne « Rôle dans le groupe ».
   Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l’intrigue ou à la fiche perso).
   Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir annexe rédacteurs).
   Livrable joueur : une fiche remise au joueur ne contient pas de méta de conception (consignes de longueur, renvois Style.md / passes de relecture, « Règles de forme » sous # Connaissances, checklists rédacteur). Voir en fin de fichier l’annexe réservée aux rédacteurs.

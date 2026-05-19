@@ -61,10 +61,6 @@ Epopée en Krondaar
 
 # L'histoire de Melian Torv
 
-**Longueur narrative (obligatoire)** : cette section raconte la **vie du personnage** dans le monde. Chaque chapitre I à V doit comporter **au moins dix lignes de texte**. Si un chapitre tient en moins de dix lignes, le texte est **incomplet**.
-
-**Rédaction** : [Style.md](../../_templates/Style.md). Appliquer la **passe §11** après rédaction des chapitres I à V.
-
 ## Chapitre I : Les origines
 
 Tu nais dans une lignée où les enfants étaient envoyés dès l'enfance aux scriptoria de l'Église de la Flamme. Pas par dévotion particulière : par tradition familiale et parce que l'Église formait des lettrés, et que les lettrés trouvaient du travail. Tu entres au noviciat à dix ans.
@@ -89,11 +85,11 @@ Ce qu'il ne dit pas tout de suite, mais que tu comprends assez vite : la maison 
 
 Il y a cinq ans tu prends le poste. Depuis le premier jour tu signes des bénédictions sur des dépôts où la valeur déclarée ne correspond pas toujours à la valeur réelle. Tu sais que les actes que Selvara rédige et que tu bénis donnent une apparence légitime à des opérations qui ne le sont pas. Tu l'as choisi. La dette que tu as envers le plan est la même que la leur.
 
-Depuis trois ans tu as transmis à Lysa Morwyn, à Palyr, des informations que l'UBI ne voulait pas rendre publiques. Ces informations ont un prix. Palyr paie. La transaction est documentée d'une façon qui rend difficile de distinguer ce que tu as vendu de ce que tu avais le droit de transmettre.
+Il y a environ un an, tu fixes avec Lysa Morwyn le prix de ta dénonciation : 2 000 couronnes et une protection crédible. Palyr verse 1 000 couronnes. Tu remets la lettre qui expose le mécanisme et cite l'existence des pièces en coffre, sans les références internes. Tu gardes les codes et les extraits pour le second versement. Tant que les 1 000 couronnes restantes ne sont pas sur la table, tu ne livres pas ce qui permet de retrouver chaque acte au registre.
 
 ## Chapitre IV : Les défis actuels
 
-Le mandat se termine. Corvyn Valdrak, à Palyr, valide les mandats financiers qui rendent cohérente la chaîne depuis ton bureau jusqu'aux preuves qu'il tient. Lysa Morwyn peut recouper ces informations avec les dossiers officiels sans passer par une ligne secrète directe. Ces deux fils mènent à toi si quelqu'un les tire ensemble.
+Le mandat se termine. Lysa est à Ulghart pour la Régate. Elle doit te payer le solde avant que tu transmettes le second paquet. Corvyn Valdrak, à Palyr, valide les mandats financiers ; si la ligne politique change, la promesse de protection devient fragile. Ces fils mènent à toi si quelqu'un les tire ensemble avant que tu aies encaissé et livré.
 
 Un artefact est conservé dans les réserves de la banque, hors des catalogues ordinaires. Son statut à la passation est un point ouvert. Si le nouveau conseil le découvre et le répertorie, son histoire remontera des questions sur ce qui a été gardé et ce qui a été omis. Tu surveilles ce dossier avec Edorian.
 
@@ -107,7 +103,7 @@ Selvara rédige les actes que tu signes. Tu lui fais confiance sur la précision
 
 Ydria te renvoie un mépris direct sur les actes moraux que tu attaches aux transactions d'argent. Tu t'en accommodes. Tu as besoin qu'elle continue de signer les mouvements sans créer d'incident visible.
 
-Lysa Morwyn reste le fil le plus fragile. Elle est à Ulghart pendant la Régate en tant que déléguée de Palyr. Ce qu'elle sait, ce qu'elle peut recouper, ce qu'elle peut transmettre à Corvyn Valdrak : tout ça doit rester dans un canal que tu contrôles jusqu'à la passation.
+Lysa Morwyn reste le fil le plus fragile. Elle est à Ulghart pendant la Régate. Elle tient la lettre mais pas encore les références. Tu attends le second millier de couronnes. Tu peux retarder ou accélérer la livraison des codes selon ce qu'elle offre sur la protection et le calendrier.
 
 Vaelric te surveille. Il a compris que ton réseau à Palyr est un risque potentiel pour le plan s'il décide de coopérer avec le conseil entrant pour protéger sa propre sortie. Tu gères ça avec soin.
 
@@ -116,7 +112,7 @@ Vaelric te surveille. Il a compris que ton réseau à Palyr est un risque potent
 # Tes missions et objectifs
 
 - **Façade morale** : maintenir la crédibilité publique du conseiller spirituel jusqu'à la passation ; aucune déclaration qui relie tes signatures aux flux hors registre.
-- **Lysa Morwyn** : gérer la relation pendant la Régate ; s'assurer que ce qu'elle sait reste dans le canal convenu et n'atteint pas Corvyn Valdrak trop tôt.
+- **Lysa Morwyn** : obtenir le second versement de 1 000 couronnes ; livrer les références et extraits à ton signal ; garder le canal fermé jusqu'à la passation.
 - **Artefact** : trancher avec Edorian sur le sort de l'artefact avant que le nouveau conseil arrive et pose des questions.
 - **Sortie personnelle** : construire un récit défendable devant l'Église et devant Palyr qui te laisse une protection si le plan s'effondre.
 
@@ -135,12 +131,6 @@ Vaelric te surveille. Il a compris que ton réseau à Palyr est un risque potent
 
 # Connaissances
 
-**Règles de forme (obligatoires)**  
-- **Rédaction** : respecter [Style.md](../../_templates/Style.md) pour tout le texte de cette section (comme pour le reste du rôle).  
-- **Un `##` par sujet** : une section par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
-- **Contenu minimal par sujet** : **prénom et nom** ; **maison / famille** si elle existe et sert au jeu ; **groupe ou lieu d'attache** (banque, cité, guilde, fonction...).  
-- **Lien avec le personnage** : une ou deux phrases sur la nature du rapport (dette, lettre, contrat, fuite, rendez-vous), avec qui ça se joue, ce qui reste incertain si nécessaire.  
-- **Pièces de jeu** : **code pièce** `TT-R-YYY-NNN` (ex. `CP-III-542-001`, `CO-II-547-001`) tel qu'inscrit au `Registre_UBI.md` — **code seul**, jamais de chemin vers un fichier `.md` ; pas d'outils de rédaction orga.
 
 ## Fonction spirituelle aux comptoirs — UBI
 
@@ -148,7 +138,18 @@ Tu interviens pour bénédiction visible, pour accord sur la catégorie de garde
 
 ## Lysa Morwyn — trésorière, délégation Palyr
 
-Lysa tient le canal par lequel passent les informations que tu lui as transmises et les engagements de protection que Palyr t'a donnés en échange. Elle est à Ulghart pendant la Régate. Les échanges se jouent sur des documents et des rendez-vous compatibles avec son rôle officiel. Sans elle, la promesse de couverture Palyr n'a plus de relais actif.
+Lysa tient le canal Palyr. Tu lui as remis la lettre de dénonciation après le premier millier de couronnes. Les références internes des pièces en coffre et les extraits exploitables ne partent qu'après le second millier. Elle est à Ulghart pour la Régate. Les échanges passent par le casino du fort ou des rendez-vous discrets. Sans le solde, tu ne livres pas ce qui rend le dossier actionnable devant un greffier.
+
+## Dossier prêts parallèles — codes (second paquet)
+
+Après le second versement, tu transmets les références suivantes (registre scellés privés UBI) :
+
+- RD-III-542-003 : reconnaissance Ther-Félis, 542.
+- RD-III-543-004 : avenant Arthas, bénédiction Melian, 543.
+- FC-III-544-004 : écart de pesée 1 200 / 1 470 onces, 544.
+- CC-II-545-004 : relève de taux Ther-Félis, non déposée au registre ouvert, 545.
+
+Les pièces CP-III-542-001 à CP-III-543-001 (chantages Valdris) sont un autre dossier ; ne les mélange pas en scène avec ce fil.
 
 ## Corvyn Valdrak — Conseil, Palyr
 
