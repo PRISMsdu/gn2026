@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Horgrim Dval |
 | Rôle dans le groupe | Chef de la garde privée — conseil |
-| Classe / profession | Guerrier *(règlement — orga)* |
+| Classe / profession | Guerrier |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -133,42 +133,30 @@ Quelques gardes recrutés il y a trois ans te préoccupent. Ils font leur travai
 - **Procédure sur les six gardes** : la procédure interne est ouverte. Tu dois savoir ce qu'elle peut produire comme conclusions avant qu'un auditeur extérieur y mette le nez.
 - **Dépouilles et cérémonie** : les six corps sont encore dans la salle des coffres où la banque les a rangés après les quais. La cérémonie mortuaire doit avoir lieu avant le samedi midi ; jusqu'à ce moment, tu tiens la zone fermée et tu contrôles qui s'en approche.
 - **Gardes suspects** : identifier ce que ces hommes cherchent dans le fort avant que l'affluence de la Régate rende leurs mouvements impossibles à suivre.
-- **Varek et les 6 gardes morts** : creuser cette piste qui pointe du doigt le Casino ou Varek de manière un peu trop évidente. 
-
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Edorian | Confiance proche — tu es dans le plan de sortie avec lui depuis le début. |
-| Kaelen Veynar | Formé par toi ; surveille s'il commence à contourner ta hiérarchie. |
-| Sybrel Dornik | Supervision théorique ; méfiance réelle — tu ne sais pas tout ce qu'elle transmet. |
-| Vaelric Dorn | Méfiance constante — circule dans les souterrains sans toujours respecter les procédures. |
-| Selvara Quenndral | Peu de contact direct ; tu lui ouvres les chambres closes sur ordre, rien de plus. |
-| Ydria Ventoss | Peu de contact direct ; tu assures l'escorte vers les coffres sur les dépôts d'or. |
-| Melian Torv | Respect — autorité morale utile en public ; tu ne confonds pas son rôle avec le tien. |
-| Corvus | Coordination nécessaire sur les accès ; la passation vous oblige à travailler ensemble. |
+- **Varek et les 6 gardes morts** : creuser cette piste qui pointe du doigt le Casino ou Varek de manière un peu trop évidente.
 
 # Connaissances
 
-## La ligne des portes
+## Postes et portes
+
 Tu décides qui entre, avec quelles armes, et jusqu'où monte l'escorte. C'est ta loi dans l'édifice. Elle s'applique aux membres du conseil comme aux visiteurs. Edorian peut te donner un ordre d'accès ; lui seul.
 
 ## Les trois dépôts — ton rôle
+
 Pour un dépôt d'or, tu tiens la première porte, tu contrôles les armes et les chemins, tu ordonnes l'accès aux zones sensibles si la maison le demande. Pour un dépôt de documents ou de biens, même logique : première porte, escorte vers les chambres closes ou les salles adaptées, ordre d'accès selon la criticité retenue au comptoir.
 
 ## Procédure interne — les six gardes
+
 Six gardes sont morts il y a deux jours. Leurs corps ont été trouvés sur les quais. La banque a ordonné de les transférer dans une salle des coffres pour ne pas exposer des cadavres aux arrivées de la Régate. Les dépouilles y sont toujours, en attente de la cérémonie mortuaire fixée avant le samedi midi.
 
 Une procédure interne est ouverte. Elle n'a pas encore de conclusions. Si elle en produit, elles concernent la garde en premier lieu — et le choix du lieu de conservation des corps, que tu as appliqué sur ordre du conseil. Tu ne sais pas encore jusqu'où l'enquête peut remonter. Tu évites les déclarations tant que tu n'as pas une vision complète de ce que l'enquête a compilé.
 
-## Kaelen Veynar — exécuteur de contrats (UBI)
-Tu l'as formé. Il connaît les procédures de la garde aussi bien que toi. Tu lui fais confiance sur le terrain. Tu ne lui fais pas confiance sur l'ambition. S'il cherche un appui direct auprès d'Edorian pour te court-circuiter avant la fin du mandat, tu veux le savoir avant que ça devienne un problème visible.
-
-## Sybrel Dornik — surveillance interne (UBI)
-Elle a accès aux tunnels intérieurs et aux coursives. Son travail officiel est la surveillance interne. Ce qu'elle transmet au-delà de ses rapports officiels, tu ne le sais pas avec certitude. Tu la surveilles.
-
 ## Varek — Tripot (alertes contre la garde)
+
 Depuis environ deux ans Varek te signale des actes contre le Tripot : poissons pourris dans les réserves, débuts de feu dans des couloirs de service, dégâts mineurs sur les accès. Il relie ces incidents à certains gardes de la banque, en priorité aux six morts récemment et à leurs proches encore en service. Il note un calendrier : les dégradations ont commencé un an après l'arrivée de ces hommes, puis se sont répétées. Il n'a pas de preuve complète, mais pour lui ce n'est plus une coïncidence.
 
 Tu ne traites pas ses requêtes en profondeur, bien que ce qu'il raconte ne soit pas débile. Cependant tant que la procédure interne sur les six morts pèse sur la garde, toute alerte venant du Tripot te paraît d'autant plus suspecte...
+
+---
+
+*GN Krondaar 2026*

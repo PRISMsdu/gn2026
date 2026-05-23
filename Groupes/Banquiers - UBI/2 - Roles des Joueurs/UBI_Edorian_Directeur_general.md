@@ -37,9 +37,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Edorian |
 | Rôle dans le groupe | Directeur général — Union bancaire d'Il-Irion |
-| Classe / profession | Erudit — Guerrier *(règlement — orga)* |
+| Classe / profession | Erudit — Guerrier |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -136,29 +136,22 @@ Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que t
 - **Fin de mandat** : mener la passation sans déclencher un audit qui bloque les couloirs avant ton départ.
 - **Grandes Familles** : négocier avec Cyrion Valdris, Seraphin Kaelthorne et les autres jusqu'à savoir ce qu'ils accepteront pour laisser passer ta sortie.
 - **Biens et preuves** : protéger jusqu'au dernier moment ce qui doit rester coffré, déplacé ou détruit selon les arbitrages assumés devant le conseil entrant.
-- **Partir propre** : ou pas... 
-
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Horgrim Dval | Chef de la garde ; confiance étroite |
-| Vaelric Dorn | Discréteur ; Ami et fidèle |
-| Ydria Ventoss | Trésorière ; Fidèle |
-| Selvara Quenndral | Archiviste en chef — textes et scellés inter-cités ; Fidèle |
-| Melian Torv | Conseiller spirituel ; rôle moral en public utile, un peu trop morale... |
-| Kaelen Veynar | Recouvrement et pression, normal  |
-| Sybrel Dornik | Surveillance interne et tunnels ; trop libre |
-| Corvus | Gardien des clefs ; intransigeant |
+- **Partir propre** : ou pas...
 
 # Connaissances
 
 ## Cyrion Valdris et Seraphin Kaelthorne — Grandes Familles d'Il-Irion
+
 Ce sont les porte-parole des maisons sur finances et taux. Ils sont des appuis ou des obstacles si la transition tourne au conflit informel avant la Régate.
 
 ## Thoren — cousin à Ther-Félis
+
 Tu as protégé **Thoren** quand une affaire de contrefaçon le menaçait.
 
 ## Varek — Tripot (relais extérieur)
+
 **Varek** tient le relais au Tripot pour faire partir des consignes vers l'extérieur sans que ton nom figure sur une note officielle hors casino. Tu n'as pas de contact direct avec le chef de l'équipe extérieure : tout passe par Varek.
+
+---
+
+*GN Krondaar 2026*

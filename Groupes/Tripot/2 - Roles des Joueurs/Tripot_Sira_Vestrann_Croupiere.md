@@ -34,15 +34,16 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Sira Vestrann |
 | Rôle dans le groupe | Croupière — tables, lecture des mains et des visages, réseau d'habitués |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Voleuse |
+| Compétences | Pugilat |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Sœur de **Lira** — complémentarité ou rivalité jouable ; règles « addicts » avec l'orga si activées. |
 | Doublons (or) | 100 |
-| Pugilat | 3 |
+| Pugilat | 9 |
 
 ## Apparence et caractère
 
@@ -71,7 +72,7 @@ Tu tiens les tables où l'argent parle le plus fort ; tu connais les **codes** d
 
 ## Chapitre IV : Les défis actuels
 
-La **régate** monte les mises — et **Sira et Lira** sont le spectacle. Avec **Éliane**, tu fais coïncider mains et cotes sans que la salle voie la couture. La tension avec **Lira** peut être **alliée** ou **compétition** : à la table de choisir le ton.
+La **régate** monte les mises — et **Sira et Lira** sont le spectacle. Avec **Éliane**, tu fais coïncider mains et cotes sans que la salle voie la couture. La tension avec **Lira** peut être **alliée** ou **compétition** : **Marda** tranche si vous vous affaiblissez devant la salle.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -85,30 +86,24 @@ La **régate** monte les mises — et **Sira et Lira** sont le spectacle. Avec *
 
 - **Maintenir le flux** aux tables : addicts, habitués, nouveaux — sans incident qui ferme la salle.
 - **Coordonner avec Lira** : complémentarité (lecture / manipulation) ou tension — **jouer** le duo.
-- **Supporter la régate** : signaux discrets avec Éliane et Varek selon ce que la table assume.
+- **Supporter la régate** : signaux discrets avec Éliane et Varek ; **Marda** valide le risque réputationnel.
 
-## Relations clés à exploiter
 
-### Membres du Tripot
-
-| Personnage | Lien |
-|------------|------|
-| Lira Vestrann | Sœur — même sang, pas forcément même **calcul**. |
-| Éliane | Cotes et paris — tu lui donnes le tempo des mains. |
-| Varek | Suspects / quai — tu pointes, il suit. |
-| Lydwen | Oracle — tu ne confonds pas cartes et **preuve**. |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Habitués « addicts » | Clientèle Tripot | Levier / risque | Règles de jeu éventuelles avec l'orga ; dossiers VIP alignés sur la ligne du groupe. |
-| Maison Valdris / notables Il-Irion | Il-Irion | Dettes & rumeurs | Lettre compromettante (trafic d'alcool) — **chantage possible** selon scène ; ne pas empiler trop de chantages différents sur la même scène. |
 
 ## Informations sensibles
 
 - **Addict** : si mécanisme « phrase codée » activé par l'orga, tu en es le **relais** principal avec Lira — clarifier avant jeu.
 - Les **truquages** visibles tuent la **réputation** avant l'or — tu cadres avec Marda.
+
+# Connaissances
+
+## Habitués « addicts » — Clientèle Tripot
+
+Règles de jeu éventuelles avec l'orga ; dossiers VIP alignés sur la ligne du groupe.
+
+## Maison Valdris / notables Il-Irion — Il-Irion
+
+Lettre compromettante (trafic d'alcool) — **chantage possible** selon scène ; ne pas empiler trop de chantages différents sur la même scène.
 
 ---
 

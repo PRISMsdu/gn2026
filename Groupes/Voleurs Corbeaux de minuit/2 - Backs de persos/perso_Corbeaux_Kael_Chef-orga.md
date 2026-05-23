@@ -8,7 +8,7 @@
 - **Origine géographique** : Il-Irion / milieux portuaires et financiers de la Confédération
 - **Classe/Profession** : Stratège, coordinateur d’opérations illicites
 - **Rôle dans le groupe** : Chef — décisions finales, timing, arbitrage des désaccords, cohérence du casse et des replis
-- **Alias / nom cité hors groupe** : **« Brann Crochemain »** — utilisé dans les contacts banque, Marché aux Oiseaux et fiches inter-groupes (*cf.* UBI, `Fiche_interactions_tous_groupes.md`) ; à unifier avec la table (même personne ou identité de façade).
+- **Alias / nom cité hors groupe** : **« Brann Crochemain »** — utilisé dans les contacts banque, Marché aux Oiseaux et fiches inter-groupes (*cf.* UBI, `Fiche_interactions_tous_groupes.md`) ; à unifier en orga (même personne ou identité de façade).
 
 ## Apparence et Caractère
 

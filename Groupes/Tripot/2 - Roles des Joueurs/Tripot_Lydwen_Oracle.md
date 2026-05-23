@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Lydwen |
 | Rôle dans le groupe | Oracle — cartes, visions, tempo sur artefact et choix |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Cartomancienne |
+| Compétences | Transe ; Chirurgie |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -71,7 +72,7 @@ Tu as guidé des décisions ; tu as **senti** l'**artefact** maudit côté UBI �
 
 ## Chapitre IV : Les défis actuels
 
-La transition **banque** et la **régate** tissent des futurs qui se **mordent**. Tes tirages peuvent pointer vers **Soren** (Brigade), vers **l'objet**, vers une **porte** — à la table d'accorder foi et **preuve**.
+La transition **banque** et la **régate** tissent des futurs qui se **mordent**. Tes tirages peuvent pointer vers **Soren** (Brigade), vers **l'objet**, vers une **porte** — chacun décide s'il te croit ou s'il exige une **preuve**.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -87,29 +88,23 @@ La transition **banque** et la **régate** tissent des futurs qui se **mordent**
 - **Éclairer l'artefact** : levier narratif — ne pas **casser** la ligne banque sans feu vert orga.
 - **Lien Soren / menace** (oracle) : les cartes peuvent pointer vers son **ombre** — tu es, avec **Soren**, celle qui peut **tenir le fil Brigade / traque** au départ ; les **autres PJ** n’ont pas cette lecture sur leur livret commun : jouer la **révélation** au rythme du GN, pas en mode « tout le monde sait ».
 
-## Relations clés à exploiter
 
-### Membres du Tripot
-
-| Personnage | Lien |
-|------------|------|
-| Marda Velyss | Elle veut des **angles** — tu ne lui vends pas de certitude gratuitement. |
-| Éliane | Régate / paris — complémentarité **timing** / **mains**. |
-| Sira & Lira | Tables — tu traduis l'oracle en **geste** jouable. |
-| Soren | Tes visions peuvent le **toucher** — jouer la tension sans auto-exposition. |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Melian Torv | UBI — conseiller spirituel | Pont thématique Palyr / foi | Lettres et engagements croisés banque / foi ; recouper avec **Ysabeau** avant toute scène **coffre** ou salon commun. |
-| Artefact / ligne UBI | Banquiers | Rumeur & levier | Rumeurs sur l’objet et la ligne banque — arbitrage MJ pour le détail. |
 
 ## Informations sensibles
 
 - **Brigade / passé de Soren** : en **début de partie**, la **connaissance détaillée** de la traque est limitée à **toi** (tirages, visions, accord MJ) et à **Soren** — pas aux autres PJ sur leurs livrets ; ne pas imposer aux joueurs une conscience de groupe qu’ils n’ont pas sur le papier.
 - **Vision** n'est pas **preuve** — tu évites de figer le jeu sans orga.
 - Tes tirages sur l'**artefact** peuvent être **partiels** — le détail canon reste **MJ**.
+
+# Connaissances
+
+## Melian Torv — UBI — conseiller spirituel
+
+Lettres et engagements croisés banque / foi ; recouper avec **Ysabeau** avant toute scène **coffre** ou salon commun.
+
+## Artefact / ligne UBI — Banquiers
+
+Rumeurs sur l’objet et la ligne banque — arbitrage MJ pour le détail.
 
 ---
 

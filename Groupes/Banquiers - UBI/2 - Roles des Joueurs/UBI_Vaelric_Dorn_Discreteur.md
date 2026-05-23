@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Vaelric Dorn |
 | Rôle dans le groupe | Discréteur — conseil ; récit public, rumeurs, dossiers hors registre |
-| Classe / profession | Espion / négociateur occulte *(règlement — orga)* |
+| Classe / profession | Espion / négociateur occulte |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -118,21 +118,13 @@ Varek est ton seul contact direct avec l'extérieur. Tout ce qui ne doit pas lai
 - **Neutraliser les fuites** : identifier qui dans le fort pourrait parler avant la passation et fermer les canaux avant que l'information atteigne les mauvaises personnes.
 - **Arthas** : gérer la relation avec les familles d'Arthas qui croient avoir un droit sur ta loyauté ; tu sors d'Ulghart pour toi, pas pour elles.
 
-# Membres du groupe
 
-| Personnage | Interaction |
-|------------|-------------|
-| Edorian | Confiance construite sur huit ans d'intérêts alignés ; coordination étroite sur le récit et le calendrier. |
-| Horgrim Dval | Tension entretenue délibérément : il te surveille dans les souterrains, ça t'arrange. |
-| Ydria Ventoss | Coordination sur les mouvements d'or ; relation de travail sans affect. |
-| Melian Torv | Méfiance : son réseau Palyr et sa capacité d'analyse sont un risque s'il cherche une sortie personnelle. |
-| Selvara Quenndral | Collaboration sur dossiers et actes hors registre ; elle tient le papier, toi le bruit. |
-| Kaelen Veynar | Peu de contact direct ; utile si une confrontation physique doit rester discrète. |
-| Sybrel Dornik | Prudence : mêmes couloirs, briefings différents. |
-| Corvus | Méfiance mutuelle : il tient les procédures des coffres, tu contournes parfois les procédures. |
+
+---
+
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
-
 
 ## Fonction hors registre — UBI
 
@@ -152,4 +144,4 @@ Tu as conservé des copies de dossiers qui ne devaient pas en avoir. Certains co
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
+*GN Krondaar 2026*

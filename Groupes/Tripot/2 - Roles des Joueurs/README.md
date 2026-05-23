@@ -14,5 +14,6 @@ Fiches individuelles remises à chaque joueur. Convention de nommage : `Tripot_N
 | `Tripot_Soren_Homme_de_main.md` | Homme de main — poisons, potions |
 | `Tripot_Varek_Pisteur.md` | Pisteur — filatures, quai |
 | `Tripot_Ysabeau_Hotesse.md` | Hôtesse — VIP, salons |
+| `Tripot_Guelievre_Marech_Gouvernante.md` | Gouvernante — réserves, service, rapport à Marda |
 
 Gabarit : `Groupes/_templates/2 - Roles de groupe/template_GROUPE_NomDuPersonnage_role.md`.

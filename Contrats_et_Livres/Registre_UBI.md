@@ -5,7 +5,7 @@
 - **Période couverte** : cinquante dernières années (498-547)
 - **Responsable** : Directeur Edorian (depuis 544)
 - **Localisation** : Citadelle d'Ulghart, Il-Irion
-- **Dernière mise à jour** : 547 (recensement **RD-III-542-003**, **RD-III-543-004**, **FC-III-544-004**, **CC-II-545-004** — dossier prêts parallèles / Melian–Palyr)
+- **Dernière mise à jour** : 547 (recensement **SE-III-520-001** — mandat Thorne / Therne, criticité III ; **RD-III-542-003**, **RD-III-543-004**, **FC-III-544-004**, **CC-II-545-004**)
 
 ## Structure du Registre
 
@@ -25,57 +25,69 @@
 | FA-III-547-002 | Document falsifié | Capitaine Marcus Blackwater ↔ Maître Aldric Portmaster | Lettre de corruption falsifiée avec reçu de paiement de 320 pièces d'or en échange de l'approbation de contrats | Déposant anonyme | 547 | 🟠 Très Sensible | Actif |
 | RA-III-546-004 | Rapport d'agent | Agent "L'Ombre" → Kaelan Thormane | Rapport sur la vente potentielle d'arguethain pendant la régate, informations sur les parties impliquées et opportunités de sabotage | Déposant anonyme | 546 | 🟠 Très Sensible | Actif |
 | FC-III-544-001 | Fiche comptable (copie) | Détournements mandat — initiales « E. » | Bordereau interne reliant liquidité casino à report personnel présumé Edorian | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
-| FC-III-544-004 | Fiche comptable (chambre close) | UBI — dépôt de valeur | Écart de pesée : 1 200 onces déclarées, 1 470 pesées ; greffier « H » | Archiviste chambres closes | 544 | 🟠 Très Sensible | Actif |
+| FC-III-544-004 | Fiche comptable (registre clos) | UBI — dépôt de valeur | Écart de pesée : 1 200 onces déclarées, 1 470 pesées ; greffier « H » | Archiviste registre clos | 544 | 🟠 Très Sensible | Actif |
 | RD-III-543-002 | Reconnaissance de dette | Marda Velyss → intermédiaire Sangs | Dette de salle et jetons non déclarés — Tripot | Copie conservée Sangs | 543 | 🟠 Très Sensible | Actif |
 | CC-III-544-002 | Correspondance commerciale | Maître Halwen Rask (Staal) → chroniqueur | Complaisance éditoriale sur récit de chute du patriarche marchand Orrin Malet | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
 | BM-III-546-005 | Billet maritime | Korran Vesper → Kaelan Thormane | Gage de remise de sacs d'or — pirates d'Albar | Copie conservée Sangs | 546 | 🟠 Très Sensible | Actif |
-| FL-III-545-002 | Fragment de lettre | Melian Torv → Palyr (destinataire illisible) | Fuite d'informations sur scellés et taux — pression sur Edorian | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif |
+| FL-III-545-002 | Fragment de lettre | Melian Torv → Palyr (initiale « L. ») | Prêts parallèles 542–543, relève 545 ; offre de fuite chiffrée à Palyr avant consolidation — pression sur Edorian | Saisie réseau Sangs | 545 | 🟠 Très Sensible | Actif |
 | MC-III-547-003 | Message codé (copie) | Sybrel Dornik ↔ réseau Sangs | Fenêtre de rotation et tunnels — coordination interne | Archive Sangs | 547 | 🟠 Très Sensible | Actif |
 | PA-II-545-003 | Placard anonyme | Auteur inconnu → circulation publique | Accusation de double vente de rumeurs ciblant le Discréteur | Copie conservée Sangs | 545 | 🟡 Sensible | Actif |
 | CC-II-545-004 | Correspondance commerciale | UBI → Ther-Félis | Troisième relève de taux sur prêt parallèle ; non déposé au registre ouvert | Trésorerie sortante UBI | 545 | 🟡 Sensible | Actif |
 | BC-III-544-003 | Bordereau de caisse | Ydria Ventoss — réserves UBI | Écart d'or « justifié » hors registre ouvert | Saisie réseau Sangs | 544 | 🟠 Très Sensible | Actif |
 | MQ-II-547-004 | Marque de quai | Guilde — remise informelle | Marque d'encre sur linge ; signal logistique escale | Saisie réseau Sangs | 547 | 🟡 Sensible | Actif |
 | AC-II-543-003 | Avis de conciliation | Fournisseur herbes ↔ initiales D.B. | Litige racines — trace hors greffe (angle pharmacie) | Saisie réseau Sangs | 543 | 🟡 Sensible | Actif |
-| FM-III-546-006 | Fragment de message | Infiltration — citadelle | Indices coffre nord / sceau secondaire avant conseil | Saisie réseau Sangs | 546 | 🟠 Très Sensible | Actif |
+| FM-III-546-006 | Fragment de message | Infiltration — citadelle | Indices sceau secondaire avant conseil | Saisie réseau Sangs | 546 | 🟠 Très Sensible | Actif |
 | TR-III-547-005 | Tableau de relais | Initiales R. — quai Il-Irion | Grille marées, lanternes, séparation des couverts | Saisie réseau Sangs | 547 | 🟠 Très Sensible | Actif |
 | NS-III-547-006 | Note de service | Bureau M. (MiVI, Primat) → T. Corvel | Priorités Cognelot : fer, UBI, Tripot, routes — couverture civile | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif |
 | GC-III-547-007 | Grille de contact | Varek — Tripot, pisteur | Signaux rendez-vous, dé à coudre bleu, exclusions créneaux | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif |
 | AN-III-547-008 | Annexe commerciale | Arthas & Ther-Félis — intermédiaires | Sera Orist, Jonn Halet, Maison Veth & Roole ; quai B | Copie recensée (archive confédérale) | 547 | 🟠 Très Sensible | Actif |
 | RD-III-546-007 | Reconnaissance de dette | Initiales M.T. ↔ créancier satellite Tripot | Jetons, faveurs, témoin V. (pisteur) — bar paris secondaires | Copie recensée (archive confédérale) | 546 | 🟠 Très Sensible | Actif |
 
+### Archives antérieures (hors fenêtre 498–547, réintégrées en 547)
+
+| N° Enregistrement | Type de Document | Parties Impliquées | Description du Contenu | Déposé par | Date de Dépôt | Criticité | Statut |
+|------------------|------------------|-------------------|----------------------|------------|---------------|-----------|--------|
+| SE-III-520-001 | Contrat de service (mandat) | Maison Thorne ↔ Guilde des Ports Unis | Mandat Therne Vallis ; lord Edran Thorne ; syndic Halvek Renn ; 400 po ; exécution hiver 519 | Lord Edran Thorne | 520 | 🟠 Très Sensible (III) | Archivé |
+
+**Fiche d'accès — SE-III-520-001**
+
+| Champ | Valeur |
+|-------|--------|
+| N° enregistrement (= code pièce) | SE-III-520-001 |
+| Criticité | III — Très sensible (🟠) |
+| Première pièce recensée pour l'an 520 (NNN 001 global) | Oui |
+| Consultation | Demande écrite ; citer SE-III-520-001 ; conseil de direction ou archiviste en chef |
+| Pièce physique | `Contrats_et_Livres/SE-III-520-001.md` |
+
 ### Système de Numérotation
 - **N° d’enregistrement** : identique au **code pièce** et au **nom de fichier** (sans `.md`), au format **`TT-R-YYY-NNN`** — voir la première colonne du tableau et la règle détaillée ci‑dessous.
 - **Séquence** : les entrées du tableau vivant ci-dessus concernent surtout les **trois à cinq dernières années** autour de l’an **547** ; le suffixe **`NNN`** est le rang **global dans l’année** de dépôt (voir *Date de Dépôt*).
-- **Références de pièces « physiques »** : chaque document porte un **code pièce** unique, **identique au nom de fichier** sans extension (ex. `CO-II-545-001`, `CP-III-542-001`). Détail du format : **`TT-R-YYY-NNN`** — `TT` = **deux lettres** (type ou template, voir grille ci‑dessous) ; `R` = **criticité en chiffres romains** alignée sur la zone de coffre : **I** (Standard), **II** (Sensible), **III** (Très sensible), **IV** (Critique) ; **`YYY`** = **année in-univers** du dépôt (colonne *Date de Dépôt*, sur **trois chiffres**) ; **`NNN`** = **numéro séquentiel dans l’année** (compteur **global** pour l’année : premier document déposé en 547 → `…-547-001`, suivant → `…-547-002`, etc., sur trois chiffres). Le fichier est `Contrats_et_Livres/TT-R-YYY-NNN.md`. L’**unicité** du code est garantie par le registre avant toute publication ou antidatation.
+- **Références de pièces « physiques »** : chaque document porte un **code pièce** unique, **identique au nom de fichier** sans extension (ex. `CO-II-545-001`, `CP-III-542-001`). Détail du format : **`TT-R-YYY-NNN`** — `TT` = **deux lettres** (type ou template, voir grille ci‑dessous) ; `R` = **criticité en chiffres romains** : **I** (Standard), **II** (Sensible), **III** (Très sensible), **IV** (Critique) ; **`YYY`** = **année in-univers** du dépôt (colonne *Date de Dépôt*, sur **trois chiffres**) ; **`NNN`** = **numéro séquentiel dans l’année** (compteur **global** pour l’année : premier document déposé en 547 → `…-547-001`, suivant → `…-547-002`, etc., sur trois chiffres). Le fichier est `Contrats_et_Livres/TT-R-YYY-NNN.md`. L’**unicité** du code est garantie par le registre avant toute publication ou antidatation.
 - **Grille des deux lettres (`TT`)** : alignée sur les templates et les types d’archives — **CO** contrat commercial (CONTRACT) ; **DE** contrat de dette (DEBT) ; **AL** alliance (ALLIANCE) ; **SE** service (SERVICE) ; **EP** exploitation (EXPLOITATION) ; **EC** exclusivité (EXCLUSIVITY) ; **PR** protection (PROTECTION) ; **MA** mariage (MARRIAGE) ; **CP** correspondance compromettante ; **CC** correspondance commerciale ; **FA** document falsifié ; **RA** rapport d’agent ; **FC** fiche comptable ; **RD** reconnaissance de dette ; **BM** billet maritime ; **FL** fragment de lettre ; **MC** message codé ; **PA** placard anonyme ; **BC** bordereau de caisse ; **MQ** marque de quai ; **AC** avis de conciliation ; **FM** fragment de message ; **TR** tableau de relais ; **NS** note de service ; **GC** grille de contact ; **AN** annexe commerciale.
 - **Préfixes spéciaux** (hors schéma `TT-R-YYY-NNN`, usage interne rare) : 
   - `UBI-SEC-[N°]` pour les documents ultra-secrets
   - `UBI-TEMP-[N°]` pour les documents temporaires
 
-## Criticité : définition, zone de coffres et accès
+## Criticité : définition et accès
 
-Chaque rang aligne la **définition** (nature du risque si la pièce fuit), la **zone de coffres** (plage de numéros et niveau de sécurité physique) et les **personnes habilitées** à l’accès. Les codes pièce reprennent la criticité en **chiffres romains** : **IV** = Critique, **III** = Très Sensible, **II** = Sensible, **I** = Standard (voir aussi l’avis dépôt documents UBI).
+Chaque rang aligne la **définition** (nature du risque si la pièce fuit) et les **personnes habilitées** à l’accès. Les codes pièce reprennent la criticité en **chiffres romains** : **IV** = Critique, **III** = Très Sensible, **II** = Sensible, **I** = Standard (voir aussi l’avis dépôt documents UBI).
 
 ### 🔴 Critique 
 - **Définition** : documents pouvant causer la chute de gouvernements, révélations de crimes majeurs, génocides ; chantage sur dirigeants suprêmes.
-- **Zone de coffres** : verrouillage très élevé.
 - **Accès** : directeur avec **Corvus**, archiviste en chef et gardes.
 - **Exemples** : constitutions, plans de coups d’État, preuves de génocide ou de crimes majeurs, preuves de chantage sur dirigeants suprêmes.
 
 ### 🟠 Très Sensible
 - **Définition** : scandales politiques majeurs, malversations importantes, chantage sur nobles.
-- **Zone de coffres** : double verrouillage, gardes de jour.
 - **Accès** : conseil de direction + archiviste en chef.
 - **Exemples** : malversations bancaires, scandales sexuels de nobles, accords secrets entre cités, malversations et dossiers politiques sensibles.
 
 ### 🟡 Sensible ffaires privées compromettantes, correspondances diplomatiques, dettes personnelles importantes.
-- **Zone de coffres** :  verrouillage standard, surveillance.
 - **Accès** : personnel autorisé + archivistes.
 - **Exemples** : contrats commerciaux sensibles, correspondances diplomatiques, dettes importantes.
 
 ### 🟢 Standard 
 - **Définition** : contrats courants, correspondances publiques, documents administratifs, prêts courants.
-- **Zone de coffres** : verrouillage basique.
 - **Accès** : personnel bancaire standard.
 - **Exemples** : prêts standards, contrats de mariage publics, testaments normaux, documents administratifs courants.
 
@@ -160,7 +172,7 @@ Chaque rang aligne la **définition** (nature du risque si la pièce fuit), la *
 
 ## Règles de Sécurité
 
-Les **habilitations d’accès** et les **zones de coffres** par rang de criticité sont récapitulées dans la section **« Criticité : définition, zone de coffres et accès »** ci-dessus.
+Les **habilitations d’accès** par rang de criticité sont récapitulées dans la section **« Criticité : définition et accès »** ci-dessus.
 
 ### Procédures de Consultation
 1. Demande écrite avec justification
@@ -171,7 +183,7 @@ Les **habilitations d’accès** et les **zones de coffres** par rang de critici
 ### Procédures de Dépôt
 1. Vérification de l'identité du déposant
 2. Classification de la criticité
-3. Attribution automatique de la zone de coffre selon la criticité
+3. Enregistrement du niveau de criticité dans le code pièce
 4. Enregistrement dans le registre
 5. Stockage sécurisé
 

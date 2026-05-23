@@ -87,7 +87,7 @@ Absolue à Ther-Félis. Peut sacrifier un **réputationnel** individuel pour la 
 
 - **Serment des clans** : Rauth a arbitré une **trêve** où des secrets de famille ont été échangés — dettes morales
 - **Lettres closes** du conseil sur les **traités** — vol, chantage, faux
-- **Rencontre officieuse** possible avec un **patricien** d'Il-Irion si la table veut une scène de tension froide
+- **Rencontre officieuse** possible avec un **patricien** d'Il-Irion (scène de tension froide — option orga)
 
 ---
 

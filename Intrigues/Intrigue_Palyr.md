@@ -28,7 +28,7 @@
 
 **Saevar Dren** assure la sécurité de la délégation. Il est endetté au Tripot (secret : 8 234 couronnes, fiche Saevar seule).
 
-**Maren Holt** est le commandant militaire visible. Il **exécute** les dossiers d’armement (dont l’Arguetheim) sous l’autorité de **Corvyn Valdrak**, qui porte le mandat Oblat général sur la délégation ([`Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md)) : réception, vérification du métal, paiement conjoint avec Lysa ; Maren ne peut pas outrepasser Corvyn. En secret, il est l’officier de liaison de Palyr dans le réseau « Les Cinq Feux » du haut commandement ([`Intrigue_Bureau_des_Lignes_mémo_tensions.md`](Intrigue_Bureau_des_Lignes_mémo_tensions.md), annexe A). Les autres PJ Palyr ne le savent pas au départ.
+**Maren Holt** est le commandant militaire visible. Il **exécute** les dossiers d’armement (dont l’Arguetheim) sous l’autorité de **Corvyn Valdrak**, qui porte le mandat Oblat général sur la délégation ([`Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md)) : réception, vérification du métal, paiement conjoint avec Lysa ; Maren ne peut pas outrepasser Corvyn. En secret, il dirige la commission des **Cinq Feux** : note de situation [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) (BDL-547-SIT-01) ; ordre affichable [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md) (ORD-HCM-547-CIN-MAR-01). Les autres PJ Palyr ne connaissent pas la note de situation au départ.
 
 **Syndri Ashfeld** est herboriste. Il cherche l’objet magique de grande puissance que Edorian tient ou a classé en coffre.
 
@@ -48,7 +48,7 @@ Les chargements précédents de Sfaal étaient conformes. Le dernier lot porte l
 
 ### Mandat Arguetheim et Hanse des Lames
 
-Le haut commandement confédéral a ouvert une commande d’Arguetheim : métal d’exception pour équiper des troupes d’élite pendant que le fer ordinaire échoue. Le mandat circule par lettres scellées et par la Bibliothèque du fort ([`Intrigue_Bureau_des_Lignes_mémo_tensions.md`](Intrigue_Bureau_des_Lignes_mémo_tensions.md)).
+Le haut commandement confédéral a ouvert une commande d’Arguetheim : métal d’exception pour équiper des troupes d’élite pendant que le fer ordinaire échoue. Le mandat circule par lettres scellées et par la Bibliothèque du fort.
 
 **Corvyn Valdrak** porte le mandat Oblat général sur la délégation (plafond 100 000 po, pas de levée d’armée) ; **Maren Holt** exécute en public les dossiers d’armement sous sa direction (voir [`Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md)). Maren ne peut pas outrepasser Corvyn. En pratique, Maren doit :
 
@@ -64,19 +64,19 @@ Le haut commandement entretient un réseau clandestin : un officier de liaison p
 
 **Maren Holt** est la liaison pour **Palyr**. En public il est commandant militaire et porte-parole du mandat Arguetheim. En secret il envoie des rapports au haut commandement sur les forges, le fer, l’armement et ce qui touche l’UBI quand cela concerne la défense des cités.
 
-Référence complète : [`Intrigue_Bureau_des_Lignes_mémo_tensions.md`](Intrigue_Bureau_des_Lignes_mémo_tensions.md), annexe A.
+Références : [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) ; ordre Maren [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md).
 
-| Cité | Liaison (joueur ou à désigner) | Rôle officiel à Ulghart |
-|------|--------------------------------|-------------------------|
+| Cité | Liaison | Rôle officiel à Ulghart |
+|------|---------|-------------------------|
 | Palyr | **Maren Holt** | Commandant militaire de la délégation |
 | Il-Irion | **Isara Dornelis** | Réseaux, audits (Maison Dornelis) |
 | Ther-Félis | **Sven Orlac** | Marin, skipper, régate |
-| Arthas | à désigner | selon fiche délégation Arthas |
-| Sfaal | à désigner | selon fiche délégation Sfaal |
+| Arthas | **Bastion Kharvek** | Chef de la sécurité |
+| Sfaal | **Grisbe Jab-fer** | Chef de la sécurité |
 
-Les autres membres de la délégation Palyr ne connaissent pas le réseau au début de partie. Thoran n’en fait plus partie : c’était une ancienne attribution, remplacée par Maren.
+Les autres membres de la délégation Palyr ne connaissent pas la note BDL-547-SIT-01 au début de partie. Thoran n’en fait plus partie : c’était une ancienne attribution, remplacée par Maren.
 
-Le joueur Maren reçoit en plus du mandat public un brief MJ sur le canal de rapport des Cinq Feux.
+Le joueur Maren reçoit la note de situation et l’ordre ORD-HCM-547-CIN-MAR-01 (voir fiches et pièces).
 
 ### Les huit mandats (récap)
 
@@ -205,9 +205,9 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 - Mandat Oblat délégation (Corvyn) : [`Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Oblat_Palyr_Corvyn_Valdrak_Arguetheim.md)
 - Courrier Fils du Levant : [`Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md)
 - Lettre commerce gris Styrgie : [`Lettre_approvisionnement_Styrgie_Thoran_Keld.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_approvisionnement_Styrgie_Thoran_Keld.md)
-- Cinq Feux : [`Intrigue_Bureau_des_Lignes_mémo_tensions.md`](Intrigue_Bureau_des_Lignes_mémo_tensions.md)
+- Cinq Feux (situation) : [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) ; ordre Maren : [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md)
 - Fer Sfaal : [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md)
-- Fiches joueur : `Groupes/Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md`, `Palyr_Syndri_Ashfeld_Herboriste.md`, `Palyr_Bran_Lyrd_Druide.md` (brief MJ Cinq Feux : document séparé pour Maren)
+- Fiches joueur : `Groupes/Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md`, `Palyr_Syndri_Ashfeld_Herboriste.md`, `Palyr_Bran_Lyrd_Druide.md`
 - Ordre BN Soren : à rédiger (Lysa seule)
 
 ---
@@ -225,7 +225,7 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 
 **Bran** n’a pas de mandat du Légat. Le Conseil l’a ajouté à la délégation pour qu’il voyage sous escorte jusqu’à Ulghart et en revienne avec le groupe.
 
-**Maren** ne révèle pas Les Cinq Feux aux autres PJ. Il peut rencontrer en secret Isara Dornelis (Il-Irion) et Sven Orlac (Ther-Félis), les deux autres liaisons nommées dans l’annexe du Bureau des Lignes.
+**Maren** ne révèle pas la note BDL-547-SIT-01 aux autres PJ Palyr. Il peut exhiber l’ordre ORD-HCM-547-CIN-MAR-01 pour mobiliser les détachements. Rencontres secrètes avec les autres Feux (Isara, Sven, Bastion, Grisbe).
 
 ---
 
@@ -235,7 +235,7 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 
 **Saevar** : dette de 8 234 couronnes à Lira. Chiffre uniquement sur `Palyr_Saevar_Dren_Chef_securite.md`.
 
-**Maren** : liaison Les Cinq Feux. Brief MJ séparé du mandat public Arguetheim.
+**Maren** : directeur Cinq Feux. Pièces : `Histoire_Bureau_des_lignes.md` (secret délégation Palyr) + `Ordre_mandat_Bureau_Lignes_Maren_Holt.md` (affichable).
 
 **Tavish** : premier né, relais Fils du Levant. Ne pas écrire sur la lettre joueur.
 

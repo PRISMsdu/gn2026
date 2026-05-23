@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Lysa Morwyn |
 | Rôle dans le groupe | Trésorière de la délégation |
-| Classe / profession | Erudit *(règlement — orga)* |
+| Classe / profession | Erudit |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -96,11 +96,11 @@ Le haut commandement ouvre une commande d'Arguetheim pendant que le fer ordinair
 
 Tu arrives à Ulghart avec deux lignes actives en même temps. La première, pour Palyr : récupérer physiquement les documents Palyr des coffres UBI avant que le nouveau conseil prenne les accès. Selvara Quenndral est l'archiviste qui tient les codes. C'est ta clef principale pour les chambres closes. Horgrim Dval bloque les accès à certaines zones du fort pour des raisons liées à sa propre mission. Il n'a aucune raison de te faciliter les choses.
 
-La deuxième ligne, pour la Brigade : retrouver Soren au Tripot. Les lieutenants l'ont choisi pour succéder au capitaine mort ou déchu. Il se cache ; tu ne sais pas pourquoi. On ne t'a donné aucun autre contact de la compagnie à Ulghart : à toi seule de le localiser et de lui annoncer qu'il devient capitaine de la Brigade — pas en séance, pas devant la table du casino.
+La seconde mission, pour la Brigade : retrouver Soren au Tripot. Les lieutenants l'ont choisi pour succéder au capitaine mort ou déchu. Il se cache ; tu ne sais pas pourquoi. On ne t'a donné aucun autre contact de la compagnie à Ulghart : à toi seule de le localiser et de lui annoncer qu'il devient capitaine de la Brigade — pas en séance, pas devant la table du casino.
 
 Ces deux missions peuvent entrer en conflit sur le temps et les priorités. Chercher Soren t'éloigne des coffres au mauvais moment ; rester trop longtemps sur Melian et Selvara sans avoir parlé à Soren laisse la succession en suspens, sans relais sur place pour te couvrir.
 
-Melian doit être protégée. Il a livré la lettre, pas encore les références. Si il tombe avant la fin de la Régate, tu perds le seul témoin interne et le second paquet. Il n'est pas armé. Il n'est pas préparé pour une exposition publique. C'est toi qui gères sa sécurité dans les marges, et le paiement du solde au bon moment.
+Melian doit être protégé. Il a livré la lettre, pas encore les références. Si il tombe avant la fin de la Régate, tu perds le seul témoin interne et le second paquet. Il n'est pas armé. Il n'est pas préparé pour une exposition publique. C'est toi qui gères sa sécurité dans les marges, et le paiement du solde au bon moment.
 
 À Ulghart, Gorvan doit livrer et vendre l'Arguetheim. Tu négocies le prix, les lignes de paiement et les documents de transport. Maren Holt signe la réception pour le haut commandement. La vente doit être conclue au plus tard en fin de journée du samedi de la Régate. Sans tes papiers, la cargaison ne sort pas du fort proprement.
 
@@ -129,20 +129,6 @@ Corvyn Valdrak porte le mandat général des Oblats sur la délégation ; Maren 
 - **Cadrer les sorties de preuves avec Ilara** : transmettre à Ilara ce qu'elle peut utiliser en commission sans brûler les accès aux coffres. Arbitrer le rythme avec elle et avec Corvyn.
 - **Gérer Selvara** : décider si Selvara est une alliée pour les codes des coffres ou une cible à neutraliser avant qu'elle change de camp.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; te fait confiance sur les chiffres ; ignore ta ligne Brigade. |
-| Ilara Vandesse | Partage le dossier banque ; pression sur le timing des preuves — tu lui transmets ce qu'elle peut utiliser. |
-| Thoran Keld | Marchand ; peu de chevauchement direct ; tu surveilles si ses contacts croisent Melian ou les coffres. |
-| Saevar Dren | Sécurité ; Tripot — sa présence peut faire fuiter des bribes ; tu le surveilles sans lui expliquer pourquoi. |
-| Maren Holt | Commandant ; réception Arguetheim ; alignement obligatoire avant ta signature sur l'achat Gorvan. |
-| Syndri Ashfeld | Herboriste ; alliée sur les accès coffre ; mandats distincts — ne pas mélanger ton objet et le sien. |
-| Bran Lyrd | Druide ; frère de l'Oblat qui a signé ton mandat coffre ; lignes séparées ; respect, pas de partage de dossiers. |
-
-
 # Connaissances
 
 ## Melian Torv — conseil de la banque (UBI)
@@ -170,3 +156,7 @@ Gorvan Tresselune mène la Compagnie du Dolmen Rouge. Tu l'as contacté à Ther-
 ## Dossier corruption UBI — périmètre de ton rôle
 
 Tu tiens la précision comptable des détournements. Tu sais ce que chaque acte implique, quels comptes ont été utilisés, quels signataires sont identifiables. Tu transmets à Ilara ce qu'elle peut utiliser en commission. Tu gardes le reste pour la négociation avec Edorian et pour la récupération des coffres. Les originaux sont sous ta garde.
+
+---
+
+*GN Krondaar 2026*

@@ -33,9 +33,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Maître Corvus |
 | Rôle dans le groupe | Gardien des coffres |
-| Classe / profession | Érudit *(règlement — orga)* |
+| Classe / profession | Érudit |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -159,32 +159,15 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 | Passation et sortie | Tu prépares les accès et documents sensibles pour la passation ; ton sort est lié au plan de sortie du noyau et à Edorian. |
 | Couverture Torvent | Tu n’emploies **Torvent Sorel** que hors banque ; à l’UBI tu es **Corvus**. |
 
-### Membres du groupe
+# Connaissances
 
-| Personnage | Rôle |
-|------------|------|
-| Edorian | Directeur de l'agence UBI d'Il-Irion. |
-| Ydria | Directrice des opérations. |
-| Selvara Quenndral | Directrice de la clientèle. |
-| Horgrim | Chef de la sécurité de l'agence. |
-| Vaelric | Directeur des relations extérieures. |
-| Melian | Directeur du trésor. |
-| Corvus | Gardien des coffres (toi). |
-| Sybrel | Directeur régional de l'UBI. |
-| Kaelen | Directeur des opérations du siège de l'UBI. |
+## Vannes et couloirs bas — UBI
 
-### Connaissances
+Tu connais la séquence d'alimentation et d'évacuation, l'emplacement de la roue de rechange et la feuille de ronde du poste. Tant que les couloirs sont inondés, personne n'atteint les salles des coffres sans déroger à la procédure.
 
-| Avec... | Vous savez... |
-|---------|---------------|
-| Edorian | Edorian et toi connaissez les coffres, les combinaisons et les procédures d'ouverture ; vous savez aussi que ta coopération et sa sortie dépendent l'une de l'autre quand la Régate referme le mandat. |
-| Ydria | Tu sais qu'elle exige des inventaires propres et des dates respectées. |
-| Selvara | Tu vois les noms et les heures qu'elle amène ; elle sait que tu bloques toute ouverture hors procédure. |
-| Horgrim | Tu coordonnes les accès physiques quand sa sécurité impose des rondes ou des verrouillages ; tu lui rends compte des cycles vannes et des anomalies sur les couloirs bas. |
-| Vannes et couloirs bas | Tu connais la séquence d’alimentation et d’évacuation, l’emplacement de la roue de rechange et la feuille de ronde du poste ; tant que les couloirs sont inondés, personne n’atteint les salles des coffres sans déroger à la procédure. |
-| Vaelric | Ta couverture marchande via la Guilde des Ports Unis peut croiser ses partenariats ; vous évitez les contradictions publiques. |
-| Melian | Vous croisez les flux et les scellés ; une erreur de son côté ou du tien se lit vite sur les écarts. |
-| Kaelan Thormane | Tu es son relais à l’Union sous le nom **Corvus** ; il connaît **Torvent Sorel** comme ton alias hors banque. Il te soupçonne de lui cacher ce que le noyau du conseil organise ; tu ne lui as pas livré l’ampleur du détournement. |
+## Kaelan Thormane — Les Sangs
+
+Tu es son relais à l'Union sous le nom Corvus ; il connaît Torvent Sorel comme ton alias hors banque. Il te soupçonne de lui cacher ce que le noyau du conseil organise ; tu ne lui as pas livré l'ampleur du détournement.
 
 ---
 

@@ -1,6 +1,6 @@
 <!--
   Support diegétique : guide interne de procédure (style chancellerie / Oblats).
-  Volume volontairement dense pour refléter la complexité métier vue côté table.
+  Volume volontairement dense pour refléter la complexité métier vue côté Questeur.
 -->
 
 # Pratiques et méthodes d’interrogatoires à l’usage des Questeurs investis sous mandat oblatal

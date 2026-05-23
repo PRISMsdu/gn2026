@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ilara Vandesse |
 | Rôle dans le groupe | Diplomate de Palyr |
-| Classe / profession | Erudit *(règlement — orga)* |
+| Classe / profession | Erudit |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -114,20 +114,6 @@ Tes contacts à Il-Irion ont une valeur limitée dans le temps. Passé la transi
 - **Contacts Il-Irion** : utiliser les informateurs encore actifs pour préparer les votes en commission. Gérer le risque qu'ils retournent contre toi si la situation se dégrade.
 - **Timing avec Lysa et Corvyn** : coordonner les sorties de preuves avec Lysa (coffres) et Corvyn (arbitrage). Toi tu décides dans les marges — mais une erreur de timing peut couper les deux lignes à la fois.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; arbitrage final sur ce qui sort ; tu gères le tempo en marge de ses consignes. |
-| Lysa Morwyn | Partage le dossier banque ; tension sur le timing des preuves — toi tu pousses, elle retient les coffres. |
-| Thoran Keld | Peu de contact en commission ; contacts Arthas maritimes échangés pour éviter les frictions. |
-| Saevar Dren | Sécurité ; sa situation au Tripot peut contaminer tes lignes sans qu'il s'en rende compte. |
-| Maren Holt | Commandant ; fer et Arguetheim ; peu de recoupement direct avec tes votes en commission. |
-| Syndri Ashfeld | Herboriste ; objet en coffre ; une crise banque trop publique peut fermer les accès qu'il cherche. |
-| Bran Lyrd | Druide ; poids de l'Oblat (son frère) ; tu évites de le mêler aux séances ouvertes sur Il-Irion. |
-
-
 # Connaissances
 
 ## Axe Arthas — nouvelle banque
@@ -146,3 +132,6 @@ Tu as formé des liens à Il-Irion pendant tes années de formation. Certains so
 
 Le poste n'existe pas encore. Tu as préparé les statuts et identifié les délégations à convaincre. Trois délégations sont susceptibles de voter pour si tu présentes les preuves correctement. Le vote doit se tenir avant l'installation formelle du nouveau conseil UBI : après ce délai, le rapport de force change.
 
+---
+
+*GN Krondaar 2026*

@@ -34,13 +34,14 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ardan Trevil |
 | Rôle dans le groupe | Capitaine des gardes du Tripot — sécurité du casino et des accès de la maison uniquement (pas la citadelle ni le périmètre militaire du fort) |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Guerrier |
+| Compétences | Pugilat ; Torture |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Ancien protecteur de cercles de jeu (Ascanir) — discipline **sans** tapis taché si évitable. |
+| Remarques | Ancien protecteur de cercles de jeu (Arthas) — fuite après un mort chez les Darsen ; recruté par Marda depuis Il-Irion ; éviter le sang sur le tapis en salle si possible. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -49,69 +50,111 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Loyal, protecteur, intimidant quand la salle l'exige. |
-| Valeurs | Les siens d'abord — la mission ensuite. |
-| Peur | Perdre Marda ou l'équipe pour une erreur de **timing**. |
-| Rêve | Que la dernière porte se ferme **après** le dernier sac. |
+| Valeurs | Les siens d'abord ; la mission ensuite. |
+| Peur | Perdre Marda ou l'équipe parce que tu as réagi trop tard ou trop fort. |
+| Rêve | Fermer la dernière porte du Tripot après le dernier sac parti. |
 
 ---
 
-# L'histoire d'Ardan Trevil
+# Biographie
 
-## Chapitre I : Les origines
+## Arthas et les cercles de jeu
 
-Ascanir t'a appris que le soldat qui ne protège personne n'est qu'un bruit. Ton père est tombé contre des bandits ; tu as choisi la **discipline** comme d'autres choisissent une prière.
+Tu viens d'Arthas. Ton père est mort contre des bandits ; tu as pris l'armée, puis les cercles de jeu qui payaient des hommes pour tenir la salle sans faire monter l'affaire jusqu'aux autorités. Tu as appris à calmer une altercation d'un regard, d'une main sur l'épaule, ou d'une sortie discrète par la porte de service.
 
-## Chapitre II : L'apprentissage
+Les habitués violents ne t'effraient pas : tu sais qui bluffe et qui va sortir le couteau. Tu préfères éviter le sang sur le tapis ; un casino qui saigne devant les clients perd sa clientèle avant de perdre ses ennemis.
 
-Armée, campagnes, puis **cercles de jeu** : là tu as appris la sécurité **discrète** — le poignard qui ne sort pas si le regard suffit.
+## Une erreur, les Darsen, Il-Irion
 
-## Chapitre III : L'ascension
+Tu as mal jugé une altercation en salle : mauvais camp, mauvais timing, ou les deux. Tu as dû tuer un homme de la famille Darsen. Les Darsen comptent parmi les lignées influentes d'Arthas ; tu ne pouvais pas rester en ville. Tu t'es enfui sur Il-Irion.
 
-Depuis dix ans tu sers **Marda** : tu as recruté la garde, repoussé la mafia sur le seuil, veillé à ce que les **troubles** ne montent pas jusqu’aux clients. Tu sais qu'un casino qui saigne perd ses clients avant ses ennemis.
+Sur l'île, tu reprends des gardes de tripot et des couloirs de port. Marda Velyss te connaît déjà dans ce milieu.
 
-## Chapitre IV : Les défis actuels
+## Il y a dix ans — Marda te fait venir au Tripot
 
-La **régate** attire tout le monde — y compris ceux qui viennent pour **casser** plutôt que pour jouer. Tu coordonnes **Varek** ; tu couvres les accès quand la mafia ou l'UBI testent les **portes**. Si un membre de l’équipe devient une **cible** (arrestation, extraction, rumeur qui dérape), tu cadres la violence — sur **ordre de Marda** ou selon ce que la table décide **en jeu**.
+Il y a dix ans, Marda reprend le casino du fort d'Ulghart après la réorganisation de l'UBI. Elle te fait venir depuis Il-Irion pour l'ordre en salle. Tu ne commandes pas la garnison du fort ni les murailles de la citadelle : tu tiens les salles, les couloirs du Tripot et les accès de la maison.
 
-## Chapitre V : Le réseau et les relations
+Tu montes la garde avec des hommes de confiance. Tu repousses la mafia sur le seuil quand leurs messagers veulent entrer comme chez eux. Marda fixe le cap ; tu exécutes, et tu conseilles quand la rixe monte.
 
-**Marda** donne le cap ; **Varek** donne le terrain ; **Soren** complète ce que la loi n'écrit pas ; **Sira**, **Lira** et le **Tripot** « avant » sont ton périmètre à **tenir** sans humilier publiquement un **Kaelan** (risque guerre ouverte avec la mafia).
+## Les années stables
+
+Pendant plusieurs années, tu resserres les procédures. Peu de sang en public ; les règlements se traitent hors vue quand c'est possible. Varek devient ton relais de terrain : filatures, signaux, quai. Soren complète quand la force seule ne suffit pas — potions, interventions que la salle ne doit pas voir.
+
+Sira et Lira tiennent les tables ; tu protèges le spectacle, pas la triche exposée devant tout le monde. Ysabeau tient les salons VIP ; tu veilles à ce qu'un charme mal cadre ne devienne pas émeute. Guelievre te prévient quand quelque chose cloche dans les coulisses avant que le bruit n'atteigne la salle principale.
+
+## Ce que Marda t'a dit sur la banque
+
+Depuis longtemps, Marda t'a expliqué sa situation avec Edorian et le conseil sortant de l'UBI : dix pour cent sur les flux détournés, menace de dénonciation styrgienne si elle freine trop, nuits où Fenric et elle referment les livres après la dernière table. Tu n'es pas comptable ; tu sais que la maison tient aussi grâce à des accords que l'auditeur ne doit pas voir.
+
+L'équipe vise aujourd'hui quinze pour cent rétroactifs et l'arriéré avant que le nouveau conseil ne verrouille les preuves. Ce n'est pas ton dossier ; tu dois tenir la salle ouverte pendant que Marda négocie.
+
+## Gardes banque, dégradations, six morts
+
+Depuis deux ans, le Tripot prend des coups : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Tu as signalé ; Holgrim Dval, chef de la garde UBI, n'a pas suivi comme tu l'aurais voulu.
+
+Six de ces gardes sont morts récemment sur les quais. Tu avais des notes sur l'un d'eux avant les corps. Holgrim te traite davantage comme un problème que comme un plaignant. Varek partage ton doute : ce n'est plus une coïncidence pour lui.
+
+## Mafia, régate, Convention
+
+Les Sangs de la Steppe reviennent plus souvent. Kaelan Thormane et Raven passent par le quai ; leurs hommes testent parfois les portes du casino. Marda refuse de livrer le fonds de commerce. Tu restes ferme sans humilier un chef en public : une humiliation en salle peut déclencher une guerre ouverte que la maison ne veut pas.
+
+La Convention et la Régate remplissent le fort. Tu coordonnes Varek sur les arrivées, les foules, les visages qui reviennent deux fois la même nuit. Tu couvres les accès quand la mafia ou des hommes de l'UBI sondent les entrées. Si un membre de l'équipe devient cible — arrestation, rumeur, agression — tu réagis sur ordre de Marda, ou seul si la maison est déjà en danger.
 
 ---
 
 # Tes missions et actions
 
+## Ton rôle au quotidien
+
+Tu postes tes hommes aux entrées, aux couloirs et près des caisses. Tu fais respecter les consignes de Marda : pas de rixe publique si on peut l'éviter, pas de client VIP molesté en salle, pas d'inconnu dans les réserves sans nom.
+
+Quand Guelievre ou Varek remonte un signal, tu te déplaces avant que le bruit n'atteigne les tables. Quand Soren intervient, tu cadres le périmètre pour que la salle ne voie pas tout. Tu escortes les sacs et les VIP quand la soirée l'exige.
+
 ## Objectifs prioritaires
 
-- **Sécuriser le périmètre du Tripot** jusqu'au départ : entrées, coulisses, VIP, escorte de caisse — sans confondre avec la garde du fort.
-- **Réagir aux crises** (arrestation, agression, rumeur qui ferme la salle) — le **détail** des menaces sur chaque perso peut émerger **en jeu**, pas sur le livret commun.
-- **Tenir la ligne** face aux émissaires mafia : fermeté sans défi d'honneur inutile en salle.
+- Sécuriser le périmètre du Tripot jusqu'au départ : entrées, coulisses, salons VIP, escorte de caisse — sans confondre avec la garde du fort ni la citadelle.
+- Coordonner Varek sur quai et filatures ; recouper ses noms avec ce que tu vois en salle.
+- Réagir aux crises : arrestation, agression, rumeur qui pousse les clients à fuir — alerte Marda, isole le problème dans la maison.
+- Tenir face aux émissaires mafia : fermeté, pas d'humiliation publique d'un chef en salle.
+- Protéger l'équipe pendant la fenêtre régate / Convention : foules, délégations, tentatives de casse ou de pression.
 
-## Relations clés à exploiter
+## Ce que tu ne fais pas
 
-### Membres du Tripot
+- Tu ne commandes pas la garnison du fort, les remparts ni les ordres généraux de la citadelle.
+- Tu ne négocies pas la commission UBI, la dette mafia ni le départ collectif — Marda et Fenric portent ça.
+- Tu ne tiens pas les livres ni les paris.
 
-| Personnage | Lien |
-|------------|------|
-| Marda Velyss | Loyauté — tu exécutes, tu conseilles quand le feu l'exige. |
-| Varek | Ton lieutenant de terrain — filatures et signaux. |
-| Soren | Frère d'armes — chimie et ombre quand la force ne suffit pas. |
-| Sira & Lira Vestrann | Tables — tu protèges le spectacle, pas la triche exposée. |
-| Ysabeau | Salons — tu veilles à ce que le charme ne devienne pas chaos. |
 
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Kaelan / réseau Sangs | Mafia | Confrontations passées / négociation | Dette de salle liée à **Marda** (reconnaissance signée) ; enjeux régate et quai avec la mafia. |
-| Autorités du fort / citadelle | Citadelle, ville | Hors de ta chaîne | Tu n’es pas leur subordonné : si une traque ou une scène militaire touche au fort **en jeu**, tu cadres ce qui concerne **la maison** avec **Marda** et l’orga, sans prétendre commander la garnison. |
-| Garde PNJ / mercenaires | Tripot | Subordonnés | Ton réseau recruté — à ancrer en jeu avec l'orga. |
 
 ## Informations sensibles
 
-- **Humiliation publique** d'un chef mafia peut déclencher **guerre ouverte** — Marda négocie, toi tu **cadres** la violence dans le périmètre du casino.
-- La **sécurité du fort** (remparts, citadelle, ordres généraux) n’est **pas** ton service : la confondre avec la tienne crée des scènes fausses avec Il-Irion.
-- Les **VIP** sont protégés **pour** le magot — pas par sentiment.
+- Humilier publiquement un chef mafia peut déclencher une guerre ouverte — Marda négocie ; toi tu limites la violence au périmètre du casino.
+- La sécurité du fort (remparts, citadelle) n'est pas ton service : la confondre avec la tienne crée des scènes fausses avec Il-Irion ou la garnison.
+- Les VIP sont protégés pour le magot de la maison, pas par sentiment personnel.
+- Tu as des notes sur les gardes banque avant les six morts — utile si quelqu'un te demande ce que tu savais avant les cadavres sur les quais.
+- Marda connaît ton passé d'Arthas et le mort chez les Darsen (hors role: tu dois lui dire, c'est plus simple pour le rédacteur de ton rôle ;) ; ne le propage pas en salle. Luceriane Darsen est dans la délégation d'Arthas à la Convention : si quelqu'un te reconnaît, alerte Marda avant d'agir seul.
+
+# Connaissances
+
+## Kaelan Thormane / Raven — Mafia — Sangs de la Steppe
+
+Visites en salle ; dette de salle liée à Marda (reconnaissance signée) ; enjeux régate et quai.
+
+## Holgrim Dval — UBI — garde banque
+
+Tes signalements sur dégradations et gardes suspects ; six morts ; il te considère gênant.
+
+## Luceriane Darsen / famille Darsen — Arthas — délégation
+
+Tu as tué un homme des Darsen à Arthas après une erreur de jugement ; la famille peut te reconnaître si ton passé remonte.
+
+## Gardes PNJ du Tripot — Tripot
+
+Réseau que tu as recruté — postes, rotations, consignes de salle.
+
+## Autorités du fort — Citadelle
+
+Tu n'es pas leur subordonné ; si une scène militaire touche au fort, tu ne cadres que ce qui concerne la maison, avec Marda.
 
 ---
 

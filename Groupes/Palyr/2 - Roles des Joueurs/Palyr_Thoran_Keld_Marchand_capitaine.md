@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Thoran Keld |
 | Rôle dans le groupe | Marchand — capitaine de la frégate de Palyr |
-| Classe / profession | Marchand *(règlement — orga)* |
+| Classe / profession | Marchand |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -118,20 +118,6 @@ Tes contacts arthasiens sont des marchands et des armateurs, pas des diplomates.
 - **Régate** : commander la frégate et remporter l'épreuve pour le prestige de Palyr. Corvyn t'a donné les moyens pour les juges si nécessaire. Tu gardes cette option en dernier recours et tu la tiens intraçable.
 - **Styrgie — commerce gris** : tenir le rendez-vous de la lettre STY-547-PAL-THO-01 avec l'envoyé secret ; reprendre négociation sur armes et matériel hors registres confédéraux ; ne rien inscrire aux livres publics.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; mandat régate et commerce ; tu lui remontes ce qui dépasse ton périmètre. |
-| Ilara Vandesse | Diplomate ; peu de contact en commission ; listes Arthas échangées pour éviter les doublons. |
-| Lysa Morwyn | Trésorière ; Gorvan et Arguetheim — pas ton fil sauf fret ou entrepôt si Corvyn demande. |
-| Saevar Dren | Sécurité ; quais et salons de régate partagés ; Tripot connu — tu ne remontes pas à Corvyn. |
-| Maren Holt | Commandant ; alignement sur Sfaal, quais et dernier chargement ; Arguetheim côté réception militaire. |
-| Syndri Ashfeld | Herboriste ; peu de croisement ; évite de mélanger coffres UBI et commerce maritime. |
-| Bran Lyrd | Druide ; escorte commune ; artefact du cairn — pas ton dossier. |
-
-
 # Connaissances
 
 ## Arguetheim — ce que tu sais
@@ -159,3 +145,7 @@ Corvyn t'a remis les moyens pour soudoyer les juges si nécessaire. Le prestige 
 ## Styrgie — réapprovisionnement discret
 
 Pièce : lettre STY-547-PAL-THO-01 (remise avec tes papiers de mission).
+
+---
+
+*GN Krondaar 2026*

@@ -45,7 +45,7 @@ Les **cinq cités** membres de la Confédération sont Il-Irion, Sfaal, Palyr, A
 - **Selvara** est associée à **Sfaal**.
 - **Horgrim** est associé à **Ther-Félis**.
 
-Il y a cinq ans, les Grandes Familles d’Il-Irion ont obtenu la nomination d’Edorian pour diriger l’UBI afin qu’il détourne des fonds vers leurs comptes. Edorian a détourné davantage que prévu pour lui-même. Les rapports entre lui et les familles sont aujourd’hui ouvertement hostiles. Il y a environ quatre ans, l’UBI a enregistré des prêts bilatéraux avec Ther-Félis et Arthas, formalisés dans des scellés conservés en coffre ; les taux ont augmenté et Il-Irion manquait de liquidités. **La seule ligne secrète Palyr côté UBI passe par Melian** (voir intrigues croisées) ; c’est elle qui permet à Palyr d’assembler un dossier sous-estimé par les familles et d’exercer une pression asymétrique sur l’institution — **sans** canal parallèle **Edorian–Palyr**. Une partie de l’argent sale du mandat passe aussi par le casino, ce qui relie les scènes à la banque et au Tripot.
+Il y a cinq ans, les Grandes Familles d’Il-Irion ont obtenu la nomination d’Edorian pour diriger l’UBI afin qu’il détourne des fonds vers leurs comptes. Edorian a détourné davantage que prévu pour lui-même. Les rapports entre lui et les familles sont aujourd’hui ouvertement hostiles. Il y a environ quatre ans, l’UBI a enregistré des prêts bilatéraux avec Ther-Félis et Arthas, formalisés dans des scellés conservés en coffre ; les taux ont augmenté et Il-Irion manquait de liquidités. **La seule ligne secrète Palyr côté UBI passe par Melian** (voir intrigues croisées) ; c’est lui qui permet à Palyr d’assembler un dossier sous-estimé par les familles et d’exercer une pression asymétrique sur l’institution — **sans** canal parallèle **Edorian–Palyr**. Une partie de l’argent sale du mandat passe aussi par le casino, ce qui relie les scènes à la banque et au Tripot.
 
 Les documents joueurs (backs collectifs, fiches Il-Irion) peuvent mentionner la fin de mandat, l’audit, les rumeurs, les inspections de coffres et les conflits internes à la banque sans donner comme certaine, avant la partie, la montée des eaux dans les souterrains : ce point reste une révélation réservée à l’orga. En ce qui concerne l’opération de vol organisée avec le groupe des Corbeaux de Minuit, seuls les cinq conseillers du noyau savent comment l’argent a été sorti et avec quelles instructions. Les contacts opérationnels avec l’équipe des voleurs passent par le Tripot : le personnage de Varek fait le lien entre les voleurs et Edorian.
 ---
@@ -107,7 +107,7 @@ Elle tient les archives et les textes légaux (Confédération, scellés entre c
 
 ### Horgrim Dval
 
-Chef de la garde : il donne les ordres d’accès aux zones sensibles et aux réserves. En grille orga « cité du conseiller », il est rattaché à Ther-Félis. Il supervise l’enquête interne sur la mort brutale de six anciens gardes ; aucune preuve assemblée jusqu’à l’arrivée des joueurs sans la table.
+Chef de la garde : il donne les ordres d’accès aux zones sensibles et aux réserves. En grille orga « cité du conseiller », il est rattaché à Ther-Félis. Il supervise l’enquête interne sur la mort brutale de six anciens gardes ; aucune preuve assemblée jusqu’à l’arrivée des Questeurs.
 *Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` (Horgrim × Lysa Morwyn).
 
 ### Melian Torv
@@ -145,7 +145,7 @@ Gardien de coffres et des combinaisons d’accès aux salles (procédure interne
 | Melian Torv | Neutre / ennemi | Morale ; Palyr ; artefact |
 | Palyr | Ennemi / tension | Dossiers nourris par la ligne **Melian** ; pression institutionnelle — aucun lien secret **Edorian–Palyr** |
 | Arthas | Ennemi | Remplacer ou marginaliser l’UBI |
-| Ther-Félis | Concurrent | Rival ; enjeux prêts, taux et navigation ; ne pas présupposer de recours officiel à la Confédération avant la table (rien n’est déposé comme connu dans ce dossier) |
+| Ther-Félis | Concurrent | Rival ; enjeux prêts, taux et navigation ; ne pas présupposer de recours officiel à la Confédération avant arbitrage orga (rien n’est déposé comme connu dans ce dossier) |
 | Autres cités | Neutre / ennemi | Taux, crédibilité |
 | Tripot (casino) | Allié | Blanchiment ; lien mandat |
 | Mafia (Sangs) | Neutre | Sybrel ; captation du butin |

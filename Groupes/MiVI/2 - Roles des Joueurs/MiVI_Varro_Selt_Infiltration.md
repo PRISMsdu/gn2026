@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Varro Selt |
 | Rôle dans le groupe | Infiltration, extraction, neutralisation quand la couverture ne suffit plus |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Assassin |
+| Compétences | Egorgement ; Torture |
 | Groupe | MiVI (service du Primat, couverture civile) |
-| Points de vie | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -83,7 +84,7 @@ Ton rôle dans cette machine : extraction de matériel ou de personnes, neutrali
 
 Quand Ysel dit « sortir », tu sors : papier, homme, coffret — priorité à la preuve et à la sortie du détachement, pas à la vanité du coup. Quand Théven dit « visible », tu sais ce que ça veut dire : assez pour faire peur à la bonne table, pas assez pour faire pleurer toute l'île. Quand Lucan achète des secondes au salon, tu ne les gaspilles pas en héroïsme de couloir : tu les dépenses là où le bois ou le poignet fait gagner la mission, pas la réputation.
 
-La Confédération se brise quand elle ne peut pas nommer un coupable unique. Elle se referme quand tu lui offres un monstre qu'elle peut photographier. Ton métier est le deuxième cas inversé : couper vite, disparaître, laisser des questions sans visage styrgien sur les murs. Quand la ligne exige qu'une tension dure, tu la sers sans en faire une parade.
+La Confédération se brise quand elle ne peut pas nommer un coupable unique. Elle se referme quand tu lui offres un monstre qu'elle peut photographier. Ton métier est le deuxième cas inversé : couper vite, disparaître, laisser des questions sans visage styrgien sur les murs. Quand Elfrion exige qu'une tension dure, tu la sers sans en faire une parade.
 
 Le dossier fer 544–545 n'est pas une légende pour toi : c'est de la chaîne physique — quais, marques d'encre sur linge, convois, mains qui déplacent des lots. Tu peux être appelé là où les contrats de fer et les remises deviennent des poings. Tu ne confonds pas « muscle » et « boucher » : le premier ouvre une issue ; le second enferme toute l'île dans un récit unique contre la République.
 
@@ -105,17 +106,6 @@ Chaque coup qui se voit trop devient un dossier pour la Confédération : ton m�
 - **Préparer et exécuter** les entrées physiques (portes, rencontres qui basculent, extractions) quand le plan le exige.
 - **Protéger le détachement** si la couverture saute — violence maîtrisée, priorité à la sortie et aux preuves.
 - **Ne pas** déclencher l'incident qui ferait d'Ulghart un siège général : rester sous le seuil du massacre spectaculaire.
-
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|---------------------------------------------------------------------|
-| Théven Corvel | Chaîne de commande — tu ne passes à l'acte lourd que quand il tranche (ou quand l'urgence ne laisse pas le temps — mais tu le lui rends compte). |
-| Lucan Drest | Il ouvre la conversation ; tu passes quand la conversation est finie. |
-| Ysel Marivent | Elle cible le quoi ; toi le comment au corps. |
-| Miraen Talvas | Coordination Tripot — foules, sorties de salle, moments où « accident » et « opération » se confondent pour le public. |
-
 
 # Connaissances
 
@@ -142,7 +132,6 @@ Encre sur linge ; signal logistique remise. Pièce : MQ-II-547-004.
 ## Reçu falsifié — Palyr (fausse piste)
 
 Angle distinct du message codé tunnels (Sybrel, MC-III-547-003). Pièce : FA-III-546-003.
-
 
 ---
 

@@ -36,7 +36,7 @@ Epopée en Krondaar
 | Rôle dans le groupe | Chef de famille — leader des Sangs de la Steppe |
 | Classe / profession | Guerrier, meneur |
 | Groupe | Les Sangs de la Steppe |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -69,7 +69,7 @@ Tu as appris la guerre dans les escarmouches de marche et la politique dans les 
 
 ## Chapitre III : L'ascension (vers le réseau)
 
-Il y a une quinzaine d'années, la structure qui deviendra celle des Sangs de la Steppe s'est densifiée : maisons sûres, relais, argent qui ne s'explique pas au grand jour. Tu t'y es engagé au moment où le réseau cherchait des têtes capable de tenir la fois la terreur et la table des négociations. Tu as mené extorsions et chantages contre caravanes et élites ; tu t'es imposé comme chef de famille et comme figure centrale, l'un des plus redoutés de l'organisation. Tu sais que la ligne passe par Elfrion : consignes, budgets, parfois des rappels à l'ordre quand une opération dérape. Ce savoir ne quitte pas le cercle des têtes ; vers l'extérieur, il n'y a que le mythe des Sangs et le bruit des cours.
+Il y a une quinzaine d'années, la structure qui deviendra celle des Sangs de la Steppe s'est densifiée : maisons sûres, relais, argent qui ne s'explique pas au grand jour. Tu t'y es engagé au moment où le réseau cherchait des têtes capable de tenir la fois la terreur et la table des négociations. Tu as mené extorsions et chantages contre caravanes et élites ; tu t'es imposé comme chef de famille et comme figure centrale, l'un des plus redoutés de l'organisation. Tu sais que les ordres passent par Elfrion : consignes, budgets, parfois des rappels à l'ordre quand une opération dérape. Ce savoir ne quitte pas le cercle des têtes ; vers l'extérieur, il n'y a que le mythe des Sangs et le bruit des cours.
 
 ## Chapitre IV : Les défis actuels
 
@@ -91,34 +91,55 @@ Hors du cercle serré, le Tripot au fort d'Ulghart et les milieux marchands de S
 - Entretenir ou provoquer des tensions utiles entre les cités de la Confédération sans perdre la maîtrise du jeu (chaque crise doit servir le réseau, pas le chaos gratuit).
 - Maintenir la pression sur les familles nobles et les élites qui croient leurs coffres et leurs réputations intouchables.
 
-## Relations clés à exploiter
 
-### Membres des Sangs (liens personnels)
-
-| Personnage | Lien |
-|------------|------|
-| Vorak Ironhand | Confiance de chef à second ; loyauté réciproque éprouvée, peu d'amitié démonstrative. |
-| Gareth Ironfist | Confiance absolue pour l'exécution ; respect mutuel, pas de camaraderie oisive. |
-| Drask Bloodmoon | Confiance utilitaire et respect de son expertise ; cordialité professionnelle. |
-| Shadow | Confiance partielle — utile au réseau, jamais totale ; identité civile non portée sur ce document. |
-| Raven | Confiance stratégique sur les parlements et les relais ; méfiance saine sur les doubles jeux possibles. |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Partenaire maritime — remises d'or | BM-III-546-005 — gage de remise signé. |
-| Marda Velyss | Il-Irion — Tripot (fort d'Ulghart) | Alliée de circonstance — flux | RD-III-543-002 — reconnaissance de dette de salle. |
-| Maître [nom à trouver] | Staal — imprimerie | Interface rumeur | CC-III-544-002 — complaisance éditoriale ; noms à fixer. |
-| [nom à trouver] | Les Sangs — autre chef de famille | Rivalité | Paix de façade après arbitrage sur les relais du nord ; le nom du rival reste à cadrer en orga. |
-| Edorian | UBI — direction | Cible stratégique | FC-III-544-001 — bordereau interne (initiales « E. »). |
-| Sybrel Dornik | UBI — Ombre | Actif / risque | MC-III-547-003 — message codé. |
-| Maître Vaelric Dorn | UBI — Discréteur | Menace | PA-II-545-003 — placard anonyme. |
-| Dame Ydria Ventoss | UBI — Trésorière | Levier financier | BC-III-544-003 — bordereau d'écart. |
-| Melian Torv | UBI — conseiller spirituel | Faille Palyr | FL-III-545-002 — fragment vers Palyr. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Ennemi de scène | CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — pression par l'héritage Lysara. |
 
 ## Informations sensibles
 
 - Tu sais que la ligne d'Elfrion — le MiVI, le service du Primat — nourrit et cadrane les Sangs ; ce n'est pas le récit qu'on vend aux salons, mais ta réalité de cadre. Toute fuite sur cette chaîne te rend personnellement vulnérable.
 - Tu disposes de leviers sur les malversations d'Edorian et d'une connaissance fine des opérations passées (scandale de Staal, documents placés à la banque, alliance Tripot) : ce sont des armes qui se jouent une fois, ou qui se retournent si on les brandit sans tact.
+
+# Connaissances
+
+## Korran Vesper — Pirates d'Albar (PNJ)
+
+BM-III-546-005 — gage de remise signé.
+
+## Marda Velyss — Il-Irion — Tripot (fort d'Ulghart)
+
+RD-III-543-002 — reconnaissance de dette de salle.
+
+## Maître [nom à trouver] — Staal — imprimerie
+
+CC-III-544-002 — complaisance éditoriale ; noms à fixer.
+
+## [nom à trouver] — Les Sangs — autre chef de famille
+
+Paix de façade après arbitrage sur les relais du nord ; le nom du rival reste à cadrer en orga.
+
+## Edorian — UBI — direction
+
+FC-III-544-001 — bordereau interne (initiales « E. »).
+
+## Sybrel Dornik — UBI — Ombre
+
+MC-III-547-003 — message codé.
+
+## Maître Vaelric Dorn — UBI — Discréteur
+
+PA-II-545-003 — placard anonyme.
+
+## Dame Ydria Ventoss — UBI — Trésorière
+
+BC-III-544-003 — bordereau d'écart.
+
+## Melian Torv — UBI — conseiller spirituel
+
+FL-III-545-002 — fragment vers Palyr.
+
+## Cyrion Valdris — Il-Irion — Maison Valdris
+
+CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — pression par l'héritage Lysara.
+
+---
+
+*GN Krondaar 2026*

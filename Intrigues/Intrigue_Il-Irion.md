@@ -10,7 +10,7 @@
 
 ### Pistes de croisement (orga)
 
-- Lier aux **Voleurs 1** (achat d’Argheteim, **Gorvan**) si la table le valide
+- Lier aux **Voleurs 1** (achat d’Argheteim, **Gorvan**) si l’orga le valide
 - **Nomination du nouveau conseil UBI** et **audit** du mandat sortant : fil conducteur avec `Intrigue_Banquiers.md`
 
 ## Contexte et Situation
@@ -19,7 +19,7 @@
 
 Les grandes familles d'Il-Irion arrivent à la régate annuelle des cités de la Confédération dans une situation critique : leur faillite totale est imminente et elles doivent maintenir l'apparence de prospérité à tout prix. Le masque qu'elles portent depuis dix ans commence à craquer, et plusieurs menaces convergent pour révéler leur véritable situation.
 
-Les familles **savent** qu'il y a **eu fuite** d'informations vers **Palyr** via **Melian**, la conseillère spirituelle de l'UBI, et tiennent **Palyr** pour **dangereux**. Elles **ne** réalisent **pas** l'ampleur du dossier : **ni** que Palyr détient **précisément** les preuves des **prêts parallèles** à **Ther-Félis** et **Arthas** (contrats en **scellés privés** à l'UBI, remontée des taux il y a **quatre ans**), **ni** tout ce que Melian a pu recouper en creusant. Le nouveau conseil de l'UBI arrive bientôt et risque de révéler l'ampleur des détournements. Edorian, qu'elles ont installé il y a cinq ans, les a doublés en détournant bien plus que prévu — et le **Tripot** (casino) reste un **carrefour** de flux où les lignes **Edorian** / liquidité / pression sur les cités se croisent. Les autres cités commencent à soupçonner quelque chose, notamment **Arthas** qui cherche à remplacer l'UBI et **Ther-Félis** qui a des griefs portuaires **et** financiers.
+Les familles **savent** qu'il y a **eu fuite** d'informations vers **Palyr** via **Melian**, le conseiller spirituel de l'UBI, et tiennent **Palyr** pour **dangereux**. Elles **ne** réalisent **pas** l'ampleur du dossier : **ni** que Palyr détient **précisément** les preuves des **prêts parallèles** à **Ther-Félis** et **Arthas** (contrats en **scellés privés** à l'UBI, remontée des taux il y a **quatre ans**), **ni** tout ce que Melian a pu recouper en creusant. Le nouveau conseil de l'UBI arrive bientôt et risque de révéler l'ampleur des détournements. Edorian, qu'elles ont installé il y a cinq ans, les a doublés en détournant bien plus que prévu — et le **Tripot** (casino) reste un **carrefour** de flux où les lignes **Edorian** / liquidité / pression sur les cités se croisent. Les autres cités commencent à soupçonner quelque chose, notamment **Arthas** qui cherche à remplacer l'UBI et **Ther-Félis** qui a des griefs portuaires **et** financiers.
 
 L'urgence est absolue : les familles doivent récupérer le contrôle de la situation, s'assurer que leur faillite ne soit jamais révélée et éliminer ceux qui osent menacer leur prestige.
 
@@ -70,7 +70,7 @@ Assurer la survie des grandes familles d'Il-Irion en éliminant toutes les menac
 | UBI - Edorian | Allié / Ennemi | Directeur installé par les familles il y a 5 ans ; les a doublés ; à faire chanter ou à éliminer |
 | UBI - Nouveau conseil | Ennemi | Arrive bientôt ; risque d'audit et de révélation ; à corrompre ou discréditer |
 | Palyr | Ennemi mortel | Informations compromettantes via Melian |
-| Melian (UBI) | Ennemi mortel | Conseillère spirituelle ; fuite d'informations vers Palyr |
+| Melian (UBI) | Ennemi mortel | Conseiller spirituel ; fuite d'informations vers Palyr |
 | Arthas | Ennemi | Cherche à remplacer l'UBI |
 | Les autres cités | Neutre / Ennemi | Soupçons ; à maintenir dans l'ignorance si possible |
 | Familles nobles d'Il-Irion (sept maisons) | Allié | Solidarité de façade ; tensions internes possibles |

@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Corvyn Valdrak |
 | Rôle dans le groupe | Représentant mandaté du Légat — chef de délégation |
-| Classe / profession | Erudit *(règlement — orga)* |
+| Classe / profession | Erudit |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -125,20 +125,6 @@ Edorian est la cible principale de la négociation. Il veut sortir du conseil av
 - **Régate et pots-de-vin** : Thoran a les moyens. Si ça fuite, c'est Palyr qui porte le scandale. Surveille que le soudoiement des juges reste intraçable.
 - **Saevar et le Tripot** : sa dette chez Lira est un levier contre la délégation. Décide comment gérer sa situation avant que quelqu'un d'autre ne l'utilise contre toi.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Ilara Vandesse | Diplomate ; tu arbitres le timing des preuves avec elle ; risque qu'elle aille trop vite en commission. |
-| Lysa Morwyn | Trésorière ; confiance sur les chiffres et les coffres ; elle ne partage pas tout — tu l'acceptes tant que le résultat avance. |
-| Thoran Keld | Marchand et capitaine ; régate, Sfaal, filière de remplacement ; tient son périmètre ; moyens pour les juges à garder intraçables. |
-| Saevar Dren | Chef de sécurité ; réseaux utiles ; Tripot et dette — levier et menace pour la délégation. |
-| Maren Holt | Commandant ; armement et Arguetheim sous ta direction ; tu valides, il réceptionne le métal pour le haut commandement. |
-| Syndri Ashfeld | Herboriste ; mandat Conseil sur l'objet en coffre UBI ; tu veux des faits, pas du folklore en séance. |
-| Bran Lyrd | Druide ; frère de l'Oblat de Palyr ; voyage sous escorte ; toléré tant qu'il ne bloque pas le mandat collectif. |
-
-
 # Connaissances
 
 ## Melian Torv — conseil de la banque (UBI)
@@ -157,6 +143,6 @@ Ilara veut utiliser les preuves de corruption pour forcer les votes sur le poste
 
 Corvyn a remis à Thoran les moyens pour soudoyer les juges de la régate si nécessaire. Palyr a besoin du prestige naval. Si cette opération fuite, la cité porte le scandale complet, pas Thoran. Tu surveilles que ça reste intraçable.
 
-## Saevar Dren — dette au Tripot
+---
 
-Saevar est endetté auprès de Lira, tenancière au Tripot. Cette dette est un levier direct contre lui et contre la délégation. Corvyn veut fermer le Tripot ou en arracher Saevar. Le problème : ses réseaux dans les milieux gris d'Ulghart sont utiles à la mission. Briser sa situation trop vite revient à couper les contacts au moment où tu en as besoin.
+*GN Krondaar 2026*

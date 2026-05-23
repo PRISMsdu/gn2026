@@ -36,7 +36,7 @@ Epopée en Krondaar
 | Rôle dans le groupe | Réseaux, informateurs, négociation externe |
 | Classe / profession | Courtier d'information, parlementaire |
 | Groupe | Les Sangs de la Steppe |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -67,11 +67,13 @@ Tu étends tes filets vers Staal puis les autres cités de la Confédération : 
 
 ## Chapitre III : L'ascension (vers le réseau)
 
-À trente-cinq ans, la mafia te rachète ta discrétion ; à quarante, tu signes avec les Sangs. Tu montes la cellule d'informateurs que Vorak exploite ; tu tiens la ligne avec les appuis d'Elfrion quand Kaelan doit arbitrer un dossier trop lourd pour la table locale seule.
+À trente-cinq ans, la mafia te rachète ta discrétion ; à quarante, tu signes avec les Sangs. Tu montes la cellule d'informateurs que Vorak exploite ; tu tiens le fil avec les appuis d'Elfrion quand Kaelan doit arbitrer un dossier trop lourd pour la cellule locale seule.
 
 ## Chapitre IV : Les défis actuels
 
 Tu maintiens les canaux vers l'UBI, le Tripot, Palyr, Sfaal selon les opérations ; tu coordonnes les remises d'or avec Korran Vesper quand la mer entre dans l'équation. Shadow et toi vous partagez le territoire : lui les coffres et les doubles fonds, toi le quai et les visages qu'on peut montrer au jour.
+
+Côté Arthas, tes informateurs parlent d'un incident grave et d'un bérêt écossais vert à pompon retrouvé sur les lieux. La délégation cherche à qui il appartient. Tu n'as pas encore le détail du mort, mais le calendrier colle aux absences et aux nerfs de Gareth Ironfist depuis l'arrivée à Ulghart.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -86,38 +88,66 @@ Kaelan te donne les feux verts sur les gros parlements ; Vorak cadence les cellu
 - Maintenir les informateurs et la sécurité des communications (codes, relais, coupe-circuits).
 - Ouvrir des négociations utiles au conseil de la banque et aux frictions entre cités — sans vendre le réseau par accident.
 - Gérer les interfaces avec le quai, les marchands et les partenaires maritimes (remises d'or).
+- Savoir si le bérêt remonte à un des tiens avant qu'Arthas ou la milice n'impose une confrontation publique.
 
-## Relations clés à exploiter
 
-### Membres des Sangs (liens personnels)
-
-| Personnage | Lien |
-|------------|------|
-| Kaelan Thormane | Confiance stratégique — respect du chef ; pas d'amitié privée. |
-| Vorak Ironhand | Confiance opérationnelle — coordination serrée, peu de chaleur humaine. |
-| Gareth Ironfist | Confiance d'escorte — tu comptes sur lui pour les portes, pas sur des confidences. |
-| Drask Bloodmoon | Confiance utilitaire — lien professionnel sur les informateurs « brûlés ». |
-| Shadow | Confiance partagée sur les fils — pas d'amitié, règles de non-chevauchement. |
-
-### Contacts extérieurs
-
-*(Axes quai, grilles de relais et commerce ; chevauchement volontaire avec la fiche chef sur le bloc UBI central.)*
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Remises d'or | BM-III-546-005 + `Groupes/PNJs/Scene_remise_or_mafia.md`. |
-| Marda Velyss | Il-Irion — Tripot | Casino | RD-III-543-002. |
-| Maître [nom à trouver] | Staal | Presse | CC-III-544-002. |
-| Torven Sorel | Guilde des Ports Unis (nom public) | Marchand | CO-II-545-001 — levier distinct du seul Tripot. |
-| Edorian | UBI — direction | Cible | FC-III-544-001. |
-| Sybrel Dornik | UBI — Ombre | Tunnel | MC-III-547-003 (Drask : angle chimique ; toi : relecture des codes). |
-| Maître Vaelric Dorn | UBI — Discréteur | Récits | PA-II-545-003 (Drask : crédibilité ; toi : tempo médiatique). |
-| Dame Ydria Ventoss | UBI — Trésorière | Or | BC-III-544-003 (Drask : stress ; toi : narration politique). |
-| Melian Torv | UBI — conseiller spirituel | Palyr | FL-III-545-002. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Diplomatie | CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — aligné sur le dossier chef. |
-| — | Quai — relais internes | Logistique | TR-III-547-005 — grille horaire / signaux (spécifique à ton rôle). |
 
 ## Informations sensibles
 
 - Tu touches à la ligne d'Elfrion sur les dossiers lourds : une erreur de ton côté et le MiVI ne règle pas seulement Kaelan — il règle toute la chaîne.
 - Scène type remises : voir `Groupes/PNJs/Scene_remise_or_mafia.md` si le fichier est présent en orga.
+- Tu soupçonnes fortement Gareth d'avoir laissé son bérêt sur un dossier Arthas lié à la mort d'un oblat ; tu n'as pas encore de confirmation qu'il a tué — seulement des absences, un signe vestimentaire et son stress.
+
+# Connaissances
+
+## Korran Vesper — Pirates d'Albar (PNJ)
+
+BM-III-546-005 + `Groupes/PNJs/Scene_remise_or_mafia.md`.
+
+## Marda Velyss — Il-Irion — Tripot
+
+RD-III-543-002.
+
+## Maître [nom à trouver] — Staal
+
+CC-III-544-002.
+
+## Torven Sorel — Guilde des Ports Unis (nom public)
+
+CO-II-545-001 — levier distinct du seul Tripot.
+
+## Edorian — UBI — direction
+
+FC-III-544-001.
+
+## Sybrel Dornik — UBI — Ombre
+
+MC-III-547-003 (Drask : angle chimique ; toi : relecture des codes).
+
+## Maître Vaelric Dorn — UBI — Discréteur
+
+PA-II-545-003 (Drask : crédibilité ; toi : tempo médiatique).
+
+## Dame Ydria Ventoss — UBI — Trésorière
+
+BC-III-544-003 (Drask : stress ; toi : narration politique).
+
+## Melian Torv — UBI — conseiller spirituel
+
+FL-III-545-002.
+
+## Cyrion Valdris — Il-Irion — Maison Valdris
+
+CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — aligné sur le dossier chef.
+
+## — — Quai — relais internes
+
+TR-III-547-005 — grille horaire / signaux (spécifique à ton rôle).
+
+## Délégation Arthas — Arthas — Oblats / suite
+
+Bérêt vert à pompon retrouvé près d'un incident ; recherche du propriétaire — à recouper avec Gareth avant qu'Arthas ne frappe à la Guilde ou à la milice.
+
+---
+
+*GN Krondaar 2026*

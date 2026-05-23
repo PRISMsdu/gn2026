@@ -34,13 +34,14 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Éliane |
 | Rôle dans le groupe | Maîtresse des paris — cotes, régate, juges, magot des paris |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Voleuse |
+| Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | **Registres** de paris — preuves potentielles ; aligner truquages avec **Marda**. |
+| Remarques | Registres de paris — preuves potentielles ; aligner truquages avec Marda. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -48,67 +49,105 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Manipulatrice, charmeuse, perspicace — le calme du chiffre qui monte. |
-| Valeurs | La cote juste **pour la maison** ; la loyauté à l'équipe. |
-| Peur | La preuve **écrite** qui retombe du plafond. |
-| Rêve | Que la plus grande régate se paie **sans** scandale qui ferme la salle. |
+| Traits de caractère | Perspicace, calme en salle, habile à orienter un parieur sans qu'il voie le truquage. |
+| Valeurs | La cote qui sert la maison ; la loyauté à l'équipe. |
+| Peur | Qu'un registre de paris ou un client d'une régate passée remonte devant l'UBI pendant la Convention. |
+| Rêve | Encaisser le magot de la régate sans fermeture du casino. |
 
 ---
 
-# L'histoire d'Éliane
+# Biographie
 
-## Chapitre I : Les origines
+## Marchés, quais et cercles de cotes
 
-Marchands et **paris** : tu as appris tôt qu'une émotion est une **marge** si tu sais l'étiqueter.
+Tu as appris les paris sur les marchés et les quais d'Il-Irion : navires annoncés, cargaisons, retards, rumeurs de course. Tu repères vite qui mise par orgueil, qui par dette, qui pour bluffer. Tu as travaillé dans des cercles où l'on ajustait les cotes à la marge et où l'on tenait les registres hors vue des questeurs.
 
-## Chapitre II : L'apprentissage
+Tu sais monter une cote pour attirer la salle sans que la triche soit visible. Un parieur ruiné peut encore payer autrement que par l'or : une information, une dette signée en salon, un service rendu à la maison.
 
-Cercles de cotes, **truquages** à la marge, lecture des faiblesses — à vingt-cinq ans **Marda** t'a prise pour **voix** des paris du Tripot.
+## Il y a dix ans — Marda t'engage au Tripot
 
-## Chapitre III : L'ascension
+Il y a dix ans, Marda Velyss reprend le casino du fort d'Ulghart après la réorganisation de l'UBI. Tu as vingt-cinq ans. Elle t'engage pour tenir les paris de la maison, surtout autour de la mer et de la régate. Tu n'es pas croupière : tu fixes les cotes, tu tiens les registres de paris, tu coordonnes ce qui se joue en dehors des tables classiques.
 
-Dix ans à monter les **mises** ; à préparer des **régates** passées qui laissent des **traces** — chez des clients, dans tes **registres**. **Sira** et **Lira** te donnent le tempo des mains ; **Lydwen** te donne parfois un **angle** sur le futur proche.
+Les premières semaines après réouverture, les paris maritimes et les tournois rapportent des marges visibles. La banque encaisse sa part ; la maison aussi. Tu apprends les habitudes du fort : quels officiers lisent les tableaux affichés, quels capitaines parient sur deux navires à la fois.
 
-## Chapitre IV : Les défis actuels
+## Les années stables
 
-La **régate** de la Convention est le **jackpot** dramatique : **juges** et officiels sont partagés avec d’autres délégations (mafia, Palyr, marins, routes) — **cohérence obligatoire** entre tout ce qui se joue en parallèle. Tu **soudoies**, **influences**, **truques** selon ce que la table assume — **Marda** valide le **risque** réputationnel.
+Pendant plusieurs années, tu calibres les cotes pour orienter la salle sans exposer le truquage. Sira et Lira Vestrann te donnent le tempo des mains ; quand Marda l'ordonne, vous ajustez une main ou une cote de concert. Lydwen te donne parfois un créneau horaire ou un détail sur une soirée ; Marda l'utilise pour trancher, pas pour annoncer l'avenir aux clients.
 
-## Chapitre V : Le réseau et les relations
+Varek te remonte les parieurs qui misent trop, mal ou trop souvent. Ysabeau t'amène les VIP vers les tableaux où l'or circule vite. Guelievre signale les foules bizarres dans les couloirs ; tu modifies les cotes si la salle devient difficile à lire.
 
-**Varek** te dit qui parie **trop** ou **mal** ; **Ysabeau** ramène les **VIP** vers les tableaux où **l'or** se multiplie.
+Plusieurs régates passées ont laissé des traces : chez des clients qui croient encore devoir quelque chose, et dans tes registres. Marda valide ou refuse chaque manipulation selon le risque pour la réputation de la maison.
+
+## Cinq ans de flux UBI avec Edorian et Fenric
+
+Depuis cinq ans, le conseil sortant de l'UBI fait repasser une part des montants détournés par le Tripot — environ dix pour cent. Edorian accélère parfois les volumes. Marda te demande d'aligner paris et cotes quand des navires ou des intérêts extérieurs veulent un résultat précis. Ysabeau signe des dettes en salon quand il faut effacer une trace avant l'aube.
+
+Fenric Ossel tient les livres visibles pour l'auditeur et les totaux pour Marda. Avant chaque grande soirée, vous recoupez tes registres de paris et ses écritures : ce qu'un inspecteur peut saisir, ce qui reste sur papier à part. Une cote trop belle attire les regards UBI.
+
+L'équipe vise quinze pour cent rétroactifs et l'arriéré sur cinq ans de flux — ce n'est pas ton dossier de négociation, mais le magot de la régate peut aider Marda à tenir le fort jusqu'à l'encaissement.
+
+## Registres, truquages passés, audit
+
+Le nouveau conseil UBI parle d'audit, d'intégrité, de saisies. Tes registres de paris prouvent le travail de la maison ; ils prouvent aussi des régates où tu as soudoyé, influencé ou truqué quand Marda acceptait le risque.
+
+Tu sais quelles pages et quels noms de clients peuvent remonter. Si l'audit tombe pendant la Convention, Marda peut te demander de protéger, déplacer ou détruire des feuilles. Fenric et toi devez raconter la même histoire sur ce qui est saisissable.
+
+## Convention, régate, juges partagés
+
+La Convention et la Régate remplissent le fort : délégations, juges, officiels, marins, parieurs de Palyr, Ther-Félis, mafia, routes. D'autres groupes touchent les mêmes juges de régate ; c'est ton terrain habituel pour favoriser une cité moyennant dessous de table. C'est également la plus grosse régate des 5 dernières années, les montants vont être délirants.
+
+Si plusieurs personnes soudoient le même juge avec des montants ou des promesses contradictoires, tout le monde peut perdre. Les mêmes noms ne doivent pas se contredire d'une salle à l'autre. Marda tranche ce que la maison accepte comme risque : soudoiement, influence, truquage. Le magot des paris peut financer la sortie que l'équipe prépare — si le casino reste ouvert assez longtemps pour encaisser.
 
 ---
 
 # Tes missions et actions
 
+## Ton rôle au quotidien
+
+Les paris maritimes, la régate et les tableaux affichés passent par toi. Tu tiens les registres de paris et tu recouples ce que tu vois avec les mains de Sira et Lira. Quand Ysabeau amène un VIP, tu choisis le tableau et la cote qui servent la maison.
+
+Varek te signale un parieur suspect : tu ajustes la cote ou tu alertes Marda. Fenric te demande de calmer une écriture visible : tu décides ce qui reste sur le registre officiel. 
+
 ## Objectifs prioritaires
 
-- **Maximiser la régate** : paris, magot — sans fermer le casino avant la fenêtre de fuite.
-- **Coordonner juges** avec les **autres tables** qui touchent les mêmes officiels — **pas** de contradiction orale hors accord orga.
-- **Protéger les registres** — ou décider ce qui **brûle** si l'audit pointe.
+- Maximiser le magot de la régate : paris, cotes, juges — sans incident qui ferme le casino avant la fenêtre de départ.
+- Coordonner juges et officiels avec les autres groupes qui touchent les mêmes noms : pas de contradiction publique entre délégations.
+- Protéger les registres de paris, ou décider avec Marda ce qui brûle si l'audit ou une saisie pointe pendant la Convention.
+- Tenir les écritures visibles alignées avec Fenric ; une cote trop agressive peut attirer l'UBI avant l'encaissement.
+- Supporter Sira et Lira sur les truquages à la marge quand Marda valide le risque.
 
-## Relations clés à exploiter
+## Ce que tu ne fais pas
 
-### Membres du Tripot
+- Tu ne tiens pas la sécurité des salles ni les filatures — Ardan et Varek.
+- Tu ne signes pas les dettes VIP en salon — Ysabeau ; tu exploites le flux qu'elle t'amène.
+- Tu ne truques pas une régate entière sans accord explicite de Marda sur le risque pour la réputation.
 
-| Personnage | Lien |
-|------------|------|
-| Marda Velyss | Elle tranche le **niveau de risque** des manipulations. |
-| Sira & Lira Vestrann | Mains et tables — truquage **coordonné**. |
-| Lydwen | Timing / pressentiments — utile, pas oracle de bureau. |
-| Varek | Parieurs suspects — file et **cote**. |
 
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Juges / officiels régate | Convention | Cibles de levier | Soudoiement, routes intermédiaires, croisements avec d’autres délégations (MiVI, marins, mafia) — tout doit tenir ensemble sans contradiction publique. |
-| Paris croisés | Ther-Félis, marins | Surface casino | Paris et rumeurs de quai qui traversent le casino — à jouer si des marins ou des gens de Ther-Félis sont en salle. |
 
 ## Informations sensibles
 
-- **Truquages passés** : preuves possibles dans **registres** — arme **double** si saisie.
-- Toute **cote** trop belle attire les **regards** UBI — tu cadres avec **Fenric** sur les **écritures** visibles.
+- Les truquages de régate passés laissent des preuves dans tes registres et chez des clients — utile pour toi, dangereux si saisie.
+- Toute cote trop belle attire les regards UBI ; tu cadres avec Fenric sur les écritures visibles avant les grandes soirées.
+- Si plusieurs groupes soudoient le même juge, tout le monde peut perdre ; alerte Marda avant d'engager un montant ou un nom.
+- Pas de double langage entre salles sur les mêmes juges : une contradiction publique brûle la réputation avant l'encaissement.
+
+# Connaissances
+
+## Juges et officiels de régate — Convention — Ulghart
+
+Dessous de table, routes intermédiaires ; mêmes noms que mafia, Palyr, marins — coordonner avec Marda sans contradiction publique.
+
+## Paris croisés — marins, Ther-Félis — Quai, délégations
+
+Paris et rumeurs qui traversent le Tripot ; recouper avec Varek si des capitaines ou des gens de Ther-Félis misent gros.
+
+## Clients de régates passées — Divers
+
+Truquages passés ; certains croient encore devoir la maison ou possèdent des preuves.
+
+## Délégation Palyr — Palyr
+
+Paris et intérêts maritimes ; collision possible sur les mêmes juges.
 
 ---
 

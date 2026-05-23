@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Soren |
 | Rôle dans le groupe | Homme de main — poisons, potions, basses œuvres « propres » |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Alchimiste |
+| Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -50,7 +51,7 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Loyal, protecteur, déterminé — peu de mots, beaucoup de **dos**. |
 | Valeurs | Rédemption par l'**action** — pas par les discours. |
-| Peur | La **Brigade** au cou — la table **sans** lui. |
+| Peur | La **Brigade** au cou — le Tripot **sans** lui. |
 | Rêve | Payer assez cher pour **dormir** un jour sans se retourner. |
 
 ---
@@ -71,7 +72,7 @@ Soldats et **herbes** : tu as appris que la guerre se gagne aussi dans des **fio
 
 ## Chapitre IV : Les défis actuels
 
-La **Brigade** peut **frapper** pendant la Convention — la **régate** attire les **uniformes** en civil. **Lydwen** lit parfois ton **ombre** sur les cartes. Si tu **tombes**, la table perd un pilier **chimique** et une part du mythe « famille Tripot ».
+La **Brigade** peut **frapper** pendant la Convention — la **régate** attire les **uniformes** en civil. **Lydwen** lit parfois ton **ombre** sur les cartes. Si tu **tombes**, le Tripot perd un pilier **chimique** et une part du mythe « famille Tripot ».
 
 ## Chapitre V : Le réseau et les relations
 
@@ -85,30 +86,24 @@ La **Brigade** peut **frapper** pendant la Convention — la **régate** attire 
 
 - **Rester libre** : éviter arrestation, enlèvements, **chantage** par la Brigade.
 - **Soutenir les opérations** : potions de retrait, poisons de **discrétion**, feux contrôlés — selon **accord table** / MJ.
-- **Ne pas devenir le bouc émissaire** public — sauf si la table **choisit** ce sacrifice.
+- **Ne pas devenir le bouc émissaire** public — sauf si **Marda** te l'ordonne.
 
-## Relations clés à exploiter
 
-### Membres du Tripot
-
-| Personnage | Lien |
-|------------|------|
-| Marda Velyss | Elle t'a **donné** le refuge — tu dois **l'honneur** de la vérité sur ton statut. |
-| Ardan Trevil | Frère d'armes — **ligne** de sécurité du casino (Tripot). |
-| Varek | Filatures — tu complètes quand la menace est **chimique** ou **physique**. |
-| Lydwen | Visions — tension dramatique possible ; pas **autoplay** d'exposition. |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Brigade Noire | Ordre | Traque | Arrestation possible, négociation sous menace ; indices matériels (fragment citadelle, sceau, coffre) — **ne pas** inventer d’autres pièces sans MJ. |
-| Anciens camarades | Militaires | Contacts **tendus** | À jouer avec parcimonie — éviter la galerie de PNJ gratuits. |
 
 ## Informations sensibles
 
 - **Désertion** : si révélée **au mauvais moment**, tu deviens **monnaie** — négociation **Marda** / MJ.
 - Toute **scène** d'arrestation doit être **cadencée** avec l'orga pour ne pas **casser** le GN.
+
+# Connaissances
+
+## Brigade Noire — Ordre
+
+Arrestation possible, négociation sous menace ; indices matériels (fragment citadelle, sceau, coffre) — **ne pas** inventer d’autres pièces sans MJ.
+
+## Anciens camarades — Militaires
+
+À jouer avec parcimonie — éviter la galerie de PNJ gratuits.
 
 ---
 

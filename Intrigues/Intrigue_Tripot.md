@@ -12,9 +12,9 @@
 - **Nom de l'intrigue** : La Fuite des Margoulins
 - **Groupe concerné** : Tripot — équipe du casino du fort d’Ulghart (Il-Irion)
 - **Type d'intrigue** : Survie financière, négociation, évasion, truands honorables
-- **Effectif table** : **dix joueurs** (PJ listés ci-dessous)
-- **Casting (genre des PJ)** : **six personnages féminins** — Marda, Sira, Lira, Lydwen, Ysabeau, **Éliane** ; **quatre masculins** — Ardan, Varek, Soren, Fenric.
-- **Contrainte temporelle orga** : la table ne peut **pas** quitter le site avant le **samedi minuit** (verrou à caler avec le calendrier GN) — à exploiter comme pression dramatique.
+- **Effectif** : **onze joueurs** (PJ listés ci-dessous)
+- **Casting (genre des PJ)** : **sept personnages féminins** — Marda, Sira, Lira, Lydwen, Ysabeau, **Éliane**, **Guelievre** ; **quatre masculins** — Ardan, Varek, Soren, Fenric.
+- **Contrainte temporelle orga** : les PJ Tripot ne peuvent **pas** quitter le site avant le **samedi minuit** (verrou à caler avec le calendrier GN) — à exploiter comme pression dramatique.
 
 ---
 
@@ -22,8 +22,8 @@
 
 - **Fil principal** : avec le **nouveau conseil UBI** qui menace d’exposer cinq ans de blanchiment, l’équipe de **Marda** doit **maximiser l’or**, **renégocier rétroactivement** la part des détournements (viser **15 %** au lieu des **10 %** versés), et **fuir** avec l’aide préparée côté **Palyr** — tout en tenant la **régate** (paris, juges, magot).
 - **Tensions** : UBI partenaire toxique (ils vous paient et vous noient) **vs** **Sangs** qui veulent le casino ; menace **Brigade Noire** liée au passé de **Soren** — le **détail jouable** de la traque n’est **pas** supposé connu de tout le groupe en début de partie (voir **Information réservée — traque** ci-dessous) ; clients VIP et dettes comme munitions.
-- **Collisions possibles** : **Kaelan** / **Raven** (mafia) pour la mainmise ou la trêve ; **Edorian** et ligne UBI ; **Palyr** (addiction **Saevar**, représentant du Légat, docks) ; juges de régate partagés avec d’autres groupes ; **MiVI** peut exploiter le casino comme plaque (voir [`Intrigue_MiVI.md`](Intrigue_MiVI.md)).
-- **Point sensible jeu** : l’**artefact maudit** tenu par l’UBI — le Tripot croit savoir où il est et ce qu’il coûte ; ne pas tout révéler aux joueurs d’autres tables en une phrase ; négociation et rumeur.
+- **Collisions possibles** : **Kaelan** / **Raven** (mafia) pour la mainmise ou la trêve ; **Edorian** et UBI ; **Palyr** (addiction **Saevar**, représentant du Légat, docks) ; juges de régate partagés avec d’autres groupes ; **MiVI** peut exploiter le casino comme plaque (voir [`Intrigue_MiVI.md`](Intrigue_MiVI.md)).
+- **Point sensible jeu** : l’**artefact maudit** tenu par l’UBI — le Tripot croit savoir où il est et ce qu’il coûte ; ne pas tout révéler aux autres délégations en une phrase ; négociation et rumeur.
 
 ---
 
@@ -31,7 +31,7 @@
 
 Depuis **dix ans**, **Marda Velyss** dirige le **Tripot**, casino sous **contrat de gestion** avec l’**Union bancaire d’Il-Irion**. Le lieu a été refait : miroirs, paris, tables, flux de **VIP** et de **parieurs**. Pendant les **cinq dernières années**, un **conseil UBI corrompu** a utilisé le casino comme **laveur** : environ **10 %** des montants détournés reversés au Tripot — la maison estime avoir été **sous-payée** au regard du risque.
 
-Aujourd’hui la **passation** approche : un **nouveau conseil** plus vertueux peut **auditer**, **saisir** et **livrer** noms aux autorités. Le Tripot **ne peut plus** tenir indéfiniment la ligne « respectabilité de façade ».
+Aujourd’hui la **passation** approche : un **nouveau conseil** plus vertueux peut **auditer**, **saisir** et **livrer** noms aux autorités. Le Tripot **ne peut plus** tenir indéfiniment la façade « respectabilité ».
 
 En parallèle, les **Sangs de la Steppe** (réseau mafia, couverture Guilde des Ports Unis) **veulent** le casino ou une **vassalisation** — voir [`Intrigue_Mafia.md`](Intrigue_Mafia.md). La **régate** et la **Convention** offrent une **fenêtre** : rencontres, paris massifs, tensions maximales.
 
@@ -45,10 +45,10 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 
 - **Survivre à la transition UBI** : obtenir **argent comptant** ou **engagements irrévocables** sur les **arriérés** (recalcul **15 %** sur cinq ans) avant que les preuves ne soient classées hors de portée.
 - **Tenir le casino ouvert jusqu’au départ** : pas d’incident qui ferme le site avant la fenêtre de fuite ; gérer **VIP**, **émeutes de salle**, **inspecteurs**.
-- **Maximiser la régate** : **paris**, **cotes**, **juges** (soudoyer, influencer, truquer selon ce que la table assume) — cohérence **obligatoire** avec les autres groupes qui touchent aux **mêmes juges**.
-- **Négocier avec la mafia** : **terrain d’entente** ou **prix de sortie** — sans forcément donner le fonds de commerce si la table refuse.
+- **Maximiser la régate** : **paris**, **cotes**, **juges** (soudoyer, influencer, truquer — arbitrage orga) — **mêmes juges** nommés que chez mafia, Palyr, marins, routes : pas de contradiction entre scènes.
+- **Négocier avec la mafia** : **terrain d’entente** ou **prix de sortie** — sans forcément donner le fonds de commerce si Marda refuse.
 - **Sécuriser Palyr** : **or**, **bateau**, **passeurs**, **silence** — en échange d’**informations** sur l’UBI ou de **services** (régate, fer, rumeurs) à caler avec Palyr.
-- **Soren et la Brigade** (enjeu MJ, pas objectif collectif dans le back) : ancien cadre, traque possible — si Soren tombe, la table perd un pilier chimique et une partie du mythe « famille Tripot ». **Qui sait quoi au départ** : voir section **Information réservée — traque Soren / Brigade** ; ne pas poser « protéger Soren contre la Brigade » comme ligne partagée dans `Back_groupe_Tripot.md`.
+- **Soren et la Brigade** (enjeu MJ, pas objectif collectif dans le back) : ancien cadre, traque possible — si Soren tombe, le Tripot perd un pilier chimique et une partie du mythe « famille Tripot ». **Qui sait quoi au départ** : voir section **Information réservée — traque Soren / Brigade** ; ne pas poser « protéger Soren contre la Brigade » comme objectif partagé dans `Back_groupe_Tripot.md`.
 - **Exploiter l’artefact** (levier) : savoir **quoi** négocier sans **casser** le mystère pour les banquiers PJ — le détail précis reste **MJ**.
 - **Tenir les salles** : **Varek** / **Ardan** / **Sira & Lira** / **Éliane** : pas de double langage qui brûle la réputation avant la caisse.
 
@@ -85,17 +85,17 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 ### Plan principal (étapes clés)
 
 1. **Tenir les portes ouvertes** : image de norme jusqu’au dernier soir.
-2. **Renégociation** : confrontation ou chantage **contrôlé** avec la ligne UBI sur les **15 %**.
+2. **Renégociation** : confrontation ou chantage **contrôlé** avec l’UBI sur les **15 %**.
 3. **Régate** : monter les **enjeux** ; décider qui **gagne** sur l’eau et qui **paie** dans la salle.
 4. **Mafia** : rendez-vous **sous pression** — accord, **tribut**, ou **report**.
-5. **Palyr** : déclencher l’**exfiltration** (bateau, sacs, faux papiers) selon accords table.
-6. **Sortie** : dernier train d’**or** et de **preuves** — ou sacrifice d’un **bouc émissaire** si la table l’endosse.
+5. **Palyr** : déclencher l’**exfiltration** (bateau, sacs, faux papiers) selon accords avec Palyr en scène.
+6. **Sortie** : dernier train d’**or** et de **preuves** — ou sacrifice d’un **bouc émissaire** si Marda l’accepte en scène.
 
 ### Risques
 
 - **Raid Brigade** sur Soren.
 - **Audit surprise** ou **sceau** UBI sur une salle.
-- **Guerre ouverte** mafia si la table **humilie** Kaelan en public.
+- **Guerre ouverte** mafia si Kaelan est **humilié** en public.
 
 ---
 
@@ -119,7 +119,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 
 ## Identité du groupe (orga)
 
-### Équipe du Tripot (dix joueurs)
+### Équipe du Tripot (onze joueurs)
 
 | Nom du personnage | Rôle | Compétences | Classe | Joueur |
 |-------------------|------|-------------|--------|--------|
@@ -133,11 +133,12 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 | **Ysabeau** | Hôtesse — charmes | VIP, salons, négociation molle | *selon table* | *à compléter* |
 | **Soren** | Homme de main & alchimiste | Poisons, potions, « basse besogne » | *selon table* | *à compléter* |
 | **Fenric Ossel** | Maître des registres | Comptabilité de façade, vrais livres, réserves | *selon table* | *à compléter* |
+| **Guelievre Marech** | Gouvernante | Réserves, service, rapport à Marda ; tient la baraque en crise ; vide la maison sur ordre | *selon table* | *à compléter* |
 
 ### Information réservée — traque Soren / Brigade Noire
 
 - **Canon** : le passé de **Soren** (désertion, **Brigade Noire**, risque d’arrestation ou de **bargaining**) est une relance MJ ; **seuls Soren et Lydwen** sont briefés avec le **détail exploitable** en début de partie — **Lydwen** parce que l’**oracle** peut recevoir visions / tirages qui nomment la menace (arbitrage MJ) ; **Soren** évidemment.
-- **Les huit autres PJ** ne « savent » pas ce calibrage dans leurs documents : ils peuvent avoir vu qu’il a un **passé lourd**, que Marda lui a fait confiance, ou des rumeurs vagues — mais **pas** la synthèse « Brigade = menace extérieure structurée » tant que ça ne sort pas **en jeu** (scène, indice, confidence).
+- **Les neuf autres PJ** ne « savent » pas ce calibrage dans leurs documents : ils peuvent avoir vu qu’il a un **passé lourd**, que Marda lui a fait confiance, ou des rumeurs vagues — mais **pas** la synthèse « Brigade = menace extérieure structurée » tant que ça ne sort pas **en jeu** (scène, indice, confidence).
 - **Ne pas** mettre dans `Back_groupe_Tripot.md` une puce du type « le groupe assume la protection de Soren contre la Brigade » : ce serait une info de relance présentée comme vérité de table pour tous.
 
 ### Secret de personnage — double jeu comptable (MJ + un PJ)
@@ -168,7 +169,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 - **Truquages de régate passés** : preuves chez clients et dans **registres** Éliane.
 - **Soren** : filière **Brigade** ; si exposition : arrestation ou **bargaining** sanglant — **connaissance complète au départ** : **Soren** + **Lydwen** (oracle) uniquement ; les autres l’apprennent en jeu si vous le jouez.
 - **Dossiers VIP** : chantage mutuel avec **mafia** et **UBI** si fuites croisées.
-- **Palyr** : promesses **non écrites** — la table doit **sceller** en jeu ou tout perdre.
+- **Palyr** : promesses **non écrites** — à **sceller** devant témoins en scène ou tout perdre.
 
 ---
 

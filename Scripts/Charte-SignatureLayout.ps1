@@ -230,6 +230,10 @@ function Build-CharteSignatureBlockFromHtml {
     'Ther-Felis' = Join-Path $blasonDir "Blason_Ther-F$([char]0xe9)lis_+.png"
     'Ther-Félis' = Join-Path $blasonDir "Blason_Ther-F$([char]0xe9)lis_+.png"
     'Arthas'     = Join-Path $blasonDir 'Blason_Arthas_+.png'
+    'Cités du Levant' = Join-Path $blasonDir "Blason_Cit$([char]0xe9)s_du_levant_+.png"
+    'Cites du Levant' = Join-Path $blasonDir "Blason_Cit$([char]0xe9)s_du_levant_+.png"
+    'Confédération'   = Join-Path $blasonDir "Blason_Cit$([char]0xe9)s_du_levant_+.png"
+    'Confederation'   = Join-Path $blasonDir "Blason_Cit$([char]0xe9)s_du_levant_+.png"
   }
 
   $itemRx = [regex]::new(

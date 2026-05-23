@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Sybrel Dornik |
 | Rôle dans le groupe | Surveillance intérieure — tunnels, coursives, ombre |
-| Classe / profession | Garde / espionne *(règlement — orga)* |
+| Classe / profession | Garde / espionne |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -132,21 +132,13 @@ La manière dont l'UBI a glissé vers les détournements et les morts te dégoû
 - **Ligne Premiers Nés** : tenir les survivants hors de la lumière des questeurs sans brûler ton couvert ; empêcher que la mort des six te rattache publiquement au dossier que tu as monté pour Horgrim. Les aider pour punir le système pourri jusqu'à l'os.
 - **Roue des vannes et seconde tentative** : ce soir, les Premiers Nés retentent après l'échec d'avant-hier ; ils ont besoin que la roue soit retirée ou qu'ils la récupèrent alors que Corvus tient le poste. Convoi convenu au Tripot vendredi 23 h ; à toi d'ouvrir une brèche (rondes, tunnels) sans que ton nom figure sur la feuille de ronde que Corvus signe chaque soir.
 
-# Membres du groupe
 
-| Personnage | Interaction |
-|------------|-------------|
-| Edorian | Confiance fonctionnelle : tu orientes tes rapports pour lui depuis trois ans. |
-| Horgrim Dval | Supervision formelle ; méfiance mutuelle non déclarée. Tu restes soigneuse. |
-| Kaelen Veynar | Collaboration de terrain ; il ne pose pas de questions, c'est utile. |
-| Vaelric Dorn | Peu de contact direct ; mêmes espaces, briefings différents. |
-| Selvara Quenndral | Prudence : tu travailles près des archives sensibles, elle le sait. |
-| Ydria Ventoss | Peu de contact direct ; tu vois passer des choses au comptoir que le registre n'enregistre pas. |
-| Melian Torv | Peu de contact direct. |
-| Corvus | Méfiance mutuelle : il tient les vannes et le registre du poste ; tu connais les couloirs qu'il ne parcourt pas toujours. Les Premiers Nés visent sa roue, pas ton poste. |
+
+---
+
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
-
 
 ## Tunnels et coursives — UBI
 
@@ -156,14 +148,10 @@ Tu connais les tunnels et coursives du fort mieux que quiconque, y compris ceux 
 
 Shadow est membre des Sangs de la Steppe. Il était présent le jour où le protocole prévoyait de te laisser tomber à quatorze ans. Il a fait l'autre choix. Tu lui dois d'être encore là — mais tu ne sais pas pourquoi il a fait ce choix, et tu ne sais pas ce qu'il attend en retour. Il sait que tu es à la banque. Il est à Ulghart pour la Régate. Ce croisement va produire quelque chose. Tu ne sais pas quoi.
 
-## Rapports orientés — ce qu'Horgrim ne voit pas
-
-Depuis trois ans, une partie de ce que tu observes dans les tunnels ne figure pas dans tes rapports à Horgrim. Ces informations vont à Edorian. Cette pratique est irréversible : si Horgrim reconstituait la séquence, il comprendrait immédiatement l'étendue de ce que tu lui caches. C'est une raison supplémentaire pour que le plan fonctionne jusqu'au bout.
-
 ## Recrues de la garde — ligne Premiers Nés
 
 Il y a trois ans, tu as recommandé à Horgrim un noyau de recrues pour renforcer les rondes sensibles. Tu connaissais leur filiation Premiers Nés / Fils du Levant : tu voulais leur donner une prise légitime dans la maison sans afficher leur cause. Les six morts venaient de ce noyau. Tu portes la part que tu t'attribues dans leur sort ; tu défends encore les survivants en secret quand une ronde ou un rapport peut les protéger sans écrire leur nom au mauvais endroit.
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
+*GN Krondaar 2026*

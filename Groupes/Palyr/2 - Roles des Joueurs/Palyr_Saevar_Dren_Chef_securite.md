@@ -39,9 +39,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Saevar Dren |
 | Rôle dans le groupe | Chef de la sécurité — officier de renseignement |
-| Classe / profession | Guerrier *(règlement — orga)* |
+| Classe / profession | Guerrier |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -123,20 +123,6 @@ Lira est la contrainte que tu dois gérer avant toutes les autres. Elle tient ta
 - **Surveiller Marek Thorne** : si l'opérateur d'Il-Irion est présent à Ulghart, il peut remonter le fil de ta dette jusqu'à la délégation. Identifier sa présence avant qu'il identifie la tienne.
 - **Contenir l'impact du Tripot sur la mission** : ta présence aux tables ne doit pas créer de fuite sur les opérations de Lysa ou les dossiers de Corvyn. Tenir les deux compartiments séparés.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; boss direct ; sait pour le Tripot, pas pour le montant de ta dette. |
-| Ilara Vandesse | Diplomate ; tu couvres ses déplacements ; tu surveilles les fuites si la banque réagit fort. |
-| Lysa Morwyn | Trésorière ; sorties et horaires en marge — tu observes sans poser de questions. |
-| Thoran Keld | Quais et régate ; il sait pour le Tripot et ne remonte pas — tu lui dois ça. |
-| Maren Holt | Commandant ; escortes et salles fermées ; tu évites que le Tripot contamine ses livraisons. |
-| Syndri Ashfeld | Herboriste ; sorties nocturnes à ne pas confondre avec les tiennes au casino. |
-| Bran Lyrd | Druide ; escorte ; tu le mets en garde contre le Tripot — il n'y va pas. |
-
-
 # Connaissances
 
 ## Lira — Tripot (dette personnelle)
@@ -148,9 +134,11 @@ Corvyn sait que tu joues au Tripot. Thoran le sait aussi. Aucun des deux n'a ce 
 Lira n'est pas pressée pour encaisser. Elle attend la Régate pour formuler sa demande, au moment où tu as le plus à perdre. Tu ne sais pas encore ce qu'elle veut. Tu sais que ça ne sera pas raisonnable et que tu devras décider seul.
 
 ## Marek Thorne — réseau Il-Irion
+
 Thorne est un opérateur de renseignement d'Il-Irion. Il travaille dans les milieux gris confédéraux. Ses relais à Ulghart peuvent croiser les tiens. S'il remonte le fil de ta dette jusqu'à toi et jusqu'à la délégation de Palyr, il a un levier exploitable. Tu dois identifier sa présence pendant la Régate avant qu'il identifie la tienne.
 
 ## Réseaux Ther-Félis, Port-Unis, Mercenaires, autres
+
 Tu as des contacts issus de tes années d'agent de terrain. Tu peux mobiliser ces réseaux pour des opérations que la délégation ne peut pas signer officiellement. Tu ne les livres pas à bon marché : chaque faveur accordée est une dette créée. Tu es connu sous le nom de Drenvar dans ces milieux.
 
 - **Tripot** : Varek — informateur polyvalent ; sait qui doit combien à qui dans le fort et dans quel salon ça se dit.
@@ -165,4 +153,9 @@ Tu as des contacts issus de tes années d'agent de terrain. Tu peux mobiliser ce
 - **Administration Ulghart** : Pelne — greffier au fort ; a accès aux registres d'entrée et de sortie des personnes et peut faire disparaître une ligne si on lui demande poliment.
 
 ## Éliane — paris autour de la régate (Tripot)
+
 Éliane opère au Tripot sur les paris de régate : cotes, rumeurs d'équipages, résultats attendus. C'est ton canal de contact avec le Tripot pour les informations liées à la régate, distinct de tes dettes personnelles aux tables. Les deux circuits se croisent dans le même espace. Tu essaies de les tenir séparés.
+
+---
+
+*GN Krondaar 2026*

@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ydria Ventoss |
 | Rôle dans le groupe | Trésorière — conseil ; dépôts d'or, flux de capitaux |
-| Classe / profession | Comptable / trésorière *(règlement — orga)* |
+| Classe / profession | Comptable / trésorière |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -116,21 +116,13 @@ Kaelan Thormane offre un corridor gris pour faire partir du lingot hors fil banc
 - **Issue personnelle** : protéger les fonds placés hors circuits officiels et les contacts contrebandiers en cas d'effondrement avant la passation.
 - **Varek et Corbeaux de Minuit** : caler les créneaux opérationnels via Varek sans laisser de trace entre ton comptoir et le casino.
 
-# Membres du groupe
 
-| Personnage | Interaction |
-|------------|-------------|
-| Edorian | Coordination étroite sur l'opération or ; intérêts alignés jusqu'à la Régate. |
-| Selvara Quenndral | Dépendance mutuelle sur la couverture comptable ; relation de travail tendue. |
-| Vaelric Dorn | Respect de l'efficacité ; coordination sur le bruit autour des mouvements d'or. |
-| Horgrim Dval | Façade correcte nécessaire pour que les accès aux coffres se déroulent sans friction. |
-| Melian Torv | Opposition frontale sur la façade morale ; peu de coordination directe. |
-| Kaelen Veynar | Peu de contact direct ; utile ponctuellement sur des recouvrements. |
-| Sybrel Dornik | Prudence : elle surveille les tunnels, elle voit ce que le comptoir n'affiche pas. |
-| Corvus | Coordination nécessaire sur les accès coffres ; sans lui les lingots ne bougent pas. |
+
+---
+
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
-
 
 ## Comptoir or, écrits, biens — UBI
 
@@ -150,4 +142,4 @@ Tu as des fils vers des circuits d'évacuation hors cité et des signatures de n
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
+*GN Krondaar 2026*

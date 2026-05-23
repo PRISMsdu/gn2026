@@ -38,22 +38,23 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Théven Corvel |
 | Rôle dans le groupe | Chef de mission — détachement Corvel |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Clerc (Wultan) |
+| Compétences | Egorgement ; Pugilat |
 | Groupe | MiVI (service du Primat, couverture civile) |
-| Points de vie | 3 |
+| Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Dossier fer 544–545 ; ligne Elfrion ; dernier mot sur les arbitrages et le « brûlage » des actifs. |
 | Doublons (or) | 100 |
-| Pugilat | 3 |
+| Pugilat | 7 |
 
 ## Apparence et caractère
 
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Patient, froid quand il le faut, lecteur d'absences et de silences. |
-| Valeurs | Le résultat pour la ligne qu'on ne signe pas ; la précision contre le bruit. |
+| Valeurs | Le résultat pour la mission qu'on ne signe pas ; la précision contre le bruit. |
 | Peur | Que l'équipe paie une imprudence collective qu'on aurait pu trancher à temps. |
 | Rêve | Clore des dossiers sans laisser de noms inutiles sur les registres. |
 
@@ -79,13 +80,13 @@ Elfrion ne t'envoie pas sur Il-Irion pour décorer la Convention. Elle t'envoie 
 
 La Confédération aime les crises qu'elle peut nommer et ranger. Ce qu'elle craint : une plaie qui suppure sans slogan commun. Ton mandat marie deux impératifs : avancer les pièces insulaires — routes et attributions qui renforcent les maisons liées à Arthas et Ther-Félis, influence vers l'UBI sans assaut frontal sur la banque — et rester sous le seuil d'embargo qui obligerait les cités à ranger leurs querelles en une seule ligne contre la Styrgie.
 
-Parfois la ligne exige qu'une médiation propre échoue. Pas pour le plaisir du chaos : pour qu'un cessez-lever confortable ne fige pas trop tôt un bloc dont la guerre te laisserait plus tard sans marge. Tu tranches ce genre d'ordre à voix basse. Tu portes le coût sur tes nuits, pas sur des pamphlets.
+Parfois Elfrion exige qu'une médiation propre échoue. Pas pour le plaisir du chaos : pour qu'un cessez-lever confortable ne fige pas trop tôt un bloc dont la guerre te laisserait plus tard sans marge. Tu tranches ce genre d'ordre à voix basse. Tu portes le coût sur tes nuits, pas sur des pamphlets.
 
 ## Chapitre IV : Les défis actuels (Ulghart)
 
 Citadelle d'Ulghart, île d'Il-Irion. Convention : nerfs à vif, régate, renouvellements. Tu débarques sans bannière styrgienne, sous couverture civile. Triangle fixe : Tripot au fort, coffres UBI, Sangs et Guilde sur les quais. Entre les trois, des rivaux qui lisent les mêmes colonnes — uniformes confédéraux ou sourires de conseillers.
 
-Priorité d'interrogation imposée : fer ; puis Tripot ; puis levier réel sur la nomination au futur conseil UBI dans la ligne Arthas / Ther-Félis. Routes et doubles ventes : mêmes registres, pas les mêmes urgences de table. Rumeurs or vers Argheteim : tu veux savoir qui croit quoi avant de payer le prix d'une erreur.
+Priorité d'interrogation imposée : fer ; puis Tripot ; puis levier réel sur la nomination au futur conseil UBI pour le rapprochement Arthas / Ther-Félis. Routes et doubles ventes : mêmes registres, pas les mêmes urgences de bilan. Rumeurs or vers Argheteim : tu veux savoir qui croit quoi avant de payer le prix d'une erreur.
 
 Archives qui documenteraient une guerre prochaine contre la Styrgie : tu cadres avec Ysel ce qui doit être lu, effacé ou remplacé avant qu'un concurrent confédéral n'y mette la main. Tu décides du brûlage quand un fil coûte plus cher vif que mort. Tu refuses d'offrir à la Confédération le spectacle qui fabriquerait un martyre commun.
 
@@ -108,17 +109,6 @@ Tu représentes la ligne Elfrion : une phrase lâchée au mauvais endroit peut f
 - **Tenir la pression sur les cadres des Sangs** sans brûler la Guilde ni les relais longue durée sans ordre explicite.
 - **Trancher** : quand couper une opération, quand sacrifier une couverture, quand laisser une négociation « propre » échouer pour fragiliser le bloc confédéral.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|---------------------------------------------------------------------|
-| Ysel Marivent | Confiance de dossier sur l'UBI — elle tranche sur les preuves et les coffres. |
-| Lucan Drest | Confiance sur le masque et la parole — il tient le quai et le salon. |
-| Varro Selt | Confiance opérationnelle — tu ne lui demandes la violence que quand la plume a échoué. |
-| Miraen Talvas | Confiance tactique sur le Tripot — tu lui laisses la scène des salles ; le détail de ses angles faibles peut être ton brief MJ (addiction, dettes) ou un secret qu'il porte seul. |
-
-
 # Connaissances
 
 ## Note de mission — Bureau « M. » (MiVI, Primat, Elfrion)
@@ -140,7 +130,6 @@ Cible stratégique documentaire. Pièce : FC-III-544-001 (bordereau, initiales �
 ## Korran Vesper — Pirates d'Albar (PNJ)
 
 Mer et remises. Pièce : BM-III-546-005 (gage de remise signé).
-
 
 ---
 

@@ -29,10 +29,10 @@
 - **Chef / Leader** : **Rauth Kaelmar** — **chef de clan** et voix officielle auprès de la Confédération ; arbitrage stratégique ; confrontation directe avec la rhétorique d'**Il-Irion**
 - **Marchands** :
   - **Ysara Vell** — **nouveaux contrats**, **négociations UBI**, expertise **archéologique** (légitimité culturelle des routes)
-  - **Dorian Marest** — **renouvellement des routes** et traités de transit ; **figure affichée** pour le **futur conseil de l'UBI** (candidature ouverte selon la table)
+  - **Dorian Marest** — **renouvellement des routes** et traités de transit ; **figure affichée** pour le **futur conseil de l'UBI** (candidature ouverte — arbitrage orga)
 - **Hommes de main / Marins** :
   - **Joric Tann** — **skipper**, **régate**, **jeux** et **pugilat** ; protection et prestige sportif
-  - **Sven Orlac** — **skipper**, **régate** ; responsable du **volet corruption des juges** (avec accord du chef si la table le joue ainsi)
+  - **Sven Orlac** — **skipper**, **régate** ; responsable du **volet corruption des juges** (avec accord de **Rauth Kaelmar**)
 - **Herboriste** : **Miret Sael** — **apprentie** ; **premier contact** avec les messages **« XX »** ; transport des **spores de Félis** et soutien logistique aux **matières premières de sorts**
 
 **Tableau des PJ (fiches orga)** :

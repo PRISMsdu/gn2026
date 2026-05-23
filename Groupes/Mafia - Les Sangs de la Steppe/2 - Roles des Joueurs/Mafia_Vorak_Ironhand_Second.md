@@ -36,7 +36,7 @@ Epopée en Krondaar
 | Rôle dans le groupe | Second — coordinateur opérationnel |
 | Classe / profession | Guerrier, tacticien |
 | Groupe | Les Sangs de la Steppe |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -50,7 +50,7 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Loyal, méthodique, froid, stratège. |
 | Valeurs | Le chef d'abord, l'efficacité ensuite ; la compagnie comme discipline, pas comme slogan. |
-| Peur | Que la mission échoue par négligence ; qu'un homme à lui vende la troupe pour une poignée d'écus. |
+| Peur | Que la mission échoue par négligence ; qu'un homme à lui vende la troupe pour une poignée d'écus. Que l'équipe partie sur la route Il-Irion–Ulghart soit morte ou qu'elle revienne en parlant trop. |
 | Rêve | Voir le réseau imposer sa loi à la Confédération dans les faits, pas seulement dans les ragots. Puis une bonne retraite bien méritée. |
 
 ---
@@ -73,6 +73,9 @@ Tu montes en grade dans la compagnie : d'abord les routes intérieures, la traqu
 
 Tu es le second : quand Kaelan tranche, tu fais en sorte que la troupe exécute sans friction. Le nouveau conseil de l'UBI, les frictions entre cités, la pression sur les familles : tout ça passe par des fenêtres horaires et des hommes placés au bon endroit. Tu dois distinguer ce que racontent les salons (menace exotique, bruit de steppe) de ce que tu sais être la ligne réelle — sans jamais mélanger les deux à voix haute.
 
+Il y a quelques jours, un pigeon voyageur t'a déposé une missive sur le quai : un acheteur anonyme aurait payé fort cher une intervention musclée sur la route entre Il-Irion et Ulghart. Quinze mercenaires habitués, dont plusieurs travaillent souvent avec vous — relais, escorte, coups de main — auraient été engagés pour le coup. Depuis, silence radio. Pas de rapport, pas de survivant qui repasse par vos hommes, pas de paiement de solde. Ce n'est pas normal : une opération de cette taille laisse toujours une trace, même mauvaise. Tu ne sais pas qui a commandité ni contre qui ils sont partis ; tu sais seulement que des gars de votre monde sont dans le trou.
+
+
 ## Chapitre V : Le réseau et les relations
 
 Kaelan est ton point cardinal. Gareth reçoit de toi le rythme des intimidations ; Drask les cadres d'interrogatoire ; Shadow et Raven des couloirs différents — l'un les coffres et les doubles jeux, l'autre le quai, les parlements et les remises avec Korran Vesper. Tu sais que le Tripot et Staal ne sont pas interchangeables : même guerre, pas même table.
@@ -86,37 +89,54 @@ Kaelan est ton point cardinal. Gareth reçoit de toi le rythme des intimidations
 - Garder la synchronisation des opérations : pas d'écart entre ce que veut Kaelan et ce que font les équipes.
 - Alimenter la veille sur le futur conseil de la banque : noms, alliances, fenêtres où un coup peut passer.
 - Protéger la chaîne logistique des comptes secrets et des relais (casino, quai, marchands) sans mélanger les filières.
+- Retrouver des nouvelles sur l'équipe mercenaire partie sur Il-Irion–Ulghart : vivants, morts, prisonniers.
 
-## Relations clés à exploiter
+# Connaissances
 
-### Membres des Sangs (liens personnels)
+## Korran Vesper — Pirates d'Albar (PNJ)
 
-| Personnage | Lien |
-|------------|------|
-| Kaelan Thormane | Obéissance et confiance absolues envers le chef ; pas d'amitié démonstrative. |
-| Gareth Ironfist | Confiance de chef de section — respect mutuel, distance professionnelle. |
-| Drask Bloodmoon | Confiance de protocole — complémentarité sans camaraderie. |
-| Shadow | Confiance partagée — coordination froide, jamais familiarité. |
-| Raven | Confiance opérationnelle sur les créneaux — pas d'amitié, synchronisation quai. |
+RA-III-546-004 — rapport arguethain / régate (piste que tu as cadrée pour le chef).
 
-### Contacts extérieurs
+## Marda Velyss — Il-Irion — Tripot
 
-*(Les pièces ci-dessous sont distinctes de celles que le chef tient en référence directe — **FC-III-544-001** à **BC-III-544-003** — pour éviter les mêmes correspondances entre fiches joueurs.)*
+Dette orale de salle — pas le même billet que `RD-III-543-002` (détenu par Kaelan).
 
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Veille opérationnelle | RA-III-546-004 — rapport arguethain / régate (piste que tu as cadrée pour le chef). |
-| Marda Velyss | Il-Irion — Tripot | Partenaire | Dette orale de salle — pas le même billet que `RD-III-543-002` (détenu par Kaelan). |
-| Maître [nom à trouver] | Staal — imprimerie | Rumeur | CO-II-545-001 — contrat Sfaal–Palyr (acier) comme levier sur les nerfs des cités. |
-| [nom à trouver] | Les Sangs — autre chef | Rivalité | Méfiance respectueuse ; pas d'amitié. |
-| Edorian | UBI — direction | Cible | CO-II-547-001 — fer et sceau (angle logistique, pas le bordereau **FC-III-544-001**). |
-| Sybrel Dornik | UBI — Ombre | Actif | FA-III-546-003 — reçu falsifié côté Palyr (autre entrée que le message codé **MC-III-547-003**). |
-| Maître Vaelric Dorn | UBI — Discréteur | Menace | FA-III-547-002 — corruption falsifiée en circulation. |
-| Dame Ydria Ventoss | UBI — Trésorière | Levier | Recoupements sur les noms Ventoss / Forgefer ; le contrat `DE-II-546-001` est suivi par Gareth (autre angle). |
-| Melian Torv | UBI — conseiller spirituel | Faille | Recoupements oraux avec la ligne Palyr — sans le fragment `FL-III-545-002` du dossier chef. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Ennemi | CP-III-542-002 seul — exemple de mécanique de chantage (le chef détient le jeu complet **CP-III-542-001–CP-III-543-001**). |
+## Maître [nom à trouver] — Staal — imprimerie
 
-## Informations sensibles
+CO-II-545-001 — contrat Sfaal–Palyr (acier) comme levier sur les nerfs des cités.
 
-- Tu connais les plans d'infiltration des assemblées et la répartition Tripot / Staal : une erreur d'adresse te fait perdre un réseau entier.
-- Tu tiens une partie des comptes secrets : si ça fuit, le MiVI ne regardera pas seulement Kaelan.
+## [nom à trouver] — Les Sangs — autre chef
+
+Méfiance respectueuse ; pas d'amitié.
+
+## Edorian — UBI — direction
+
+CO-II-547-001 — fer et sceau (angle logistique, pas le bordereau **FC-III-544-001**).
+
+## Sybrel Dornik — UBI — Ombre
+
+FA-III-546-003 — reçu falsifié côté Palyr (autre entrée que le message codé **MC-III-547-003**).
+
+## Maître Vaelric Dorn — UBI — Discréteur
+
+FA-III-547-002 — corruption falsifiée en circulation.
+
+## Dame Ydria Ventoss — UBI — Trésorière
+
+Recoupements sur les noms Ventoss / Forgefer ; le contrat `DE-II-546-001` est suivi par Gareth (autre angle).
+
+## Melian Torv — UBI — conseiller spirituel
+
+Recoupements oraux avec la ligne Palyr — sans le fragment `FL-III-545-002` du dossier chef.
+
+## Cyrion Valdris — Il-Irion — Maison Valdris
+
+CP-III-542-002 seul — exemple de mécanique de chantage (le chef détient le jeu complet CP-III-542-001–CP-III-543-001).
+
+## — — Mercenaires du quai (réseau)
+
+Missive pigeon : quinze hommes, acheteur anonyme, route Il-Irion–Ulghart ; aucune nouvelle à ce jour.
+
+---
+
+*GN Krondaar 2026*

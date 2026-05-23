@@ -36,7 +36,7 @@ Epopée en Krondaar
 | Rôle dans le groupe | Alchimiste interrogateur — soins, substances, vérités arrachées |
 | Classe / profession | Alchimiste, interrogateur |
 | Groupe | Les Sangs de la Steppe |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -87,29 +87,35 @@ Kaelan fixe le cadre ; Vorak le tempo ; Gareth la violence quand tu ne peux pas 
 - Cadrer avec Vorak les séquences d'interrogatoire ; ne jamais mélanger les audiences « officielles » du réseau et les fuites possibles.
 - Documenter ce qui peut servir au MiVI sans écrire ton nom sur des étiquettes qui voyagent seules.
 
-## Relations clés à exploiter
 
-### Membres des Sangs (liens personnels)
-
-| Personnage | Lien |
-|------------|------|
-| Kaelan Thormane | Confiance utilitaire et respect de son expertise ; cordialité professionnelle. |
-| Vorak Ironhand | Confiance de protocole — complémentarité sans camaraderie. |
-| Gareth Ironfist | Confiance pratique sur les fioles — pas d'amitié, efficacité. |
-| Shadow | Confiance de binôme — échange de services sans proximité. |
-| Raven | Confiance utilitaire — lien professionnel sur les informateurs « brûlés ». |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Receveur anonyme / empreinte D.B. | Conciliation hors greffe | Chimie, sorties « propres » | AC-II-543-003 — utile pour timings et traces distinctes des dossiers UBI centraux. |
-| Sybrel Dornik | UBI — Ombre | Tunnel | MC-III-547-003 — angle chimique ; croisement possible avec d'autres PJ sur le même fil. |
-| Maître Vaelric Dorn | UBI — Discréteur | Récits | PA-II-545-003 — crédibilité des récits vs. preuves physiques. |
-| Dame Ydria Ventoss | UBI — Trésorière | Or | BC-III-544-003 — stress, pressions, narration financière. |
-| Korran Vesper | Pirates d'Albar (PNJ) | Réseau maritime | Paiements et tensions liés au dossier fer — à synchroniser avec le chef et Raven. |
 
 ## Informations sensibles
 
 - Une fiole mal étiquetée peut coûter plus qu'une embuscade : tu es la mémoire des doses — ne la prête pas.
 - Le MiVI lit les échecs au gramme près : n'explique jamais une marge d'erreur comme un « détail ».
+
+# Connaissances
+
+## Receveur anonyme / empreinte D.B. — Conciliation hors greffe
+
+AC-II-543-003 — utile pour timings et traces distinctes des dossiers UBI centraux.
+
+## Sybrel Dornik — UBI — Ombre
+
+MC-III-547-003 — angle chimique ; croisement possible avec d'autres PJ sur le même fil.
+
+## Maître Vaelric Dorn — UBI — Discréteur
+
+PA-II-545-003 — crédibilité des récits vs. preuves physiques.
+
+## Dame Ydria Ventoss — UBI — Trésorière
+
+BC-III-544-003 — stress, pressions, narration financière.
+
+## Korran Vesper — Pirates d'Albar (PNJ)
+
+Paiements et tensions liés au dossier fer — à synchroniser avec le chef et Raven.
+
+---
+
+*GN Krondaar 2026*

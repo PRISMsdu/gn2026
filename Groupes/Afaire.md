@@ -60,7 +60,7 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
 
     - Marda (Tripot) La cheffe du tripot cherche un appui politique fort, pourquoi pas Il-Irion, pour se protéger de la mafia. Il faut lui conseiller de peut-être prendre contact avec Il-Irion pour discuter d'un appui contre la Mafia. Elle connait de nom Garrick Halvaren chez Il-Irion (lui ne la connait). Il est important de ne pas mentionner à Madras qu'Il-Irion est à l'origine des détournements organisé par Edorian, ceci doit être caché (aucune mention dans le role de Marda de cette situation) [utiliser modèle 2]
 
-    [ X ] Il y a eu un contact entre la Styrgie (Ysel Marivent, chez MiVI) et Il-Irion (Garick Alvaren) il y a un an, une tentative de discussion lancé par la Stygie pour entreprendre une discussion de négociation de partenariat avec Il-Irion, au motif que Il-Irion est exangue et que la confédération est mourrante, pour offrir une porte de sortie à Il-Irion. Un contact est organisé pendant le jeu. Il faut rédiger une lettre écrite par Ysel à Garick, qui donne rendez-vous à Garick dans la salle de la Guilde des Ports Unis, le samedi avant 9h30.[utiliser modèle 1]
+    [ X ] Il y a eu un contact entre la Styrgie (Ysel Marivent, chez MiVI) et Il-Irion (Garrick Halvaren) il y a un an, une tentative de discussion lancé par la Stygie pour entreprendre une discussion de négociation de partenariat avec Il-Irion, au motif que Il-Irion est exangue et que la confédération est mourrante, pour offrir une porte de sortie à Il-Irion. Un contact est organisé pendant le jeu. Lettre GPU-547 (`Lettre_MiVI_Garrick_Halvaren.md`) — RDV salle Guilde des Ports Unis, samedi avant 9 h, mot « registre du quai nord ».[utiliser modèle 1]
     
     [ X ] Ajouter dans l'organisation de la guilde un responsable par pole (et donc un joueur de la mafia) : les dockers, les routes commerciales (publication), chantier naval, les Marins, les entrepots.
     
@@ -77,9 +77,15 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
 
     [ ] Ther-félis possède le contrat de transport du fer. Ther-Félis a sous-traité le transport à la Mafia (mais Ther-Félis ne le sait pas que c'est la Mafia). Le contact Ther-Félis <-> guilde des ports Unis doit être dans les coffres. Prendre le représantant route commerciale chez les Ports Unis.
 
-    Le contact pro-Styrgie de Ther-Félis est Sven Orlac, faire une lettre de rdv avec le MiVI. Mettre un signe distinctif de reconnaissance. 
+    [ X ] Le contact pro-Styrgie de Ther-Félis est Sven Orlac, faire une lettre de rdv avec le MiVI. Mettre un signe distinctif de reconnaissance. 
 
     [ ] En lien avec Palyr: les druides avait mit la vouivre pour protéger et pour la libérer il faut un sceau, cassé en 5, chaque île possède un bout de l'artéfact. et chacun a un morceau dans les coffres de la banque. Eric fait le petit texte qui explique ça. texte à intégrer dans les back + texte qui raconte l'histoire dans la bilbiothèque.
+
+    [ X ] - Corvus a un scaphandre car il sait l'utiliser au cas où le système tombe en panne
+
+    [ ] - refaire les lignes mémo et mettre ça dans tous les groupes cités
+
+    [ X ] - La mafia a buté par erreur l'oblat d'Arthas. Mais c'était une grosse boulette c'est Gareth Ironfist (il a laissé son berêt écossais vert avec ponpon) Y a que Olive qui sait qu'il a perdu son berêt. Arthas a le berêt et ils vont chercher à qui il appartient. Olive doit chercher absolument à le récupérer car il assissine avec son berêt.   
 
  
 -->

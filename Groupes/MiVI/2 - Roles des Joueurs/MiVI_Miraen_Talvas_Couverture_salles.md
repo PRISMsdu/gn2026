@@ -39,9 +39,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Miraen Talvas |
 | Rôle dans le groupe | Couverture « habitué des salles » ; interface Tripot pour le détachement |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Guerrier - capitaine |
+| Compétences | Skipper ; Pugilat |
 | Groupe | MiVI (service du Primat, couverture civile) |
-| Points de vie | 3 |
+| Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -70,7 +71,7 @@ Tu es entré par la grande porte des casinos avant d'entrer par la petite porte 
 
 Le Primat ne t'a pas recruté pour briller aux chandelles. Il t'a recruté parce qu'à Ulghart le Tripot du fort est à la fois laveur et nœud : or, langues, élites qui croient jouer pendant que d'autres comptent. La Styrgie veut que la Confédération ne se referme pas sur une paix trop propre avant qu'Elfrion ait posé ses leviers — UBI, routes, nominations, flux qui touchent Arthas et Ther-Félis. Le casino livre des oreilles et des chaînes humaines. Tu es le visage qu'on montre au monde pendant que les autres passent masqués.
 
-Tu acceptes le contrat : couverture crédible, codes, tables, accès. Tu acceptes aussi le prix : ce que tu portes en plus — jeu, dettes, satellites de créanciers — n'est pas un bulletin partagé dans le back commun. C'est ton fardeau. Théven peut savoir ou non selon l'orga ; les autres PJ découvrent en jeu ou pas. Tu ne leur dois pas une confession au café : tu leur dois une mission tenue.
+Tu acceptes le contrat : couverture crédible, codes, tables, accès. Tu acceptes aussi le prix : ce que tu portes en plus — jeu, dettes, satellites de créanciers — n'est pas dans le back commun du détachement. C'est ton fardeau. Théven peut savoir ou non ; les autres du Corvel l'apprennent seulement si tu parles ou s'ils te surprennent. Tu ne leur dois pas une confession au café : tu leur dois une mission tenue.
 
 ## Chapitre III : L'ascension (forge)
 
@@ -86,7 +87,7 @@ Varek et sa grille : couloir bouteilles, dé à coudre bleu, créneaux à ne pas
 
 La Confédération adore un scandale qu'elle peut emballer. Si tu lui offres un styrgien flagrant au milieu des jetons, tu lui offres un récit simple. Ton métier est l'inverse : laisser pourrir des alliances locales assez longtemps pour que le bloc ne se recolle pas trop vite, tout en restant sous le seuil qui déclencherait l'embargo et refermerait les querelles d'île contre Elfrion. C'est une tension de fil : tu la sens sous les doigts à chaque main.
 
-Quand la ligne exige qu'une médiation propre échoue pour ne pas figer une paix confortable, tu ne joues pas les casseurs : tu laisses la table se dérégler toute seule parce que les intérêts divergent assez, sans en faire une scène de morale devant la salle. Le casino adore croire qu'il gouverne ; ton travail est de lui donner cette illusion pendant que Théven et Ysel serrent ailleurs ce qui compte pour Elfrion.
+Quand Elfrion exige qu'une médiation propre échoue pour ne pas figer une paix confortable, tu ne joues pas les casseurs : tu laisses les tables se dérégler parce que les intérêts divergent assez, sans en faire une scène de morale devant la salle. Le casino adore croire qu'il gouverne ; ton travail est de lui donner cette illusion pendant que Théven et Ysel serrent ailleurs ce qui compte pour Elfrion.
 
 La mafia veut la main sur la table. L'UBI croise les dettes et les signatures. Des espions confédéraux jouent les mêmes parties. Tu navigues entre eux sans te prendre pour un héros de pamphlet : tu es un professionnel qu'on envoie parce que le résultat pèse plus que le décor.
 
@@ -94,11 +95,11 @@ La mafia veut la main sur la table. L'UBI croise les dettes et les signatures. D
 
 Théven fixe le plafond de risque public. Ysel veut des preuves ; tu lui passes des flux, pas des inventions. Lucan tient le discours hors casino ; tu évites les contradictions qui coûtent des têtes. Varro passe quand la foule devient mur ; tu lui donnes le moment, pas l'improvisation dangereuse.
 
-Tu te dois de sortir d'Ulghart avec la mission tenue et un nom encore maîtrisable. Tu te dois de ne pas confondre le joueur que la maison veut voir avec l'homme que la République peut encore nier. Et tu te dois de tenir : le Tripot paie en or, mais la Styrgie paie en années — si tu la lâches au mauvais endroit, ce ne sont pas seulement tes jetons qui tombent.
+Tu te dois de sortir d'Ulghart avec la mission tenue et un nom encore maîtrisable. Tu te dois de ne pas confondre le masque que la maison veut voir avec l'homme que la République peut encore nier. Et tu te dois de tenir : le Tripot paie en or, mais la Styrgie paie en années — si tu la lâches au mauvais endroit, ce ne sont pas seulement tes jetons qui tombent.
 
 Les comptes sur le fer et sur l'UBI ne se règlent pas à ta table : tu n'es pas le chef. Tu es la porte et l'oreille. Si tu fermes la porte par orgueil ou si tu l'ouvres par cupidité, le détachement paiera au quai et dans les archives. Tu portes cette vérité comme une veste lourde : elle ne se voit pas, elle alourdit chaque pas vers les lustres.
 
-Contact principal auprès du Tripot : crédibilité, accès tables, codes, visages — c'est toi que la maison et les satellites peuvent presser. Addiction au jeu : elle te rattache à la table au-delà de la mission ; elle peut te faire accepter des rendez-vous ou des faveurs qui servent d'autres camps (mafia rivale, UBI, espions confédéraux). Dettes tenues par la maison ou des préteurs satellite : chantage, fuites d'information, obligations impossibles à avouer au groupe sans coût dramatique — pièce tangible : RD-III-546-007 (témoin V. = Varek). Les autres PJ ne sont pas briefés dans le back commun ; découverte en jeu ou brief MJ. Théven peut être tenu dans le flou ou briefé hors jeu selon décision orga.
+Contact principal auprès du Tripot : crédibilité, accès tables, codes, visages — c'est toi que la maison et les satellites peuvent presser. Addiction au jeu : elle te rattache aux tables au-delà de la mission ; elle peut te faire accepter des rendez-vous ou des faveurs qui servent d'autres camps (mafia rivale, UBI, espions confédéraux). Dettes tenues par la maison ou des préteurs satellite : chantage, fuites d'information, obligations impossibles à avouer au groupe sans coût dramatique — pièce tangible : RD-III-546-007 (témoin V. = Varek). Les autres du détachement n'ont pas ce détail dans le back partagé ; ils ne l'apprennent qu'en scène. Théven peut être mis au courant avant Ulghart — ou non.
 
 
 # Tes missions et objectifs
@@ -107,28 +108,26 @@ Contact principal auprès du Tripot : crédibilité, accès tables, codes, visag
 - **Exploiter le réseau du casino** : Varek comme entrée sur les flux et les joueurs d'élite ; friction mafia–Tripot à jouer en scène.
 - **Recouper** tout ce que la salle te murmure avec Ysel et Théven — une rumeur n'est pas une preuve.
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|---------------------------------------------------------------------|
-| Théven Corvel | Hiérarchie — il décide du niveau de risque public ; tu lui rends la réalité du casino. |
-| Ysel Marivent | Complémentarité preuve / flux — tu ne joues pas à sa place dans les archives. |
-| Lucan Drest | Couvertures croisées — salon et salle ne disent pas la même chose ; vous évitez les contradictions. |
-| Varro Selt | Sorties, incidents, moments où la foule devient un mur — coordination sans improvisation dangereuse. |
-
-
 # Connaissances
 
 ## Varek — Tripot (pisteur / surveillance)
+
 Grille de contact : couloir bouteilles, dé à coudre bleu ; éviter de croiser les initiales G.I. le même jour. Pièce : GC-III-547-007.
+
 ## Marda Velyss — Tripot (gérante)
+
 Reconnaissance de dette de salle ; familles de l'Est / Sangs. Pièce : RD-III-543-002.
+
 ## Éliane — Tripot (maîtresse des paris)
+
 Tables VIP ; paris d'élite. Pas de pièce codée dédiée dans ta fiche : tu joues la friction et les cotes en salle.
+
 ## Ardan Trevil — Tripot (protecteur des cercles)
+
 Muscle maison ; recouvrement. Limite physique à respecter.
+
 ## Dette personnelle — bar des paris secondaires (initiales M.T., créancier satellite)
+
 Reconnaissance jetons ; témoin V. = Varek. Pièce : RD-III-546-007.
 
 ---

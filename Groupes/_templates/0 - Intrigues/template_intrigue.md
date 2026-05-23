@@ -56,8 +56,8 @@ Tu écris comme un **procès-verbal** : sujet — verbe — complément (**qui f
 
 <!-- Une seule liste : interactions, actions de jeux, tensions ciblées. Nominatif si besoin. -->
 
-- [Objectif ou ligne de tension 1]
-- [Objectif ou ligne de tension 2]
+- [Objectif ou axe de tension 1]
+- [Objectif ou axe de tension 2]
 - […]
 
 

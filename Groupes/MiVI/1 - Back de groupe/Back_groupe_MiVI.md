@@ -71,7 +71,7 @@ Le renseignement militaire confédéral compile des rapports — militaires, fin
 
 ### Arthas et Ther-Félis
 
-Des interlocuteurs pro-styrgiens sont identifiés dans les deux délégations. À Ther-Félis, c’est Sven Orlac : vous lui avez fait parvenir une lettre de rendez-vous, avec un signe de reconnaissance convenu. À Arthas, un contact est identifié de la même façon — la lettre est partie avant votre départ ; le nom figure sur le pli remis au détachement. Vous devez les rencontrer à Ulghart sans exposer le MiVI : réassurer, fixer les priorités, avancer le rapprochement des deux cités avec la République sans déclencher l’embargo qui rallierait toute la Confédération.
+Des interlocuteurs pro-styrgiens sont identifiés dans les deux délégations. À Ther-Félis, c’est Sven Orlac : lettre partie avant votre départ (STY-547-THF-SVO-01, jointe à vos papiers). À Arthas, c’est Septimus Calveran : même forme (STY-547-ART-SCA-01). Les deux missives convoquent à la taverne du fort, vendredi à vingt-deux heures trente ; mots « marée du sud » (Orlac) et « brume du col » (Calveran). Des hommes de confiance du réseau tiennent les rendez-vous, sans insignes styrgiens. Vous devez les rencontrer à Ulghart sans exposer le MiVI : réassurer, fixer les priorités, avancer le rapprochement des deux cités avec la République sans déclencher l’embargo qui rallierait toute la Confédération.
 
 ### Palyr — commerce gris (armes et matériel)
 
@@ -81,14 +81,14 @@ Une lettre sans en-tête de cité est partie pour Thoran Keld (référence STY-5
 
 ### Il-Irion
 
-Il y a environ un an, Ysel Marivent a pris contact avec Garick Alvaren, de la délégation d’Il-Irion. La Styrgie avait ouvert une piste de négociation : proposer à Il-Irion un partenariat discret, au motif que l’île est exsangue et que la Confédération s’affaiblit — une porte de sortie avant que le bloc ne se referme. Les objectifs de la Styrgie sont multiples :
+Il y a environ un an, Ysel Marivent a pris contact avec Garrick Halvaren, de la délégation d’Il-Irion. La Styrgie avait ouvert une piste de négociation : proposer à Il-Irion un partenariat discret, au motif que l’île est exsangue et que la Confédération s’affaiblit — une porte de sortie avant que le bloc ne se referme. Les objectifs de la Styrgie sont multiples :
 
 - enfoncer sa position au sein de la Confédération et la dépendance d’Il-Irion ;
 - lorsque la guerre arrivera, la Styrgie aura des moyens de pression pour retarder la Confédération, voire retourner Il-Irion contre elle ;
 - avoir des appuis pour la récupération d’Arthas et de Ther-Félis ;
 - récupérer des lignes commerciales, visuellement à la charge d’Il-Irion, mais dans les faits et les finances gérées par la Styrgie — ce qui apportera d’autant de capacité à bloquer la Confédération d’ici deux ans.
 
-La première approche n’a pas abouti. À Ulghart, vous reprenez le fil : une lettre de la Guilde des Ports Unis, signée au nom de la Styrgie, fixe le rendez-vous avec Garick (jointe à vos papiers — sous couverture des Ports Unis). Lieu : salle de la Guilde des Ports Unis ; samedi, avant 9 h. Mot de reconnaissance : « registre du quai nord ».
+La première approche n’a pas abouti. À Ulghart, vous reprenez le fil : une lettre de la Guilde des Ports Unis, signée au nom de la Styrgie, fixe le rendez-vous avec Garrick (jointe à vos papiers — sous couverture des Ports Unis). Lieu : salle de la Guilde des Ports Unis ; samedi, avant 9 h. Mot de reconnaissance : « registre du quai nord ».
 
 ### Tripot
 
@@ -98,26 +98,31 @@ Les rapports convergent : Marda Velyss, la patronne du Tripot, ne se comporte pa
 
 Ce chapitre fixe comment vous entrez à Ulghart.
 
-Sans motif crédible, une délégation styrgienne serait repérée en quelques jours. Vous arrivez avec un prétexte initial fragile — à préciser entre vous ; il sert aussi de porte de sortie si la couverture craque. À deux jours du fort, en venant par les terres, vous croisez un détachement de Questeurs : ils enquêtent sur les six gardiens de la banque retrouvés morts récemment.
+Sans motif crédible, une délégation styrgienne serait repérée en quelques jours. Vous arrivez avec un prétexte initial fragile — à préciser entre vous ; il sert aussi de porte de sortie si la couverture craque.
 
-Les Questeurs sont des enquêteurs confédéraux. Quand leurs rapports établissent l’usage de la magie ou du surnaturel, leurs conclusions ouvrent des pouvoirs exceptionnels. Vous prenez leur place après un accident — empoisonnement à la hache — et vous entrez au fort sous cette identité. En principe, on évite de contrarier un Questeur.
+Les Questeurs sont des enquêteurs confédéraux. Quand leurs rapports établissent l’usage de la magie ou du surnaturel, leurs conclusions ouvrent des pouvoirs exceptionnels. Un détachement Questeur se prend mal en embuscade : trop entraîné, trop habitué au surnormal et à la contrainte. Le Primat ne vous a pas envoyés pour abattre des Questeurs en route.
 
-Vous récupérez leurs effets sur place : papiers, ordre, ce qui permet de tenir le rôle. Vous ne connaissez pas leurs habitudes ni leurs méthodes ; il faudra improviser. En revanche, la lettre d’ordre des Oblats trouvée sur un corps fixe le cadre légal : le Questeur désigné est messire Ydrael Montfou ; la demande d’instruction est actée au nom de messire Horgrim Dval, chef de la Garde du fort d’Ulghart.
+Pour ouvrir Ulghart sans attendre, le réseau sur Il-Irion a repéré une autre mission vers le fort : un Clerc de Jorock — probablement au rang de Maître — et trois gardes du corps, sur l'enquête des six gardiens de la banque retrouvés morts. L’interception a été montée en moins de deux jours depuis Il-Irion, avec l’aide du réseau (Guilde, hommes des Sangs, relais du quai).
 
-Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d’un accès large — banque, forteresse, auditions — au prix d’un risque égal si l’imposture éclate.
+La bataille a fait rage. Plus de quinze mercenaires engagés pour l’opération sont morts sur le terrain à 2 jours du Fort. Même après soins, plusieurs d’entre vous portent des blessures visibles. Vous auriez dû liquider toute l’escorte adverse : un mercenaire de leur côté a réchappé, plus malin que les autres.
+
+Vous entrez au fort sous identité Questeur — insignes, rôles de garde du corps, habitudes à improviser. La lettre d’ordre des Oblats fixe le cadre légal : le Questeur désigné pour l’instruction est messire Ydrael Montfou ; la demande est actée au nom de messire Horgrim Dval, chef de la Garde du fort d’Ulghart. En principe, on évite de contrarier un Questeur.
+
+Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d’un accès large — banque, forteresse, auditions — au prix d’un risque égal si l’imposture éclate. Le mercenaire qui a fui est blessé ; il n’a guère d’autres moyens de survivre que de gagner le fort. Retrouvez-le et supprimez-le avant qu’il ne parle. 
 
 ## Résumé des objectifs
 
 - **Rendre compte à Elfrion** : bilan chiffré et nommé sur fer, Tripot, nominations au conseil UBI (mandat favorable à Arthas / Ther-Félis), routes — pas seulement des rumeurs.
 - **Resserrer la vis sur les Sangs** : plans, ressources, risques ; priorité au dossier fer (Palyr, Sfaal, navires, sceaux, registres) puis Tripot puis levier conseil UBI.
 - **Archives et coffres UBI** : intercepter les rapports du renseignement militaire confédéral (guerre, budgets, préparatifs) avant qu’ils ne soudent les cinq cités contre la Styrgie — avant qu’un concurrent n’y mette la main.
-- **Contacts pro-styrgiens** : tenir les rendez-vous avec Sven Orlac (Ther-Félis) et le contact identifié à Arthas (lettres déjà remises, signe de reconnaissance).
+- **Contacts pro-styrgiens** : tenir les rendez-vous avec Sven Orlac (Ther-Félis) et Septimus Calveran (Arthas) — taverne du fort, vendredi 22 h 30, missives et mots « marée du sud » / « brume du col ».
 - **Palyr — Thoran Keld** : Lucan tient le rendez-vous commerce gris (lettre STY-547-PAL-THO-01, mot « cale close avant l’aube », vendredi soir quai) ; relancer achats discrets armes / matériel, hors registres confédéraux.
-- **Il-Irion** : reprendre la piste avec Garick Alvaren ; lettre de la Guilde des Ports Unis (au nom de la Styrgie), rendez-vous samedi avant 9 h — Ysel, mot « registre du quai nord ».
+- **Il-Irion** : reprendre la piste avec Garrick Halvaren ; lettre de la Guilde des Ports Unis (au nom de la Styrgie), rendez-vous samedi avant 9 h — Ysel, mot « registre du quai nord ».
 - **Rumeur Arguétheim** : identifier qui la propage côté confédéral, où ça bloque, sabotage ou fuite contrôlée selon les ordres du Primat.
 - **Routes et mer** : orienter régate, escales, fret et rabais vers des intermédiaires d’Arthas et Ther-Félis alignés sur les objectifs fixés à Elfrion ; faciliter une prise d’influence sur l’UBI par cette porte plutôt qu’en attaquant la banque de front ; éviter l’embargo ouvert qui rallierait toute la Confédération.
 - **Appuis lointains** : entretenir les contacts utiles sans les exposer.
 - **Tripot** : comprendre pourquoi Marda Velyss résiste à la mafia et quels appuis (probablement hors Confédération) soutiennent la maison — ne pas forcer avant d’avoir des noms ; puis exploiter, négocier ou presser (couverture Questeur, Miraen en salle).
+- **Mercenaire survivant** : retrouver le mercenaire blessé réchappé de l’interception et le supprimer avant qu’il ne dénonce l’embuscade ou ne croise vos identités Questeur.
 
 ---
 

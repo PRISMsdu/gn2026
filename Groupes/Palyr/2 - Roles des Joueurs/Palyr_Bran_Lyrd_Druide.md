@@ -36,9 +36,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Bran Lyrd |
 | Rôle dans le groupe | Druide du cairn Lyrd ; voyage sous escorte de la délégation |
-| Classe / profession | Prêtre *(règlement — orga)* |
+| Classe / profession | Prêtre |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -119,18 +119,6 @@ Saevar te protège sans comprendre les druides. Il te demande de ne pas dispara�
 - Voyager sous escorte de la délégation et rentrer à Palyr avec le groupe ; ne pas laisser la pièce saisie comme simple curiosité de banque ou de tripot.
 - Rester hors du fil Fils du Levant / Tavish Kaironi.
 
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; tolère ta ligne si elle ne bloque pas régate ni banque ; comptes rendus courts. |
-| Ilara Vandesse | Diplomate ; votes banque — tu évites ses séances ouvertes. |
-| Lysa Morwyn | Trésorière ; lien par l'Oblat (ton frère) ; peut faciliter un accès sans partager ses dossiers. |
-| Thoran Keld | Marchand ; urgent sur Sfaal — tu le laisses sur son fil. |
-| Saevar Dren | Sécurité ; escorte ; te met en garde contre le Tripot. |
-| Maren Holt | Commandant ; Bibliothèque — traités armement vs textes anciens, créneaux parfois communs. |
-| Syndri Ashfeld | Herboriste ; mandat coffre UBI distinct ; tu refuses de mélanger les artefacts. |
-
 # Connaissances
 
 ## Artefact du cairn Lyrd — hommes à branchies
@@ -145,10 +133,10 @@ Avant ton départ, un article de presse du fort mentionnait des textes sur des p
 
 Torlann est un druide plus âgé, autrefois copiste pour la Bibliothèque sur les îles du Levant. Il boit trop, vit entre la basse ville et des dortoirs de confrères. On dit qu'il garde encore des souvenirs de classements et d'index. Tu dois le retrouver, le soutenir assez pour qu'il parle, sans le livrer aux gardes du fort comme trouble public.
 
-## Bibliothèque du fort — Maren et toi
-
-Maren Holt lit les traités et réquisitions sur l'armement pour le haut commandement. Toi, tu lis les chroniques et légendes sur les mers et les îles. Vous pouvez vous croiser aux mêmes tables sans mélanger les emprunts. Évite de signer à sa place ou de lui prêter ton artefact comme preuve militaire.
-
 ## Fils du Levant — hors de ta ligne
 
 Un courrier Tavish Kaironi a été remis au Conseil avant le départ. Corvyn et Saevar gèrent la réponse éventuelle. Tu n'as aucun lien avec ce regroupement. Si on te propose un rendez-vous « pour le fer et le serment », tu renvoies vers le chef de délégation.
+
+---
+
+*GN Krondaar 2026*

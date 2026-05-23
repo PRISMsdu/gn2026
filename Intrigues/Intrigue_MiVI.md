@@ -104,7 +104,7 @@ Les consignes peuvent exiger que la plupart des négociations « propres » (tra
 | Sangs de la Steppe / Guilde des Ports Unis | Réseau piloté (sensibilité : pression / sanction) | Interlocuteurs opérationnels ; comptes sur le fer, l’or pirates, les retards ; jamais égaux : le MiVI tient la ligne. |
 | Tripot (Marda, équipe) | Terrain + cible d’influence | Varek : plaque tournante ; addiction d’un agent = levier pour rivaux ; statut quo mafia–Tripot explosif à la régate. |
 | UBI | Cible + risque | Passation du conseil : pousser des nominations favorables à la réunion Arthas / Ther-Félis ; coffres et rapports « guerre » en parallèle ; méfiance avec le Tripot malgré flux communs. |
-| Palyr | Levier (fer, régate, commerce gris) | Opération fer Sfaal–Palyr (priorité) ; **Lucan** = envoyé secret vers **Thoran Keld** (lettre STY-547-PAL-THO-01, mot « cale close avant l’aube », pas Guilde sur ce fil) ; distinct du contact Garick / Il-Irion. |
+| Palyr | Levier (fer, régate, commerce gris) | Opération fer Sfaal–Palyr (priorité) ; **Lucan** = envoyé secret vers **Thoran Keld** (lettre STY-547-PAL-THO-01, mot « cale close avant l’aube », pas Guilde sur ce fil) ; distinct du contact Garrick Halvaren / Il-Irion. |
 | Sfaal | Observation + pression | Dossier sceau / fer ; corps d’armée et rumeur Argheteim. |
 | Arthas / Ther-Félis | Contacts pro-Styrgie | Séparatistes ou nuances utiles à long terme ; pas de reconnaissance publique de la mission. |
 | Renseignement militaire confédéral | Adversaire (piste Argheteim / rapports) | Cartographier, infiltrer, retourner ou exposer selon ordre. |
@@ -128,14 +128,14 @@ Le MiVI a constitué la cellule **séparément** (convocations dans une même sa
 | **Varro Selt** | Infiltrateur ou exécutant | Neutralisation, extraction, violence maîtrisée | *selon table* | *à compléter* |
 | **Miraen Talvas** | Couverture salles / interface Tripot | Accès crédible casino (tables, codes, flux) ; **secret orga** addiction + dettes + contact principal — voir « Secret de personnage » | *selon table* | *à compléter* |
 
-*(Si l’orga modifie le nombre de places à table, refusionner les rôles et réaligner le back partagé ; l’arc Tripot reste sur **une** fiche perso.)*
+*(Si l’orga modifie l’effectif du détachement, refusionner les rôles et réaligner le back partagé ; l’arc Tripot reste sur **une** fiche perso.)*
 
 ### Secret de personnage — contact Tripot, addiction, dettes (MJ + un PJ uniquement)
 
 - **Ne pas** recopier ce bloc dans `Back_groupe_MiVI.md` ni dans un document distribué à tout le groupe.
-- **Canon 2026** : le PJ concerné est **Miraen Talvas** — **contact principal** auprès du Tripot (crédibilité, accès tables, codes, visages) ; **addiction au jeu** ; **dettes** tenues par la maison ou des préteurs satellite — pression, rendez-vous imposés, faveurs, risque de **chantage** et de **fuite d’information** vers la mafia rivale, l’UBI ou des espions confédéraux. Pièce jouable : **RD-III-546-007** (cohérent avec **GC-III-547-007**, témoin Varek) — fichier `Contrats_et_Livres/RD-III-546-007.md` côté orga. *(Si un autre PJ reprend l’arc en table, mettre à jour ce paragraphe et la fiche.)*
-- Les **autres PJ** ne sont pas briefés dans le back commun : découverte **en jeu** ou brief MJ au cas par cas.
-- **Théven Corvel (chef)** : selon l’orga, briefé hors jeu sur l’existence du risque ou maintenu dans le flou jusqu’à incident.
+- **Canon 2026** : le PJ concerné est **Miraen Talvas** — **contact principal** auprès du Tripot (crédibilité, accès tables, codes, visages) ; **addiction au jeu** ; **dettes** tenues par la maison ou des préteurs satellite — pression, rendez-vous imposés, faveurs, risque de **chantage** et de **fuite d’information** vers la mafia rivale, l’UBI ou des espions confédéraux. Pièce jouable : **RD-III-546-007** (cohérent avec **GC-III-547-007**, témoin Varek) — fichier `Contrats_et_Livres/RD-III-546-007.md` côté orga. *(Si un autre PJ reprend l’arc, mettre à jour ce paragraphe et la fiche.)*
+- Les **autres PJ** n’ont pas ce détail dans le back commun : découverte **en scène** ou brief MJ au cas par cas.
+- **Théven Corvel (chef)** : selon l’orga, informé à part sur le risque ou maintenu dans le flou jusqu’à incident.
 
 ### Documents additionnels
 

@@ -8,7 +8,7 @@ Tu ne passes pas devant une table sans t’arrêter : le bruit des jetons, l’o
 
 Tu te dis qu’une main de plus suffira à tout rentrer dans l’ordre, puis tu enchaînes. Dette et honte restent en arrière-plan ; ce qui prime, c’est le frisson du pari et l’illusion du contrôle.
 
-Quand tu joues, tu dois l’afficher : une phrase de reconnaissance (voir plus bas). C’est ta marque, ta faiblesse visible, et le Tripot sait quoi en faire pour te garder à la table.
+Quand tu es aux tables, tu dois l’afficher : une phrase de reconnaissance (voir plus bas). C’est ta marque, ta faiblesse visible, et le Tripot sait quoi en faire pour te garder en salle.
 
 ## **Jeu Excellent**
 - **"Mes cartes brûlent mes doigts !"** 

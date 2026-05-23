@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Selvara Quenndral |
 | Rôle dans le groupe | Archiviste en chef — conseil ; registres, sceaux inter-cités, actes légaux |
-| Classe / profession | Archiviste / érudite *(règlement — orga)* |
+| Classe / profession | Archiviste / érudite |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -114,21 +114,13 @@ Le réseau érudit que tu as entretenu à l'extérieur reste une porte de sortie
 - **Copies personnelles** : protéger les copies des documents les plus compromettants que tu gardes pour toi ; elles ne partent pas dans le plan collectif.
 - **Réseau érudit** : maintenir les contacts extérieurs comme issue de secours si la situation se retourne avant la Régate.
 
-# Membres du groupe
 
-| Personnage | Interaction |
-|------------|-------------|
-| Edorian | Dépendance mutuelle : il a besoin de tes registres, tu as besoin de son plan. |
-| Ydria Ventoss | Contrainte quotidienne : ses mouvements doivent alimenter tes colonnes, pas l'inverse. |
-| Melian Torv | Collaboration fonctionnelle : il signe les bénédictions sur tes actes sans forcément lire les chiffres. |
-| Horgrim Dval | Peu de contact direct ; il tient les accès aux chambres closes que tu utilises pour les documents sensibles. |
-| Vaelric Dorn | Dossiers officiels contre bruit hors registre ; il couvre ce que tu mets sur papier avec le récit qu'il fait circuler. |
-| Kaelen Veynar | Peu de contact direct. |
-| Sybrel Dornik | Prudence : elle circule dans les espaces où tu travailles sur les archives sensibles. |
-| Corvus | Collaboration nécessaire sur les codes coffres et la passation matérielle. |
+
+---
+
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
-
 
 ## Registres officiels et registres internes — UBI
 
@@ -144,4 +136,4 @@ Tu as des contacts dans des cercles érudits à Sfaal et Il-Irion. Des archivist
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
+*GN Krondaar 2026*

@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Frère Melian Torv |
 | Rôle dans le groupe | Conseiller spirituel de l'UBI |
-| Classe / profession | Prêtre *(règlement — orga)* |
+| Classe / profession | Prêtre |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -116,21 +116,13 @@ Vaelric te surveille. Il a compris que ton réseau à Palyr est un risque potent
 - **Artefact** : trancher avec Edorian sur le sort de l'artefact avant que le nouveau conseil arrive et pose des questions.
 - **Sortie personnelle** : construire un récit défendable devant l'Église et devant Palyr qui te laisse une protection si le plan s'effondre.
 
-# Membres du groupe
 
-| Personnage | Interaction |
-|------------|-------------|
-| Edorian | Accord de travail sur l'artefact et la sortie ; opposition de façade en public sur les questions morales. |
-| Selvara Quenndral | Collaboration sur les actes : elle rédige, tu signes. Tu surveilles ce qu'elle retient pour elle. |
-| Ydria Ventoss | Opposition frontale sur la morale affichée ; peu de coordination directe mais dépendance sur ses signatures. |
-| Horgrim Dval | Respect mutuel de périmètre : tu lui passes les ordres de fermeture de salle quand la doctrine l'exige. |
-| Vaelric Dorn | Méfiance : il tient le bruit hors registre, y compris sur toi. Il surveille ton réseau Palyr. |
-| Kaelen Veynar | Peu de contact direct. |
-| Sybrel Dornik | Prudence : elle voit ce qui se passe dans les espaces que tu n'occupes pas. |
-| Corvus | Coordination sur les procédures pour les biens dont le dépôt exige une validation doctrinale. |
+
+---
+
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
-
 
 ## Fonction spirituelle aux comptoirs — UBI
 
@@ -161,4 +153,4 @@ Un objet est conservé dans les réserves sans être catalogué comme dépôt or
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
+*GN Krondaar 2026*

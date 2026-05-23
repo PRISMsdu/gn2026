@@ -36,9 +36,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Syndri Ashfeld |
 | Rôle dans le groupe | Herboriste mandaté par le Conseil de Palyr |
-| Classe / profession | Erudit *(règlement — orga)* |
+| Classe / profession | Erudit |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -79,7 +79,7 @@ Il y a cinq ans, une délégation religieuse dépose à l'UBI des reliques embal
 
 Le Conseil de Palyr te mandate officiellement comme herboriste de la délégation à Ulghart. La mission n'est pas de soigner les banquetiers. On te charge de retrouver un objet magique de grande puissance que le directeur général sortant de la banque détient ou a classé en lien avec le coffre délégué de Palyr.
 
-On te le dit clairement : ce mandat est distinct de la ligne de Bran Lyrd sur le cairn. Bran a trouvé une pièce gravée sur le site druidique de Palyr. Toi, tu cherches ce que la cité a confié à la banque et ce que des années de dépôts discrets ont pu mélanger avec d'autres natures de biens.
+On te le dit clairement : ce mandat est distinct du dossier de Bran Lyrd sur le cairn. Bran a trouvé une pièce gravée sur le site druidique de Palyr. Toi, tu cherches ce que la cité a confié à la banque et ce que des années de dépôts discrets ont pu mélanger avec d'autres natures de biens.
 
 Tu n'es pas trésorière. Lysa Morwyn tient le mandat du coffre signé par l'Oblat. Tu travailles à ses côtés quand il faut décrire une substance ou contester une case de registre. Corvyn arbitre si la diplomatie banque prend le pas sur ton enquête.
 
@@ -113,20 +113,8 @@ Bran est un allié de circonstance sur le voyage, pas un coéquipier. Respect mu
 
 - Retrouver l'objet magique de grande puissance lié au coffre de Palyr à l'UBI : identifier sa nature, qui le détient, sous quel sceau il est classé, et si Edorian peut le faire bouger avant la passation.
 - Travailler avec Lysa sur les descriptions de dépôt et les accès coffre ; ne pas brûler son mandat par une fausse étape en séance publique.
-- Rester distinct de la ligne Bran sur l'artefact du cairn Lyrd.
+- Rester distinct du dossier Bran sur l'artefact du cairn Lyrd.
 - Aider Palyr à récupérer ou sécuriser l'objet sans que la presse d'Ulghart transforme l'affaire en scandale avant que Corvyn ait tranché.
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; veut des faits, pas du folklore ; arbitre le rythme des révélations. |
-| Ilara Vandesse | Diplomate ; risque de brûler les accès coffre si elle sort trop tôt des preuves. |
-| Lysa Morwyn | Trésorière ; mandat Oblat sur le coffre — ta principale alliée pour les accès UBI. |
-| Thoran Keld | Marchand ; Dolmen Rouge et fret — contact indirect via Lysa et Maren. |
-| Saevar Dren | Sécurité ; surveille les sorties ; Tripot hors de ton périmètre. |
-| Maren Holt | Commandant ; Arguetheim ; croisement possible aux registres militaires et dépôts. |
-| Bran Lyrd | Druide ; artefact du cairn Lyrd — lignes séparées, pas de mélange avec ton mandat. |
 
 # Connaissances
 
@@ -146,6 +134,6 @@ Melian signe des engagements sur des dépôts sensibles. Il n'est pas ton allié
 
 Selvara rédige les actes et tient les registres des chambres closes. Elle peut ouvrir une lecture ou bloquer une demande. Horgrim peut fermer la zone. Tu as besoin d'un créneau où les trois ne se contredisent pas sur le papier.
 
-## Bran Lyrd — artefact du cairn (ligne distincte)
+---
 
-Bran a trouvé sur le site Lyrd une pièce gravée de figures d'hommes à branchies. Ce n'est pas ton objet de mandat. Une gazette d'Ulghart a fait le lien avec des textes anciens ; Bran va à la Bibliothèque pour ça. Tu ne mélanges pas les dossiers devant les greffes.
+*GN Krondaar 2026*

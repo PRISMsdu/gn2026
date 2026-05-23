@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ysel Marivent |
 | Rôle dans le groupe | Renseignement ; priorité UBI — coffres, archives, codes pièce |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Diplomate |
+| Compétences | Erudit ; Torture |
 | Groupe | MiVI (service du Primat, couverture civile) |
-| Points de vie | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -69,7 +70,7 @@ Arrimeurs et copistes : ta lignée. Pas d'académie, pas de blason. Tu as appris
 
 On t'a prise pour les doubles livres. Trois ans à apprendre l'Union bancaire d'Il-Irion sans jamais assez t'exposer pour te brûler : couloirs, initiales sur des bordereaux, heures où les coffres respirent différemment. Tu as construit une carte dans la tête — salles, signatures, angles morts. Tu appelles ça tes archives mentales. Ce n'est pas une pose. C'est un outil. Quand quelqu'un y met la main sans méthode, tu vois rouge plus vite que raison.
 
-Le Primat ne t'a pas promis des médailles. Il t'a promis des concurrents : services confédéraux, banquiers nerveux, espions de salon qui veulent les mêmes pièces que toi. Tu as signé pour la ligne qu'on ne hisse pas. La Styrgie ne veut pas seulement de l'or dans ses caisses : elle veut que la Confédération ne se referme pas en un bloc lisse avant qu'Elfrion ait posé ses leviers — conseil UBI, flux, preuves qui pèsent sur Arthas et Ther-Félis sans casser la table assez fort pour déclencher l'embargo qui rallierait toutes les cités contre la République.
+Le Primat ne t'a pas promis des médailles. Il t'a promis des concurrents : services confédéraux, banquiers nerveux, espions de salon qui veulent les mêmes pièces que toi. Tu as signé pour le drapeau qu'on ne hisse pas. La Styrgie ne veut pas seulement de l'or dans ses caisses : elle veut que la Confédération ne se referme pas en un bloc lisse avant qu'Elfrion ait posé ses leviers — conseil UBI, flux, preuves qui pèsent sur Arthas et Ther-Félis sans déclencher l'embargo qui rallierait toutes les cités contre la République.
 
 Tu sais ce que coûte l'outil mafia / Guilde. Tu le distingues du résultat : si les dossiers ne bougent pas, ce sont des morts futures en moins de phrases sur un rapport.
 
@@ -85,7 +86,7 @@ Trente-cinq ans environ. Citadelle d'Ulghart, île d'Il-Irion, Convention. Ton t
 
 Premier lot : traquer ce qui pourrait documenter une guerre imminente contre la Styrgie — avant qu'un concurrent confédéral ne l'emploie pour verrouiller opinion et budgets, ou avant que la transition de mandat ne referme les tiroirs que tu peux encore ouvrir. Localiser, substituer, effacer : Théven tranche le cadre ; toi tu exécutes le réel côté papier et sceau.
 
-Deuxième lot : cartographier la chaîne or vers Argheteim — qui croit, qui paie, où ça bloque — pour recommander sabotage, fuite contrôlée ou exploitation selon ce que la ligne peut porter sans bruit excessif.
+Deuxième lot : cartographier la chaîne or vers Argheteim — qui croit, qui paie, où ça bloque — pour recommander sabotage, fuite contrôlée ou exploitation — selon ce qu'Elfrion peut absorber sans bruit excessif.
 
 Troisième lot : soutenir sur documents la pente voulue vers Arthas et Ther-Félis — qui entre au conseil, quels flux, quels doubles. Le Tripot t'envoie parfois des odeurs utiles ; tu ne confonds jamais rumeur de salle et preuve qui tient devant un juge ou un comité.
 
@@ -95,7 +96,7 @@ La Confédération gagne quand elle peut dire « nous » sans mentir. Ton métie
 
 ## Chapitre V : Le réseau et les relations
 
-Théven : cadre et brûlage. Lucan : portes sociales ; tu vérifies ce que la conversation prétend. Varro : quand le stylo s'arrête et que le bois ne cède pas assez vite. Miraen : flux et dettes d'élite au Tripot ; tu recoupes toujours. Tu ne résumeras pas l'orga à table sans cadre : les angles personnels du casino ne sont pas des bulletins à distribuer gratuitement.
+Théven : cadre et brûlage. Lucan : portes sociales ; tu vérifies ce que la conversation prétend. Varro : quand le stylo s'arrête et que le bois ne cède pas assez vite. Miraen : flux et dettes d'élite au Tripot ; tu recoupes toujours. Tu ne résumeras pas Elfrion en conseil sans cadre : les angles personnels du casino ne sont pas des bulletins à distribuer gratuitement.
 
 Tu te dois de ne pas confondre copie propre et vérité. Tu te dois de ne pas brûler une source par zèle quand la patience laisse la Styrgie respirer un jour de plus. La mission est simple à dire et dure à tenir : ramener des noms et des chaînes, pas des histoires qui sonnent bien au souper.
 
@@ -107,18 +108,7 @@ Si tu échoues, ce n'est pas une phrase de rapport qui meurt : c'est la marge qu
 
 - **Localiser ou neutraliser** les preuves « guerre imminente » supposées à l'UBI (coffres, archives conseil, correspondances) — avant ou pendant la transition de mandat.
 - **Cartographier** la chaîne or → Argheteim et recommander : sabotage, fuite contrôlée, exploitation.
-- **Soutenir la ligne** Arthas / Ther-Félis sur le plan documentaire : qui nominate, quels flux, quels doubles.
-
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|---------------------------------------------------------------------|
-| Théven Corvel | Hiérarchie claire — il tranche les arbitrages hors preuve ; toi tu cadres le réel côté UBI. |
-| Lucan Drest | Complémentarité — il détient la conversation, tu vérifies ce que la conversation prétend. |
-| Varro Selt | Appui quand l'accès ne se gagne plus au stylo — coordination serrée, pas de doublon inutile. |
-| Miraen Talvas | Source indirecte sur flux et dettes d'élite au Tripot — recoupe toujours. |
-
+- **Soutenir le rapprochement** Arthas / Ther-Félis sur le plan documentaire : qui nominate, quels flux, quels doubles.
 
 # Connaissances
 
@@ -144,8 +134,7 @@ Piste matérielle ; rumeur fer / guerre à cartographier. Pièce : RA-III-546-00
 
 
 
-Une **rumeur** court sur de l’**or** converti en métal de guerre (**Arguétheim**) pour compenser le fer médiocre côté confédéral : vous devez **cartographier** qui croit quoi et qui paie quand la situation bouge, sans tout prendre pour avéré. 
-
+Une **rumeur** court sur de l’**or** converti en métal de guerre (**Arguétheim**) pour compenser le fer médiocre côté confédéral : vous devez **cartographier** qui croit quoi et qui paie quand la situation bouge, sans tout prendre pour avéré.
 
 ---
 

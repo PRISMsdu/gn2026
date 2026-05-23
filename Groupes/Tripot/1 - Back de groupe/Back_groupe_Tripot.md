@@ -15,7 +15,7 @@ Le **Tripot** est le casino du **fort d’Ulghart**, sur **Il-Irion**. Il foncti
 
 Pour vous, le Tripot ce n’est pas seulement un contrat : c’est le bruit des jetons le soir, l’odeur du tabac et du bois ciré, les visages qui reviennent par habitude et ceux qui entrent une fois pour tout perdre. Vous repérez vite qui bluffe, qui compte, qui observe les coffres sans jouer. Dix ans, c’est assez long pour que des alliances tiennent sans serment public et assez long pour qu’un malentendu en salle coûte cher à toute la maison.
 
-Vous êtes **dix** — **six femmes** et **quatre hommes**.
+Vous êtes **onze** — **sept femmes** et **quatre hommes**.
 
 ---
 
@@ -25,11 +25,13 @@ Il y a dix ans, l’**Union bancaire** a mis fin à une direction précédente d
 
 **Marda Velyss** a pris le contrat en premier. Elle n’a pas reçu un titre honorifique : elle a reçu des **chiffres**, des échéances et une part du résultat. Elle a signé en sachant qu’une erreur de chiffre ou de ton avec la banque peut fermer une salle en quelques jours : vous le lui rappelez encore quand une décision se prend à la hâte.
 
-Elle a monté l’équipe sans tapage inutile. **Ardan Trevil**, issu des cercles de jeu d’**Ascanir**, tient la sécurité **à l’intérieur du Tripot** : salles et accès du casino, pas les murailles du fort ni la garnison générale. Il sait calmer une altercation sans faire monter l’affaire jusqu’aux autorités du fort : pour vous, c’est aussi important que gagner un tournoi. Les sœurs **Sira** et **Lira Vestrann**, venues de **Palyr**, tiennent les tables. Leur voix et leurs mains rythment la salle ; entre elles, la rivalité est une habitude de famille autant qu’un levier pour le spectacle. **Varek** assure pistage, quai et coulisses : qui entre, qui ment, qui revient trop souvent. Il rapporte ce qu’il voit sans dramatiser : Marda préfère un fait mal fichu à une belle histoire inutile. **Lydwen** tient les tirages et lectures où la patronne cadre avec vous ce qui peut tenir pour vérité utile en salle. **Éliane** gère les **paris**, en particulier autour de la mer et de la **régate**. **Ysabeau** tient les salons où les signatures valent autant que les mises ; une phrase mal placée au bon salon peut valoir une dette qu’aucune table ne paiera à votre place.
+Elle a monté l’équipe sans tapage inutile. **Ardan Trevil**, issu des cercles de jeu d’**Arthas**, réfugié à Il-Irion après un mort chez les **Darsen** — Marda l’a fait venir depuis l’île — tient la sécurité **à l’intérieur du Tripot** : salles et accès du casino, pas les murailles du fort ni la garnison générale. Il sait calmer une altercation sans faire monter l’affaire jusqu’aux autorités du fort : pour vous, c’est aussi important que gagner un tournoi. Les sœurs **Sira** et **Lira Vestrann**, venues de **Palyr**, tiennent les tables. Leur voix et leurs mains rythment la salle ; entre elles, la rivalité est une habitude de famille autant qu’un levier pour le spectacle. **Varek** assure pistage, quai et coulisses : qui entre, qui ment, qui revient trop souvent. Il rapporte ce qu’il voit sans dramatiser : Marda préfère un fait mal fichu à une belle histoire inutile. **Lydwen** tient les tirages et lectures où la patronne cadre avec vous ce qui peut tenir pour vérité utile en salle. **Éliane** gère les **paris**, en particulier autour de la mer et de la **régate**. **Ysabeau** tient les salons où les signatures valent autant que les mises ; une phrase mal placée au bon salon peut valoir une dette qu’aucune table ne paiera à votre place.
 
 **Soren** est arrivé comme alchimiste et homme de main : potions, interventions discrètes. Le groupe a traité son passé comme une chose à ne pas étaler en salle ; au Tripot, la confiance se mesure aussi aux informations que chacun garde. Vous savez que certaines questions sur lui dépassent le registre du casino : la maison a choisi de protéger le travail collectif plutôt que le curieux qui poserait trop de questions au bar.
 
 Quand les flux ont augmenté, **Fenric Ossel** a pris les **registres** : livres visibles pour l’UBI, totaux pour la patronne, et ce que toute maison sérieuse sort des livres officiels. Les chiffres sont devenus un métier à part entière ; Fenric et Marda se parlent souvent à voix basse avant les grandes soirées.
+
+**Guelievre Marech**, que Marda a rappelée de sa retraite, tient la **gouvernante** : réserves, service, couloirs. Elle connaissait l’ancien casino ; elle parle fort, à tout le monde. Quand la nuit dérape, c’est elle qui **tient la baraque** ; quand Marda dit que c’est **trop tard**, c’est elle qui **vide** les couloirs et pousse le monde vers la sortie.
 
 Après travaux, le casino a rouvert. Les premières semaines, vous avez senti le relief des équipes : des salles enfin pleines, des clients qui testent la nouvelle maison, des pertes et des gains qui confirment que le Tripot redevient un nom qu’on cite sur le quai. Les tournois et les paris maritimes ont rapporté des marges ; la banque encaissait sa part visible ; la maison aussi.
 
@@ -43,7 +45,7 @@ Pendant plusieurs années, le Tripot a rempli son rôle : encaisser, tenir les s
 
 **Sira** et **Lira** maîtrisent la dynamique des tables ; leur rivalité entre sœurs fait partie du spectacle pour les clients et une contrainte de coordination pour Marda. Quand elles se contredisent en pleine salle, ce n’est pas seulement du théâtre : chaque cliente fortunée choisit son camp pour la soirée, et la maison doit encaisser le résultat.
 
-**Éliane** calibre les **cotes** pour entraîner la salle sans exposer la mécanique. **Ysabeau** gère les salons où une phrase trop tôt peut coûter une alliance. **Lydwen** fournit des lectures exploitables quand Marda doit trancher — pas pour embrouiller la table, mais pour donner un cadre quand la décision refuse d’être purement comptable. **Soren** reste hors lustre : réactifs, discipline ; on l’appelle quand une dispute dépasse ce qu’une simple mise ou un règlement public peuvent encore contenir. **Fenric** sépare ce qui doit tenir devant un auditeur de ce qui tient devant la caisse interne.
+**Éliane** calibre les **cotes** pour entraîner la salle sans exposer la mécanique. **Ysabeau** gère les salons où une phrase trop tôt peut coûter une alliance. **Lydwen** fournit des lectures exploitables quand Marda doit trancher — pas pour embrouiller la salle, mais pour donner un cadre quand la décision refuse d’être purement comptable. **Soren** reste hors lustre : réactifs, discipline ; on l’appelle quand une dispute dépasse ce qu’une simple mise ou un règlement public peuvent encore contenir. **Fenric** sépare ce qui doit tenir devant un auditeur de ce qui tient devant la caisse interne.
 
 Vous avez vécu ces années comme une suite de services bien rendus : dettes honorées côté maison quand il le fallait, clients VIP flattés, crises étouffées avant l’aube. La routine n’a pas effacé la vigilance ; elle vous a habitués à vous parler vite quand quelque chose cloche.
 
@@ -87,7 +89,7 @@ Le Tripot vous donne encore une base de travail : une salle active, une équipe,
 - **Régate** : paris, cotes, **juges** en fonction d'intérêts plus ou moins bien payés.
 - **Mafia** : négocier trêve, prix ou terrain d’entente sans tout donner s'ils refuse.
 - **Palyr** ou tout autre : trouver de l’aide à la fuite contre contreparties ou mieux encore, rester sur place et tenir avec les bons appuis. Ceci signifiera probablement d'autres arrangements.
-- **UBI** : tenir la ligne avec ce qui paye encore ; ne pas gaspiller les leviers avant la caisse.
+- **UBI** : tenir le cap avec ce qui paye encore ; ne pas gaspiller les leviers avant la caisse.
 - **Image** : rester une maison qui gagne jusqu’au moment de partir — éviter scandale inutile avant l’encaissement.
 
 ---
@@ -96,13 +98,14 @@ Le Tripot vous donne encore une base de travail : une salle active, une équipe,
 
 | Nom | Fonction | Joueur |
 |-----|----------|--------|
-| Marda Velyss | Patronne — stratégie, négociations  | *Joueur* |
-| Ardan Trevil | Capitaine des gardes — sécurité du Tripot | *Joueur* |
-| Sira Vestrann | Croupière — sœur de Lira | *Joueur* |
-| Lira Vestrann | Croupière — sœur de Sira | *Joueur* |
-| Varek | Pisteur — filatures, quai, coulisses | *Joueur* |
-| Lydwen | Oracle, cartes | *Joueur* |
+| Marda Velyss | Patronne — stratégie, négociations  | Lise |
+| Ardan Trevil | Capitaine des gardes — sécurité du Tripot | Mathieu |
+| Sira Vestrann | Croupière — sœur de Lira | Lucile |
+| Lira Vestrann | Croupière — sœur de Sira | Marion |
+| Varek | Pisteur — filatures, quai, coulisses | Sam |
+| Lydwen | Oracle, cartes | Corinne |
 | Éliane | Maîtresse des paris — régate | *Joueur* |
-| Ysabeau | Hôtesse — VIP, salons | *Joueur* |
-| Soren | Homme de main, alchimiste | *Joueur* |
-| Fenric Ossel | Maître des registres | *Joueur* |
+| Ysabeau | Hôtesse — VIP, salons | Marina |
+| Soren | Homme de main, alchimiste | Léo |
+| Fenric Ossel | Maître des registres | Thierry |
+| Guelievre Marech | Gouvernante — réserves, service, rapport à Marda | Geneviève |

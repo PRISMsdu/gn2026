@@ -8,7 +8,7 @@
 - **Âge** : 34 ans
 - **Origine géographique** : Ther-Félis (famille de **pilotes** et de **messagers** discrets)
 - **Classe / Profession** : **Marin** ; **skipper** ; **homme de main** pour les opérations **sensibles**
-- **Rôle dans le groupe** : **Régate** (coéquipier / rotation avec Joric selon la table) ; **responsable désigné** du **soudoiement** des **juges** de la régate — **sous validation** du chef de clan ; **intimidation** ciblée
+- **Rôle dans le groupe** : **Régate** (coéquipier / rotation avec Joric selon les courses) ; **responsable désigné** du **soudoiement** des **juges** de la régate — **sous validation** du chef de clan ; **intimidation** ciblée
 
 ## Apparence et Caractère
 
@@ -41,7 +41,7 @@
 ## Relations et Réseau
 
 - **Joric Tann** : **Partenaire** de pont ; risque de **fracture** si Joric découvre des **méthodes** qu'il juge **déshonorantes**
-- **Rauth Kaelmar** : Chaîne de **commandement** claire — Sven n'agit **pas** sans feu vert **implicite** ou **explicite** selon ce que la table décide
+- **Rauth Kaelmar** : Chaîne de **commandement** claire — Sven n'agit **pas** sans feu vert **implicite** ou **explicite** de Rauth
 - **Juges de la régate** : Cibles de **corruption** — profils à définir par les MJ (avidité, dette, famille)
 - **Mafia / réseaux portuaires** : Il peut **croiser** des intermédiaires **gris** sans savoir qu'ils relèvent des **Sangs** — *cf.* Guilde des Ports Unis
 
@@ -58,7 +58,7 @@
 
 ### Objectifs secrets
 
-- Il a déjà utilisé des **contacts** d'un autre **port** pour des **faveurs** — dette **croisée** avec l'intrigue **mafia** ou **guilde** si la table l'active
+- Il a déjà utilisé des **contacts** d'un autre **port** pour des **faveurs** — dette **croisée** avec la **mafia** ou la **guilde** si l'orga active ce fil
 
 ## Intégration au Groupe
 

@@ -154,7 +154,7 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Soren | Brigade noire | Traque et arrestation ; indices matériels ; scènes d’arrestation avec l’orga. |
 | Fenric Ossel | Audit / registres UBI | Double ligne comptable avec Marda ; archives banque si scène au coffre central. |
 | Marda Velyss | Corvyn Valdrak (Palyr) | Elle défend le Tripot et les accords de fuite ; il veut réduire ou fermer le casino — ligne politique opposée. |
-| Lira Vestrann | Joric Tann (Ther-Félis) | Dettes et paris : levier déjà tablé côté Ther-Félis ; garder si la table le joue encore. |
+| Lira Vestrann | Joric Tann (Ther-Félis) | Dettes et paris : levier déjà tablé côté Ther-Félis ; actif tant que Joric revient au Tripot. |
 
 ---
 

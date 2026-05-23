@@ -21,7 +21,7 @@ Un envoyé de la République de Styrgie vous contactera sur place. Il prononcera
 
 **Rendez-vous proposé**
 
-- **Lieu** : quai marchand du fort d’Ulghart, près des entrepôts de fret.
+- **Lieu** : quai du fort d’Ulghart.
 - **Jour** : vendredi soir de la Convention.
 - **Heure** : après la tombée du jour, avant la clôture des accès de nuit.
 

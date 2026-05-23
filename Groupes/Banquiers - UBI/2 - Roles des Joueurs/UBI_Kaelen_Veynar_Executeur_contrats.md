@@ -38,9 +38,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Kaelen « Griffes-de-Fer » Veynar |
 | Rôle dans le groupe | Exécuteur de contrats — recouvrement, pression, réseau d'influence |
-| Classe / profession | Guerrier *(règlement — orga)* |
+| Classe / profession | Guerrier |
 | Groupe | Banquiers — UBI |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -120,21 +120,13 @@ Kaelan Thormane et les Sangs de la Steppe ont croisé tes réseaux de recouvreme
 - **Poste de chef de garde** : si Horgrim part dans les formes, te positionner pour que la passation te laisse en place ou que tu sortes avec un titre reconnu.
 - **Recouvrement final** : solder les dernières créances actives avant la passation pour que rien ne remonte vers toi par une procédure en cours.
 
-# Membres du groupe
 
-| Personnage | Interaction |
-|------------|-------------|
-| Horgrim Dval | Mentor et obstacle : il t'a formé, il tient le poste que tu veux. |
-| Edorian | Respect mutuel : tu as fait le travail sale, il le sait. |
-| Sybrel Dornik | Collaboration de terrain sans affect ni questions inutiles. |
-| Vaelric Dorn | Peu de contact direct ; utile quand une affaire doit rester discrète dans la ville. |
-| Selvara Quenndral | Peu de contact direct. |
-| Ydria Ventoss | Peu de contact direct ; vos fils se croisent sur des recouvrements où les dettes passaient aussi par le comptoir. |
-| Melian Torv | Peu de contact direct. |
-| Corvus | Peu de contact direct ; mêmes corridors, pas même chaîne de commandement. |
+
+---
+
+*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
-
 
 ## Recouvrement et dossiers nobles — UBI
 
@@ -150,4 +142,4 @@ Le chef des Sangs a croisé tes réseaux de recouvrement plusieurs fois. Il sait
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
+*GN Krondaar 2026*

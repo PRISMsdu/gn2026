@@ -36,9 +36,9 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Maren Holt |
 | Rôle dans le groupe | Commandant militaire de la délégation |
-| Classe / profession | Guerrier *(règlement — orga)* |
+| Classe / profession | Guerrier |
 | Groupe | Palyr |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -106,6 +106,16 @@ Saevar tient la sûreté. Tu lui fais confiance pour les escortes et les salles 
 
 Bran et Syndri ne sont pas sous ton commandement. Bran voyage pour le cairn et une pièce trouvée sur le site. Syndri poursuit un objet en lien avec les coffres. Le Conseil les a ajoutés ; tu leur laisses leurs lignes tant qu'ils ne bloquent pas la délégation.
 
+## Chapitre VI : Les Cinq Feux (secret — MJ)
+
+Avant le départ pour Ulghart, le haut commandement t'a remis deux pièces. La **note de situation** (*La guerre qui couve*, réf. BDL-547-SIT-01) décrit le contexte, le dispositif des Lignes et les priorités — à garder entre Feux. L'**ordre de commission** (**ORD-HCM-547-CIN-MAR-01**) te nomme directeur des **Cinq Feux** : tu restes commandant militaire visible pour Palyr, et tu peux **montrer** cet ordre aux chefs militaires des cinq cités pour obtenir escortes ou, en **crise** déclarée, **réquisitionner** détachements, garde du fort (avec Horgrim Dval) et garde UBI — quarante-huit heures, renouvelable une fois par la chancellerie. Corvyn et la délégation ne connaissent pas la note de situation ; l'ordre de commission peut circuler si tu en as besoin.
+
+Les Cinq Feux, ce sont cinq officiers de liaison — un par cité membre — placés dans les délégations officielles sous couverture civile ou militaire. Toi, tu portes la ligne Palyr. **Isara Dornelis** tient Il-Irion. **Sven Orlac** tient Ther-Félis. **Bastion Kharvek** tient Arthas. **Grisbe Jab-fer** tient Sfaal.
+
+La délégation de Palyr ne sait rien. Corvyn, Lysa, Thoran et les autres te voient sur l'Arguétheim, le fer et les registres militaires ; ils ne doivent pas deviner que tu convoques aussi les autres Feux.
+
+Sur le week-end de la Convention, c'est à toi d'**organiser** leurs actions communes : rendez-vous discrets, ordre du jour partagé, remontées vers le haut commandement sans mélanger les chaînes avec ton mandat public Arguétheim. Tu fixes qui parle à qui, quand, et ce qui remonte en une seule voix. Si un Feu manque ou hésite, tu tiens la coordination jusqu'à la fin du week-end.
+
 ---
 
 # Tes missions et objectifs
@@ -115,23 +125,7 @@ Bran et Syndri ne sont pas sous ton commandement. Bran voyage pour le cairn et u
 - Fer Sfaal : porter en public le dossier du dernier chargement aux côtés de Thoran ; chercher où la chaîne a rompu sans pousser Palyr à une rupture sans preuve.
 - Bibliothèque : lire les traités et réquisitions sur l'armement ; croiser ce que tu trouves avec les lettres scellées du haut commandement.
 
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|-------------|
-| Corvyn Valdrak | Chef de délégation ; priorités fer et Arguetheim ; tu remontes, il valide la réception. |
-| Ilara Vandesse | Diplomate ; tu lui demande de ne pas brûler le timing banque avant les coffres. |
-| Lysa Morwyn | Trésorière ; Gorvan, achat Arguetheim, papiers — tu signes la réception militaire. |
-| Thoran Keld | Marchand et capitaine ; fret, Sfaal, quais — alignement obligatoire sur le dernier chargement. |
-| Saevar Dren | Sécurité ; escortes ; Tripot à distance tant que ça ne touche pas le métal. |
-| Syndri Ashfeld | Herboriste ; mandat coffre distinct ; coordination minimale. |
-| Bran Lyrd | Druide ; hors chaîne de commandement ; Bibliothèque parfois en commun avec ton mandat armement. |
-
 # Connaissances
-
-## Mandat Oblat — direction de Corvyn et Arguetheim
-
-L'Oblat a investi Corvyn Valdrak d'un mandat général sur la délégation à la Convention. Corvyn te délègue les dossiers militaires et d'armement, dont l'Arguetheim demandé par le haut commandement pendant que le fer ordinaire échoue. Tu réceptionnes le métal, tu vérifies ou tu fais vérifier sa qualité, tu dresses procès-verbal — mais tu ne peux pas outrepasser Corvyn : ses ordres priment, il valide les réceptions et tranche avec Lysa si besoin. Lysa signe les paiements. La vente doit être conclue au plus tard en fin de journée du samedi de la Régate.
 
 ## Hanse des Lames — contacts à retrouver à Ulghart
 
@@ -151,3 +145,7 @@ Lysa l'a mandaté à Ther-Félis pour trouver de l'Arguetheim. Gorvan doit livre
 ## Dernier chargement Sfaal — Palyr
 
 Sceaux conformes au départ. Creusets défectueux à Palyr. Sfaal et Palyr s'accusent sans preuve claire sur la route. Tu cherches transbordement, mélange ou substitution entre le quai scellé et les fours, sans forcer une accusation publique prématurée.
+
+---
+
+*GN Krondaar 2026*

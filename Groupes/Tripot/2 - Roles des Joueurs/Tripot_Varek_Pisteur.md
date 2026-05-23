@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Varek |
 | Rôle dans le groupe | Pisteur — filatures, signaux, quai et coulisses |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Guerrier |
+| Compétences | Apnée ; Secourisme |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -87,28 +88,22 @@ Tu as surveillé des **clients** suspects, filé des **ombres** qui ne voulaient
 - **Soutenir la régate** : signaux discrets, mouvements de foule, quai.
 - **Protéger les opérations** discrètes du groupe — sans devenir le héros visible.
 
-## Relations clés à exploiter
 
-### Membres du Tripot
-
-| Personnage | Lien |
-|------------|------|
-| Ardan Trevil | Supérieur direct (sécurité du casino) — tu rends compte, tu proposes. |
-| Sira & Lira Vestrann | Tables — tu confirmes ce qu'elles soupçonnent. |
-| Éliane | Paris / parieurs — même flux, autres angles. |
-| Soren | Opérations discrètes — chimie et ombre en soutien. |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Informateurs | Confédération, quais | Réseau | À construire en jeu ; routes de régate, escales et intermédiaires — rester aligné avec ce que vivent les autres groupes sur le quai. |
-| Ombre / relais | Sangs ↔ UBI (indice) | Veille | Messages codés entre réseaux (Sybrel, « nid ») — utile pour **comprendre** des rotations sans tout exposer. |
 
 ## Informations sensibles
 
 - **Trop voir** peut te rendre monnaie d'échange — tu partages avec **Marda** / **Ardan** selon gravité.
 - Ne pas **doubler** seul une confrontation mafia — tu n'es pas la ligne politique du groupe.
+
+# Connaissances
+
+## Informateurs — Confédération, quais
+
+À construire en jeu ; routes de régate, escales et intermédiaires — rester aligné avec ce que vivent les autres groupes sur le quai.
+
+## Ombre / relais — Sangs ↔ UBI (indice)
+
+Messages codés entre réseaux (Sybrel, « nid ») — utile pour **comprendre** des rotations sans tout exposer.
 
 ---
 

@@ -4,7 +4,7 @@
   DOCUMENT JOUEUR — remis à TOUT LE GROUPE (rôle collectif).
   Chaîne : `Intrigues/Intrigue_Palyr.md` (orga) → ce fichier → `Groupes/Palyr/2 - Roles des Joueurs/Palyr_*_*.md` (nom du personnage + rôle dans la délégation).
   Croisements avec d’autres groupes : `Groupes/Palyr/interactions du groupe Palyr.md` ; CSV orga : `Groupes/Palyr/1 - Back de groupe/interactions_Palyr_vers_autres_groupes.csv`.
-  Style : `Groupes/_templates/Style.md` ; skill `.cursor/skills/redaction-gn/`.
+  Style : skill `.cursor/skills/redaction-gn/` (référence Marda Velyss / codex Trois Îles).
   Mise en forme impression : `Scripts/` — back_groupe_print.css, back_groupe_shell.html, export_back_groupe.ps1.
 -->
 

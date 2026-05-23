@@ -98,7 +98,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 
 ## Secrets et informations sensibles
 
-- **Styrgie / MiVI** : connu des cadres ; révélation progressive possible pour les autres groupes à la table.
+- **Styrgie / MiVI** : connu des cadres ; révélation progressive possible pour les autres délégations en scène publique.
 - **Leurre tchélène / steppe** : couverture extérieure ; pas la confusion interne au réseau.
 - **Pression MiVI** : relances si les dossiers majeurs (Tripot, UBI, preuves, fer) stagnent encore.
 - **Coffres UBI** : pièces d’archive (codes pièce `TT-R-YYY-NNN`), fil Valdris, dossiers « guerre » ou compromettants pour la Styrgie.

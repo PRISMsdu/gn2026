@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ysabeau |
 | Rôle dans le groupe | Hôtesse — VIP, charmes, salons où l'on signe |
-| Classe / profession | *(règlement — orga)* |
+| Classe / profession | Voleuse |
+| Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
-| Points de vie | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -87,28 +88,22 @@ Dix ans au Tripot : **VIP** amenés jusqu'aux **tables** et aux **accords** ; co
 - **Faciliter négociations** mafia / banque / Palyr par le **salon** — sans humiliation publique des chefs.
 - **Soutenir la régate** : charmes sur **juges** ou **parieurs** selon ligne **Marda**.
 
-## Relations clés à exploiter
 
-### Membres du Tripot
-
-| Personnage | Lien |
-|------------|------|
-| Éliane | Partenaire paris / flux — tu amènes, elle **cote**. |
-| Sira & Lira Vestrann | Chaîne VIP → tables — vous **fermez** la boucle. |
-| Marda Velyss | Tu ne promets **pas** hors son cadre. |
-| Lydwen | Angles mystiques — à traduire en **rendez-vous**. |
-
-### Contacts extérieurs
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Melian Torv | UBI — conseiller | Pont Palyr / foi | Même fil que **Lydwen** : recouper avant toute scène **coffre** commune. |
-| Notables Il-Irion | Clientèle VIP | Dettes & rumeurs | Dossiers internes du Tripot ; rumeurs et dettes de salon. |
 
 ## Informations sensibles
 
 - **Charme** trop visible = **cible** — tu coordonnes avec **Ardan** / **Varek**.
 - Les **promesses** non écrites avec **Palyr** doivent être **scellées** en jeu — sinon elles s'évaporent.
+
+# Connaissances
+
+## Melian Torv — UBI — conseiller
+
+Même fil que **Lydwen** : recouper avant toute scène **coffre** commune.
+
+## Notables Il-Irion — Clientèle VIP
+
+Dossiers internes du Tripot ; rumeurs et dettes de salon.
 
 ---
 

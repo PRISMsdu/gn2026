@@ -26,4 +26,4 @@ Chaque ligne part des **fiches PJ** (section Connaissances) ; les arbitrages int
 | Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas confondre avec l’angle chimique de Drask sur un même fil. |
 | Varro Selt | Fausse piste Palyr (FA) | Distinct du message tunnel Sybrel ; tu ne mélanges pas les deux en accusation publique. |
 | Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Tu tiens le réel du casino : dette de salle RD, paris, muscle maison ; tu recoupes avec Ysel sur tout ce qui doit tenir en preuve. |
-| Miraen Talvas | Dette personnelle (créancier satellite, témoin Varek) | Jetons et reconnaissance RD ; secret possible addiction — ne pas imposer aux autres PJ hors jeu. |
+| Miraen Talvas | Dette personnelle (créancier satellite, témoin Varek) | Jetons et reconnaissance RD ; secret possible addiction — ne pas imposer aux autres du détachement sans scène. |

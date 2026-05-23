@@ -36,7 +36,7 @@ Epopée en Krondaar
 | Rôle dans le groupe | Infiltration, extorsion, documents sur élites |
 | Classe / profession | Espion, voleur de secrets |
 | Groupe | Les Sangs de la Steppe |
-| Points de vie | 3 |
+| Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
@@ -91,33 +91,7 @@ Kaelan te fait confiance utile, jamais totale — c'est le métier. Gareth te so
 - Collecter des documents et des doubles de sceaux sans laisser de chaîne jusqu'à ton vrai visage.
 - Coordonner avec Raven et Vorak pour ne pas doubler les mêmes interlocuteurs.
 
-## Relations clés à exploiter
 
-### Membres des Sangs (liens personnels)
-
-| Personnage | Lien |
-|------------|------|
-| Kaelan Thormane | Confiance partielle — utile, jamais totale ; tu ne lui dois pas ton vrai nom. |
-| Vorak Ironhand | Confiance de mission — respect mutuel froid. |
-| Gareth Ironfist | Confiance de extraction — dette de sortie, pas d'amitié. |
-| Drask Bloodmoon | Confiance de binôme — échange de services sans proximité. |
-| Raven | Confiance de complémentarité — vous évitez les mêmes couverts ; pas d'amitié. |
-
-### Contacts extérieurs
-
-*(Pas les mêmes renvois que Vorak, Gareth ou Drask : ici infiltration, indices brûlés, arguethain.)*
-
-| Personne | Groupe ou lieu d'attache | Type de relation | Lien |
-|----------|--------------------------|------------------|------|
-| Korran Vesper | Pirates d'Albar (PNJ) | Piste maritime | RA-III-546-004 — rapport arguethain (coordonné avec Vorak, pas le gage **BM-III-546-005** du chef). |
-| Marda Velyss | Il-Irion — Tripot | Couverture | Nuit passée sous faux nom — pas la reconnaissance 007. |
-| Maître [nom à trouver] | Staal | Vol de copie | Tu n'as pas la lettre complète `CC-III-544-002` — tu as arraché une épreuve avant tirage. |
-| Edorian | UBI — direction | Cible | FM-III-546-006 — fragment brûlé sur coffres (indice d'accès). |
-| Sybrel Dornik | UBI — Ombre | Dette personnelle / protection | Tu la connais depuis **avant** les Sangs ; elle est à la banque ; tu veux la **protéger** sans exposer ton choix d'alors ni fragiliser la mission. Croisements tunnels : vrai danger pour elle si le réseau **comprend** qui elle est. |
-| Maître Vaelric Dorn | UBI — Discréteur | Adversaire | Tu fabriques des fuites qu'il enterre — pas le placard 12 mot pour mot (Drask le cite). |
-| Dame Ydria Ventoss | UBI — Trésorière | Angle financier | Lecture des écarts par rumeurs de comptoir — pas le bordereau 13 en main. |
-| Melian Torv | UBI — conseiller spirituel | Faille | Confession simulée — sans le fragment 10 du dossier chef. |
-| Cyrion Valdris | Il-Irion — Maison Valdris | Cible | CP-III-542-002 seul — une trame de chantage (le chef tient **CP-III-542-001–CP-III-543-001**). |
 
 ## Informations sensibles
 
@@ -128,12 +102,46 @@ Kaelan te fait confiance utile, jamais totale — c'est le métier. Gareth te so
 
 # Connaissances
 
-Tu te souviens d'elle **petite**, dans une chaîne où les adultes ne prêtent pas serment — seulement des **consignes**. Elle a failli te coûter une passe ; au lieu de la livrer au **silence** du réseau, tu as **taillé dans le vif du protocole** : pas de nom remonté, histoire refermée de ton côté. Ce jour-là tu n'étais pas encore **Shadow** aux yeux des Sangs ; tu étais déjà quelqu'un qui **choisit** quand la faim et la peur ne décident pas à ta place.
+## Korran Vesper — Pirates d'Albar (PNJ)
 
-Aujourd'hui elle s'appelle **Sybrel Dornik** ; elle porte l'uniforme ou la discrétion de la **garde** qui arpente les **sous-sols** de l'UBI. Tu le sais — veille discrète, rumeurs croisées, ou simple **constat** quand les dossiers banque passent sous ta lampe. **Les autres** des Sangs ne portent pas cette histoire : pour eux, c'est une ombre banquière parmi d'autres, point. Toi, tu sais **qui** elle a été sur le quai.
+RA-III-546-004 — rapport arguethain (coordonné avec Vorak, pas le gage **BM-III-546-005** du chef).
 
-Elle te **croit** peut-être encore du mauvais côté — couteau sans face, celui qui aurait pu la **dénoncer**. Tu sais qu'elle a **tort et raison** : tu n'étais pas son sauveur, tu t'es protégé en la protégeant. Ça n'empêche pas que tu **souhaites** qu'elle reste debout : hors du carnet des « anciennes dettes », hors de la ligne de mire si Kaelan ou le réseau **resserre** sur l'intérieur de la banque.
+## Marda Velyss — Il-Irion — Tripot
 
-Quand la mission t'amène **contre** ou **à travers** l'UBI, tu es pris entre **deux loyautés** qui ne se parlent pas sur le même registre : rendre des comptes **sans** lui offrir en sacrifice ; **la couvrir** sans qu'elle doive t'aimer pour autant. Si elle te **voit** — vraiment —, tout peut basculer : reconnaissance, **panique**, ou les deux. Tu es prêt à **encaisser** sa méfiance si ça la garde vivante.
+Nuit passée sous faux nom — pas la reconnaissance 007.
 
-*(Lien documentaire partagé avec d'autres angles mafia sur l'UBI : MC-III-547-003 — message codé tunnels ; toi, tu joues la **couche humaine** seule, pas l'exclusivité du fil Drask/Raven.)*
+## Maître [nom à trouver] — Staal
+
+Tu n'as pas la lettre complète `CC-III-544-002` — tu as arraché une épreuve avant tirage.
+
+## Edorian — UBI — direction
+
+FM-III-546-006 — fragment brûlé sur coffres (indice d'accès).
+
+## Sybrel Dornik — UBI (Ombre)
+
+Tu te souviens d'elle petite, dans une chaîne où les adultes ne prêtent pas serment — seulement des consignes. Elle a failli te coûter une passe ; au lieu de la livrer au silence du réseau, tu as taillé dans le vif du protocole : pas de nom remonté, histoire refermée de ton côté. Ce jour-là tu n'étais pas encore Shadow aux yeux des Sangs ; tu étais déjà quelqu'un qui choisit quand la faim et la peur ne décident pas à ta place.
+
+Aujourd'hui elle s'appelle Sybrel Dornik ; elle arpente les sous-sols de l'UBI. Les autres Sangs ne portent pas cette histoire : pour eux, c'est une ombre banquière parmi d'autres. Toi, tu sais qui elle a été sur le quai.
+
+Elle te croit peut-être encore du mauvais côté. Tu sais qu'elle a tort et raison : tu n'étais pas son sauveur, tu t'es protégé en la protégeant. Quand la mission t'amène contre ou à travers l'UBI, tu es pris entre rendre des comptes sans lui offrir en sacrifice et la couvrir sans qu'elle doive t'aimer pour autant. Croisements tunnels : vrai danger pour elle si le réseau comprend qui elle est. Pièce partagée avec d'autres angles mafia : MC-III-547-003.
+
+## Maître Vaelric Dorn — UBI — Discréteur
+
+Tu fabriques des fuites qu'il enterre — pas le placard 12 mot pour mot (Drask le cite).
+
+## Dame Ydria Ventoss — UBI — Trésorière
+
+Lecture des écarts par rumeurs de comptoir — pas le bordereau 13 en main.
+
+## Melian Torv — UBI — conseiller spirituel
+
+Confession simulée — sans le fragment 10 du dossier chef.
+
+## Cyrion Valdris — Il-Irion — Maison Valdris
+
+CP-III-542-002 seul — une trame de chantage (le chef tient **CP-III-542-001–CP-III-543-001**).
+
+---
+
+*GN Krondaar 2026*

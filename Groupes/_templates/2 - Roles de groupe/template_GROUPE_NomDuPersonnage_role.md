@@ -5,7 +5,7 @@
   Nom de fichier livrable : `GROUPE_NomDuPersonnage_RoleDansLeGroupe.md` (ex. `Palyr_Lysa_Morwyn_Tresoriere.md`, `UBI_Melian_Torv_Conseiller_spirituel.md`). Slug du rôle : sans accents, mots séparés par des tirets bas, d’après la colonne « Rôle dans le groupe ».
   Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l’intrigue ou à la fiche perso).
   Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir annexe rédacteurs).
-  Livrable joueur : une fiche remise au joueur ne contient pas de méta de conception (consignes de longueur, renvois Style.md / passes de relecture, « Règles de forme » sous # Connaissances, checklists rédacteur). Voir en fin de fichier l’annexe réservée aux rédacteurs.
+  Livrable joueur : une fiche remise au joueur ne contient pas de méta de conception (consignes de longueur, renvois skill redaction-gn / passes de relecture, « Règles de forme » sous # Connaissances, checklists rédacteur). Voir en fin de fichier l’annexe réservée aux rédacteurs.
 -->
 
 Grandeur Nature Celtiana  
@@ -40,7 +40,7 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | [Prénom Nom] |
 | Rôle dans le groupe | [Position hiérarchique et fonction] |
-| Classe / profession | [Guerrier, mage, rôdeur, etc.] *(règlement — orga)* |
+| Classe / profession | [Guerrier, mage, rôdeur, etc.] |
 | Groupe | |
 | Points de vie | 3 |
 | Niveau de magie | N.A. |
@@ -87,18 +87,11 @@ Alliés, clients et ennemis encore nommables : comment tu leur parles, ce qu’i
 - [Objectif 1] : [Description détaillée et pourquoi c'est crucial]
 - [Objectif 2] : [Description détaillée et pourquoi c'est crucial]
 
-
-# Membres du groupe
-
-| Personnage | Interaction |
-|------------|---------------------------------------------------------------------|
-| [Nom 1] | [ex. confiance professionnelle ; amitié de terrain ; méfiance contrôlée] |
-| [Nom 2] | |
-
+*(Pas de tableau « Relations clés » ni « Membres du groupe » : contacts **hors groupe** et pièces utiles vont uniquement sous `# Connaissances`, un `##` par sujet jouable. Pas de fiche sur les coéquipiers — le chapitre V et le back de groupe suffisent.)*
 
 # Connaissances
 
-## Prénom Nom — Maison ou famille (si utile), groupe / lieu
+## Prénom Nom — Maison ou famille (si utile), groupe / lieu *(hors ton groupe)*
 
 Tu sais que [fait]. Il existe [preuve / pièce] : code `FL-III-545-002` (ou autre), [ce que ça établit]. [Suite : ambiguïté, risque, ou consigne de jeu en une phrase.]
 
@@ -106,17 +99,17 @@ Tu sais que [fait]. Il existe [preuve / pièce] : code `FL-III-545-002` (ou autr
 
 ## Annexe — réservée aux rédacteurs (ne pas copier dans la fiche distribuée au joueur)
 
-**Cette annexe** ne doit pas figurer sur la version remise au joueur. La fiche distribuée commence au titre `# [NOM] — …` en tête de fichier et ne contient que du contenu in-univers, plus les blocs utiles au joueur déjà prévus dans ce gabarit : informations pratiques, contacts orga, fiche personnage, apparence, histoire, missions, membres, connaissances sous forme de sections `##` par sujet de jeu (sans le bloc « Règles de forme » ni tout autre paragraphe de consigne rédactionnelle).
+**Cette annexe** ne doit pas figurer sur la version remise au joueur. La fiche distribuée commence au titre `# [NOM] — …` en tête de fichier et ne contient que du contenu in-univers, plus les blocs utiles au joueur déjà prévus dans ce gabarit : informations pratiques, contacts orga, fiche personnage, apparence, histoire, missions, connaissances sous forme de sections `##` par sujet de jeu (sans le bloc « Règles de forme » ni tout autre paragraphe de consigne rédactionnelle). Pas de tableau « Relations clés » ni « Membres du groupe » en doublon des `##` sous `# Connaissances`. Pas de `##` sur les coéquipiers du même groupe (relations internes : chapitre V biographie + back de groupe).
 
 **Histoire** : la section `# L'histoire de …` enchaîne directement sur les chapitres I à V en narration au **tu**, sans paragraphe d'instructions entre le titre `# L'histoire` et le premier `## Chapitre`. Chaque chapitre I à V comporte au moins dix lignes de texte sous son titre (plusieurs paragraphes : lieux, institutions, personnages nommés utiles, décisions et conséquences). Si un chapitre tient en moins de dix lignes, le texte est incomplet pour le dépôt.
 
 **Apparence et caractère** : traits observables ou habitudes attestables ; éviter une seule ligne d'« impression » sans comportement précis au jeu.
 
-**Rédaction et relecture** : ton, interdits, narration au « tu », relecture — [Style.md](../Style.md). Après rédaction des chapitres I à V, appliquer la relecture obligatoire (Style.md §9).
+**Rédaction et relecture** : ton, interdits, narration au « tu », relecture — skill `.cursor/skills/redaction-gn/SKILL.md` (référence rôle : `Tripot_Marda_Velyss_Patronne.md`). Après rédaction, appliquer les 3 passes du skill (anti-charabia, forme, densité).
 
 **Connaissances (consignes de dépôt, pas sur la fiche joueur)**  
-- Rédaction : même [Style.md](../Style.md) que pour le reste du rôle.  
-- Un `##` par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement (voir Style.md §6).  
+- Rédaction : même skill redaction-gn que pour le reste du rôle.  
+- Un `##` par sujet utile en jeu (personne, faction, fait documenté). Pas de tableau. Tutoiement.  
 - Contenu minimal par sujet : prénom et nom ; maison ou famille si utile ; groupe ou lieu d'attache.  
 - Lien avec le personnage : nature du rapport en une ou deux phrases.  
 - Pièces de jeu : code seul `TT-R-YYY-NNN` tel qu'en usage au registre des pièces du groupe concerné ; jamais de chemin vers un fichier du dépôt ; pas d'outils de rédaction orga sur la fiche joueur.
