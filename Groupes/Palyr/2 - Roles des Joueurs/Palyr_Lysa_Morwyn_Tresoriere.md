@@ -39,8 +39,9 @@ Epopée en Krondaar
 | Nom du personnage | Lysa Morwyn |
 | Rôle dans le groupe | Trésorière de la délégation |
 | Classe / profession | Erudit |
+| Compétences | Erudit - Secourisme |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

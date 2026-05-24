@@ -36,9 +36,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Syndri Ashfeld |
 | Rôle dans le groupe | Herboriste mandaté par le Conseil de Palyr |
-| Classe / profession | Erudit |
+| Classe / profession | Herboriste |
+| Compétences | Chirurgie |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

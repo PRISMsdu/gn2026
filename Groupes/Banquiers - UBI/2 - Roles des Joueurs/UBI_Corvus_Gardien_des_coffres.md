@@ -33,9 +33,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Maître Corvus |
 | Rôle dans le groupe | Gardien des coffres |
-| Classe / profession | Érudit |
+| Classe / profession | Erudit |
+| Compétences | Erudit |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

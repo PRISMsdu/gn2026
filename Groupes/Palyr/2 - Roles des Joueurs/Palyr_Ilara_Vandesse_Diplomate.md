@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ilara Vandesse |
 | Rôle dans le groupe | Diplomate de Palyr |
-| Classe / profession | Erudit |
+| Classe / profession | Diplomate |
+| Compétences | Erudit ; Secourisme |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

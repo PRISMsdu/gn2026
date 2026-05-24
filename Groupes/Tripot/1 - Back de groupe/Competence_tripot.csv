@@ -1,12 +1,12 @@
-Nom;Fonction;Classe;Competence;PointSanté
-Marda Velyss;Patronne — stratégie, négociations;Herboriste - assassin;"Egorgement ; Chirurgie";6
-Ardan Trevil;Capitaine des gardes — sécurité du Tripot;Guerrier;"Pugilat ; Torture";5
-Sira Vestrann;Croupière — sœur de Lira;Voleuse;Pugilat - 9;4
-Lira Vestrann;Croupière — sœur de Sira;Voleuse;Pugilat - 9;4
-Varek;Pisteur — filatures, quai, coulisses;Guerrier;"Apnée ; Secourisme";5
-Lydwen;Oracle, cartes;Cartomancienne;"Transe ; Chirurgie";4
-Éliane;Maîtresse des paris — régate;Voleuse;Erudit;4
-Ysabeau;Hôtesse — VIP, salons;Voleuse;Erudit;4
-Soren;Homme de main, alchimiste;Alchimiste;Erudit;4
-Fenric Ossel;Maître des registres;Erudit;Erudit;4
-Guelievre Marech;Gouvernante — réserves, service, coulisses;Erudit;Erudit;3
+﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté
+Marda Velyss;Lise;**email**;Patronne — stratégie, négociations;Herboriste - assassin;"Egorgement ; Chirurgie";6
+Ardan Trevil;Mathieu;**email**;Capitaine des gardes — sécurité du Tripot;Guerrier;"Pugilat ; Torture";5
+Sira Vestrann;Lucile;**email**;Croupière — sœur de Lira;Voleuse;Pugilat - 9;4
+Lira Vestrann;Marion;**email**;Croupière — sœur de Sira;Voleuse;Pugilat - 9;4
+Varek;Sam;**email**;Pisteur — filatures, quai, coulisses;Guerrier;"Apnée ; Secourisme";5
+Lydwen;Corinne;**email**;Oracle, cartes;Cartomancienne;"Transe ; Chirurgie";4
+Éliane;;**email**;Maîtresse des paris — régate;Voleuse;Erudit;4
+Ysabeau;Marina;**email**;Hôtesse — VIP, salons;Voleuse;Erudit;4
+Soren;Léo;**email**;Homme de main, alchimiste;Alchimiste;Erudit;4
+Fenric Ossel;Thierry;**email**;Maître des registres;Erudit;Erudit;4
+Guelievre Marech;Geneviève;**email**;Gouvernante — réserves, service, coulisses;Erudit;Erudit;3

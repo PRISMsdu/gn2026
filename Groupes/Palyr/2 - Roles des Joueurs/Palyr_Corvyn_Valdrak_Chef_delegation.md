@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Corvyn Valdrak |
 | Rôle dans le groupe | Représentant mandaté du Légat — chef de délégation |
-| Classe / profession | Erudit |
+| Classe / profession | Guerrier - diplomate |
+| Compétences | Pugilat (7) ; Erudit |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

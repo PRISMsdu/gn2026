@@ -39,8 +39,9 @@ Epopée en Krondaar
 | Nom du personnage | Horgrim Dval |
 | Rôle dans le groupe | Chef de la garde privée — conseil |
 | Classe / profession | Guerrier |
+| Compétences | Pugilat (5) ; Torture |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

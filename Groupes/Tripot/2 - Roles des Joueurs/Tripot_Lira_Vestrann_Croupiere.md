@@ -35,7 +35,7 @@ Epopée en Krondaar
 | Nom du personnage | Lira Vestrann |
 | Rôle dans le groupe | Croupière — manipulation fine, codes de salle, complément de Sira |
 | Classe / profession | Voleuse |
-| Compétences | Pugilat |
+| Compétences | Pugilat - 9 |
 | Groupe | Tripot (casino du fort d'Ulghart) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |

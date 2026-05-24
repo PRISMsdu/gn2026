@@ -3,7 +3,7 @@
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
   Pas de chemins de fichiers ni de méta orga hors section « Connaissances ».
-  Dans « Connaissances » : **codes pièce** au format `TT-R-YYY-NNN` (voir `Registre_UBI.md` ; ex. `CP-III-542-001`, `CO-II-547-001`) conformément au template.
+  Dans « Connaissances » : codes pièce du registre UBI au format TT-R-YYY-NNN (voir Registre_UBI.md). Les lettres portées par le détachement se citent par intitulé lisible, sans référence d'inventaire.
 -->
 
 Grandeur Nature Celtiana  
@@ -37,10 +37,11 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Varro Selt |
-| Rôle dans le groupe | Garde du corps du Questeur ; infiltration et neutralisation quand le mandat ne suffit plus |
+| Rôle dans le groupe | Infiltrateur / exécutant |
 | Classe / profession | Assassin |
 | Compétences | Egorgement ; Torture |
-| Groupe | MiVI (service du Primat ; escorte Questeur à Ulghart) |
+| Groupe | MiVI — détachement Corvel (service du Primat) |
+| Couverture à Ulghart (depuis 2 jours) | Garde du corps de messire Ydrael Montfou |
 | Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
@@ -68,45 +69,37 @@ Tu ne vends pas ton passé au détail. Les brigades dont tu viens n'ont pas de n
 
 ## Chapitre II : L'apprentissage (MiVI)
 
-Le Primat t'a pris pour ce que la plume ne règle pas. La Styrgie paie une escorte Questeur crédible : insignes, mandat, auditions. Toi, tu es la garde du corps de messire Ydrael Montfou — Théven — et la main quand la porte ne s'ouvre pas au sceau. Quand l'instruction bloque, quelqu'un doit sortir le paquet ou fermer une bouche. Ce quelqu'un, c'est toi — pas par goût du sang, parce que la mission a un coût et que tu préfères le payer en une fois plutôt qu'en semaines de pourriture.
+Le Primat t'a pris pour ce que la plume ne règle pas. À Ulghart, depuis deux jours, garde du corps affichée de messire Ydrael Montfou (Théven Corvel incarne le Questeur) ; tu interviens quand la porte ne s'ouvre pas au sceau. Quand l'instruction bloque, quelqu'un doit sortir le paquet ou fermer une bouche. Ce quelqu'un, c'est toi — pas par goût du sang, parce que la mission a un coût et que tu préfères le payer en une fois plutôt qu'en semaines de pourriture.
 
 Tu respectes Théven. Il ne te demande pas d'être propre quand il faut être précis. Il tranche ce qui peut se voir de la rue et ce qui doit rester dans l'ombre. Tu lui rends des comptes sans bruit. Tu ne confonds pas discipline et lâcheté.
 
 ## Chapitre III : L'ascension (forge)
 
-Simulation ratée : trop de parole. Deuxième passe : sirène trop tôt, faux Il-Rion, papier menteur. Tu as mis ton épaule dans le bois jusqu'à ce que les gonds crient assez fort pour acheter des secondes. Pas un geste de héros. Un calcul de temps. Quand la sirène s'est tue, tu étais encore debout. Tu t'en souviens quand une porte réelle grince à Ulghart.
+Simulation ratée : trop de parole. Deuxième passe : sirène trop tôt, faux Il-Rion, papier menteur. Tu as mis ton épaule dans le bois jusqu'à ce que les gonds crient assez fort pour retenir les gardes simulés quelques secondes de plus. Quand la sirène s'est tue, tu étais encore debout. Tu t'en souviens quand une porte réelle grince à Ulghart.
 
 ## Chapitre IV : Les défis actuels (Ulghart)
 
-Citadelle d'Ulghart. Le détachement entre sous l'identité Questeur de messire Ydrael Montfou — Théven — après l'embuscade de la vraie escorte. Tu portes la garde du corps : insignes visibles, blessures encore possibles de la bataille. Un mercenaire de l'escorte adverse a réchappé : Théven veut le retrouver avant qu'il ne dénonce l'opération.
+Citadelle d'Ulghart. Depuis deux jours, couverture Questeur après l'embuscade de la vraie escorte : en faction, garde du corps de Montfou — insignes visibles, blessures encore possibles de la bataille. Un mercenaire de l'escorte adverse a réchappé : Théven veut le retrouver avant qu'il ne dénonce l'opération.
 
-Mandat affiché : six gardiens morts, surnormal, accès banque et fort. Mandat réel : fer, Tripot, UBI, routes — sans jamais citer le MiVI en public.
+Mandat affiché (couverture) : six gardiens morts, surnormal, accès banque et fort. Mission MiVI : fer, Tripot, UBI, routes — sans jamais citer le MiVI en public.
 
 Ton rôle : protéger Montfou et l'escorte, extraire papier ou homme quand Ysel l'ordonne, neutraliser le mercenaire ou toute fuite, poigne sur les Sangs sans spectacle. Un massacre public ferait refermer la Confédération : tu refuses cette carte.
 
 Quand Ysel dit « sortir », tu sors. Quand Théven dit « visible », assez pour faire peur à la bonne table, pas assez pour faire pleurer l'île. Quand Lucan retient un témoin à l'audition, tu sécurises la porte ; tu n'improvises pas seul.
 
-La Confédération se brise quand elle ne peut pas nommer un coupable unique. Elle se referme quand tu lui offres un monstre qu'elle peut photographier. Ton métier est le deuxième cas inversé : couper vite, disparaître, laisser des questions sans visage styrgien sur les murs. Quand Elfrion exige qu'une tension dure, tu la sers sans en faire une parade.
+Le dossier fer 544–545, pour toi, ce sont quais, marques d'encre sur linge, convois et mains qui déplacent des lots — pas une légende de rapport. Tu interviens quand le contrat ou la remise bascule en violence ; tu refuses le massacre visible qui ferait rallier les cinq cités contre la Styrgie.
 
-Le dossier fer 544–545 n'est pas une légende pour toi : c'est de la chaîne physique — quais, marques d'encre sur linge, convois, mains qui déplacent des lots. Tu peux être appelé là où les contrats de fer et les remises deviennent des poings. Tu ne confonds pas « muscle » et « boucher » : le premier ouvre une issue ; le second enferme toute l'île dans un récit unique contre la République.
+Les contacts opérationnels (Sangs, Guilde, conciliation hors greffe, fausse piste Palyr) sont détaillés en fin de fiche, section Connaissances.
 
-Gareth Ironfist côté Sangs peut prêter du muscle sur ordre : tu ne le confonds pas avec une consigne pisteur qui porte d'autres initiales le même jour. Les marques de quai et les signaux logistiques se lisent comme des armes : tu les traites comme des timings, pas comme des curiosités. Les avis de conciliation hors greffe et la chimie qui va avec servent parfois à caler une sortie « propre » : tu n'en fais pas une philosophie, tu en fais un créneau. Quand la mer et Palyr entrent dans l'histoire, tu restes sur le quai ou tu y retournes — pas sur les bancs des témoins.
+## Chapitre V : Discipline et silence
 
-## Chapitre V : Le réseau et les relations
-
-Lucan tient les auditions. Ysel te dit ce qui vaut d'être sorti d'un tiroir. Miraen te signale où regarder au Tripot quand l'instruction y entre. Théven est Montfou : il garde le fil pour que tu ne deviennes pas l'histoire du week-end. Tu passes quand l'audition est finie. Tu ne doubles pas un ordre sans en parler : la chaîne se casse si chacun improvise.
-
-Tu crains d'être l'excuse d'un massacre inutile — celui qui déshonore la mission en donnant à la Confédération le feu commun dont elle a besoin. Tu crains aussi l'inverse : hésiter une seconde de trop et laisser un compagnon payer ta prudence. Tu marches entre les deux. Ce n'est pas confortable. C'est propre au métier.
-
-Tu n'écris pas les rapports : tu les protèges en restant hors pages. Un nom de trop sur une feuille confédérale vaut une chasse longue ; un visage de trop sur une place vaut une alliance contre toi. Tu préfères le travail qui ne laisse qu'une question dans les têtes : « qui a frappé ? » — sans réponse assez belle pour faire drapeau.
-
-Chaque coup qui se voit trop devient un dossier pour la Confédération : ton métier est aussi de disparaître après. Tu n'es pas le porte-parole du groupe : une phrase lâchée au bar peut coûter plus qu'un coup raté.
+Lucan tient les auditions ; Ysel ordonne ce qui sort d'un tiroir ; Miraen signale les angles au Tripot ; Théven tranche avant que tu n'agisses seul. Tu n'écris pas les rapports : un nom de trop sur une feuille confédérale lance une chasse longue. Une phrase au bar peut coûter plus qu'un coup raté — tu restes hors des discours publics du détachement.
 
 
 # Tes missions et objectifs
 
 - **Préparer et exécuter** les entrées physiques (portes, rencontres qui basculent, extractions) quand le plan le exige.
-- **Protéger Montfou et l'escorte** ; retrouver le mercenaire survivant avant qu'il ne parle.
+- **Protéger Montfou et le détachement** (couverture Questeur) ; retrouver le mercenaire survivant avant qu'il ne parle.
 - **Protéger le détachement** si le mandat Questeur saute — violence maîtrisée, priorité aux preuves.
 - **Ne pas** déclencher l'incident qui ferait d'Ulghart un siège général : rester sous le seuil du massacre spectaculaire.
 
@@ -114,27 +107,27 @@ Chaque coup qui se voit trop devient un dossier pour la Confédération : ton m�
 
 ## Gareth Ironfist — Les Sangs
 
-Muscle et extraction sur ordre des Sangs. Ne pas confondre avec une autre consigne pisteur le même jour : initiales G.I. Pièce : GC-III-547-007 (grille de contact — ne pas croiser créneau sans plan).
+Gareth prête muscle et extraction sur ordre des Sangs. La grille GC-III-547-007 fixe créneaux et signaux de contact : ne croise pas un créneau réservé à d'autres initiales (G.I. = lui ; autre consigne pisteur le même jour = autre fil). Coordonne avec Théven avant une entrée physique au Tripot ou au quai.
 
 ## Korran Vesper — Pirates d'Albar (PNJ)
 
-Mer ; rapport Arguethain, angle opérationnel. Pièce : RA-III-546-004. (Le gage de remise signé est plutôt côté Théven.)
+Korran intervient sur les remises en mer. RA-III-546-004 est un rapport utile pour l'angle opérationnel Arguethain ; le gage BM-III-546-005 est plutôt tenu par Théven. Tu sécurises le quai ou l'approche, pas les négociations au nom du Questeur.
 
 ## Duc Thoren Forgefer — Sfaal (lots fer)
 
-Contrat Sfaal–Palyr ; sécurisation de convois, violence possible si détournement. Pièce : CO-II-547-001.
+Thoren sécurise les convois du contrat fer CO-II-547-001 (ligne Sfaal–Palyr). Si le détournement éclate en violence sur la route ou au débarquement, tu peux être appelé pour ouvrir une issue ou fermer une bouche — sans spectacle devant la garnison.
 
-## Receveur anonyme / empreinte D.B. — conciliation hors greffe
+## Conciliation hors greffe — empreinte D.B.
 
-Avis de conciliation ; chimie ; timings de sortie « propre ». Pièce : AC-II-543-003.
+L'avis AC-II-543-003 sort du greffe officiel : conciliation, chimie, créneau pour une sortie sans garde en salle. Tu l'utilises comme horaire, pas comme discours : entrer, sortir le paquet ou l'homme, disparaître.
 
-## Marque de quai — Guilde (remise)
+## Marque de quai — Guilde des Ports Unis
 
-Encre sur linge ; signal logistique remise. Pièce : MQ-II-547-004.
+MQ-II-547-004 est une marque d'encre sur linge : signal de remise logistique. Lis-le comme un rendez-vous physique au quai, pas comme une preuve à brandir en audition.
 
-## Reçu falsifié — Palyr (fausse piste)
+## Reçu falsifié — fausse piste Palyr
 
-Angle distinct du message codé tunnels (Sybrel, MC-III-547-003). Pièce : FA-III-546-003.
+FA-III-546-003 est un reçu falsifié, distinct du message tunnels MC-III-547-003 (Sybrel). Ne mélange pas les deux fils le même jour : une fausse piste mal posée ferme des portes que Ysel compte encore ouvrir.
 
 ---
 

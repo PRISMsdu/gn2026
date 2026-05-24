@@ -39,8 +39,9 @@ Epopée en Krondaar
 | Nom du personnage | Kaelen « Griffes-de-Fer » Veynar |
 | Rôle dans le groupe | Exécuteur de contrats — recouvrement, pression, réseau d'influence |
 | Classe / profession | Guerrier |
+| Compétences | Torture ; Pugilat (7) |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

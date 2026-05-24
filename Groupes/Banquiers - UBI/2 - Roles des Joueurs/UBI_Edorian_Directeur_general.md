@@ -37,9 +37,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Edorian |
 | Rôle dans le groupe | Directeur général — Union bancaire d'Il-Irion |
-| Classe / profession | Erudit — Guerrier |
+| Classe / profession | Directeur de banque |
+| Compétences | Erudit ; Secourisme |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

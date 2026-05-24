@@ -40,8 +40,9 @@ Epopée en Krondaar
 | Nom du personnage | Saevar Dren |
 | Rôle dans le groupe | Chef de la sécurité — officier de renseignement |
 | Classe / profession | Guerrier |
+| Compétences | Pugilat (8) ; Torture |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

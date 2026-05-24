@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Drask Bloodmoon |
 | Rôle dans le groupe | Alchimiste interrogateur — soins, substances, vérités arrachées |
-| Classe / profession | Alchimiste, interrogateur |
+| Classe / profession | Clerc (Jorok) |
+| Compétences | Chirurgie ; Secourisme |
 | Groupe | Les Sangs de la Steppe |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Selvara Quenndral |
 | Rôle dans le groupe | Archiviste en chef — conseil ; registres, sceaux inter-cités, actes légaux |
-| Classe / profession | Archiviste / érudite |
+| Classe / profession | Archiviste |
+| Compétences | Erudit |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Kaelan Thormane |
 | Rôle dans le groupe | Chef de famille — leader des Sangs de la Steppe |
-| Classe / profession | Guerrier, meneur |
+| Classe / profession | Guerrier |
+| Compétences | Egorgement ; Pugilat ; Erudit |
 | Groupe | Les Sangs de la Steppe |
-| Points de santé | 3 |
+| Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

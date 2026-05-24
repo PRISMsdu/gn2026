@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Raven (nom de code — identité civile tenue secrète) |
 | Rôle dans le groupe | Réseaux, informateurs, négociation externe |
-| Classe / profession | Courtier d'information, parlementaire |
+| Classe / profession | Assassin |
+| Compétences | Transe ; Torture |
 | Groupe | Les Sangs de la Steppe |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Ydria Ventoss |
 | Rôle dans le groupe | Trésorière — conseil ; dépôts d'or, flux de capitaux |
-| Classe / profession | Comptable / trésorière |
+| Classe / profession | Trésoriere |
+| Compétences | Erudit ; Chirurgie |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

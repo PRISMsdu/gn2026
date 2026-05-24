@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Shadow (nom de code — identité civile tenue secrète) |
 | Rôle dans le groupe | Infiltration, extorsion, documents sur élites |
-| Classe / profession | Espion, voleur de secrets |
+| Classe / profession | Guerrier |
+| Compétences | Torture ; Erudit |
 | Groupe | Les Sangs de la Steppe |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

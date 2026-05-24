@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Thoran Keld |
 | Rôle dans le groupe | Marchand — capitaine de la frégate de Palyr |
-| Classe / profession | Marchand |
+| Classe / profession | Marchand - capitaine |
+| Compétences | Erudit ; Skipper |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

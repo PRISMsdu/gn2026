@@ -36,7 +36,8 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Bran Lyrd |
 | Rôle dans le groupe | Druide du cairn Lyrd ; voyage sous escorte de la délégation |
-| Classe / profession | Prêtre |
+| Classe / profession | Druide (B) |
+| Compétences | Secoursime |
 | Groupe | Palyr |
 | Points de santé | 3 |
 | Niveau de magie | N.A. |

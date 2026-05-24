@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Vorak Ironhand |
 | Rôle dans le groupe | Second — coordinateur opérationnel |
-| Classe / profession | Guerrier, tacticien |
+| Classe / profession | Guerrier |
+| Compétences | Transe ; Torture |
 | Groupe | Les Sangs de la Steppe |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

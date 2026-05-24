@@ -37,8 +37,9 @@ Epopée en Krondaar
 | Nom du personnage | Maren Holt |
 | Rôle dans le groupe | Commandant militaire de la délégation |
 | Classe / profession | Guerrier |
+| Compétences | Skipper ; Ambidextrie |
 | Groupe | Palyr |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

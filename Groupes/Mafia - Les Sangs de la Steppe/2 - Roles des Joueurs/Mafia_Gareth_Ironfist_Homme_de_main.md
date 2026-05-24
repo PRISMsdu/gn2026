@@ -34,9 +34,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Gareth Ironfist |
 | Rôle dans le groupe | Homme de main — intimidation et protection |
-| Classe / profession | Mercenaire, exécutant |
+| Classe / profession | Assassin |
+| Compétences | Egorgement ; Torture |
 | Groupe | Les Sangs de la Steppe |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

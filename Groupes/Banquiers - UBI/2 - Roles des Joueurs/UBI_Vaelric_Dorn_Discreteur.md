@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Vaelric Dorn |
 | Rôle dans le groupe | Discréteur — conseil ; récit public, rumeurs, dossiers hors registre |
-| Classe / profession | Espion / négociateur occulte |
+| Classe / profession | Guerrier |
+| Compétences | Transe ; Pugilat (6) |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |

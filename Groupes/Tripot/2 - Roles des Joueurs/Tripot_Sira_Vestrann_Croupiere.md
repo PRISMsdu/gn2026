@@ -35,7 +35,7 @@ Epopée en Krondaar
 | Nom du personnage | Sira Vestrann |
 | Rôle dans le groupe | Croupière — tables, lecture des mains et des visages, réseau d'habitués |
 | Classe / profession | Voleuse |
-| Compétences | Pugilat |
+| Compétences | Pugilat - 9 |
 | Groupe | Tripot (casino du fort d'Ulghart) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |

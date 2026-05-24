@@ -38,9 +38,10 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Sybrel Dornik |
 | Rôle dans le groupe | Surveillance intérieure — tunnels, coursives, ombre |
-| Classe / profession | Garde / espionne |
+| Classe / profession | Assassin |
+| Compétences | Egorgement ; Ambidextrie |
 | Groupe | Banquiers — UBI |
-| Points de santé | 3 |
+| Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
