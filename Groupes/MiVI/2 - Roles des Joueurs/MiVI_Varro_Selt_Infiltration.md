@@ -37,10 +37,10 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Varro Selt |
-| Rôle dans le groupe | Infiltration, extraction, neutralisation quand la couverture ne suffit plus |
+| Rôle dans le groupe | Garde du corps du Questeur ; infiltration et neutralisation quand le mandat ne suffit plus |
 | Classe / profession | Assassin |
 | Compétences | Egorgement ; Torture |
-| Groupe | MiVI (service du Primat, couverture civile) |
+| Groupe | MiVI (service du Primat ; escorte Questeur à Ulghart) |
 | Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
@@ -68,7 +68,7 @@ Tu ne vends pas ton passé au détail. Les brigades dont tu viens n'ont pas de n
 
 ## Chapitre II : L'apprentissage (MiVI)
 
-Le Primat t'a pris pour ce que la plume ne règle pas. Ce n'est pas un compliment de cabaret : c'est un contrat. La Styrgie paie pour tenir une ligne sans drapeau hissé : couverture civile, convention, visages de marchands. Quand la couverture devient cage, quelqu'un doit ouvrir la porte, sortir le paquet, ou fermer une bouche. Ce quelqu'un, c'est toi — pas par goût du sang, parce que la mission a un coût et que tu préfères le payer en une fois plutôt qu'en semaines de pourriture.
+Le Primat t'a pris pour ce que la plume ne règle pas. La Styrgie paie une escorte Questeur crédible : insignes, mandat, auditions. Toi, tu es la garde du corps de messire Ydrael Montfou — Théven — et la main quand la porte ne s'ouvre pas au sceau. Quand l'instruction bloque, quelqu'un doit sortir le paquet ou fermer une bouche. Ce quelqu'un, c'est toi — pas par goût du sang, parce que la mission a un coût et que tu préfères le payer en une fois plutôt qu'en semaines de pourriture.
 
 Tu respectes Théven. Il ne te demande pas d'être propre quand il faut être précis. Il tranche ce qui peut se voir de la rue et ce qui doit rester dans l'ombre. Tu lui rends des comptes sans bruit. Tu ne confonds pas discipline et lâcheté.
 
@@ -76,13 +76,15 @@ Tu respectes Théven. Il ne te demande pas d'être propre quand il faut être pr
 
 Simulation ratée : trop de parole. Deuxième passe : sirène trop tôt, faux Il-Rion, papier menteur. Tu as mis ton épaule dans le bois jusqu'à ce que les gonds crient assez fort pour acheter des secondes. Pas un geste de héros. Un calcul de temps. Quand la sirène s'est tue, tu étais encore debout. Tu t'en souviens quand une porte réelle grince à Ulghart.
 
-## Chapitre IV : Les défis actuels (Il-Irion)
+## Chapitre IV : Les défis actuels (Ulghart)
 
-Citadelle d'Ulghart, île d'Il-Irion. Le détachement ne vient pas pour admirer la Convention. Il vient pour obtenir des réponses sur le fer détourné, sur le Tripot qui résiste, sur le levier UBI que les chefs des Sangs n'ont pas livré assez net — et pour pousser les routes et les rabais dans le sens où la Styrgie peut saisir Arthas et Ther-Félis sans déclencher l'embargo qui ferait danser toute la Confédération sur le même air contre Elfrion.
+Citadelle d'Ulghart. Le détachement entre sous l'identité Questeur de messire Ydrael Montfou — Théven — après l'embuscade de la vraie escorte. Tu portes la garde du corps : insignes visibles, blessures encore possibles de la bataille. Un mercenaire de l'escorte adverse a réchappé : Théven veut le retrouver avant qu'il ne dénonce l'opération.
 
-Ton rôle dans cette machine : extraction de matériel ou de personnes, neutralisation ciblée, fermeture de fuites, poigne quand la pression sur les cadres des Sangs doit sentir le métal sans devenir spectacle. Tu n'as pas le droit au massacre public qui transformerait la citadelle en siège moral pour le bloc confédéral. Un bain de sang visible, c'est une carte cadeau offerte à ceux qui veulent refermer les rangs. Tu refuses de donner cette carte.
+Mandat affiché : six gardiens morts, surnormal, accès banque et fort. Mandat réel : fer, Tripot, UBI, routes — sans jamais citer le MiVI en public.
 
-Quand Ysel dit « sortir », tu sors : papier, homme, coffret — priorité à la preuve et à la sortie du détachement, pas à la vanité du coup. Quand Théven dit « visible », tu sais ce que ça veut dire : assez pour faire peur à la bonne table, pas assez pour faire pleurer toute l'île. Quand Lucan achète des secondes au salon, tu ne les gaspilles pas en héroïsme de couloir : tu les dépenses là où le bois ou le poignet fait gagner la mission, pas la réputation.
+Ton rôle : protéger Montfou et l'escorte, extraire papier ou homme quand Ysel l'ordonne, neutraliser le mercenaire ou toute fuite, poigne sur les Sangs sans spectacle. Un massacre public ferait refermer la Confédération : tu refuses cette carte.
+
+Quand Ysel dit « sortir », tu sors. Quand Théven dit « visible », assez pour faire peur à la bonne table, pas assez pour faire pleurer l'île. Quand Lucan retient un témoin à l'audition, tu sécurises la porte ; tu n'improvises pas seul.
 
 La Confédération se brise quand elle ne peut pas nommer un coupable unique. Elle se referme quand tu lui offres un monstre qu'elle peut photographier. Ton métier est le deuxième cas inversé : couper vite, disparaître, laisser des questions sans visage styrgien sur les murs. Quand Elfrion exige qu'une tension dure, tu la sers sans en faire une parade.
 
@@ -92,7 +94,7 @@ Gareth Ironfist côté Sangs peut prêter du muscle sur ordre : tu ne le confond
 
 ## Chapitre V : Le réseau et les relations
 
-Lucan achète du temps avec des mots. Ysel te dit ce qui vaut d'être sorti d'un tiroir. Miraen te dit où la foule regarde — ou ne regarde pas — quand le Tripot devient terrain. Théven garde le fil pour que tu ne deviennes pas l'histoire du week-end. Tu passes quand la conversation est finie. Tu ne doubles pas un ordre sans le dire après coup : la chaîne se casse si chacun improvise sa gloire.
+Lucan tient les auditions. Ysel te dit ce qui vaut d'être sorti d'un tiroir. Miraen te signale où regarder au Tripot quand l'instruction y entre. Théven est Montfou : il garde le fil pour que tu ne deviennes pas l'histoire du week-end. Tu passes quand l'audition est finie. Tu ne doubles pas un ordre sans en parler : la chaîne se casse si chacun improvise.
 
 Tu crains d'être l'excuse d'un massacre inutile — celui qui déshonore la mission en donnant à la Confédération le feu commun dont elle a besoin. Tu crains aussi l'inverse : hésiter une seconde de trop et laisser un compagnon payer ta prudence. Tu marches entre les deux. Ce n'est pas confortable. C'est propre au métier.
 
@@ -104,7 +106,8 @@ Chaque coup qui se voit trop devient un dossier pour la Confédération : ton m�
 # Tes missions et objectifs
 
 - **Préparer et exécuter** les entrées physiques (portes, rencontres qui basculent, extractions) quand le plan le exige.
-- **Protéger le détachement** si la couverture saute — violence maîtrisée, priorité à la sortie et aux preuves.
+- **Protéger Montfou et l'escorte** ; retrouver le mercenaire survivant avant qu'il ne parle.
+- **Protéger le détachement** si le mandat Questeur saute — violence maîtrisée, priorité aux preuves.
 - **Ne pas** déclencher l'incident qui ferait d'Ulghart un siège général : rester sous le seuil du massacre spectaculaire.
 
 # Connaissances

@@ -1,6 +1,6 @@
 # Raven — Maître des réseaux et négociateur
 
-<!-- GN 2026 — Les Sangs de la Steppe. Rôle joueur dérivé du back orga. Identité civile : non portée sur ce document. -->
+<!-- GN 2026 — Les Sangs de la Steppe. Identité civile non portée sur ce document. Texte joueur : tutoiement, in-univers. -->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
@@ -40,7 +40,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Ligne sensible avec Elfrion sur les gros dossiers ; vis-à-vis des remises d'or avec Korran Vesper. |
+| Remarques | Maître des routes (Guilde) ; remises d'or avec Korran Vesper ; ligne sensible avec Elfrion sur les gros dossiers. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -49,105 +49,125 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Analytique, organisé, méfiant, intelligent. |
-| Valeurs | L'information comme monnaie ; payer ceux qui t'ont traité en ressource. |
+| Valeurs | L'information se monnaie ; payer ceux qui t'ont traité en ressource. |
 | Peur | Perdre les fils ; qu'on retrouve ton nom de baptême. |
-| Rêve | Que les flux d'information passent par toi avant de passer par la vérité. Puis une bonne retraite bien méritée. |
+| Rêve | Que les flux passent par toi avant d'être publics ; puis quitter le métier avec une sortie signée. |
 
 ---
 
-# L'histoire de Raven
+# Biographie
 
-## Chapitre I : Les origines (enfance)
+## Enfance — docks et douane à Elfrion
 
-Tu apprends à Elfrion, entre docks et bureaux de douane, que l'or est une histoire et que l'histoire se vend. Tu tisses des fils entre contremaîtres, scribes et petits trafiquants pour éviter les prévôts — pas par idée, par survie.
+Tu as appris entre docks et bureaux de douane qu'un retard de convoi vaut une prime et qu'une rumeur se vend au bon comptoir. Tu as tissé des contacts entre contremaîtres, scribes et petits trafiquants pour éviter les prévôts.
 
-## Chapitre II : L'apprentissage (jeunesse)
+## Jeunesse — filets vers la Confédération
 
-Tu étends tes filets vers Staal puis les autres cités de la Confédération : tu apprends les signaux, les codes de remise, les délais où un parlement vaut mieux qu'un poignard. Tu analyses les patterns : qui ment toujours le même jour de la semaine.
+Tu as étendu tes relais vers Staal puis les autres cités : signaux de remise, codes, jours où un parlement vaut mieux qu'un poignard. Tu notes qui ment toujours le même jour de la semaine.
 
-## Chapitre III : L'ascension (vers le réseau)
+## Entrée dans les Sangs — il y a dix ans
 
-À trente-cinq ans, la mafia te rachète ta discrétion ; à quarante, tu signes avec les Sangs. Tu montes la cellule d'informateurs que Vorak exploite ; tu tiens le fil avec les appuis d'Elfrion quand Kaelan doit arbitrer un dossier trop lourd pour la cellule locale seule.
+À trente-cinq ans, le réseau t'a racheté ta discrétion ; à quarante, tu as signé avec les Sangs. Tu as monté la cellule d'informateurs que Vorak exploite. Tu tiens le fil avec les appuis d'Elfrion quand Kaelan doit arbitrer un dossier trop lourd pour la cellule locale.
 
-## Chapitre IV : Les défis actuels
+Tu es Maître des routes dans la Guilde des Ports Unis : publication et respect des contrats commerciaux fixés pendant la Régate — couverture pour être dans les commissions et les quais.
 
-Tu maintiens les canaux vers l'UBI, le Tripot, Palyr, Sfaal selon les opérations ; tu coordonnes les remises d'or avec Korran Vesper quand la mer entre dans l'équation. Shadow et toi vous partagez le territoire : lui les coffres et les doubles fonds, toi le quai et les visages qu'on peut montrer au jour.
+## Travail actuel — quai, UBI, Tripot
 
-Côté Arthas, tes informateurs parlent d'un incident grave et d'un bérêt écossais vert à pompon retrouvé sur les lieux. La délégation cherche à qui il appartient. Tu n'as pas encore le détail du mort, mais le calendrier colle aux absences et aux nerfs de Gareth Ironfist depuis l'arrivée à Ulghart.
+Tu maintiens les canaux vers l'UBI, le Tripot, Palyr et Sfaal selon les opérations. Tu coordonnes les remises d'or avec Korran Vesper quand la mer entre dans l'équation : lieu, heure, signes, comptage des sacs, confrontation aux montants convenus.
 
-## Chapitre V : Le réseau et les relations
+Shadow et toi partagez le territoire : lui les coffres et les doubles fonds, toi le quai et les visages qu'on peut montrer au jour. Tu t'accordes avec lui avant de repasser deux fois sur le même clerc.
 
-Kaelan te donne les feux verts sur les gros parlements ; Vorak cadence les cellules ; Gareth te couvre quand une rencontre peut virer au couteau. Drask répare tes informateurs quand tu les pousses trop loin.
+## Bérêt d'Arthas et stress de Gareth
+
+Les informateurs d'Arthas parlent d'un incident grave et d'un bérêt écossais vert à pompon retrouvé sur les lieux. La délégation cherche le propriétaire.
+
+Tu n'as pas encore la preuve que Gareth Ironfist a tué un oblat, mais ses absences et son stress depuis l'arrivée à Ulghart collent au calendrier. Tu dois savoir si le bérêt remonte à un des tiens avant qu'Arthas ou la milice n'impose une confrontation publique devant la Guilde.
+
+## Ulghart — remise d'or et conseil
+
+Le MiVI attend des comptes sur le fer détourné. L'or des pirates doit être remis : dix mille ducats pour le remplacement en mer ; le solde Aquiléa tourne autour de soixante-quinze mille après frais. Korran Vesper mène l'équipage ; tu négocies, tu valides le dépôt, tu obtiens le quitus ou tu reportes.
+
+En parallèle, le renouvellement du conseil UBI et les routes commerciales de la Régate passent par des parlements que tu ouvres ou que tu bloques.
 
 ---
 
 # Tes missions et actions
 
+## Ton rôle au quotidien
+
+Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu mènes les remises d'or avec les pirates.
+
 ## Objectifs prioritaires
 
-- Maintenir les informateurs et la sécurité des communications (codes, relais, coupe-circuits).
-- Ouvrir des négociations utiles au conseil de la banque et aux frictions entre cités — sans vendre le réseau par accident.
-- Gérer les interfaces avec le quai, les marchands et les partenaires maritimes (remises d'or).
-- Savoir si le bérêt remonte à un des tiens avant qu'Arthas ou la milice n'impose une confrontation publique.
+- Maintenir informateurs et communications : codes, relais, coupe-circuits si un homme est pris.
+- Ouvrir des négociations utiles au conseil UBI et aux frictions entre cités sans vendre le réseau par accident.
+- Clore la remise d'or avec Korran Vesper : compter, confronter au billet BM-III-546-005 détenu par Kaelan, éviter un incident qui expose le double jeu.
+- Savoir si le bérêt remonte à Gareth avant qu'Arthas ne frappe en public.
 
+## Ce que tu ne fais pas
 
+- Tu ne remplaces pas Shadow dans les coffres ni Drask dans les interrogatoires.
+- Tu ne cites pas le MiVI ni Elfrion devant un marchand ou un délégué confédéral.
 
 ## Informations sensibles
 
-- Tu touches à la ligne d'Elfrion sur les dossiers lourds : une erreur de ton côté et le MiVI ne règle pas seulement Kaelan — il règle toute la chaîne.
-- Scène type remises : voir `Groupes/PNJs/Scene_remise_or_mafia.md` si le fichier est présent en orga.
-- Tu soupçonnes fortement Gareth d'avoir laissé son bérêt sur un dossier Arthas lié à la mort d'un oblat ; tu n'as pas encore de confirmation qu'il a tué — seulement des absences, un signe vestimentaire et son stress.
-
-# Connaissances
-
-## Korran Vesper — Pirates d'Albar (PNJ)
-
-BM-III-546-005 + `Groupes/PNJs/Scene_remise_or_mafia.md`.
-
-## Marda Velyss — Il-Irion — Tripot
-
-RD-III-543-002.
-
-## Maître [nom à trouver] — Staal
-
-CC-III-544-002.
-
-## Torven Sorel — Guilde des Ports Unis (nom public)
-
-CO-II-545-001 — levier distinct du seul Tripot.
-
-## Edorian — UBI — direction
-
-FC-III-544-001.
-
-## Sybrel Dornik — UBI — Ombre
-
-MC-III-547-003 (Drask : angle chimique ; toi : relecture des codes).
-
-## Maître Vaelric Dorn — UBI — Discréteur
-
-PA-II-545-003 (Drask : crédibilité ; toi : tempo médiatique).
-
-## Dame Ydria Ventoss — UBI — Trésorière
-
-BC-III-544-003 (Drask : stress ; toi : narration politique).
-
-## Melian Torv — UBI — conseiller spirituel
-
-FL-III-545-002.
-
-## Cyrion Valdris — Il-Irion — Maison Valdris
-
-CP-III-542-001, `CP-III-542-002`, `CP-III-543-001` — aligné sur le dossier chef.
-
-## — — Quai — relais internes
-
-TR-III-547-005 — grille horaire / signaux (spécifique à ton rôle).
-
-## Délégation Arthas — Arthas — Oblats / suite
-
-Bérêt vert à pompon retrouvé près d'un incident ; recherche du propriétaire — à recouper avec Gareth avant qu'Arthas ne frappe à la Guilde ou à la milice.
+- Une erreur sur un dossier lourd remonte au-delà de Kaelan : le MiVI peut couper les flux ou envoyer des observateurs.
+- Tu soupçonnes Gareth pour le bérêt et l'oblat ; confronte-le en privé avant d'en parler à Kaelan si tu veux garder la maison sous contrôle.
 
 ---
 
-*GN Krondaar 2026*
+# Connaissances
+
+## Korran Vesper — Pirates d'Albar
+
+Korran est le point de contact de l'équipage pour le paiement du fer détourné. Scène type : vous vous retrouvez au quai ou dans une salle convenue, avec Garm le Roc qui sécurise, Miren Ald qui pèse sacs et sceaux, Sera Vane qui tient l'heure et les signes.
+
+Tu n'as pas le billet BM-III-546-005 sur toi : Kaelan le garde. Tu connais le texte : trois sacs au sceau du corbeau, remise après la cloche du second gardien, majoration d'un dixième si retard d'une marée. Tu négocies le montant réel (soixante-quinze mille restants côté Aquiléa contre cent mille prévus) et tu ne signes pas de quitus réseau sans avoir compté.
+
+## Marda Velyss — Tripot
+
+Kaelan détient RD-III-543-002 ; toi, tu connais la dette et les négociations orales avec Marda. Tu peux proposer commission sur les flux, dette contre couloir, ou rappeler le billet si Kaelan te l'ordonne. Le Tripot reste un objectif MiVI : renseignements et blanchiment.
+
+## Maître Halwen Rask — Staal
+
+La lettre CC-III-544-002 lie Halwen à une campagne de presse sur Orrin Malet. Tu peux lui acheter une chronique ou étouffer une feuille avant tirage — en coordination avec Kaelan, pas en solo.
+
+## Torven Sorel — Guilde des Ports Unis
+
+Torven est un nom public de la Guilde. Le contrat CO-II-545-001 (acier Sfaal–Palyr) est un levier distinct du Tripot : utile en commission Régate pour faire monter la pression entre délégations.
+
+## Edorian — UBI
+
+Le bordereau FC-III-544-001 documente des honoraires non consolidés sur la ligne casino. Tu peux en parler à Edorian en privé pour obtenir un vote ou un silence au conseil — Kaelan décide du moment.
+
+## Sybrel Dornik — UBI
+
+MC-III-547-003 est un message codé. Tu relis les codes ; Drask peut proposer un angle chimique si on te remet des effets liés à la piste. Accorde-toi avec Shadow : il a une histoire ancienne avec elle que les autres Sangs ne portent pas sur cette fiche.
+
+## Maître Vaelric Dorn — UBI
+
+PA-II-545-003 concerne crédibilité et tempo médiatique. Tu choisis quand une fuite circule et quand Vaelric doit l'enterrer.
+
+## Dame Ydria Ventoss — UBI
+
+BC-III-544-003 sert la narration politique autour des écarts. En commission, cite des chiffres arrondis ; ne montre pas le bordereau sans ordre de Kaelan.
+
+## Melian Torv — UBI
+
+FL-III-545-002 lie Melian à Palyr. Recoupe avec Kaelan avant une scène où Melian et des Palyriens sont dans la même pièce.
+
+## Cyrion Valdris — Il-Irion
+
+Tu connais les trois pièces CP-III-542-001, CP-III-542-002 et CP-III-543-001 sur la maison Valdris. Kaelan les détient ; tu peux négocier avec Cyrion en couloir si le chef te l'autorise.
+
+## Grille quai — TR-III-547-005
+
+Tu portes une copie de travail : colonnes marée, signal lanterne, interlocuteur attendu (initiales). Mention interne : ne pas croiser le fil Shadow le même jour. Utilise-la pour fixer rendez-vous pirates ou informateurs sans repasser par le billet maritime du chef.
+
+## Délégation Arthas — bérêt
+
+Bérêt vert à pompon retrouvé près d'un mort. Arthas cherche le propriétaire. Recoupe avec Gareth en privé avant qu'Arthas n'interpelle la Guilde devant témoins.
+
+---
+
+*GN Krondaar 2026 — Les Sangs de la Steppe*

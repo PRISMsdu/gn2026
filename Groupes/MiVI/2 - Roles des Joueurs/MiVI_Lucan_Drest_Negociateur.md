@@ -1,4 +1,4 @@
-# Lucan Drest — Négociateur / couverture « convention »
+# Lucan Drest — Adjoint Questeur (mandat Montfou)
 
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
@@ -37,10 +37,10 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Lucan Drest |
-| Rôle dans le groupe | Négociateur ; couverture convention / experts / maison maritime |
+| Rôle dans le groupe | Adjoint Questeur — auditions, langues, routes (mandat messire Ydrael Montfou) |
 | Classe / profession | Diplomate |
 | Compétences | Erudit ; Transe |
-| Groupe | MiVI (service du Primat, couverture civile) |
+| Groupe | MiVI (service du Primat ; escorte Questeur à Ulghart) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
@@ -54,7 +54,7 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Calme, précis, capable de formuler une menace en termes polis. |
-| Valeurs | Un contrat bien rédigé vaut une cargaison sauvée ; une fausse identité doit tenir jusqu'à la fin de son usage. |
+| Valeurs | Un procès-verbal bien tenu vaut une porte ouverte ; le mandat Questeur doit tenir jusqu'à la fin de l'instruction. |
 | Peur | Qu'un interprète tchélène reconnaisse, dans ta diction, l'entraînement d'Elfrion — et qu'on t'échange contre un prisonnier de frontière sans procès public. |
 | Rêve | Quitter Ulghart sans que ton nom figure sur un traité ou une dénonciation signée. |
 
@@ -76,7 +76,9 @@ La République styrgienne t'a recruté dans le MiVI, service du Primat : pas d'u
 
 Interprète sur une route « neutre » qui servait en réalité deux maisons. Une nuit d'escale, un homme allait prononcer à voix haute un terme qui aurait lié la cargaison à un entrepôt interdit. Pas de combat : une salle étroite et des témoins. Tu as remplacé le mot par un autre, assez proche pour que le contrat tienne, assez loin pour que personne ne saigne avant l'aube.
 
-Quelques semaines plus tard, un bureau sans fenêtre, trois questions sèches, une réponse sans embellir. On t'a donné un contact et une consigne : oublier le nom du recruteur. Depuis, tu négocies en public sous identité civile ; le reste du MiVI fait autre chose.
+Quelques semaines après cette escale, on t'a convoqué seul dans une salle sans fenêtre du service, à Elfrion. L'homme en face de toi — pas d'uniforme, pas de titre au col — t'a demandé ce que tu avais entendu avant d'intervenir, pourquoi tu avais remplacé ce mot du contrat, et si tu accepterais de négocier devant témoins sans jamais citer le MiVI ni le Primat. Tu as répondu court, sans embellir. On t'a remis un contact pour te signaler entre deux missions et une consigne : ne jamais donner le nom de celui qui t'avait recruté, même sous menace.
+
+On t'a formé aux auditions et aux formulations du mandat Questeur : poser les questions, tenir le registre, ne jamais citer le MiVI ni le Primat devant un témoin. Les registres et l'infiltration restent à d'autres ; toi, tu parles au nom de l'instruction.
 
 ## Chapitre III : L'ascension (forge Corvel et Staal)
 
@@ -88,7 +90,7 @@ Théven a demandé qui aurait parlé si l'exercice avait été réel. Personne n
 
 La première mission réelle vous a menés à Staal pour une nuit. Il fallait récupérer une copie de correspondance avant qu'elle ne parte dans une malle diplomatique. Le prévôt a changé d'itinéraire au dernier moment. Tu as inventé une dette d'honneur publique assez crédible pour qu'un messager te laisse passer un pli dans l'autre sens sans fouille devant témoins. Vous êtes ressortis avec la copie.
 
-Depuis dix-huit mois, le détachement se croise rarement entre deux missions. Théven tranche les arbitrages. Ysel lit les coffres et les preuves. Toi, tu négocies en public sous fausse identité. Varro tue ou neutralise quand la mission l'exige. Miraen travaille au Tripot.
+Depuis dix-huit mois, le détachement se croise rarement entre deux missions. Théven tranche les arbitrages. Ysel lit les coffres et les preuves. Toi, tu tiens les auditions et les contacts parlés sous mandat. Varro tue ou neutralise quand la mission l'exige. Miraen couvre le Tripot dans le cadre de l'enquête.
 
 ## Chapitre IV : Les défis actuels (Ulghart)
 
@@ -96,49 +98,32 @@ Tu arrives à la citadelle d'Ulghart, sur l'île d'Il-Irion, avec le détachemen
 
 Deux jours avant votre entrée au fort, le réseau a intercepté une escorte Questeur en route vers Ulghart : un Clerc de Jorock et trois gardes, enquête sur les six gardiens de la banque retrouvés morts. La bataille a tué plus de quinze mercenaires engagés pour l'opération. Un homme de l'escorte adverse a réchappé, blessé. Plusieurs membres de votre groupe portent encore des blessures visibles.
 
-Vous entrez sous identité Questeur : insignes, garde du corps, lettre d'ordre des Oblats au nom de messire Ydrael Montfou, actée par messire Horgrim Dval, chef de la Garde du fort. Tant que personne ne vérifie trop vite, vous avez accès aux couloirs, à la banque et aux auditions. Théven veut retrouver le mercenaire survivant et le faire taire avant qu'il ne dénonce l'embuscade.
+Théven porte l'identité de messire Ydrael Montfou, Questeur confédéré. Lettre d'ordre des Oblats, actée par messire Horgrim Dval. Toi, tu es adjoint assermenté sur le mandat : auditions, langues, rédaction des procès-verbaux. Varro et Miraen sont garde du corps ; Ysel greffière d'instruction. Insignes Questeur visibles. Tant que personne ne vérifie l'embuscade de l'escorte vraie, vous circulez dans les couloirs, la banque et les salles d'audition. Théven veut retrouver le mercenaire survivant avant qu'il ne parle.
 
-Ton rôle public à l'intérieur de cette entrée : expert maritime et négociateur de convention. Tu ne portes pas de bannière styrgienne. Tu parles de régate, d'escales, de rabais de fret, de contrats entre maisons. C'est ton métier affiché ; le reste du détachement a d'autres tâches.
+Elfrion t'a fixé trois chantiers, à mener au nom du Questeur quand c'est possible, et hors mandat seulement quand Théven l'ordonne.
 
-Elfrion t'a fixé trois chantiers pour la semaine, distincts mais liés.
+Premier chantier : régate et routes. Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. Elfrion veut orienter escales et contrats vers Arthas et Ther-Félis plutôt que vers Il-Irion seule, sans provoquer d'embargo. La pièce AN-III-547-008 est dans tes dossiers d'adjoint : leviers à proposer en audition ou en commission (sous-enchères, quai en échange, billets différés). Tu cites le mandat Montfou si un délégué résiste ; si « embargo » circule, tu arrêtes. Toute pression sur la Guilde ou le Tripot : ordre de Théven.
 
-Premier chantier : la régate et les routes. Pendant la Convention, les maisons de commerce enchérissent pour l'ordre d'accostage à Ulghart : qui mouille en premier, qui décharge avant l'autre. Elles négocient aussi des rabais sur le fret des lignes régulières, surtout Palyr–Il-Irion. Si ces contrats restent entre mains il-iriennes, le futur conseil de l'UBI penchera pour Il-Irion. Elfrion veut l'inverse : orienter escales et rabais vers des intermédiaires liés à Arthas et Ther-Félis, sans provoquer un embargo qui rallierait toute la Confédération contre la Styrgie.
+Deuxième chantier : commerce discret avec Palyr — hors mandat Questeur. Rendez-vous secret avec Thoran Keld (STY-547-PAL-THO-01), vendredi soir au quai, mot « cale close avant l'aube ». Tu n'y vas pas en Questeur : pas d'insigne, pas de procès-verbal. Ne cite ni MiVI, ni Primat, ni Montfou. Ne signe rien de lourd sans Théven.
 
-La pièce AN-III-547-008 est une liste remise avec tes papiers de couverture. Elle nomme trois interlocuteurs et ce que tu peux leur proposer en commission, au quai ou en salon.
-
-Sera Orist est un armateur secondaire d'Arthas, flotte légère. En séance sur la régate ou le fret, cite son nom et propose de soutenir sa sous-enchère sur la ligne Palyr–Il-Irion s'il engage du tonnage. Ne le confonds pas avec les navires d'apparat de la délégation officielle d'Arthas.
-
-Jonn Halet est le facteur d'escales de Ther-Félis : c'est lui qui attribue les quais. Pour qu'il favorise les routes utiles à Arthas et Ther-Félis, tu peux négocier en échange la réservation d'un quai pour des cargaisons hors registre confédéral. Halet signe souvent par un mandataire ; exige de parler à lui en personne.
-
-La Maison Veth & Roole passe pour une maison affiliée à la Guilde des Ports Unis. En réalité, elle sert d'intermédiaire pour des billets à ordre différés. Tu n'y recours que si Théven te l'ordonne explicitement, par exemple pour faire pression via certains intérêts du Tripot. Sans ordre, tu n'exposes pas la Guilde en public.
-
-L'annexe indique aussi un point de contact : quai B, lanterne jaune, troisième nuit de régate, pour un délégué transitoire d'Arthas. Si le mot « embargo » circule dans les couloirs, tu arrêtes toute pression sur les routes.
-
-Deuxième chantier : les contacts pro-styrgiens déjà ouverts. Deux lettres sont jointes à vos papiers communs. STY-547-THF-SVO-01 convoque Sven Orlac (Ther-Félis) à la taverne du fort, vendredi à vingt-deux heures trente, mot « marée du sud ». STY-547-ART-SCA-01 convoque Septimus Calveran (Arthas), même heure et même lieu, mot « brume du col ». Théven fixe qui y va et ce qui se dit ; toi, tu prépares le vocabulaire et tu évites de citer le MiVI en public.
-
-Troisième chantier : le commerce discret avec Palyr. C'est le tien seul. Elfrion veut relancer les livraisons d'armes et de matériel de forge vers la Styrgie, hors registres confédéraux. Une lettre sans en-tête de cité est partie pour messire Thoran Keld (STY-547-PAL-THO-01). Il sait qu'un envoyé viendra. Rendez-vous : vendredi soir, quai du fort, après la tombée du jour. Mot de passe : « cale close avant l'aube ». Ne cite ni le MiVI, ni le Primat, ni le Questeur. Ce fil ne passe pas par la Guilde des Ports Unis. Ne le mélange pas avec l'enquête sur le fer détourné entre Sfaal et Palyr : écoute, négocie, ne signe rien de lourd sans Théven.
-
-Sur place, trois lieux structurent ta semaine. Au Tripot, Miraen entre avec une identité que tu lui prépares ; tu lui donnes un nom et une histoire crédibles quand les clients du casino posent des questions. À l'UBI, Ysel lit les coffres et les archives ; tu la fais inviter aux commissions et dîners où elle doit être vue ; tu ne lis pas les registres à sa place. Aux quais et en commission régate, tu tiens le premier chantier avec AN-III-547-008.
-
-Tu connais aussi le contrat acier Sfaal–Palyr (CO-II-545-001) signé par Torven Sorel au nom public de la Guilde. C'est un autre dossier que le rendez-vous Thoran. Le rapport FL-III-545-002 lie Melian Torv, conseiller spirituel à l'UBI, à Palyr.
+Sur place : à l'UBI, Ysel ouvre les coffres ; tu l'accompagnes aux auditions où le mandat exige une seconde plume. FL-III-545-002 lie Melian Torv à Palyr : recoupe avec Ysel avant une scène où il est présent. Au Tripot, Miraen et toi auditions ou filatures sous couverture Questeur ; Marda Velyss peut exiger des comptes si l'enquête dérange sa maison. En commission régate, tu tiens le chantier routes avec AN-III-547-008. CO-II-545-001 (acier Sfaal–Palyr) est un autre dossier que Thoran. CP-III-542-001 peut gêner Cyrion Valdris en audition, pas en chantage public improvisé.
 
 ## Chapitre V : Le réseau et les relations
 
-Le détachement Corvel se partage le travail : Théven tranche, Ysel lit les preuves, Varro intervient quand la parole ne suffit plus, Miraen tient le Tripot, toi tu négocies en public. Les contacts extérieurs passent par toi ou par Ysel selon le dossier.
+Le détachement Corvel se partage le travail : Théven est Montfou, Ysel les preuves, Varro la garde, Miraen le Tripot, toi les auditions et les langues. Les contacts extérieurs passent par toi ou par Ysel selon le dossier.
 
 Théven Corvel commande le détachement. Il décide quel dossier passe en premier : fer détourné, Tripot, conseil UBI ou routes maritimes. Si une discussion que tu as ouverte met le groupe en danger, il coupe ou reporte. Tu lui rapportes ce que tu entends aux salons et aux quais. Il décide si on abandonne un informateur ou si on attend le lendemain.
 
-Ysel Marivent s'occupe des preuves écrites : registres UBI, codes pièce, copies de correspondance. Tu la fais inviter aux commissions, dîners et présentations où elle a besoin d'être vue. Tu ne lis pas les coffres à sa place. Si Melian Torv ou un greffier important est dans la même pièce, vous vous mettez d'accord avant de parler.
-
+Ysel Marivent s'occupe des preuves écrites : registres UBI, codes pièce, copies de correspondance. Tu la fais inviter aux commissions, dîners et présentations où elle a besoin d'être vue.
 Varro Selt intervient quand la négociation a échoué. Tu retiens le gardien ou l'hôte par la conversation ; Varro entre, ouvre ou neutralise. Avant qu'il agisse seul, tu préviens Théven.
 
-Miraen Talvas travaille au Tripot : tables, jetons, dettes des clients. Tu prépares les fausses identités qu'elle affiche en salle. Tu ne remplaces pas Miraen au casino.
+Miraen Talvas filtre le Tripot pour l'instruction : dettes, tables, flux. Tu rédiges les procès-verbaux de ses auditions. Tu ne remplaces pas Miraen en salle. Marda Velyss peut contester une perquisition ou une convocation : reste dans le cadre du mandat.
 
 Thoran Keld reçoit la lettre STY-547-PAL-THO-01 avec ses papiers de délégation Palyr. Rendez-vous vendredi soir au quai. Les autres membres de la délégation Palyr ne savent pas que tu viens de la Styrgie.
 
-Cyrion Valdris, Maison Valdris, peut être gêné par CP-III-542-001 : lettre d'adultère partielle. Ce n'est pas le dossier complet tenu ailleurs sur l'île.
+Melian Torv siège à l'UBI comme conseiller spirituel. Si vous êtes dans la même pièce, tu t'accordes avec Ysel avant de parler du lien Palyr documenté par FL-III-545-002.
 
-Halwen Rask imprime à Staal. CC-III-544-002 documente des articles favorables à certains intérêts. Utile pour savoir ce qui paraît avant qu'un greffier ne le lise.
+Cyrion Valdris porte la voix d'Il-Irion à la Convention. La pièce CP-III-542-001 peut le gêner au salon ; ce n'est pas le dossier complet tenu ailleurs sur l'île.
 
 
 ---
@@ -147,20 +132,20 @@ Halwen Rask imprime à Staal. CC-III-544-002 documente des articles favorables �
 
 ## Ton rôle au quotidien
 
-Tu parles cinq langues du Levant avec l'accent qu'il faut pour qu'on te donne une chaise plutôt qu'une menace. Tu négocies au salon et au quai. Tu formules des menaces en termes polis quand il le faut.
+Tu parles cinq langues du Levant. Tu conduis les auditions au nom de Montfou. Tu formules contraintes et menaces en termes du mandat Questeur quand il le faut.
 
 ## Objectifs prioritaires
 
-- Tenir la fausse identité : expert maritime et négociateur de convention ; aucune bannière styrgienne.
-- Orienter enchères d'escales et rabais de fret vers Sera Orist, Jonn Halet et la Maison Veth & Roole (AN-III-547-008) ; faire pencher le commerce maritime vers Arthas et Ther-Félis avant le vote du conseil UBI, sans attaquer la banque de front.
-- Préparer ou tenir, avec Théven, les rendez-vous Orlac et Calveran (vendredi 22 h 30, taverne du fort).
-- Tenir le rendez-vous Thoran Keld (vendredi soir, quai, mot « cale close avant l'aube ») ; relancer armes et matériel hors registres ; ne rien signer de lourd sans Théven.
+- Tenir le rôle d'adjoint Questeur : procès-verbaux, auditions, langues ; ne jamais citer le MiVI ni le Primat en public.
+- Orienter escales et rabais fret vers Arthas et Ther-Félis (AN-III-547-008) sous couverture du mandat, avant le vote du conseil UBI.
+- Rendez-vous Thoran Keld hors mandat (vendredi soir, quai, « cale close avant l'aube ») : sans insignes Questeur ; ne rien signer de lourd sans Théven.
+- Recouper avec Ysel avant toute scène UBI avec Melian Torv ; ne pas exposer FL-III-545-002 sans accord.
 
 ## Ce que tu ne fais pas
 
 - Tu ne remplaces pas Ysel dans les coffres ni dans les archives UBI.
 - Tu ne signes pas de traité lourd ni d'engagement financier majeur sans Théven.
-- Tu ne cites pas le MiVI, le Questeur ni le Primat devant Thoran Keld, les délégations ou les greffiers du fort.
+- Tu ne mélanges pas le rendez-vous Thoran avec une audition Questeur officielle.
 
 
 
@@ -170,53 +155,23 @@ Tu parles cinq langues du Levant avec l'accent qu'il faut pour qu'on te donne un
 
 ## Thoran Keld — Palyr (commerce gris)
 
-Lettre STY-547-PAL-THO-01 remise côté Palyr. Rendez-vous : vendredi soir, quai du fort. Mot : « cale close avant l'aube ». Ne cite pas le MiVI ni le Questeur.
+Marchand et capitaine de la délégation palyrienne. Lettre STY-547-PAL-THO-01 remise côté Palyr. Rendez-vous : vendredi soir, quai du fort. Mot : « cale close avant l'aube ». Ne cite pas le MiVI ni le Questeur. Les autres Palyriens ne savent pas que tu viens de la Styrgie.
 
 ## Melian Torv — UBI (conseiller spirituel)
 
-Melian est en contact avec Palyr. Un rapport en coffre, code FL-III-545-002, prouve ce lien. Recouper avec Ysel avant une scène registre où Melian est présent.
+Melian siège à l'UBI. Le rapport FL-III-545-002, en coffre, documente un lien avec Palyr. Recouper avec Ysel avant une scène registre où il est présent ; ne pas jouer cette pièce en public sans accord.
 
-## Cyrion Valdris — Maison Valdris (Il-Irion)
+## Cyrion Valdris — Il-Irion (diplomate)
 
-Lettre qui peut gêner Cyrion au salon (adultère). Pièce : CP-III-542-001. Ce n'est pas le dossier complet tenu ailleurs sur l'île.
+Cyrion porte la voix d'Il-Irion à la Convention. La pièce CP-III-542-001 peut le gêner au salon ; ce n'est pas le dossier complet tenu ailleurs sur l'île.
 
-## Torven Sorel — Guilde des Ports Unis (nom public)
+## Marda Velyss — Tripot (patronne)
 
-Contrat commercial sur l'acier entre Sfaal et Palyr. Pièce : CO-II-545-001.
+Marda tient le casino du fort. L'instruction Questeur peut l'auditionner ou convoquer des clients. Miraen y recueille flux et dettes ; tu rédiges. Si Marda conteste, tu cites le mandat Montfou ou tu remontes à Théven.
 
-## Halwen Rask — Staal (imprimerie)
+## Annexe routes — AN-III-547-008
 
-Presse et rumeurs ; lien avec complaisance éditoriale et scandale Staale (patriarche Orrin Malet). Pièce : CC-III-544-002.
-
-## Annexe routes — Arthas et Ther-Félis (AN-III-547-008)
-
-Pendant la Convention, les maisons se disputent l'ordre d'accostage à Ulghart et les rabais sur le fret des lignes régulières. Elfrion veut que ces contrats profitent à Arthas et Ther-Félis plutôt qu'à Il-Irion seule, pour influencer le futur conseil de l'UBI sans attaquer la banque ouvertement.
-
-La pièce AN-III-547-008 liste trois interlocuteurs et comment les aborder.
-
-Sera Orist, armateur secondaire d'Arthas (flotte légère) : en commission régate ou en salon fret, propose de soutenir sa sous-enchère sur Palyr–Il-Irion s'il engage du tonnage. Ce ne sont pas les navires d'apparat de la délégation officielle.
-
-Jonn Halet, facteur d'escales de Ther-Félis : il attribue les quais. Pour obtenir sa faveur sur les routes Arthas–Ther-Félis, tu peux offrir en échange la réservation d'un quai pour cargaisons hors registre. Exige Halet en personne ; ses mandataires ne signent pas toujours.
-
-Maison Veth & Roole, couverture Guilde des Ports Unis : intermédiaire pour billets à ordre différés. Tu n'en parles qu'avec l'accord explicite de Théven. Sans ordre, tu n'exposes pas la Guilde.
-
-Point de contact annexe : quai B, lanterne jaune, troisième nuit de régate. Si le mot « embargo » circule, tu arrêtes toute pression sur les routes.
-
-## Sven Orlac
-
-Contact Ther-Félis ; RDV taverne vendredi 22 h 30 ; mot « marée du sud ».
-
-## Septimus Calveran
-
-Contact Arthas ; RDV taverne vendredi 22 h 30 ; mot « brume du col ».
-
-## Sera Orist
-
-Armateur Arthas ; cible AN-III-547-008 pour sous-enchères fret Palyr–Il-Irion.
-
-## Jonn Halet
-
-Facteur d'escales Ther-Félis ; attribue les quais ; négocier en personne.
+Dossier adjoint : escales et rabais fret Palyr–Il-Irion, ligne Arthas / Ther-Félis. Leviers en audition ou commission. Si « embargo » circule, tu arrêtes. Pression Guilde ou Tripot : ordre de Théven.
 
 ---
 

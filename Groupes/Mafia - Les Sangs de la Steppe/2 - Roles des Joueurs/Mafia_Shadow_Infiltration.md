@@ -1,6 +1,6 @@
 # Shadow — Infiltrateur et expert en extorsion
 
-<!-- GN 2026 — Les Sangs de la Steppe. Rôle joueur dérivé du back orga. Identité civile : non portée sur ce document. -->
+<!-- GN 2026 — Les Sangs de la Steppe. Identité civile non portée sur ce document. Texte joueur : tutoiement, in-univers. -->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
@@ -40,7 +40,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Cheveux / lentilles selon couverture ; ne pas saturer les mêmes contacts que Raven sans accord. |
+| Remarques | Couvertures variables (cheveux, lentilles) ; ne pas saturer les mêmes contacts que Raven sans accord. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -49,99 +49,133 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Furtif, observateur, adaptable, méfiant. |
-| Valeurs | Survivre, payer ceux qui t'ont exploité, vendre cher ta compétence. |
+| Valeurs | Survivre ; vendre cher une compétence que d'autres t'ont exploitée. |
 | Peur | Qu'on retrouve ton vrai nom ; de retomber dans la faim. |
-| Rêve | Brûler les secrets des puissants un à un. Puis une bonne retraite bien méritée. |
+| Rêve | Partir avec assez d'or et sans qu'une étiquette de coffre porte ton nom de naissance. |
 
 ---
 
-# L'histoire de Shadow
+# Biographie
 
-## Chapitre I : Les origines (enfance)
+## Enfance — Elfrion et Il-Irion
 
-Tu grandis entre les ruelles d'Elfrion et les bas-fonds d'Il-Irion : pas de filiation qu'on affiche — seulement la règle que la foule te rend invisible si tu sais changer de peau avant qu'on te touche.
+Tu as grandi entre les ruelles d'Elfrion et les bas-fonds d'Il-Irion. Pas de filiation affichée : seulement la règle de changer de visage avant qu'on te touche.
 
-## Chapitre II : L'apprentissage (jeunesse)
+## Jeunesse — vol et doubles fonds
 
-Tu voles et tu espionnes pour des clients qui ne veulent pas leurs noms sur un contrat. Tu apprends les doubles fonds, les sceaux qu'on peut imiter, les greffiers qu'on peut acheter pour une heure. Le détroit entre République et Confédération devient ton atelier.
+Tu as volé et espionné pour des clients sans contrat signé. Tu as appris les doubles fonds, les sceaux imitables, les greffiers payés pour une heure. Le détroit entre République et Confédération est ton atelier.
 
-## Chapitre III : L'ascension (vers le réseau)
+## Incendie de 525 — Sira et Lira Vestrann
 
-**Avant la signature aux Sangs**, tu vivais déjà des filières qu'on ne met pas sur contrat : messageries d'enfants, doubles fonds de cabanes de quai, chaînes où un adulte ne montre jamais son vrai visage. Sur une passe — documents, ou silence acheté — une gamine de la chaîne **rate le signal** : trop long sur un quai, un regard de trop. Le protocole, c'était de remonter le nom et laisser les « nettoyeurs » régler l'addition : tu savais ce que ça voulait dire. Tu as fait **l'autre choix** : tu n'as rien remonté qui l'identifiait, tu as **bouclé le trou** toi-même, menti par omission aux intermédiaires. Pas de héros : du calcul froid — et un reste que tu n'as pas su jeter.
+En l'an 525, tu as seize ou dix-sept ans. Une panique d'incendie secoue le bas port d'Il-Irion : l'auberge Vestrann brûle, la foule bloque la porte.
 
-**Plus tard**, tu as appris qu'elle avait survécu, quitté la rue, pris un nom qui tient debout : **Sybrel Dornik**, aujourd'hui à l'**Union bancaire** — garde, ombre des tunnels, le genre de poste où un ancien réseau croise forcément le fer avec ta mission. Tu sais où elle bosse ; tu **ne veux pas** qu'elle paie pour ton monde. Protéger sans te griller, sans la griller : c'est la ligne que tu te donnes.
+Tu passes par les toits. Tu sors Lira Vestrann par une fenêtre du couloir bas et la descends dans une ruelle. Tu tires Sira, plus jeune, du palier enfumé et la déposes à l'hôpital de charité avec son nom. Père, mère, frère cadet : morts. Les filles se croient seules l'une sans l'autre ; tu ne les réunis pas ce soir-là.
 
-À vingt-huit ans, la mafia te remarque ; à trente, tu signes officiellement avec les Sangs. Tu places des documents dans des coffres, tu pousses des familles au bord du précipice avec leurs propres lettres. Il y a six mois, une infiltration banque encore fraîche dans les rumeurs du réseau.
+Tu murmures le nom Shadow. Elles ne connaissent pas ton visage d'adulte.
 
-## Chapitre IV : Les défis actuels
+Après le feu, tu les suis de loin : bourses sous paillasson, dettes effacées par intermédiaire, hommes détournés. Tu as investi dans deux vies ; tu n'as pas encore présenté la facture.
 
-Tu vise le futur conseil de l'UBI, les nobles d'Il-Irion, les assemblées où un mot suffit à changer une ligne de crédit. Vorak te cadence ; Raven partage les fils maritimes et bancaires — tu évites de marcher deux fois sur le même clerc sans lui parler avant. **Sybrel** travaille **dans** ce périmètre : chaque fois que la mission touche la banque, tu portes **deux** poids — le rendu compte aux Sangs, et le tien. Tu veux qu'elle **s'en sorte** ; tu ne lui dois pas la gueule, mais tu lui dois **un passage** qu'elle ignore peut-être encore toute la mesure.
+## Sybrel — avant les Sangs
 
-## Chapitre V : Le réseau et les relations
+Sur une passe de documents, une gamine de ta chaîne de messagers rate le signal : trop long sur un quai, un regard de trop. Le protocole voulait remonter son nom aux nettoyeurs. Tu as menti par omission aux intermédiaires et refermé l'affaire de ton côté.
 
-Kaelan te fait confiance utile, jamais totale — c'est le métier. Gareth te sort des caves quand une couverture crame ; Drask te donne les poisons dont tu ne parles pas aux prêtres. Raven et toi vous complétez : toi l'ombre des coffres, lui le quai et les parlements ouverts.
+Elle a survécu. Elle s'appelle aujourd'hui Sybrel Dornik et garde les tunnels de l'UBI. Tu ne veux pas qu'elle paie pour ton monde actuel. Les autres Sangs ne portent pas cette histoire.
+
+## Signature aux Sangs — il y a huit ans
+
+À vingt-huit ans, le réseau t'a remarqué ; à trente ans, tu as signé avec les Sangs. Tu places des documents dans des coffres, tu pousses des familles avec leurs propres lettres.
+
+Il y a six mois, une infiltration banque est encore fraîche dans les rumeurs du réseau. Vorak te cadence ; Raven tient le quai et les parlements — tu évites de voir deux fois le même clerc le même jour sans lui parler.
+
+## Tripot — Vestrann et Convention
+
+Sira et Lira Vestrann tiennent les tables au Tripot d'Ulghart pendant la Convention. Tu les suis : filatures discrètes, couverture quand un créancier ou un soldat les presse, recoupement avec Varek Pisteur du Tripot sans tout lui dire.
+
+Elles ne savent pas que l'homme de 525 et toi partagez la même dette. Tu prépares le moment où tu leur demanderas service, silence ou accès — sans les brûler avant que la maison ne t'ait rendu ce qu'elle doit.
+
+## Ulghart — UBI et retraite
+
+Tu vises le futur conseil UBI, les nobles d'Il-Irion, les assemblées où un mot change une ligne de crédit. Chaque mission banque te met entre rendre des comptes aux Sangs et protéger Sybrel sans la griller.
 
 ---
 
 # Tes missions et actions
 
+## Ton rôle au quotidien
+
+Tu infiltreras, tu extorqueras par documents, tu fabriques des fuites que Vaelric enterre ou relance selon ton plan.
+
 ## Objectifs prioritaires
 
-- Infiltrer ou presser les filières utiles au nouveau conseil de la banque et aux familles.
-- Collecter des documents et des doubles de sceaux sans laisser de chaîne jusqu'à ton vrai visage.
-- Coordonner avec Raven et Vorak pour ne pas doubler les mêmes interlocuteurs.
+- Infiltrer ou presser les filières utiles au conseil UBI et aux familles d'Il-Irion.
+- Collecter copies de sceaux et lettres sans laisser de chaîne jusqu'à ton vrai visage.
+- Coordonner avec Raven et Vorak pour ne pas doubler les mêmes interlocuteurs le même jour.
+- Couvrir Sira et Lira Vestrann au Tripot sans révéler aux Sangs ni aux sœurs l'étendue de ton lien de 525.
+- Préparer la facture : service, silence ou accès — quand Kaelan ou toi jugerez le moment.
 
+## Ce que tu ne fais pas
 
+- Tu ne mènes pas les remises d'or avec Korran : c'est Raven.
+- Tu ne cites pas ton nom de naissance ni l'incendie de 525 devant le groupe sans ordre de Kaelan.
 
 ## Informations sensibles
 
-- Ton identité réelle : si elle tombe, tu n'es plus un atout — tu es un otage qui connaît trop de coffres.
-- Rapport type « L'Ombre » : RA-III-546-004 — billet d'agent vers Kaelan sur l'arguethain ; à toi de décider en jeu si c'est ta plume ou celle d'un prédécesseur.
+- Si ton identité tombe, tu deviens un otage qui connaît trop de coffres.
+- Le rapport RA-III-546-004 sur l'arguethain peut être ta plume ou celle d'un prédécesseur : en jeu, tu décides si tu le reconnais devant Kaelan.
+- Si l'histoire Vestrann éclate, tu perds ta couverture et elles perdent leur abri au Tripot.
 
 ---
 
 # Connaissances
 
-## Korran Vesper — Pirates d'Albar (PNJ)
+## Sira Vestrann — Tripot (croupière)
 
-RA-III-546-004 — rapport arguethain (coordonné avec Vorak, pas le gage **BM-III-546-005** du chef).
+Tu l'as sortie du palier enfumé en 525 et déposée à l'hôpital. Aujourd'hui elle lit les mains au Tripot avec Lira. Tu interviens par intermédiaires, filatures, pots-de-vin sur un créancier. Tu peux lui demander un service discret (ouvrir une table, fermer une oreille) sans révéler qui tu étais à seize ans — jusqu'à ce que tu choisisses de présenter la facture.
 
-## Marda Velyss — Il-Irion — Tripot
+## Lira Vestrann — Tripot (croupière)
 
-Nuit passée sous faux nom — pas la reconnaissance 007.
+Tu l'as sortie par la fenêtre la même nuit. Elle est plus endettée moralement que sa sœur : Saevar Dren du Tripot lui doit 8 234 couronnes selon les rumeurs que tu as recoupées. Tu peux utiliser cette dette si la Régate l'exige, ou la laisser mûrir. Tu la surveilles : elle vendrait une information si la maison ne payait pas assez.
 
-## Maître [nom à trouver] — Staal
+## Sybrel Dornik — UBI (garde des tunnels)
 
-Tu n'as pas la lettre complète `CC-III-544-002` — tu as arraché une épreuve avant tirage.
+Tu l'as protégée enfant en coupant le protocole qui l'aurait livrée. Aujourd'hui elle arpente les sous-sols. Les autres Sangs ne savent pas. Le message MC-III-547-003 circule sur d'autres angles : ne la cite pas devant elle sans préparer ta couverture. En tunnel, un croisement peut la brûler si le réseau comprend qui elle était ; protège-la sans te griller.
 
-## Edorian — UBI — direction
+## Korran Vesper — Pirates d'Albar
 
-FM-III-546-006 — fragment brûlé sur coffres (indice d'accès).
+Le rapport RA-III-546-004 sur l'arguethain est coordonné avec Vorak. Tu ne tiens pas le billet BM-III-546-005 du chef. Tu peux l'utiliser en commission pour orienter une ligne maritime si Kaelan te l'ordonne.
 
-## Sybrel Dornik — UBI (Ombre)
+## Marda Velyss — Tripot
 
-Tu te souviens d'elle petite, dans une chaîne où les adultes ne prêtent pas serment — seulement des consignes. Elle a failli te coûter une passe ; au lieu de la livrer au silence du réseau, tu as taillé dans le vif du protocole : pas de nom remonté, histoire refermée de ton côté. Ce jour-là tu n'étais pas encore Shadow aux yeux des Sangs ; tu étais déjà quelqu'un qui choisit quand la faim et la peur ne décident pas à ta place.
+Tu as passé une nuit au Tripot sous faux nom ; ce n'est pas la reconnaissance de dette RD-III-543-002 de Kaelan. Tu peux revenir sous couverture pour observer les flux ou tester la résistance de Marda avant qu'elle ne te reconnaisse.
 
-Aujourd'hui elle s'appelle Sybrel Dornik ; elle arpente les sous-sols de l'UBI. Les autres Sangs ne portent pas cette histoire : pour eux, c'est une ombre banquière parmi d'autres. Toi, tu sais qui elle a été sur le quai.
+## Maître Halwen Rask — Staal
 
-Elle te croit peut-être encore du mauvais côté. Tu sais qu'elle a tort et raison : tu n'étais pas son sauveur, tu t'es protégé en la protégeant. Quand la mission t'amène contre ou à travers l'UBI, tu es pris entre rendre des comptes sans lui offrir en sacrifice et la couvrir sans qu'elle doive t'aimer pour autant. Croisements tunnels : vrai danger pour elle si le réseau comprend qui elle est. Pièce partagée avec d'autres angles mafia : MC-III-547-003.
+Tu n'as pas la lettre complète CC-III-544-002 : tu as arraché une épreuve avant tirage. Tu peux la montrer à Halwen pour négocier silence ou complaisance, ou la brûler si Kaelan préfère étouffer la campagne.
 
-## Maître Vaelric Dorn — UBI — Discréteur
+## Edorian — UBI
 
-Tu fabriques des fuites qu'il enterre — pas le placard 12 mot pour mot (Drask le cite).
+Le fragment FM-III-546-006 est un morceau brûlé trouvé près de coffres : indice d'accès, pas une preuve complète. Sers-toi en pour demander une clé, une audience ou une peur — puis remonte à Kaelan.
 
-## Dame Ydria Ventoss — UBI — Trésorière
+## Maître Vaelric Dorn — UBI
 
-Lecture des écarts par rumeurs de comptoir — pas le bordereau 13 en main.
+Tu fabriques des fuites qu'il enterre parfois. Tu ne détiens pas le placard PA-II-545-003 mot pour mot : tu proposes à Vaelric un échange feuille contre retard d'enquête sur la Guilde.
 
-## Melian Torv — UBI — conseiller spirituel
+## Dame Ydria Ventoss — UBI
 
-Confession simulée — sans le fragment 10 du dossier chef.
+Tu lis les écarts par rumeurs de comptoir, pas par le bordereau BC-III-544-003 en main. En salon, cite des montants entendus ; pour une confrontation lourde, demande la pièce à Kaelan.
 
-## Cyrion Valdris — Il-Irion — Maison Valdris
+## Melian Torv — UBI
 
-CP-III-542-002 seul — une trame de chantage (le chef tient **CP-III-542-001–CP-III-543-001**).
+Tu peux simuler une confession ou une crise de conscience devant Melian pour tester sa réaction vers Palyr — sans brandir le fragment FL-III-545-002 du chef en public.
+
+## Cyrion Valdris — Il-Irion
+
+Tu détiens CP-III-542-002 seul : une trame de chantage sur la maison Valdris. Kaelan a CP-III-542-001 et CP-III-543-001. En couloir, montre ta copie pour obtenir un rendez-vous ; pour une pression totale, passe par le chef.
+
+## Varek Pisteur — Tripot
+
+Varek tient les pistes et les silences au Tripot. Tu recoupes avec lui sans tout dire sur les sœurs Vestrann : demande passage, filature ou diversion ; ne lui confie pas l'incendie de 525.
 
 ---
 
-*GN Krondaar 2026*
+*GN Krondaar 2026 — Les Sangs de la Steppe*

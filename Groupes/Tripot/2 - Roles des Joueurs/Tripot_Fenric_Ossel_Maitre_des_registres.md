@@ -41,7 +41,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Trois registres distincts avec Marda ; discrétion professionnelle envers l'UBI et l'équipe. |
+| Remarques | Trois registres distincts avec Marda ; discrétion professionnelle envers l'UBI et l'équipe. Recherché par la police des fraudes de Ther-Félis depuis ta fuite — jamais repris. |
+| Âge | 59 ans (année 547) |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -49,24 +50,56 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Précis, calme, patient ; tu parles peu en salle. |
+| Traits de caractère | Précis, calme, patient ; tu parles peu en salle. Tu ne racontes pas le naufrage aux clients. |
 | Valeurs | Les chiffres doivent tenir le jour où tout le monde ment ; la loyauté à Marda parce qu'elle t'a confié les vrais totaux. |
-| Peur | Un sceau posé sur un livre que tu n'as pas eu le temps de fermer ; que Marda parte trop loin dans une zone où tu ne peux plus la suivre ni la protéger avec des colonnes. |
-| Rêve | Partir avec elle et l'équipe, assez d'or pour que personne ne te redemande où passait la marge — sans laisser un registre ouvert derrière vous. |
+| Peur | Un sceau posé sur un livre que tu n'as pas eu le temps de fermer ; qu'un visiteur de Ther-Félis te reconnaisse pendant la Convention ; que Marda parte trop loin dans une zone où tu ne peux plus la suivre. |
+| Rêve | Partir avec elle et l'équipe, assez d'or pour que la police des fraudes ne te redemande plus ton nom — sans laisser un registre ouvert derrière vous. |
 
 ---
 
 # Biographie
 
-## Comptabilité de façade et comptabilité réelle
+## Enfance à Il-Irion — maison Ossel
 
-Tu as appris la comptabilité dans des maisons qui tenaient déjà deux jeux de livres : un pour le client, un pour le patron. Très tôt, tu as préféré les colonnes aux promesses. Consolidation, réserves, bordereaux : tu as suivi des casinos et des prêteurs quand les flux dépassaient ce qu'une seule caisse pouvait absorber.
+Tu es né à Il-Irion, dans le quartier des armateurs. Ton père tenait les livres d'une maison de négoce qui affrétait des cogs vers Ther-Félis et Escalèche. Ta mère comptait les provisions et les salaires domestiques. Tu as grandi entre le bureau et les quais : recopier des manifestes, additionner des ballots, apprendre les noms des capitaines et des changeurs.
 
-Tu sais séparer ce qui tient devant un auditeur de ce qui tient devant la caisse interne. Ce n'est pas une théorie pour toi : c'est le métier.
+Les étés, ton père t'emmenait parfois à bord avant le départ pour vérifier les cargaisons déclarées. Tu dormais mal sur l'eau, mais tu aimais lire les chiffres avec lui sous la dunette. Jusqu'à quinze ans, tu n'as connu ni dettes impayées à la maison ni dispute qui dure. Tu croyais que les chiffres suffisaient à protéger une maison et les gens qui y travaillent.
 
-## Il y a plusieurs années — Marda te prend au Tripot
+## Naufrage — seul survivant, puis Ther-Félis
 
-Les volumes du Tripot grossissent après la reprise de Marda Velyss au fort d'Ulghart. Elle t'engage comme maître des registres. Tu travailles surtout pour elle, pas pour la salle : elle te confronte quand un total lui semble flou, elle te demande des tableaux avant les grandes soirées, elle referme avec toi les livres longtemps après la dernière table.
+Il y a quarante-trois ans, en l'an 504, ta famille embarque sur un cog de la maison pour un voyage d'inspection à Ther-Félis. Ton père doit contrôler un stock déposé au port félilien. Une tempête casse le mât principal et emporte une partie du pont. Le navire sombre dans la nuit. Tu t'accroches à une planche de cargaison jusqu'à ce qu'un chalutier de Ther-Félis te repêche au matin.
+
+Tu as seize ans. Ton père, ta mère et tes deux frères cadets ne reviennent pas. Les autorités portuaires de Ther-Félis enregistrent le naufrage ; un greffier conserve la liste des morts. La maison de négoce d'Il-Irion fait faillite quelques mois plus tard sans tes parents pour la diriger.
+
+Des parents d'amis t'hébergent à Ther-Félis le temps d'un hiver. Ensuite tu entres comme commis chez un prêteur du port : cautions sur navire, intérêts, gages sur cargaisons.
+
+## Ther-Félis — commis prêteur jusqu'à quarante ans
+
+Tu restes chez le même prêteur vingt-quatre ans, de tes seize à tes quarante ans. Tu montes du recopiage des manifestes à la tenue des gros livres. Le patron te laisse ouvrir les coffres quand il est en tournée sur les quais. Tu connais les greffiers du port, les armateurs endettés, les formules de gage qui tiennent devant un tribunal félilien.
+
+Tu apprends à séparer ce qu'un client doit voir de ce que la maison garde pour elle. Les années passent : mariages de filleuls, faillites de capitaines, saisons où les taux montent. Tu vis modestement à Ther-Félis. Tu ne repars pas vers Il-Irion : le port félilien est devenu ta maison depuis le naufrage.
+
+## Quarante ans — fraude et fuite
+
+En l'an 528, tu as quarante ans. Tu triches depuis plusieurs saisons dans les livres du prêteur : cautions doublées sur des cargaisons fictives, intérêts encaissés deux fois sur les mêmes gages, dettes effacées contre des parts que tu retires pour toi. Tu crois tenir l'écart assez longtemps pour constituer une réserve.
+
+Un commis rival compare deux registres. La police des fraudes de Ther-Félis ouvre une enquête. Tu apprends qu'un mandat est prêt avant l'aube. Tu prends un sac d'or, deux carnets utiles et tu passes le détroit de nuit vers Il-Irion. Tu laisses le prêteur avec le trou dans ses colonnes.
+
+Depuis dix-neuf ans, ton nom figure sur les listes de recherche féliliennes. Personne ne t'a repris. Tu as gardé le nom Fenric Ossel : à Il-Irion, le naufrage de ta famille est un vieux dossier ; la fraude de Ther-Félis ne circule pas dans les mêmes couloirs que les tripots.
+
+## Il-Irion — tripots avant Ulghart
+
+À ton arrivée à Il-Irion, tu travailles pour des casinos et des prêteurs qui tiennent déjà deux jeux de livres : un pour le questeur, un pour la caisse interne. Consolidation, réserves, bordereaux : tu suis des maisons quand les flux dépassent ce qu'une seule caisse peut absorber.
+
+Pendant près de dix ans, tu changes de patron deux fois sans laisser de trace vers Ther-Félis. Tu refuses les contrats qui exigent un acte signé au port félilien. Depuis le naufrage, tu ne fais confiance qu'aux colonnes que tu contrôles toi-même ; depuis la fuite, tu évites tout greffier qui pourrait recouper ton nom avec l'an 528.
+
+## Il y a dix ans — Marda te prend au Tripot
+
+Il y a dix ans, en l'an 537, Marda Velyss reprend le casino du fort d'Ulghart. Les volumes grossissent ; elle cherche un maître des registres qui sait tenir plusieurs histoires à la fois. Tu postules sous le nom que tu portes encore : Fenric Ossel, comptable de tripots, origine ilirionienne, long séjour à Ther-Félis avant Il-Irion.
+
+Marda te retient après une nuit d'essai sur ses livres. Tu lui dis une partie de la vérité : fraude à Ther-Félis, police des fraudes, fuite. Elle te prend quand même. Le fort d'Ulghart lui convient : garnison, contrat UBI, clientèle mêlée, peu de contrôles féliliens en routine. Tu t'y caches autant que tu y travailles.
+
+Elle t'engage comme maître des registres. Tu travailles surtout pour elle, pas pour la salle : elle te confronte quand un total lui semble flou, elle te demande des tableaux avant les grandes soirées, elle referme avec toi les livres longtemps après la dernière table.
 
 L'équipe du casino te connaît comme l'homme de la porte fermée. Guelievre ne lit pas tes classeurs. Ardan te protège si quelqu'un force l'accès. Les autres savent que tu tiens les chiffres ; seule Marda voit l'ensemble.
 
@@ -102,9 +135,8 @@ Depuis quelques jours, tu te demandes d'où vient le réseau qui protège le Tri
 
 ## Convention, régate, audit
 
-La Convention remplit le fort. La régate fait monter jetons et paris. Tu gardes le registre officiel propre pour l'UBI. Tu protèges l'officieux pour le rétroactif quinze pour cent. Tu ne laisses personne ouvrir le registre secret de Marda sans ordre d'elle.
+La Convention remplit le fort. La délégation de Ther-Félis est à Ulghart pour la régate : greffiers, marchands, officiers portuaires. Tu évites les quais quand tu peux. Tu gardes le registre officiel propre pour l'UBI. Tu protèges l'officieux pour le rétroactif quinze pour cent. Tu ne laisses personne ouvrir le registre secret de Marda.
 
-Marda te briefe à voix basse avant chaque grande soirée : ce qui peut tenir devant un greffier, ce qui doit rester dans le bureau, ce qui ne sort pas du tout. Tu es son relais chiffré auprès du reste de l'équipe — surtout Éliane, quand les registres de paris croisent une saisie possible.
 
 ---
 
@@ -123,6 +155,7 @@ Avant une soirée chargée, Marda et toi recoupez les trois registres. Quand Él
 - Te synchroniser avec Éliane sur les registres de paris : recoupement critique si l'audit tombe pendant la régate.
 - Préparer copies, sacs et écritures de fuite sans fermer le site trop tôt.
 - Repérer les croisements possibles avec le registre central de la banque si une scène t'y mène.
+- Éviter qu'un visiteur félilien ne recoupe ton nom avec le mandat de 528 pendant la Convention.
 
 ## Ce que tu ne fais pas
 
@@ -137,10 +170,19 @@ Avant une soirée chargée, Marda et toi recoupez les trois registres. Quand Él
 
 - Trois registres distincts : officiel (UBI), officieux (banque / Edorian / rétroactif), secret (visiteurs de l'ancien réseau de Marda). Ne pas les mélanger en scène ni en saisie.
 - Tu ignores le nom exact et le métier du réseau derrière le registre secret ; tu vois les montants et les visages. Marda ne t'a pas tout dit — volontairement.
+- Fraude à Ther-Félis en 528 ; mandat de la police des fraudes félilienne toujours actif. Marda et toi seuls au Tripot connaissent ce volet ; le reste de l'équipe te connaît comme comptable ilirionien.
 - Marda cache une autre activité que la comptabilité. Tu as peur qu'elle aille trop loin dans une zone dangereuse ; tu restes loyal et tu fermes les livres qu'elle te confie.
 - Ne montre pas la structure des trois registres à d'autres joueurs hors scène — révélations en roleplay seulement.
 
 # Connaissances
+
+## Prêteur du port — Ther-Félis
+
+Tu as travaillé vingt-quatre ans chez un prêteur félilien, de tes seize à tes quarante ans. Tu connais les quais, les greffiers et les formes de gage qui tiennent devant un tribunal portuaire. Si un client de la Convention cite Ther-Félis ou un manifeste félilien, tu peux vérifier si la forme tient — pas si la dette est honnête. Évite de signer quoi que ce soit au nom de Fenric Ossel devant un greffier félilien : ton mandat de 528 peut encore circuler dans leurs registres.
+
+## Police des fraudes — Ther-Félis
+
+En 528, la police des fraudes t'a ouvert une enquête pour cautions fictives et détournements sur les livres du prêteur. Tu as fui avant arrestation. Dix-neuf ans plus tard, personne ne t'a repris ; la Convention ramène des officiels et des marchands féliliens à Ulghart. Si quelqu'un pose des questions sur un comptable disparu du port, tu préviens Marda avant de répondre.
 
 ## Edorian / conseil sortant UBI — Banque
 

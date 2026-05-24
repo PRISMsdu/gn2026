@@ -41,7 +41,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Réseau d'informateurs — à densifier avec MJ si besoin. |
+| Âge | 41 ans (année 547) |
+| Remarques | Ancien traqueur de la République styrgienne ; réseau d'informateurs actif au-delà d'Ulghart. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -49,61 +50,120 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Patient, observateur, loyal à l'équipe. |
-| Valeurs | Voir avant d'être vu ; parler avec des **faits**. |
-| Peur | La mission ratée parce que personne n'a **écouté** le signal. |
-| Rêve | Que le meilleur pisteur soit celui qu'on ne raconte pas. |
+| Traits de caractère | Patient, observateur, peu de mots en public ; loyal à l'équipe du Tripot une fois la consigne donnée. |
+| Valeurs | Un fait vaut mieux qu'une histoire ; ne pas vendre la maison pour payer une dette personnelle. |
+| Peur | Qu'un officier styrgien te reconnaisse pendant la Convention, ou qu'un informateur parle avant que Marda ait sécurisé ton départ. |
+| Rêve | Repartir avec assez d'or pour ne plus dépendre de personne — ni d'un capitaine, ni d'une patronne. |
 
 ---
 
-# L'histoire de Varek
+# Biographie
 
-## Chapitre I : Les origines
+## Styrgie — traqueur de naissance
 
-Famille de chasseurs : tu as appris que le monde est bruyant pour ceux qui ne savent pas **où** tendre l'oreille.
+Tu es né dans la République styrgienne, dans une région de collines et de forêts où l'on gagne sa vie en chasse et en convois locaux. Enfant, tu suivais les traces mieux que les adultes du village : pas, crottin, branche cassée, odeur qui reste après la pluie. Les recruteurs de l'armée régulière passaient chaque automne ; ils ne demandaient pas ton avis.
 
-## Chapitre II : L'apprentissage
+À seize ans, on t'a embarqué de force avec d'autres garçons du secteur. Pas de contrat que tu aies lu. On t'a mis en tenue, on t'a appris la marche et les armes, puis on t'a affecté aux unités de traque : déserteurs, contrebandiers, fugitifs politiques. Tu étais le meilleur de ta section pour lire une piste et la rattraper avant le coucher du soleil.
 
-Guildes, traque, filatures — à vingt-cinq ans **Marda** t'a pris pour **yeux** du Tripot. Depuis dix ans, tu es le filet sous la soie du tapis.
+## Dix ans d'armée — la fiole du mois
 
-## Chapitre III : L'ascension
+Pendant dix ans, tu as servi dans l'armée régulière styrgienne. Les missions te menaient d'un détachement à l'autre, souvent loin des villes. Ton capitaine, Orlen, tenait un carnet avec ton nom et celui des hommes qu'il considérait comme à lui.
 
-Tu as surveillé des **clients** suspects, filé des **ombres** qui ne voulaient pas donner leur nom, aidé **Sira** et **Lira** à repérer tricheurs et **mules**. Ton réseau d'informateurs est une carte vivante — jamais affichée en entier.
+Le premier mois, il t'a fait avaler une fiole ambrée devant témoins. Il a dit que c'était un serment chimique : sans la dose suivante chaque pleine lune, tu mourrais en fièvre. Tu as obéi. Les autres soldats sous sa main recevaient le même rituel. Tu as appris à dormir léger et à ne jamais contredire Orlen en public.
 
-## Chapitre IV : Les défis actuels
+Tu as continué à traquer pour lui. Tu as ramené des hommes vivants quand l'ordre le demandait, morts quand il le préférait. Tu n'aimais ni l'un ni l'autre, mais la fiole te rappelait chaque mois que tu n'avais pas le choix.
 
-**Régate** : quai, arrivées, messagers **mafia**, **UBI**, **Palyr** — tu fais la chronologie des **visages** qui ne devraient pas être là deux fois. Tu **signales** à **Ardan** ; tu ne remplaces pas la **chaîne** de commandement.
+## Il y a quinze ans — la fiole était fausse
 
-## Chapitre V : Le réseau et les relations
+Il y a quinze ans, tu avais vingt-six ans. En garnison de passage près d'un marché de l'arrière-pays, tu as revu la même couleur de liquide vendue en flacons bon marché pour les maux de ventre. Tu as volé une fiole de réserve d'Orlen et tu l'as comparée : odeur, densité, goût. Ce n'était pas un poison létal. C'était un sirop courant, parfois coupé d'alcool fort.
 
-**Éliane** surveille les paris suspects ; **Ysabeau** te dit qui entre **sans** badge ; **Lydwen** te donne parfois un **angle** à vérifier — tu ne confonds pas intuition et filature.
+Tu as attendu la pleine lune suivante sans boire. Rien ne t'est arrivé. Orlen t'a convoqué avec le flacon neuf à la main ; il a compris que tu savais. Il a sorti son épée avant de finir sa menace.
+
+Tu l'as tué dans la chambre de garnison, avec la lame qu'il portait à la ceinture. Tu as pris son carnet, brûlé ce qui te liait au nom de famille, et tu es parti la nuit même vers le sud, vers la Confédération. Tu as vingt-sept ans quand tu franchis pour la première fois le port d'Il-Irion avec un faux laissez-passer acheté sur le quai.
+
+## Il-Irion — réseau par la vente d'information
+
+Sur Il-Irion, tu ne pouvais pas te présenter comme traqueur styrgien. Tu as vendu ce que tu savais faire : qui arrive, qui doit de l'argent, qui rencontre qui après minuit, quelle barque change de manifeste. Les tripots, les prêteurs et les capitaines payaient en pièces ou en faveurs.
+
+En cinq ans, tu as bâti un réseau large : portiers, gabiers, commis de registre, filles de salle, hommes de main qui préfèrent parler à toi qu'à la garde. Tu ne montres jamais toute la carte à un seul client. Chaque informateur ne connaît qu'un maillon ; toi, tu recoupes.
+
+Marda Velyss t'a croisé dans ce milieu avant qu'elle ne monte au fort d'Ulghart. Elle achetait des noms ; tu livrais sans poser de questions sur l'herboriste qu'elle était déjà devenue pour ceux qui savaient lire entre les lignes.
+
+## Il y a dix ans — trop chaud, refuge au Tripot
+
+Il y a dix ans, la chaleur est remontée. Un cousin d'Orlen servait dans un détachement de renseignement styrgien passé par Escalèche ; un de tes informateurs a été retrouvé noyé dans le port avec la langue coupée. Tu as compris que rester visible à Il-Irion te coûterait la tête avant l'hiver.
+
+Marda reprenait le Tripot d'Ulghart après la réorganisation de l'UBI. Elle t'a proposé un poste officiel : pisteur, filatures, quai, coulisses. Le fort te donnait des murs, des couloirs que tu apprends en une saison, et une couverture : employé du casino, pas fugitif de l'armée styrgienne.
+
+Tu as accepté pour te planquer, pas pour devenir croupier. Marda sait que tu as tué Orlen (note des orgas: tu dois lui dire en jeu); elle ne sait pas tout sur les dix ans d'armée, mais elle sait assez pour ne pas te confier aux délégations styrgiennes sans prévenir. L'équipe croit surtout que tu viens des ports et que tu « connais du monde ».
+
+## Dix ans au Tripot — pisteur et réseau actif
+
+Depuis dix ans, tu travailles au Tripot d'Ulghart. De jour ou de nuit, tu es sur le quai, dans les couloirs de service, sur les terrasses où l'on fume sans badge. Ardan te donne les priorités de sécurité ; tu lui remontes les visages, les heures, les doubles passages.
+
+Tu continues à faire travailler ton réseau au-delà de l'île. Des messages partent par gabier, par commissionnaire, par homme de main qui ne sait pas pour qui il porte le pli. Tu vends encore de l'information quand Marda n'a pas besoin de toute ta journée, mais tu ne livres pas la maison : un client qui paie pour savoir si le Tripot blanchit de l'or reçoit un refus ou un mensonge contrôlé.
+
+Sira et Lira Vestrann t'envoient des noms de tricheurs et de parieurs addicts ; tu recoupes. Éliane te demande qui mise trop sur la régate. Guelievre te donne ce qu'elle entend en rangeant le linge ; tu vérifies dehors. Ysabeau te signale qui ne doit pas entrer ; Lydwen te souffle parfois un nom à filer avant qu'une carte ne le dise en public.
+
+## Régate, banque, six morts — ce week-end
+
+Depuis cinq ans, le Tripot encaisse une part des flux détournés de l'UBI : ce n'est pas ton registre, mais tu vois les visiteurs qui n'entrent pas pour jouer. Depuis deux ans, la maison prend des coups : poissons pourris dans les réserves, départs de feu dans les coulisses. Tu as noté que les incidents ont commencé un an après l'arrivée de certains gardes de la banque.
+
+Six de ces gardes sont morts récemment sur les quais. Holgrim Dval, chef de la garde UBI, traite les alertes du Tripot comme du bruit. Pour toi, ce n'est plus une coïncidence : quelqu'un nettoie ou quelqu'un provoque, et ton réseau entend des versions contradictoires.
+
+La Convention et la Régate remplissent le fort. Les délégations styrgiennes t'inquiètent plus que la mafia : un homme du MiVI ou un ancien officier peut reconnaître ta façon de tenir une filature. Tu cartographies les visages qui reviennent deux fois la même nuit, les messagers sans badge, les hommes de l'UBI qui sondent les accès. Tu signales à Ardan ; tu ne remplaces pas la chaîne de commandement.
 
 ---
 
 # Tes missions et actions
 
+## Ton rôle au quotidien
+
+Tu surveilles le quai, les arrivées, les couloirs et les sorties de service. Tu filatures, tu poses des signaux discrets à Ardan ou à Soren, tu recoupes ce que Guelievre et les tables t'envoient.
+
+Tu entretiens ton réseau par messages et rencontres brèves en ville basse ou au port : qui doit combien, qui rencontre qui, quelle barque est attendue sans être au registre officiel. Tu rapportes à Marda par faits, pas par romans.
+
 ## Objectifs prioritaires
 
-- **Cartographier les menaces** : mafia, inspecteurs, rivaux de salle, tout **visage** qui revient trop souvent (le détail des traques ciblées peut éclater **en jeu**).
-- **Soutenir la régate** : signaux discrets, mouvements de foule, quai.
-- **Protéger les opérations** discrètes du groupe — sans devenir le héros visible.
+- Cartographier les menaces pendant la Régate : mafia, inspecteurs, gardes banque, visages qui reviennent trop souvent — signaler à Ardan ou à Marda selon la gravité.
+- Soutenir la régate : chronologie des arrivées, foules, messagers sans badge, mouvements autour du quai sponsorisé par l'UBI.
+- Protéger les opérations discrètes du Tripot sans te mettre en vitrine : tu ne négocies pas à la place de Marda avec la mafia ou la banque.
+- Tenir ton réseau actif sans vendre la maison : refuser ou détourner les demandes qui visent directement Marda, Fenric ou les registres cachés.
+- Repérer tôt toute présence styrgienne qui pourrait te lier à Orlen ou à l'armée régulière ; prévenir Marda avant d'agir seul.
 
+## Ce que tu ne fais pas
 
+- Tu ne négocies pas avec la mafia ni avec la banque — Marda et Fenric portent ça.
+- Tu ne doubles pas seul une confrontation armée avec des chefs de faction — tu remontes, Ardan ou Soren interviennent sur ordre.
+- Tu ne tiens pas les paris, les livres ni l'ordre en salle — Éliane, Fenric, Ardan.
 
 ## Informations sensibles
 
-- **Trop voir** peut te rendre monnaie d'échange — tu partages avec **Marda** / **Ardan** selon gravité.
-- Ne pas **doubler** seul une confrontation mafia — tu n'es pas la ligne politique du groupe.
+- Orlen, la fiole et la désertion : si un styrgien te nomme, alerte Marda avant de répondre en salle.
+- Ton réseau dépasse le Tripot ; l'équipe sait que tu « connais du monde », pas combien de maillons tu paies encore.
+- Vendre une information sur la maison pour acheter ta sécurité personnelle ferait de toi un problème pour tout le groupe.
 
 # Connaissances
 
-## Informateurs — Confédération, quais
+## Marek Thorne — Il-Irion (réseaux gris)
 
-À construire en jeu ; routes de régate, escales et intermédiaires — rester aligné avec ce que vivent les autres groupes sur le quai.
+Thorne est un opérateur de renseignement d'Il-Irion. Ses relais à Ulghart peuvent croiser les tiens sans que vous vous soyez jamais présentés officiellement. Pendant la Régate, repère s'il remonte une dette de jeu ou un nom de délégation vers le Tripot : un croisement peut te compromettre ou te donner un échange utile, selon qui paie.
 
-## Ombre / relais — Sangs ↔ UBI (indice)
+## Délégation styrgienne et MiVI — Ulghart (danger)
 
-Messages codés entre réseaux (Sybrel, « nid ») — utile pour **comprendre** des rotations sans tout exposer.
+La République envoie des experts maritimes, des négociateurs et des hommes du MiVI sans drapeau. Tu connais leurs habitudes de travail de l'intérieur : filatures en binôme, mots de passe courts, préférence pour les quais après la tombée du jour. Si quelqu'un te fixe trop longtemps ou cite un nom d'unité de traque, ne confonds pas paranoïa et reconnaissance — préviens Marda.
+
+## Informateurs — Confédération, quais et fort
+
+Réseau actif : Il-Irion, Ulghart, parfois Palyr et Ther-Félis selon les escales. Tu peux mobiliser un portier, un gabier ou un commis pour une filature ou une confirmation de dette ; chaque faveur crée une dette en retour. En jeu, précise avec le MJ quels maillons sont déjà sur place pour la Convention.
+
+## Messages codés — Sangs, UBI, relais « nid »
+
+Tu as entendu circuler des plis entre réseaux rivaux : Sybrel, le mot « nid », rotations de gardes et de messagers. Tu ne déchiffres pas tout ; tu sers à voir qui se croise au mauvais couloir. Utile pour comprendre une livraison tardive sans exposer le Tripot.
+
+## Saevar Dren — Palyr (client possible)
+
+Saevar Dren, sécurité de la délégation Palyr, connaît ta réputation au Tripot : tu sais qui doit combien dans le fort et dans quel salon on le dit. Il peut acheter une information ou te demander de fermer un sujet.
 
 ---
 

@@ -37,10 +37,10 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Théven Corvel |
-| Rôle dans le groupe | Chef de mission — détachement Corvel |
+| Rôle dans le groupe | Chef de mission — Questeur messire Ydrael Montfou (identité de couverture) |
 | Classe / profession | Clerc (Wultan) |
 | Compétences | Egorgement ; Pugilat |
-| Groupe | MiVI (service du Primat, couverture civile) |
+| Groupe | MiVI (service du Primat ; escorte Questeur à Ulghart) |
 | Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
@@ -84,19 +84,23 @@ Parfois Elfrion exige qu'une médiation propre échoue. Pas pour le plaisir du c
 
 ## Chapitre IV : Les défis actuels (Ulghart)
 
-Citadelle d'Ulghart, île d'Il-Irion. Convention : nerfs à vif, régate, renouvellements. Tu débarques sans bannière styrgienne, sous couverture civile. Triangle fixe : Tripot au fort, coffres UBI, Sangs et Guilde sur les quais. Entre les trois, des rivaux qui lisent les mêmes colonnes — uniformes confédéraux ou sourires de conseillers.
+Citadelle d'Ulghart, île d'Il-Irion. Convention : régate, renouvellement du conseil de l'UBI, cinq délégations au fort.
 
-Priorité d'interrogation imposée : fer ; puis Tripot ; puis levier réel sur la nomination au futur conseil UBI pour le rapprochement Arthas / Ther-Félis. Routes et doubles ventes : mêmes registres, pas les mêmes urgences de bilan. Rumeurs or vers Argheteim : tu veux savoir qui croit quoi avant de payer le prix d'une erreur.
+Deux jours avant votre entrée, le réseau a intercepté une vraie escorte Questeur : un Clerc de Jorock et trois gardes, en route pour enquêter sur les six gardiens de la banque retrouvés morts. La bataille a tué plus de quinze mercenaires engagés pour l'opération. Un homme de l'escorte adverse a réchappé, blessé. Plusieurs membres du détachement portent encore des blessures visibles.
 
-Archives qui documenteraient une guerre prochaine contre la Styrgie : tu cadres avec Ysel ce qui doit être lu, effacé ou remplacé avant qu'un concurrent confédéral n'y mette la main. Tu décides du brûlage quand un fil coûte plus cher vif que mort. Tu refuses d'offrir à la Confédération le spectacle qui fabriquerait un martyre commun.
+Tu entres au fort sous l'identité de messire Ydrael Montfou, Questeur confédéré. Lettre d'ordre des Oblats (ORD-OBL-UH-547-Q-MON-08), actée par messire Horgrim Dval, chef de la Garde du fort. Insignes Questeur, mandat sur les six morts et le surnormal éventuel. Lucan, Ysel et Miraen sont tes adjoints assermentés sur les rôles annexés ; Varro tient la garde du corps. Tant que personne ne vérifie trop vite qui vous étiez avant l'embuscade, vous avez accès aux couloirs, à la banque et aux auditions. Priorité immédiate : retrouver le mercenaire survivant et le faire taire avant qu'il ne dénonce l'interception.
 
-Sur le quai, les créneaux se télescopent avec les grilles de relais : tu synchronises sans exposer le MiVI comme propriétaire des conversations. Kaelan Thormane doit d'abord rendre des lignes claires sur le fer et la Guilde avant de prétendre régler le reste ; Raven tient l'interface maritime, pas ton autorité morale. Edorian et la direction UBI sont des colonnes de risque, pas un confessionnal : tu y entres avec un objectif documentaire, tu en sors avec une décision chiffrée ou un refus net. Korran Vesper et les eaux où croient les pirates : une remise n'est pas une permission de bruit. Chaque rendez-vous doit rendre une ligne au rapport — pas une anecdote pour le dîner.
+Triangle d'enquête : Tripot au fort, coffres UBI, Sangs et Guilde sur les quais. Ordre Elfrion sur le bilan : fer ; puis Tripot ; puis levier sur le futur conseil UBI (ligne Arthas / Ther-Félis). Routes et doubles ventes : mêmes registres, urgences de bilan différentes.
+
+Archives qui documenteraient une guerre prochaine contre la Styrgie : tu cadres avec Ysel ce qui doit être lu, effacé ou remplacé. Tu décides du brûlage quand un fil coûte plus cher vif que mort. Tu ne cites jamais le MiVI ni le Primat en public : tu parles au nom du Questeur Montfou et du mandat Oblat.
+
+Kaelan Thormane doit rendre des lignes claires sur le fer et la Guilde. Raven tient l'interface maritime. Edorian et la direction UBI : objectif documentaire, décision chiffrée ou refus net. Korran Vesper et les remises en mer : un créneau, pas un spectacle. Chaque audition doit rendre une ligne au rapport.
 
 ## Chapitre V : Le réseau et les relations
 
 Forge : première passe ratée — trop de parole. Deuxième : Varro contre le bois, Ysel sur le faux registre, Lucan sur le gardien, Miraen qui vole les regards, toi sur la priorité sans cri. Staal : plan déchiré, sortie avec papier et chaîne intacts. Depuis dix-huit mois, vous vous croisez comme des phases de lune : peu, mais quand ça compte.
 
-Ysel tranche preuves et tiroirs quand tu ne boucles pas le cadre toi-même. Lucan tient les masques parlés. Varro finit quand l'encre ne suffit plus. Miraen tient la surface du Tripot ; tu fixes le plafond de risque. Après la forge, tu as demandé qui aurait craqué si c'avait été vrai. Silence. Tu l'as pris pour une réponse acceptable.
+Ysel tranche preuves et tiroirs quand tu ne boucles pas le cadre toi-même. Lucan tient les auditions et les formulations du mandat. Varro finit quand l'encre ne suffit plus. Miraen filtre le Tripot sous couverture Questeur ; tu fixes le plafond de risque. Après la forge, tu as demandé qui aurait craqué si c'avait été vrai. Silence. Tu l'as pris pour une réponse acceptable.
 
 Tu ne sacrifieras pas toute l'équipe pour sauver un chiffre. Tu ne mentiras pas à Elfrion sur l'état du fer : deux menteurs sur un dossier, et la mer te mangera avant l'ennemi. La mission pèse plus que le décor : ce n'est pas une phrase de brochure. C'est la boussole qui te ferme la bouche quand la salle applaudit trop tôt.
 
@@ -107,7 +111,9 @@ Tu représentes la ligne Elfrion : une phrase lâchée au mauvais endroit peut f
 
 - **Rendre des comptes à Elfrion** : fer (disparition du bon minerai, chaîne maritime, responsables côté Sangs), Tripot, nominations UBI dans la ligne Arthas / Ther-Félis, routes — avec des noms et des chiffres.
 - **Tenir la pression sur les cadres des Sangs** sans brûler la Guilde ni les relais longue durée sans ordre explicite.
-- **Trancher** : quand couper une opération, quand sacrifier une couverture, quand laisser une négociation « propre » échouer pour fragiliser le bloc confédéral.
+- **Tenir l'identité Montfou** : mandat Questeur, auditions, accès UBI ; ne jamais exposer le MiVI.
+- **Trancher** : quand couper une opération, quand sacrifier un fil, quand laisser une médiation échouer pour fragiliser le bloc confédéral.
+- **Mercenaire survivant** : le retrouver et le faire taire avant qu'il ne dénonce l'embuscade.
 
 # Connaissances
 

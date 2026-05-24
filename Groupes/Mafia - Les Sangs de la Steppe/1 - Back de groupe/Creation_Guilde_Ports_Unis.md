@@ -24,7 +24,7 @@ Après consultation avec nos commanditaires de Styrgie, il a été décidé de c
 
 ## Structure de la Guilde
 
-**Dirigeant officiel** : **Torven Sorel** (nom d'emprunt, membre de confiance des Sangs de la Steppe — **ne pas** confondre avec la Maison Valdris ; la guilde n’emprunte pas le nom de la famille de Cyrion)
+**Dirigeant officiel** : **Torven Sorel** (Pantin qui ne connait pas l'appartenance des directeurs des syndicats à la mafia)
 **Siège social** : Il-Irion, dans un quartier marchand respectable
 **Capital initial** : 5000 pièces d'or fournies par la Styrgie via des canaux discrets
 
@@ -59,7 +59,7 @@ Après consultation avec nos commanditaires de Styrgie, il a été décidé de c
 
 La guilde sera financée par :
 - Les revenus légitimes de ses activités commerciales
-- Des injections de fonds discrètes de la Styrgie si nécessaire
+- Des injections de fonds discrètes de la Styrgie si nécessaire (via la MiVI)
 - Les bénéfices des opérations secrètes (mais jamais directement traçables)
 
 ## Risques et Protection
@@ -75,5 +75,5 @@ La guilde sera financée par :
 ---
 
 **Approuvé par** : Kaelan Thormane
-**Validé par** : Commanditaire Styrgien (identité protégée)
+**Validé par** : Regis Comprime (MiVI) (note orga: décédé depuis 3 ans)
 

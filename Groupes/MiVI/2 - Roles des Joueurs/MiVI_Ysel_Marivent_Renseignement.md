@@ -37,10 +37,10 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ysel Marivent |
-| Rôle dans le groupe | Renseignement ; priorité UBI — coffres, archives, codes pièce |
+| Rôle dans le groupe | Greffière d'instruction Questeur — coffres UBI, archives, codes pièce (mandat Montfou) |
 | Classe / profession | Diplomate |
 | Compétences | Erudit ; Torture |
-| Groupe | MiVI (service du Primat, couverture civile) |
+| Groupe | MiVI (service du Primat ; escorte Questeur à Ulghart) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
@@ -82,7 +82,9 @@ Staal : correspondance qui filait vers une malle diplomatique. Le plan s'est dé
 
 ## Chapitre IV : Les défis actuels (Ulghart, UBI)
 
-Trente-cinq ans environ. Citadelle d'Ulghart, île d'Il-Irion, Convention. Ton terrain : coffres, archives du conseil, correspondances, **pièces codées** qui circulent comme des fièvres.
+Trente-cinq ans environ. Citadelle d'Ulghart, Convention. Théven porte l'identité de messire Ydrael Montfou, Questeur ; tu es greffière assermentée sur le mandat des six gardiens morts. Lettre Oblats, acte Horgrim Dval. Insignes visibles, accès banque et archives tant que l'embuscade de l'escorte vraie ne remonte pas. Mercenaire survivant à retrouver : priorité de Théven.
+
+Ton terrain : coffres, archives du conseil, correspondances, pièces codées. Tu cites le mandat pour ouvrir un tiroir ; tu ne cites jamais le MiVI ni le Primat en public.
 
 Premier lot : traquer ce qui pourrait documenter une guerre imminente contre la Styrgie — avant qu'un concurrent confédéral ne l'emploie pour verrouiller opinion et budgets, ou avant que la transition de mandat ne referme les tiroirs que tu peux encore ouvrir. Localiser, substituer, effacer : Théven tranche le cadre ; toi tu exécutes le réel côté papier et sceau.
 
@@ -90,13 +92,15 @@ Deuxième lot : cartographier la chaîne or vers Argheteim — qui croit, qui pa
 
 Troisième lot : soutenir sur documents la pente voulue vers Arthas et Ther-Félis — qui entre au conseil, quels flux, quels doubles. Le Tripot t'envoie parfois des odeurs utiles ; tu ne confonds jamais rumeur de salle et preuve qui tient devant un juge ou un comité.
 
+Un vieux dossier styrgien repasse sur le capitaine Orlen, officier de traque tué en garnison il y a quinze ans, et sur un déserteur de son unité jamais rattrapé. Le pisteur du Tripot, Varek, n'est pas sur ta liste officielle — mais l'âge, l'accent de l'arrière-pays styrgien et la façon dont il tient une filature recoupent trop de lignes du carnet d'Orlen pour être ignorées. Aucune preuve. Théven te rappelle que brûler Varek trop tôt ferait perdre un maillon précieux : réseau portuaire, couloirs du casino, flux que Miraen ne voit pas tous. Tu le traites d'abord comme source possible, pas comme coupable à citer en salle.
+
 Sur le terrain UBI, tu ne traites pas « la banque » comme un bloc lisse : Sybrel Dornik et les tunnels d'Ombre sont des angles d'entrée qu'il faut recouper avec des copies saisies, pas avec des légendes. Maître Vaelric Dorn comme Discréteur peut te fermer un tiroir ou t'en ouvrir un autre par peur ; la dénonciation anonyme qui le vise est une lame à manier sans te couper. Melian Torv et les fragments vers Palyr exigent accord avec Lucan si la même scène coffre se profile. Dame Ydria Ventoss et les écarts de réserves : signature, chiffre, chaîne ; pas de sermon. Le rapport d'agent sur l'Arguethain relie commerce gris et rumeur fer : tu le traites comme matière à cartographier, pas comme conclusion hâtive.
 
 La Confédération gagne quand elle peut dire « nous » sans mentir. Ton métier est de lui retirer des pages communes — pas de lui offrir un martyr propre. Chaque copie volée laisse une empreinte : tu sais quand ne pas prendre. Chaque silence acheté a un prix : tu le compares au prix d'une guerre lancée trop tôt.
 
 ## Chapitre V : Le réseau et les relations
 
-Théven : cadre et brûlage. Lucan : portes sociales ; tu vérifies ce que la conversation prétend. Varro : quand le stylo s'arrête et que le bois ne cède pas assez vite. Miraen : flux et dettes d'élite au Tripot ; tu recoupes toujours. Tu ne résumeras pas Elfrion en conseil sans cadre : les angles personnels du casino ne sont pas des bulletins à distribuer gratuitement.
+Théven : Montfou, cadre et brûlage. Lucan : auditions ; tu vérifies ce que les témoins prétendent. Varro : quand le stylo s'arrête et que le bois ne cède pas assez vite. Miraen : Tripot sous mandat Questeur ; tu recoupes toujours. Tu ne résumeras pas Elfrion en conseil sans cadre : les angles personnels du casino ne sont pas des bulletins à distribuer gratuitement.
 
 Tu te dois de ne pas confondre copie propre et vérité. Tu te dois de ne pas brûler une source par zèle quand la patience laisse la Styrgie respirer un jour de plus. La mission est simple à dire et dure à tenir : ramener des noms et des chaînes, pas des histoires qui sonnent bien au souper.
 
@@ -131,6 +135,12 @@ Fragment vers Palyr. Pièce : FL-III-545-002. Avec Lucan, recouper avant une mê
 ## Rapport d'agent (anonyme) — commerce gris, chaîne Arguethain
 
 Piste matérielle ; rumeur fer / guerre à cartographier. Pièce : RA-III-546-004.
+
+## Varek — Tripot (pisteur — dossier Orlen)
+
+Capitaine Orlen, unité de traque styrgienne : mort en garnison vers 532 ; déserteur présumé, non identifié, emporté le carnet de l'officier. Varek, pisteur du Tripot d'Ulghart : quarante et un ans, filatures au quai et en coulisse, réseau d'informateurs au-delà du fort. Coïncidences d'âge, de région d'origine et de métier — rien qui tienne devant un greffier confédéral sans aveu ou pièce saisie.
+
+En jeu : approche-le en privé pour des noms, des horaires, des dettes — ce que le casino voit passer pendant la Convention. Ne le dénonce pas aux autorités du fort tant que Théven n'a pas tranché qu'une confrontation ouverte sert la mission. Un échange discret vaut mieux qu'une arrestation qui ferme le Tripot à tout le détachement.
 
 
 
