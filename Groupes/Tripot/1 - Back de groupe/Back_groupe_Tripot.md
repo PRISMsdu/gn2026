@@ -109,3 +109,59 @@ Le Tripot vous donne encore une base de travail : une salle active, une équipe,
 | Soren | Homme de main, alchimiste | Léo |
 | Fenric Ossel | Maître des registres | Thierry |
 | Guelievre Marech | Gouvernante — réserves, service, rapport à Marda | Geneviève |
+
+---
+
+# Annexe organisationnelle — informations complémentaires importantes
+
+## Logistique liée au site
+
+### Poubelles
+
+Prévoyez des sacs poubelles en quantité suffisante pour évacuer la totalité de vos déchets. Le site ne dispose pas de poubelles. Aucun sac plein ne peut être laissé sur place.
+
+Vous devrez donc repartir avec tous vos déchets.
+
+### Accès au site
+
+L’arrivée sur place pour l’installation se fait entre 16h00 et 18h00.
+
+Afin d’éviter les visites inopportunes, le site sera fermé durant le jeu. La grille sera tenue par un cadenas dont le code est `5172`.
+
+Si vous devez quitter le site avant la fin du jeu, ou retourner à votre véhicule, refermez la grille derrière vous avec ce cadenas.
+
+## Repas et eau
+
+L’auberge fournit les deux petits déjeuners : samedi matin et dimanche matin. Elle fournit aussi de la bière, du jus de pomme et quelques boissons.
+
+L’eau du site n’est pas potable. Apportez vos propres bouteilles d’eau.
+
+Vous pouvez faire du feu dans un brasero non électrique fourni par vous, devant votre logis, pour vos saucisses, steaks, grillades ou poissons. Le feu au sol est interdit.
+
+## Biquettes
+
+Des biquettes, donc des chèvres, sont présentes sur une partie haute du fort. Leur zone de villégiature est en principe clôturée et ne sera pas en jeu. Elle est donc inaccessible.
+
+Ne déplacez pas les barrières et clôtures qui obstruent certains couloirs et passages à l’intérieur du fort. Si les chèvres sortent, elles peuvent se promener partout, salir les lieux et manger ce qu’elles trouvent.
+
+Pour les joueurs ayant un passé de légionnaire : a priori, c’est non. De toute façon, nous ne voulons rien savoir.
+
+La nuit, ces charmantes biquettes se transforment en chèvres-garous à dents de sabre. Elles massacrent systématiquement ceux qui auront tenté de les importuner.
+
+## Douves
+
+Le site possède des douves. Leur accès peut être dangereux.
+
+Soyez prudents la nuit, surtout pendant une course folle les yeux fermés en hurlant de terreur pour échapper aux monstres, carnassiers, chèvres-garous à dents de sabre, voleurs, assassins, tueurs psychopathes, ou pour rallier d’urgence le happy hour de l’auberge.
+
+Autre effet Kiss Cool : il y a des douves dans les douves, avec une deuxième marche. Elle est très peu visible avant d’être tombé au fond.
+
+## Chiottes de guerre
+
+Un chiotte de guerre en métal est présent dans la partie boisée du site. C’est une relique à laquelle les propriétaires tiennent beaucoup. Elle n’est plus fonctionnelle.
+
+Ne l’utilisez pas, ne l’abîmez pas, ne le déplacez pas, ne le taguez pas et ne le fondez pas.
+
+Des pissotières de guerre en dur sont aussi présentes dans le fort. Ne les utilisez pas non plus.
+
+Il y a de vrais WC qui fonctionnent.

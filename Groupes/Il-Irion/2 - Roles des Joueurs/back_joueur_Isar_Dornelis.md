@@ -1,4 +1,4 @@
-# Isara Dornelis — Back joueur (à distribuer)
+# Isar Dornelis — Back joueur (à distribuer)
 
 **Rôle** : **Renseignement et réseaux** — rumeurs, audits, **futurs conseillers** de l’UBI, filature de **Melian** (piste **Palyr**).
 

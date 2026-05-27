@@ -65,13 +65,15 @@ Epopée en Krondaar
 
 ## Chapitre I : Les origines (cartes et comptes)
 
-Pas les cartes des côtes. Celles des opérations : qui tient quel quai, où dort un sceau, comment un convoi ment sur le papier. Ta mère travaillait les chiffres qu'on n'inscrivait pas. Tu as appris jeune : une omission dans une colonne devient un port fermé ou un régiment mal nourri. Le nom Corvel — son nom de jeune fille — colle au détachement comme une étiquette de consigne. Ce n'est pas de la tendresse. Si tu rates, les erreurs retombent sur une table qui additionne sans pitié.
+Ta mère tenait pour le service styrgien les comptes parallèles : les chiffres qu'un greffier officiel préférait ne pas porter sur le registre — convois redirigés, sceaux échangés, stocks déclarés en sous-effectif. Tu l'as regardée travailler avant de savoir lire. Tu as compris jeune qu'une omission dans une colonne ouvre ou ferme un port, équipe ou affame un régiment.
+
+Le service du Primat porte aujourd'hui son nom : Corvel, le nom de jeune fille de ta mère, est devenu l'étiquette interne du détachement. Tu ne le portes pas comme un honneur de famille. Si le mandat échoue à Ulghart, les pertes seront comptées au nom Corvel — pas à celui d'Elfrion.
 
 ## Chapitre II : L'apprentissage (MiVI)
 
-Tu sers le Primat, pas la tribune. Quarante-deux ans. La République styrgienne ne gagne pas contre la Confédération des cités libres du Levant en beaux discours : elle gagne quand les cités ne referment pas le poing sur un seul grief commun. Or, fer, votes au conseil de l'UBI, dettes signées au Tripot : ce sont des points de pression que tu exploites par preuves et auditions. Le MiVI te paie pour lire ce que les autres refusent d'écrire noir sur blanc — absences, doubles comptes, silences trop longs.
+Tu as quarante-deux ans. La République styrgienne ne combat pas la Confédération des cités libres du Levant par discours publics : elle agit par leviers — or, fer, votes au conseil de l'Union bancaire d'Il-Irion, dettes signées au Tripot. Le MiVI te paie pour repérer ce que les acteurs refusent de coucher par écrit : absences dans les registres, doubles comptes, intervalles trop longs entre deux pièces signées.
 
-Tu sais le prix des prises qu'Elfrion a plantées : Sangs de la Steppe, Guilde des Ports Unis, leurre steppe et tchélène dans les salons pendant que la République tient le fil. Tu ne confonds pas l'outil avec la vertu. Quand l'outil grippe depuis trois ans sur les grands chantiers, c'est toi qu'on envoie avec une liste de questions et une patience courte.
+Tu connais les outils plantés par Elfrion sur l'île. Les Sangs de la Steppe servent de mafia visible et de leurre auprès des cités. La Guilde des Ports Unis tient les remises maritimes. Le rôle public des Sangs et de leurs relais tchélènes occupe les salons pendant que les agents styrgiens travaillent les dossiers réels. Cet appareil grippe depuis trois ans sur les grands chantiers — fer 544-545, conseil UBI, nominations. C'est pour cela qu'Elfrion t'envoie à Ulghart avec une liste de questions précises et un délai court : la Convention 547 referme une fenêtre.
 
 ## Chapitre III : L'ascension (fer et mandat)
 

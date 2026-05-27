@@ -12,7 +12,7 @@
 
 - **Nom de l'intrigue** : Le Renversement des Fondations
 - **Groupe concerné** : Palyr
-- **Effectif** : 8 PJ — 2 féminins (Ilara, Lysa), 6 masculins (Corvyn, Thoran, Saevar, Maren, Syndri, Bran)
+- **Effectif** : 9 PJ — 3 féminins (Ilara, Lysa, Brina), 6 masculins (Corvyn, Thoran, Kaelen Voss, Saevar, Maren, Syndri)
 
 ---
 
@@ -24,7 +24,9 @@
 
 **Lysa Morwyn** est trésorière. Elle a un ordre de mandat pour le coffre de Palyr à l’UBI ([`Ordre_mandat_Oblat_Palyr_Lysa_Morwyn.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Oblat_Palyr_Lysa_Morwyn.md)). En secret, la Brigade noire lui demande de retrouver Soren au Tripot et de lui annoncer sa nomination comme capitaine (ordre BN à part, Lysa seule ; aucun autre contact BN à Ulghart).
 
-**Thoran Keld** renégocie les contrats de routes et de fret. Il commande la frégate pour la régate. Il porte la lettre de relance du commerce gris Styrgie (armes, matériel) et le rendez-vous avec l’envoyé secret au mot « cale close avant l’aube ».
+**Thoran Keld** renégocie les contrats de routes et de fret. Il porte la lettre de relance du commerce gris Styrgie (armes, matériel) et le rendez-vous avec l’envoyé secret au mot « cale close avant l’aube ».
+
+**Kaelen Voss** commande la frégate de Palyr et mène la régate. Corvyn lui remet les moyens pour soudoyer les juges si nécessaire.
 
 **Saevar Dren** assure la sécurité de la délégation. Il est endetté au Tripot (secret : 8 234 couronnes, fiche Saevar seule).
 
@@ -32,7 +34,7 @@
 
 **Syndri Ashfeld** est herboriste. Il cherche l’objet magique de grande puissance que Edorian tient ou a classé en coffre.
 
-**Bran Lyrd** est druide de Palyr, du cairn Lyrd. Il est le **frère de l’Oblat de Palyr** (PNJ resté sur l’île). L'Oblat a préciser dans sa lettre de mission que son Frête fera l'honneur d'accompagner la mission et qu'il faudra lui apporter toute l'aide qu'il solicitera s'il la demande. Il est revenu sur l’île pour étudier le site et revoir sa famille. En fouillant le site, il a trouvé un artefact gravé de figures d’hommes à branchies. Une gazette d’Ulghart lui a donné une piste ; il s’est joint à la délégation pour le fort d’Ulghart : faire expertiser la pièce, chercher des textes à la Bibliothèque, et porter assistance à un druide confrère alcoolique signalé sur place. Il n’a aucun lien avec les Fils du Levant. 
+**Brina Lyrd** est druidesse de Palyr, du cairn Lyrd. Elle est la **sœur de l’Oblat de Palyr** (PNJ resté sur l’île). L’Oblat a précisé dans sa lettre de mission que sa sœur fera l’honneur d’accompagner la mission et qu’il faudra lui apporter toute l’aide qu’elle sollicitera si elle la demande. Elle est revenue sur l’île pour étudier le site et revoir sa famille. En fouillant le site, elle a trouvé un artefact gravé de figures d’hommes à branchies. Une gazette d’Ulghart lui a donné une piste ; elle s’est jointe à la délégation pour le fort d’Ulghart : faire expertiser la pièce, chercher des textes à la Bibliothèque, et porter assistance à un druide confrère alcoolique signalé sur place. Elle n’a aucun lien avec les Fils du Levant. 
 
 **Fils du Levant** : courrier signé Tavish Kaironi remis au Conseil avant le départ ([`Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md)). MJ : Tavish est premier né — ne pas l’écrire sur la pièce joueur.
 
@@ -69,7 +71,7 @@ Références : [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) 
 | Cité | Liaison | Rôle officiel à Ulghart |
 |------|---------|-------------------------|
 | Palyr | **Maren Holt** | Commandant militaire de la délégation |
-| Il-Irion | **Isara Dornelis** | Réseaux, audits (Maison Dornelis) |
+| Il-Irion | **Isar Dornelis** | Réseaux, audits (Maison Dornelis) |
 | Ther-Félis | **Sven Orlac** | Marin, skipper, régate |
 | Arthas | **Bastion Kharvek** | Chef de la sécurité |
 | Sfaal | **Grisbe Jab-fer** | Chef de la sécurité |
@@ -78,7 +80,7 @@ Les autres membres de la délégation Palyr ne connaissent pas la note BDL-547-S
 
 Le joueur Maren reçoit la note de situation et l’ordre ORD-HCM-547-CIN-MAR-01 (voir fiches et pièces).
 
-### Les huit mandats (récap)
+### Les neuf mandats (récap)
 
 **Corvyn Valdrak (H)** — Chef de délégation, mandat du Légat. Il fixe les priorités, parle avec Edorian, et tranche quand Ilara, Lysa, Maren et Thoran tirent la délégation dans des directions différentes.
 
@@ -86,22 +88,24 @@ Le joueur Maren reçoit la note de situation et l’ordre ORD-HCM-547-CIN-MAR-01
 
 **Lysa Morwyn (F)** — Trésorière. Ordre de mandat Oblat : accès au coffre délégué de Palyr ([`Ordre_mandat_Oblat_Palyr_Lysa_Morwyn.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Oblat_Palyr_Lysa_Morwyn.md)). Sur ce mandat : dossier Melian (2 000 couronnes convenues ; 1 000 versées ; lettre reçue ; références et extraits après le solde), retrait des archives avant le changement de conseil. Ordre secret Brigade noire (document séparé, Lysa seule) : retrouver Soren au Tripot (il se cache ; raisons inconnues de Lysa) et lui annoncer qu’il devient capitaine de la compagnie. Aucun relais BN au fort. Le Conseil lui a aussi confié le fil **Arguetheim** hors circuits officiels : elle a contacté **Gorvan Tresselune** (Compagnie du Dolmen Rouge) à **Ther-Félis** environ un mois avant la Convention ; Gorvan est mandaté pour trouver le minerai « par tous les moyens ». À Ulghart, Lysa négocie l’achat et les papiers avec Gorvan ; **Maren** réceptionne pour le haut commandement. **Échéance orga** : vente conclue au plus tard en **fin de journée du samedi** de la Régate.
 
-**Thoran Keld (H)** — Marchand, capitaine. Il renégocie les routes et contrats de fret (Guilde des Ports Unis, paraphes, entrepôts). Il commande la frégate pour la régate. Il n’est pas le contact Gorvan.
+**Thoran Keld (H)** — Marchand. Il renégocie les routes et contrats de fret (Guilde des Ports Unis, paraphes, entrepôts). Il confronte Sfaal sur le dernier chargement et tient la lettre Styrgie. Il n’est pas le contact Gorvan ni le capitaine de la frégate.
+
+**Kaelen Voss (H)** — Capitaine de frégate. Il commande la frégate de Palyr, l’équipage et la régate. Corvyn lui remet la bourse des juges en dernier recours.
 
 **Saevar Dren (H)** — Chef de la sécurité. Il protège la délégation et tient des contacts à Ther-Félis et sur les quais. Il joue au Tripot et doit de l’argent à Lira (8 234 couronnes, secret sur sa fiche).
 
 **Maren Holt (H)** — Commandant militaire et liaison Les Cinq Feux (secret). Voir sections ci-dessus.
 
-**Syndri Ashfeld (H)** — Herboriste mandaté par le Conseil. Il traque l’objet magique de grande puissance lié à Edorian et au coffre de Palyr. Ligne distincte de l’artefact que Bran a trouvé au cairn.
+**Syndri Ashfeld (H)** — Herboriste mandaté par le Conseil. Il traque l’objet magique de grande puissance lié à Edorian et au coffre de Palyr. Ligne distincte de l’artefact que Brina a trouvé au cairn.
 
-**Bran Lyrd (H)** — Druide du cairn Lyrd. Il était sur Palyr pour le site quand le Conseil a constitué la délégation ; il voyage avec elle jusqu’au fort d’Ulghart. **Frère de l’Oblat de Palyr** : autorité indirecte . Il a trouvé un artefact  lié aux hommes-branchies et il souhaite l'étudier. L'Oblat apporte beaucoup d'importance à ceci car cela concerne l'histoire lointaine de Palyr. À Ulghart : expertise, Bibliothèque, druide alcoolique confrère.
+**Brina Lyrd (F)** — Druidesse du cairn Lyrd. Elle était sur Palyr pour le site quand le Conseil a constitué la délégation ; elle voyage avec elle jusqu’au fort d’Ulghart. **Sœur de l’Oblat de Palyr** : autorité indirecte. Elle a trouvé un artefact lié aux hommes-branchies et elle souhaite l’étudier. L’Oblat accorde beaucoup d’importance à ce dossier car il concerne l’histoire lointaine de Palyr. À Ulghart : expertise, Bibliothèque, druide alcoolique confrère.
 
 
 ### Courrier des Fils du Levant
 
 Avant le départ, le Conseil reçoit un pli signé **Tavish Kaironi** ([`Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md)). Tavish relaie les **Fils du Levant** (visibles), issus des **Premiers Nés**. Ils proposent un nouvel ordre entre les îles pour réduire le poids d’Il-Irion. Palyr est intéressée car cela correspond à son objectif sur la banque. Le courrier demande un entretien discret à Ulghart et la formule « le fer et le serment ».
 
-Corvyn décide si la délégation répond. Saevar contrôle la sûreté du contact. Bran n’est pas dans ce fil. Tavish est premier né (MJ seulement).
+Corvyn décide si la délégation répond. Saevar contrôle la sûreté du contact. Brina n’est pas dans ce fil. Tavish est premier né (MJ seulement).
 
 ---
 
@@ -123,7 +127,7 @@ Corvyn décide si la délégation répond. Saevar contrôle la sûreté du conta
 
 **Régate et Tripot**
 
-- Remporter ou défendre le prestige de la régate (Thoran, frégate).
+- Remporter ou défendre le prestige de la régate (Kaelen Voss, frégate).
 - Corvyn veut fermer le Tripot ou en limiter l’influence ; Saevar y est endetté.
 
 **Lignes personnelles des PJ**
@@ -131,7 +135,7 @@ Corvyn décide si la délégation répond. Saevar contrôle la sûreté du conta
 - Lysa : tenir le mandat coffre et la mission Soren (BN) sans mélanger les deux devant le groupe.
 - Lysa : retrouver Soren au Tripot et lui annoncer la capitainerie ; seule sur ce fil (pas de contact BN à Ulghart).
 - Syndri : trouver l’objet magique détenu par Edorian.
-- Bran : expertise de son artefact ; recherches à la Bibliothèque ; aide au druide alcoolique ; rester avec la délégation pour le retour.
+- Brina : expertise de son artefact ; recherches à la Bibliothèque ; aide au druide alcoolique ; rester avec la délégation pour le retour.
 - Thoran : rendez-vous avec l’envoyé secret Styrgie selon la lettre STY-547-PAL-THO-01 (commerce gris armes / matériel).
 - Maren : rapports Cinq Feux (brief MJ) en parallèle du mandat Arguetheim public.
 
@@ -152,21 +156,21 @@ Seules les relations **nommées** dans les intrigues ou fiches du dépôt. Pas d
 | **Sfaal** | Thoran | Conflit sur le dernier chargement de minerai ; négociation des contrats. |
 | **Edorian (UBI)** | Corvyn, Lysa | Négociation de sa fuite ; accès aux coffres. |
 | **Edorian (UBI)** | Syndri | Objet magique / fragment du sceau en coffre Palyr. |
-| **Bibliothèque du fort** | Bran, Maren | Bran : hommes-branchies et artefact du cairn ; Maren : traités armement (mandat Arguetheim). |
-| **Druide alcoolique (PNJ)** | Bran | Confrère à retrouver et soutenir — nom à fixer sur fiche Bran. |
-| **Gazette / presse d’Ulghart** | Bran | Article qui fait le lien avec l’artefact trouvé à Palyr. |
+| **Bibliothèque du fort** | Brina, Maren | Brina : hommes-branchies et artefact du cairn ; Maren : traités armement (mandat Arguetheim). |
+| **Druide alcoolique (PNJ)** | Brina | Confrère à retrouver et soutenir — Torlann Mead (fiche Brina). |
+| **Gazette / presse d’Ulghart** | Brina | Article qui fait le lien avec l’artefact trouvé à Palyr. |
 | **Marda (Tripot)** | Corvyn, Lysa | Corvyn veut fermer le casino ; Marda négocie la fuite d’Edorian avec Palyr. |
 | **Soren (Tripot)** | Lysa | Lysa le retrouve et lui annonce qu’il est nommé capitaine de la Brigade ; il se cache, raisons inconnues. |
 | **Lira (Tripot)** | Saevar | Saevar lui doit 8 234 couronnes. |
 | **Melian (UBI)** | Lysa | Dénonciation : 2 000 couronnes ; 1 000 payées ; lettre sans références ; second paquet après solde ; protection à tenir. |
 | **Gorvan (Dolmen Rouge)** | Lysa, Maren | Lysa : contact Ther-Félis, vente et papiers (samedi fin de journée max) ; Maren : réception militaire pour le haut commandement. |
 | **Horgrim, Selvara (UBI)** | Lysa | Gardes et archives : accès coffre, blocages possibles. |
-| **Isara Dornelis (Il-Irion)** | Maren | Autre liaison Les Cinq Feux ; même réseau, lignes banque et coffres. |
+| **Isar Dornelis (Il-Irion)** | Maren | Autre liaison Les Cinq Feux ; même réseau, lignes banque et coffres. |
 | **Sven Orlac (Ther-Félis)** | Maren, Thoran | Liaison Cinq Feux (Ther-Félis) ; Thoran tient les routes maritimes. |
 | **Saevar — réseaux Ther-Félis** | Saevar | Contacts gris de Saevar (fiche joueur). |
 | **Tavish Kaironi** | Corvyn, Saevar | Signataire du courrier Fils du Levant ; rendez-vous à Ulghart. |
-| **Premiers Nés / Fils du Levant** | Corvyn (si réponse au courrier) | Courrier Conseil ; fil banque et six gardes (intrigue UBI), distinct de Bran. |
-| **Oblat de Palyr (PNJ)** | Bran, Lysa, Corvyn | Bran est son frère (resté à Palyr) ; l’Oblat a signé le mandat coffre de Lysa |
+| **Premiers Nés / Fils du Levant** | Corvyn (si réponse au courrier) | Courrier Conseil ; fil banque et six gardes (intrigue UBI), distinct de Brina. |
+| **Oblat de Palyr (PNJ)** | Brina, Lysa, Corvyn | Brina est sa sœur (l’Oblat reste à Palyr) ; l’Oblat a signé le mandat coffre de Lysa |
 | **Styrgie (commerce gris)** | Thoran | Lettre STY-547-PAL-THO-01 ; envoyé secret à Ulghart ; mot « cale close avant l’aube ». Orga : Lucan Drest (MiVI), couverture marchande — ne pas nommer MiVI sur la pièce joueur. |
 | **Mafia (Sangs)** | Thoran, Maren (via fer / Arguetheim) | Substitution du fer Sfaal–Palyr (intrigue Mafia) ; sabotage possible sur Arguetheim (intrigue Mafia). |
 
@@ -185,7 +189,7 @@ Seules les relations **nommées** dans les intrigues ou fiches du dépôt. Pas d
 | Saevar Dren | H | Sécurité | Tripot / Lira, secret |
 | Maren Holt | H | Commandant militaire | Réception Arguetheim ; Hanse ; Cinq Feux, secret |
 | Syndri Ashfeld | H | Herboriste | Coffre UBI / objet Edorian |
-| Bran Lyrd | H | Druide (cairn Lyrd) | Artefact branchies ; Bibliothèque ; frère de l’Oblat de Palyr |
+| Brina Lyrd | F | Druidesse (cairn Lyrd) | Artefact branchies ; Bibliothèque ; sœur de l’Oblat de Palyr |
 
 ### Hanse des Lames (PNJ orga)
 
@@ -207,7 +211,7 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 - Lettre commerce gris Styrgie : [`Lettre_approvisionnement_Styrgie_Thoran_Keld.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_approvisionnement_Styrgie_Thoran_Keld.md)
 - Cinq Feux (situation) : [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) ; ordre Maren : [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md)
 - Fer Sfaal : [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md)
-- Fiches joueur : `Groupes/Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md`, `Palyr_Syndri_Ashfeld_Herboriste.md`, `Palyr_Bran_Lyrd_Druide.md`
+- Fiches joueur : `Groupes/Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md`, `Palyr_Syndri_Ashfeld_Herboriste.md`, `Palyr_Brina_Lyrd_Druidesse.md`
 - Ordre BN Soren : à rédiger (Lysa seule)
 
 ---
@@ -220,12 +224,12 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 
 **Saevar** joue au Tripot. Corvyn le sait endetté, pas le montant exact. La dette peut servir de levier à la mafia ou à l’UBI si l’information circule.
 
-**Bran** est le frère de l’**Oblat de Palyr**. Ce lien ne donne pas de commandement sur la délégation, mais il ouvre des portes : Lysa tient un mandat signé par son frère ; les greffes oblat et les questeurs traitent Bran avec déférence quand le nom circule ;
+**Brina** est la sœur de l’**Oblat de Palyr**. Ce lien ne donne pas de commandement sur la délégation, mais il ouvre des portes : Lysa tient un mandat signé par l’Oblat ; les greffes oblat et les questeurs traitent Brina avec déférence quand le nom circule.
 
 
-**Bran** n’a pas de mandat du Légat. Le Conseil l’a ajouté à la délégation pour qu’il voyage sous escorte jusqu’à Ulghart et en revienne avec le groupe.
+**Brina** n’a pas de mandat du Légat. Le Conseil l’a ajoutée à la délégation pour qu’elle voyage sous escorte jusqu’à Ulghart et en revienne avec le groupe.
 
-**Maren** ne révèle pas la note BDL-547-SIT-01 aux autres PJ Palyr. Il peut exhiber l’ordre ORD-HCM-547-CIN-MAR-01 pour mobiliser les détachements. Rencontres secrètes avec les autres Feux (Isara, Sven, Bastion, Grisbe).
+**Maren** ne révèle pas la note BDL-547-SIT-01 aux autres PJ Palyr. Il peut exhiber l’ordre ORD-HCM-547-CIN-MAR-01 pour mobiliser les détachements. Rencontres secrètes avec les autres Feux (Isar, Sven, Bastion, Grisbe).
 
 ---
 
@@ -243,11 +247,11 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 
 **Artefact en coffre (Syndri)** : fragment lié au sceau / vouivre. Edorian contrôle l’accès. Mandat herboriste du Conseil.
 
-**Artefact du cairn (Bran)** : pièce aux hommes-branchies, trouvée sur le site Lyrd à Palyr. Lien gazette + Bibliothèque à rédiger ; pas de lien Fils du Levant.
+**Artefact du cairn (Brina)** : pièce aux hommes-branchies, trouvée sur le site Lyrd à Palyr. Lien gazette + Bibliothèque à rédiger ; pas de lien Fils du Levant.
 
-**Bran et l’Oblat** : frères.
+**Brina et l’Oblat** : elle est sa sœur ; l’Oblat reste sur Palyr.
 
-**Six gardes morts** : intrigue UBI / Premiers Nés — pas la ligne Bran.
+**Six gardes morts** : intrigue UBI / Premiers Nés — pas la ligne Brina.
 
 **Commerce gris Styrgie** : Thoran porte la lettre [`Lettre_approvisionnement_Styrgie_Thoran_Keld.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_approvisionnement_Styrgie_Thoran_Keld.md). Envoyé secret = Lucan Drest (MiVI), brief séparé ; pas de Guilde des Ports Unis sur ce fil. Distinct de l’opération fer (Mafia / MiVI).
 

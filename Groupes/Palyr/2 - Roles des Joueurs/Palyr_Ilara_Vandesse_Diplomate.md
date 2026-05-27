@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ilara Vandesse |
+| Joueur | Margaux |
+| E-mail joueur | romain.chapelon@gmail.com |
 | Rôle dans le groupe | Diplomate de Palyr |
 | Classe / profession | Diplomate |
 | Compétences | Erudit ; Secourisme |
@@ -54,8 +56,8 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Directe en commission. Économe en mots inutiles. Lit une salle avant de parler. |
 | Valeurs | Le rapport de force comme langage diplomatique. L'influence dure plus longtemps que l'argent. |
-| Peur | Utiliser les preuves trop tôt et priver Lysa du temps pour récupérer les coffres. Que les contacts Il-Irion se retournent contre elle. |
-| Rêve | Prendre le poste de directrice adjointe à l'UBI et faire de Palyr la cité qui contrôle la transition bancaire. |
+| Peur | Utiliser les preuves trop tôt et priver Lysa du temps pour récupérer les coffres. Que Cyrion Valdris, Seraphine Kaelthorne, Lucan Marivent ou Isar Dornelis utilisent une erreur de procédure contre toi. |
+| Rêve | Obtenir le siège de Palyr au conseil UBI et y attacher la fonction d'archiviste-directrice adjointe. |
 
 ---
 
@@ -66,7 +68,7 @@ Epopée en Krondaar
 
 Tu nais à Palyr dans une famille de marchands liés aux contrats portuaires. L'île travaille le métal, mais elle vit aussi de ses routes maritimes. Ton père tient un cabinet de courtage : contrats de transport, lettres de change, assurances de cargaison. Tu grandis dans les papiers avant de grandir dans les salles de conseil.
 
-À quinze ans, tu pars en formation à Il-Irion. Palyr envoie régulièrement des jeunes dans les écoles de la cité-île pour apprendre les pratiques bancaires et diplomatiques. Tu y restes cinq ans. Tu y apprends les mécanismes des commissions confédérales, les procédures de vote, la façon dont les délégations préparent les séances. Tu te constitues un réseau de contacts : des clercs, des secrétaires de commission, quelques conseillers plus jeunes qui partagent ton ambition sans avoir encore les clefs des salles fermées.
+À quinze ans, tu pars en formation à Il-Irion. Palyr envoie régulièrement des jeunes dans les écoles de la cité-île pour apprendre les pratiques bancaires et diplomatiques. Tu y restes cinq ans. Tu y apprends les mécanismes des commissions confédérales, les procédures de vote, la façon dont les délégations préparent les séances. Tu gardes surtout une méthode : repérer qui tient un vote, qui tient un registre, et qui peut bloquer une phrase dans un procès-verbal.
 
 Il-Irion te fascine et t'irrite à la fois. La cité a construit un système où l'influence bancaire pénètre presque tous les mandats confédéraux. Qui tient le crédit tient les votes. Tu rentres à Palyr avec ce constat gravé dans la mémoire.
 
@@ -74,25 +76,24 @@ Il-Irion te fascine et t'irrite à la fois. La cité a construit un système où
 
 Tu rejoins le service des relations extérieures de Palyr à vingt ans. Tes premières missions sont modestes : accompagner des délégations en commission, rédiger des comptes rendus, transmettre des positions officielles. Tu apprends vite que les positions officielles ne gagnent pas les votes — c'est le travail des couloirs qui les prépare.
 
-Tu construis l'axe Arthas sur plusieurs années. Arthas cherche un partenaire fiable sur les routes maritimes et une alternative aux structures bancaires d'Il-Irion. Palyr a les forges et les quais. Tu identifies le contact arthasien adéquat et tu travailles la relation sans en parler à tout le Conseil. Quand tu en parles, la confiance est déjà établie.
+Tu construis l'axe Arthas sur plusieurs années. Arthas cherche un partenaire fiable sur les routes maritimes et une alternative aux structures bancaires d'Il-Irion. Palyr a les forges et les quais. Tu identifies Aurelian Marvek pour la position politique et Cassiane Jakmar pour les accords commerciaux. Tu travailles cette relation sans en parler à tout le Conseil. Quand tu en parles, la confiance est déjà établie.
 
-Tu conserves aussi des contacts à Il-Irion. Certains t'informent sur les mouvements internes du conseil bancaire. D'autres pourraient devenir gênants si la situation se détériore. Tu tiens une liste mentale de qui sait quoi sur toi et tu mets à jour cette liste après chaque mission.
 
 ## Chapitre III : L'ascension (voix diplomatique de Palyr)
 
-Tu deviens la référence de Palyr sur les instances confédérales. Le Conseil te confie les dossiers bancaires, les commissions de vote sur les mandats, et les négociations avec Arthas. Tu portes aussi l'idée d'un poste de directrice adjointe au conseil de la banque depuis deux ans.
+Tu deviens la référence de Palyr sur les instances confédérales. Le Conseil te confie les dossiers bancaires, les commissions de vote sur les mandats, et les négociations avec Arthas. Tu portes aussi l'idée d'un poste d'archiviste-directrice adjointe de la banque depuis deux ans.
 
-Ce poste n'existe pas encore. Tu l'as conçu pour répondre à un besoin réel : les cités créancières de l'UBI n'ont aucun accès direct aux décisions de conseil. Une directrice adjointe nommée en dehors d'Il-Irion changerait l'équilibre. Tu as consulté des juristes confédéraux. La création est légale si la majorité des délégations vote pour. C'est là que le dossier de corruption devient utile : il te fournit le levier pour convaincre les indécis.
+Ce poste n'ajoute pas un sixième siège au conseil UBI. Chaque cité ne peut viser qu'un seul siège. Ton projet est plus précis : Palyr obtient son siège, et ce siège reçoit la charge d'archiviste-directrice adjointe. Cette charge donne accès aux actes, aux dépôts et aux procès-verbaux que l'ancien conseil a trop facilement verrouillés.
 
-Quand Lysa te présente le dossier de preuves, tu vois immédiatement comment l'utiliser. Les détournements documentés donnent à Palyr une position dominante dans les négociations sur la transition bancaire. Le poste de directrice adjointe peut être voté avant même que le nouveau conseil soit formellement installé. La fenêtre est courte. Corvyn te demande d'attendre. Tu entends. Tu prépares quand même.
+Quand Lysa te présente le dossier de preuves, tu vois immédiatement comment l'utiliser. Les détournements documentés donnent à Palyr une position forte dans les négociations sur la transition bancaire. La charge d'archiviste-directrice adjointe peut être votée avec le siège de Palyr avant l'installation formelle du nouveau conseil. La fenêtre est courte. Corvyn te demande d'attendre. Tu entends. Tu prépares quand même.
 
 ## Chapitre IV : Les défis actuels (semaines avant Ulghart)
 
-La création du poste dépend de plusieurs votes en commission. Tu as identifié trois délégations susceptibles de basculer en ta faveur avec les bons arguments. Deux de ces délégations ont des liens avec Il-Irion qu'il faut d'abord détacher avant de les pousser. Le dossier de corruption est l'outil pour ça, mais chaque preuve utilisée est une preuve qui ne peut plus servir ailleurs.
+La charge d'archiviste-directrice adjointe dépend de plusieurs votes en commission. Tu as identifié trois délégations susceptibles de soutenir Palyr avec les bons arguments. Deux de ces délégations ont des liens avec Il-Irion qu'il faut d'abord détacher avant de les pousser. Le dossier de corruption est l'outil pour ça, mais chaque preuve utilisée est une preuve qui ne peut plus servir ailleurs.
 
 Corvyn fixe le tempo. Il veut attendre que Lysa ait récupéré les archives Palyr avant de sortir les preuves. Tu comprends la logique. Tu ne t'y soumets pas entièrement : si une opportunité se présente en commission, tu ne la sacrifies pas pour une contrainte de timing qui n'est pas la tienne.
 
-Tes contacts à Il-Irion sont une ressource et un risque. Certains savent que tu portes un dossier sur la banque. Ils n'en connaissent pas le contenu. Si l'un d'eux parle aux mauvaises personnes, ta position en commission devient vulnérable avant même que tu aies pu utiliser les preuves.
+La délégation d'Il-Irion est ton adversaire principal en commission. Cyrion Valdris, diplomate d'Il-Irion, porte la candidature d'Il-Irion au siège de directeur. Seraphine Kaelthorne, responsable des finances d'Il-Irion, peut défendre les taux et retourner les créances contre Palyr. Lucan Marivent, juriste d'Il-Irion, peut déposer une objection de procédure. Isar Dornelis, agent de renseignement d'Il-Irion, peut chercher qui a transmis les preuves à Palyr.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -100,38 +101,54 @@ Corvyn est le chef de délégation. Tu acceptes son arbitrage final sur ce qui s
 
 Lysa partage le dossier banque avec toi. Elle tient la précision des chiffres et les accès aux coffres. Le dossier de preuves que tu utilises en commission vient de son travail. La tension entre vous porte sur ce point : quand tu utilises une preuve pour forcer un vote, tu réduis le temps dont elle dispose pour récupérer les coffres avant la passation. Elle ne te le dit pas directement. Tu le lis dans la façon dont elle répond quand tu l'informes d'un mouvement en commission.
 
-Thoran ne croise pas beaucoup tes lignes. Il tient le commerce, la régate et les quais. Ses contacts arthasiens pour le canal maritime recoupent les tiens sur le plan bancaire. Tu lui transmets ce dont il a besoin pour ne pas créer de friction involontaire avec tes propres contacts Arthas. Il ne cherche pas à étendre son périmètre.
+Thoran ne croise pas beaucoup tes lignes. Il tient le commerce et les contrats de minerai. Kaelen Voss commande la frégate et la régate. Les échanges de Thoran avec Arthas sur le fret peuvent recouper tes discussions avec Aurelian Marvek et Cassiane Jakmar sur la banque. Tu lui transmets ce dont il a besoin pour ne pas créer de friction involontaire avec Arthas.
 
-Saevar assure la sécurité de la délégation. Sa situation au Tripot peut créer des fuites au mauvais moment. Si une information sur tes contacts Il-Irion ou sur le commerce discret de Thoran avec la Styrgie sort par le Tripot, c'est terminé pour plusieurs dossiers en même temps. Tu surveilles ce que Saevar approche comme personnes pendant la Régate sans lui en expliquer la raison.
+Saevar assure la sécurité de la délégation. Sa situation au Tripot peut créer des fuites au mauvais moment. Si une information sur tes preuves UBI, sur tes échanges avec Arthas ou sur le commerce discret de Thoran avec la Styrgie sort par le Tripot, plusieurs dossiers deviennent vulnérables. Tu surveilles les personnes que Saevar approche pendant la Régate sans lui en expliquer la raison.
 
-Tes contacts à Il-Irion ont une valeur limitée dans le temps. Passé la transition de conseil, certains d'entre eux disparaissent dans d'autres mandats ou changent de camp. Tu veux utiliser ces contacts pendant la Régate, avant que la fenêtre se referme.
+Tu dois agir avant la passation du conseil UBI. Après la passation, Cyrion Valdris peut obtenir le siège d'Il-Irion, Seraphine Kaelthorne peut reprendre les chiffres, Lucan Marivent peut verrouiller les procédures, et Isar Dornelis peut identifier les relais de Palyr. Pendant la Régate, tu peux encore les affronter en séance avec les preuves de Lysa et l'arbitrage de Corvyn.
 
 ---
 
 # Tes missions et objectifs
 
-- **Créer et occuper le poste de directrice adjointe** : convaincre les délégations clefs en commission, utiliser le dossier de corruption comme levier au bon moment, sans brûler toute la munition avant que Lysa ait sécurisé les coffres.
+- **Obtenir le siège de Palyr et la charge d'archiviste-directrice adjointe** : convaincre les délégations clefs en commission, utiliser le dossier de corruption comme levier au bon moment, sans brûler toute la munition avant que Lysa ait sécurisé les coffres.
 - **Axe Arthas — transition bancaire** : consolider le projet de remplacement du système bancaire il-irionien par un cadre piloté avec Arthas. Palyr propose la garde des coffres comme contrepartie.
-- **Contacts Il-Irion** : utiliser les informateurs encore actifs pour préparer les votes en commission. Gérer le risque qu'ils retournent contre toi si la situation se dégrade.
+- **Adversaires Il-Irion** : préparer tes échanges avec Cyrion Valdris, Seraphine Kaelthorne, Lucan Marivent et Isar Dornelis. Chacun peut bloquer une partie de ton plan si tu arrives en commission sans preuve, sans majorité ou sans procédure prête.
 - **Timing avec Lysa et Corvyn** : coordonner les sorties de preuves avec Lysa (coffres) et Corvyn (arbitrage). Toi tu décides dans les marges — mais une erreur de timing peut couper les deux lignes à la fois.
 
 # Connaissances
 
 ## Axe Arthas — nouvelle banque
 
-Tu as bâti cet axe sur plusieurs années. Arthas veut une alternative bancaire aux structures d'Il-Irion. Palyr propose d'assurer la garde des coffres d'une nouvelle institution. Les termes sont en cours de négociation. Tu as les contacts arthasiens pour avancer pendant la Régate. Ce dossier est connu de Corvyn ; les détails techniques restent entre toi et tes contacts.
+Tu as bâti cet axe sur plusieurs années. Arthas veut une alternative bancaire aux structures d'Il-Irion. Palyr propose d'assurer la garde des coffres d'une nouvelle institution. Les termes sont en cours de négociation. Tu peux avancer avec Aurelian Marvek pour la position politique et avec Cassiane Jakmar pour les accords commerciaux. Ce dossier est connu de Corvyn ; les détails techniques restent entre toi et Arthas.
 
 ## Dossier corruption UBI — usage politique
 
 Le dossier de preuves documente les détournements du conseil UBI sous Edorian. Tu ne l'utilises pas en un seul bloc. Tu identifies les preuves qui suffisent à faire basculer une délégation en commission et tu les sors au moment où le vote est le plus proche. Lysa tient les originaux. Tu tiens les copies utiles en séance.
 
-## Contacts à Il-Irion
+## Délégation d'Il-Irion — adversaires nommés
 
-Tu as formé des liens à Il-Irion pendant tes années de formation. Certains sont encore actifs dans les instances confédérales. Ils t'informent sur les mouvements internes du conseil bancaire. Leur utilité diminue après la passation : une fois qu'Edorian est parti, leurs accès changent. Tu veux les exploiter pendant la Régate.
+Cyrion Valdris est diplomate d'Il-Irion et candidat au siège de directeur pour Il-Irion. Il peut défendre Il-Irion contre la charge d'archiviste-directrice adjointe attachée au siège de Palyr. En commission, force-le à répondre sur l'accès des cinq cités aux archives de la banque.
 
-## Poste de directrice adjointe — calendrier de vote
+Seraphine Kaelthorne tient les finances d'Il-Irion, les taux et les dettes inter-îles. Elle peut présenter Palyr comme une cité qui attaque la banque pour éviter ses propres coûts. Réponds avec les preuves de détournement et garde les chiffres précis pour le moment du vote.
 
-Le poste n'existe pas encore. Tu as préparé les statuts et identifié les délégations à convaincre. Trois délégations sont susceptibles de voter pour si tu présentes les preuves correctement. Le vote doit se tenir avant l'installation formelle du nouveau conseil UBI : après ce délai, le rapport de force change.
+Lucan Marivent est juriste d'Il-Irion. Il travaille les plaintes et les procédures. Il peut ralentir ton vote avec une objection de forme ou une demande de renvoi. Prépare avec Corvyn une formulation courte : création de la charge, durée du mandat, pouvoir limité, visa de la Convention.
+
+Isar Dornelis est agent de renseignement d'Il-Irion. Il cherche la fuite Melian vers Palyr et peut remonter vers Lysa si tu utilises trop d'éléments d'un seul coup. Ne cite pas Melian en séance. Utilise des copies et laisse Lysa protéger l'accès aux originaux.
+
+## Diplomates et représentants des cinq cités
+
+Tu connais au moins les noms des personnes qui portent la parole des cités en commission. 
+
+- Ilara Vandesse porte la ligne de Palyr sur le siège UBI et la charge d'archiviste-directrice adjointe.
+- Cyrion Valdris porte la parole diplomatique d'Il-Irion. Il défend la place d'Il-Irion dans la banque et sa candidature au siège de directeur.
+- Rym Naksane est marchande et diplomate de Sfaal. Elle conseille Synex Aliriis, chef de délégation de Sfaal, et négocie les routes commerciales liées à l'acier.
+- Aurelian Marvek est le représentant d'Arthas et chef de délégation après l'assassinat de l'Oblat d'Arthas. Cassiane Jakmar est marchande et conseillère du chef. Pour ton axe Arthas, tu peux parler à l'un ou l'autre selon que tu cherches une position politique ou un accord commercial.
+- Rauth Kaelmar est le chef de clan de Ther-Félis et la voix officielle de sa cité auprès de la Confédération. Il affronte Il-Irion sur la libre concurrence, les ports et la dette.
+
+## Siège Palyr et archiviste-directrice adjointe — calendrier de vote
+
+La charge n'existe pas encore sous cette forme. Elle ne crée pas un siège de plus. Tu as préparé les statuts pour rattacher la charge d'archiviste-directrice adjointe au siège que Palyr veut obtenir au conseil UBI. Trois délégations sont susceptibles de voter pour si tu présentes les preuves correctement. Le vote doit se tenir avant l'installation formelle du nouveau conseil UBI : après ce délai, le rapport de force change.
 
 ---
 

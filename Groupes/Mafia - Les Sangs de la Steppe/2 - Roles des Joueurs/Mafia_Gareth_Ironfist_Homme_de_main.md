@@ -60,41 +60,41 @@ Epopée en Krondaar
 
 ## Enfance — faubourgs d'Elfrion
 
-Tu as grandi dans les faubourgs où l'on règle une dette par le poing ou la lame. Les tripots t'ont appris que la peur fait obéir ; les casernes, que la discipline tient une ligne plus longtemps qu'un cri.
+Tu as grandi dans les faubourgs d'Elfrion, sans famille connue. Tu y as appris à régler une dette par le poing ou la lame quand aucun tribunal n'écouterait. Vers tes douze ans, tu travaillais déjà comme porteur et videur dans des tripots de quartier.
 
-Tu n'as pas de lignée à invoquer. Tu as seulement survécu assez longtemps pour qu'on te paie.
+Vers seize ans, tu as commencé à être engagé pour des courses violentes : intimider un débiteur, vider une salle, refroidir un client trop bruyant. C'est ainsi que tu as commencé à être payé pour ta force et ton silence.
 
-## Jeunesse — corps auxiliaires
+## Jeunesse — corps auxiliaires de la République
 
-Tu as servi dans des compagnies auxiliaires de la République : escortes, gardes rapprochées, campagnes courtes. Tu vises les genoux quand on veut un message ; la gorge quand on veut un silence.
+Tu as servi plusieurs années dans des compagnies auxiliaires de la République : escortes de notables, gardes rapprochées, campagnes courtes en frontière. Tu y as appris à frapper selon la consigne donnée. Si on demande un message, tu blesses au genou ou à la main. Si on demande un silence, tu vises la gorge ou les côtes.
 
-À vingt-huit ans, tu savais fermer une porte, tenir un couloir et faire disparaître un témoin sans alerter toute la ville.
+À vingt-huit ans, tu savais fermer une porte, tenir un couloir face à plusieurs hommes et faire disparaître un témoin sans déclencher de battue dans la ville.
 
 ## Entrée dans les Sangs — il y a dix ans
 
-À trente ans, tu as rejoint les Sangs. On ne t'a pas demandé de discours : des portes qui cèdent, des témoins qui se taisent, des cadres protégés.
+À trente ans, tu as rejoint les Sangs de la Steppe. On ne t'a pas demandé d'expliquer ton passé. On t'a demandé des portes qui cèdent, des témoins qui se taisent et des cadres protégés quand une rencontre tournait mal.
 
-Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. Tu es devenu Maître des Chantiers navals dans la Guilde des Ports Unis : couverture pour être sur les chantiers, entendre les ouvriers et tenir les hommes qui refusent de parler aux prévôts.
+Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. Tu es devenu Maître des Chantiers navals dans la Guilde des Ports Unis. Cette charge te permet d'être sur les chantiers à toute heure, d'entendre les conversations des ouvriers et de tenir tranquilles les hommes qui refusent de parler aux prévôts.
 
-Drask Bloodmoon te fournit poisons et antidotes selon mission. Shadow compte sur toi quand une infiltration tourne mal au Tripot ou à la banque.
+Drask Bloodmoon te fournit poisons, sédatifs et antidotes selon la mission. Shadow t'appelle quand une infiltration tourne mal au Tripot ou à la banque et qu'il faut sortir un homme en vie.
 
 ## Travail actuel — muscle et escorte
 
-Tu sécurises les membres du groupe, tu fais plier les récalcitrants, tu escortes Raven quand des sacs d'or ne doivent pas finir à la mer trop tôt.
+Tu protèges les cinq autres cadres lors des rencontres à risque. Tu fais plier les récalcitrants quand l'intimidation suffit, et tu portes la lame quand Kaelan ou Vorak l'ordonnent. Tu escortes Raven sur le quai quand des sacs d'or sont en jeu, pour éviter qu'ils disparaissent en mer ou dans une auberge.
 
-Tu connais des gardiens corrompus : tu les paies pour une heure ou une porte, tu ne leur confies pas le réseau.
+Tu entretiens un carnet de gardiens corrompus à Ulghart et sur les autres places. Tu les paies pour une heure de garde fermée ou pour ouvrir une porte, sans jamais leur révéler le nom du réseau ni le contenu des sacs qu'ils laissent passer.
 
 ## Deux erreurs — oblat d'Arthas et bérêt
 
-Il y a quelques mois, une intervention mal cadrée : mauvaise cible, mauvais couloir. Tu as tué par erreur un oblat d'Arthas. Ce n'était pas l'ordre.
+Il y a quelques mois, tu as exécuté une intervention mal cadrée : mauvaise cible identifiée, mauvais couloir d'approche. Tu as tué par erreur un oblat d'Arthas qui n'était pas sur la liste. Kaelan n'avait pas donné cet ordre.
 
-Tu es sorti sans ton bérêt écossais vert à pompon. Il est resté sur les lieux. Tu es le seul dans la maison à savoir que tu l'as perdu là et que c'est toi qui as fait le coup.
+Tu es sorti sans ton bérêt écossais vert à pompon. Il est resté sur les lieux. Tu es le seul dans la maison à savoir que tu l'as perdu là et que tu es l'auteur du coup.
 
-Arthas détient le bérêt et cherche le propriétaire. Raven t'observe depuis l'arrivée à Ulghart ; il n'a pas encore de preuve, seulement ton stress et les rumeurs de la délégation.
+La délégation d'Arthas détient désormais le bérêt et cherche son propriétaire. Raven t'observe depuis votre arrivée à Ulghart. Il n'a pas encore de preuve, seulement ton stress visible et les rumeurs rapportées par ses informateurs d'Arthas.
 
 ## Ulghart — Régate
 
-La Convention réunit délégations, équipages et milices. Tu dois tenir la sécurité des cadres, escorter les remises sensibles, et effacer la piste du bérêt avant qu'Arthas ne frappe à la Guilde ou devant témoins.
+La Convention réunit ce week-end les délégations, les équipages de la Régate et les milices des cités. Ton travail : tenir la sécurité des cinq cadres, escorter les remises sensibles (l'or des pirates en priorité), et couper la piste du bérêt avant que la délégation d'Arthas ne te désigne devant la Guilde ou devant un délégué confédéral.
 
 ---
 
@@ -112,15 +112,10 @@ Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kae
 - Récupérer ou détruire le bérêt, ou couper la piste avant qu'Arthas n'identifie le propriétaire.
 - Empêcher que l'affaire de l'oblat n'éclate au mauvais moment (MiVI, délégations, Régate).
 
-## Ce que tu ne fais pas
-
-- Tu ne négocies pas les traités UBI ni la presse de Staal : ce n'est pas ton métier.
-- Tu ne confesse pas au groupe le mort de l'oblat ni le bérêt perdu sans ordre de Kaelan.
-
 ## Informations sensibles
 
-- Si tes méthodes ou tes gardes payés sont exposés, tu es la première tête qu'on affichera.
-- Kaelan et le MiVI puniraient la négligence autant que le meurtre non ordonné.
+- Si tes méthodes (gardes payés, intimidations physiques, exécutions) sont exposées en public, c'est ton nom qui apparaîtra sur l'avis de recherche, avant celui des autres cadres.
+- Kaelan et le MiVI sanctionneraient aussi durement une négligence (bérêt perdu, témoin laissé en vie par erreur) qu'un meurtre non ordonné.
 
 ---
 
@@ -132,11 +127,11 @@ Pour les remises au quai, tu portes parfois la marque MQ-II-547-004 : tissu pli�
 
 ## Marda Velyss — Tripot (fort d'Ulghart)
 
-Marda tient le casino. Entre vous, dette de jeu non écrite : tu lui dois une lune, elle te doit un couloir libre quand la maison est pleine. Tu peux lui rappeler la dette pour passer un message ou éviter une fouille ; elle peut te la rappeler à son tour. Ce n'est pas le billet RD-III-543-002 que Kaelan conserve.
+Marda tient le casino du fort d'Ulghart. Vous avez une dette de jeu réciproque, non écrite : tu lui dois une soirée de mise perdue, elle te doit un passage libre par un couloir privé quand la salle principale est saturée. Tu peux lui rappeler la dette pour faire entrer un homme du réseau sans contrôle ou éviter une fouille de la milice ; elle peut te la rappeler dans l'autre sens. C'est un levier oral, distinct de la reconnaissance écrite RD-III-543-002 que conserve Kaelan.
 
 ## Maître Halwen Rask — Staal (imprimerie)
 
-Tu connais l'adresse de l'imprimerie et les hommes qui y dorment. Si la feuille CC-III-544-002 sort en circulation, Kaelan décide ; toi, tu peux empêcher qu'un porteur ne reparte intact si on te l'ordonne.
+Tu connais l'adresse de l'imprimerie de Halwen à Staal et les hommes qui y dorment la nuit. Kaelan décide de la circulation de la feuille CC-III-544-002. Si l'ordre tombe, tu peux intercepter un porteur sortant de l'imprimerie pour récupérer les exemplaires, ou le frapper pour qu'il abandonne la livraison.
 
 ## Garde prévôtal — Ulghart (nom selon scène)
 

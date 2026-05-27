@@ -1,6 +1,6 @@
-﻿Nom;Joueur;email;Role;Classe;Competence;PointSanté
-Théven Corvel;;**email**;Chef de mission;Clerc (Wultan);"Egorgement ; Pugilat";6
-Ysel Marivent;;**email**;Officier de renseignement;Diplomate;"Erudit ; Torture";4
-Lucan Drest;;**email**;Négociateur;Diplomate;"Erudit ; Transe";4
-Varro Selt;;**email**;Infiltrateur / exécutant;Assassin;"Egorgement ; Torture";5
-Miraen Talvas;;**email**;Couverture Tripot — Addicte;Guerrier - capitaine;"Skipper ; Pugilat";6
+﻿Nom;Joueur;email;Role;Classe;Competence;PointSanté;Argent
+Théven Corvel;;**email**;Chef de mission;Clerc (Wultan);"Egorgement ; Pugilat";6;100 couronnes
+Ysel Marivent;;**email**;Officier de renseignement;Diplomate;"Erudit ; Torture";4;100 couronnes
+Lucan Drest;;**email**;Négociateur;Diplomate;"Erudit ; Transe";4;100 couronnes
+Varro Selt;;**email**;Infiltrateur / exécutant;Assassin;"Egorgement ; Torture";5;100 couronnes
+Miraen Talvas;;**email**;Couverture Tripot — Addicte;Guerrier - capitaine;"Skipper ; Pugilat";6;100 couronnes

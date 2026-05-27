@@ -17,7 +17,7 @@ Les codes ci-dessous sont ceux inscrits au registre des scellés privés. Vos au
 | Code pièce | Date (an) | Nature | Fait vérifiable |
 |------------|-----------|--------|-----------------|
 | RD-III-542-003 | 542 | Reconnaissance sous sceau | Prêt parallèle Ther-Félis ; taux douze pour cent (quatre points au-dessus du tarif confédéral affiché) ; ~22 000 couronnes au nominal. |
-| RD-III-543-004 | 543 | Avenant sous sceau | Même structure pour Arthas ; bénédiction de ma main le 3e jour du mois des Vents ; ~18 000 couronnes ajoutées. |
+| RD-III-543-004 | 543 | Avenant sous sceau | Même structure pour Arthas ; bénédiction de ma main le 3e jour du mois de Cutios ; ~18 000 couronnes ajoutées. |
 | FC-III-544-004 | 544 | Fiche de pesée | 1 200 onces déclarées, 1 470 pesées en chambre close ; témoin greffier, initiale « H ». |
 | CC-II-545-004 | 545 | Courrier scellé | Troisième relève de taux vers Ther-Félis ; non déposé au registre ouvert des cités. |
 

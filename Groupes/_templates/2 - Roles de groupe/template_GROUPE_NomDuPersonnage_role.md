@@ -39,6 +39,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | [Prénom Nom] |
+| Joueur | [Prénom du joueur] |
+| E-mail joueur | [adresse si connue — sinon omettre la ligne] |
 | Rôle dans le groupe | [Position hiérarchique et fonction] |
 | Classe / profession | [Guerrier, mage, rôdeur, etc.] |
 | Groupe | |

@@ -1,9 +1,10 @@
-﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté
-Corvyn Valdrak;;**email**;Représentant mandaté du Légat;Guerrier - diplomate;"Pugilat (7) ; Erudit";6
-Ilara Vandesse;;**email**;Diplomate;Diplomate;"Erudit ; Secourisme";4
-Lysa Morwyn;;**email**;Trésorière;Erudit;Erudit - Secourisme;4
-Thoran Keld;;**email**;Marchand, capitaine de frégate;Marchand - capitaine;"Erudit ; Skipper";4
-Saevar Dren;;**email**;Chef de la sécurité;Guerrier;"Pugilat (8) ; Torture";5
-Maren Holt;;**email**;Commandant militaire;Guerrier;"Skipper ; Ambidextrie";5
-Syndri Ashfeld;;**email**;Herboriste;Herboriste;Chirurgie;4
-Bran Lyrd;;**email**;Druide (cairn Lyrd);Druide (B);Secoursime;3
+﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
+Corvyn Valdrak;Clément;clement.alonso@gmx.fr;Représentant mandaté du Légat;Guerrier - diplomate;"Pugilat (7) ; Erudit";6;100 couronnes
+Ilara Vandesse;Margaux;romain.chapelon@gmail.com;Diplomate;Diplomate;"Erudit ; Secourisme";4;100 couronnes
+Lysa Morwyn;Sirine;hydromel88@orange.fr;Trésorière;Erudit;Erudit - Secourisme;4;100 couronnes
+Thoran Keld;Xavier;Xavier.jegonday@hotmail.fr;Marchand;Marchand;"Erudit";4;100 couronnes
+Kaelen Voss;Christophe;c.munier087@gmail.com;Capitaine de frégate;Guerrier;"Skipper ; Raboutage";5;100 couronnes
+Saevar Dren;Robin;**email**;Chef de la sécurité;Guerrier;"Pugilat (8) ; Torture";5;100 couronnes
+Maren Holt;Romain;romain.chapelon@gmail.com;Commandant militaire;Guerrier;"Skipper ; Ambidextrie";5;100 couronnes
+Syndri Ashfeld;Tom;**email**;Herboriste;Herboriste;Chirurgie;4;100 couronnes
+Brina Lyrd;Veronique ;**email**;Druidesse (cairn Lyrd);Druide (B);Secourisme;3;100 couronnes

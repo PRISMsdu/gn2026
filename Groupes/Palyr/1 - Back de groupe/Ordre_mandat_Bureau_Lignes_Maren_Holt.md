@@ -40,7 +40,7 @@ Les officiers suivants exécutent sous sa direction pour la durée de la Convent
 
 | Cité | Officier de liaison |
 |------|---------------------|
-| Il-Irion | Isara Dornelis |
+| Il-Irion | Isar Dornelis |
 | Ther-Félis | Sven Orlac |
 | Palyr | Maren Holt |
 | Arthas | Bastion Kharvek |

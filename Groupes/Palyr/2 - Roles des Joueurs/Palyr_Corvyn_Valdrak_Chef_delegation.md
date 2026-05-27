@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Corvyn Valdrak |
+| Joueur | Clément |
+| E-mail joueur | clement.alonso@gmx.fr |
 | Rôle dans le groupe | Représentant mandaté du Légat — chef de délégation |
 | Classe / profession | Guerrier - diplomate |
 | Compétences | Pugilat (7) ; Erudit |
@@ -90,11 +92,11 @@ Il y a environ un an, Lysa Morwyn te présente un dossier. Melian Torv, conseill
 
 Tu portes le dossier au Conseil. Les juristes classent ce qui peut sortir en public, ce qui doit rester interne, et ce qui doit être récupéré avant toute lecture par un tiers — en particulier les archives que Palyr avait déposées en coffre à une époque où la banque semblait fiable.
 
-Tu assembles la délégation en conséquence. Ilara pour les instances confédérales et la diplomatie. Lysa pour les coffres et les contacts banque. Thoran pour le commerce et la régate. Saevar pour la sécurité et les réseaux. Tu prends le mandat. Le Légat reste à Palyr.
+Tu assembles la délégation en conséquence. Ilara pour les instances confédérales et la diplomatie. Lysa pour les coffres et les contacts banque. Thoran pour le commerce et les contrats. Kaelen Voss pour la frégate et la régate. Saevar pour la sécurité et les réseaux. Tu prends le mandat. Le Légat reste à Palyr.
 
 ## Chapitre IV : Les défis actuels (semaines avant Ulghart)
 
-Le mandat concentre plusieurs dossiers en même temps. La régate d'abord : Palyr veut gagner pour le prestige politique. Thoran commande la frégate. Tu lui as remis les moyens pour soudoyer les juges si nécessaire. Si ça fuite, c'est Palyr qui porte le scandale, pas Thoran.
+Le mandat concentre plusieurs dossiers en même temps. La régate d'abord : Palyr veut gagner pour le prestige politique. Kaelen Voss commande la frégate. Tu lui remettras les moyens pour soudoyer les juges si nécessaire. Si ça fuite, c'est Palyr qui porte le scandale, pas Kaelen seul.
 
 La banque ensuite : Edorian sort. Tu veux récupérer les documents Palyr avant que le nouveau conseil ferme les accès. Ilara travaille le dossier de l'intérieur pour le poste de directrice adjointe. Lysa tient les accès et les contacts. La difficulté est de rythme : Ilara veut aller vite pour forcer les votes, Lysa a besoin de temps pour les coffres. Tu arbitres entre les deux.
 
@@ -110,11 +112,11 @@ Ilara est la plus rapide à agir de toute l'équipe. Elle connaît les rouages d
 
 Lysa est ta contrainte principale sur le dossier banque. Elle tient la précision des chiffres, les accès aux coffres et le canal vers Melian. Tu lui fais confiance sur la technique. Elle fait parfois des choses en marge de ce qu'elle te rapporte. Tu le sens. Tu ne pousses pas tant que le résultat avance.
 
-Thoran est solide. Il tient son périmètre sans chercher à s'étendre sur la diplomatie. Son travail sur les quais et en commission commerciale est propre. Il sait que les moyens pour les juges ne doivent pas laisser de trace. Il a compris.
+Thoran est solide sur les contrats et Sfaal. Kaelen tient la mer sans empiéter sur la diplomatie. Tu as séparé les deux rôles après un retard de convoi mal géré. Kaelen sait que la bourse des juges ne doit pas laisser de trace.
 
 Saevar est utile et fragile. Ses réseaux à Ther-Félis et ses contacts dans les milieux gris d'Ulghart valent cher pour la délégation. Sa situation au Tripot est une menace active que tu surveilles. Lira le tient par sa dette. Si quelqu'un dans la banque ou chez Il-Irion remonte ce fil, la délégation est exposée.
 
-Edorian est la cible principale de la négociation. Il veut sortir du conseil avant que les Questeurs ne referment l'étau. Tu veux les documents et les coffres avant qu'il parte. L'accord tient tant que chacun croit encore avoir besoin de l'autre. Si Lysa récupère les coffres trop vite, tu perds ton levier sur lui. Si Edorian sort avant la récupération, tu perds la fenêtre d'accès. Le calendrier est serré.
+Edorian est la cible principale de la négociation. Il veut sortir du conseil avant que les auditeurs ou les nouveau conseil ne referment l'étau. Tu veux les documents et les coffres avant qu'il parte. L'accord tient tant que chacun croit encore avoir besoin de l'autre. Si Lysa récupère les coffres trop vite, tu perds ton levier sur lui. Si Edorian sort avant la récupération, tu perds la fenêtre d'accès. Le calendrier est serré.
 
 ---
 
@@ -123,7 +125,7 @@ Edorian est la cible principale de la négociation. Il veut sortir du conseil av
 - **Récupérer les archives Palyr** : les documents déposés en coffre UBI doivent sortir avant la passation du conseil. Lysa tient les accès et le contact Melian. Ta mission est de tenir la fenêtre ouverte assez longtemps sans alerter le nouveau conseil ni Edorian.
 - **Négocier la sortie d'Edorian** : il veut fuir avec or et documents. Tu veux les archives Palyr et le silence. L'accord tient tant que chacun croit avoir encore besoin de l'autre. Cadre la négociation avec Lysa.
 - **Timing des preuves avec Ilara** : les preuves de corruption servent à pousser le poste de directrice adjointe. Elles ne peuvent pas sortir avant que les coffres soient sécurisés. Tu arbitres ce tempo.
-- **Régate et pots-de-vin** : Thoran a les moyens. Si ça fuite, c'est Palyr qui porte le scandale. Surveille que le soudoiement des juges reste intraçable.
+- **Régate et pots-de-vin** : Kaelen Voss a la bourse des juges. Si ça fuite, c'est Palyr qui porte le scandale. Surveille que le soudoiement reste intraçable.
 - **Saevar et le Tripot** : sa dette chez Lira est un levier contre la délégation. Décide comment gérer sa situation avant que quelqu'un d'autre ne l'utilise contre toi.
 
 # Connaissances
@@ -142,7 +144,7 @@ Ilara veut utiliser les preuves de corruption pour forcer les votes sur le poste
 
 ## Régate — pots-de-vin aux juges
 
-Corvyn a remis à Thoran les moyens pour soudoyer les juges de la régate si nécessaire. Palyr a besoin du prestige naval. Si cette opération fuite, la cité porte le scandale complet, pas Thoran. Tu surveilles que ça reste intraçable.
+Corvyn a remis à Kaelen Voss les moyens pour soudoyer les juges de la régate si nécessaire. Palyr a besoin du prestige naval. Si cette opération fuite, la cité porte le scandale complet. Tu surveilles que ça reste intraçable.
 
 ---
 

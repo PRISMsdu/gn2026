@@ -118,14 +118,6 @@ Quand Guelievre ou Varek remonte un signal, tu te déplaces avant que le bruit n
 - Tenir face aux émissaires mafia : fermeté, pas d'humiliation publique d'un chef en salle.
 - Protéger l'équipe pendant la fenêtre régate / Convention : foules, délégations, tentatives de casse ou de pression.
 
-## Ce que tu ne fais pas
-
-- Tu ne commandes pas la garnison du fort, les remparts ni les ordres généraux de la citadelle.
-- Tu ne négocies pas la commission UBI, la dette mafia ni le départ collectif — Marda et Fenric portent ça.
-- Tu ne tiens pas les livres ni les paris.
-
-
-
 ## Informations sensibles
 
 - Humilier publiquement un chef mafia peut déclencher une guerre ouverte — Marda négocie ; toi tu limites la violence au périmètre du casino.

@@ -67,7 +67,9 @@ Messire Corvyn Valdrak peut déléguer par écrit une partie de l’exécution �
 
 - **dame Ilara Vandesse** : diplomate ; commissions et votes préparés en son nom ;
 
-- **messire Thoran Keld** : commerce maritime, régate et contrats de fret ;
+- **messire Thoran Keld** : commerce maritime et contrats de fret ;
+
+- **messire Kaelen Voss** : commandement de la frégate de Palyr, régate et équipage ;
 
 - **messire Saevar Dren** : sûreté et contacts de passage.
 
@@ -75,15 +77,15 @@ Tout mandataire rend compte sans retard au chef de délégation. Un acte contrai
 
 ---
 
-### Article troisième bis — Bran Lyrd, druide du cairn Lyrd
+### Article troisième bis — Brina Lyrd, druidesse du cairn Lyrd
 
-Bran Lyrd, druide du cairn Lyrd sur l’île de Palyr et frère de l’Oblat de Palyr, voyage avec la délégation à la demande du Conseil et de l’Oblat. Il n’est pas membre de la délégation au sens des mandats du Légat. Sa présence est un honneur pour Palyr et pour la mission.
+Brina Lyrd, druidesse du cairn Lyrd sur l’île de Palyr et sœur de l’Oblat de Palyr, voyage avec la délégation à la demande du Conseil et de l’Oblat. Elle n’est pas membre de la délégation au sens des mandats du Légat. Sa présence est un honneur pour Palyr et pour la mission.
 
-Messire Corvyn Valdrak et l’ensemble des mandataires nommés aux articles précédents sont tenus de protéger Bran Lyrd pendant le trajet, le séjour au fort d’Ulghart et le retour, au même titre que les membres officiels de la délégation.
+Messire Corvyn Valdrak et l’ensemble des mandataires nommés aux articles précédents sont tenus de protéger Brina Lyrd pendant le trajet, le séjour au fort d’Ulghart et le retour, au même titre que les membres officiels de la délégation.
 
-Dès que Bran Lyrd demande une aide justifiée, la délégation doit s’efforcer au maximum de lui prêter appui : accès, escorte, crédit de parole, temps des clercs ou des officiers compétents. Cette obligation vaut en particulier pour les éléments anciens ou historiques de Palyr, les pièces à faire expertiser, les recherches à la Bibliothèque du fort, et toute affaire en lien avec le cairn Lyrd.
+Dès que Brina Lyrd demande une aide justifiée, la délégation doit s’efforcer au maximum de lui prêter appui : accès, escorte, crédit de parole, temps des clercs ou des officiers compétents. Cette obligation vaut en particulier pour les éléments anciens ou historiques de Palyr, les pièces à faire expertiser, les recherches à la Bibliothèque du fort, et toute affaire en lien avec le cairn Lyrd.
 
-Cette obligation ne prime pas les objectifs confiés au présent mandat lorsque l’aide demandée mettrait en péril la banque, l’armement, la régate ou la sûreté collective de la mission. Messire Corvyn Valdrak arbitre entre l’aide due à Bran Lyrd et les priorités de la Convention. Il consigne sa décision au registre de la délégation lorsqu’il doit refuser ou différer.
+Cette obligation ne prime pas les objectifs confiés au présent mandat lorsque l’aide demandée mettrait en péril la banque, l’armement, la régate ou la sûreté collective de la mission. Messire Corvyn Valdrak arbitre entre l’aide due à Brina Lyrd et les priorités de la Convention. Il consigne sa décision au registre de la délégation lorsqu’il doit refuser ou différer.
 
 ---
 
@@ -139,4 +141,4 @@ Greffe des Oblats — bureau de Palyr — extraction certifiée conforme pour po
 
 ---
 
-*(Nota de formation : pièce remise à Corvyn. L’Arguetheim, le fer Sfaal, la banque et la régate se règlent sous ce cadre ; Maren et Lysa agissent par délégation écrite ou orale de Corvyn. Article 3 bis : protection et appui à Bran — arbitrage Corvyn si conflit avec les autres dossiers.)*
+*(Nota de formation : pièce remise à Corvyn. L’Arguetheim, le fer Sfaal, la banque et la régate se règlent sous ce cadre ; Maren et Lysa agissent par délégation écrite ou orale de Corvyn. Article 3 bis : protection et appui à Brina — arbitrage Corvyn si conflit avec les autres dossiers.)*

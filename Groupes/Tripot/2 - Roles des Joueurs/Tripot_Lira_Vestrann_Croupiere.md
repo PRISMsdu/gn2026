@@ -109,7 +109,7 @@ Tu maîtrises les codes internes ; tu truques à la marge avec Éliane quand Mar
 
 Tu repères les addicts avant qu'ils ne s'effondrent : main qui tremble, regard sur la porte, phrase qu'ils répètent pour se rassurer. Tu n'en es pas une — tu as vu trop de ruines pour jouer pour ton propre compte. Tu cadres la salle avec Sira : phrases codées, cotes, dettes signées quand Marda valide le risque.
 
-Saevar Dren, chef de la sécurité de la délégation palyrienne, est l'un de tes parieurs addicts : il revient après avoir gagné, il revient après avoir perdu, il connaît le montant exact de ce qu'il te doit — 8 234 couronnes sur ton registre, chiffre que lui seul connaît avec toi. Il a des parents modestes au port de Palyr ; si la dette éclate sur Corvyn ou sur l'île, il tombe et ils tombent avec lui. Tu attends la Régate pour formuler ta demande au moment où il a le plus à perdre.
+Saevar Dren, chef de la sécurité de la délégation palyrienne, est l'un de tes parieurs addicts : il revient après avoir gagné, il revient après avoir perdu, il connaît le montant exact de ce qu'il te doit — 2 422 couronnes sur ton registre, chiffre connu de lui et du Tripot. Il a des parents modestes au port de Palyr ; si la dette éclate sur Corvyn ou sur l'île, il tombe et ils tombent avec lui. Tu attends la Régate pour formuler ta demande au moment où il a le plus à perdre.
 
 ## Convention, régate, dynamique des sœurs
 
@@ -132,13 +132,6 @@ Tu tiens les codes de salle et les habitués que Sira repère à la table. Tu co
 - Jouer la dynamique des sœurs : alliance, rivalité, ou les deux — matière à scène sans affaiblir la maison.
 - Formuler la demande envers Saevar pendant la Régate si le moment est bon pour la maison.
 - Couvrir une altercation au pugilat en coulisse si Ardan n'est pas là — sans en faire un spectacle devant la garnison.
-
-## Ce que tu ne fais pas
-
-- Tu ne triches pas en spectacle gratuit devant la salle — la réputation du Tripot paie avant ta vanité.
-- Tu ne parles pas de Shadow ni des bourses anonymes en public — personne au Tripot ne connaît ce fil sauf peut-être une présence que tu ne nommes pas.
-- Tu ne joues pas pour ton compte aux tables — tu orientes ceux qui ne savent pas s'arrêter.
-- Tu ne remontes pas sur un ring devant la salle — le pugilat reste un recours de coulisse.
 
 ## Informations sensibles
 
@@ -169,7 +162,7 @@ Dossiers internes ; même ligne dramatique que le reste du groupe sur VIP et ré
 
 ## Saevar Dren — Palyr (dette)
 
-Chef de la sécurité de la délégation palyrienne. Accro au jeu : Sira et toi le cadrez comme les autres parieurs ruinés, sauf que la maison veut le garder vivant tant que la dette sert. Dette de 8 234 couronnes sur ton registre — lui connaît le chiffre autant que toi ; Corvyn sait qu'il est endetté au Tripot, pas le montant.
+Chef de la sécurité de la délégation palyrienne. Accro au jeu : Sira et toi le cadrez comme les autres parieurs ruinés, sauf que la maison veut le garder vivant tant que la dette sert. Dette de 2 422 couronnes sur ton registre — lui connaît le chiffre autant que le Tripot ; Corvyn sait qu'il est endetté au Tripot, pas le montant.
 
 Parents au port de Palyr (comptoir alimentaire, travail de quai) : si tu révèles la dette à Corvyn ou si un tiers remonte le fil, Saevar perd sa place et sa famille paie sur l'île. Tu attends la Régate pour formuler ta demande — service, information, silence — au moment où il ne pourra pas consulter sa délégation.
 

@@ -1,6 +1,6 @@
 <!--
   Pièce joueur — remise à Thoran Keld avec les papiers de mission (Conseil de Palyr).
-  Contexte : `Back_groupe_Palyr.md` (prologue, cargaisons discrètes) ; `Palyr_Thoran_Keld_Marchand_capitaine.md`.
+  Contexte : `Back_groupe_Palyr.md` (prologue, cargaisons discrètes) ; `Palyr_Thoran_Keld_Marchand.md`.
   En scène : aucune mention du MiVI ; pas de Guilde des Ports Unis sur ce fil.
   Orga : l’envoyé secret est Lucan Drest (couverture marchande) — `MiVI_Lucan_Drest_Negociateur.md`.
 -->

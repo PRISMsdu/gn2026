@@ -131,12 +131,6 @@ Tu entretiens ton réseau par messages et rencontres brèves en ville basse ou a
 - Tenir ton réseau actif sans vendre la maison : refuser ou détourner les demandes qui visent directement Marda, Fenric ou les registres cachés.
 - Repérer tôt toute présence styrgienne qui pourrait te lier à Orlen ou à l'armée régulière ; prévenir Marda avant d'agir seul.
 
-## Ce que tu ne fais pas
-
-- Tu ne négocies pas avec la mafia ni avec la banque — Marda et Fenric portent ça.
-- Tu ne doubles pas seul une confrontation armée avec des chefs de faction — tu remontes, Ardan ou Soren interviennent sur ordre.
-- Tu ne tiens pas les paris, les livres ni l'ordre en salle — Éliane, Fenric, Ardan.
-
 ## Informations sensibles
 
 - Orlen, la fiole et la désertion : si un styrgien te nomme, alerte Marda avant de répondre en salle.

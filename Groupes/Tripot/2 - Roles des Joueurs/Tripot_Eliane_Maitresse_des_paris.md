@@ -116,14 +116,6 @@ Varek te signale un parieur suspect : tu ajustes la cote ou tu alertes Marda. Fe
 - Tenir les écritures visibles alignées avec Fenric ; une cote trop agressive peut attirer l'UBI avant l'encaissement.
 - Supporter Sira et Lira sur les truquages à la marge quand Marda valide le risque.
 
-## Ce que tu ne fais pas
-
-- Tu ne tiens pas la sécurité des salles ni les filatures — Ardan et Varek.
-- Tu ne signes pas les dettes VIP en salon — Ysabeau ; tu exploites le flux qu'elle t'amène.
-- Tu ne truques pas une régate entière sans accord explicite de Marda sur le risque pour la réputation.
-
-
-
 ## Informations sensibles
 
 - Les truquages de régate passés laissent des preuves dans tes registres et chez des clients — utile pour toi, dangereux si saisie.

@@ -68,7 +68,7 @@ La Convention d’Ulghart est le prochain rendez-vous commun. Les banquiers, les
 
 Le Conseil a d’abord vérifié les besoins du voyage : quelqu’un pour parler en séance, pour les chiffres et les coffres, pour le commerce et la mer, pour la défense et l’armement, et un chef capable de trancher quand les instructions se croisent.
 
-Huit personnes partent pour Ulghart. Cinq portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Saevar. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Bran Lyrd (druide du cairn Lyrd, frère de l’Oblat resté à Palyr, artefact trouvé sur le site).
+Neuf personnes partent pour Ulghart. Six portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Kaelen Voss, Saevar. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Brina Lyrd (druidesse du cairn Lyrd, sœur de l’Oblat resté à Palyr, artefact trouvé sur le site).
 
 On vous a reçus un par un, puis en petit groupe : cas limites, mises en situation (audience, quai hostile, salon), formulations courtes pour les halls publics, mots de passe et lieux de rendez-vous pour les messages urgents.
 
@@ -88,18 +88,20 @@ Lysa Morwyn tient l’ordre de mandat de l’Oblat sur le coffre délégué de P
 
 Corvyn Valdrak porte l’ordre des Oblats sur toute la délégation à la Convention (plafond d’engagement cent mille couronnes, pas de levée d’armée). Il fixe les priorités, délègue à chacun et tranche les conflits. Maren Holt exécute sous sa direction les dossiers militaires et d’armement — dont l’Arguetheim : réception du métal, vérification, remise au haut commandement ; les paiements passent avec Lysa. Maren ne peut pas outrepasser Corvyn. Maren mène aussi les lectures à la Bibliothèque, retrouve la Hanse des Lames (contacts dispersés, un par un) et porte en public le dossier fer Sfaal aux côtés de Thoran.
 
-Thoran Keld renégocie routes et fret (Guilde des Ports Unis, paraphes, entrepôts), commande la frégate pour la régate, et confronte Sfaal sur le dernier chargement. Le Conseil lui a remis une lettre pour relancer les achats discrets d’armes et de matériel vers la Styrgie : Thoran est le seul interlocuteur désigné ; un envoyé secret le contactera à Ulghart au mot **« cale close avant l’aube »**. Ce fil n’est pas dans le mandat public du Légat. Il croise le Tripot sur les paris autour de la régate, sans y être accro.
+Thoran Keld renégocie routes et fret (Guilde des Ports Unis, paraphes, entrepôts) et confronte Sfaal sur le dernier chargement. Le Conseil lui a remis une lettre pour relancer les achats discrets d’armes et de matériel vers la Styrgie : Thoran est le seul interlocuteur désigné ; un envoyé secret le contactera à Ulghart au mot « cale close avant l’aube ». Ce fil n’est pas dans le mandat public du Légat.
+
+Kaelen Voss commande la frégate de Palyr et mène la régate. Corvyn lui a remis les moyens pour soudoyer les juges si nécessaire ; si cela fuite, Palyr porte le scandale. Thoran fournit les contrats de quai et le fret ; Kaelen tient l’équipage et la course.
 
 Saevar Dren tient la sûreté de la délégation, les contacts discrets (Ther-Félis, milieux gris, mercenaires de passage) et celle d’un éventuel rendez-vous Tavish. Il joue au Tripot et doit de l’argent à Lira ; Corvyn sait qu’il est endetté, pas le montant. Si la dette éclate, la mafia ou la banque peuvent s’en servir contre la délégation.
 
 Syndri Ashfeld vous appuiera grâce à ces compétences d'Herboriste. Prennez soin lde lui et il prendra soin de vous.
 
-Bran Lyrd "protégé" par votre Oblat a ses propres raisons d'aller sur Ulghart. Discutez avec lui mais ne le brusquez point. Les Druides sont rares, mystérieux, intouchables. C'est un honneur pour vous qu'il vous accompagne. Il ne fait pas partie de la délégation, mais il vous parait nécessaire, voir obligatoire, d'assurer sa sécurité, quand bien même il vous dit qu'il n'a vraiment aucun besoin d'aide. Il n'empêche, s'il lui arrivait malheur, ça ne serait pas simple pour vous...
+Brina Lyrd, protégée par votre Oblat, a ses propres raisons d'aller sur Ulghart. Discutez avec elle mais ne la brusquez point. Les druides sont rares, mystérieux, intouchables. C'est un honneur pour vous qu'elle vous accompagne. Elle ne fait pas partie de la délégation, mais il vous paraît nécessaire, voire obligatoire, d'assurer sa sécurité, quand bien même elle vous dit qu'elle n'a vraiment aucun besoin d'aide. Si un malheur lui arrivait, ce ne serait pas simple pour vous.
 
 
 ## Résumé des objectifs
 
-- Régate : participer et défendre le prestige de Palyr ; le Conseil a prévu des moyens de pression sur les juges — si cela fuite, Palyr porte le scandale.
+- Régate : Kaelen Voss commande la frégate ; le Conseil a prévu des moyens de pression sur les juges — si cela fuite, Palyr porte le scandale.
 - Minerais : clarifier le dernier chargement Sfaal (sceaux conformes, fer défectueux en creuset) sans rompre le contrat sans preuve ni remplaçant.
 - Arguetheim : conclure l’achat avec Gorvan (Dolmen Rouge) avant la fin du samedi
 - Banque : retirer les documents Palyr des coffres, négocier la sortie d’Edorian, utiliser les preuves par étapes.
@@ -107,20 +109,77 @@ Bran Lyrd "protégé" par votre Oblat a ses propres raisons d'aller sur Ulghart.
 - Arthas : consolider l’alliance et les accords discrets préparés avant le voyage.
 - Styrgie (commerce gris) : Thoran tient la lettre de relance et le rendez-vous avec l’envoyé secret, hors registres confédéraux et hors mandat public du Légat.
 - Tripot : gérer la ligne politique contre le casino et la dette de Saevar.
-- Bran : aide, protection, retour avec la délégation.
+- Brina : aide, protection, retour avec la délégation.
 - Fils du Levant : décider si Palyr répond au courrier de Tavish (« le fer et le serment ») et jusqu’où engager la cité hors mandat du Légat.
 
 ---
 
-## Composition du groupe — huit mandats pour Ulghart
+## Composition du groupe — neuf mandats pour Ulghart
 
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
-| Corvyn Valdrak | Représentant mandaté du Légat, chef de délégation | Voix du Légat à Ulghart ; arbitrage ; banque, Edorian, corruption par étapes. | *Joueur* |
-| Ilara Vandesse | Diplomate | Directrice adjointe à l’UBI ; axe Arthas ; coordination avec Lysa et Corvyn sur le dossier banque. | *Joueur* |
-| Lysa Morwyn | Trésorière | Mandat coffre Oblat ; contact Gorvan (Dolmen Rouge) ; achat Arguetheim (vente samedi fin de journée max) ; Melian ; archives. | *Joueur* |
-| Thoran Keld | Marchand, capitaine de frégate | Routes et fret ; Sfaal ; régate ; lettre Styrgie et rendez-vous discret (armes, matériel). | *Joueur* |
-| Saevar Dren | Chef de la sécurité | Sûreté ; Ther-Félis ; Tripot et Lira ; contact Tavish. | *Joueur* |
-| Maren Holt | Commandant militaire | Armement et Arguetheim sous Corvyn ; Hanse des Lames ; fer Sfaal ; Bibliothèque. | *Joueur* |
-| Syndri Ashfeld | Herboriste | Objet magique lié à Edorian et au coffre de Palyr. | *Joueur* |
-| Bran Lyrd | Druide (cairn Lyrd) | Artefact hommes-branchies ; Bibliothèque ; druide confrère ; frère de l’Oblat de Palyr. | *Joueur* |
+| Corvyn Valdrak | Représentant mandaté du Légat, chef de délégation | Voix du Légat à Ulghart ; arbitrage ; banque, Edorian, corruption par étapes. | Clément |
+| Ilara Vandesse | Diplomate | Directrice adjointe à l’UBI ; axe Arthas ; coordination avec Lysa et Corvyn sur le dossier banque. | Margaux |
+| Lysa Morwyn | Trésorière | Mandat coffre Oblat ; contact Gorvan (Dolmen Rouge) ; achat Arguetheim (vente samedi fin de journée max) ; Melian ; archives. | Sirine |
+| Thoran Keld | Marchand | Routes et fret ; Sfaal ; filière de remplacement ; lettre Styrgie et rendez-vous discret (armes, matériel). | Xavier |
+| Kaelen Voss | Capitaine de frégate | Régate ; équipage ; frégate de Palyr ; bourse des juges (Corvyn). | Christophe |
+| Saevar Dren | Chef de la sécurité | Sûreté ; Ther-Félis ; Tripot et Lira ; contact Tavish. | Robin |
+| Maren Holt | Commandant militaire | Armement et Arguetheim sous Corvyn ; Hanse des Lames ; fer Sfaal ; Bibliothèque. | Romain |
+| Syndri Ashfeld | Herboriste | Objet magique lié à Edorian et au coffre de Palyr. | Tom |
+| Brina Lyrd | Druidesse (cairn Lyrd) | Artefact hommes-branchies ; Bibliothèque ; druide confrère ; sœur de l’Oblat de Palyr. | Veronique |
+
+---
+
+# Annexe organisationnelle — informations complémentaires importantes
+
+## Logistique liée au site
+
+### Poubelles
+
+Prévoyez des sacs poubelles en quantité suffisante pour évacuer la totalité de vos déchets. Le site ne dispose pas de poubelles. Aucun sac plein ne peut être laissé sur place.
+
+Vous devrez donc repartir avec tous vos déchets.
+
+### Accès au site
+
+L’arrivée sur place pour l’installation se fait entre 16h00 et 18h00.
+
+Afin d’éviter les visites inopportunes, le site sera fermé durant le jeu. La grille sera tenue par un cadenas dont le code est `5172`.
+
+Si vous devez quitter le site avant la fin du jeu, ou retourner à votre véhicule, refermez la grille derrière vous avec ce cadenas.
+
+## Repas et eau
+
+L’auberge fournit les deux petits déjeuners : samedi matin et dimanche matin. Elle fournit aussi de la bière, du jus de pomme et quelques boissons.
+
+L’eau du site n’est pas potable. Apportez vos propres bouteilles d’eau.
+
+Vous pouvez faire du feu dans un brasero non électrique fourni par vous, devant votre logis, pour vos saucisses, steaks, grillades ou poissons. Le feu au sol est interdit.
+
+## Biquettes
+
+Des biquettes, donc des chèvres, sont présentes sur une partie haute du fort. Leur zone de villégiature est en principe clôturée et ne sera pas en jeu. Elle est donc inaccessible.
+
+Ne déplacez pas les barrières et clôtures qui obstruent certains couloirs et passages à l’intérieur du fort. Si les chèvres sortent, elles peuvent se promener partout, salir les lieux et manger ce qu’elles trouvent.
+
+Pour les joueurs ayant un passé de légionnaire : a priori, c’est non. De toute façon, nous ne voulons rien savoir.
+
+La nuit, ces charmantes biquettes se transforment en chèvres-garous à dents de sabre. Elles massacrent systématiquement ceux qui auront tenté de les importuner.
+
+## Douves
+
+Le site possède des douves. Leur accès peut être dangereux.
+
+Soyez prudents la nuit, surtout pendant une course folle les yeux fermés en hurlant de terreur pour échapper aux monstres, carnassiers, chèvres-garous à dents de sabre, voleurs, assassins, tueurs psychopathes, ou pour rallier d’urgence le happy hour de l’auberge.
+
+Autre effet Kiss Cool : il y a des douves dans les douves, avec une deuxième marche. Elle est très peu visible avant d’être tombé au fond.
+
+## Chiottes de guerre
+
+Un chiotte de guerre en métal est présent dans la partie boisée du site. C’est une relique à laquelle les propriétaires tiennent beaucoup. Elle n’est plus fonctionnelle.
+
+Ne l’utilisez pas, ne l’abîmez pas, ne le déplacez pas, ne le taguez pas et ne le fondez pas.
+
+Des pissotières de guerre en dur sont aussi présentes dans le fort. Ne les utilisez pas non plus.
+
+Il y a de vrais WC qui fonctionnent.

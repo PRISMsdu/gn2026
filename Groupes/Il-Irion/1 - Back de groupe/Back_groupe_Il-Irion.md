@@ -24,7 +24,7 @@
 
 - **Chef / Leader** : **Calis Aedris** (Maison Aedris) — coalition, chantiers navals et stratégie maritime  
 - **Second** : **Seraphine Kaelthorne** (Maison Kaelthorne) — finances, interface banque / taux  
-- **Conseillers** : **Cyrion Valdris** (Valdris) — diplomatie, Oblat, candidature conseil UBI ; **Lucan Marivent** (Marivent) — plaintes, procédures, rhétorique des dépôts ; **Isara Dornelis** (Dornelis) — renseignement, réseaux  
+- **Conseillers** : **Cyrion Valdris** (Valdris) — diplomatie, Oblat, candidature conseil UBI ; **Lucan Marivent** (Marivent) — plaintes, procédures, rhétorique des dépôts ; **Isar Dornelis** (Dornelis) — renseignement, réseaux  
 - **Membres** : **Marek Thorne** (Thorne) — influence hors île ; **Garrick Halvaren** (Halvaren) — sécurité, intimidation  
 
 **Canon** : ces sept maisons forment le noyau des « familles riches » évoquées côté UBI (*alignement : même coalition*).

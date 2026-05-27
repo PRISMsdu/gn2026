@@ -109,7 +109,7 @@ Les grandes familles sont organisées en **sept maisons**, chacune avec un repr�
 | **Valdris** | **Cyrion Valdris** | Diplomatie, réseau confédéral | **Diplomate** : entretient les relations avec **toutes** les parties (cités, Confédération) ; **candidat à un poste au conseil de l’UBI** ; figure institutionnelle et représentant de **l'Oblat** |
 | **Kaelthorne** | **Seraphine Kaelthorne** | Finances, taux, dettes inter-îles | Interface **Edorian**, registres, traites, pression sur les îles débitrices |
 | **Marivent** | **Lucan Marivent** | Procédures, rhétorique légale | **Plaintes** (notamment **Ther-Félis**), défense de la « sacralité des dépôts », écrits confédéraux — complète Cyrion sur le terrain juridique, sans le rôle de figure diplomatique unique (réservé à Valdris) |
-| **Dornelis** | **Isara Dornelis** | Renseignement, réseaux | Rumeurs, audits, futurs conseillers, filature **Melian** |
+| **Dornelis** | **Isar Dornelis** | Renseignement, réseaux | Rumeurs, audits, futurs conseillers, filature **Melian** |
 | **Thorne** | **Marek Thorne** | Influence hors île, commerce officiel | Factions dans les autres cités, contacts marchands (y compris avec la **Guilde des Ports Unis** sans connaître la couverture mafieuse) |
 | **Halvaren** | **Garrick Halvaren** | Sécurité, violence | Protection, intimidation ; **ennemi déclaré des Sangs** si affrontement ouvert — ne sait pas que la Guilde est leur façade |
 | **Aedris** | **Calis Aedris** | Chantiers navals, transports, stratégie maritime | **Chef de la coalition** ; organise opérations maritimes, flottes, contrats de navires, transports — **skipper** / **capitaine-stratège** au service du masque de prospérité |

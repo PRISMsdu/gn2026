@@ -75,6 +75,6 @@ Les lignes suivantes suffisent à vérifier que je ne mens pas sur l'existence d
 | Réf. masquée | Date (an) | Fait vérifiable |
 |--------------|-----------|-----------------|
 | RD-◆◆-542-◆◆◆ | 542 | Reconnaissance sous sceau d'une grande maison d'Il-Irion, prêt parallèle Ther-Félis, taux quatre points au-dessus du tarif confédéral affiché cette année-là. |
-| RD-◆◆-543-◆◆◆ | 543 | Avenant Arthas, même structure ; bénédiction de ma main le 3e jour du mois des Vents. |
+| RD-◆◆-543-◆◆◆ | 543 | Avenant Arthas, même structure ; bénédiction de ma main le 3e jour du mois de Cutios. |
 | FC-◆◆-544-◆◆◆ | 544 | Écart de pesée : 1 200 onces déclarées, 1 470 pesées en chambre close ; témoin greffier, initiale « H ». |
 | CC-◆◆-545-◆◆◆ | 545 | Relève de taux notifiée à Ther-Félis par courrier scellé non déposé au registre ouvert des cités. |

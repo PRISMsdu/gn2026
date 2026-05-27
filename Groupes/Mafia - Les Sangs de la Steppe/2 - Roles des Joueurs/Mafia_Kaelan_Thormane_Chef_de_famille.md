@@ -60,43 +60,43 @@ Epopée en Krondaar
 
 ## Enfance — marches d'Elfrion
 
-Tu es le fils de Thormane le Faucon, qui commandait une compagnie de lances au service de factions rivales dans les marches d'Elfrion. Ton enfance sent le fer, la poussière des casernes et la politique des notables : prébendes, clientèles, règlements de comptes à voix basse et coups de main à voix haute.
+Tu es le fils de Thormane le Faucon, qui commandait une compagnie de lances dans les marches d'Elfrion, au service de factions rivales selon les contrats. Tu as grandi dans les casernes : campements, exercices, défilés de notables venus négocier des hommes contre une prébende.
 
-Ton père fut rayé des contrats pour avoir refusé des ordres qu'il jugeait ruineux pour ses hommes. Pour toi, les élites ne pardonnent pas la résistance.
+Vers tes douze ans, ton père a refusé un contrat qu'il jugeait ruineux pour ses lances. Les commanditaires l'ont rayé des listes de la marche. Plus aucune maison ne lui a confié de troupe.
 
-Ta sœur Sira est morte jeune dans une embuscade que tu imputes aux mêmes mondes fermés : marchands protégés, juges achetés, nobles qui signent des lettres et envoient des hommes.
+Ta sœur Sira est morte jeune dans une embuscade. Tu n'as jamais pu prouver qui l'avait commanditée, mais tu en tiens responsables les marchands protégés et les notables qui avaient signé contre ton père.
 
-## Jeunesse — guerre et bandes
+## Jeunesse — escarmouches et bandes
 
-Tu as appris la guerre dans les escarmouches de marche et la politique dans les parlements de boue entre bandes armées. Tu as rallié des compagnies qui se méfiaient les unes des autres.
+Tu as appris la guerre dans les escarmouches de la marche : convois pillés, embuscades, sièges courts. Tu as servi successivement dans plusieurs compagnies armées, en passant des accords avec des bandes qui se méfiaient les unes des autres.
 
-À vingt ans, tu as pris la tête de ta propre troupe après la mort de ton père dans un guet-apens. Tu as gardé une liste de noms pour plus tard.
+À vingt ans, ton père est tombé dans un guet-apens. Tu as pris la tête de sa troupe et tu as commencé une liste de noms — commanditaires, intermédiaires, témoins — que tu as conservée pour plus tard.
 
 ## Ascension — il y a quinze ans
 
-Il y a environ quinze ans, le réseau que l'on appellera les Sangs de la Steppe s'est structuré : maisons sûres, relais, argent hors des livres officiels. Tu t'y es engagé quand il fallait tenir à la fois la terreur et la table des négociations.
+Il y a environ quinze ans, le réseau qu'on appellera les Sangs de la Steppe s'est structuré : maisons sûres dans plusieurs cités, relais d'informateurs, argent tenu hors des registres officiels. Tu y es entré comme cadre de terrain, capable à la fois d'intimider et de négocier face à un marchand ou à un capitaine.
 
-Tu as mené extorsions et chantages contre caravanes et élites. Tu es devenu chef de famille. Vers l'extérieur, on ne parle que du mythe des Sangs et du bruit des cours ; à l'intérieur, tu sais que les ordres viennent du MiVI, service du Primat styrgien.
+En une dizaine d'années, tu as mené des extorsions et des chantages contre caravanes et grandes familles. Tu es devenu chef de la famille. Au-dehors, on raconte que les Sangs sont une menace tribale venue du nord ; à l'intérieur, tu sais que les ordres, l'argent et le réseau viennent du MiVI, service secret de la Styrgie.
 
-La Guilde des Ports Unis est votre couverture sur les quais : syndicat des métiers de la mer, publication des routes commerciales, défense des dockers. Tu es Maître des quais : voix crédible auprès des ouvriers et des capitaines.
+La Guilde des Ports Unis sert de couverture aux Sangs sur les quais. Officiellement, elle publie les routes commerciales, défend les dockers, encadre les chantiers navals. Tu y portes la charge de Maître des quais : voix crédible auprès des dockers et des capitaines, et accès aux commissions où se négocient les routes.
 
 ## Dossiers lourds — Valdris, banque, fer
 
-Il y a environ huit ans, l'affaire Lysara Valdris : des lettres sorties d'un coffre de la banque d'Il-Irion ont été lues en public. Lysara Valdris a perdu honorabilité et sièges. Son fils Cyrion Valdris porte aujourd'hui la voix d'Il-Irion à la Convention ; toute copie des pièces reste un risque pour lui et pour vous.
+Il y a environ huit ans, vous avez monté l'affaire Lysara Valdris. Des lettres sorties d'un coffre de la banque d'Il-Irion ont été lues en public : votes à l'Union bancaire, contrebande, surtaxes portuaires. Lysara Valdris a perdu honorabilité et sièges. Son fils Cyrion Valdris porte aujourd'hui la voix d'Il-Irion à la Convention ; toute copie de ces pièces reste un risque pour lui comme pour vous.
 
-Le réseau a vendu des secrets à la Styrgie, à Sfaal et à tout acheteur qui payait la chute d'un rival. La banque a servi de lieu de dépôt pour des parchemins extorqués ou volés, pas de traité public avec vous.
+Pendant la même période, le réseau a vendu des secrets à la Styrgie, à Sfaal et à plusieurs acheteurs qui payaient la chute d'un rival. La banque d'Il-Irion a servi de lieu de dépôt pour des parchemins extorqués ou volés. Il n'y a pas eu de traité public avec elle : seulement un accès contrôlé à des intermédiaires et à des coffres.
 
-Il y a quelques mois, sur ordre du MiVI, vous avez monté une substitution en mer sur la route Sfaal–Palyr : bon minerai échangé contre fer médiocre, documents conformes à l'arrivée. Les pirates d'Albar ont exécuté l'abordage. En parallèle, vous avez orienté une partie du bon fer vers Aquiléa avec vos propres fonds. Le MiVI vous tient responsables des manques dans les inventaires.
+Il y a quelques mois, sur ordre du MiVI, vous avez monté une substitution en mer sur la route Sfaal–Palyr : bon minerai remplacé par du fer médiocre, documents d'expédition conformes à l'arrivée. Les pirates d'Albar ont exécuté l'abordage et le transbordement. En parallèle, tu as orienté une partie du bon fer vers Aquiléa avec les fonds des cinq cadres. Le MiVI vous tient responsables des manques dans les inventaires et exige des comptes.
 
-L'or converti avec les pirates doit être remis en main propre : rendez-vous, signes, sacs comptés. Raven porte la relation opérationnelle avec Korran Vesper.
+L'or converti avec les pirates doit être remis en main propre : rendez-vous, signes, sacs comptés. Raven porte la négociation opérationnelle avec Korran Vesper ; toi tu valides ou tu coupes la remise.
 
 ## Ulghart — Tripot, UBI, retraite
 
-Le Tripot du fort d'Ulghart échappe encore à votre pression : pas de relais, pas d'espion. Marda Velyss, la patronne, a résisté à vos tentatives. Le MiVI veut une mainmise sur le casino : blanchiment, dettes, renseignements.
+Le Tripot du fort d'Ulghart est le dernier objectif du MiVI sur lequel vous n'avez rien : ni relais à l'intérieur, ni espion, ni dette acceptée. Marda Velyss, la patronne, a refusé toutes vos approches. Le MiVI veut une mainmise sur le casino pour le blanchiment, les dettes des élites et les renseignements qui passent aux tables.
 
-À Ulghart, la Régate et le renouvellement du conseil de l'UBI se croisent. Officiellement vous êtes la Guilde ; pour la troisième fois, vous assistez sans intervenir aux échanges sur les postes au conseil, selon un usage fixé.
+À Ulghart se croisent la Régate et le renouvellement du conseil de l'UBI. Officiellement, vous êtes la Guilde des Ports Unis. Pour la troisième fois, vous assistez aux échanges sur les postes au conseil sans y intervenir directement, selon l'usage fixé.
 
-Depuis un an, vous et les cinq autres cadres avez détourné plus de dix mille couronnes : préparation d'une retraite. Une fuite simple ne résisterait pas au MiVI. Vous visez une sortie arrangée : or des pirates, documents compromettants, rapport sur la naissance de la Guilde et des Sangs pour obtenir quittances écrites avant de partir.
+Depuis un an, les cinq autres cadres et toi avez détourné plus de dix mille couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie arrangée. Tes leviers : l'or des pirates à récupérer, les documents compromettants accumulés depuis quinze ans, et un rapport interne sur la naissance de la Guilde et des Sangs — celui-ci doit servir à obtenir des quittances écrites du MiVI avant le départ.
 
 ---
 
@@ -114,15 +114,10 @@ Tu décides et tu signes pour le réseau. Tu portes la discussion avec le MiVI q
 - Clore l'affaire du fer : remise d'or avec Korran Vesper ; éviter un incident qui révèle le double jeu aux styriens et aux pirates.
 - Préparer la retraite négociée : pièces en main, quittances du MiVI, dossiers qui ne partent pas en dénonciation publique.
 
-## Ce que tu ne fais pas
-
-- Tu ne remplaces pas Vorak sur le détail opérationnel ni Shadow dans les coffres sans leur accord.
-- Tu ne cites pas Styrgie ni MiVI devant les salons confédéraux : la couverture reste la Guilde et les Sangs de la Steppe.
-
 ## Informations sensibles
 
-- Toute fuite sur la chaîne Elfrion–MiVI–Sangs te rend personnellement vulnérable.
-- Les leviers sur Edorian et le scandale de Staal se jouent une fois ; mal brandis, ils se retournent.
+- Toute fuite publique sur la chaîne Elfrion–MiVI–Sangs te désigne personnellement comme responsable et te coûte la couverture de la Guilde.
+- Le bordereau FC-III-544-001 contre Edorian et les pièces sur le scandale de Staal sont des leviers à usage unique. Sortis sans préparation, ils peuvent être retournés contre toi en commission ou devant le MiVI.
 
 ---
 
@@ -134,7 +129,7 @@ Korran mène l'équipage qui doit remettre l'or de l'affaire du fer. Tu détiens
 
 ## Marda Velyss — Tripot (fort d'Ulghart)
 
-Marda tient le casino. Tu détiens RD-III-543-002 : reconnaissance de dette de 543, quatre-vingts pièces d'or pour salle privée et jetons prélevés sur caisse non déclarée, formule « familles de l'Est ». Tu peux la rappeler en privé, proposer un accord de commission ou de regard sur les flux, ou menacer une copie vers la milice — selon ce que tu veux obtenir ce week-end.
+Marda tient le casino. Tu détiens RD-III-543-002 : reconnaissance de dette de 543, quatre-vingts pièces d'or pour salle privée et jetons prélevés sur caisse non déclarée, signée sous la formule « familles de l'Est ». Tu peux la rappeler en privé : proposer un accord de commission sur les flux du casino, exiger un droit de regard sur les dettes des élites, ou menacer de faire circuler une copie de la reconnaissance vers la milice. Choisis selon ce que tu veux obtenir ce week-end ; ne brandis le papier qu'une fois.
 
 ## Maître Halwen Rask — Staal (imprimerie)
 
@@ -146,7 +141,7 @@ Edorian dirige la banque. Tu as une copie du bordereau FC-III-544-001 : honorair
 
 ## Sybrel Dornik — UBI (garde des tunnels)
 
-Sybrel arpente les sous-sols. Le message MC-III-547-003 est codé ; Shadow et Drask ont des angles différents sur la même piste. Avant de la presser, accorde-toi avec eux pour ne pas la brûler deux fois le même jour.
+Sybrel garde les sous-sols de l'UBI. Le message MC-III-547-003 est codé ; Shadow et Drask l'examinent sous des angles différents. Avant de la convoquer ou de la confronter, accorde-toi avec eux pour ne pas la solliciter deux fois le même jour : un témoin pressé en double parle moins, ou fuit.
 
 ## Maître Vaelric Dorn — UBI (discréteur)
 
@@ -154,7 +149,7 @@ Vaelric gère fuites et enterrements de scandale. La pièce PA-II-545-003 concer
 
 ## Dame Ydria Ventoss — UBI (trésorière)
 
-Ydria lit les écarts. Le bordereau BC-III-544-003 documente pression et narration financière. Utile en commission ou pour ouvrir une ligne de crédit que tu fermes ailleurs.
+Ydria lit les écarts comptables et préside les audits. Le bordereau BC-III-544-003 documente une ligne de caisse contestée et les pressions exercées pour en justifier l'usage. Tu peux le citer en commission de l'UBI pour obtenir un vote favorable, ou l'utiliser en privé pour qu'Ydria ouvre une ligne de crédit à un alliance que tu fais fermer ensuite par un autre canal.
 
 ## Melian Torv — UBI (conseiller spirituel)
 

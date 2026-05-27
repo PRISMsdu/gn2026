@@ -128,12 +128,6 @@ Quand Varek remonte un visage mafia ou un garde suspect, tu adaptes ta présence
 - Recouper avec Varek ce que tu vois en coulisse et ce qu'il filme au quai ; un visage vu deux fois la même nuit mérite un mot à Marda.
 - Garder tes préparations et ton passé Corven hors des conversations de salle — une arrestation ou un chantage sur ton ancien métier devient une crise pour toute la maison.
 
-## Ce que tu ne fais pas
-
-- Tu ne négocies pas avec la mafia — Marda porte la trêve et le prix.
-- Tu ne tiens pas les livres, les paris ni la sécurité générale des salles — Fenric, Éliane, Ardan.
-- Tu ne tues pas un chef des Sangs en public sans ordre explicite : une mort ouverte en salle peut déclencher la guerre que la maison évite.
-
 ## Informations sensibles
 
 - Corven Halst et la nuit des Sangs : si quelqu'un te lie au négociant mort d'Il-Irion, alerte Marda avant de répondre en salle.

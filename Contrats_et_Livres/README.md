@@ -46,7 +46,7 @@ Toutes les variables dans les templates sont indiquées entre crochets `[variabl
 - `[ANNÉE_EN_LETTRES]` : Année en toutes lettres du calendrier courant (an **547** et alentours), identique à celle portée dans `[DATE]` (ex. `cinq cent quarante-cinq` si la date se termine par `… de l'an cinq cent quarante-cinq`)
 - `[partie1]`, `[partie2]` : Noms des cités ou parties
 - `[nom1]`, `[nom2]` : Noms des représentants
-- `[DATE]` : Date complète (ex: `le 15 du mois de Ventôse de l'an cinq cent quarante-cinq`)
+- `[DATE]` : Date complète au calendrier de Krondaar (ex: `le 15 du mois d'Ogronios de l'an cinq cent quarante-cinq`) — voir `codex/Monde/Calendrier_Krondaar.md` pour la liste des douze mois
 - `[LIEU]` : Lieu de signature (ex: `la Citadelle d'Ulghart`)
 
 **Variables spécifiques :**
@@ -85,7 +85,7 @@ Certaines sections peuvent nécessiter des ajustements selon le contexte :
    - `[description de l'accord]` → `Sfaal s'engage à fournir à Il-Irion vingt tonnes de minerai de fer`
    - `[marchandise]` → `minerai de fer`
    - `[somme]` → `soixante pièces d'or`
-   - `[DATE]` → `le 10 du mois de Germinal de l'an cinq cent quarante-sept`
+   - `[DATE]` → `le 10 du mois de Cutios de l'an cinq cent quarante-sept`
    - `[LIEU]` → `la Citadelle d'Ulghart`
 
 3. **Compléter les sections :**
@@ -115,7 +115,7 @@ Palyr (représentée par le Légat Kaelen Forgefer) engage Il-Irion
 chantiers navals pendant 6 mois. Il-Irion fournira 10 gardes 
 équipés d'armes et d'armures. Le paiement sera de 500 pièces d'or, 
 versé en deux fois : la moitié au début, l'autre moitié à la fin. 
-Date : le 20 du mois de Germinal de l'an cinq cent quarante-six, à la Citadelle d'Ulghart.
+Date : le 20 du mois de Cutios de l'an cinq cent quarante-six, à la Citadelle d'Ulghart.
 ```
 
 #### Exemple 2 : Contrat commercial
@@ -124,7 +124,7 @@ Crée-moi un contrat commercial entre Sfaal et Palyr.
 Sfaal (Duc Thoren Forgefer) vend à Palyr (Seigneur Aldric Ventoss) 
 15 tonnes d'acier de qualité supérieure pour 75 pièces d'or. 
 Livraison dans 3 mois par voie terrestre avec escorte. 
-Date : le 15 du mois de Ventôse de l'an cinq cent quarante-cinq.
+Date : le 15 du mois d'Ogronios de l'an cinq cent quarante-cinq.
 ```
 
 #### Exemple 3 : Contrat d'alliance

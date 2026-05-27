@@ -131,12 +131,6 @@ Tu tiens les tables où l'or circule le plus vite. Tu repères tricheurs et pari
 - Ne pas laisser une émotion personnelle brûler une main en pleine Convention.
 - Éviter le ring public au Tripot : le pugilat reste un recours de coulisse, pas un spectacle pour la garnison.
 
-## Ce que tu ne fais pas
-
-- Tu ne triches pas en spectacle devant la salle — Marda tranche le risque.
-- Tu ne joues pas pour ton compte — tu lis ceux qui ne peuvent pas s'arrêter.
-- Tu ne parles pas de Shadow en salle — le Tripot ne connaît pas ce fil.
-
 ## Informations sensibles
 
 - Phrases codées (addicts clientèle) : si l'orga active le mécanisme, tu es le relais principal avec Lira — clarifier avant jeu. Ce ne sont pas vos addictions à vous.

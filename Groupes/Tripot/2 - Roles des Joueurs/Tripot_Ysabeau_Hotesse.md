@@ -128,12 +128,6 @@ Tu accueilles les VIP dans les salons du Tripot : boisson, conversation, présen
 - Soutenir la régate : charmes ou introductions utiles sur juges et parieurs selon ce que Marda ordonne pour la soirée.
 - Recouper avec Lydwen avant toute scène coffre ou salon commun impliquant Melian Torv.
 
-## Ce que tu ne fais pas
-
-- Tu ne tiens pas les tables ni les paris — Sira, Lira, Éliane.
-- Tu ne négocies pas seule avec Edorian ou les Sangs de la Steppe — Marda porte la ligne banque et mafia.
-- Tu ne cites pas ton maître aquiléen ni ton acte de liberté en salle : un témoin pourrait en faire une arme contre toi ou contre la maison.
-
 ## Informations sensibles
 
 - Charme trop visible ou trop répété sur la même cible attire les mauvais regards — coordonne avec Ardan et Varek avant de pousser deux fois le même notable.

@@ -34,4 +34,4 @@ Ces fils existent dans `Intrigues/Intrigue_Banquiers.md` ou `Groupes/Fiche_inter
 |--------|---------------------|----------|
 | Vaelric Dorn | Brann Crochemain (Corbeaux) | Coordination du récit public et du casse côté intrigue ; pas de mention « Brann » dans `UBI_Vaelric_Dorn_Discreteur.md` au moment du check. |
 | Melian Torv | Lucan Marivent (Il-Irion) | Peut solliciter Melian sur la moralité des coffres (intrigue) ; pas de mention dans `UBI_Melian_Torv_Conseiller_spirituel.md` sous Connaissances. |
-| Selvara Quenndral | Isara Dornelis (Il-Irion) | Combat documentaire suivi côté Il-Irion ; pas de mention Isara sous Connaissances Selvara au moment du check. |
+| Selvara Quenndral | Isar Dornelis (Il-Irion) | Combat documentaire suivi côté Il-Irion ; pas de mention Isar sous Connaissances Selvara au moment du check. |

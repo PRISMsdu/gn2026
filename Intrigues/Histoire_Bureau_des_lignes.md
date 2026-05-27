@@ -48,7 +48,7 @@ La Styrgie appuie sur la Confédération, par des voies officielles et par un r�
 
 | Cité | Nom | Fonction |
 |------|-----|----------|
-| Il-Irion | Isara Dornelis | Erudite |
+| Il-Irion | Isar Dornelis | Chef de la sécurité |
 | Ther-Félis | Sven Orlac | Liaison maritime |
 | Palyr | Maren Holt | Commandant militaire |
 | Arthas | Bastion Kharvek | Chef de la sécurité |

@@ -35,6 +35,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Maren Holt |
+| Joueur | Romain |
+| E-mail joueur | romain.chapelon@gmail.com |
 | Rôle dans le groupe | Commandant militaire de la délégation |
 | Classe / profession | Guerrier |
 | Compétences | Skipper ; Ambidextrie |
@@ -43,7 +45,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Mandat Arguetheim ; Hanse des Lames ; porte-parole public du dossier fer Sfaal. |
+| Remarques | Mandat Arguetheim ; Bureau des Lignes ; responsabilité des Cinq Feux ; porte-parole public du dossier fer Sfaal. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -54,7 +56,7 @@ Epopée en Krondaar
 | Traits de caractère | Calme en public. Voix qui porte sans crier. Habitué aux salles où l'on lit des chiffres avant de dégainer. |
 | Valeurs | Un armement qui tient au combat. Les troupes confédérales ne doivent pas partir avec du fer qui ment sur le papier. |
 | Peur | Que Palyr perde sa place d'armurier parce qu'on n'a pas prouvé où le dernier minerai a cassé. Que le haut commandement envoie des ordres que la délégation ne peut pas tenir en même temps que la banque. |
-| Rêve | Rentrer avec l'Arguetheim commandé, la Hanse remobilisée, et une réponse claire sur le fer de Sfaal. |
+| Rêve | Rentrer avec l'Arguetheim commandé, les Cinq Feux coordonnés, et une réponse claire sur le fer de Sfaal. |
 
 ---
 
@@ -67,11 +69,13 @@ Tu nais à Palyr dans une famille qui vit du côté militaire plus que du côté
 On t'apprend tôt à lire un bulletin de livraison et un ordre de marche. À quinze ans, tu entres comme cadet dans la compagnie qui escorte les convois de minerai entre le quai et les forges intérieures. Tu vois des chargements arriver à l'heure et d'autres qui traînent. Tu vois un maître de forge jeter une barre à l'eau après l'épreuve et dire seulement : « pas ce lot ».
 
 
-## Chapitre II : L'apprentissage (officier, Hanse des Lames)
+## Chapitre II : L'apprentissage (officier, Bureau des Lignes)
 
 Tu passes officier à vingt-deux ans. Tu sers sur des patrouilles de convoi, puis dans la coordination des livraisons d'armement pour les troupes confédérales stationnées sur l'île. Les contrats fixent des grades, des délais, des tonnages. Ton travail consiste à vérifier que ce qui part correspond à ce qui est payé.
 
-Tu intègres la Hanse des Lames, réseau d'anciens officiers et de capitaines palyriens qui se connaissent depuis les campagnes communes. Ce n'est pas une unité permanente : ce sont des noms, des registres partagés, des faveurs entre gens qui ont tenu la même ligne. Tu y apprends qui à Sfaal connaît encore les grades de minerai, qui à Ulghart garde des copies de réquisitions militaires, qui a disparu des listes sans que personne n'ose le dire à voix haute.
+Il y a trois ans, la chancellerie des Oblats te fait approcher par le Bureau des Lignes. Ce service travaille hors des registres ordinaires. Il surveille les lignes de correspondance, de fret et de crédit que la Styrgie ou ses relais peuvent utiliser contre la Confédération.
+
+Tu n'es pas espion de métier. Le Bureau t'utilise comme officier de liaison : tu sais lire un registre militaire, vérifier une chaîne de convoi, parler à un chef de détachement et repérer quand une livraison ne suit plus son acte. Tu apprends à transmettre une note close sans exposer le service devant ta délégation.
 
 Tu fais deux passages au fort d'Ulghart avant la Régate actuelle. Tu y vois comment la banque et la garnison se croisent. Tu y entends parler de taux et de coffres sans en comprendre encore toute la mécanique. Tu retiens surtout que les décisions utiles se prennent souvent après les banquets, pas dans les salles ouvertes.
 
@@ -83,11 +87,11 @@ Tu n'es pas chef de la délégation. Corvyn Valdrak porte la lettre de créance 
 
 Le dernier chargement de minerai de Sfaal bloque les forges au moment où tu reçois tes ordres. Les sceaux étaient conformes. Les creusets ont menti. Le haut commandement veut de l'Arguetheim ; les forges veulent une explication. Tu dois porter les deux dossiers sans laisser Palyr passer pour une cité qui accuse à vide.
 
-Le Conseil t'a donné une liste de noms de la Hanse à retrouver à Ulghart : anciens capitaines, greffiers de garnison, liens avec l'académie de Sfaal. Ce ne sont pas des subordonnés. Ce sont des contacts à remettre en mouvement un par un.
+En parallèle du mandat public, le haut commandement te confie la responsabilité des Cinq Feux pour la Convention. Les Cinq Feux sont cinq officiers de liaison, un par cité, placés dans les délégations officielles. Tu es l'officier de Palyr et tu portes la coordination pour Ulghart.
 
 ## Chapitre IV : Les défis actuels (avant la Convention)
 
-Tu prépares le voyage avec Corvyn et Thoran. Thoran tient les routes et la mer ; toi, tu tiens le langage militaire du fer et des réquisitions. Lysa tient les chiffres et les coffres. Vous savez que la passation du conseil de la banque tombe au même moment que la Régate.
+Tu prépares le voyage avec Corvyn, Thoran et Kaelen Voss. Thoran tient les contrats de fret et le minerai ; Kaelen tient la frégate et la régate ; toi, tu tiens le langage militaire du fer et des réquisitions. Lysa tient les chiffres et les coffres. La passation du conseil de la banque tombe au même moment que la Régate.
 
 Tu as relu les analyses du lot défectueux. Impuretés, cycles allongés, charbon gaspillé. Sfaal a montré ses registres en séance fermée. Palyr a montré fours et cassures. Sans preuve de rupture entre le quai scellé et les creusets, une accusation publique coupe le fer avant qu'une filière de remplacement soit prête.
 
@@ -105,39 +109,39 @@ Lysa te passe les lignes de paiement quand l'Arguetheim se concrétise. Tu ne lu
 
 Saevar tient la sûreté. Tu lui fais confiance pour les escortes et les salles fermées. Tu sais qu'il fréquente le Tripot. Tant que ça ne contamine pas les livraisons ni les entretiens militaires, tu ne pousses pas.
 
-Bran et Syndri ne sont pas sous ton commandement. Bran voyage pour le cairn et une pièce trouvée sur le site. Syndri poursuit un objet en lien avec les coffres. Le Conseil les a ajoutés ; tu leur laisses leurs lignes tant qu'ils ne bloquent pas la délégation.
+Brina et Syndri ne sont pas sous ton commandement. Brina voyage pour le cairn et une recherche personnelle. Syndri soigne la délégation et cherche à identifier une matière rare pour le Conseil.
 
-## Chapitre VI : Les Cinq Feux (secret — MJ)
 
-Avant le départ pour Ulghart, le haut commandement t'a remis deux pièces. La **note de situation** (*La guerre qui couve*, réf. BDL-547-SIT-01) décrit le contexte, le dispositif des Lignes et les priorités — à garder entre Feux. L'**ordre de commission** (**ORD-HCM-547-CIN-MAR-01**) te nomme directeur des **Cinq Feux** : tu restes commandant militaire visible pour Palyr, et tu peux **montrer** cet ordre aux chefs militaires des cinq cités pour obtenir escortes ou, en **crise** déclarée, **réquisitionner** détachements, garde du fort (avec Horgrim Dval) et garde UBI — quarante-huit heures, renouvelable une fois par la chancellerie. Corvyn et la délégation ne connaissent pas la note de situation ; l'ordre de commission peut circuler si tu en as besoin.
+## Chapitre VI : Bureau des Lignes et Cinq Feux (secret)
 
-Les Cinq Feux, ce sont cinq officiers de liaison — un par cité membre — placés dans les délégations officielles sous couverture civile ou militaire. Toi, tu portes la ligne Palyr. **Isara Dornelis** tient Il-Irion. **Sven Orlac** tient Ther-Félis. **Bastion Kharvek** tient Arthas. **Grisbe Jab-fer** tient Sfaal.
+Avant le départ pour Ulghart, le haut commandement t'a remis deux pièces. La note de situation *La guerre qui couve* (réf. BDL-547-SIT-01) décrit le Bureau des Lignes, les Cinq Feux et les priorités à garder entre officiers de liaison. L'ordre de commission ORD-HCM-547-CIN-MAR-01 te nomme responsable des Cinq Feux : tu restes commandant militaire visible pour Palyr, et tu peux montrer cet ordre aux chefs militaires des cinq cités pour obtenir escortes ou, en crise déclarée, réquisitionner détachements, garde du fort avec Horgrim Dval, et garde UBI pour quarante-huit heures, renouvelable une fois par la chancellerie.
+
+Corvyn et la délégation ne connaissent pas la note de situation. L'ordre de commission peut circuler si tu en as besoin pour obtenir coopération ou réquisition régulière. La première coordination des Cinq Feux doit se tenir au fort dès 19 h, à l'auberge.
+
+Les Cinq Feux, ce sont cinq officiers de liaison, un par cité membre, placés dans les délégations officielles sous couverture civile ou militaire. Tu représentes Palyr dans cette cellule. Isar Dornelis tient Il-Irion. Sven Orlac tient Ther-Félis. Bastion Kharvek tient Arthas. Grisbe Jab-fer tient Sfaal.
 
 La délégation de Palyr ne sait rien. Corvyn, Lysa, Thoran et les autres te voient sur l'Arguétheim, le fer et les registres militaires ; ils ne doivent pas deviner que tu convoques aussi les autres Feux.
 
-Sur le week-end de la Convention, c'est à toi d'**organiser** leurs actions communes : rendez-vous discrets, ordre du jour partagé, remontées vers le haut commandement sans mélanger les chaînes avec ton mandat public Arguétheim. Tu fixes qui parle à qui, quand, et ce qui remonte en une seule voix. Si un Feu manque ou hésite, tu tiens la coordination jusqu'à la fin du week-end.
+Sur le week-end de la Convention, c'est à toi d'organiser leurs actions communes : rendez-vous discrets, ordre du jour partagé, remontées vers le haut commandement sans mélanger les chaînes avec ton mandat public Arguétheim. Tu fixes qui parle à qui, quand, et ce qui remonte en une seule voix. Si un Feu manque ou hésite, tu tiens la coordination jusqu'à la fin du week-end.
 
 ---
 
 # Tes missions et objectifs
 
 - Mandat Arguetheim : demander officiellement l'Arguetheim à Ulghart, avec Lysa pour l'achat et les papiers ; réceptionner le métal pour le haut commandement avant la fin du samedi ; cadre militaire lisible autour de Gorvan du Dolmen Rouge.
-- Hanse des Lames : retrouver au moins deux contacts utiles parmi les anciens officiers dispersés à Ulghart ; obtenir registres, pistes sur entrepôts ou liens académie Sfaal.
+- Bureau des Lignes — Cinq Feux : convoquer les officiers de liaison dès 19 h à l'auberge du fort, fixer l'ordre du jour, recueillir leurs rapports et porter une synthèse commune vers le haut commandement.
 - Fer Sfaal : porter en public le dossier du dernier chargement aux côtés de Thoran ; chercher où la chaîne a rompu sans pousser Palyr à une rupture sans preuve.
 - Bibliothèque : lire les traités et réquisitions sur l'armement ; croiser ce que tu trouves avec les lettres scellées du haut commandement.
 
 # Connaissances
 
-## Hanse des Lames — contacts à retrouver à Ulghart
+## Bureau des Lignes — Cinq Feux
 
-La Hanse n'est pas une unité en place au fort. Ce sont des anciens à retrouver un par un :
+Le Bureau des Lignes est le service de renseignement stratégique de la chancellerie des Oblats. Il surveille les lignes de correspondance, de fret et de crédit qui peuvent servir aux ennemis de la Confédération. Il ne remplace ni les armées ni les Questeurs.
 
-- Orik Venn : retraite au fort, ex-capitaine ; peut ouvrir des registres de garnison.
-- Sera Dunath : détachée vers Sfaal ; lien académie et fer.
-- Pel Marr : disparu des listes officielles ; piste entrepôts et chargements.
-- Tass Korr : ancien garde du Légat ; protection rapprochée possible.
+À Ulghart, la cellule de coordination s'appelle les Cinq Feux. Elle réunit cinq officiers de liaison : Isar Dornelis pour Il-Irion, Sven Orlac pour Ther-Félis, Maren Holt pour Palyr, Bastion Kharvek pour Arthas, et Grisbe Jab-fer pour Sfaal.
 
-Tu vises au moins deux retrouvailles utiles avant la fin de la Convention.
+Tu en as la responsabilité pendant la Convention. Tu convoques les réunions, tu fixes l'ordre du jour, tu arbitres entre les rapports contradictoires et tu portes la synthèse commune vers le haut commandement et la chancellerie.
 
 ## Gorvan Tresselune — Compagnie du Dolmen Rouge
 

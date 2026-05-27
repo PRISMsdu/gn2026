@@ -87,6 +87,8 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
 
     [ X ] - La mafia a buté par erreur l'oblat d'Arthas. Mais c'était une grosse boulette c'est Gareth Ironfist (il a laissé son berêt écossais vert avec ponpon) Y a que Olive qui sait qu'il a perdu son berêt. Arthas a le berêt et ils vont chercher à qui il appartient. Olive doit chercher absolument à le récupérer car il assissine avec son berêt.   
 
+
+    [ ] ajouter Varek comme distributeur de composants magiques + Marda
  
 -->
 

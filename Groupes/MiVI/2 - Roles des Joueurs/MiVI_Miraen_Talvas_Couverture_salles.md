@@ -65,6 +65,12 @@ Epopée en Krondaar
 
 Le back du détachement Corvel raconte la forge, l'interception de l'escorte Questeur vraie et la prise d'identité il y a deux jours. Ce qui suit est ton terrain MiVI : le Tripot pendant l'instruction.
 
+## Avant la forge — capitaine et salles de jeu
+
+Tu as quarante-quatre ans. Tu es entrée jeune dans les milices navales styrgiennes : capitaine de cabotage, escortes le long du Levant, transports militaires sans pavillon. Le MiVI t'a recrutée vers vingt-cinq ans pour ta connaissance des équipages et des tables de jeu portuaires : sur tes ports d'escale, tu fréquentais déjà les casinos de garnison à titre privé.
+
+Pendant les dix-huit années qui ont suivi, tu as tenu pour le MiVI des couvertures dans plusieurs tripots du Levant — Elfrion, Sfaal, ports neutres — pour y noter dettes d'élites, flux de jetons et conversations échappées aux tables hautes. C'est sur ces missions que ton addiction au jeu s'est installée : pas mise au compte du service, jamais déclarée à un supérieur.
+
 ## Ulghart — couverture Questeur et Tripot
 
 Tu débarques au fort avec insignes visibles, aux côtés de Théven Corvel — qui incarne messire Ydrael Montfou —, de Lucan, de Ysel et de Varro. Depuis deux jours, couverture Questeur ; en faction, garde du corps ou adjoint du Questeur. Mission MiVI : Tripot (auditions, filatures, flux). Mandat affiché : six gardiens de la banque morts, surnormal, accès banque et fort. Blessures possibles de la bataille d'embuscade ; mercenaire survivant à retrouver.
@@ -122,13 +128,6 @@ Tu escortes Montfou. Tu entres au Tripot avec le mandat : auditions, filatures, 
 - Tenir la couverture Questeur en faction et le mandat visible ; ne jamais citer le MiVI en salle.
 - Comprendre qui soutient Marda avant de forcer le Tripot ; remonter noms et flux à Ysel et Lucan.
 - Gérer ta dette RD-III-546-007 sans faire sauter la couverture du détachement.
-
-## Ce que tu ne fais pas
-
-- Tu ne négocies pas à la place de Marda avec la mafia — Théven et les Sangs portent ça.
-- Tu ne remplaces pas Ysel aux coffres ni Lucan aux commissions.
-- Tu ne cites pas le MiVI ni le Primat en salle.
-- Tu ne prends pas un créneau Varek réservé à G.I. le même jour sans accord Varro / Théven.
 
 ## Informations sensibles
 

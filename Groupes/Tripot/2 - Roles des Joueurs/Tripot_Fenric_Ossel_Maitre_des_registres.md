@@ -157,15 +157,6 @@ Avant une soirée chargée, Marda et toi recoupez les trois registres. Quand Él
 - Repérer les croisements possibles avec le registre central de la banque si une scène t'y mène.
 - Éviter qu'un visiteur félilien ne recoupe ton nom avec le mandat de 528 pendant la Convention.
 
-## Ce que tu ne fais pas
-
-- Tu ne négocies pas seul la commission avec Edorian ou le nouveau conseil — Marda porte la relation banque.
-- Tu ne tiens pas les tables ni les paris en direct — Éliane et les sœurs Vestrann.
-- Tu ne combats pas : tu fermes un livre, tu appelles Ardan.
-- Tu ne questionnes pas Marda en public sur le registre secret ni sur ses visiteurs de nuit.
-
-
-
 ## Informations sensibles
 
 - Trois registres distincts : officiel (UBI), officieux (banque / Edorian / rétroactif), secret (visiteurs de l'ancien réseau de Marda). Ne pas les mélanger en scène ni en saisie.

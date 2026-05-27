@@ -1,10 +1,10 @@
-﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté
-Edorian;Jonathan;**email**;Directeur général;Directeur de banque;"Erudit ; Secourisme";5
-Vaelric Dorn;Paf;**email**;Discréteur;Guerrier;"Transe ; Pugilat (6)";5
-Ydria Ventoss;Cha;**email**;Trésorière;Trésoriere;"Erudit ; Chirurgie";4
-Selvara Quenndral;Marie;**email**;Archiviste;Archiviste;Erudit;4
-Horgrim Dval;Taloche;**email**;Chef de la garde;Guerrier;"Pugilat (5) ; Torture";6
-Melian Torv;Alexandre;**email**;Conseiller spirituel;Clerc (sapiece);Secourisme;4
-Kaelen Veynar;Primo;**email**;Exécuteur de contrats;Guerrier;"Torture ; Pugilat (7)";5
-Sybrel Dornik;Chloé;**email**;Ombre;Assassin;"Egorgement ; Ambidextrie";6
-Corvus;Louis;**email**;Gardien de coffres;Erudit;Erudit;4
+﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
+Edorian;Jonathan;**email**;Directeur général;Directeur de banque;"Erudit ; Secourisme";5;100 couronnes
+Vaelric Dorn;Paf;**email**;Discréteur;Guerrier;"Transe ; Pugilat (6)";5;100 couronnes
+Ydria Ventoss;Cha;**email**;Trésorière;Trésoriere;"Erudit ; Chirurgie";4;100 couronnes
+Selvara Quenndral;Marie;**email**;Archiviste;Archiviste;Erudit;4;100 couronnes
+Horgrim Dval;Taloche;**email**;Chef de la garde;Guerrier;"Pugilat (5) ; Torture";6;100 couronnes
+Melian Torv;Primo;**email**;Conseiller spirituel;Clerc (sapiece);Secourisme;4;100 couronnes
+Kaelen Veynar;Alexandre ;**email**;Exécuteur de contrats;Guerrier;"Torture ; Pugilat (7)";5;100 couronnes
+Sybrel Dornik;Chloé;**email**;Ombre;Assassin;"Egorgement ; Ambidextrie";6;100 couronnes
+Corvus;Louis;**email**;Gardien de coffres;Erudit;Erudit;4;100 couronnes

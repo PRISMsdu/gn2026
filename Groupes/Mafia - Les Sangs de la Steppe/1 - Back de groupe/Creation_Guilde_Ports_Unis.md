@@ -1,7 +1,7 @@
 # Création de la Guilde des Ports Unis
 
 ## Document Interne - Confidentiel
-**Date** : Le 15 du mois de Floréal de l'an cinq cent quarante-deux
+**Date** : Le 15 du mois de Giamonios de l'an cinq cent quarante-deux
 **Auteur** : Kaelan Thormane, Chef de famille des Sangs de la Steppe
 **Destinataires** : Conseil restreint des Sangs de la Steppe
 

@@ -1,7 +1,7 @@
-﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté
-Kaelan Thormane;;**email**;Chef de famille Grandes décisions;Guerrier;"Egorgement ; Pugilat ; Erudit";6
-Vorak Ironhand;;**email**;Second;Guerrier;"Transe ; Torture";5
-Gareth Ironfist;;**email**;Homme de main;Assassin;"Egorgement ; Torture";5
-Drask Bloodmoon;;**email**;Alchimiste interrogateur;Clerc (Jorok);"Chirurgie ; Secourisme";4
-Shadow Infiltrateur;;**email**;expert en extorsion;Guerrier;"Torture ; Erudit";5
-Raven;;**email**;Maître des réseaux et négociateur Informateurs);Assassin;"Transe ; Torture";5
+﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
+Kaelan Thormane;;**email**;Chef de famille Grandes décisions;Guerrier;"Egorgement ; Pugilat ; Erudit";6;100 couronnes
+Vorak Ironhand;;**email**;Second;Guerrier;"Transe ; Torture";5;100 couronnes
+Gareth Ironfist;;**email**;Homme de main;Assassin;"Egorgement ; Torture";5;100 couronnes
+Drask Bloodmoon;;**email**;Alchimiste interrogateur;Clerc (Jorok);"Chirurgie ; Secourisme";4;100 couronnes
+Shadow Infiltrateur;;**email**;expert en extorsion;Guerrier;"Torture ; Erudit";5;100 couronnes
+Raven;;**email**;Maître des réseaux et négociateur Informateurs);Assassin;"Transe ; Torture";5;100 couronnes

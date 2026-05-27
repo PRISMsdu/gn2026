@@ -41,7 +41,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Pharmacie du réseau ; cadre des interrogatoires avec Vorak ; lecture chimique sur certains dossiers UBI. |
+| Remarques | Pharmacie du réseau ; cadre des interrogatoires avec Vorak |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -52,47 +52,45 @@ Epopée en Krondaar
 | Traits de caractère | Méthodique, patient, froid quand la consigne l'exige. |
 | Valeurs | La chaîne de commande avant l'élégance ; un aveu utile vaut mieux qu'un cadavre inutile. |
 | Peur | Qu'une fiole mal dosée expose tout le réseau ; qu'on te réduise au rôle de bourreau sans la partie science. |
-| Rêve | Quitter Ulghart sans que ton nom figure sur une étiquette de fiole remise par erreur à un greffier. |
+| Rêve | Disparaître sans laisser de traces. |
 
 ---
 
 # Biographie
 
-## Enfance — apothicaires et doses
+## Enfance — apprenti apothicaire à Elfrion
 
-Tu as grandi dans un quartier où l'on soigne la fièvre avant de poser des questions au juge. Les apothicaires comptaient en gouttes, pas en discours. Tu as copié des formules avant d'avoir le droit de signer des ordonnances.
+Tu as grandi dans un quartier pauvre d'Elfrion. Vers douze ans, un apothicaire t'a pris comme aide : tu rangeais les fioles, tu mesurais les doses, tu recopiais les formules d'ordonnance. Tu n'avais pas le droit de signer, seulement de préparer.
 
-À quinze ans, une maison t'a demandé d'ajuster un témoignage chimique la veille d'une audience. Tu as refusé et quitté l'atelier. Tu as compris que deux métiers coexistent : celui qui guérit et celui qui fait parler.
+À quinze ans, un commanditaire t'a demandé de glisser une substance dans une décoction destinée à un témoin, la veille d'une audience. Tu as refusé et tu as quitté la boutique. Personne dans la maison ne savait que tu connaissais déjà la recette du mélange demandé.
 
-## Apprentissage — deux filières
+## Apprentissage — chirurgie et cellule
 
-Tu as servi d'abord un chirurgien de garnison, puis un homme qui recevait des prisonniers sans fenêtre. Tu as appris les sédations, les antidotes, les mélanges qui ouvrent la langue sans ouvrir trop de plaies.
+Tu as servi un chirurgien de garnison dans les marches d'Elfrion : sutures, amputations, fièvres de campagne. Puis un autre commanditaire t'a fait entrer dans une cave où l'on recevait des prisonniers sans fenêtre. Tu y as appris les sédations dosées, les antidotes courants, les substances qui font parler sans tuer.
 
-À vingt-cinq ans, tu tenais ta propre mallette : poisons lents, vérité courte, réveils contrôlés. Les marchands te payaient pour des antidotes ; les bandes te payaient pour des confessions.
+À vingt-cinq ans, tu vendais tes services à deux clientèles. Les marchands te payaient pour soigner discrètement leurs gens ; des bandes te payaient pour obtenir des aveux propres sur un homme attaché.
 
-## Recrutement — il y a douze ans
+## Recrutement par les Sangs — il y a douze ans
 
-Les Sangs t'ont pris pour ce que tu fais dans une cellule sans fenêtre : obtenir une version cohérente, pas des cris qui attirent la milice.
+Les Sangs t'ont engagé pour ce travail de cellule : obtenir une déclaration utilisable, sans cris qui attirent la milice. Kaelan Thormane t'a fixé une règle stricte : aucune substance sortie de ta pharmacie sans ordre verbal ou écrit du chef ou de Vorak Ironhand. Gareth Ironfist t'amène les hommes à interroger ; toi tu choisis la méthode selon la consigne.
 
-Kaelan Thormane t'a fixé des règles : pas d'expérience sans ordre écrit ou verbal du chef ou de Vorak Ironhand. Gareth Ironfist t'amène les corps ; tu choisis la méthode selon la consigne.
-
-Tu es devenu Maître des Marins dans la Guilde des Ports Unis : couverture crédible sur les quais, accès aux cabines et aux hommes qui reviennent blessés de mer.
+Tu es devenu Maître des Marins dans la Guilde des Ports Unis. Cette charge te donne une couverture crédible sur les quais et l'accès aux cabines des hommes qui reviennent blessés de mer.
 
 ## Travail actuel — pharmacie et interrogatoires
 
-Tu stocks antidotes, sédations et substances de vérité dans un coffre que seuls Kaelan, Vorak et toi connaissent. Chaque sortie est notée sur un registre interne sans ton nom sur l'étiquette des fioles remises.
+Tu stockes antidotes, sédations et substances de vérité dans un coffre. Seuls Kaelan, Vorak et toi en connaissent le contenu. Chaque sortie de fiole est inscrite sur un registre interne ; ton nom n'apparaît sur aucune étiquette qui circule hors du coffre.
 
-Avant chaque interrogatoire, tu t'accordes avec Vorak sur le tempo : qui entre, qui sort, combien de temps avant qu'un témoin ne soit relâché. Raven te renvoie parfois des informateurs trop poussés : tu les remets debout ou tu signales à Kaelan qu'ils ne servent plus.
+Avant chaque interrogatoire, tu t'accordes avec Vorak sur le déroulé : qui entre, qui sort, combien de minutes avant qu'un témoin soit relâché. Raven te renvoie parfois des informateurs interrogés trop durement par d'autres : tu les soignes pour qu'ils repartent debout, ou tu préviens Kaelan qu'ils ne sont plus utilisables.
 
-Certains dossiers de l'Union bancaire d'Il-Irion passent par une lecture chimique : traces sur un verre, odeur sur une lettre, mains qui tremblent après une nuit sans sommeil. Ce n'est pas le métier de Shadow ; c'est le tien.
+Certains dossiers de l'Union bancaire d'Il-Irion arrivent jusqu'à toi pour analyse. Tu examines les traces sur un verre, l'odeur sur une lettre, les mains qui tremblent d'un greffier après une nuit blanche. Shadow s'occupe des coffres et des papiers ; toi, tu lis ce que le corps et la matière révèlent.
 
-Sur les quais, en tant que Maître des Marins, tu reçois les hommes revenus de mer avec la fièvre ou la blessure : prétexte pour entrer dans une cabine, poser des questions pendant qu'on change le bandage. Les capitaines de la Guilde ne savent pas que la même main prépare la convalescence et la cellule d'interrogatoire.
+Comme Maître des Marins de la Guilde, tu reçois sur les quais les hommes rentrés de mer avec une fièvre ou une blessure. Tu entres dans leur cabine pour les soigner ; tu en profites pour poser des questions pendant que tu changes le bandage. Les capitaines de la Guilde ignorent que celui qui les soigne prépare aussi les cellules d'interrogatoire des Sangs.
 
 ## Ulghart — Convention et retraite du réseau
 
-Le réseau arrive à Ulghart pour la Régate et le renouvellement du conseil de l'UBI. Le MiVI attend des comptes ; vous préparez une sortie négociée plutôt qu'une fuite.
+Le réseau arrive à Ulghart pour la Régate et le renouvellement du conseil de l'UBI. Le MiVI attend des comptes sur le fer détourné et sur les objectifs en retard. Avec les cinq autres cadres, vous préparez une sortie négociée plutôt qu'une fuite.
 
-Tu ne négocies pas avec Elfrion. Tu fournis des faits : ce qu'un homme a dit sous substance, ce qu'une fiole a révélé sur un greffier nerveux. Si le MiVI demande pourquoi un interrogatoire a échoué, tu réponds en grammes et en minutes, pas en excuses.
+Tu n'es pas le négociateur face à Elfrion : c'est Kaelan, parfois Raven. Toi, tu fournis les pièces que tu sais produire : ce qu'un homme a déclaré sous substance, ce qu'une fiole a révélé sur un greffier nerveux. Si le MiVI demande pourquoi un interrogatoire a échoué, tu réponds en grammes administrés et en minutes écoulées.
 
 ---
 
@@ -109,15 +107,10 @@ Tu tiens la pharmacie du réseau et tu cadres les interrogatoires avec Vorak. Tu
 - Recouper, quand on te le demande, les signes physiques sur les dossiers UBI (stress, traces, incohérences de récit).
 - Soutenir la préparation de la retraite du réseau : ce que tu sais sur les hommes tenus au secret compte dans la négociation avec les styriens.
 
-## Ce que tu ne fais pas
-
-- Tu ne remplaces pas Gareth pour l'intimidation ou Raven pour les parlements au quai.
-- Tu ne mélanges pas une audience « officielle » du réseau et une fuite vers la milice ou l'UBI sans ordre.
-
 ## Informations sensibles
 
-- Une fiole mal étiquetée peut coûter plus qu'une embuscade : tu es la mémoire des doses ; ne prête pas ta mallette.
-- Le MiVI sanctionne les échecs au gramme près : ne présente jamais une marge d'erreur comme un détail.
+- Une fiole mal étiquetée qui circule hors du coffre peut faire identifier le réseau : tu es seul à connaître les doses, et tu ne prêtes jamais ta mallette à un autre cadre.
+- Le MiVI examine les échecs d'interrogatoire au gramme et à la minute près : si une mission rate, présente les chiffres exacts, jamais une approximation.
 
 ---
 
@@ -133,7 +126,7 @@ Vaelric enterre ou relance les fuites selon ses dossiers. La pièce PA-II-545-00
 
 ## Dame Ydria Ventoss — UBI (trésorière)
 
-Ydria lit les écarts financiers. La pièce BC-III-544-003 documente pression et narration autour d'une ligne de caisse. Si un délégué ou un greffier passe par ta salle après une convocation chez elle, tu peux relever signes de fatigue ou de poison léger déjà présent — utile seulement si Vorak ou Kaelan te l'ordonnent.
+Ydria lit les écarts financiers et préside les audits. Le bordereau BC-III-544-003 documente une ligne de caisse contestée et les pressions exercées autour de sa justification publique. Si un délégué ou un greffier passe par ta salle après une convocation chez elle, tu peux relever signes de fatigue extrême ou de poison léger déjà administré par un tiers. Ne fais cette observation que si Vorak ou Kaelan te l'ordonnent.
 
 ## Receveur anonyme — conciliation hors greffe
 

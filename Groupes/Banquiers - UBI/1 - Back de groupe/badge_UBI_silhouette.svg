@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="68.00mm" height="68.00mm"
+     viewBox="-34.00 -34.00 68.00 68.00">
+  <title>Silhouette badge UBI - gabarit DTF</title>
+  <desc>
+    Contour commun aux badges Conseiller / Chambrier / Garde.
+    Echelle 1:1, dimensions en millimetres.
+  </desc>
+
+  <!-- Fond blanc opaque -->
+  <rect x="-34.00" y="-34.00" width="68.00" height="68.00" fill="#fff"/>
+
+  <!-- Silhouette pleine -->
+  <path fill="#000" stroke="#000" stroke-width="0.2" fill-rule="evenodd"
+        d="M 30.0000 0 A 30.0 30.0 0 1 1 -30.0000 0 A 30.0 30.0 0 1 1 30.0000 0 Z"/>
+
+  <!-- Croix de centrage au centre du medaillon (blanc sur noir) -->
+  <g stroke="#fff" stroke-width="0.25" fill="none">
+    <line x1="-4" y1="0" x2="4" y2="0"/>
+    <line x1="0" y1="-4" x2="0" y2="4"/>
+    <circle cx="0" cy="0" r="1.2" />
+  </g>
+
+  <!-- Cartouche de coin : dimensions -->
+  <g font-family="sans-serif" font-size="2.2" fill="#000">
+    <text x="-33.00" y="32.80">Gabarit badge UBI - medaillon rond Ø60 mm (echelle 1:1)</text>
+  </g>
+</svg>

@@ -113,13 +113,6 @@ Tu peux prodiguer des soins simples (compétence Chirurgie) en coulisse si la ma
 - Jouer les cartes remises par l'organisation (voir section ci-dessous) : faire sortir l'information quand la bonne personne se trouve en face de toi.
 - Éclairer l'artefact UBI par fragments de vision — levier pour Marda, pas révélation complète sans feu vert.
 
-
-## Ce que tu ne fais pas
-
-- Tu ne tiens pas les paris, les registres ni la sécurité générale — Éliane, Fenric, Ardan, Varek.
-- Tu ne négocies pas avec la banque ou la mafia — Marda porte la ligne.
-- Tu ne présentes pas une vision comme preuve juridique ou comptable sans accord explicite.
-
 ## Informations sensibles
 
 - Brigade / passé de Soren : en début de partie, la connaissance détaillée de la traque est limitée à toi (tirages, visions, accord MJ) et à Soren — pas aux autres PJ sur leurs livrets.

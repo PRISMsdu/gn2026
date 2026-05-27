@@ -1,0 +1,301 @@
+/* ----------------------------------------------------------------
+   Style "registre comptable manuscrit" pour les comptes du Tripot.
+   Aspect : papier vergé, encre brune, écriture à la main, tableaux
+   sans bordures (lignes tres fines pour structurer).
+   ---------------------------------------------------------------- */
+
+@page {
+  size: A4 landscape;
+  margin: 10mm 12mm 12mm 12mm;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body.registre-document {
+  /* Feuille blanche : impression sur papier parchemin physique */
+  background: #ffffff;
+  color: #2a1404;
+  /* Cursive main de comptable, naturellement penchée */
+  font-family: "Caveat", "Kalam", cursive;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 7pt;
+  line-height: 0.95;
+  /* Effet "encre" : bavure très légère */
+  text-shadow:
+    0.08pt 0.08pt 0 rgba(40, 20, 10, 0.18);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* ----------------------------------------------------------------
+   Titres
+   ---------------------------------------------------------------- */
+
+h1 {
+  font-family: "Caveat", cursive;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 17pt;
+  margin: 0 0 2.5mm 0;
+  color: #1f0e02;
+  letter-spacing: 0.2pt;
+  border-bottom: 0.3pt solid rgba(80, 40, 10, 0.45);
+  padding-bottom: 1mm;
+  transform: rotate(-0.4deg);
+  transform-origin: left center;
+}
+
+h2 {
+  font-family: "Caveat", cursive;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 12pt;
+  margin: 2.5mm 0 1.2mm 0;
+  color: #2a1404;
+  transform: rotate(-0.25deg);
+  transform-origin: left center;
+}
+
+h3 {
+  font-family: "Caveat", cursive;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 9.5pt;
+  margin: 2mm 0 1mm 0;
+  color: #2a1404;
+}
+
+p {
+  margin: 1mm 0;
+}
+
+strong, b {
+  font-weight: 700;
+  color: #2a140a;
+}
+
+em {
+  font-style: italic;
+  color: #3a1c0a;
+}
+
+/* ----------------------------------------------------------------
+   Sauts de page : <hr> du markdown -> page break
+   ---------------------------------------------------------------- */
+
+hr {
+  border: none;
+  height: 0;
+  margin: 0;
+  visibility: hidden;
+  page-break-before: always;
+  break-before: page;
+}
+
+/* ----------------------------------------------------------------
+   Listes
+   ---------------------------------------------------------------- */
+
+ul, ol {
+  margin: 1.5mm 0 2.5mm 6mm;
+  padding: 0;
+}
+
+li {
+  margin: 0.5mm 0;
+}
+
+ul li::marker {
+  color: rgba(80, 40, 10, 0.55);
+}
+
+/* ----------------------------------------------------------------
+   Tableaux : aspect "à la main", colonnes alignées sans bordures
+   ---------------------------------------------------------------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5mm 0 2mm 0;
+  font-family: "Caveat", cursive;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 8pt;
+  line-height: 0.98;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  /* Largeurs de colonnes contrôlées (cf. règles nth-child plus bas) */
+  table-layout: fixed;
+}
+
+th, td {
+  border: none;
+  padding: 0.35mm 1mm;
+  text-align: left;
+  vertical-align: middle;
+  /* Tout sur une ligne, débordement coupé proprement */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Filets très ténus (effet stylo qui glisse sur ligne réglée) */
+  border-bottom: 0.15pt dotted rgba(80, 40, 10, 0.22);
+}
+
+thead th {
+  font-family: "Caveat", cursive;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 8.5pt;
+  color: #1f0e02;
+  border-bottom: 0.4pt solid rgba(80, 40, 10, 0.55);
+  background: transparent;
+  padding-bottom: 0.5mm;
+}
+
+/* ----------------------------------------------------------------
+   Largeurs par taille de tableau (sélecteurs `nth-child:nth-last-child`)
+   - description / opération = colonne large (≥50 %)
+   - colonnes numériques resserrées (~7 % chacune)
+   ---------------------------------------------------------------- */
+
+/* Tableau 2 colonnes (consolidation : Libellé / Valeur) */
+table tr > *:nth-child(1):nth-last-child(2) { width: 80%; }
+table tr > *:nth-child(2):nth-last-child(1) { width: 20%; }
+
+/* Tableau 3 colonnes (ventilation cumul Marda : Forme | Estimation | Localisation) */
+table tr > *:nth-child(1):nth-last-child(3) { width: 28%; }
+table tr > *:nth-child(2):nth-last-child(2) { width: 14%; text-align: right; }
+table tr > *:nth-child(3):nth-last-child(1) { width: 58%; }
+
+/* Tableau 5 colonnes (récap annuel VIP : Mois | Contrats | IN VIP | Marge | Sortie) */
+body.registre-vip table tr > *:nth-child(1):nth-last-child(5) { width: 32%; }
+body.registre-vip table tr > *:nth-child(2):nth-last-child(4) { width: 12%; text-align: right; }
+body.registre-vip table tr > *:nth-child(3):nth-last-child(3) { width: 18%; text-align: right; }
+body.registre-vip table tr > *:nth-child(4):nth-last-child(2) { width: 18%; text-align: right; }
+body.registre-vip table tr > *:nth-child(5):nth-last-child(1) { width: 20%; text-align: right; }
+
+/* Tableau 6 colonnes (UBI principal et clôture VIP : Date | J | Description | IN | OUT | Solde) */
+table tr > *:nth-child(1):nth-last-child(6) { width: 7%; }
+table tr > *:nth-child(2):nth-last-child(5) { width: 4%; }
+table tr > *:nth-child(3):nth-last-child(4) { width: 53%; }
+table tr > *:nth-child(4):nth-last-child(3) { width: 11%; text-align: right; }
+table tr > *:nth-child(5):nth-last-child(2) { width: 11%; text-align: right; }
+table tr > *:nth-child(6):nth-last-child(1) { width: 14%; text-align: right; }
+
+/* Tableau 6 colonnes (VIP principal : Date | J | Réf | Description | IN | Caisse) */
+body.registre-vip table tr > *:nth-child(1):nth-last-child(6) { width: 7%; }
+body.registre-vip table tr > *:nth-child(2):nth-last-child(5) { width: 4%; }
+body.registre-vip table tr > *:nth-child(3):nth-last-child(4) { width: 14%; text-align: left; }
+body.registre-vip table tr > *:nth-child(4):nth-last-child(3) { width: 47%; text-align: left; }
+body.registre-vip table tr > *:nth-child(5):nth-last-child(2) { width: 13%; text-align: right; }
+body.registre-vip table tr > *:nth-child(6):nth-last-child(1) { width: 15%; text-align: right; }
+
+/* Tableau 7 colonnes (VIP principal : Date | J | Réf | Description | IN | OUT | Solde) */
+table tr > *:nth-child(1):nth-last-child(7) { width: 6%; }
+table tr > *:nth-child(2):nth-last-child(6) { width: 3%; }
+table tr > *:nth-child(3):nth-last-child(5) { width: 14%; }
+table tr > *:nth-child(4):nth-last-child(4) { width: 50%; }
+table tr > *:nth-child(5):nth-last-child(3) { width: 9%; text-align: right; }
+table tr > *:nth-child(6):nth-last-child(2) { width: 9%; text-align: right; }
+table tr > *:nth-child(7):nth-last-child(1) { width: 9%; text-align: right; }
+
+/* Tableau 8 colonnes (Récap annuel Matelas : Mois | Brut | Porteur | MV | Matelas | Sorties | Net | Solde) */
+table tr > *:nth-child(1):nth-last-child(8) { width: 9%; }
+table tr > *:nth-child(2):nth-last-child(7) { width: 13%; text-align: right; }
+table tr > *:nth-child(3):nth-last-child(6) { width: 12%; text-align: right; }
+table tr > *:nth-child(4):nth-last-child(5) { width: 12%; text-align: right; }
+table tr > *:nth-child(5):nth-last-child(4) { width: 13%; text-align: right; }
+table tr > *:nth-child(6):nth-last-child(3) { width: 12%; text-align: right; }
+table tr > *:nth-child(7):nth-last-child(2) { width: 13%; text-align: right; }
+table tr > *:nth-child(8):nth-last-child(1) { width: 16%; text-align: right; }
+
+/* Tableau 9 colonnes (Matelas détaillé : Date | J | Porteur/Op | Brut | Porter | MV | Matelas | Sortie | Solde) */
+table tr > *:nth-child(1):nth-last-child(9) { width: 6%; }
+table tr > *:nth-child(2):nth-last-child(8) { width: 3%; }
+table tr > *:nth-child(3):nth-last-child(7) { width: 51%; }
+table tr > *:nth-child(4):nth-last-child(6) { width: 7%; text-align: right; }
+table tr > *:nth-child(5):nth-last-child(5) { width: 6%; text-align: right; }
+table tr > *:nth-child(6):nth-last-child(4) { width: 6%; text-align: right; }
+table tr > *:nth-child(7):nth-last-child(3) { width: 7%; text-align: right; }
+table tr > *:nth-child(8):nth-last-child(2) { width: 7%; text-align: right; }
+table tr > *:nth-child(9):nth-last-child(1) { width: 7%; text-align: right; }
+
+/* Tableau 11 colonnes (Vue globale Matelas : Année | Mois | Solde init | Brut | Porter | MV | Matelas | Sorties | Net | Solde fin | Cumul Marda) */
+table tr > *:nth-child(1):nth-last-child(11) { width: 7%; }
+table tr > *:nth-child(2):nth-last-child(10) { width: 6%; text-align: right; }
+table tr > *:nth-child(3):nth-last-child(9) { width: 9%; text-align: right; }
+table tr > *:nth-child(4):nth-last-child(8) { width: 9%; text-align: right; }
+table tr > *:nth-child(5):nth-last-child(7) { width: 9%; text-align: right; }
+table tr > *:nth-child(6):nth-last-child(6) { width: 9%; text-align: right; }
+table tr > *:nth-child(7):nth-last-child(5) { width: 9%; text-align: right; }
+table tr > *:nth-child(8):nth-last-child(4) { width: 9%; text-align: right; }
+table tr > *:nth-child(9):nth-last-child(3) { width: 9%; text-align: right; }
+table tr > *:nth-child(10):nth-last-child(2) { width: 10%; text-align: right; }
+table tr > *:nth-child(11):nth-last-child(1) { width: 14%; text-align: right; }
+
+tbody tr:last-child td {
+  border-bottom: 0.4pt solid rgba(80, 40, 10, 0.35);
+}
+
+/* Pandoc applique style="text-align: right" sur les colonnes "---:" */
+td[style*="text-align: right"],
+th[style*="text-align: right"] {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.1pt;
+}
+
+/* Désalignement subtil pour effet manuscrit (lignes paires/impaires) */
+tbody tr:nth-child(odd) td {
+  transform: translateY(0.05mm);
+}
+tbody tr:nth-child(even) td {
+  transform: translateY(-0.05mm);
+}
+
+/* Mise en relief discrète des lignes de consolidation/total */
+tbody tr td strong {
+  color: #1f0e02;
+}
+
+/* ----------------------------------------------------------------
+   Code inline (refs bordereaux FC-NNN) : reste manuscrit
+   ---------------------------------------------------------------- */
+
+code {
+  font-family: "Patrick Hand", "Kalam", cursive;
+  background: transparent;
+  padding: 0;
+  color: #2a140a;
+}
+
+/* ----------------------------------------------------------------
+   Blockquote (notes en marge)
+   ---------------------------------------------------------------- */
+
+blockquote {
+  margin: 3mm 0 3mm 6mm;
+  padding-left: 4mm;
+  border-left: 0.5pt solid rgba(80, 40, 10, 0.35);
+  color: #3a1c0a;
+  font-style: italic;
+}
+
+/* ----------------------------------------------------------------
+   Garde-fous d'impression
+   ---------------------------------------------------------------- */
+
+h2, h3 {
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+table, blockquote {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}

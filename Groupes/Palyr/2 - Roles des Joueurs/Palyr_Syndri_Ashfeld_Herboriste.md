@@ -35,15 +35,16 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Syndri Ashfeld |
+| Joueur | Tom |
 | Rôle dans le groupe | Herboriste mandaté par le Conseil de Palyr |
 | Classe / profession | Herboriste |
 | Compétences | Chirurgie |
 | Groupe | Palyr |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
-| Armes autorisées | toutes |
-| Armure autorisée | Cuir clouté maximum |
-| Remarques | Mandat : objet magique lié au coffre de Palyr à l'UBI ; ligne distincte de l'artefact du cairn (Bran). |
+| Armes autorisées | voir règles hérbo |
+| Armure autorisée | Cuir maximum |
+| Remarques | Soins de la délégation ; prévention des poisons ; enquête herboriste sur les réserves anciennes de l'UBI. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -51,89 +52,87 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Patient sur les plantes et les paperasses. Moins patient quand on lui ment sur ce qu'il y a dans un coffre. |
-| Valeurs | Nommer ce qui est réel : une herbe, une substance, un objet qui réagit. Le reste est du bruit. |
-| Peur | Que l'objet quitte Ulghart dans une malle sans registre pendant la passation du conseil. Que le Conseil confonde ta ligne avec celle de Bran et brûle deux pistes en une. |
-| Rêve | Identifier l'objet, savoir qui le tient, et rentrer à Palyr avec une réponse que les juristes peuvent utiliser sans fabrique de légende. |
+| Traits de caractère | Tu observes avant de répondre. Tu vérifies une odeur, une coupe ou une réaction avant de donner un nom. |
+| Valeurs | Un remède doit être dosé, testé et utile. Un poison doit être reconnu avant d'agir. |
+| Peur | Qu'un membre de la délégation soit empoisonné pendant la Convention. Que Marda Velyss comprenne trop vite que tu as reconnu sa formation. |
+| Rêve | Rentrer à Palyr avec la délégation vivante, des notes sur les réserves herboristes de l'UBI, et une réponse claire sur Marda. |
 
 ---
 
-# L'histoire de Syndri Ashfeld
+# Biographie
 
-## Chapitre I : Les origines (campagnes du nord de Palyr)
+## Enfance dans le nord de Palyr
 
-Tu nais dans les hauteurs cultivées du nord de l'île, où l'on sèche des plantes plus qu'on ne forge du fer. Ton père est herboriste pour les forges : il fournit des baumes, des poudres pour cautériser, des infusions pour les poumons abîmés par la fumée. Ta mère tient un petit commerce de teintures et de sels médicinaux.
+Tu nais dans les hauteurs cultivées du nord de Palyr. Ton père fournit les forges en baumes contre les brûlures, poudres coagulantes et infusions pour les poumons irrités par la fumée. Ta mère vend des teintures, des sels médicinaux et des plantes séchées aux familles des ouvriers.
 
-Tu apprends à reconnaître une feuille au toucher avant de la nommer. Tu apprends aussi que les maîtres de forge paient cher ce qui fonctionne et refusent de payer ce qui « devrait » fonctionner. Cette leçon te suit partout.
+À douze ans, tu tries déjà les feuilles par odeur, couleur et texture. Ton père te fait jeter les lots humides. Une plante mal séchée donne de la moisissure, puis de la fièvre.
 
-À seize ans, tu entres comme apprenti chez un herboriste du port qui approvisionne la garnison du Légat. Tu vois des blessures de quai, des fièvres de cale, des intoxications de creuset mal ventilé. Tu ne confonds jamais un symptôme avec une cause politique.
+## Apprentissage auprès de la garnison
 
-## Chapitre II : L'apprentissage (substances, greffes, premiers coffres)
+À seize ans, tu deviens apprenti chez un herboriste du port de Palyr. Il approvisionne la garnison du Légat et les équipages de convoi. Tu prépares des compresses, tu laves des plaies, tu tiens les blessés pendant les sutures.
 
-Tu travels plusieurs cités confédérées pour compléter tes récoltes et tes échanges de semences. À Il-Irion, tu découvre que la banque classe parfois des dépôts « matière » ou « ingrédient » d'une façon qui ne correspond pas à ce que tu tiens en main. Un greffier t'explique que la case du registre compte autant que la fiole.
+Les quais te donnent des cas concrets : morsures de cordage, fièvres de cale, brûlures de creuset, intoxications après un repas avarié. Tu notes les doses qui agissent vite et celles qui font vomir. Tu refuses les recettes que tu ne peux pas répéter.
 
-Tu reviens à Palyr et tu ouvres un atelier près des entrepôts. Les forges te commandent des lots réguliers. Le Conseil te consulte quand un chargement arrive avec une odeur anormale ou quand un ouvrier tombe sans blessure visible. Tu gagnes une réputation : tu dis non quand tu ne sais pas, oui quand tu peux prouver.
+## Atelier et carnet de récolte
 
-Il y a cinq ans, une délégation religieuse dépose à l'UBI des reliques emballées comme des herbes rares. Tu n'étais pas sur place. Tu entends parler plus tard d'un dépôt mal décrit et d'une bénédiction signée trop vite. Tu notes que les coffres peuvent avaler des choses que les registres ouverts ne montrent pas.
+Après plusieurs saisons de voyage, tu ouvres un atelier près des entrepôts de Palyr. Tu échanges des semences avec des herboristes de Ther-Félis, d'Il-Irion et d'Ulghart. Ton carnet indique le lieu de récolte, la saison, la partie utilisée et la dose pour un adulte.
 
-## Chapitre III : L'ascension (mandat du Conseil)
+Les forges te commandent des produits réguliers : baume de résine pour brûlures, infusion expectorante, poudre coagulante pour plaies de quai. Le Conseil te consulte quand un ouvrier tombe sans blessure visible ou quand un chargement de plantes sent le moisi. Tu réponds seulement après une épreuve.
 
-Le Conseil de Palyr te mandate officiellement comme herboriste de la délégation à Ulghart. La mission n'est pas de soigner les banquetiers. On te charge de retrouver un objet magique de grande puissance que le directeur général sortant de la banque détient ou a classé en lien avec le coffre délégué de Palyr.
+## Mandat pour la Convention
 
-On te le dit clairement : ce mandat est distinct du dossier de Bran Lyrd sur le cairn. Bran a trouvé une pièce gravée sur le site druidique de Palyr. Toi, tu cherches ce que la cité a confié à la banque et ce que des années de dépôts discrets ont pu mélanger avec d'autres natures de biens.
+Le Conseil de Palyr te désigne comme herboriste de la délégation à Ulghart. Ta première mission est de protéger le groupe : soins, blessures, fièvres, intoxications, risque de poison. Tu emportes des fioles, des sachets, des fils, des aiguilles, des lames propres et ton carnet.
 
-Tu n'es pas trésorière. Lysa Morwyn tient le mandat du coffre signé par l'Oblat. Tu travailles à ses côtés quand il faut décrire une substance ou contester une case de registre. Corvyn arbitre si la diplomatie banque prend le pas sur ton enquête.
+Le Conseil ajoute une mission d'enquête. Les coffres de la banque contiennent des documents herboristes anciens, des recettes incomplètes et des réserves de composants mal identifiés. Certains dépôts datent de plusieurs générations. Tu dois repérer ce qui peut servir à Palyr et ce qui présente un danger.
 
-Tu embarques avec la délégation sans commandement militaire. Maren Holt parle fer et Arguetheim. Thoran parle routes. Tu parles matière, sceaux et descriptions inscrites.
+Une information plus fragile circule aussi. Edorian aurait un objet lié à ces réserves ou à un composant ancien. Tu ne connais pas la source de cette fuite. Tu as entendu cette information par hasard avant le départ. Tu dois la traiter avec prudence et ne pas l'annoncer en public.
 
-## Chapitre IV : Les défis actuels (passation et coffres)
+## Travail à Ulghart
 
-La passation du conseil de la banque approche. Edorian remettra les clés. Les rumeurs disent que des coffres pourront bouger, que des copies pourront disparaître, que des objets hors catalogue pourront changer de main. Si ton objet est encore à Ulghart, la fenêtre est maintenant.
+À Ulghart, tu installes un espace de soin dans les quartiers de Palyr. Tu y gardes eau propre, alcool, bandes, aiguilles et plantes courantes. Tu traites plaies, fièvres, intoxications et épuisement.
 
-Tu sais que Melian Torv, conseiller spirituel de l'UBI, signe des actes sur des dépôts sensibles. Tu sais que l'archiviste Selvara tient les chambres closes. Tu sais que le chef de la garde Horgrim verrouille des zones quand on le lui demande. Tu ne sais pas encore lequel de ces trois te mentira en premier si tu poses la mauvaise question en public.
+Le fort donne aussi des plantes que Palyr ne cultive pas. Tu veux récolter mousses des remparts, herbes amères des fossés et écorces des bosquets proches. Tu sors accompagné si Saevar ou Corvyn l'exige. Tu prélèves peu et tu laisses les racines en place.
 
-Bran te demande parfois de regarder sa pièce du cairn. Tu refuses de mélanger les dossiers : autre origine, autre registre mental, autre risque pour Palyr si on confond les deux devant un questeur.
+Si tu obtiens un composant ancien de l'UBI, tu le testes par étapes : odeur à froid, odeur à chaud, dissolution dans l'eau, dissolution dans l'alcool, combustion d'une très petite quantité. Tu arrêtes l'épreuve dès qu'une réaction devient dangereuse.
 
-Lysa a mandaté Gorvan Tresselune, du Dolmen Rouge, à Ther-Félis pour l'Arguetheim. Ce n'est pas ton fil. Tu le croises seulement si Lysa ou Maren te traînent dans une salle où l'on parle métal rare à la place d'objet magique.
+Tu surveilles aussi les repas et les boissons de la délégation. Un poison peut passer par un verre, une pommade, une poudre sur les doigts ou un linge de soin. Tu demandes à Saevar de garder les inconnus loin de ton espace de travail.
 
-## Chapitre V : Le réseau et les relations
+## Marda Velyss et maître Therne
 
-Corvyn t'a reçu une fois avant le départ. Il veut l'objet identifié, pas une légende. Il ne veut pas que tu publies une théorie en séance. Tu acceptes : tu rapportes des faits, des descriptions, des codes de dépôt si tu les obtiens.
+Tu possèdes un des rares écrits de maître Therne Vallis. Le texte décrit des dosages, des préparations de terrain et plusieurs signes d'intoxication lente. Tu l'as étudié pendant des années parce que peu d'herboristes de Palyr ont accès à une source aussi précise.
 
-Lysa est ta porte d'entrée légitime vers le coffre. Son mandat de l'Oblat ouvre des greffes que ton titre d'herboriste n'ouvre pas seul. Tu lui dois des descriptions précises ; elle te doit du temps devant les registres clos.
+À Ulghart, tu reconnais chez Marda Velyss des gestes et des choix de préparation qui correspondent à l'enseignement de Therne. Marda dirige le Tripot. Personne ne parle d'elle comme d'une herboriste. Cette absence t'intrigue.
 
-Ilara pousse la banque par les votes. Chaque crise publique peut fermer une porte que tu voulais ouvrir doucement. Tu lui demandes de prévenir avant de sortir un nom lié aux coffres.
+Therne Vallis a été tué il y a plus de trente ans. Marda fut son élève. Si elle cache encore cette formation, tu veux savoir pourquoi avant de lui poser une question directe.
 
-Thoran et Saevar te croisent peu. Saevar surveille les sorties nocturnes de la délégation. Tu évites le Tripot : trop de bruit, pas assez de registres.
+## Place dans la délégation
 
-Bran est un allié de circonstance sur le voyage, pas un coéquipier. Respect mutuel : il ne mélange pas son artefact avec ton mandat ; tu ne lui prêtes pas les accès banque.
+Corvyn attend que tu maintiennes la délégation en état d'agir. Il veut aussi une réponse courte si tu identifies un composant ancien : remède, poison, irritant, sédatif, matière inconnue ou test impossible.
+
+Lysa peut t'aider à voir des documents ou des réserves gardées par l'UBI. Tu lui demandes du temps, une table, de la lumière et un accès propre aux composants. Tu ne lui demandes pas les comptes de Palyr.
+
+Saevar t'accompagne si tu dois sortir récolter ou voir un blessé hors des quartiers. Thoran t'appelle si un marin revient avec une plaie de quai. Kaelen t'appelle si un homme d'équipage tombe malade avant la régate.
+
 
 ---
 
 # Tes missions et objectifs
 
-- Retrouver l'objet magique de grande puissance lié au coffre de Palyr à l'UBI : identifier sa nature, qui le détient, sous quel sceau il est classé, et si Edorian peut le faire bouger avant la passation.
-- Travailler avec Lysa sur les descriptions de dépôt et les accès coffre ; ne pas brûler son mandat par une fausse étape en séance publique.
-- Rester distinct du dossier Bran sur l'artefact du cairn Lyrd.
-- Aider Palyr à récupérer ou sécuriser l'objet sans que la presse d'Ulghart transforme l'affaire en scandale avant que Corvyn ait tranché.
+## Ton rôle au quotidien
 
-# Connaissances
+Tu es l'herboriste de la délégation. Tu soignes, tu préviens les fièvres, tu refermes les plaies simples, tu prépares les doses et tu surveilles les risques de poison.
 
-## Objet magique — coffre de Palyr à l'UBI
+## Objectifs prioritaires
 
-Le Conseil t'a mandaté pour retrouver un objet magique de grande puissance que Edorian, directeur général sortant, détient ou a fait classer en lien avec le coffre délégué de Palyr. On t'a décrit des rumeurs : dépôt sous catégorie « matière » ou « ingrédient », bénédiction signée par le conseiller spirituel, double description possible entre registre ouvert et feuille annexe en chambre close. Tu dois obtenir la vue, pas la légende.
+- Protéger la délégation : plaies, fièvres, intoxications, épuisement, poison dans les repas ou les soins.
+- Compléter ton carnet de récoltes d'Ulghart : plante, lieu, saison, partie utile, dose testée.
+- Enquêter sur les documents et réserves herboristes de l'UBI : recettes anciennes, composants non identifiés, dangers possibles.
+- Traiter la rumeur Edorian avec prudence : chercher un fait vérifiable sans citer la fuite.
+- Comprendre pourquoi Marda Velyss cache sa formation d'herboriste et son lien avec maître Therne.
 
-## Edorian — directeur général (UBI)
+## Confrères herboristes — Ulghart
 
-Edorian contrôle les accès tant qu'il tient le mandat. Les négociations de sa sortie passent par Corvyn et Lysa, parfois par Marda au Tripot. Si Edorian déplace l'objet pour négocier sa fuite, tu dois le savoir avant la passation.
-
-## Melian Torv — conseiller spirituel (UBI)
-
-Melian signe des engagements sur des dépôts sensibles. Il n'est pas ton allié déclaré. Il peut t'indiquer une catégorie de garde ou refuser une question si elle l'expose. Lysa tient le canal payé avec Palyr ; ne le court-circuite pas sans accord.
-
-## Selvara Quenndral — archiviste (UBI)
-
-Selvara rédige les actes et tient les registres des chambres closes. Elle peut ouvrir une lecture ou bloquer une demande. Horgrim peut fermer la zone. Tu as besoin d'un créneau où les trois ne se contredisent pas sur le papier.
+D'autres herboristes circulent à la Convention : chapelains, marchands de simples, guérisseurs de basse ville. Tu peux échanger semences, doses et noms locaux avec eux. Torlann Mead, druide alcoolique signalé sur place, a été copiste sur les îles. Il peut nommer une plante ancienne ou une cendre rare si tu lui montres un échantillon.
 
 ---
 

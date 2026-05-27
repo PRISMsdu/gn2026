@@ -4,7 +4,7 @@
   Rôle joueur Palyr ; même groupe : back collectif distribué par l'équipe.
   Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l'intrigue ou à la fiche perso).
   Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ». Dans « Connaissances » seulement : codes de pièces de jeu autorisés (voir règles sous # Connaissances).
-  Dette Tripot : 8 234 couronnes — chiffre réservé à cette fiche (ne pas recopier dans back de groupe, intrigue joueur ni autres rôles).
+  Dette Tripot : 2 422 couronnes — chiffre connu de Saevar et du Tripot seulement.
 -->
 
 Grandeur Nature Celtiana  
@@ -38,6 +38,7 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Saevar Dren |
+| Joueur | Robin |
 | Rôle dans le groupe | Chef de la sécurité — officier de renseignement |
 | Classe / profession | Guerrier |
 | Compétences | Pugilat (8) ; Torture |
@@ -47,7 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Doublons (or) | 100 |
-| Dette au Tripot (Lira) | 8 234 couronnes — montant exact connu de toi seul ; les autres PJ ignorent le chiffre |
+| Dette au Tripot (Lira) | 2 422 couronnes — montant exact connu de toi et du Tripot ; les autres PJ ignorent le chiffre |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -56,8 +57,8 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Efficace sur le terrain. Peu de mots en mission. Accro au jeu : tu reviens aux tables même quand tu sais que tu perdras. |
 | Valeurs | La sécurité de la délégation. Protéger tes parents à Palyr de ce que ta dette pourrait leur retourner sur le dos. |
-| Peur | Que Lira révèle les 8 234 couronnes à Corvyn. Que tu retombes en transe de jeu au mauvais moment et que la délégation — puis ta famille — paie. |
-| Rêve | Solder les 8 234 couronnes et sortir d'Ulghart sans que le Tripot ait brûlé ta place ni celle de tes parents sur l'île. |
+| Peur | Que Lira révèle les 2 422 couronnes à Corvyn. Que tu retombes en transe de jeu au mauvais moment et que la délégation — puis ta famille — paie. |
+| Rêve | Solder les 2 422 couronnes et sortir d'Ulghart sans que le Tripot ait brûlé ta place ni celle de tes parents sur l'île. |
 
 ---
 
@@ -89,7 +90,7 @@ C'est à cette période que tu découvres le Tripot d'Ulghart. Pas comme problè
 
 Le problème commence trois ans avant la Régate actuelle. Tu joues hors mission. Tu continues après avoir gagné. Tu continues après avoir perdu. Ce n'est plus un loisir : c'est une addiction. Tu connais le geste des addicts — main qui tremble avant de remiser, phrase qu'on se répète, promesse de « la dernière partie » — parce que tu te surprends à le faire toi-même. Lira et sa sœur Sira te lisent comme ils lisent les parieurs ruinés ; ils ne te traitent pas avec pitié, ils te laissent jouer parce que la dette grossit.
 
-Lira tient plusieurs tables au Tripot. Il y a trois ans, elle t'a ouvert du crédit quand tu perdais plus que tu ne pouvais couvrir. Intérêts, parties relancées, anciennes dettes reprises dans son livre : le registre affiche aujourd'hui 8 234 couronnes à ton nom. Tu connais ce chiffre par cœur — personne d'autre dans la délégation ne l'a. C'est une somme énorme : plusieurs années de solde honnête, bien au-delà de ce que tu pourrais rembourser en une saison, assez pour ruiner un agent de ton rang et tout ce qui reste de ta bourse familiale si ça éclate.
+Lira tient plusieurs tables au Tripot. Il y a trois ans, elle t'a ouvert du crédit quand tu perdais plus que tu ne pouvais couvrir. Intérêts, parties relancées, anciennes dettes reprises dans son livre : le registre affiche aujourd'hui 2 422 couronnes à ton nom. Tu connais ce chiffre par cœur — personne d'autre dans la délégation ne l'a. C'est une somme lourde, bien au-delà de ce que tu pourrais rembourser en une saison, assez pour ruiner un agent de ton rang et tout ce qui reste de ta bourse familiale si ça éclate.
 
 Lira n'est pas pressée pour encaisser. Elle attend la Régate pour formuler sa demande, au moment où tu as le plus à perdre.
 
@@ -101,7 +102,7 @@ Lira attend que tu lui rendes service. Elle ne t'a pas encore dit lequel. Ça vi
 
 Tu ne sais pas jusqu'où Lira est liée aux réseaux qui gravitent autour de la banque ou d'Il-Irion. Marek Thorne, un opérateur de renseignement d'Il-Irion, peut croiser tes relais à Ulghart. Si Thorne remonte le fil de ta dette jusqu'à toi et jusqu'à la délégation, il a un levier exploitable. Tu surveilles si Thorne est présent pendant la Régate sans te faire repérer comme étant attentif à lui.
 
-Corvyn veut fermer le Tripot ou en arracher la délégation. Il sait que tu es endetté là-bas et accro au jeu. Il ne connaît pas le chiffre : 8 234 couronnes, et tu feras tout pour qu'il ne l'apprenne pas. Sa ligne politique et ta situation personnelle tirent dans le même nœud : plus il pousse contre le Tripot, plus Lira a intérêt à te faire défaut pour compliquer la position de la délégation. Tu ne lui expliques pas cette dynamique. Tu gères.
+Corvyn veut fermer le Tripot ou en arracher la délégation. Il sait que tu es endetté là-bas et accro au jeu. Il ne connaît pas le chiffre : 2 422 couronnes, et tu feras tout pour qu'il ne l'apprenne pas. Sa ligne politique et ta situation personnelle tirent dans le même nœud : plus il pousse contre le Tripot, plus Lira a intérêt à te faire défaut pour compliquer la position de la délégation. Tu ne lui expliques pas cette dynamique. Tu gères.
 
 Si la dette éclate — Lira qui parle à Corvyn, Thorne qui remonte le fil, mafia ou banque qui s'en sert — tu tombes en premier : révocation, honte sur le quai, enquête interne. Tes parents tiennent encore le comptoir alimentaire et ton père travaille sur les docks à Palyr. Ils n'ont pas l'or pour couvrir ta dette. Une rumeur de « fils Dren qui a vendu la délégation au casino » peut leur fermer le crédit fournisseur, les faire évincer du quartier, ou attirer des créanciers que tu ne connais pas encore. Tu joues pour tenir la mission ; tu refuses de jouer une partie de plus quand tu peux — et tu échoues souvent.
 
@@ -111,9 +112,9 @@ La sécurité de Corvyn est ta mission principale officielle. Il se déplace dan
 
 Corvyn te fait confiance sur la sécurité et les réseaux. Il ne te fait pas confiance sans limite : il sait pour le Tripot, pas pour l'ampleur. Cette zone d'opacité te convient tant qu'elle dure. Si Lira parle, ou si Thorne remonte le fil, Corvyn apprend tout en une fois et dans le pire moment possible.
 
-Thoran partage les quais avec toi. Vous vous comprenez sans trop d'explications. Il sait pour le Tripot. Il ne remonte pas à Corvyn. Tu lui dois ça. Les paris autour de la régate passent par les tables d'Éliane, au Tripot. Tes dettes et les cotes de régate se croisent dans le même espace. Tu essaies de tenir les deux lignes séparées.
+Thoran partage les quais avec toi sur les contrats et les chargements. Kaelen Voss commande la frégate : il te demande parfois de tenir ton équipage à l'écart du Tripot la veille de la course. Tu sais pour le Tripot ; Thoran ne remonte pas à Corvyn. Les paris autour de la régate passent par les tables d'Éliane. Tes dettes et les cotes se croisent dans le même espace.
 
-Lysa fait des choses au-delà de ce qu'elle te dit. Tu le vois à ses sorties, à ses horaires, à la façon dont elle répond quand tu la croises près des coffres. Tu ne sais pas ce que c'est exactement. Tu ne poses pas la question. Tant que ses lignes parallèles ne créent pas de problème de sécurité pour la délégation, c'est son affaire.
+Lysa fait des choses au-delà de ce qu'elle te dit. Tu le vois à ses sorties, à ses horaires, à la façon dont elle répond quand tu la croises. Tu ne sais pas ce que c'est exactement. Tu ne poses pas la question. Tant que ses lignes parallèles ne créent pas de problème de sécurité pour la délégation, c'est son affaire.
 
 Ilara ne croise pas beaucoup tes opérations directement. Elle travaille en commission. Tu couvres ses déplacements dans le fort quand la situation l'exige. Tu la surveilles aussi : si elle utilise le dossier de corruption au mauvais moment, la réaction de la banque ou d'Il-Irion peut créer une situation de sécurité que personne n'a anticipée.
 
@@ -124,7 +125,7 @@ Lira est la contrainte que tu dois gérer avant toutes les autres. Elle tient ta
 # Tes missions et objectifs
 
 - **Sécurité de Corvyn** : protection rapprochée du représentant du Légat dans le fort, les commissions et les espaces publics. C'est ta mission officielle. Elle passe avant tout le reste sur la liste des priorités visibles.
-- **Gérer la dette envers Lira** : tu dois 8 234 couronnes ; Lira formulera sa demande pendant la Régate. Décide avant ce moment jusqu'où tu peux céder sans compromettre la délégation. Elle ne te laissera pas le temps de consulter Corvyn quand elle parlera.
+- **Gérer la dette envers Lira** : tu dois 2 422 couronnes ; Lira formulera sa demande pendant la Régate. Décide avant ce moment jusqu'où tu peux céder sans compromettre la délégation. Elle ne te laissera pas le temps de consulter Corvyn quand elle parlera.
 - **Tenir l'addiction** : ne pas retourner aux tables sans raison professionnelle ; si tu joues encore, assume que Lira et Sira le verront et que la dette ou la demande en sortira.
 - **Protéger ta famille à Palyr** : si la dette devient publique, tes parents paient le prix social et financier avant toi. Tout ce qui expose le chiffre ou te discrédite sur la mission remonte vers eux.
 - **Surveiller Marek Thorne** : si l'opérateur d'Il-Irion est présent à Ulghart, il peut remonter le fil de ta dette jusqu'à la délégation. Identifier sa présence avant qu'il identifie la tienne.
@@ -134,15 +135,36 @@ Lira est la contrainte que tu dois gérer avant toutes les autres. Elle tient ta
 
 ## Lira — Tripot (dette personnelle)
 
-Lira Vestrann tient des tables au Tripot avec sa sœur Sira. Il y a trois ans, Lira t'a ouvert du crédit quand tu perdais plus que tu ne pouvais couvrir. La dette s'est empilée : intérêts, parties relancées, anciennes lignes reprises dans son livre. Son registre affiche 8 234 couronnes à ton nom — le même chiffre que sur sa fiche, connu de vous deux seuls.
+Lira Vestrann tient des tables au Tripot avec sa sœur Sira. Il y a trois ans, Lira t'a ouvert du crédit quand tu perdais plus que tu ne pouvais couvrir. La dette s'est empilée : intérêts, parties relancées, anciennes lignes reprises dans son livre. Son registre affiche 2 422 couronnes à ton nom — le même chiffre que dans les comptes du Tripot, connu de toi et de la maison.
 
 Tu es accro : tu connais la dette, tu connais le danger, tu retournes quand même jouer. Lira ne te presse pas pour l'or ; elle attend la Régate pour formuler sa demande (service, information, trahison partielle — tu ne sais pas encore laquelle). Elle sait que tu as peur pour ta place et pour tes parents à Palyr.
 
-Corvyn sait que tu fréquentes le Tripot et que tu es endetté. Thoran sait que tu es accro ; il ne remonte pas à Corvyn. Aucun des deux n'a le montant exact. Si Lira annonce 8 234 couronnes à Corvyn pendant la Régate, ta place dans la délégation saute avant la fin de la mission — et la honte retombe sur ta famille au port de Palyr.
+Corvyn sait que tu fréquentes le Tripot et que tu es endetté. Thoran sait que tu es accro ; il ne remonte pas à Corvyn. Aucun des deux n'a le montant exact. Si Lira annonce 2 422 couronnes à Corvyn pendant la Régate, ta place dans la délégation saute avant la fin de la mission — et la honte retombe sur ta famille au port de Palyr.
 
 ## Marek Thorne — réseau Il-Irion
 
-Thorne est un opérateur de renseignement d'Il-Irion. Il travaille dans les milieux gris confédéraux. Ses relais à Ulghart peuvent croiser les tiens. S'il remonte le fil de ta dette jusqu'à toi et jusqu'à la délégation de Palyr, il a un levier exploitable. Tu dois identifier sa présence pendant la Régate avant qu'il identifie la tienne.
+Marek Thorne est un opérateur de renseignement d'Il-Irion. Il travaille dans les milieux gris confédéraux. Ses relais à Ulghart peuvent croiser les tiens. S'il remonte le fil de ta dette jusqu'à toi et jusqu'à la délégation de Palyr, il a un levier exploitable. Tu dois identifier sa présence pendant la Régate avant qu'il identifie la tienne.
+
+## Sûreté, renseignement et relais de quai à Ulghart
+
+Tu connais au moins les noms des personnes qui touchent à la sûreté, aux filatures, aux informateurs ou aux accès sensibles pendant la Convention. Ces noms ne font pas tous des alliés. Ils te servent à savoir qui peut te suivre, te bloquer une porte, protéger un chef de délégation ou acheter une information avant toi.
+
+
+- Isar Dornelis, Il-Irion : renseignement et réseaux de la maison Dornelis. Il suit les rumeurs, les audits et les fuites.
+- Marek Thorne, Il-Irion : opérateur hors île et contacts marchands. Il peut recruter les mêmes relais gris que toi.
+- Garrick Halvaren, Il-Irion : sécurité de la coalition des grandes familles. Il protège les dirigeants et mène les intimidations visibles.
+- Horgrim Dval, UBI à Ulghart : chef de la garde privée de la banque. Il contrôle les accès aux zones sensibles du fort et de la citadelle bancaire.
+- Sybrel Dornik, UBI à Ulghart : surveillance intérieure. Elle connaît les rondes, les couloirs bas et les angles morts de la banque.
+- Maître Corvus, UBI à Ulghart : gardien des coffres. Il pèse sur les portes, les clés et les procédures de salle forte.
+- Kaelen Veynar, UBI à Ulghart : exécuteur de contrats. Il intervient quand la banque veut faire appliquer une décision sans débat public.
+- Bastion Kharvek, Arthas : chef de la sécurité de la délégation d'Arthas. Il cherche aussi les traces liées aux vols et aux coffres.
+- Grisbe Jab-fer, Sfaal : chef de la sécurité de la délégation de Sfaal. 
+- Sven Orlac, Ther-Félis : marin et homme de main pour les opérations sensibles. Il peut traiter les juges, les quais et les pressions discrètes.
+- Ardan Trevil, Tripot à Ulghart : capitaine des gardes du Tripot. Il tient l'ordre en salle et les couloirs quand Marda veut éviter le scandale.
+- Varek, nom d'usage au Tripot à Ulghart : pisteur du Tripot. Il suit les gens sur les quais et dans les coulisses.
+- Soren, nom d'usage au Tripot à Ulghart : homme de main de la maison. Il traite les basses œuvres propres, les poisons et les potions.
+
+La Guilde des Ports Unis a son siège à Il-Irion et parle officiellement pour les métiers des ports. Tu peux croiser ses responsables pendant la Régate. Torven Sorel préside la Guilde. Kaelan Thormane est maître des quais. Vorak Ironhand est maître des entrepôts. Gareth Ironfist est maître des chantiers navals. Drask Bloodmoon est maître des marins. Raven, nom d'usage public, est maître des routes. Ces charges leur donnent une raison officielle de parler aux capitaines, aux dockers, aux greffiers de quai et aux délégations.
 
 
 ## Éliane — paris autour de la régate (Tripot)

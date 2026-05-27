@@ -103,7 +103,7 @@ Trésorière : elle enregistre et signe les mouvements de lingots au comptoir. E
 
 Elle tient les archives et les textes légaux (Confédération, scellés entre cités). Passé comme Rédempteuse au sein de la Guilde des Rédempteurs : détail distribué sur la fiche si on garde cet angle.
 
-*Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` (Selvara × Isara Dornelis).
+*Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` (Selvara × Isar Dornelis).
 
 ### Horgrim Dval
 

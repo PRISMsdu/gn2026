@@ -60,39 +60,41 @@ Epopée en Krondaar
 
 ## Enfance — marches et Loups Gris
 
-Tu es né dans une famille de sous-officiers des marches d'Elfrion : le matin sent le cuir, le soir le compte des hommes encore debout.
+Tu es né dans une famille de sous-officiers des marches d'Elfrion. Tu as grandi dans les casernes : exercices, comptes des hommes au soir, listes de soldes à tenir à jour.
 
-Très tôt, on t'a confié aux Loups Gris, milice contractuelle : barrages, convois, silence quand il le faut. Tu as appris les cases d'une carte et l'heure où une colonne doit s'arrêter.
+Très tôt, ta famille t'a placé chez les Loups Gris, une milice contractuelle des marches. Tu y as appris à tenir un barrage, à escorter un convoi, à fermer une route au bon moment et à ne pas parler des contrats que la compagnie acceptait.
 
-## Jeunesse — compagnie
+## Jeunesse — compagnie et trafic
 
-Tu es monté en grade : routes intérieures, traque du trafic, missions brèves aux frontières de la République. Un bon second ne parle pas plus que nécessaire ; un ordre flou tue plus sûrement qu'une flèche.
+Tu es monté en grade dans les Loups Gris : routes intérieures de la République, traque des contrebandiers, missions courtes aux frontières. Tu lisais les cartes mieux que la plupart des officiers et tu savais coordonner trois groupes sur un même axe sans qu'ils se croisent.
+
+À cette époque, tu as compris que les ordres clairs sauvent des hommes et que les ordres flous en tuent. Tu en as fait ta méthode : tu redemandes une consigne plutôt que d'en interpréter une.
 
 ## Entrée chez les Sangs — il y a douze ans
 
-À trente ans, tu as croisé Kaelan Thormane. Il transformait une bande en machine. Tu es entré dans les Sangs quand le réseau avait besoin de bras qui pensent en cartes et en délais.
+À trente ans, tu as croisé Kaelan Thormane alors qu'il bâtissait les Sangs : maisons sûres, relais d'informateurs, argent hors livres. Tu y es entré comme coordinateur des opérations.
 
-Tu as coordonné le scandale de Staal côté rue : quand la rumeur a éclaté, ce n'était pas le hasard — c'était une série de verrous que tu avais posés. Tu as monté le filet d'informateurs que le groupe utilise encore.
+Tu as coordonné le scandale de Staal côté rue. Tu avais positionné des informateurs, préparé les couloirs et fixé le moment de la sortie publique des pièces. Quand la rumeur a éclaté, le calendrier était le tien. Tu as monté à cette occasion le réseau d'informateurs que les Sangs utilisent encore aujourd'hui.
 
-Tu es Maître des Entrepôts dans la Guilde des Ports Unis : accès aux stocks, aux registres de transit, aux hommes qui chargent et déchargent sans poser de questions.
+Tu es devenu Maître des Entrepôts dans la Guilde des Ports Unis. Cette charge te donne accès aux stocks, aux registres de transit et aux hommes qui chargent et déchargent sans poser de questions.
 
 ## Second — opérations et fenêtres
 
-Quand Kaelan tranche, tu fais exécuter sans friction. Le nouveau conseil de l'UBI, les frictions entre cités, la pression sur les familles : tout passe par des fenêtres horaires et des hommes au bon endroit.
+Quand Kaelan tranche, tu fais exécuter sans friction. Tu cadences les opérations : conseil de l'UBI, frictions entre cités, pression sur les familles. Pour chaque dossier tu fixes un créneau précis et tu places les hommes au bon endroit.
 
-Tu distingues ce que racontent les salons — menace de steppe, tribus du nord — de ce que tu sais être la ligne réelle. Tu ne mélanges jamais les deux à voix haute.
+Tu connais le double récit : la rumeur officielle parle d'une menace de la steppe et de tribus du nord ; tu sais que les ordres viennent du MiVI styrgien. Tu ne mélanges jamais les deux à voix haute, même devant un homme de la Guilde.
 
-Gareth reçoit de toi le rythme des intimidations ; Drask les cadres d'interrogatoire ; Shadow et Raven des couloirs différents — coffres d'un côté, quai et parlements de l'autre.
+Tu répartis les missions entre les autres cadres. Gareth reçoit de toi le rythme des intimidations et les cibles. Drask reçoit le cadre des interrogatoires. Shadow et Raven travaillent sur des couloirs séparés : Shadow dans les coffres et les papiers, Raven sur les quais et dans les parlements.
 
 ## Missive et équipe disparue
 
-Il y a quelques jours, un pigeon t'a déposé une missive sur le quai : un acheteur anonyme aurait payé cher une intervention musclée sur la route Il-Irion–Ulghart. Quinze mercenaires habitués, dont plusieurs travaillent souvent avec vous, auraient été engagés.
+Il y a quelques jours, un pigeon t'a déposé une missive courte sur le quai. Un acheteur anonyme aurait payé cher pour une intervention musclée sur la route Il-Irion–Ulghart. Quinze mercenaires habitués, dont plusieurs travaillent régulièrement avec vous, auraient été engagés sur ce contrat.
 
-Depuis, silence : pas de rapport, pas de survivant qui repasse par vos hommes, pas de solde. Une opération de cette taille laisse toujours une trace, même mauvaise. Tu ne sais pas qui a commandité ni contre qui ils sont partis.
+Depuis, silence complet. Pas de rapport au quai, aucun survivant qui repasse par vos relais, aucune solde réclamée. Une opération de cette taille laisse toujours une trace, même mauvaise. Tu ignores qui a commandité l'affaire et contre qui ces quinze hommes sont partis.
 
 ## Ulghart — synchronisation
 
-À Ulghart, tu gardes la synchronisation entre l'ordre de Kaelan et les équipes sur le terrain. Tu protèges les filières logistiques du réseau sans confondre Tripot, Staal et quai. Tu cherches des nouvelles sur les quinze hommes.
+À Ulghart, tu maintiens la synchronisation entre les décisions de Kaelan et les équipes sur le terrain. Tu protèges les trois filières logistiques du réseau — Tripot, Staal, quai — en veillant à ce qu'elles ne se croisent pas dans la même conversation ni devant le même témoin. Tu interroges discrètement tes relais pour retrouver la trace des quinze mercenaires disparus.
 
 ---
 
@@ -105,14 +107,9 @@ Tu cadences les opérations, tu réaffectes hommes et itinéraires quand un site
 ## Objectifs prioritaires
 
 - Garder l'alignement entre les ordres de Kaelan et l'exécution sur le fort et les quais.
-- Alimenter la veille sur le futur conseil UBI : noms, alliances, fenêtres où un coup peut passer.
+- Alimenter la veille sur le futur conseil de l'UBI : noms des candidats, alliances entre délégations, créneaux où un dossier ou un vote peut être ouvert sans alerter les autres familles.
 - Protéger les relais logistiques (casino, quai, entrepôts) sans mélanger les filières.
 - Retrouver des nouvelles sur l'équipe mercenaire partie sur Il-Irion–Ulghart : vivants, morts ou prisonniers.
-
-## Ce que tu ne fais pas
-
-- Tu ne signes pas seul les accords avec le MiVI ni avec Marda : c'est Kaelan.
-- Tu ne doubles pas Shadow sur le même clerc le même jour sans accord avec Raven.
 
 ## Informations sensibles
 
@@ -144,7 +141,7 @@ Le reçu falsifié FA-III-546-003 côté Palyr est une entrée distincte du mess
 
 ## Maître Vaelric Dorn — UBI
 
-FA-III-547-002 documente une corruption falsifiée déjà en circulation. Tu peux la laisser circuler ou la retirer selon si tu veux que Vaelric coure ou qu'il s'épuise.
+FA-III-547-002 documente une affaire de corruption falsifiée déjà en circulation à l'UBI. Si tu laisses la pièce continuer de circuler, Vaelric devra ouvrir une enquête et y consacrer son temps. Si tu la retires ou la fais discréditer par un greffier ami, il n'aura plus rien à enterrer. Choisis selon ce que Kaelan veut obtenir de lui ce week-end.
 
 ## Dame Ydria Ventoss — UBI
 
@@ -152,7 +149,7 @@ Tu recoupes les noms Ventoss et Forgefer sur les dettes. Le contrat DE-II-546-00
 
 ## Melian Torv — UBI
 
-Tu as des recoupements oraux sur la ligne Palyr sans détenir le fragment FL-III-545-002 de Kaelan. Avant une commission mixte, demande-lui la pièce ou l'interdiction de la citer.
+Tu as des témoignages oraux qui lient Melian à des intérêts palyriens, mais tu ne détiens pas le fragment écrit FL-III-545-002 que conserve Kaelan. Avant une commission qui réunit Melian et une délégation de Palyr, demande à Kaelan soit la pièce, soit l'interdiction explicite de citer le dossier.
 
 ## Cyrion Valdris — Il-Irion
 

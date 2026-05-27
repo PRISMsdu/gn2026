@@ -65,15 +65,19 @@ Epopée en Krondaar
 
 ## Chapitre I : Les origines (quais)
 
-Arrimeurs et copistes : ta lignée. Pas d'académie, pas de blason. Tu as appris sur le bois mouillé qu'un registre mal signé vaut une flotte mal rangée. La paperasse tue lentement : un chiffre déplacé, une copie « propre » qui devient vérité officielle, une page qui manque le jour où l'on fouille. Tu as choisi d'être celui qui sait où la page manque avant les autres.
+Ta famille travaillait sur les quais d'Il-Irion : arrimeurs côté débarquement, copistes au greffe du port. Pas d'académie de droit, pas de titre noble. Tu as appris très tôt qu'un connaissement mal signé peut suffire à perdre une cargaison entière, et qu'une page absente d'un registre pèse autant qu'une preuve fabriquée. Vers seize ans, tu as commencé à copier toi-même des bordereaux pour le greffe portuaire ; tu prenais déjà soin d'identifier ce que d'autres avaient effacé ou réécrit.
+
+Tu as choisi d'être celui qui repère le manque dans un dossier avant l'auditeur confédéral, avant le rival de service, avant le faussaire qui prépare la page suivante. C'est ce talent qui t'a fait remarquer du recruteur styrgien.
 
 ## Chapitre II : L'apprentissage (UBI et MiVI)
 
-On t'a pris pour les doubles livres. Trois ans à apprendre l'Union bancaire d'Il-Irion sans jamais assez t'exposer pour te brûler : couloirs, initiales sur des bordereaux, heures où les coffres respirent différemment. Tu as construit une carte dans la tête — salles, signatures, angles morts. Tu appelles ça tes archives mentales. Ce n'est pas une pose. C'est un outil. Quand quelqu'un y met la main sans méthode, tu vois rouge plus vite que raison.
+Le MiVI t'a recruté pour les doubles livres de l'UBI. Tu as passé trois années à l'intérieur de l'Union bancaire d'Il-Irion sans jamais t'exposer assez pour te brûler : circulation dans les couloirs, repérage des heures où les coffres sont moins surveillés, mémorisation des initiales qui reviennent sur les bordereaux. Tu as construit en mémoire la carte de la banque — salles, signatures de visa, angles morts entre deux rondes. Tu appelles cela tes archives mentales. C'est un outil de travail ; tu supportes mal qu'un collègue les manipule sans méthode.
 
-Le Primat ne t'a pas promis des médailles. Il t'a promis des concurrents : services confédéraux, banquiers nerveux, espions de salon qui veulent les mêmes pièces que toi. Tu as signé pour le drapeau qu'on ne hisse pas. La Styrgie ne veut pas seulement de l'or dans ses caisses : elle veut que la Confédération ne se referme pas en un bloc lisse avant qu'Elfrion ait posé ses leviers — conseil UBI, flux, preuves qui pèsent sur Arthas et Ther-Félis sans déclencher l'embargo qui rallierait toutes les cités contre la République.
+Le Primat ne t'a pas promis de médailles. Il t'a annoncé tes concurrents : services confédéraux, banquiers nerveux, espions de salon — tous cherchent les mêmes pièces que toi. La Styrgie ne veut pas seulement de l'or dans ses caisses. Elle veut que la Confédération ne se referme pas en bloc avant qu'Elfrion ait posé ses leviers : conseil UBI, flux, preuves contre Arthas et Ther-Félis. Toute la difficulté est de placer ces pièces sans déclencher l'embargo qui rallierait les cinq cités contre la République.
 
-Tu sais ce que coûte l'outil mafia / Guilde. Tu le distingues du résultat : si les dossiers ne bougent pas, ce sont des morts futures en moins de phrases sur un rapport.
+Tu connais le coût des outils que sont les Sangs de la Steppe et la Guilde des Ports Unis. Tu ne les confonds pas avec un partenariat. Tant que les dossiers avancent et que les leviers se posent, leur usage est justifié pour le service ; si les pièces ne sortent pas, le coût a été payé pour rien.
+
+Au sortir de ces trois années à l'intérieur de l'UBI, tu avais vingt-cinq ans environ. Pendant les dix-huit années qui ont suivi, tu as enchaîné pour le MiVI des missions d'archives, de coffres et de correspondances — Il-Irion, Palyr, Sfaal, Elfrion, à chaque fois sous couverture brève — sans jamais te brûler dans une cité. Tu as aujourd'hui quarante-trois ans.
 
 ## Chapitre III : L'ascension (forge et Staal)
 
@@ -83,7 +87,7 @@ Staal : correspondance qui filait vers une malle diplomatique. Le plan s'est dé
 
 ## Chapitre IV : Les défis actuels (Ulghart, UBI)
 
-Trente-cinq ans environ. Citadelle d'Ulghart, Convention. Depuis deux jours, couverture Questeur après l'embuscade : sur le mandat, greffier d'instruction de messire Ydrael Montfou (Théven Corvel incarne le Questeur). Mission MiVI : coffres, archives du conseil, pièces codées. Lettre Oblats, acte Horgrim Dval. Insignes visibles, accès banque tant que l'imposture tient. Mercenaire survivant à retrouver : priorité de Théven.
+Citadelle d'Ulghart, Convention. Depuis deux jours, couverture Questeur après l'embuscade : sur le mandat, greffier d'instruction de messire Ydrael Montfou (Théven Corvel incarne le Questeur). Mission MiVI : coffres, archives du conseil, pièces codées. Lettre Oblats, acte Horgrim Dval. Insignes visibles, accès banque tant que l'imposture tient. Mercenaire survivant à retrouver : priorité de Théven.
 
 Ton terrain : coffres, archives du conseil, correspondances, pièces codées. Tu cites le mandat pour ouvrir un tiroir ; tu ne cites jamais le MiVI ni le Primat en public.
 

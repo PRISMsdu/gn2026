@@ -65,13 +65,15 @@ Epopée en Krondaar
 
 ## Chapitre I : Les origines (mains)
 
-Tu ne vends pas ton passé au détail. Les brigades dont tu viens n'ont pas de noms sur feuille : seulement des couloirs sans enseigne, des fenêtres qui ne sont pas des fenêtres, et la règle qu'un homme qui parle trop après minuit ne devrait plus gêner le lendemain. Tu as appris que le silence vaut souvent mieux qu'un rapport — surtout quand le rapport devient une corde pour le cou de quelqu'un d'autre que la cible.
+Tu as commencé jeune dans des unités styrgiennes qui n'apparaissent sur aucun rôle officiel : ni Garde républicaine, ni mercenariat confédéral, ni archive du service ouverte aux auditeurs. On t'a appris à entrer dans un lieu sans s'annoncer, à neutraliser un témoin qui parlerait trop le lendemain, et à ne jamais laisser de rapport écrit derrière toi. Un nom de trop sur une feuille confédérale peut lancer une enquête longue de plusieurs années — c'est pour cela que tu ne rédiges pas et que tu laisses Lucan et Ysel tenir les procès-verbaux pour le détachement.
+
+Tu es entré dans ces brigades vers dix-sept ans ; tu y as servi un peu plus de huit ans avant que le MiVI ne te détache à son profit.
 
 ## Chapitre II : L'apprentissage (MiVI)
 
-Le Primat t'a pris pour ce que la plume ne règle pas. À Ulghart, depuis deux jours, garde du corps affichée de messire Ydrael Montfou (Théven Corvel incarne le Questeur) ; tu interviens quand la porte ne s'ouvre pas au sceau. Quand l'instruction bloque, quelqu'un doit sortir le paquet ou fermer une bouche. Ce quelqu'un, c'est toi — pas par goût du sang, parce que la mission a un coût et que tu préfères le payer en une fois plutôt qu'en semaines de pourriture.
+Le MiVI t'a recruté pour les opérations où la rédaction d'un acte ne suffit pas : extractions physiques, ouverture de porte fermée, témoin que l'instruction ne peut pas garder vivant. Tu as aujourd'hui quarante-six ans, dont une vingtaine au service du MiVI sur ce type d'opérations : extractions hors registres au Levant, à Sfaal, dans les marches d'Elfrion, et plusieurs fois à Il-Irion avant la forge Corvel. À Ulghart, depuis deux jours, tu portes la garde du corps affichée de messire Ydrael Montfou — le Questeur dont Théven Corvel a pris l'identité après l'embuscade. Tu interviens dès qu'une audition bute sur un témoin qui ne parle pas ou qu'une porte ne s'ouvre pas au sceau du mandat.
 
-Tu respectes Théven. Il ne te demande pas d'être propre quand il faut être précis. Il tranche ce qui peut se voir de la rue et ce qui doit rester dans l'ombre. Tu lui rends des comptes sans bruit. Tu ne confonds pas discipline et lâcheté.
+Tu rends compte à Théven et à lui seul. C'est lui qui décide ce qui peut se faire en couloir ouvert, ce qui doit se faire en cellule fermée, et ce qui doit rester invisible jusqu'au départ du détachement. Tu ne discutes pas l'ordre devant les autres membres et tu n'agis pas seul tant que la couverture Questeur est en place : une intervention non couverte par le mandat affiché ferait sauter l'imposture pour tout le groupe.
 
 ## Chapitre III : L'ascension (forge)
 

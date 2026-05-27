@@ -46,7 +46,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir maximum |
-| Remarques | Cinq langues du Levant  |
+| Remarques | Cinq langues du Levant - avec aide orga peut identifier l'origine d'une personne sur son simple parlé  |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -55,7 +55,7 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Calme, précis, capable de formuler une menace en termes polis. |
-| Valeurs | Un procès-verbal bien tenu ouvre des auditions ; la couverture Questeur doit tenir jusqu'à la fin de l'instruction. |
+| Valeurs | Un procès-verbal bien tenu ouvre des auditions |
 | Peur | Qu'un interprète tchélène reconnaisse, dans ta diction, l'entraînement d'Elfrion — et qu'on t'échange contre un prisonnier de frontière sans procès public. |
 | Rêve | Quitter Ulghart sans que ton nom figure sur un traité ou une dénonciation signée. |
 
@@ -65,19 +65,21 @@ Epopée en Krondaar
 
 ## Chapitre I : Les origines (quais du Levant)
 
-Ton grand-père affrétait des navires. Ta mère copiait des clauses de fret. Ton père revenait rarement et ne nommait pas toujours ses ports. Tu as appris le Levant sur des quais, pas dans des livres : qui paie le pilotage, qui signe le connaissement, qui retient une cargaison pour une dette de taverne.
+Ton grand-père affrétait des navires sur la côte du Levant. Ta mère copiait les clauses de fret au greffe d'Elfrion, la capitale de la République styrgienne. Ton père partait en mer plusieurs mois par an et ne donnait pas toujours le nom de ses ports. Tu as grandi sur les quais avant d'aller à l'école : qui paie le pilotage, qui signe le connaissement, qui retient une cargaison pour une dette de taverne.
 
-À douze ans, tu t'es disputé pour des places sur un cabotage. À quinze ans, tu griffonnais des brouillons où une virgule transformait une promesse en dette. Un accent faux te coûtait une escale ; un accent trop parfait te coûtait la confiance. Tu gardes des défauts volontaires dans chaque langue pour passer pour homme de métier, pas pour espion.
-
-Enfant, tu as vu brûler un entrepôt neutre après une rixe de frontière. Un officier tchélène a lu une liste de noms à voix haute. Tu te méfies encore des interprètes qui écoutent trop bien.
+À quinze ans, tu rédigeais déjà des brouillons de contrats pour les cabotages familiaux. Tu parlais cinq langues du Levant, apprises en écoutant les équipages au fil des escales — sans formation, sans tuteur, à l'oreille. Tu reconnaissais l'origine d'un marin à sa diction avant même qu'il te dise son port d'attache. C'est ce qui t'a fait remarquer du service du Primat : à dix-huit ans, un agent t'a abordé sur le quai d'Elfrion. Il cherchait un homme capable de passer d'un dialecte à l'autre sans interprète et de rédiger seul un acte de commerce. Tu as accepté.
 
 ## Chapitre II : L'apprentissage (MiVI)
 
-La République styrgienne t'a recruté dans le MiVI, service du Primat : pas d'uniforme, pas de discours de place publique. On t'a demandé d'être utile à des missions que personne ne signe au greffe confédéral.
+Tu es entré au MiVI, le service de renseignement du Primat. Pas d'uniforme, pas de mention au greffe confédéral : ton nom n'apparaît sur aucun acte public et tu sers des missions que la Styrgie ne reconnaît jamais en son nom.
 
-Interprète sur une route « neutre » qui servait en réalité deux maisons. Une nuit d'escale, un homme allait prononcer à voix haute un terme qui aurait lié la cargaison à un entrepôt interdit. Pas de combat : une salle étroite et des témoins. Tu as remplacé le mot par un autre, assez proche pour que le contrat tienne, assez loin pour que personne ne saigne avant l'aube.
+Pendant trois années, le service t'a fait travailler tes cinq langues avec ses propres maîtres, dans une école interne basée à Elfrion : diction, vocabulaire des chancelleries, formules juridiques, protocoles de salon par cour. Tu en es ressorti capable de tenir un débat technique dans chacun de ces idiomes. Le service y a ajouté une consigne ferme : ne jamais parler trop bien en mission. Tu maintiens dans chaque langue des défauts volontaires d'accent et de tournure, ceux d'un commis de maison de fret autodidacte. Sans ces défauts, un interprète attaché à une grande chancellerie reconnaîtrait à ta diction la signature de l'école styrgienne — et ta couverture sauterait dans l'heure.
 
-Quelques semaines après cette escale, on t'a convoqué seul dans une salle sans fenêtre du service, à Elfrion. L'homme en face de toi — pas d'uniforme, pas de titre au col — t'a demandé ce que tu avais entendu avant d'intervenir, pourquoi tu avais remplacé ce mot du contrat, et si tu accepterais de négocier devant témoins sans jamais citer le MiVI ni le Primat. Tu as répondu court, sans embellir. On t'a remis un contact pour te signaler entre deux missions et une consigne : ne jamais donner le nom de celui qui t'avait recruté, même sous menace.
+Ta première mission de terrain t'a placé comme interprète sur une route maritime déclarée neutre mais qui servait en réalité deux maisons concurrentes. Une nuit d'escale, un négociateur s'apprêtait à prononcer un terme qui aurait rattaché la cargaison à un entrepôt sous embargo. Tu as substitué dans la traduction un mot proche : le contrat est resté valide, aucun signataire n'a soulevé la fraude, et la cargaison a poursuivi sa route au matin.
+
+Quelques semaines plus tard, on t'a convoqué seul à Elfrion, dans une salle sans fenêtre du service. L'officier qui t'a auditionné — sans uniforme ni insigne au col — t'a demandé pourquoi tu avais choisi ce mot précis, ce que tu avais entendu avant d'intervenir, et si tu accepterais désormais de négocier au nom du Primat sans jamais le citer en public. On t'a remis un point de contact pour te signaler entre deux missions et une consigne explicite : ne jamais donner le nom de celui qui t'a recruté, même sous menace de procès ou de torture.
+
+Tu avais alors vingt-deux ans. Pendant les vingt années suivantes, tu as servi le MiVI sur des missions ponctuelles — escales du Levant, audiences de chancellerie, contrats hors registres entre maisons rivales — sans jamais te fixer dans une cité. Tu n'es pas marié, tu n'as pas d'enfant déclaré, et ton nom de naissance n'apparaît sur aucun acte public confédéral depuis ton recrutement. Tu as aujourd'hui quarante-cinq ans.
 
 
 ## Chapitre III : L'ascension (forge Corvel et Staal)
@@ -129,16 +131,6 @@ Tu parles cinq langues du Levant. En couverture, tu conduis les auditions au nom
 - Orienter escales et rabais fret vers Arthas et Ther-Félis (AN-III-547-008) sous couverture du mandat, avant le vote du conseil UBI.
 - Rendez-vous Thoran Keld hors mandat (vendredi soir, quai, « cale close avant l'aube ») : sans insignes Questeur ; ne rien signer de lourd sans Théven.
 - Recouper avec Ysel avant toute scène UBI avec Melian Torv ; ne pas exposer FL-III-545-002 sans accord.
-
-## Ce que tu ne fais pas
-
-- Tu ne remplaces pas Ysel dans les coffres ni dans les archives UBI.
-- Tu ne signes pas de traité lourd ni d'engagement financier majeur sans Théven.
-- Tu ne mélanges pas le rendez-vous Thoran avec une audition Questeur officielle.
-
-
-
----
 
 # Connaissances
 

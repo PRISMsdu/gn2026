@@ -35,8 +35,9 @@ Colonnes :
 | Cyrion Valdris | Rauth Kaelmar (Ther-Felis) | Cyrion pousse la ligne officielle anti Ther-Felis tout en preservant une porte de sortie diplomatique utile a l'UBI. |
 | Lucan Marivent | Rauth Kaelmar (Ther-Felis) | Lucan prepare la plainte confederale (prix agressifs, denigrement) pour placer Ther-Felis en position defensive. |
 | Seraphine Kaelthorne | Dorian Marest (Ther-Felis) | Bras de fer sur les taux et la dette : Seraphine veut securiser les creances, Dorian veut renegocier en bloc. |
-| Calis Aedris | Thoran Keld (Palyr) | Rivalite de regate et prestige maritime : Calis protege l'image navale d'Il-Irion contre Palyr (capitaine / negoce). |
-| Isara Dornelis | Lysa Morwyn (Palyr) | Guerre d'information : Isara traque les fuites UBI vers Palyr pour limiter le levier de chantage. |
+| Calis Aedris | Kaelen Voss (Palyr) | Rivalite de regate et prestige maritime : Calis protege l'image navale d'Il-Irion contre la frégate palyrienne. |
+| Calis Aedris | Thoran Keld (Palyr) | Negoce et fret : Thoran defend les contrats de quai et de minerai de Palyr face aux armateurs ilirioniens. |
+| Isar Dornelis | Lysa Morwyn (Palyr) | Guerre d'information : Isar traque les fuites UBI vers Palyr pour limiter le levier de chantage. |
 | Marek Thorne | Saevar Dren (Palyr) | Duel de reseaux : chacun cherche a recruter les memes relais discrets dans les ports et assemblees. |
 | Garrick Halvaren | Kaelan Thormane (Mafia) | Opposition frontale : Garrick neutralise l'extorsion mafieuse ciblant les familles patriciennes. |
 | Cyrion Valdris | Edorian (UBI) | Relation toxique : Cyrion veut controle et stabilite, Edorian garde des secrets pouvant retourner les familles. |
@@ -69,7 +70,7 @@ Colonnes :
 | Corvus | Kaelan Thormane (Mafia, Sangs) | Kaelan est ton commanditaire réel ; tu livres accès et infos tout en gardant la couverture banque intacte sous Horgrim. |
 | Corvus | Guilde des Ports Unis (couverture) | Tu gardes une identité plausible de couverture côté Guilde ; ta loyauté reste aux Sangs quand la pression monte. |
 
-Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Vaelric × Brann**, **Melian × Lucan Marivent**, **Selvara × Isara**, **Horgrim × Lysa**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
+Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Vaelric × Brann**, **Melian × Lucan Marivent**, **Selvara × Isar**, **Horgrim × Lysa**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
 
 ---
 
@@ -114,8 +115,10 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Ilara Vandesse | Notables Il-Irion (délégation, familles) | Tu connais des visages à Il-Irion par ta formation. Ça aide ou ça brûle quand les preuves sortent. Ce ne sont pas des alliés de la délégation Palyr. |
 | Lysa Morwyn | Gorvan Tresselune (Voleurs) | Tu as mandaté Gorvan à Ther-Félis pour l’Arguétheim ; à Ulghart tu négocies la vente et les papiers (samedi fin de journée max) ; Maren réceptionne pour le haut commandement — tu sépares ce fil de celui que tu passes avec Melian. |
 | Thoran Keld | Négociateurs Sfaal (délégation) | Tu dois parler du **dernier chargement** : **sceaux et papiers** d’un côté, **résultat des fours** de l’autre — et des **contrats** devant témoins. La relation est déjà mauvaise. |
-| Thoran Keld | Lira (Tripot) | Tu la croises sur la régate et les quais. Tu n’es pas accro au jeu. Tu peux chercher des infos navales sans entrer dans la dette de Saevar. |
-| Thoran Keld | Éliane (Tripot) | Tu touches aux paris et cotes autour de la régate pour le prestige de Palyr. Ce n’est pas une addiction personnelle au jeu. |
+| Kaelen Voss | Lira (Tripot) | Tu la croises sur la régate et les quais. Tu n’es pas accro au jeu. Tu veux garder ton équipage hors des tables la veille de la course. |
+| Kaelen Voss | Éliane (Tripot) | Paris et cotes autour de la régate : prestige naval de Palyr. Tu coordonnes avec Saevar pour ne pas mélanger dettes personnelles et équipage. |
+| Thoran Keld | Lira (Tripot) | Tu la croises sur les quais et le fret. Tu n’es pas accro au jeu. |
+| Thoran Keld | Éliane (Tripot) | Tu peux toucher aux cotes pour le prestige de Palyr sans commander la frégate. |
 | Thoran Keld | Envoyé secret Styrgie (Ulghart) | Tu portes la lettre STY-547-PAL-THO-01 ; rendez-vous vendredi soir quai marchand ; mot « cale close avant l’aube » ; commerce gris armes et matériel, hors registres confédéraux. |
 | Thoran Keld | Interlocuteurs Arthas (ports, relais) | Tu tiens les contacts quais pour minerai et fret ; filière de remplacement si Sfaal rompt. |
 | Lysa Morwyn | Melian Torv (UBI) | Tu tiens le canal secret et la lettre ; les références viennent après le second millier. Tu as promis de protéger Melian. Sans lui ou sans le solde, le dossier reste incomplet. |
