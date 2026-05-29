@@ -44,8 +44,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Sœur de l'Oblat de Palyr (resté sur l'île) ; copie d'une gravure ancienne ; recherches à la Bibliothèque d'Ulghart ; pas de lien Fils du Levant. |
-| Doublons (or) | 100 |
+| Remarques | Sœur du Légat de Palyr (resté sur l'île) ; copie d'une gravure ancienne ; recherches à la Bibliothèque d'Ulghart |
+| Argent | 20 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -63,7 +63,7 @@ Epopée en Krondaar
 
 ## Famille Lyrd et départ pour Komeo
 
-Tu nais à Palyr dans la lignée Lyrd, liée depuis longtemps au cairn du même nom. Ton frère aîné entre tôt dans la voie oblate : il deviendra l'Oblat de Palyr, celui qui reste sur l'île quand les délégations partent. Toi, on te destinait au cairn : rites, plantes, pierres, garde du site.
+Tu nais à Palyr dans la lignée Lyrd, liée depuis longtemps au cairn du même nom. Ton frère aîné entre tôt au service de la cité : il deviendra le Légat de Palyr, celui qui reste sur l'île quand les délégations partent. Toi, on te destinait au cairn : rites, plantes, pierres, garde du site.
 
 Enfant, tu accompagnes ton père aux limites des forges. Les forgerons ne piétinent pas le cercle de pierres. Les druides ne bloquent pas les convois. Chaque groupe connaît sa limite.
 
@@ -83,7 +83,7 @@ Tu reviens à Palyr pendant ton pèlerinage. Tu inspectes le cairn Lyrd, ses pie
 
 La gravure montre des figures d'hommes à branchies. Tu ne détaches pas la pierre. Tu ne la transportes pas. Tu fais une copie soignée sur support de voyage : contours, proportions, marques, orientation de la pierre.
 
-Tu présentes la copie à ton frère, l'Oblat de Palyr. Il comprend que cette gravure peut concerner l'histoire ancienne de l'île. Il te demande de ne pas publier une conclusion avant d'avoir comparé la copie avec des textes fiables.
+Tu présentes la copie à ton frère, le Légat de Palyr. Il comprend que cette gravure peut concerner l'histoire ancienne de l'île. Il te demande de ne pas publier une conclusion avant d'avoir comparé la copie avec des textes fiables.
 
 ## Choix d'Ulghart
 

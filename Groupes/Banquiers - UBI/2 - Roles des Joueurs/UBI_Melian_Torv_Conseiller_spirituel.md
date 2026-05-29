@@ -86,7 +86,7 @@ Ce qu'il ne dit pas tout de suite, mais que tu comprends assez vite : la maison 
 
 Il y a cinq ans tu prends le poste. Depuis le premier jour tu signes des bénédictions sur des dépôts où la valeur déclarée ne correspond pas toujours à la valeur réelle. Tu sais que les actes que Selvara rédige et que tu bénis donnent une apparence légitime à des opérations qui ne le sont pas. Tu l'as choisi. La dette que tu as envers le plan est la même que la leur.
 
-Il y a environ un an, tu fixes avec Lysa Morwyn le prix de ta dénonciation : 2 000 couronnes et une protection crédible. Palyr verse 1 000 couronnes. Tu remets la lettre qui expose le mécanisme et cite l'existence des pièces en coffre, sans les références internes. Tu gardes les codes et les extraits pour le second versement. Tant que les 1 000 couronnes restantes ne sont pas sur la table, tu ne livres pas ce qui permet de retrouver chaque acte au registre.
+Il y a environ un an, tu approches Lysa Morwyn lors d'une mission d'audit au fort. Tu la rencontres deux fois. La première rencontre sert à lui faire comprendre la valeur du dossier sans lui livrer les références. La deuxième fixe le prix, le canal de réponse et la protection demandée : 2 000 couronnes. Lysa transmet à Palyr. Palyr verse 1 000 couronnes. Tu remets la lettre qui expose le mécanisme et cite l'existence des pièces en coffre, sans les références internes. Tu gardes les codes et les extraits pour le second versement. Tant que les 1 000 couronnes restantes ne sont pas sur la table, tu ne livres pas ce qui permet de retrouver chaque acte au registre.
 
 ## Chapitre IV : Les défis actuels
 
@@ -131,7 +131,7 @@ Tu interviens pour bénédiction visible, pour accord sur la catégorie de garde
 
 ## Lysa Morwyn — trésorière, délégation Palyr
 
-Lysa tient le canal Palyr. Tu lui as remis la lettre de dénonciation après le premier millier de couronnes. Les références internes des pièces en coffre et les extraits exploitables ne partent qu'après le second millier. Elle est à Ulghart pour la Régate. Les échanges passent par le casino du fort ou des rendez-vous discrets. Sans le solde, tu ne livres pas ce qui rend le dossier actionnable devant un greffier.
+Lysa tient le canal Palyr. Tu l'as rencontrée deux fois avant le départ de la délégation : d'abord pour prouver la valeur du dossier, ensuite pour fixer le prix et le canal de réponse. Tu lui as remis la lettre de dénonciation après le premier millier de couronnes. Les références internes des pièces en coffre et les extraits exploitables ne partent qu'après le second millier. Elle est à Ulghart pour la Régate. Les échanges passent par le casino du fort ou des rendez-vous discrets. Sans le solde, tu ne livres pas ce qui rend le dossier actionnable devant un greffier.
 
 ## Dossier prêts parallèles — codes (second paquet)
 

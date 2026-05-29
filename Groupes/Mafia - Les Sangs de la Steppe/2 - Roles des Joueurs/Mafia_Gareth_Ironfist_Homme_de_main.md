@@ -33,6 +33,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Gareth Ironfist |
+| Joueur | Olivier Ledreux |
+| E-mail joueur | olivierledreux@orange.fr |
 | Rôle dans le groupe | Homme de main — intimidation et protection |
 | Classe / profession | Assassin |
 | Compétences | Egorgement ; Torture |
@@ -41,8 +43,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Escorte sur quai, remises et parlements sensibles. Signe habituel : bérêt écossais vert à pompon. |
-| Doublons (or) | 100 |
+| Remarques | Couverture visible : Maître des Chantiers navals dans la Guilde des Ports Unis ; escorte sur quai, remises et parlements sensibles. Signe habituel : bérêt écossais vert à pompon. |
+| Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -74,7 +76,7 @@ Tu as servi plusieurs années dans des compagnies auxiliaires de la République 
 
 À trente ans, tu as rejoint les Sangs de la Steppe. On ne t'a pas demandé d'expliquer ton passé. On t'a demandé des portes qui cèdent, des témoins qui se taisent et des cadres protégés quand une rencontre tournait mal.
 
-Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. Tu es devenu Maître des Chantiers navals dans la Guilde des Ports Unis. Cette charge te permet d'être sur les chantiers à toute heure, d'entendre les conversations des ouvriers et de tenir tranquilles les hommes qui refusent de parler aux prévôts.
+Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. Tu es devenu Maître des Chantiers navals dans la Guilde des Ports Unis. C'est ton métier visible : surveillance des cales, sécurité des ouvriers, litiges sur les réparations. Cette charge te permet d'être sur les chantiers à toute heure, d'entendre les conversations des ouvriers et de tenir tranquilles les hommes qui refusent de parler aux prévôts.
 
 Drask Bloodmoon te fournit poisons, sédatifs et antidotes selon la mission. Shadow t'appelle quand une infiltration tourne mal au Tripot ou à la banque et qu'il faut sortir un homme en vie.
 
@@ -102,7 +104,7 @@ La Convention réunit ce week-end les délégations, les équipages de la Régat
 
 ## Ton rôle au quotidien
 
-Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kaelan ou Vorak, tu escortes les rencontres à risque.
+Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kaelan ou Vorak, tu escortes les rencontres à risque. En public, tu te présentes comme Maître des Chantiers navals : tu contrôles les accès, les réparations et la sécurité des quais de travail.
 
 ## Objectifs prioritaires
 

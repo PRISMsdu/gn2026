@@ -196,6 +196,25 @@ body.registre-vip table tr > *:nth-child(4):nth-last-child(3) { width: 47%; text
 body.registre-vip table tr > *:nth-child(5):nth-last-child(2) { width: 13%; text-align: right; }
 body.registre-vip table tr > *:nth-child(6):nth-last-child(1) { width: 15%; text-align: right; }
 
+/* Tableau 6 colonnes registre UBI officiel :
+   Référence | Type de document | Parties | Déposé par | Date | Criticité */
+body.registre-ubi table tr > *:nth-child(1):nth-last-child(6) { width: 9%; }
+body.registre-ubi table tr > *:nth-child(2):nth-last-child(5) { width: 26%; text-align: left; }
+body.registre-ubi table tr > *:nth-child(3):nth-last-child(4) { width: 26%; text-align: left; }
+body.registre-ubi table tr > *:nth-child(4):nth-last-child(3) { width: 26%; text-align: left; }
+body.registre-ubi table tr > *:nth-child(5):nth-last-child(2) { width: 8%; text-align: left; }
+body.registre-ubi table tr > *:nth-child(6):nth-last-child(1) { width: 5%; text-align: left; }
+
+body.registre-ubi table tr > * {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  line-height: 1.05;
+  vertical-align: top;
+}
+
 /* Tableau 7 colonnes (VIP principal : Date | J | Réf | Description | IN | OUT | Solde) */
 table tr > *:nth-child(1):nth-last-child(7) { width: 6%; }
 table tr > *:nth-child(2):nth-last-child(6) { width: 3%; }

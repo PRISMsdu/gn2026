@@ -47,8 +47,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Doublons (or) | 100 |
-| Pugilat | 3 |
+| Argent | 1500 couronnes |
+| Pugilat | 7 |
 
 ## Apparence et caractère
 
@@ -102,7 +102,7 @@ La banque ensuite : Edorian sort. Tu veux récupérer les documents Palyr avant 
 
 L'incident Sfaal reste ouvert. Le dernier chargement de minerai était certifié conforme, les creusets de Palyr disent autre chose. Thoran doit confronter Sfaal sans accuser à vide. Tant que la chaîne entre le quai de chargement et les fours de Palyr n'est pas établie, une accusation publique reviendrait à couper le fer avant d'avoir un remplaçant.
 
-Le haut commandement exige de l'Arguetheim pendant que le fer ordinaire échoue. L'Oblat t'a investi d'un mandat général sur toute la délégation à la Convention : tu fixes les priorités, tu engages Palyr jusqu'à cent mille couronnes, tu ne peux pas lever d'armée. Tu délègues à Maren la réception et le contrôle du métal ; tu valides, tu tranches avec Lysa sur les paiements. Tu as chargé Lysa du contact commercial : elle a mandaté Gorvan Tresselune à Ther-Félis il y a environ un mois. La vente doit être conclue au plus tard en fin de journée du samedi. Si la transaction échoue ou si les documents ne tiennent pas, Palyr perd face au haut commandement autant que face à la banque.
+Le haut commandement exige de l'Arguetheim pendant que le fer ordinaire échoue. Le Légat t'a investi d'un mandat général sur toute la délégation à la Convention : tu fixes les priorités, tu engages Palyr jusqu'à cent mille couronnes, tu ne peux pas lever d'armée. Tu délègues à Maren la réception et le contrôle du métal ; tu valides, tu tranches avec Lysa sur les paiements. Tu as chargé Lysa du contact commercial : elle a mandaté Gorvan Tresselune à Ther-Félis il y a environ un mois. La vente doit être conclue au plus tard en fin de journée du samedi. Si la transaction échoue ou si les documents ne tiennent pas, Palyr perd face au haut commandement autant que face à la banque.
 
 Le Tripot te préoccupe différemment. Saevar est accro au jeu et endetté là-bas. Sa dette est un levier direct contre lui. Si quelqu'un veut bloquer la délégation pendant la Régate, Saevar est la porte d'entrée la plus simple. Tu veux fermer cette porte. La question est de savoir comment sans perdre son efficacité et ses réseaux au moment où tu en as le plus besoin.
 
@@ -116,7 +116,7 @@ Thoran est solide sur les contrats et Sfaal. Kaelen tient la mer sans empiéter 
 
 Saevar est utile et fragile. Ses réseaux à Ther-Félis et ses contacts dans les milieux gris d'Ulghart valent cher pour la délégation. Sa situation au Tripot est une menace active que tu surveilles. Lira le tient par sa dette. Si quelqu'un dans la banque ou chez Il-Irion remonte ce fil, la délégation est exposée.
 
-Edorian est la cible principale de la négociation. Il veut sortir du conseil avant que les auditeurs ou les nouveau conseil ne referment l'étau. Tu veux les documents et les coffres avant qu'il parte. L'accord tient tant que chacun croit encore avoir besoin de l'autre. Si Lysa récupère les coffres trop vite, tu perds ton levier sur lui. Si Edorian sort avant la récupération, tu perds la fenêtre d'accès. Le calendrier est serré.
+Edorian est la cible principale de la négociation. Il veut sortir du conseil avant que les auditeurs ou le nouveau conseil ne referment l'étau. Tu veux les documents et les coffres avant qu'il parte. L'accord tient tant que chacun croit encore avoir besoin de l'autre. Si Lysa récupère les coffres trop vite, tu perds ton levier sur lui. Si Edorian sort avant la récupération, tu perds la fenêtre d'accès. Le calendrier est serré.
 
 ---
 
@@ -126,7 +126,7 @@ Edorian est la cible principale de la négociation. Il veut sortir du conseil av
 - **Négocier la sortie d'Edorian** : il veut fuir avec or et documents. Tu veux les archives Palyr et le silence. L'accord tient tant que chacun croit avoir encore besoin de l'autre. Cadre la négociation avec Lysa.
 - **Timing des preuves avec Ilara** : les preuves de corruption servent à pousser le poste de directrice adjointe. Elles ne peuvent pas sortir avant que les coffres soient sécurisés. Tu arbitres ce tempo.
 - **Régate et pots-de-vin** : Kaelen Voss a la bourse des juges. Si ça fuite, c'est Palyr qui porte le scandale. Surveille que le soudoiement reste intraçable.
-- **Saevar et le Tripot** : sa dette chez Lira est un levier contre la délégation. Décide comment gérer sa situation avant que quelqu'un d'autre ne l'utilise contre toi.
+- **Saevar et le Tripot** : sa dette chez Marda est un levier contre la délégation. Décide comment gérer sa situation avant que quelqu'un d'autre ne l'utilise contre toi.
 
 # Connaissances
 
@@ -142,9 +142,7 @@ Il sort avant la passation. Il veut fuir avec de l'or et des documents. Il est p
 
 Ilara veut utiliser les preuves de corruption pour forcer les votes sur le poste de directrice adjointe. Lysa a besoin de temps pour récupérer les coffres Palyr avant que la passation du conseil ne ferme les accès. Ces deux lignes tirent dans le même sens mais pas au même rythme. C'est toi qui décides quand les preuves peuvent sortir.
 
-## Régate — pots-de-vin aux juges
 
-Corvyn a remis à Kaelen Voss les moyens pour soudoyer les juges de la régate si nécessaire. Palyr a besoin du prestige naval. Si cette opération fuite, la cité porte le scandale complet. Tu surveilles que ça reste intraçable.
 
 ---
 

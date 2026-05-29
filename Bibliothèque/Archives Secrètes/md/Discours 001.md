@@ -1,8 +1,8 @@
 # Discours 001
 
-Discours de l'Oblat de Palyr sur l'Arguétheim
+Discours du Légat de Palyr sur l'Arguétheim
 
-Retranscription des paroles prononcées par l'Oblat de Palyr devant l'assemblée secrète des autres oblats, des hauts dignitaires, des maîtres -forgerons et des capitaines de guerre de la Confédération.
+Retranscription des paroles prononcées par le Légat de Palyr devant l'assemblée secrète des autres légats, des hauts dignitaires, des maîtres -forgerons et des capitaines de guerre de la Confédération.
 
 Oblats de la Confédération, Forgerons, Soldats, et
 

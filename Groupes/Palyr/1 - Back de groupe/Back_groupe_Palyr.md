@@ -68,7 +68,7 @@ La Convention d’Ulghart est le prochain rendez-vous commun. Les banquiers, les
 
 Le Conseil a d’abord vérifié les besoins du voyage : quelqu’un pour parler en séance, pour les chiffres et les coffres, pour le commerce et la mer, pour la défense et l’armement, et un chef capable de trancher quand les instructions se croisent.
 
-Neuf personnes partent pour Ulghart. Six portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Kaelen Voss, Saevar. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Brina Lyrd (druidesse du cairn Lyrd, sœur de l’Oblat resté à Palyr, artefact trouvé sur le site).
+Neuf personnes partent pour Ulghart. Six portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Kaelen Voss, Saevar. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Brina Lyrd (druidesse du cairn Lyrd, sœur du Légat resté à Palyr, artefact trouvé sur le site).
 
 On vous a reçus un par un, puis en petit groupe : cas limites, mises en situation (audience, quai hostile, salon), formulations courtes pour les halls publics, mots de passe et lieux de rendez-vous pour les messages urgents.
 
@@ -84,9 +84,9 @@ Corvyn Valdrak porte le mandat du Légat. Le Légat reste à Palyr. Corvyn est c
 
 Ilara Vandesse mène la diplomatie et les commissions. Elle pousse la création d’un poste de directrice adjointe au conseil de l’UBI, fait voter sa création, puis vise le siège pour Palyr. Elle porte la ligne Arthas. Elle reste alignée avec Lysa et Corvyn sur ce qui sort du dossier corruption.
 
-Lysa Morwyn tient l’ordre de mandat de l’Oblat sur le coffre délégué de Palyr à l’UBI, le dossier Melian, la sortie des archives avant le changement de conseil, et le contact commercial sur l’Arguetheim. Il y a environ un mois, Lysa a mandaté Gorvan Tresselune, de la Compagnie du Dolmen Rouge, à Ther-Félis. La vente doit être conclue au plus tard en fin de journée du samedi de la Régate.
+Lysa Morwyn tient l’ordre de mandat du Légat sur le coffre délégué de Palyr à l’UBI, le dossier Melian, la sortie des archives avant le changement de conseil, et le contact commercial sur l’Arguetheim. Il y a environ un mois, Lysa a mandaté Gorvan Tresselune, de la Compagnie du Dolmen Rouge, à Ther-Félis. La vente doit être conclue au plus tard en fin de journée du samedi de la Régate.
 
-Corvyn Valdrak porte l’ordre des Oblats sur toute la délégation à la Convention (plafond d’engagement cent mille couronnes, pas de levée d’armée). Il fixe les priorités, délègue à chacun et tranche les conflits. Maren Holt exécute sous sa direction les dossiers militaires et d’armement — dont l’Arguetheim : réception du métal, vérification, remise au haut commandement ; les paiements passent avec Lysa. Maren ne peut pas outrepasser Corvyn. Maren mène aussi les lectures à la Bibliothèque, retrouve la Hanse des Lames (contacts dispersés, un par un) et porte en public le dossier fer Sfaal aux côtés de Thoran.
+Corvyn Valdrak porte l’ordre du Légat sur toute la délégation à la Convention (plafond d’engagement cent mille couronnes, pas de levée d’armée). Il fixe les priorités, délègue à chacun et tranche les conflits. Maren Holt exécute sous sa direction les dossiers militaires et d’armement — dont l’Arguetheim : réception du métal, vérification, remise au haut commandement ; les paiements passent avec Lysa. Maren ne peut pas outrepasser Corvyn. Maren mène aussi les lectures à la Bibliothèque, retrouve la Hanse des Lames (contacts dispersés, un par un) et porte en public le dossier fer Sfaal aux côtés de Thoran.
 
 Thoran Keld renégocie routes et fret (Guilde des Ports Unis, paraphes, entrepôts) et confronte Sfaal sur le dernier chargement. Le Conseil lui a remis une lettre pour relancer les achats discrets d’armes et de matériel vers la Styrgie : Thoran est le seul interlocuteur désigné ; un envoyé secret le contactera à Ulghart au mot « cale close avant l’aube ». Ce fil n’est pas dans le mandat public du Légat.
 
@@ -96,7 +96,7 @@ Saevar Dren tient la sûreté de la délégation, les contacts discrets (Ther-F�
 
 Syndri Ashfeld vous appuiera grâce à ces compétences d'Herboriste. Prennez soin lde lui et il prendra soin de vous.
 
-Brina Lyrd, protégée par votre Oblat, a ses propres raisons d'aller sur Ulghart. Discutez avec elle mais ne la brusquez point. Les druides sont rares, mystérieux, intouchables. C'est un honneur pour vous qu'elle vous accompagne. Elle ne fait pas partie de la délégation, mais il vous paraît nécessaire, voire obligatoire, d'assurer sa sécurité, quand bien même elle vous dit qu'elle n'a vraiment aucun besoin d'aide. Si un malheur lui arrivait, ce ne serait pas simple pour vous.
+Brina Lyrd, protégée par votre Légat, a ses propres raisons d'aller sur Ulghart. Discutez avec elle mais ne la brusquez point. Les druides sont rares, mystérieux, intouchables. C'est un honneur pour vous qu'elle vous accompagne. Elle ne fait pas partie de la délégation, mais il vous paraît nécessaire, voire obligatoire, d'assurer sa sécurité, quand bien même elle vous dit qu'elle n'a vraiment aucun besoin d'aide. Si un malheur lui arrivait, ce ne serait pas simple pour vous.
 
 
 ## Résumé des objectifs
@@ -120,13 +120,13 @@ Brina Lyrd, protégée par votre Oblat, a ses propres raisons d'aller sur Ulghar
 |-----|------|---------|--------|
 | Corvyn Valdrak | Représentant mandaté du Légat, chef de délégation | Voix du Légat à Ulghart ; arbitrage ; banque, Edorian, corruption par étapes. | Clément |
 | Ilara Vandesse | Diplomate | Directrice adjointe à l’UBI ; axe Arthas ; coordination avec Lysa et Corvyn sur le dossier banque. | Margaux |
-| Lysa Morwyn | Trésorière | Mandat coffre Oblat ; contact Gorvan (Dolmen Rouge) ; achat Arguetheim (vente samedi fin de journée max) ; Melian ; archives. | Sirine |
+| Lysa Morwyn | Trésorière | Mandat coffre Légat ; contact Gorvan (Dolmen Rouge) ; achat Arguetheim (vente samedi fin de journée max) ; Melian ; archives. | Sirine |
 | Thoran Keld | Marchand | Routes et fret ; Sfaal ; filière de remplacement ; lettre Styrgie et rendez-vous discret (armes, matériel). | Xavier |
 | Kaelen Voss | Capitaine de frégate | Régate ; équipage ; frégate de Palyr ; bourse des juges (Corvyn). | Christophe |
 | Saevar Dren | Chef de la sécurité | Sûreté ; Ther-Félis ; Tripot et Lira ; contact Tavish. | Robin |
 | Maren Holt | Commandant militaire | Armement et Arguetheim sous Corvyn ; Hanse des Lames ; fer Sfaal ; Bibliothèque. | Romain |
-| Syndri Ashfeld | Herboriste | Objet magique lié à Edorian et au coffre de Palyr. | Tom |
-| Brina Lyrd | Druidesse (cairn Lyrd) | Artefact hommes-branchies ; Bibliothèque ; druide confrère ; sœur de l’Oblat de Palyr. | Veronique |
+| Syndri Ashfeld | Herboriste | Objet magique lié à Edorian ? | Tom |
+| Brina Lyrd | Druidesse (cairn Lyrd) | Artefact hommes-branchies ; Bibliothèque ; druide confrère ; sœur du Légat de Palyr. | Veronique |
 
 ---
 

@@ -39,6 +39,7 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Saevar Dren |
 | Joueur | Robin |
+| E-mail joueur | robin.kc831@gmail.com |
 | Rôle dans le groupe | Chef de la sécurité — officier de renseignement |
 | Classe / profession | Guerrier |
 | Compétences | Pugilat (8) ; Torture |
@@ -47,9 +48,9 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Doublons (or) | 100 |
+| Argent | 50 couronnes |
 | Dette au Tripot (Lira) | 2 422 couronnes — montant exact connu de toi et du Tripot ; les autres PJ ignorent le chiffre |
-| Pugilat | 3 |
+| Pugilat | 8 |
 
 ## Apparence et caractère
 

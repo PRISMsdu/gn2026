@@ -46,7 +46,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Doublons (or) | 100 |
+| Argent | 50 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -110,14 +110,14 @@ Tu commandes la frégate de Palyr pour le voyage, le mouillage et les convois é
 
 ## Objectifs prioritaires
 
-- Régate : entraîner les membres de la délégation sur un petit navire de course, choisir ton équipage, gagner l'épreuve pour le prestige de Palyr. Corvyn t'a remis une bourse pour les juges en dernier recours ; si cela fuite, c'est Palyr qui porte le scandale.
+- Régate : entraîner les membres de la délégation sur un petit navire de course, choisir ton équipage, gagner l'épreuve pour le prestige de Palyr. Corvyn peut te remettre une bourse pour les juges en dernier recours ; si cela fuite, c'est Palyr qui porte le scandale.
 - Frégate : maintenir le navire en état de voyage et de convoi jusqu'au retour à Palyr.
-- Coordination quai : travailler avec Thoran sur les créneaux d'accostage et avec Saevar sur la discipline de l'équipage à terre.
+- Coordination quai : travailler Saevar sur la discipline de l'équipage à terre.
 
 # Connaissances
 
 ## Régate — juges et prestige
-Corvyn t'a remis une bourse scellée pour soudoyer les juges si la course se joue au coude à coude. Tu préfères gagner par la voile et l'entraînement. Si tu utilises l'argent, tu le fais sans témoin et sans trace sur les registres de la délégation. Si cela fuite, Palyr porte le scandale en séance, pas toi seul.
+Corvyn a une bourse pour soudoyer les juges si la course se joue au coude à coude. Tu préfères gagner par la voile et l'entraînement. Si tu utilises l'argent, tu le fais sans témoin et sans trace sur les registres de la délégation. Si cela fuite, Palyr porte le scandale en séance, pas toi seul.
 
 ## Équipage de course et discipline
 

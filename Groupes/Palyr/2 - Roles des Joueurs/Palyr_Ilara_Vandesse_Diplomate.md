@@ -47,7 +47,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Doublons (or) | 100 |
+| Argent | 150 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère

@@ -47,6 +47,8 @@ Bonjour {Joueur},
 
 Tu trouveras ton role en piece jointe.
 
+Pas mal d'informations complementaires suivront encore sur le Drive ou par mail, mais cette premiere version te permet deja de bien prendre en main le personnage, ses objectifs et ses principaux liens de jeu.
+
 Bonne lecture,
 Sebastien
 '@

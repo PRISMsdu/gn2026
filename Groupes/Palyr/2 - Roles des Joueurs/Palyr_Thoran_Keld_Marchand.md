@@ -46,7 +46,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | armes courtes, épée |
 | Armure autorisée | Cuir maximum |
-| Doublons (or) | 100 |
+| Argent | 200 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -80,9 +80,9 @@ Tu travailles sur les contrats de certification. Les épreuves en atelier permet
 
 ## Voix commerciale de Palyr à la Convention
 
-Le Conseil de Palyr te confie la représentation commerciale sur les dossiers minerai et armement. Tu travailles les contrats avec Sfaal, tu portes les positions de Palyr en commission économique et tu représentes la cité dans les négociations sur les barèmes confédéraux d'approvisionnement.
+Le Conseil de Palyr te confie la représentation commerciale à la Bourse des échanges, pendant la Régate. Ta mission principale est de renégocier les routes marchandes de Palyr pour les cinq années à venir : mentions de ligne sur les connaissements, quotas d'escale, droits de passe, tarifs de quai et conditions de fret. Le minerai et l'armement comptent, mais ils s'inscrivent dans ce cadre plus large : si Palyr perd une route ou accepte un mauvais barème, les forges paieront l'erreur pendant tout le prochain cycle.
 
-Si la confrontation avec Sfaal tourne mal, tu dois chiffrer les conséquences : route empruntée, connaissements, transbordements, livraison fractionnée et délais. Tu ne promets pas une nouvelle source de minerai sans mandat de Corvyn. Tu établis ce que la rupture du contrat Sfaal coûterait à Palyr.
+Tu travailles les contrats avec Sfaal, tu portes les positions de Palyr en commission économique et tu prépares les articles que Palyr devra faire inscrire à l'acte de clôture. Si la confrontation avec Sfaal tourne mal, tu dois chiffrer les conséquences : route empruntée, connaissements, transbordements, livraison fractionnée et délais. Tu ne promets pas une nouvelle source de minerai sans mandat de Corvyn. Tu établis ce que la rupture du contrat Sfaal coûterait à Palyr.
 
 Kaelen Voss tient la mer et la régate. Toi, tu travailles les contrats de fret. La Guilde des Ports Unis peut fournir des informations pratiques ; elle ne signe pas les contrats à la place des cités, mais tu sais qu'elle peut vendre des informations intéressantes.
 
@@ -90,9 +90,9 @@ Le Conseil te remet aussi la lettre STY-547-PAL-THO-01. Elle relance des achats 
 
 ## Convention d'Ulghart
 
-À Ulghart, tu gardes trois dossiers séparés. Le fer Sfaal se traite avec pièces, témoins et chaîne de transport. La régate reste le dossier de Kaelen Voss. La lettre Styrgie reste hors mandat public.
+À Ulghart, tu gardes trois dossiers séparés. Le premier est public et central : la Bourse des échanges. Tu dois arriver à la séance plénière du samedi soir avec des routes, des quotas, des droits de passe et des tarifs défendables pour Palyr. Le fer Sfaal se traite avec pièces, témoins et chaîne de transport, mais il sert aussi à peser sur ces négociations de routes. La régate reste le dossier de Kaelen Voss. La lettre Styrgie reste hors mandat public.
 
-Tu peux fournir des informations de quai à Kaelen Voss, mais tu ne choisis pas l'équipage. Tu peux parler de routes et de fret avec la Guilde des Ports Unis, mais Palyr doit négocier elle-même ses engagements. Tu rencontres l'envoyé styrgien seul, si le mot de passe est donné.
+Tu peux fournir des informations de quai à Kaelen Voss, mais tu ne choisis pas l'équipage. Tu peux parler de routes et de fret avec la Guilde des Ports Unis, utiliser ses salles et obtenir sa lecture des barèmes, mais Palyr doit négocier elle-même ses engagements avec les autres cités. Tu rencontres l'envoyé styrgien seul, si le mot de passe est donné.
 
 ## Réseau dans la délégation
 
@@ -110,12 +110,13 @@ Ilara travaille un axe Arthas côté banque. Tu ne reprends pas ce dossier.
 
 ## Ton rôle au quotidien
 
-Tu négocies routes, fret, contrats de minerai et positions en commission économique.
+Tu es le négociateur de Palyr pour la Bourse des échanges. Ton travail quotidien est de renégocier les routes marchandes, le fret, les quotas d'escale, les droits de passe, les tarifs de quai, les contrats de minerai et les positions de Palyr en commission économique.
 
 ## Objectifs prioritaires
 
+- Bourse des échanges : obtenir pour Palyr des routes marchandes et des barèmes de fret favorables pour le prochain cycle ; préparer ce qui doit être inscrit à l'acte de clôture du samedi soir.
 - Incident Sfaal : confronter Sfaal sur le dernier chargement. Établir où la chaîne a rompu sans accuser à vide en séance plénière.
-- Routes et fret : établir ce que la crise Sfaal change sur les connaissements, les transbordements, les délais et les coûts pour Palyr.
+- Routes et fret : établir ce que la crise Sfaal change sur les connaissements, les transbordements, les délais et les coûts pour Palyr, puis utiliser ces chiffres dans la négociation.
 - Styrgie — commerce gris : tenir le rendez-vous de la lettre STY-547-PAL-THO-01 avec l'envoyé secret ; reprendre la négociation sur armes et matériel hors registres confédéraux.
 
 
@@ -131,7 +132,7 @@ Le dernier lot de minerai de Sfaal portait les sceaux conformes d'origine et de 
 
 ## Routes et Guilde des Ports Unis
 
-La Guilde des Ports Unis est un interlocuteur reconnu sur les pratiques de quai, les rotations d'équipes, les consignes de manutention et la lecture des barèmes. Elle ne signe pas l'acte de clôture et ne négocie pas les contrats à la place des cités. Tu l'approches pour obtenir des informations pratiques, pas pour engager Palyr.
+La Bourse des échanges fixe les routes marchandes, les quotas d'escale, les droits de passe, les tarifs de quai et les mentions de ligne pour cinq ans. La Guilde des Ports Unis est un interlocuteur reconnu sur les pratiques de quai, les rotations d'équipes, les consignes de manutention et la lecture des barèmes. Elle ne signe pas l'acte de clôture et ne négocie pas les contrats à la place des cités. Tu l'approches pour obtenir des informations pratiques, pas pour engager Palyr.
 
 ## Styrgie — réapprovisionnement discret
 

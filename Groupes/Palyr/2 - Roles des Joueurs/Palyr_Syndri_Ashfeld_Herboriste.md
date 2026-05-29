@@ -36,6 +36,7 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Syndri Ashfeld |
 | Joueur | Tom |
+| E-mail joueur | tom.lafenetre@gmail.com |
 | Rôle dans le groupe | Herboriste mandaté par le Conseil de Palyr |
 | Classe / profession | Herboriste |
 | Compétences | Chirurgie |
@@ -45,7 +46,7 @@ Epopée en Krondaar
 | Armes autorisées | voir règles hérbo |
 | Armure autorisée | Cuir maximum |
 | Remarques | Soins de la délégation ; prévention des poisons ; enquête herboriste sur les réserves anciennes de l'UBI. |
-| Doublons (or) | 100 |
+| Argent | 300 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère

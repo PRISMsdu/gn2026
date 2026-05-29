@@ -47,7 +47,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Doublons (or) | 100 |
+| Argent | 250 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -121,7 +121,7 @@ Saevar est au Tripot. Il est accro au jeu. Sa présence au casino et ses contact
 
 Melian est fragile. Tu lui as promis une protection que tu n'es pas certaine de pouvoir tenir si les deux missions entrent en collision. Tu gardes ce problème pour toi.
 
-Corvyn Valdrak porte le mandat général des Oblats sur la délégation ; Maren exécute l'armement sous sa direction. Tu portes le contact avec Gorvan ton contact marchand, la vente et les papiers ; Maren réceptionne pour le haut commandement avec le visa de Corvyn.
+Corvyn Valdrak porte le mandat général du Légat sur la délégation ; Maren exécute l'armement sous sa direction. Tu portes le contact avec Gorvan ton contact marchand, la vente et les papiers ; Maren réceptionne pour le haut commandement avec le visa de Corvyn.
 
 ---
 
@@ -148,7 +148,7 @@ Selvara tient les codes des chambres closes et les registres des coffres à la b
 
 Tu possèdes un registre historique du coffre palyrien à l'UBI. Il liste les pièces importantes déposées par Palyr : contrats de livraison, accords discrets, correspondances politiques, reconnaissances de dette et actes que le Conseil ne veut pas voir lus par Il-Irion. Le registre ne remplace pas les codes de l'UBI, mais il te dit quoi demander, quoi vérifier, et quoi retirer en premier.
 
-Les pièces les plus dangereuses sont celles qui peuvent prouver une manœuvre hors mandat public, exposer un partenaire de Palyr, ou donner à une autre cité un moyen de pression pendant la passation. Tu ne viens pas vider le coffre au hasard. Tu viens récupérer les pièces que le registre classe en priorité haute avant que la banque ne ferme ou ne change de main.
+Les pièces les plus dangereuses sont celles qui peuvent prouver une manœuvre hors mandat public, exposer un partenaire de Palyr, ou donner à une autre cité un moyen de pression pendant la passation. Tu ne viens pas vider le coffre au hasard. Tu viens récupérer les pièces que le registre classe en priorité haute avant que la banque ne ferme ou ne change de main. Normalement elles sont dans les coffres privés de Palyr.
 
 ## Horgrim Dval — chef de la garde (UBI)
 

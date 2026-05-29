@@ -33,6 +33,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Vorak Ironhand |
+| Joueur | Eric Ferrière |
+| E-mail joueur | ferrieres.eric@gmail.com |
 | Rôle dans le groupe | Second — coordinateur opérationnel |
 | Classe / profession | Guerrier |
 | Compétences | Transe ; Torture |
@@ -41,8 +43,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Maître des Entrepôts (Guilde) ; ne pas mélanger sur le terrain les filières Tripot, Staal et quai. |
-| Doublons (or) | 100 |
+| Remarques | Couverture visible : Maître des Entrepôts dans la Guilde des Ports Unis ; ne pas mélanger sur le terrain les filières Tripot, Staal et quai. |
+| Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -76,7 +78,7 @@ Tu es monté en grade dans les Loups Gris : routes intérieures de la Républiqu
 
 Tu as coordonné le scandale de Staal côté rue. Tu avais positionné des informateurs, préparé les couloirs et fixé le moment de la sortie publique des pièces. Quand la rumeur a éclaté, le calendrier était le tien. Tu as monté à cette occasion le réseau d'informateurs que les Sangs utilisent encore aujourd'hui.
 
-Tu es devenu Maître des Entrepôts dans la Guilde des Ports Unis. Cette charge te donne accès aux stocks, aux registres de transit et aux hommes qui chargent et déchargent sans poser de questions.
+Tu es devenu Maître des Entrepôts dans la Guilde des Ports Unis. C'est ton métier visible : tu peux parler de stocks, de registres de transit et de manutention devant un délégué sans révéler les Sangs. Cette charge te donne accès aux hommes qui chargent et déchargent sans poser de questions.
 
 ## Second — opérations et fenêtres
 
@@ -102,7 +104,7 @@ Depuis, silence complet. Pas de rapport au quai, aucun survivant qui repasse par
 
 ## Ton rôle au quotidien
 
-Tu cadences les opérations, tu réaffectes hommes et itinéraires quand un site se ferme, tu remontes à Kaelan ce qui bloque.
+Tu cadences les opérations, tu réaffectes hommes et itinéraires quand un site se ferme, tu remontes à Kaelan ce qui bloque. En public, tu agis comme Maître des Entrepôts : contrôle des stocks, horaires de chargement, accès aux magasins et aux registres.
 
 ## Objectifs prioritaires
 

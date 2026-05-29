@@ -40,6 +40,8 @@ param(
 
   [string] $PandocPath = "",
 
+  [string] $BlasonPath = "",
+
   [string] $CartoucheTitre = "GN Celtiana 2026 Krondaar - Ulghart : six morts"
 )
 
@@ -275,21 +277,29 @@ $cssHref = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $cssRe
 $bandeauSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $bandeauResolved
 $logoSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $logoResolved
 
-# Blason de groupe : chercher Blason_*.png|jpg|jpeg|webp dans le même répertoire que le .md
-$blasonPath = $null
-foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
-  $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
-    Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
-    Select-Object -First 1
-  if ($found) { $blasonPath = $found.FullName; break }
+# Blason de groupe : utiliser -BlasonPath si fourni, sinon chercher Blason_*.png|jpg|jpeg|webp dans le même répertoire que le .md
+$resolvedBlasonPath = $null
+if (-not [string]::IsNullOrWhiteSpace($BlasonPath)) {
+  if (-not (Test-Path -LiteralPath $BlasonPath)) {
+    Write-Error "BlasonPath introuvable : $BlasonPath"
+  }
+  $resolvedBlasonPath = (Resolve-Path -LiteralPath $BlasonPath).Path
+}
+else {
+  foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
+    $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
+      Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
+      Select-Object -First 1
+    if ($found) { $resolvedBlasonPath = $found.FullName; break }
+  }
 }
 
-if ($blasonPath -and ([regex]'(?s)<h1[^>]*>').IsMatch($bodyInner)) {
-  $blasonPrint = Optimize-ExportImageForPrint -SourcePath $blasonPath -MaxEdgePx 192 -CacheDir $exportImageCacheDir
+if ($resolvedBlasonPath -and ([regex]'(?s)<h1[^>]*>').IsMatch($bodyInner)) {
+  $blasonPrint = Optimize-ExportImageForPrint -SourcePath $resolvedBlasonPath -MaxEdgePx 192 -CacheDir $exportImageCacheDir
   $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
   $blasonImg = "<img src=""$blasonSrc"" class=""blason-titre"" alt=""Blason du groupe"" />"
   # Injection immédiatement après la balise ouvrante <h1> (première occurrence seulement)
-  $bodyInner = [regex]::Replace($bodyInner, '(<h1[^>]*>)', "`$1$blasonImg", 1)
+  $bodyInner = ([regex]'(<h1[^>]*>)').Replace($bodyInner, "`${1}$blasonImg", 1)
 }
 
 $shell = Get-Content -Path $shellPath -Raw -Encoding UTF8

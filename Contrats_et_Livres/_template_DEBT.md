@@ -1,6 +1,6 @@
 # [CODE] — Template de contrat de dette
 
-Remplacez `[CODE]` par le **code pièce** `DE-R-YYY-NNN` attribué dans `Registre_UBI.md` (ex. `DE-II-546-001`).
+Remplacez `[CODE]` par le **code pièce** `DE-R-YYY-NNN` attribué dans `Registre_UBI_Orga.md` (ex. `DE-II-546-001`).
 
 ## En-tête
 ```

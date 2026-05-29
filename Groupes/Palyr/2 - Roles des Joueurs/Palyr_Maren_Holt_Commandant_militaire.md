@@ -46,7 +46,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Mandat Arguetheim ; Bureau des Lignes ; responsabilité des Cinq Feux ; porte-parole public du dossier fer Sfaal. |
-| Doublons (or) | 100 |
+| Argent | 100 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère

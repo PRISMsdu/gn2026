@@ -1,6 +1,6 @@
 # [CODE] — Template de contrat commercial
 
-Remplacez `[CODE]` par le **code pièce** `CO-R-YYY-NNN` attribué dans `Registre_UBI.md` (ex. `CO-II-545-001`).
+Remplacez `[CODE]` par le **code pièce** `CO-R-YYY-NNN` attribué dans `Registre_UBI_Orga.md` (ex. `CO-II-545-001`).
 
 ## En-tête
 ```

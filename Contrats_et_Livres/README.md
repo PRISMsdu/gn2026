@@ -30,7 +30,7 @@ Créez une copie du template avec un nouveau nom suivant la convention :
 ```
 [CODE].md
 ```
-où `[CODE]` suit le format **`TT-R-YYY-NNN`** décrit dans `Registre_UBI.md` (deux lettres de type, criticité romaine **I** à **IV**, année in-univers sur trois chiffres, numéro séquentiel **global dans l’année** sur trois chiffres), **unique** dans tout le dossier — à réserver dans `Registre_UBI.md` *avant* de figer le fichier (y compris si le document est antidaté in-univers).
+où `[CODE]` suit le format **`TT-R-YYY-NNN`** décrit dans `Registre_UBI_Orga.md` (deux lettres de type, criticité romaine **I** à **IV**, année in-univers sur trois chiffres, numéro séquentiel **global dans l’année** sur trois chiffres), **unique** dans tout le dossier — à réserver dans `Registre_UBI_Orga.md` *avant* de figer le fichier (y compris si le document est antidaté in-univers).
 
 Exemples :
 - `CO-II-545-001.md` (contrat commercial)
@@ -194,7 +194,7 @@ L'IA pourra alors créer un contrat en s'inspirant des exemples existants (`CO-I
 - **Témoins** : Liste des témoins (optionnel)
 
 ### Fichiers pièces
-- Chaque document publié dans ce dossier porte un nom **`[CODE].md`** avec **`[CODE]`** au format **`TT-R-YYY-NNN`**, attribué dans `Registre_UBI.md` (**`YYY`** = année du dépôt ; **`NNN`** = rang dans l’année, compteur global par année — voir registre).
+- Chaque document publié dans ce dossier porte un nom **`[CODE].md`** avec **`[CODE]`** au format **`TT-R-YYY-NNN`**, attribué dans `Registre_UBI_Orga.md` (**`YYY`** = année du dépôt ; **`NNN`** = rang dans l’année, compteur global par année — voir registre).
 
 ## 📚 Références
 
@@ -208,15 +208,15 @@ Pour voir des exemples de contrats remplis, consultez :
 2. **Conservez la structure** : Respectez la structure des sections pour maintenir la cohérence
 3. **Variables obligatoires** : Certaines variables sont essentielles (dates, noms, montants) - ne les oubliez pas
 4. **Clause standardisée** : La section "De la Loi et de l'Honneur" doit rester identique dans tous les contrats
-5. **Enregistrement** : Après création, enregistrez le contrat dans le `Registre_UBI.md` (voir section ci-dessous)
+5. **Enregistrement** : Après création, enregistrez le contrat dans le `Registre_UBI_Orga.md` (voir section ci-dessous)
 
 ## 📝 Enregistrement dans le Registre UBI
 
-Après avoir créé un contrat, il est **obligatoire** de l'enregistrer dans le `Registre_UBI.md` pour qu'il soit officiellement reconnu et archivé par l'Union Bancaire d'Il-Irion.
+Après avoir créé un contrat, il est **obligatoire** de l'enregistrer dans le `Registre_UBI_Orga.md` pour qu'il soit officiellement reconnu et archivé par l'Union Bancaire d'Il-Irion.
 
-### Étape 1 : Déterminer le numéro d'enregistrement (code pièce)
+### Étape 1 : Déterminer la référence (code pièce)
 
-Le **n° d’enregistrement** est le **code pièce** `TT-R-YYY-NNN`, **identique au nom du fichier** (sans `.md`) — voir `Registre_UBI.md` :
+La **référence** est le **code pièce** `TT-R-YYY-NNN`, **identique au nom du fichier** (sans `.md`) — voir `Registre_UBI_Orga.md` :
 - **`YYY`** : année in-univers du dépôt (colonne *Date de Dépôt*).
 - **`NNN`** : rang **global dans l’année** (001, 002, …) : comptez combien de pièces sont déjà enregistrées pour cette année dans le tableau, puis attribuez le suivant.
 - Exemples existants : `CO-II-545-001`, `DE-II-546-001`, `CP-III-542-001`.
@@ -238,21 +238,20 @@ Ajoutez une nouvelle ligne dans le tableau principal du registre avec les inform
 
 | Colonne | Description | Exemple |
 |---------|-------------|---------|
-| **N° Enregistrement** | Code pièce `TT-R-YYY-NNN` (= nom de fichier sans `.md`) | `CP-III-542-001` |
+| **Références** | Code pièce `TT-R-YYY-NNN` (= nom de fichier sans `.md`) | `CP-III-542-001` |
 | **Type de Document** | Type de contrat | `Contrat commercial`, `Contrat de dette`, `Contrat d'alliance`, etc. |
 | **Parties Impliquées** | Cités/familles concernées | `Sfaal ↔ Palyr`, `Il-Irion ↔ Palyr` |
 | **Description du Contenu** | Résumé du contrat | `Fourniture de 10 tonnes d'acier pour 1 500 couronnes` |
-| **Déposé par** | Nom du représentant qui dépose | `Duc de Sfaal`, `Seigneur Aldric Ventoss` |
-| **Date de Dépôt** | Date de signature du contrat | `545`, `546` |
-| **Criticité** | Niveau de sensibilité | `🟡 Sensible`, `🟠 Très Sensible`, etc. |
-| **Statut** | État du document | `Actif` (en vigueur), `Archivé` (terminé) |
+| **Déposé par** | Nom du représentant et partie d'origine | `Duc Thoren Forgefer (Sfaal)`, `Seigneur Aldric Ventoss (Il-Irion)` |
+| **Date de Dépôt** | Date au format `YYY-MM-DD`, avec mois en chiffres romains | `545-IV-21`, `546-XI-03` |
+| **Criticité** | Niveau de sensibilité en chiffres romains | `I`, `II`, `III`, `IV` |
 
 ### Exemple d'enregistrement
 
 Pour un contrat de protection `PR-II-546-008.md` entre Palyr et Il-Irion (exemple : **huitième** pièce recensée pour l’an **546** au global) :
 
 ```
-| PR-II-546-008 | Contrat de protection | Palyr ↔ Il-Irion | Protection des chantiers navals de Palyr par 10 gardes d'Il-Irion pour 6 mois, 500 pièces d'or | Légat Kaelen Forgefer | 546 | 🟡 Sensible | Actif |
+| PR-II-546-008 | Contrat de protection | Palyr ↔ Il-Irion | Protection des chantiers navals de Palyr par 10 gardes d'Il-Irion pour 6 mois, 500 pièces d'or | Légat Kaelen Forgefer (Palyr) | 546-XI-08 | II |
 ```
 
 ### Format du prompt pour l'enregistrement
@@ -264,10 +263,9 @@ Enregistre le contrat PR-II-546-008 dans le registre UBI.
 - Type : Contrat de protection
 - Parties : Palyr ↔ Il-Irion
 - Description : Protection des chantiers navals de Palyr par 10 gardes d'Il-Irion pour 6 mois, 500 pièces d'or
-- Déposé par : Légat Kaelen Forgefer
-- Date : 546
-- Criticité : 🟡 Sensible
-- Statut : Actif
+- Déposé par : Légat Kaelen Forgefer (Palyr)
+- Date : 546-XI-08
+- Criticité : II
 ```
 
 Ou plus simplement :
@@ -282,9 +280,8 @@ L'IA extraira automatiquement les informations nécessaires du contrat créé.
 
 - **Tous les contrats doivent être enregistrés** : C'est une obligation pour la traçabilité
 - **Numérotation dans l’année** : respectez le compteur **`NNN`** global par année (voir registre)
-- **Criticité par défaut** : Si non spécifiée, utilisez `🟡 Sensible` pour la plupart des contrats
-- **Statut initial** : Les nouveaux contrats sont généralement `Actif`
-- **Mise à jour** : Si un contrat expire ou est résilié, changez son statut en `Archivé`
+- **Criticité par défaut** : Si non spécifiée, utilisez `II` pour la plupart des contrats.
+- **Date de dépôt** : utilisez le format `YYY-MM-DD`, par exemple `545-IV-21`.
 
 ## 🔍 Liste des variables par template
 

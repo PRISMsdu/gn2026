@@ -33,6 +33,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Kaelan Thormane |
+| Joueur | Mathieu Lescure |
+| E-mail joueur | smartieu@hotmail.com |
 | Rôle dans le groupe | Chef de famille — leader des Sangs de la Steppe |
 | Classe / profession | Guerrier |
 | Compétences | Egorgement ; Pugilat ; Erudit |
@@ -41,9 +43,9 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Maître des quais (Guilde des Ports Unis) ; interface avec le MiVI quand les ordres d'Elfrion ne passent pas tels quels sur le terrain. |
-| Doublons (or) | 100 |
-| Pugilat | 3 |
+| Remarques | Couverture visible : Maître des quais dans la Guilde des Ports Unis ; interface avec le MiVI quand les ordres d'Elfrion ne passent pas tels quels sur le terrain. |
+| Argent de départ | 500 couronnes |
+| Pugilat | 7 |
 
 ## Apparence et caractère
 
@@ -78,7 +80,7 @@ Il y a environ quinze ans, le réseau qu'on appellera les Sangs de la Steppe s'e
 
 En une dizaine d'années, tu as mené des extorsions et des chantages contre caravanes et grandes familles. Tu es devenu chef de la famille. Au-dehors, on raconte que les Sangs sont une menace tribale venue du nord ; à l'intérieur, tu sais que les ordres, l'argent et le réseau viennent du MiVI, service secret de la Styrgie.
 
-La Guilde des Ports Unis sert de couverture aux Sangs sur les quais. Officiellement, elle publie les routes commerciales, défend les dockers, encadre les chantiers navals. Tu y portes la charge de Maître des quais : voix crédible auprès des dockers et des capitaines, et accès aux commissions où se négocient les routes.
+La Guilde des Ports Unis sert de couverture aux Sangs sur les quais. Officiellement, elle publie les routes commerciales, défend les dockers, encadre les chantiers navals. Tu y portes la charge de Maître des quais : c'est ton métier visible, celui que les délégations et les capitaines peuvent citer sans mentir. Ce poste te donne une voix crédible auprès des dockers et des capitaines, et l'accès aux commissions où se négocient les routes.
 
 ## Dossiers lourds — Valdris, banque, fer
 
@@ -96,7 +98,7 @@ Le Tripot du fort d'Ulghart est le dernier objectif du MiVI sur lequel vous n'av
 
 À Ulghart se croisent la Régate et le renouvellement du conseil de l'UBI. Officiellement, vous êtes la Guilde des Ports Unis. Pour la troisième fois, vous assistez aux échanges sur les postes au conseil sans y intervenir directement, selon l'usage fixé.
 
-Depuis un an, les cinq autres cadres et toi avez détourné plus de dix mille couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie arrangée. Tes leviers : l'or des pirates à récupérer, les documents compromettants accumulés depuis quinze ans, et un rapport interne sur la naissance de la Guilde et des Sangs — celui-ci doit servir à obtenir des quittances écrites du MiVI avant le départ.
+Depuis un an, les cinq autres cadres et toi avez détourné 10'000 couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie arrangée. Tes leviers : l'or des pirates à récupérer, les documents compromettants accumulés depuis quinze ans, et un rapport interne sur la naissance de la Guilde et des Sangs — celui-ci doit servir à obtenir des quittances écrites du MiVI avant le départ.
 
 ---
 
@@ -104,7 +106,7 @@ Depuis un an, les cinq autres cadres et toi avez détourné plus de dix mille co
 
 ## Ton rôle au quotidien
 
-Tu décides et tu signes pour le réseau. Tu portes la discussion avec le MiVI quand les ordres d'Elfrion ne s'appliquent pas sans exposer la Guilde. Tu arbitres entre les cinq cadres.
+Tu décides et tu signes pour le réseau. En public, tu parles comme Maître des quais de la Guilde des Ports Unis. En privé, tu portes la discussion avec le MiVI quand les ordres d'Elfrion ne s'appliquent pas sans exposer la Guilde. Tu arbitres entre les cinq cadres.
 
 ## Objectifs prioritaires
 
@@ -125,7 +127,7 @@ Tu décides et tu signes pour le réseau. Tu portes la discussion avec le MiVI q
 
 ## Korran Vesper — Pirates d'Albar
 
-Korran mène l'équipage qui doit remettre l'or de l'affaire du fer. Tu détiens le billet BM-III-546-005 : trois sacs au sceau du corbeau, remise au point convenu après la cloche du second gardien, retard d'une marée qui majore le prix d'un dixième. Raven négocie sur le quai ; tu valides ou tu coupes. Montants attendus : dix mille ducats pour le remplacement en mer ; la vente du fer à Aquiléa devait rapporter cent mille, il en reste environ soixante-quinze après frais. Compte les sacs, confronte au papier, ne signe pas de quitus sans Raven.
+Korran mène l'équipage qui doit remettre l'or de l'affaire du fer. Tu détiens le billet BM-III-546-005 : trois sacs au sceau du corbeau, remise au point convenu après la cloche du second gardien, retard d'une marée qui majore le prix d'un dixième. Raven négocie sur le quai avec Korran ; Garm le Roc sécurise la salle, Miren Ald pèse les sacs et Sera Vane tient l'heure et les signes. Montant attendu : 10'000 couronnes, correspondant à l'argent détourné pendant la substitution du fer Sfaal-Palyr. Compte les sacs, confronte au papier, ne signe pas de quitus sans Raven.
 
 ## Marda Velyss — Tripot (fort d'Ulghart)
 

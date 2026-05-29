@@ -33,6 +33,7 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Shadow (nom de code — identité civile tenue secrète) |
+| Joueur | Stephen |
 | Rôle dans le groupe | Infiltration, extorsion, documents sur élites |
 | Classe / profession | Guerrier |
 | Compétences | Torture ; Erudit |
@@ -41,8 +42,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Couvertures variables (cheveux, lentilles) ; ne pas saturer les mêmes contacts que Raven sans accord. |
-| Doublons (or) | 100 |
+| Remarques | Couverture visible : identités et mandats variables autour de la Guilde des Ports Unis ; ne pas saturer les mêmes contacts que Raven sans accord. |
+| Argent de départ | 100 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -90,6 +91,8 @@ Elle a survécu. Elle s'appelle aujourd'hui Sybrel Dornik et garde les tunnels d
 
 À vingt-huit ans, le réseau t'a recruté pour des missions ponctuelles ; à trente ans, tu as signé comme cadre des Sangs de la Steppe. Tu places des documents compromettants dans les coffres d'élites et tu fais tomber des familles en utilisant leurs propres lettres.
 
+Contrairement à Kaelan, Vorak, Gareth, Drask et Raven, tu ne portes pas une branche unique de la Guilde des Ports Unis. Ta couverture visible change selon la mission : aide de greffe, commis de quai, messager de route, employé d'un entrepôt ou visiteur attaché à un chantier. Cette absence de titre fixe protège ton nom civil, mais elle t'oblige à coordonner chaque approche avec Raven ou Vorak pour ne pas contredire leur version publique.
+
 Il y a six mois, tu as mené une infiltration dans la banque d'Il-Irion dont les rumeurs circulent encore dans le réseau. Vorak fixe le calendrier de tes opérations. Raven tient les rencontres ouvertes sur le quai et dans les parlements. Avant de revoir un même clerc ou un même greffier, vous vous accordez pour qu'aucun de vous deux ne le sollicite le même jour, sinon il se ferme ou il parle à la milice.
 
 ## Tripot — Vestrann et Convention
@@ -108,7 +111,7 @@ Aucune des deux sœurs ne sait que l'homme des toits de 525 et toi êtes la mêm
 
 ## Ton rôle au quotidien
 
-Tu infiltres les coffres et les bureaux, tu fais pression avec des documents volés ou copiés, tu fabriques des fuites que Maître Vaelric Dorn enterre ou relance à l'UBI selon le plan de Kaelan.
+Tu infiltres les coffres et les bureaux, tu fais pression avec des documents volés ou copiés, tu fabriques des fuites que Maître Vaelric Dorn enterre ou relance à l'UBI selon le plan de Kaelan. En public, tu empruntes une couverture de la Guilde des Ports Unis ou d'un service voisin, jamais la même deux fois devant le même témoin.
 
 ## Objectifs prioritaires
 

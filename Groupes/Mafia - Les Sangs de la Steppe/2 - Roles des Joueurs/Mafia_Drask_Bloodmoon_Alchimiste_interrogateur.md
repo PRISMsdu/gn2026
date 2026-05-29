@@ -33,6 +33,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Drask Bloodmoon |
+| Joueur | Luc Zawierta |
+| E-mail joueur | luccio.34@hotmail.fr |
 | Rôle dans le groupe | Alchimiste interrogateur — soins, substances, vérités arrachées |
 | Classe / profession | Clerc (Jorok) |
 | Compétences | Chirurgie ; Secourisme |
@@ -41,8 +43,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Pharmacie du réseau ; cadre des interrogatoires avec Vorak |
-| Doublons (or) | 100 |
+| Remarques | Couverture visible : Maître des Marins dans la Guilde des Ports Unis ; pharmacie du réseau ; cadre des interrogatoires avec Vorak |
+| Argent de départ | 200 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -74,7 +76,7 @@ Tu as servi un chirurgien de garnison dans les marches d'Elfrion : sutures, ampu
 
 Les Sangs t'ont engagé pour ce travail de cellule : obtenir une déclaration utilisable, sans cris qui attirent la milice. Kaelan Thormane t'a fixé une règle stricte : aucune substance sortie de ta pharmacie sans ordre verbal ou écrit du chef ou de Vorak Ironhand. Gareth Ironfist t'amène les hommes à interroger ; toi tu choisis la méthode selon la consigne.
 
-Tu es devenu Maître des Marins dans la Guilde des Ports Unis. Cette charge te donne une couverture crédible sur les quais et l'accès aux cabines des hommes qui reviennent blessés de mer.
+Tu es devenu Maître des Marins dans la Guilde des Ports Unis. C'est ton métier visible : soins des équipages, discipline du syndicat des marins, plaintes de bord et négociation avec les capitaines. Cette charge te donne une couverture crédible sur les quais et l'accès aux cabines des hommes qui reviennent blessés de mer.
 
 ## Travail actuel — pharmacie et interrogatoires
 
@@ -90,6 +92,10 @@ Comme Maître des Marins de la Guilde, tu reçois sur les quais les hommes rentr
 
 Le réseau arrive à Ulghart pour la Régate et le renouvellement du conseil de l'UBI. Le MiVI attend des comptes sur le fer détourné et sur les objectifs en retard. Avec les cinq autres cadres, vous préparez une sortie négociée plutôt qu'une fuite.
 
+Pour aborder le fort d'Ulghart, il faut passer par un canal dangereux. Seuls quelques capitaines formés ont le droit de faire cette route, car ils connaissent les courants, les hauts-fonds et les manœuvres de passage. Ces capitaines dépendent du syndicat des marins que tu diriges. Ils sont mécontents de leur traitement et parlent de grève depuis plusieurs semaines. Tu penses qu'elle peut éclater pendant la Convention.
+
+Cette colère est une opportunité. Si les capitaines du canal arrêtent les passages, les délégations, les messagers et les fuyards restent bloqués sur le site. Tu peux utiliser la grève pour faire pression sur les délégations, négocier de meilleures conditions pour les marins, ou garantir qu'un témoin ne quitte pas Ulghart avant que Kaelan ait décidé quoi faire de lui.
+
 Tu n'es pas le négociateur face à Elfrion : c'est Kaelan, parfois Raven. Toi, tu fournis les pièces que tu sais produire : ce qu'un homme a déclaré sous substance, ce qu'une fiole a révélé sur un greffier nerveux. Si le MiVI demande pourquoi un interrogatoire a échoué, tu réponds en grammes administrés et en minutes écoulées.
 
 ---
@@ -98,13 +104,14 @@ Tu n'es pas le négociateur face à Elfrion : c'est Kaelan, parfois Raven. Toi, 
 
 ## Ton rôle au quotidien
 
-Tu tiens la pharmacie du réseau et tu cadres les interrogatoires avec Vorak. Tu ne sors aucune substance par initiative personnelle.
+Tu tiens la pharmacie du réseau et tu cadres les interrogatoires avec Vorak. En public, tu agis comme Maître des Marins de la Guilde des Ports Unis : soins, discipline, plaintes d'équipage et capitaines du canal. Tu ne sors aucune substance par initiative personnelle.
 
 ## Objectifs prioritaires
 
 - Préparer et administrer sédations, antidotes et substances de vérité selon consigne de Kaelan ou Vorak.
 - Documenter les aveux utiles au MiVI sans signer ton nom sur des étiquettes qui circulent seules.
 - Recouper, quand on te le demande, les signes physiques sur les dossiers UBI (stress, traces, incohérences de récit).
+- Exploiter la grève possible des capitaines du canal d'Ulghart : faire pression sur les délégations, négocier pour les marins, ou bloquer une fuite hors du fort.
 - Soutenir la préparation de la retraite du réseau : ce que tu sais sur les hommes tenus au secret compte dans la négociation avec les styriens.
 
 ## Informations sensibles

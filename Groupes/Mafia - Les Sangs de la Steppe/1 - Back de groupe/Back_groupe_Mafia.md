@@ -132,12 +132,12 @@ Vous tenez un rapport interne sur la naissance de la Guilde des Ports Unis et le
 
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
-| Kaelan Thormane | Chef de famille | Grandes décisions ; interface avec la ligne Elfrion / MiVI | *Joueur* |
-| Vorak Ironhand | Second / coordinateur | Opérations majeures, cellules, relais | *Joueur* |
-| Gareth Ironfist | Homme de main | Intimidation, protection, règlements | *Joueur* |
-| Drask Bloodmoon | Alchimiste interrogateur | Soins, substances, interrogatoires | *Joueur* |
-| Shadow | Infiltrateur et expert en extorsion | Renseignement, infiltration, chantage, documents *(nom de code)* | *Joueur* |
-| Raven | Maître des réseaux et négociateur | Informateurs, parlement, extérieur ; remises avec Korran Vesper (pirates) | *Joueur* |
+| Kaelan Thormane | Chef de famille | Grandes décisions ; interface avec la ligne Elfrion / MiVI | Mathieu Lescure |
+| Vorak Ironhand | Second / coordinateur | Opérations majeures, cellules, relais | Eric Ferrière |
+| Gareth Ironfist | Homme de main | Intimidation, protection, règlements | Olivier Ledreux |
+| Drask Bloodmoon | Alchimiste interrogateur | Soins, substances, interrogatoires | Luc Zawierta |
+| Shadow | Infiltrateur et expert en extorsion | Renseignement, infiltration, chantage, documents *(nom de code)* | Stephen |
+| Raven | Maître des réseaux et négociateur | Informateurs, parlement, extérieur ; remises avec Korran Vesper (pirates) | Sylvain Biosca |
 
 ---
 

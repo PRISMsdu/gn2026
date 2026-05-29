@@ -1,19 +1,19 @@
 <!--
   Pièce joueur — remise à Corvyn Valdrak (chef de délégation).
   Contexte orga : `Intrigues/Intrigue_Palyr.md` (mandat collectif Convention).
-  Mandat coffre UBI (Lysa) : `Ordre_mandat_Oblat_Palyr_Lysa_Morwyn.md` — complémentaire, non substituable.
-  Nom de fichier conservé pour les liens du dépôt ; l’objet du mandat est la délégation entière, pas seule l’Arguetheim.
+  Mandat coffre UBI (Lysa) : `Ordre_mandat_Legat_Palyr_Lysa_Morwyn.md` — complémentaire, non substituable.
+  L’objet du mandat est la délégation entière, pas seule l’Arguetheim.
   Export PDF : `Scripts/export_doc.ps1` — blason `Blason_Palyr_+.png` (même dossier).
-  InstitutionLigne : Cité de Palyr — Oblat de Palyr
+  InstitutionLigne : Cité de Palyr — Légat de Palyr
 -->
 
-# Lettres d’ordre du Conseil des Oblats de la Confédération
+# Lettres d’ordre de la cité de Palyr
 
 ### Mandat de la cité de Palyr — délégation à la Convention d’Ulghart (an 547)
 
-**Émetteur** : Oblat de Palyr, agissant au titre du mandat confédéral de la cité.  
-**Greffe** : chancellerie des Oblats — bureau de Palyr, registre des commissions et dépôts inter-cités.  
-**Référence** : ORD-OBL-PAL-547-DEL-COR-01
+**Émetteur** : Légat de Palyr, agissant au titre du mandat confédéral de la cité.  
+**Greffe** : chancellerie de Palyr — bureau du Légat, registre des commissions et dépôts inter-cités.  
+**Référence** : ORD-LEG-PAL-547-DEL-COR-01
 
 ---
 
@@ -21,11 +21,11 @@
 
 ---
 
-Le Conseil de la cité de Palyr et le Grand Légat ont saisi l’Oblat de Palyr à l’occasion de la Convention de l’an 547 : régate, renouvellement du conseil de l’Union bancaire d’Il-Irion, négociations entre cités, contrats de fret et d’armement, archives en coffre, et dossiers ouverts par le haut commandement confédéral.
+Le Conseil de la cité de Palyr et le Grand Légat ont préparé ce mandat à l’occasion de la Convention de l’an 547 : régate, renouvellement du conseil de l’Union bancaire d’Il-Irion, négociations entre cités, contrats de fret et d’armement, archives en coffre, et dossiers ouverts par le haut commandement confédéral.
 
 Le Conseil entend donner à la délégation un cadre légal unique : une direction claire, des pouvoirs suffisants pour conclure sur place, et des limites que les greffes du fort et de l’UBI peuvent vérifier.
 
-Sur avis de dame Lysa Morwyn, trésorière mandatée *(ordre ORD-OBL-PAL-547-COF-LYS-03 sur le coffre délégué)*, et conformément aux instructions du Conseil, l’Oblat de Palyr investit messire Corvyn Valdrak du mandat ci-dessous.
+Sur avis de dame Lysa Morwyn, trésorière mandatée *(ordre ORD-LEG-PAL-547-COF-LYS-03 sur le coffre délégué)*, et conformément aux instructions du Conseil, le Légat de Palyr investit messire Corvyn Valdrak du mandat ci-dessous.
 
 ---
 
@@ -53,7 +53,7 @@ Sans limiter les instructions particulières remises sous pli scellé par le Con
 
 - **Alliances et accords** : consolidation des accords préparés avec Arthas et tout autre partenaire que le Conseil a désigné avant le départ.
 
-Les fils non inscrits au mandat public du Légat — courriers particuliers, canaux discrets remis à un seul membre de la délégation — ne sont pas couverts par le seul présent ordre, sauf visa écrit ultérieur de l’Oblat ou du Conseil.
+Les fils non inscrits au mandat public du Légat — courriers particuliers, canaux discrets remis à un seul membre de la délégation — ne sont pas couverts par le seul présent ordre, sauf visa écrit ultérieur du Légat ou du Conseil.
 
 ---
 
@@ -79,7 +79,7 @@ Tout mandataire rend compte sans retard au chef de délégation. Un acte contrai
 
 ### Article troisième bis — Brina Lyrd, druidesse du cairn Lyrd
 
-Brina Lyrd, druidesse du cairn Lyrd sur l’île de Palyr et sœur de l’Oblat de Palyr, voyage avec la délégation à la demande du Conseil et de l’Oblat. Elle n’est pas membre de la délégation au sens des mandats du Légat. Sa présence est un honneur pour Palyr et pour la mission.
+Brina Lyrd, druidesse du cairn Lyrd sur l’île de Palyr et sœur du Légat de Palyr, voyage avec la délégation à la demande du Conseil et du Légat. Elle n’est pas membre de la délégation au sens des mandats du Légat. Sa présence est un honneur pour Palyr et pour la mission.
 
 Messire Corvyn Valdrak et l’ensemble des mandataires nommés aux articles précédents sont tenus de protéger Brina Lyrd pendant le trajet, le séjour au fort d’Ulghart et le retour, au même titre que les membres officiels de la délégation.
 
@@ -93,9 +93,9 @@ Cette obligation ne prime pas les objectifs confiés au présent mandat lorsque 
 
 Messire Corvyn Valdrak peut engager la cité de Palyr, par contrat, reconnaissance, acompte ou règlement, dans la limite cumulée de cent mille couronnes *(100 000 po)* pour l’ensemble des opérations conclues au titre du présent mandat pendant la Convention.
 
-Au-delà de ce plafond, ou pour une seule opération excédant vingt-cinq mille couronnes, il faut un visa complémentaire de l’Oblat de Palyr ou une délibération du Conseil de la cité transmise au greffe avant exécution.
+Au-delà de ce plafond, ou pour une seule opération excédant vingt-cinq mille couronnes, il faut un visa complémentaire du Légat de Palyr ou une délibération du Conseil de la cité transmise au greffe avant exécution.
 
-Les mouvements sur le coffre délégué de Palyr à l’UBI restent soumis à l’ordre ORD-OBL-PAL-547-COF-LYS-03. Dame Lysa Morwyn signe ou contresigne les paiements qui en découlent. Messire Corvyn Valdrak tranche si la trésorière et un autre mandataire ne s’accordent pas sur le moment ou la forme du règlement, sauf urgence consignée au registre avec sa signature.
+Les mouvements sur le coffre délégué de Palyr à l’UBI restent soumis à l’ordre ORD-LEG-PAL-547-COF-LYS-03. Dame Lysa Morwyn signe ou contresigne les paiements qui en découlent. Messire Corvyn Valdrak tranche si la trésorière et un autre mandataire ne s’accordent pas sur le moment ou la forme du règlement, sauf urgence consignée au registre avec sa signature.
 
 ---
 
@@ -113,7 +113,7 @@ Au titre du seul présent mandat, messire Corvyn Valdrak ne peut pas :
 
 ### Article sixième — Greffes, durée et copies
 
-Le présent mandat court à compter du départ de la délégation pour Ulghart. Il expire à la clôture solennelle de la Convention de l’an 547, sauf prolongation écrite de l’Oblat de Palyr avant cette date.
+Le présent mandat court à compter du départ de la délégation pour Ulghart. Il expire à la clôture solennelle de la Convention de l’an 547, sauf prolongation écrite du Légat de Palyr avant cette date.
 
 Copie doit être remise sans délai :
 
@@ -129,15 +129,15 @@ Copie doit être remise sans délai :
 
 ### Signatures pour le sceau confédéral
 
-Fait sous sceau de l’Oblat de Palyr, valable tant que la présente commission n’est pas radiée aux registres par acte régulier.
+Fait sous sceau du Légat de Palyr, valable tant que la présente commission n’est pas radiée aux registres par acte régulier.
 
-(*Signature* : l’Oblat de Palyr, mandat de la cité de Palyr)
+(*Signature* : le Légat de Palyr, mandat de la cité de Palyr)
 
 **Prise d’effet** : je reçois le mandat et j’en assume la direction pour la durée de la Convention.
 
 (*Signature* : Corvyn Valdrak)
 
-Greffe des Oblats — bureau de Palyr — extraction certifiée conforme pour port et lecture au fort d’Ulghart.
+Greffe de Palyr — bureau du Légat — extraction certifiée conforme pour port et lecture au fort d’Ulghart.
 
 ---
 
