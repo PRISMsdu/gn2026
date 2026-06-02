@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Soren |
-| Rôle dans le groupe | Homme de main — poisons, potions, basses œuvres « propres » |
+| Joueur | Léo |
+| E-mail joueur | leoginet@gmail.com |
+| Rôle dans le groupe | Homme de main, alchimiste |
 | Classe / profession | Alchimiste |
 | Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -41,8 +43,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Protégé tué par les Sangs de la Steppe avant le Tripot ; rancune ouverte contre la mafia. |
-| Doublons (or) | 100 |
+| Remarques | Protégé tué par les Sangs de la Steppe avant le Tripot ; rancune ouverte contre la mafia. Cicatrice profonde et visible à la main droite (nuit de Corven Halst). |
+| Argent | 8 200 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -88,9 +90,9 @@ Pendant cinq ans, tu as dormi près de sa chambre ou de son bureau selon les soi
 
 Il y a treize ans, Corven a refusé de céder une créance à un prêteur lié aux Sangs de la Steppe. Il pensait tenir parce que la maison était gardée et parce qu'il avait des amis à la guilde des ports. Il s'est trompé sur le délai.
 
-Une nuit de pluie, trois hommes sont entrés par la cour de service pendant qu'un quatrième retenait l'escalier principal. Tu as tué le premier au couloir ; le second t'a blessé au flanc avant que tu ne le neutralises. Le troisième a atteint le bureau. Quand tu es arrivé, Corven était déjà mort — gorge ouverte, contrat signé posé sur la poitrine comme message.
+Une nuit de pluie, trois hommes sont entrés par la cour de service pendant qu'un quatrième retenait l'escalier principal. Tu as tué le premier au couloir. Le second portait un bérêt écossais vert à pompon : au corps à corps, il t'a blessé au flanc et t'a lacéré la main droite ; tu l'as neutralisé sans toucher à son couvre-chef, mais tu l'as bien vu. Le troisième a atteint le bureau. Quand tu es arrivé, Corven était déjà mort — gorge ouverte, contrat signé posé sur la poitrine comme message.
 
-Tu as reconnu la méthode : pas un vol de hasard, une exécution commandée. Les Sangs de la Steppe ne laissaient pas leurs créances pourrir. Tu as brûlé ce que tu ne pouvais pas porter, tu as disparu du port en une semaine, et tu as gardé le nom de Corven Halst comme une dette personnelle que la mafia ne sait pas encore que tu comptes encaisser.
+Tu as reconnu la méthode : pas un vol de hasard, une exécution commandée. Les Sangs de la Steppe ne laissaient pas leurs créances pourrir. Tu as brûlé ce que tu ne pouvais pas porter, tu as disparu du port en une semaine, et tu as gardé le nom de Corven Halst comme une dette personnelle. Depuis, tu as appris que l'homme du bérêt s'appelle Gareth Ironfist ; la cicatrice à ta main droite ne s'est jamais effacée.
 
 ## Il y a dix ans — Marda te prend au Tripot
 
@@ -98,7 +100,7 @@ Il y a dix ans, Marda Velyss reprend le casino du fort d'Ulghart après la réor
 
 Marda t'a engagé pour la chimie et les basses œuvres propres. Elle ne t'a pas demandé ton passé complet ; tu ne lui as pas demandé le sien. Au Tripot, la confiance se mesure au travail et au silence. Tu as accepté parce que la maison refuse déjà les Sangs sur le seuil, et parce qu'un casino fermé de l'intérieur ressemble trop à une maison mal gardée.
 
-Ardan cadre le périmètre quand tu interviens ; Varek te remonte les visages du quai. Guelievre te prévient quand un couloir de service dérape. Tu restes hors lustre : on t'appelle quand une dispute dépasse ce qu'une mise ou un règlement public peuvent encore contenir.
+Ardan cadre le périmètre quand tu interviens ; Samvel Varek te remonte les visages du quai et Theodran Varek les signaux de couloir. Guelievre te prévient quand un couloir de service dérape. Tu restes hors lustre : on t'appelle quand une dispute dépasse ce qu'une mise ou un règlement public peuvent encore contenir.
 
 ## Dix ans au Tripot — mafia, banque, Convention
 
@@ -106,7 +108,7 @@ Pendant dix ans, tu as préparé des fioles pour endormir un tricheur, calmer un
 
 Les Sangs de la Steppe reviennent régulièrement au fort d'Ulghart. Kaelan Thormane et Raven passent par le quai ; leurs hommes testent parfois les portes du casino. Marda négocie trêve ou prix ; toi, tu les reconnais au pas ou à l'odeur du tabac qu'ils utilisent. Chaque visite te rappelle Corven. Tu obéis à la ligne de Marda en salle, mais tu ne leur pardonnes rien en privé.
 
-Depuis cinq ans, le Tripot encaisse aussi une part des flux détournés de l'UBI — ce n'est pas ton dossier, Fenric et Marda le portent. Depuis deux ans, la maison prend des coups : poissons pourris dans les réserves, départs de feu dans les couloirs. Varek soupçonne des gardes banque ; six d'entre eux sont morts récemment sur les quais. Tu sécurises les accès de service quand Guelievre signale une odeur ou une flamme.
+Depuis cinq ans, le Tripot encaisse aussi une part des flux détournés de l'UBI — ce n'est pas ton dossier, Fenric et Marda le portent. Depuis deux ans, la maison prend des coups : poissons pourris dans les réserves, départs de feu dans les couloirs. Les deux Varek soupçonnent des gardes banque ; six d'entre eux sont morts récemment sur les quais. Tu sécurises les accès de service quand Guelievre signale une odeur ou une flamme.
 
 La Convention et la Régate remplissent le fort. Les Sangs seront plus visibles, mélangés aux délégations. Lydwen lit parfois ton nom ou une allusion à une mort passée sur ses cartes ; Marda seule décide si tu dois réagir. Si tu tombes — arrestation, agression, enlèvement — le Tripot perd son chimiste et une part de sa capacité à régler les problèmes sans sang sur le tapis.
 
@@ -118,14 +120,14 @@ La Convention et la Régate remplissent le fort. Les Sangs seront plus visibles,
 
 Tu prépares et tiens les fioles utiles à la maison : sédations, antidotes courants, mélanges pour feu contrôlé ou fumée en couloir. Ardan t'appelle quand la force seule ne suffit pas ; tu interviens hors vue des clients, dans le périmètre qu'il te fixe.
 
-Quand Varek remonte un visage mafia ou un garde suspect, tu adaptes ta présence aux accès de service. Guelievre te signale les réserves et les cuisines ; tu vérifies ce qui sent mauvais ou brûle. Ysabeau et les sœurs Vestrann ne sont pas tes supérieures : tu les couvres quand une altercation doit rester discrète.
+Quand l'un des Varek remonte un visage mafia ou un garde suspect, tu adaptes ta présence aux accès de service. Guelievre te signale les réserves et les cuisines ; tu vérifies ce qui sent mauvais ou brûle. Ysabeau et les sœurs Vestrann ne sont pas tes supérieures : tu les couvres quand une altercation doit rester discrète.
 
 ## Objectifs prioritaires
 
 - Tenir les interventions chimiques du Tripot : retrait discret, neutralisation, feux maîtrisés — toujours sur ordre de Marda ou d'Ardan, jamais en spectacle devant la salle.
 - Repérer et signaler les hommes des Sangs de la Steppe dès qu'ils franchissent le seuil ou rôdent près des accès ; ne pas agir seul contre un chef tant que Marda n'a pas tranché la ligne politique.
 - Protéger l'équipe pendant la fenêtre Convention / Régate : escorte discrète, couloirs, VIP quand Ardan te le demande.
-- Recouper avec Varek ce que tu vois en coulisse et ce qu'il filme au quai ; un visage vu deux fois la même nuit mérite un mot à Marda.
+- Recouper avec les deux Varek ce que tu vois en coulisse et ce qu'ils filent au quai ; un visage vu deux fois la même nuit mérite un mot à Marda.
 - Garder tes préparations et ton passé Corven hors des conversations de salle — une arrestation ou un chantage sur ton ancien métier devient une crise pour toute la maison.
 
 ## Informations sensibles
@@ -142,7 +144,7 @@ Négociant en métaux ; tu l'as gardé cinq ans. Tué il y a treize ans lors d'u
 
 ## Sangs de la Steppe — mafia — Ulghart et quai
 
-Kaelan Thormane, Raven, leurs hommes de main : tu les reconnais par habitudes et visages. Marda tient la ligne en salle ; tu accumules des détails pour le jour où elle autorise autre chose qu'une fermeture polie de porte.
+Kaelan Thormane, Raven, leurs hommes de main : tu les reconnais par habitudes et visages. Gareth Ironfist : bérêt écossais vert à pompon, comme la nuit de Corven ; il peut te reconnaître à la cicatrice de ta main droite. Marda tient la ligne en salle ; tu accumules des détails pour le jour où elle autorise autre chose qu'une fermeture polie de porte.
 
 ## Préparations de camp — Sfaal, Il-Irion
 
@@ -150,7 +152,7 @@ Antiseptiques, sédations, fumées, feux contrôlés ; tu travailles dans un coi
 
 ## Gardes UBI et dégradations — fort d'Ulghart
 
-Poissons pourris, feux de couloir, six morts sur les quais : tu sécurises les accès de service quand Guelievre ou Varek signalent un incident. Holgrim Dval, chef de la garde banque, n'a pas suivi comme Ardan l'aurait voulu — ce n'est pas ton dossier, mais tu notes ce qui sent mafia ou banque.
+Poissons pourris, feux de couloir, six morts sur les quais : tu sécurises les accès de service quand Guelievre ou l'un des Varek signale un incident. Holgrim Dval, chef de la garde banque, n'a pas suivi comme Ardan l'aurait voulu — ce n'est pas ton dossier, mais tu notes ce qui sent mafia ou banque.
 
 ---
 

@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Sira Vestrann |
-| Rôle dans le groupe | Croupière — tables, lecture des mains et des visages, réseau d'habitués |
+| Joueur | Lucile |
+| E-mail joueur | Lucile.dury@orange.fr |
+| Rôle dans le groupe | Croupière — sœur de Lira |
 | Classe / profession | Voleuse |
 | Compétences | Pugilat - 9 |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -43,17 +45,17 @@ Epopée en Krondaar
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Sœur de Lira — complémentarité ou rivalité jouable ; ancienne combattante de rings illégaux (pugilat 9). Tu n'es pas accro au jeu : tu repères les addicts et tu joues avec eux pour la maison. |
 | Âge | 28 ans (année 547) |
-| Doublons (or) | 100 |
+| Argent | 7 200 couronnes |
 | Pugilat | 9 |
 
 ## Apparence et caractère
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Précise, rapide, fière ; le jeu comme langue maternelle. Au ring ou au tapis, tu lis l'autre avant qu'il ne frappe. |
-| Valeurs | La table propre, la maison payante, la sœur sans tout mélanger. Tu lis le jeu ; tu ne t'y noies pas. |
-| Peur | Que l'émotion au tapis brûle ce que des années ont reconstruit ; de revivre une nuit où tout le monde disparaît sauf toi. |
-| Rêve | Sortir avec une main encore habile — et un nom qui ne soit pas qu'une rumeur de rescapée. |
+| Traits de caractère | Précise, rapide, fière ; tu lis les mains avant les paroles. En coulisse, tu sais encore frapper vite. |
+| Valeurs | Une table propre, une maison payante, Lira protégée des risques inutiles. Tu maîtrises le jeu ; tu ne joues pas pour toi. |
+| Peur | Perdre le contrôle en salle devant Lira ; qu'un témoin de l'incendie de 525 apporte une version qui vous met en danger. |
+| Rêve | Garder une main assez sûre pour travailler longtemps ; faire du nom Vestrann un nom du Tripot, pas seulement un surnom de ring. |
 
 ---
 
@@ -61,59 +63,79 @@ Epopée en Krondaar
 
 ## Enfance à Il-Irion — l'auberge Vestrann
 
-Tu es née à Il-Irion, dans le bas du port. Tes parents tenaient une auberge avec deux tables de cartes : logement, soupe et parties à petites mises. Lira a deux ans de plus que toi ; votre frère Ren comptait les jetons quand on lui confiait la corbeille.
+Tu es née à Il-Irion en l'an 519, dans le bas du port. Tes parents tenaient une auberge avec deux tables de cartes au fond de salle : logement, soupe et parties à petites mises pour les marins entre deux escales. Lira a deux ans de plus que toi ; votre frère Ren comptait les jetons quand on lui confiait la corbeille.
 
-Tu as appris les cartes avant les prières du soir. À la maison, on jouait pour manger ; ton père disait que la main droite doit rester plus calme que le cœur. Jusqu'à six ans, tu croyais que cette règle suffisait.
+La maison sentait la bière chaude et l'encre des carnets de dette. Tu as appris les cartes avant les prières du soir. Ton père répétait que la main droite doit rester plus calme que le cœur. Lira t'apprenait à additionner les mises pendant que Ren mélangeait le jeu. Jusqu'à six ans, tu croyais qu'une auberge se tenait avec des cartes propres, des bols pleins et des dettes notées.
 
-## Incendie — seule rescapée, Shadow
+## Incendie de 525 — rescapée, nom Shadow
 
-En l'an 525, une panique d'incendie secoue votre rue. La fumée remonte l'escalier ; la foule pousse vers la porte principale. Tu perds Lira et Ren dans le bruit. Ton père te crie de descendre ; ta mère ne répond plus.
+En l'an 525, tu as six ans. Une panique d'incendie secoue votre rue du bas port. Un voisin crie au feu ; la fumée remonte l'escalier de service pendant que la foule bloque la porte principale. Tu perds Lira et Ren dans le bruit. Ton père te crie de descendre ; ta mère ne répond plus depuis la chambre du haut.
 
-Un homme t'attrape au palier bas, te couvre la tête avec sa cape, te sort par la cour des poubelles. Il dépose ton nom à l'hôpital de charité et murmure un mot que tu retiens sans comprendre : Shadow. Père, mère, Ren : morts confirmés le lendemain. Lira : absente des listes ; on te dit qu'elle n'a pas survécu au feu.
+Un homme que tu ne reconnais pas t'attrape au palier bas, te couvre la tête avec sa cape et te sort par la cour des poubelles, loin de la rue principale. Il te porte jusqu'à l'hôpital de charité et donne ton nom au moine de garde. Avant de repartir, il murmure le seul nom que tu gardes de lui : Shadow.
 
-Tu as six ans. Tu es seule dans un dortoir d'orphelins pendant plusieurs saisons.
+Le lendemain, les registres de charité confirment la mort de ton père, de ta mère et de Ren. Lira figure parmi les disparus de la nuit ; on te dit qu'elle n'a pas survécu au feu. On te place dans un dortoir d'orphelins tenu par la charité du port.
 
-## Années seules — coups de pouce anonymes
+## Charité et famille d'accueil — 525 à 528
 
-Tu es placée chez une famille d'accueil qui te renvoie au bout d'un an pour vol de pain. Ensuite tu travailles : plongeuse, porteuse de plateau, puis tenante de mises dans des arrière-salles. Tu catalogues les parieurs : qui ment, qui tremble, qui revient même ruine.
+Pendant trois ans, tu passes entre le dortoir de charité et les maisons qui prennent des enfants pour aider. Au dortoir, tu partages une paillasse et un bol. On te fait balayer, porter le linge, compter les couverts. L'auberge Vestrann devient une ligne dans les registres du port : morts confirmés, enfant survivante, sœur disparue.
 
-Des pièces apparaissent sous ton matelas. Un créancier renonce sans raison. Un garde du port te laisse passer un couvre-feu. Personne ne se présente au nom de Shadow. Tu supposes un fil invisible. Tu n'en parles pas : parler, c'est effrayer celui qui t'aide.
+En 527, une famille du quartier marchand te prend en charge. Le père tient un étal de poisson ; la mère veut une aide pour la maison. Tu y restes un an. Un soir de disette, tu caches deux miches sous ta veste ; la mère les retrouve le lendemain. On te renvoie à la charité sans procès, avec la réputation de voleuse.
+
+Tu retournes au dortoir quelques mois, puis tu quittes la charité en 528, vers neuf ans. Tu dors où tu peux : remise de quai, plancher chaud d'une cuisine en échange de vaisselle, parfois la cave d'un tripot qui ferme tard. Tu apprends à partir avant qu'un adulte décide pour toi.
+
+## Premiers boulots — mises et arrière-salles
+
+De 528 à 532, tu enchaînes les petits emplois du bas port. Plongeuse dans une taverne du quai Ouest : casseroles, poisson, verres jusqu'à minuit pour quelques pièces et les restes. Porteuse de plateau dans une auberge voisine de celle où tu es née, sans chercher les anciens clients de tes parents.
+
+Vers onze ans, tu tiens les mises dans des arrière-salles : une table derrière un rideau, un bookmaker qui prend dix pour cent, des parieurs qui mentent sur ce qu'il leur reste en poche. Tu ne joues pas pour toi ; tu observes. Tu repères celui qui tremble avant de remiser, celui qui revient le lendemain ruiné, celui qui regarde la porte quand sa dette monte. C'est là que tu apprends ton métier de croupière avant d'en porter le nom.
+
+## Aides anonymes — dette envers Shadow
+
+À partir de 529 ou 530, quelqu'un intervient parfois autour de toi. Tu ne vois pas son visage, mais les effets sont concrets.
+
+La première fois, tu retrouves cinq couronnes sous ton matelas dans une chambre louée au mois. Un créancier du bas port avait fait signer ton nom sur une dette de soupe et de nuitée ; une semaine plus tard, le greffier du coin te dit que la dette a été payée. Un garde du port te laisse passer le couvre-feu alors que tu rapportais des jetons pour une partie illégale ; il détourne les yeux et ne te demande pas ton nom.
+
+Un patron de sellerie voulait t'embarquer comme aide sur un petit cargo ; le contrat disparaît avant signature. Un homme te suit trois rues après une nuit de ring ; au détour de la rue des Cordiers, deux inconnus lui barrent le passage et tu peux rentrer.
+
+Tu rattaches ces aides au nom entendu en 525 : Shadow. Tu ne peux pas le prouver. Au port, quelqu'un qui paie tes dettes ou écarte tes poursuivants peut sauver ta vie, puis revenir demander un prix. Tu n'en parles pas en public, parce qu'un nom répété finit toujours par atteindre les mauvaises oreilles.
 
 ## Rings illégaux — se battre pour manger
 
-À douze ou treize ans, tu es trop jeune pour les contrats honnêtes et trop vieille pour les dortoirs. Tu gagnes des sous dans des rings illégaux du bas port : cave humide, paris murmurés, organisateur qui prend dix pour cent sur la bourse. On te choisit parce que tu es légère et parce que les parieurs aiment le spectacle d'une fille qui tombe — sauf que tu te relèves.
+Vers 532, tu as treize ans et les petits boulots ne suffisent plus. Tu descends dans les rings illégaux du bas port : cave humide derrière une sellerie, cordes tendues entre deux piliers, paris en cash avant chaque round. L'organisateur prend dix pour cent sur la bourse.
 
-Tu apprends à esquiver plus qu'à encaisser : tête basse, pas latéraux, coups au corps quand l'autre ouvre la garde. Tu combats des filles plus grandes, des garçons de taillanderie, parfois deux combats la même nuit si la faim revient. Tu perds des combats ; tu en gagnes assez pour manger. On t'appelle « la puce » ou « Vestrann » quand le bookmaker te reconnaît.
+On te choisit parce que tu es légère et parce que la foule mise sur la fille qui va tomber. Tu apprends à esquiver plus qu'à encaisser : tête basse, pas latéraux, coups au corps quand l'autre ouvre la garde. Tu combats des filles plus grandes, des garçons de taillanderie, parfois deux combats la même nuit si la faim revient. Tu perds des combats ; tu en gagnes assez pour manger. Les bookmakers t'appellent « la puce » ou « Vestrann » quand ils te reconnaissent.
 
-Entre les rings, tu tiens des mises dans des arrière-salles. Tu catalogues les parieurs : qui ment, qui tremble, qui revient même ruiné. Le pugilat t'a appris à lire le corps avant les cartes.
+Entre les rings, tu tiens encore des mises dans les arrière-salles. Tu apprends la même chose dans les deux lieux : lire où l'autre va céder avant qu'il ne parle.
 
-## Retrouvailles avec Lira — ring du bas port
+## Retrouvailles avec Lira — ring du quai Est, 535
 
-Il y a douze ans, tu as seize ans. Un bookmaker te propose trois couronnes pour remplacer une combattante qui a fui : un main event au quai Est, deux rounds minimum. Tu montes sans connaître le nom de l'adversaire.
+En l'an 535, tu as seize ans. Un bookmaker te propose trois couronnes pour remplacer une combattante qui a fui : combat principal au quai Est, deux rounds minimum, adversaire réputée solide. Tu montes sans connaître son nom.
 
-C'est Lira. Même cicatrice au poignet — brûlure de gouttière. Elle t'a crue morte depuis 525 ; tu l'as crue morte aussi. Vous vous figez au clinch ; la foule siffle. Vous finissez le round sans vous blesser pour de vrai. Après le gong, vous descendez par la trappe de service. Shadow t'avait sortie par l'escalier de service cette nuit-là ; elle était passée par la fenêtre. Vous vous étiez perdus de vue dans le même incendie.
+Au premier corps à corps, tu reconnais Lira. Elle porte la même cicatrice au poignet : brûlure de gouttière, nuit du feu de 525. Elle t'a crue morte ; tu l'as crue morte aussi. Vous vous figez une seconde ; la foule siffle. Vous finissez le round sans vous blesser pour de vrai : coups mesurés, pas de haine. Après le gong, vous descendez par la trappe de service.
 
-Vous ne remontez plus sur un ring l'une contre l'autre. Vous passez aux cercles de jeu : tu lis les mains et les visages, elle oriente la salle.
+Vous recoupez la nuit de 525. Shadow t'avait sortie par le palier et la cour ; Lira était passée par la fenêtre du couloir bas. Vous vous étiez perdues de vue dans le même incendie, chacune croyant l'autre morte. Vous ne remontez plus sur un ring l'une contre l'autre. Vous passez aux cercles de jeu du port : tu lis les mains et les visages, elle oriente la salle.
 
 ## Passage à Palyr — tables et habitués
 
-Pendant deux ans, vous travaillez surtout à Palyr : tripots du fort, tables où les délégations misent gros. Le milieu vous appelle les sœurs Vestrann de Palyr, même si vous êtes nées à Il-Irion. Tu tiens les tables où l'argent parle le plus fort ; tu repères les addicts, leurs phrases, leurs absences. Varek, plus tard au Tripot d'Ulghart, croisera ce réseau.
+De 535 à 537, vous travaillez surtout à Palyr : tripots du fort, tables où les délégations misent gros, cercles où l'on paie les croupières en pourcentage sur le gain de la maison. Le milieu vous appelle les sœurs Vestrann de Palyr, même si vous êtes nées à Il-Irion.
 
-Les aides anonymes continuent parfois : un contrat refusé pour toi, un homme qui disparaît après t'avoir suivie trois rues. Tu ne sais pas si Shadow te voit encore.
+Tu tiens les tables où l'argent circule le plus vite. Tu repères les parieurs qui reviennent malgré la ruine : main qui tremble, phrase répétée, mensonge sur la bourse. Les Varek, plus tard au Tripot d'Ulghart, croiseront ce réseau d'habitués palyriens.
+
+Les aides anonymes continuent parfois à Palyr : un patron qui te prévient de refuser une table, une fausse rumeur qui détourne un créancier, un homme qui renonce après t'avoir suivie. Tu rattaches encore ces gestes au nom Shadow, sans preuve. Lira sait qu'il existe un protecteur, mais pas qui il est.
 
 ## Il y a dix ans — Marda vous prend au Tripot d'Ulghart
 
-Il y a dix ans, en l'an 537, Marda Velyss reprend le casino du fort d'Ulghart. Tu as dix-huit ans. Elle vous recrute toutes les deux depuis Palyr. Tu tiens les tables visibles ; Lira tient les codes et la manipulation fine. Depuis dix ans, vous êtes le double visage d'une même règle.
+En l'an 537, il y a dix ans, Marda Velyss reprend le casino du fort d'Ulghart après la réorganisation de l'UBI. Tu as dix-huit ans. Elle vous connaît des tripots de Palyr et vous recrute toutes les deux : tu tiens les tables visibles, Lira tient les codes et la manipulation fine. Depuis lors, vous formez le double visage d'une même règle au fort.
 
-Tu connais les codes des habitués, leurs phrases, leurs absences. Varek te confirme ce que tes yeux soupçonnent déjà. Avec Éliane, tu fais coïncider mains et cotes sans que la salle voie la couture.
+Tu connais les habitués, leurs phrases, leurs absences. Samvel et Theodran Varek te confirment ce que tes yeux soupçonnent déjà : un visage vu deux fois la même nuit, un messager qui ne joue pas, un parieur qui regarde les sorties plus que les cartes. Avec Éliane, tu ajustes les mains et les cotes quand Marda l'ordonne.
 
-Tu repères les addicts : souffle court, main qui revient malgré la ruine, phrase qu'ils se répètent avant de remiser. Tu n'en es pas une — tu as grandi dans la misère, pas dans la dépendance au tapis. Tu joues avec eux pour la maison : tu sais quand pousser une cote, quand laisser croire à une chance, quand orienter vers Lira pour une dette signée. Marda tranche le risque.
+Tu repères les addicts : souffle court, main qui revient malgré la ruine, phrase qu'ils se répètent avant de remiser. Tu n'en es pas une : tu as grandi dans la misère, pas dans la dépendance au tapis. Tu les cadres pour la maison : pousser une cote, laisser croire à une chance, orienter vers Lira pour une dette signée en salon. Marda tranche le risque ; Ysabeau reçoit le VIP avant que la dette ne devienne politique.
 
-## Convention, régate, dynamique des sœurs
+## Convention et régate — Ulghart, 547
 
-La régate monte les mises. Sira et Lira sont le spectacle que les clients attendent. La tension avec Lira peut être alliance ou compétition : Marda tranche si vous vous affaiblissez devant la salle.
+La Convention remplit le fort d'Ulghart. La régate monte les mises et ramène des visages que tu as déjà vus à Palyr ou à Il-Irion : délégués, marins, parieurs de passage, anciens habitués du bas port.
 
-Marda fixe la ligne ; Ardan évite le sang ; Ysabeau amène le VIP jusqu'à toi ; Lydwen te donne parfois un créneau ou un détail — tu le traduis en gestes réels à la table.
+Avec Lira, vous choisissez chaque soir : travailler en duo ou montrer une rivalité de sœurs que la salle comprend. Si la tension vous affaiblit devant les clients, Marda tranche. Ysabeau amène les VIP jusqu'à tes tables ou vers Lira selon le dossier. Ardan intervient si la rixe dépasse le ring de coulisse. Lydwen te donne parfois un créneau ou un détail ; tu le traduis en geste concret à la table : ralentir une main, changer une place, refuser un parieur.
 
 ---
 
@@ -121,45 +143,46 @@ Marda fixe la ligne ; Ardan évite le sang ; Ysabeau amène le VIP jusqu'à toi 
 
 ## Ton rôle au quotidien
 
-Tu tiens les tables où l'or circule le plus vite. Tu repères tricheurs et parieurs addicts ; tu transmets à Varek ce que tu vois. En coulisses, tu peux régler une altercation au pugilat avant qu'Ardan n'intervienne — Marda le sait depuis Palyr.
+Tu tiens les tables où l'or circule le plus vite. Tu repères tricheurs et parieurs addicts ; tu transmets aux Varek ce que tu vois. En coulisses, tu peux régler une altercation au pugilat avant qu'Ardan n'intervienne — Marda le sait depuis Palyr.
 
 ## Objectifs prioritaires
 
 - Maintenir le flux aux tables : repérer les addicts, orienter les habitués, accueillir les nouveaux — sans incident qui ferme la salle.
-- Coordonner avec Lira : complémentarité (lecture / manipulation) ou tension — jouer le duo.
-- Supporter la régate : signaux discrets avec Éliane et Varek ; Marda valide le risque réputationnel.
-- Ne pas laisser une émotion personnelle brûler une main en pleine Convention.
-- Éviter le ring public au Tripot : le pugilat reste un recours de coulisse, pas un spectacle pour la garnison.
+- Coordonner avec Lira : lecture des mains de ton côté, codes et dettes du sien — complémentarité ou tension jouable entre sœurs.
+- Supporter la régate : recouper avec Éliane et les Varek quand Marda valide le risque sur une main ou une cote.
+- Garder le pugilat hors spectacle public : recours de coulisse seulement, pas de combat devant la garnison du fort.
 
 ## Informations sensibles
 
-- Phrases codées (addicts clientèle) : si l'orga active le mécanisme, tu es le relais principal avec Lira — clarifier avant jeu. Ce ne sont pas vos addictions à vous.
-- Les truquages visibles tuent la réputation avant l'or — tu cadres avec Marda.
-- Shadow t'a sortie du feu en 525 ; des aides anonymes ont suivi. Tu ignores s'il est à Ulghart. Tu lui dois un passage que tu n'as jamais remboursé.
-- Passé rings illégaux (~532–535) : surnoms « la puce » / « Vestrann ». Retrouvailles avec Lira en 535 sur le ring du quai Est — ne pas en parler en salle.
-- Ne montre pas les codes orientés addicts hors scène — révélations en roleplay seulement.
+- Signaux sur les parieurs addicts : si le brief de table les active, tu es le relais principal avec Lira. Ce ne sont pas vos addictions à vous ; ce sont des outils pour servir la maison, validés par Marda.
+- Shadow : sauvetage de la nuit de 525 ; aides anonymes ensuite (argent, dettes payées, contrats empêchés, filatures coupées). Tu ne connais pas son visage. Tu ignores s'il est à Ulghart. S'il se présente avec une preuve solide, il peut réclamer un service, un silence ou un accès au Tripot.
+- Rings illégaux du bas port (vers 532–535) : surnoms « la puce » / « Vestrann ». Retrouvailles avec Lira en 535 au quai Est — ne pas en parler en salle devant des clients du bas port.
+- Ne montre pas les codes orientés addicts hors scène convenue — révélations en jeu seulement.
 
 # Connaissances
 
 ## Lira Vestrann — Tripot (sœur)
 
-Rescapée du même incendie ; retrouvailles sur un ring illégal du bas port en 535, après un round où vous vous êtes reconnues au clinch. Duo depuis Palyr puis Ulghart. Même niveau de pugilat — rivalité ou alliance jouable.
+Rescapée du même incendie de l'auberge Vestrann (525). Retrouvailles en 535 sur un ring illégal du quai Est : reconnaissance au corps à corps, cicatrice de gouttière au poignet. Depuis Palyr puis Ulghart, duo de tables : tu lis les mains à la table visible, elle tient les codes, les habitués et les dettes signées. Même niveau de pugilat (9) — alliance ou rivalité jouable ; Marda tranche si vous vous affaiblissez devant la salle.
 
-## Shadow — Il-Irion (enfance)
+## Shadow — sauvetage de 525 (Il-Irion)
 
-Homme de la nuit du feu ; nom murmuré à l'hôpital de charité. Visage d'aujourd'hui inconnu. Coups de pouce anonymes pendant des années. Si quelqu'un revient avec une preuve de 525, tu écoutes avant de couper.
+En 525, la nuit de l'incendie : un inconnu t'a sortie du palier, t'a déposée à l'hôpital de charité, a donné ton nom au moine et a laissé le sien : Shadow. Tu n'as pas revu son visage d'adulte.
+
+Entre 529 et 537, plusieurs aides te ramènent à ce nom : pièces sous le matelas, dettes payées au greffe, contrat d'embarquement empêché, hommes qui cessent de te suivre. Tu ne sais pas si Shadow agit seul ou par intermédiaires.
+
+Si quelqu'un revient avec une preuve concrète sur cette nuit — témoin qui te place dans la maison en feu, registre de charité qui contredit ton récit, preuve que Lira vivait avant 535, autre nom de sauveteur — tu écoutes avant de couper ou de prévenir Marda. Une rumeur vague sur « Shadow » ne suffit pas.
 
 ## Parieurs addicts — clientèle Tripot
 
-Tu les lis en une main : reprise de mise, mensonge sur la bourse, retour malgré la honte. Tu n'es pas accro — tu cadres avec Lira les phrases et signaux que Marda autorise pour servir la maison. Dette, information, service : le parieur paie autrement que par l'or quand tu le décides avec la patronne.
+Tu les reconnais en quelques mains : reprise de mise, mensonge sur la bourse, retour malgré la honte. Tu n'en es pas une. Avec Lira, vous tenez les phrases et signaux que Marda autorise pour orienter la maison — dette, information, service — sans laisser un parieur s'effondrer en public et fermer la salle.
 
-## Habitués et VIP — Tripot
+Exemple connu : Saevar Dren, chef de la sécurité de la délégation palyrienne ; il revient gagnant ou perdant, il ment sur sa bourse comme les autres. La dette chiffrée (2 422 couronnes) est sur le registre de Lira, pas le tien — tu le cadres à la table, elle tient la dette signée.
 
-Dossiers VIP et habitués ; aligné sur la ligne du groupe.
+## Ysabeau — salons VIP (Tripot)
 
-## Maison Valdris / notables Il-Irion — Il-Irion
+Elle reçoit les notables dans les salons du Tripot : boisson, conversation, présentation. Quand un client doit jouer gros ou signer une dette politique, elle l'envoie vers tes tables, vers Lira ou vers Marda selon le dossier. Tu ne signes pas les dettes de salon : tu renvoies vers elle ou la patronne quand la mise dépasse le tapis.
 
-Lettre compromettante (trafic d'alcool) — chantage possible selon scène ; ne pas empiler trop de chantages différents sur la même scène.
 
 ---
 

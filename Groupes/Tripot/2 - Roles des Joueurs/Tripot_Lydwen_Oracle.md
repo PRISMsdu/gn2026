@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Lydwen |
-| Rôle dans le groupe | Oracle — cartes, visions, tempo sur artefact et choix |
+| Joueur | Corinne |
+| E-mail joueur | Coplanchamp@gmail.com |
+| Rôle dans le groupe | Oracle, cartes |
 | Classe / profession | Cartomancienne |
 | Compétences | Transe ; Chirurgie |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -43,7 +45,7 @@ Epopée en Krondaar
 | Armure autorisée | Cuir clouté maximum |
 | Âge | 60 ans (année 547) |
 | Remarques | Tirages et visions : arbitrage MJ — ne pas imposer des vérités complètes sans accord préalable. |
-| Doublons (or) | 100 |
+| Argent | 6 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -85,7 +87,7 @@ Tu as accepté sans négocier longtemps. Elle ne t'a pas demandé ton passé com
 
 ## Dix ans au Tripot — tirages, équipe, UBI
 
-Au Tripot, tu tiens les lectures que Marda cadre avec toi : pas pour embrouiller la salle, mais pour lui donner un cadre quand la décision refuse d'être purement comptable. Éliane te demande parfois un créneau horaire ou un détail sur une soirée de paris ; Sira et Lira veulent savoir si une main va tourner mal ; Varek te remonte un nom à vérifier quand une carte l'a déjà prononcé.
+Au Tripot, tu tiens les lectures que Marda cadre avec toi : pas pour embrouiller la salle, mais pour lui donner un cadre quand la décision refuse d'être purement comptable. Éliane te demande parfois un créneau horaire ou un détail sur une soirée de paris ; Sira et Lira veulent savoir si une main va tourner mal ; l'un des Varek te remonte un nom à vérifier quand une carte l'a déjà prononcé.
 
 Tu as senti, au fil des ans, qu'un objet maudit côté UBI pèse sur les coffres et les négociations — assez pour que Marda sache qu'il existe une carte à jouer contre la banque, pas assez pour que tu puisses tout nommer sans arbitrage. Tes tirages sur cet objet restent partiels ; le détail exact t'échappe souvent au milieu de la transe.
 

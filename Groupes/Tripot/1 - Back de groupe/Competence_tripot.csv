@@ -1,12 +1,13 @@
 ﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
-Marda Velyss;Lise;**email**;Patronne — stratégie, négociations;Herboriste - assassin;"Egorgement ; Chirurgie";6;100 couronnes
-Ardan Trevil;Mathieu;**email**;Capitaine des gardes — sécurité du Tripot;Guerrier;"Pugilat ; Torture";5;100 couronnes
-Sira Vestrann;Lucile;**email**;Croupière — sœur de Lira;Voleuse;Pugilat - 9;4;100 couronnes
-Lira Vestrann;Marion;**email**;Croupière — sœur de Sira;Voleuse;Pugilat - 9;4;100 couronnes
-Varek;Sam;**email**;Pisteur — filatures, quai, coulisses;Guerrier;"Apnée ; Secourisme";5;100 couronnes
-Lydwen;Corinne;**email**;Oracle, cartes;Cartomancienne;"Transe ; Chirurgie";4;100 couronnes
-Éliane;Mélanie;**email**;Maîtresse des paris — régate;Voleuse;Erudit;4;100 couronnes
-Ysabeau;Marina;**email**;Hôtesse — VIP, salons;Voleuse;Erudit;4;100 couronnes
-Soren;Léo;**email**;Homme de main, alchimiste;Alchimiste;Erudit;4;100 couronnes
-Fenric Ossel;Thierry;**email**;Maître des registres;Erudit;Erudit;4;100 couronnes
-Guelievre Marech;Geneviève;**email**;Gouvernante — réserves, service, coulisses;Erudit;Erudit;3;100 couronnes
+Marda Velyss;Lise;lise.dury@wanadoo.fr;Patronne — stratégie, négociations;Herboriste - assassin;"Egorgement ; Chirurgie";6;"Paiement VIP UBI 10 % : 16 350 couronnes ; réserve personnelle Rédempteurs : 73 380 couronnes"
+Ardan Trevil;Mathieu;matthieu-wolf@laposte.net;Capitaine des gardes — sécurité du Tripot;Guerrier;"Pugilat ; Torture";5;7 800 couronnes
+Sira Vestrann;Lucile;Lucile.dury@orange.fr;Croupière — sœur de Lira;Voleuse;Pugilat - 9;4;7 200 couronnes
+Lira Vestrann;Marion;mariondury@orange.fr;Croupière — sœur de Sira;Voleuse;Pugilat - 9;4;7 200 couronnes
+Samvel Rauk, dit Varek;Sam;samlcd.moget@gmail.com;Pisteur — filatures, quai, sorties;Guerrier;"Apnée ; Secourisme";5;7 200 couronnes
+Theodran Veyr, dit Varek;Theodore;theodore.wolf@laposte.net;Pisteur — coulisses, salons, relais internes;Guerrier;"Apnée ; Secourisme";5;7 200 couronnes
+Lydwen;Corinne;Coplanchamp@gmail.com;Oracle, cartes;Cartomancienne;"Transe ; Chirurgie";4;6 800 couronnes
+Éliane;Mélanie;melanie.moget@gmail.com;Maîtresse des paris — régate;Voleuse;Erudit;4;7 600 couronnes
+Ysabeau;Marina;matthieu-wolf@laposte.net;Hôtesse — VIP, salons;Voleuse;Erudit;4;7 300 couronnes
+Soren;Léo;leoginet@gmail.com;Homme de main, alchimiste;Alchimiste;Erudit;4;8 200 couronnes
+Fenric Ossel;Thierry;thierry.gabarre@free.fr;Maître des registres;Erudit;Erudit;4;13 800 couronnes
+Guelievre Marech;Geneviève;**email**;Gouvernante — réserves, service, coulisses;Erudit;Erudit;3;6 800 couronnes

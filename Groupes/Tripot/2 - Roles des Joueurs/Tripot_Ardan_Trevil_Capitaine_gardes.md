@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ardan Trevil |
-| Rôle dans le groupe | Capitaine des gardes du Tripot — sécurité du casino et des accès de la maison uniquement (pas la citadelle ni le périmètre militaire du fort) |
+| Joueur | Mathieu |
+| E-mail joueur | matthieu-wolf@laposte.net |
+| Rôle dans le groupe | Capitaine des gardes — sécurité du Tripot |
 | Classe / profession | Guerrier |
 | Compétences | Pugilat ; Torture |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -42,7 +44,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Ancien protecteur de cercles de jeu (Arthas) — fuite après un mort chez les Darsen ; recruté par Marda depuis Il-Irion ; éviter le sang sur le tapis en salle si possible. |
-| Doublons (or) | 100 |
+| Argent | 7 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -78,7 +80,7 @@ Tu montes la garde avec des hommes de confiance. Tu repousses la mafia sur le se
 
 ## Les années stables
 
-Pendant plusieurs années, tu resserres les procédures. Peu de sang en public ; les règlements se traitent hors vue quand c'est possible. Varek devient ton relais de terrain : filatures, signaux, quai. Soren complète quand la force seule ne suffit pas — potions, interventions que la salle ne doit pas voir.
+Pendant plusieurs années, tu resserres les procédures. Peu de sang en public ; les règlements se traitent hors vue quand c'est possible. Marda place deux pisteurs sous le même nom de code : Samvel Rauk, dit Varek, tient le quai et les sorties ; Theodran Veyr, dit Varek, tient les coulisses et les salons. Ce dispositif te permet de vérifier deux zones sans offrir deux noms aux clients. Soren complète quand la force seule ne suffit pas — potions, interventions que la salle ne doit pas voir.
 
 Sira et Lira tiennent les tables ; tu protèges le spectacle, pas la triche exposée devant tout le monde. Ysabeau tient les salons VIP ; tu veilles à ce qu'un charme mal cadre ne devienne pas émeute. Guelievre te prévient quand quelque chose cloche dans les coulisses avant que le bruit n'atteigne la salle principale.
 
@@ -92,13 +94,13 @@ L'équipe vise aujourd'hui quinze pour cent rétroactifs et l'arriéré avant qu
 
 Depuis deux ans, le Tripot prend des coups : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Tu as signalé ; Holgrim Dval, chef de la garde UBI, n'a pas suivi comme tu l'aurais voulu.
 
-Six de ces gardes sont morts récemment sur les quais. Tu avais des notes sur l'un d'eux avant les corps. Holgrim te traite davantage comme un problème que comme un plaignant. Varek partage ton doute : ce n'est plus une coïncidence pour lui.
+Six de ces gardes sont morts récemment sur les quais. Tu avais des notes sur l'un d'eux avant les corps. Holgrim te traite davantage comme un problème que comme un plaignant. Les deux Varek partagent ton doute : Samvel a vu des mouvements côté quai, Theodran a relevé des retours inutiles côté couloirs. Ce n'est plus une coïncidence pour eux.
 
 ## Mafia, régate, Convention
 
 Les Sangs de la Steppe reviennent plus souvent. Kaelan Thormane et Raven passent par le quai ; leurs hommes testent parfois les portes du casino. Marda refuse de livrer le fonds de commerce. Tu restes ferme sans humilier un chef en public : une humiliation en salle peut déclencher une guerre ouverte que la maison ne veut pas.
 
-La Convention et la Régate remplissent le fort. Tu coordonnes Varek sur les arrivées, les foules, les visages qui reviennent deux fois la même nuit. Tu couvres les accès quand la mafia ou des hommes de l'UBI sondent les entrées. Si un membre de l'équipe devient cible — arrestation, rumeur, agression — tu réagis sur ordre de Marda, ou seul si la maison est déjà en danger.
+La Convention et la Régate remplissent le fort. Tu coordonnes les deux Varek sur les arrivées, les foules, les visages qui reviennent deux fois la même nuit. Tu couvres les accès quand la mafia ou des hommes de l'UBI sondent les entrées. Si un membre de l'équipe devient cible — arrestation, rumeur, agression — tu réagis sur ordre de Marda, ou seul si la maison est déjà en danger.
 
 ---
 
@@ -108,12 +110,12 @@ La Convention et la Régate remplissent le fort. Tu coordonnes Varek sur les arr
 
 Tu postes tes hommes aux entrées, aux couloirs et près des caisses. Tu fais respecter les consignes de Marda : pas de rixe publique si on peut l'éviter, pas de client VIP molesté en salle, pas d'inconnu dans les réserves sans nom.
 
-Quand Guelievre ou Varek remonte un signal, tu te déplaces avant que le bruit n'atteigne les tables. Quand Soren intervient, tu cadres le périmètre pour que la salle ne voie pas tout. Tu escortes les sacs et les VIP quand la soirée l'exige.
+Quand Guelievre, Samvel ou Theodran remontent quelque chose, tu te déplaces avant que le bruit n'atteigne les tables. Quand Soren intervient, tu cadres le périmètre pour que la salle ne voie pas tout. Tu escortes les sacs et les VIP quand la soirée l'exige.
 
 ## Objectifs prioritaires
 
 - Sécuriser le périmètre du Tripot jusqu'au départ : entrées, coulisses, salons VIP, escorte de caisse — sans confondre avec la garde du fort ni la citadelle.
-- Coordonner Varek sur quai et filatures ; recouper ses noms avec ce que tu vois en salle.
+- Coordonner les deux Varek : Samvel sur quai et filatures extérieures, Theodran sur coulisses et salons ; recouper leurs noms avec ce que tu vois en salle.
 - Réagir aux crises : arrestation, agression, rumeur qui pousse les clients à fuir — alerte Marda, isole le problème dans la maison.
 - Tenir face aux émissaires mafia : fermeté, pas d'humiliation publique d'un chef en salle.
 - Protéger l'équipe pendant la fenêtre régate / Convention : foules, délégations, tentatives de casse ou de pression.

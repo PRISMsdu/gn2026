@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Marda Velyss |
-| Rôle dans le groupe | Patronne — stratégie, grands comptes, négociations banque / mafia / fuite |
+| Joueur | Lise |
+| E-mail joueur | lise.dury@wanadoo.fr |
+| Rôle dans le groupe | Patronne — stratégie, négociations |
 | Classe / profession | Herboriste - assassin |
 | Compétences | Egorgement ; Chirurgie |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -43,7 +45,8 @@ Epopée en Krondaar
 | Armure autorisée | Cuir clouté maximum |
 | Âge | 57 ans (47 ans à la prise du Tripot d'Ulghart) |
 | Remarques | Herboriste ; poisons (dont contact mortel, antidote personnel) ; mage des sceaux ; Exécutrice des Rédempteurs sur l'île d'Ulghart |
-| Doublons (or) | 100 |
+| Argent — paiement VIP UBI (10 %) | 16 350 couronnes |
+| Argent — réserve personnelle Rédempteurs | 73 380 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -51,7 +54,7 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Peu de mots en public. Décisions prises sur chiffres et délais. |
-| Valeurs | Protéger les dix qui travaillent avec toi. Partir avec assez d'or pour ne plus dépendre du fort. |
+| Valeurs | Protéger les onze qui travaillent avec toi. Partir avec assez d'or pour ne plus dépendre du fort. |
 | Peur | Fermeture du site avant d'avoir encaissé ce que la banque doit encore. |
 | Rêve | Quitter Ulghart avec la table entière, l'argent convenu, et savoir qui a payé la mort de Therne. |
 
@@ -126,7 +129,7 @@ Dès le début, tu ouvres des comptes séparés que l'auditeur de la banque ne v
 
 Tu refais l'équipe sur la version publique.
 
-Tu recrutes Ardan Trevil pour l'ordre en salle : il vient des cercles de jeu d'Arthas, il a dû tuer un homme des Darsen après une erreur de jugement, il s'est enfui sur Il-Irion ; tu le connaissais déjà dans le milieu des tripots et tu l'as fait venir au Tripot. Les sœurs Sira et Lira Vestrann, de Palyr, tiennent les tables ; leur querelle de famille sert parfois le spectacle, parfois complique tes arbitrages. Varek, que tu connaissais déjà sur d'autres ports, surveille quai et coulisses. Lydwen gère tirages et lectures quand une décision ne peut pas reposer sur un seul chiffre. Éliane monte les paris, surtout autour de la mer et de la régate. Ysabeau tient les salons où l'on signe des dettes autant que des mises. Fenric Ossel arrive quand les volumes augmentent : livres pour l'UBI, totaux pour toi, registres que l'auditeur ne doit pas voir. Guelievre Marech, que tu rappelles de sa retraite, tient la gouvernante : réserves, service, couloirs ; elle te rapporte ce qu'elle entend et vide la maison quand tu dis que c'est trop tard. Soren rejoint plus tard pour la chimie et les interventions que la salle ne doit pas voir ; tu ne lui as pas demandé son histoire complète.
+Tu recrutes Ardan Trevil pour l'ordre en salle : il vient des cercles de jeu d'Arthas, il a dû tuer un homme des Darsen après une erreur de jugement, il s'est enfui sur Il-Irion ; tu le connaissais déjà dans le milieu des tripots et tu l'as fait venir au Tripot. Les sœurs Sira et Lira Vestrann, de Palyr, tiennent les tables ; leur querelle de famille sert parfois le spectacle, parfois complique tes arbitrages. Tu confies le nom de code Varek à deux pisteurs : Samvel Rauk, que tu connaissais déjà sur d'autres ports, surveille le quai, les arrivées et les sorties ; Theodran Veyr surveille les coulisses, les salons et les relais internes. Les extérieurs croient souvent parler d'un seul homme. Toi et Ardan savez lequel a vu quoi. Lydwen gère tirages et lectures quand une décision ne peut pas reposer sur un seul chiffre. Éliane monte les paris, surtout autour de la mer et de la régate. Ysabeau tient les salons où l'on signe des dettes autant que des mises. Fenric Ossel arrive quand les volumes augmentent : livres pour l'UBI, totaux pour toi, registres que l'auditeur ne doit pas voir. Guelievre Marech, que tu rappelles de sa retraite, tient la gouvernante : réserves, service, couloirs ; elle te rapporte ce qu'elle entend et vide la maison quand tu dis que c'est trop tard. Soren rejoint plus tard pour la chimie et les interventions que la salle ne doit pas voir ; tu ne lui as pas demandé son histoire complète.
 
 Il y a sept ans, tu as cinquante ans. Au bout de trois ans de service au Tripot, la guilde te nomme Exécutrice sur l'île d'Ulghart. C'est là que tu prends du galon, pas à Il-Irion. Tu rends compte à l'assemblée. Tu reverses un tiers des gains de tes hommes, comme l'exige la règle, mais tu récupères bien plus qu'avant : honoraires, parts sur les mandats, rentrées des douze assassins rattachés à l'île. Tu connais parfaitement ce réseau : douze noms, douze habitudes, douze façons d'entrer et de sortir sans trace inutile.
 
@@ -147,6 +150,8 @@ Tu acceptes dix pour cent. Ce n'est pas un cadeau : c'est ce qu'il offre pour qu
 Depuis longtemps, tu as expliqué à Ardan, Fenric et au reste de l'équipe ce que tu appelles ta situation d'otage : Edorian peut te dénoncer à la Styrgie si tu freines trop son circuit. Ils savent que tu n'es pas styrgienne. Ils savent aussi qu'un greffier ou un auditeur pressé peut croire au pire. Tu ne leur as pas tout dit sur la guilde ni sur l'étendue réelle des carnets.
 
 Sur cinq ans, la maison a encaissé environ dix pour cent de ces flux. Tu as tenu la porte ouverte parce que cela payait l'équipe et les réparations. Aujourd'hui tu estimes que le risque réel — garnison, fermeture, noms livrés dans un rapport — valait quinze pour cent et un arriéré avant que le conseil entrant ne verrouille les preuves. Ce n'est plus une querelle de bureau : c'est le prix que tu fixes pour des années où tu as tenu le Tripot ouvert pendant que la banque salissait ses livres.
+
+Les carnets VIP d'Edorian donnent une base nette : de IX-542 à VIII-547, 163 500 couronnes sont passées par les contrats VIP, dont dix pour cent pour ta caisse interne, soit 16 350 couronnes. Cet argent n'est pas la réserve du Tripot ni la paie de l'équipe : c'est le paiement du risque UBI, séparé des livres officiels et des fonds des Rédempteurs.
 
 Depuis deux ans, des incidents frappent le casino : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Six de ces gardes sont morts récemment sur les quais. Ardan soupçonnait l'un d'eux. Holgrim, chef des gardes de la banque, n'a jamais donné suite à tes signalements. Avec les morts, il te considère davantage comme un problème que comme une plaignante.
 
@@ -202,6 +207,8 @@ Edorian est intouchable au sens où il compte pour les familles riches d'Il-Irio
 
 Tu es toujours Exécutrice sur l'île d'Ulghart : les douze assassins te répondent encore, en dehors de ce que le Tripot affiche. Les messagers passent par les comptes séparés ou par rendez-vous discrets en ville basse ou au casino. Tu reverses ce qu'on attend de toi sans discuter en public. En échange, ils ne demandent pas de compte sur ta sève grise ni sur les noms que tu cherches pour Therne. Aucun membre du Tripot ne sait que tu restes liée aux Rédempteurs. Depuis quelques jours Fenric a des doutes. Non pas sur la guilde elle-même, mais sur l'origine du réseau qui protège le Tripot et la raison de cette triple comptabilité.
 
+Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas : c'est le total reversé à MV, soit trente pour cent des mandats depuis 540. Elle vient de tes années comme Exécutrice : parts sur les mandats propres, honoraires de coordination, prélèvements sur les douze assassins rattachés à l'île, et quelques affaires que tu as traitées toi-même quand la cible touchait trop près au Tripot. Elle est séparée du paiement VIP UBI : autre caisse, autres carnets, autres risques.
+
 La guilde t'a rappelé plusieurs fois la consigne si la place devient trop dangereuse : tu libères le casino. Elle le reprendra d'une façon ou d'une autre — autre façade, autre contrat, autre nom sur la porte. Toi, tu quittes le titre d'Exécutrice et tu acceptes une retraite bien méritée. Dans leur langage, cela veut souvent dire peu d'années devant toi, pas un port tranquille. Tu préfères encore tenir Ulghart tant que l'arriéré banque et le nom du payeur de Therne ne sont pas réglés.
 
 ## Kaelan, Raven et les Sangs
@@ -234,7 +241,7 @@ Calis Aedris observe les flux du Tripot pour la maison Aedris : pas d'alliance o
 
 ## Annexe — les douze du réseau (Il-Irion)
 
-Sous ton mandat d'Exécutrice, la guilde te confie douze assassins rattachés à l'île d'Ulghart. La plupart viennent du port d'Il-Irion ou y repassent encore pour les contrats. Tu les connais par leur nom, leur spécialité, et la façon dont ils entrent ou sortent du fort sans attirer la garnison. L'équipe du Tripot ignore leurs visages ; seul toi (et parfois Varek, de loin) croises leurs passages.
+Sous ton mandat d'Exécutrice, la guilde te confie douze assassins rattachés à l'île d'Ulghart. La plupart viennent du port d'Il-Irion ou y repassent encore pour les contrats. Tu les connais par leur nom, leur spécialité, et la façon dont ils entrent ou sortent du fort sans attirer la garnison. L'équipe du Tripot ignore leurs visages ; seul toi (et parfois l'un des Varek, de loin) croises leurs passages.
 
 | Nom | Spécialité d'intervention |
 |-----|---------------------------|

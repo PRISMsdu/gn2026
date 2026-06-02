@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Fenric Ossel |
-| Rôle dans le groupe | Maître des registres — comptabilité, réserves, livres |
+| Joueur | Thierry |
+| E-mail joueur | thierry.gabarre@free.fr |
+| Rôle dans le groupe | Maître des registres |
 | Classe / profession | Erudit |
 | Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -43,7 +45,7 @@ Epopée en Krondaar
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Trois registres distincts avec Marda ; discrétion professionnelle envers l'UBI et l'équipe. Recherché par la police des fraudes de Ther-Félis depuis ta fuite — jamais repris. |
 | Âge | 59 ans (année 547) |
-| Doublons (or) | 100 |
+| Argent | 13 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -127,7 +129,7 @@ Le nouveau conseil parle d'audit, d'intégrité, de saisies. Si quelqu'un saisit
 
 Tu fais confiance à Marda. Elle t'a confié les deux premiers registres et une fraction du troisième ; elle t'a payé, protégé, tenue informé sur Edorian et l'otage. Tu ne trahis pas cette confiance.
 
-Tu vois pourtant des signes que tu ne sais pas ranger dans une colonne : visiteurs du troisième registre qui ne jouent pas ; allées et couloirs où Ardan ou Varek ferment le passage sans t'expliquer ; morts sur les quais qui changent le ton de la maison ; mafia qui recule parfois sans que tu voies la dette correspondante dans tes livres.
+Tu vois pourtant des signes que tu ne sais pas ranger dans une colonne : visiteurs du troisième registre qui ne jouent pas ; allées et couloirs où Ardan ou l'un des Varek ferme le passage sans t'expliquer ; morts sur les quais qui changent le ton de la maison ; mafia qui recule parfois sans que tu voies la dette correspondante dans tes livres.
 
 Marda cache sans aucun doute une autre activité — plus large que la comptabilité, plus dure que le blanchiment banque. Tu ne lui en as pas parlé ouvertement : tu crains qu'elle aille trop loin quelque part de très dangereux, pas qu'elle te mente sur les totaux du casino. Cette peur ne coupe pas ta loyauté ; elle te pousse à fermer vite les bons registres et à rester près d'elle quand la Convention serre.
 
@@ -146,7 +148,7 @@ La Convention remplit le fort. La délégation de Ther-Félis est à Ulghart pou
 
 Tu ouvres et fermes le registre officiel pour l'UBI. Tu mets à jour le registre officieux avec Marda : réserves, bordereaux, preuves du dix pour cent → quinze pour cent. Tu saisis dans le registre secret ce qu'elle te confie ; le reste reste sous sa clef.
 
-Avant une soirée chargée, Marda et toi recoupez les trois registres. Quand Éliane monte une cote risquée, tu cadres les écritures visibles. Quand Varek remonte un nom, tu décides s'il entre dans un livre ou reste sur un papier à part.
+Avant une soirée chargée, Marda et toi recoupez les trois registres. Quand Éliane monte une cote risquée, tu cadres les écritures visibles. Quand l'un des Varek remonte un nom, tu décides s'il entre dans un livre ou reste sur un papier à part.
 
 ## Objectifs prioritaires
 

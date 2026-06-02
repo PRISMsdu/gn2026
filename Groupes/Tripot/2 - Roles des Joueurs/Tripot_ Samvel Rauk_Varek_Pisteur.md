@@ -1,4 +1,4 @@
-# Varek — Pisteur
+# Samvel Rauk — Varek, pisteur du quai
 
 <!-- Tripot — métadonnées rédaction (hors texte joueur). -->
 
@@ -32,8 +32,10 @@ Epopée en Krondaar
 
 | Libellé | Valeur |
 |---------|--------|
-| Nom du personnage | Varek |
-| Rôle dans le groupe | Pisteur — filatures, signaux, quai et coulisses |
+| Nom du personnage | Samvel Rauk, dit Varek |
+| Joueur | Sam |
+| E-mail joueur | samlcd.moget@gmail.com |
+| Rôle dans le groupe | Pisteur — filatures, quai, sorties |
 | Classe / profession | Guerrier |
 | Compétences | Apnée ; Secourisme |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -42,8 +44,8 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Âge | 41 ans (année 547) |
-| Remarques | Ancien traqueur de la République styrgienne ; réseau d'informateurs actif au-delà d'Ulghart. |
-| Doublons (or) | 100 |
+| Remarques | Ancien traqueur de la République styrgienne ; réseau d'informateurs actif au-delà d'Ulghart. Marda utilise le nom de code Varek pour deux pisteurs du Tripot. |
+| Argent | 7 200 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -95,15 +97,17 @@ Il y a dix ans, la chaleur est remontée. Un cousin d'Orlen servait dans un dét
 
 Marda reprenait le Tripot d'Ulghart après la réorganisation de l'UBI. Elle t'a proposé un poste officiel : pisteur, filatures, quai, coulisses. Le fort te donnait des murs, des couloirs que tu apprends en une saison, et une couverture : employé du casino, pas fugitif de l'armée styrgienne.
 
+Elle t'a aussi donné un nom de code : Varek. Plus tard, elle a confié le même nom à Theodran Veyr pour les couloirs, les salons et les relais internes. Pour les gens de l'extérieur, Varek reste un seul pisteur du Tripot. Pour Marda et Ardan, vous êtes deux yeux qui ne regardent pas la même porte.
+
 Tu as accepté pour te planquer, pas pour devenir croupier. Marda sait que tu as tué Orlen (note des orgas: tu dois lui dire en jeu); elle ne sait pas tout sur les dix ans d'armée, mais elle sait assez pour ne pas te confier aux délégations styrgiennes sans prévenir. L'équipe croit surtout que tu viens des ports et que tu « connais du monde ».
 
 ## Dix ans au Tripot — pisteur et réseau actif
 
-Depuis dix ans, tu travailles au Tripot d'Ulghart. De jour ou de nuit, tu es sur le quai, dans les couloirs de service, sur les terrasses où l'on fume sans badge. Ardan te donne les priorités de sécurité ; tu lui remontes les visages, les heures, les doubles passages.
+Depuis dix ans, tu travailles au Tripot d'Ulghart. De jour ou de nuit, tu es surtout sur le quai, aux sorties de service, sur les terrasses où l'on fume sans badge et près des accès par lesquels les délégations croient passer discrètement. Ardan te donne les priorités de sécurité ; tu lui remontes les visages, les heures, les doubles passages.
 
 Tu continues à faire travailler ton réseau au-delà de l'île. Des messages partent par gabier, par commissionnaire, par homme de main qui ne sait pas pour qui il porte le pli. Tu vends encore de l'information quand Marda n'a pas besoin de toute ta journée, mais tu ne livres pas la maison : un client qui paie pour savoir si le Tripot blanchit de l'or reçoit un refus ou un mensonge contrôlé.
 
-Sira et Lira Vestrann t'envoient des noms de tricheurs et de parieurs addicts ; tu recoupes. Éliane te demande qui mise trop sur la régate. Guelievre te donne ce qu'elle entend en rangeant le linge ; tu vérifies dehors. Ysabeau te signale qui ne doit pas entrer ; Lydwen te souffle parfois un nom à filer avant qu'une carte ne le dise en public.
+Sira et Lira Vestrann t'envoient des noms de tricheurs et de parieurs addicts ; tu recoupes. Éliane te demande qui mise trop sur la régate. Guelievre te donne ce qu'elle entend en rangeant le linge ; tu vérifies dehors. Ysabeau te signale qui ne doit pas entrer. Theodran vérifie ce qui se passe dedans quand tu tiens les quais. Lydwen te souffle parfois un nom à filer avant qu'une carte ne le dise en public.
 
 ## Régate, banque, six morts — ce week-end
 
@@ -119,7 +123,7 @@ La Convention et la Régate remplissent le fort. Les délégations styrgiennes t
 
 ## Ton rôle au quotidien
 
-Tu surveilles le quai, les arrivées, les couloirs et les sorties de service. Tu filatures, tu poses des signaux discrets à Ardan ou à Soren, tu recoupes ce que Guelievre et les tables t'envoient.
+Tu surveilles le quai, les arrivées, les sorties de service et les abords du fort. Tu filatures, tu poses des signaux discrets à Ardan ou à Soren, tu recoupes ce que Guelievre, Theodran et les tables t'envoient.
 
 Tu entretiens ton réseau par messages et rencontres brèves en ville basse ou au port : qui doit combien, qui rencontre qui, quelle barque est attendue sans être au registre officiel. Tu rapportes à Marda par faits, pas par romans.
 
@@ -130,12 +134,14 @@ Tu entretiens ton réseau par messages et rencontres brèves en ville basse ou a
 - Protéger les opérations discrètes du Tripot sans te mettre en vitrine : tu ne négocies pas à la place de Marda avec la mafia ou la banque.
 - Tenir ton réseau actif sans vendre la maison : refuser ou détourner les demandes qui visent directement Marda, Fenric ou les registres cachés.
 - Repérer tôt toute présence styrgienne qui pourrait te lier à Orlen ou à l'armée régulière ; prévenir Marda avant d'agir seul.
+- Coordonner avec Theodran, l'autre Varek : il tient les couloirs et les salons pendant que tu tiens les quais. Ne laissez pas deux versions différentes au même témoin.
 
 ## Informations sensibles
 
 - Orlen, la fiole et la désertion : si un styrgien te nomme, alerte Marda avant de répondre en salle.
 - Ton réseau dépasse le Tripot ; l'équipe sait que tu « connais du monde », pas combien de maillons tu paies encore.
 - Vendre une information sur la maison pour acheter ta sécurité personnelle ferait de toi un problème pour tout le groupe.
+- Le nom Varek est partagé. Un extérieur qui demande « Varek » ne doit pas savoir lequel de vous deux il a déjà vu.
 
 # Connaissances
 

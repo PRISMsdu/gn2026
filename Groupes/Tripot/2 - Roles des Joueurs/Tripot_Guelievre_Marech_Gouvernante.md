@@ -32,7 +32,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Guelievre Marech |
-| Rôle dans le groupe | Gouvernante — réserves, service, couloirs ; yeux et oreilles de Marda |
+| Joueur | Geneviève |
+| E-mail joueur | **email** |
+| Rôle dans le groupe | Gouvernante — réserves, service, coulisses |
 | Classe / profession | Erudit |
 | Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -42,7 +44,7 @@ Epopée en Krondaar
 | Armes autorisées | lame courte |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Papoter et rapporter — pas de promesse ni de signature à la place de Marda. |
-| Doublons (or) | 50 |
+| Argent | 6 800 couronnes |
 | Pugilat | 1 |
 
 ## Apparence et caractère
@@ -94,7 +96,7 @@ La banque cherche un nouveau gestionnaire. Marda Velyss reprend le contrat et ro
 
 Elle te rappelle de ta retraite. Elle a besoin de quelqu'un qui connaît la baraque et qui rapporte sans peur. Tu acceptes : l'or est modeste, mais le fort te manquait. Tu tiens réserves, linge, listes de présence, thé du matin pour l'équipe.
 
-Chaque matin, Marda te demande : « Qu'as-tu entendu ? » Tu réponds sans embellir. Ardan compte sur tes signaux avant d'intervenir en salle. Varek reprend tes heures et tes noms pour vérifier dehors. Ysabeau te doit des faveurs quand tu ranges ses VIP ivres dans leurs chambres. Fenric ferme sa porte ; tu frappes, il dit oui ou non — les chiffres ne sont pas ton métier. Tu ne promets rien aux clients ; tu ne signes rien.
+Chaque matin, Marda te demande : « Qu'as-tu entendu ? » Tu réponds sans embellir. Ardan compte sur tes signaux avant d'intervenir en salle. Samvel Varek reprend tes heures et tes noms pour vérifier dehors ; Theodran Varek vérifie les couloirs et les salons. Ysabeau te doit des faveurs quand tu ranges ses VIP ivres dans leurs chambres. Fenric ferme sa porte ; tu frappes, il dit oui ou non — les chiffres ne sont pas ton métier. Tu ne promets rien aux clients ; tu ne signes rien.
 
 Depuis quinze ans, tu n'as plus de nouvelles vérifiables de Halven, de Sorelle ni de Dain — ni lettre, ni message par capitaine, ni visite au port. Tu ne sais pas s'ils sont morts, ruinés ou s'ils ont choisi de ne plus écrire. Tu gardes leurs noms pour toi ; si un visage du sud ou d'Arthas te rappelle la famille, tu en parles à Marda en privé avant d'accuser quoi que ce soit en salle.
 
@@ -139,7 +141,7 @@ Holgrim commande les gardes de l'Union bancaire au fort. Tu lui as remis des pla
 
 ## Kaelan Thormane / Raven — mafia — quai
 
-Les hommes des Sangs de la Steppe passent parfois par les couloirs sans entrer par la salle principale. Tu entends des noms — Kaelan, Raven — sans toujours savoir qui commande. Ton rôle : signaler une visite ou une livraison tardive à Marda ou à Varek, pas négocier. Si un homme mafieux te demande de fermer les yeux sur une réserve, tu refuses et tu préviens. TU les reconnaitras dès le début de la convention ce week-end, ils sont mélés à la Guilde des Ports Unis.
+Les hommes des Sangs de la Steppe passent parfois par les couloirs sans entrer par la salle principale. Tu entends des noms — Kaelan, Raven — sans toujours savoir qui commande. Ton rôle : signaler une visite ou une livraison tardive à Marda ou à l'un des Varek, pas négocier. Si un homme mafieux te demande de fermer les yeux sur une réserve, tu refuses et tu préviens. TU les reconnaitras dès le début de la convention ce week-end, ils sont mélés à la Guilde des Ports Unis.
 
 ## Joric Tann — Ther-Félis — délégation
 

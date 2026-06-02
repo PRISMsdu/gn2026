@@ -91,4 +91,11 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
     [ ] ajouter Varek comme distributeur de composants magiques + Marda
  
 -->
+[ ] faire les contrats
+- sous-traiteance ther-felis
+- remettre les magnificences à tous les groupes
+- remettre a sybrel la véritable histoire
+- ajouter dans le role de varek une mention sur la compagnie du dolmen rouge, ainsi que Mafia, palyr, Sybrel
+- faire le texte et les contrats du détournement d'argent pour les autres cités.
+- checker le changement de loblat palyr en Legat.
 

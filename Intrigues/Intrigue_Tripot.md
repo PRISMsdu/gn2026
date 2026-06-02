@@ -12,8 +12,8 @@
 - **Nom de l'intrigue** : La Fuite des Margoulins
 - **Groupe concerné** : Tripot — équipe du casino du fort d’Ulghart (Il-Irion)
 - **Type d'intrigue** : Survie financière, négociation, évasion, truands honorables
-- **Effectif** : **onze joueurs** (PJ listés ci-dessous)
-- **Casting (genre des PJ)** : **sept personnages féminins** — Marda, Sira, Lira, Lydwen, Ysabeau, **Éliane**, **Guelievre** ; **quatre masculins** — Ardan, Varek, Soren, Fenric.
+- **Effectif** : **douze joueurs** (PJ listés ci-dessous)
+- **Casting (genre des PJ)** : **sept personnages féminins** — Marda, Sira, Lira, Lydwen, Ysabeau, **Éliane**, **Guelievre** ; **cinq masculins** — Ardan, Samvel/Varek, Theodran/Varek, Soren, Fenric.
 - **Contrainte temporelle orga** : les PJ Tripot ne peuvent **pas** quitter le site avant le **samedi minuit** (verrou à caler avec le calendrier GN) — à exploiter comme pression dramatique.
 
 ---
@@ -50,7 +50,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 - **Sécuriser Palyr** : **or**, **bateau**, **passeurs**, **silence** — en échange d’**informations** sur l’UBI ou de **services** (régate, fer, rumeurs) à caler avec Palyr.
 - **Soren et la Brigade** (enjeu MJ, pas objectif collectif dans le back) : ancien cadre, traque possible — si Soren tombe, le Tripot perd un pilier chimique et une partie du mythe « famille Tripot ». **Qui sait quoi au départ** : voir section **Information réservée — traque Soren / Brigade** ; ne pas poser « protéger Soren contre la Brigade » comme objectif partagé dans `Back_groupe_Tripot.md`.
 - **Exploiter l’artefact** (levier) : savoir **quoi** négocier sans **casser** le mystère pour les banquiers PJ — le détail précis reste **MJ**.
-- **Tenir les salles** : **Varek** / **Ardan** / **Sira & Lira** / **Éliane** : pas de double langage qui brûle la réputation avant la caisse.
+- **Tenir les salles** : les deux **Varek** / **Ardan** / **Sira & Lira** / **Éliane** : pas de double langage qui brûle la réputation avant la caisse. Les extérieurs ne savent pas toujours que Varek est un nom de code partagé.
 
 ---
 
@@ -70,7 +70,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 
 ### Humains
 
-- **Dix PJ** : tableau « Identité du groupe » ; **gardes** PNJ, **croupiers** de renfort, **clients** foule.
+- **Douze PJ** : tableau « Identité du groupe » ; **gardes** PNJ, **croupiers** de renfort, **clients** foule.
 - **Contacts externes** : banque (Edorian, conseil), mafia (Kaelan, Raven), Palyr (à nommer selon intrigue Palyr), Il-Irion (familles, délégations).
 
 ### Informationnels
@@ -119,7 +119,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 
 ## Identité du groupe (orga)
 
-### Équipe du Tripot (onze joueurs)
+### Équipe du Tripot (douze joueurs)
 
 | Nom du personnage | Rôle | Compétences | Classe | Joueur |
 |-------------------|------|-------------|--------|--------|
@@ -127,7 +127,8 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 | **Ardan Trevil** | Capitaine des gardes du casino | Sécurité du Tripot (salles, accès), force, coordination pisteur — pas le fort ni la citadelle | *selon table* | *à compléter* |
 | **Sira Vestrann** | Croupière (sœur de Lira) | Tables, lecture des émotions, réseau « addicts » | *selon table* | *à compléter* |
 | **Lira Vestrann** | Croupière (sœur de Sira) | Manipulation, codes de salle, complément Sira | *selon table* | *à compléter* |
-| **Varek** | Pisteur | Filatures, signaux, réseau quai | *selon table* | *à compléter* |
+| **Samvel Rauk, dit Varek** | Pisteur du quai | Filatures extérieures, signaux, réseau quai | *selon table* | Sam |
+| **Theodran Veyr, dit Varek** | Pisteur des coulisses | Filatures internes, salons, relais et signaux | *selon table* | Theodore |
 | **Lydwen** | Oracle — cartes | Visions, levier « artefact », tempo dramatique | *selon table* | *à compléter* |
 | **Éliane** | Maîtresse des paris | Cotes, régate, juges | *selon table* | *à compléter* |
 | **Ysabeau** | Hôtesse — charmes | VIP, salons, négociation molle | *selon table* | *à compléter* |
@@ -138,7 +139,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 ### Information réservée — traque Soren / Brigade Noire
 
 - **Canon** : le passé de **Soren** (désertion, **Brigade Noire**, risque d’arrestation ou de **bargaining**) est une relance MJ ; **seuls Soren et Lydwen** sont briefés avec le **détail exploitable** en début de partie — **Lydwen** parce que l’**oracle** peut recevoir visions / tirages qui nomment la menace (arbitrage MJ) ; **Soren** évidemment.
-- **Les neuf autres PJ** ne « savent » pas ce calibrage dans leurs documents : ils peuvent avoir vu qu’il a un **passé lourd**, que Marda lui a fait confiance, ou des rumeurs vagues — mais **pas** la synthèse « Brigade = menace extérieure structurée » tant que ça ne sort pas **en jeu** (scène, indice, confidence).
+- **Les dix autres PJ** ne « savent » pas ce calibrage dans leurs documents : ils peuvent avoir vu qu’il a un **passé lourd**, que Marda lui a fait confiance, ou des rumeurs vagues — mais **pas** la synthèse « Brigade = menace extérieure structurée » tant que ça ne sort pas **en jeu** (scène, indice, confidence).
 - **Ne pas** mettre dans `Back_groupe_Tripot.md` une puce du type « le groupe assume la protection de Soren contre la Brigade » : ce serait une info de relance présentée comme vérité de table pour tous.
 
 ### Secret de personnage — double jeu comptable (MJ + un PJ)

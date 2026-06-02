@@ -118,6 +118,10 @@ Kaelen Veynar partage parfois tes rondes. Il ne pose pas de questions sur ce que
 
 Shadow sait qui tu es et il est ici, tu le sens. Ce que tu lui dois, ce que tu lui ferais, tu ne le sais pas encore. Il est le point le plus imprévisible de ta situation actuelle.
 
+Theodran Veyr, que le Tripot appelle Varek, revient souvent dans tes angles morts. Il connaît les coulisses, les salons et les passages de service avec la même précision que toi dans les tunnels. À force de vous croiser dans les mêmes chemins cachés, vous avez appris à vous reconnaître avant même de vous voir vraiment. Il t'a déjà facilité un passage quand une ronde ou un client gênait ta trajectoire. Tu lui as rendu le même genre de service quand il avait besoin qu'un couloir reste calme ou qu'une porte ne soit pas regardée trop longtemps.
+
+Tu l'apprécies plus que tu ne l'avoues. Il ne parle pas trop, il observe juste, et il comprend la valeur d'un silence tenu. Il y a pourtant quelque chose d'étrange chez lui : Varek ressemble moins à un simple nom qu'à une couverture avec trop de bords. Tu ne sais pas ce qu'il cache. Tu sens seulement que ce n'est pas proprement hostile. Lui aussi doit sentir que ton rôle à l'UBI ne dit pas toute la vérité. Cela ne vous empêche pas de vous respecter.
+
 Le groupe entier est dans la combine depuis trois ans. Tu le sais. Ils savent que tu le sais. Ce n'est pas de la confiance. C'est une situation où personne ne peut se permettre que l'autre parte sans prévenir.
 
 La manière dont l'UBI a glissé vers les détournements et les morts te dégoûte de plus en plus. Tu restes dans le plan parce que sortir seule te ferait tomber immédiatement, pas parce que tu y crois encore. En parallèle, tu gardes une ligne ouverte pour les survivants des Premiers Nés : pas de slogans, pas de serments en salle ; des couloirs libres au bon moment, un silence utile quand une question de trop se pose. Peut-être partir plutôt avec eux ?
@@ -148,6 +152,14 @@ Tu connais les tunnels et coursives du fort mieux que quiconque, y compris ceux 
 ## Shadow — Sangs de la Steppe
 
 Shadow est membre des Sangs de la Steppe. Il était présent le jour où le protocole prévoyait de te laisser tomber à quatorze ans. Il a fait l'autre choix. Tu lui dois d'être encore là — mais tu ne sais pas pourquoi il a fait ce choix, et tu ne sais pas ce qu'il attend en retour. Il sait que tu es à la banque. Il est à Ulghart pour la Régate. Ce croisement va produire quelque chose. Tu ne sais pas quoi.
+
+## Theodran Veyr — Varek du Tripot
+
+Theodran circule dans les coulisses du Tripot sous le nom de Varek. Vos territoires se touchent : toi dans les tunnels et les coursives de l'UBI, lui dans les salons, les réserves et les passages cachés du casino. Vous vous êtes croisés assez souvent pour savoir que l'autre n'est pas un simple figurant.
+
+Vous vous êtes déjà entre-aidés plusieurs fois sans formaliser quoi que ce soit. Une porte qui reste ouverte, une ronde qui regarde ailleurs, un témoin qui trouve soudain une bonne raison de changer de couloir. Ce n'est pas une alliance officielle. C'est une reconnaissance de gens qui travaillent dans les mêmes interstices et qui savent qu'un bruit de trop peut coûter cher.
+
+Tu sens chez lui quelque chose qui ne colle pas. Il cache une complication autour du nom Varek, ou autour de ceux qui l'emploient. Tu ne sais pas laquelle. Tu n'as pas envie de la dénoncer pour autant. Lui doit sentir que tu n'es pas seulement l'ombre de l'UBI. Ce soupçon partagé crée une prudence, mais aussi une forme de respect.
 
 ## Recrues de la garde — ligne Premiers Nés
 

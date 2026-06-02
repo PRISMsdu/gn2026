@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Éliane |
-| Rôle dans le groupe | Maîtresse des paris — cotes, régate, juges, magot des paris |
+| Joueur | Mélanie |
+| E-mail joueur | melanie.moget@gmail.com |
+| Rôle dans le groupe | Maîtresse des paris — régate |
 | Classe / profession | Voleuse |
 | Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -42,7 +44,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Registres de paris — preuves potentielles ; aligner truquages avec Marda. |
-| Doublons (or) | 100 |
+| Argent | 7 600 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -74,7 +76,7 @@ Les premières semaines après réouverture, les paris maritimes et les tournois
 
 Pendant plusieurs années, tu calibres les cotes pour orienter la salle sans exposer le truquage. Sira et Lira Vestrann te donnent le tempo des mains ; quand Marda l'ordonne, vous ajustez une main ou une cote de concert. Lydwen te donne parfois un créneau horaire ou un détail sur une soirée ; Marda l'utilise pour trancher, pas pour annoncer l'avenir aux clients.
 
-Varek te remonte les parieurs qui misent trop, mal ou trop souvent. Ysabeau t'amène les VIP vers les tableaux où l'or circule vite. Guelievre signale les foules bizarres dans les couloirs ; tu modifies les cotes si la salle devient difficile à lire.
+Les Varek te remontent les parieurs qui misent trop, mal ou trop souvent. Ysabeau t'amène les VIP vers les tableaux où l'or circule vite. Guelievre signale les foules bizarres dans les couloirs ; tu modifies les cotes si la salle devient difficile à lire.
 
 Plusieurs régates passées ont laissé des traces : chez des clients qui croient encore devoir quelque chose, et dans tes registres. Marda valide ou refuse chaque manipulation selon le risque pour la réputation de la maison.
 
@@ -106,7 +108,7 @@ Si plusieurs personnes soudoient le même juge avec des montants ou des promesse
 
 Les paris maritimes, la régate et les tableaux affichés passent par toi. Tu tiens les registres de paris et tu recouples ce que tu vois avec les mains de Sira et Lira. Quand Ysabeau amène un VIP, tu choisis le tableau et la cote qui servent la maison.
 
-Varek te signale un parieur suspect : tu ajustes la cote ou tu alertes Marda. Fenric te demande de calmer une écriture visible : tu décides ce qui reste sur le registre officiel. 
+L'un des Varek te signale un parieur suspect : tu ajustes la cote ou tu alertes Marda. Fenric te demande de calmer une écriture visible : tu décides ce qui reste sur le registre officiel. 
 
 ## Objectifs prioritaires
 
@@ -131,7 +133,7 @@ Dessous de table, routes intermédiaires ; mêmes noms que mafia, Palyr, marins 
 
 ## Paris croisés — marins, Ther-Félis — Quai, délégations
 
-Paris et rumeurs qui traversent le Tripot ; recouper avec Varek si des capitaines ou des gens de Ther-Félis misent gros.
+Paris et rumeurs qui traversent le Tripot ; recouper avec les Varek si des capitaines ou des gens de Ther-Félis misent gros.
 
 ## Clients de régates passées — Divers
 

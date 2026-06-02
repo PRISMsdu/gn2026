@@ -33,7 +33,9 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ysabeau |
-| Rôle dans le groupe | Hôtesse — VIP, charmes, salons où l'on signe |
+| Joueur | Marina |
+| E-mail joueur | matthieu-wolf@laposte.net |
+| Rôle dans le groupe | Hôtesse — VIP, salons |
 | Classe / profession | Voleuse |
 | Compétences | Erudit |
 | Groupe | Tripot (casino du fort d'Ulghart) |
@@ -43,7 +45,7 @@ Epopée en Krondaar
 | Armure autorisée | Cuir clouté maximum |
 | Âge | 31 ans (année 547) |
 | Remarques | Salons VIP — charmes en négociation douce. |
-| Doublons (or) | 100 |
+| Argent | 7 300 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -95,9 +97,9 @@ En 535, un homme que tu ne connais pas t'observe depuis trois soirs dans le trip
 
 Marda te reçoit une semaine plus tard. Elle ne demande pas ton passé d'esclave ; elle te fait lire un contrat de dette truqué et te demande comment tu l'aurais fait signer. Tu réponds. Elle te retient pour les VIP et les salons où l'on signe autant que l'on joue.
 
-Il y a dix ans, en l'an 537, elle reprend le casino du fort d'Ulghart. Tu as vingt et un ans. Tu la suis à Ulghart avec les autres qu'elle a choisis : Ardan pour l'ordre en salle, les sœurs Vestrann pour les tables, Varek pour le quai, Éliane pour les paris, Lydwen pour les tirages. Tu tiens les salons où les notables boivent, flattent et s'engagent ; Éliane t'envoie ensuite les VIP vers les tableaux de paris, Sira et Lira vers les tables.
+Il y a dix ans, en l'an 537, elle reprend le casino du fort d'Ulghart. Tu as vingt et un ans. Tu la suis à Ulghart avec les autres qu'elle a choisis : Ardan pour l'ordre en salle, les sœurs Vestrann pour les tables, Samvel Varek pour le quai, Theodran Varek pour les coulisses et salons, Éliane pour les paris, Lydwen pour les tirages. Tu tiens les salons où les notables boivent, flattent et s'engagent ; Éliane t'envoie ensuite les VIP vers les tableaux de paris, Sira et Lira vers les tables.
 
-Pendant dix ans, tu as amené des capitaines, des patriciens d'Il-Irion et des délégués de passage jusqu'aux accords que Marda voulait. Tu signes des dettes en salon quand Edorian de Courcel demande d'effacer une trace avant l'aube — promesses de bouche scellées par un regard ou une phrase, pas toujours par un registre Fenric. Ardan te rappelle quand un charme pousse trop fort ; Varek te dit qui ne doit pas franchir la porte du salon.
+Pendant dix ans, tu as amené des capitaines, des patriciens d'Il-Irion et des délégués de passage jusqu'aux accords que Marda voulait. Tu signes des dettes en salon quand Edorian de Courcel demande d'effacer une trace avant l'aube — promesses de bouche scellées par un regard ou une phrase, pas toujours par un registre Fenric. Ardan te rappelle quand un charme pousse trop fort ; Theodran Varek te dit qui ne doit pas franchir la porte du salon.
 
 ## Cinq ans de flux UBI et salons compromis
 
@@ -109,9 +111,11 @@ Quand Edorian accélère les volumes, Marda te réveille parfois après minuit :
 
 La Convention et la Régate remplissent le fort en 547. Les salons que tu tiens accueillent juges, armateurs, délégués palyriens et notables qui reviennent tous les cinq ans. Tu connais leurs addictions au jeu, leurs alliances fragiles, leurs promesses non écrites de régate passée.
 
-Melian Torv, conseiller spirituel de l'UBI, croise parfois tes soirées ; Lydwen et toi devez recouper avant toute scène coffre ou salon commun où il est présent. Les arrangements avec Palyr — aide à la fuite, dettes croisées — passent souvent par une phrase dite chez toi avant d'atteindre la table. Tu facilites les rencontres entre banque, mafia et délégations sans humilier publiquement les chefs : une humiliation en salon fait fuir l'or et appelle la garnison.
+Tu es souvent la première personne du Tripot à recevoir les perdants VIP du circuit Edorian. Certains arrivent comme de vrais clients qui veulent perdre sans bruit ; d'autres sont des émissaires qui apportent une somme sous couvert de la perdre aux dés ou aux cartes. Tu ne tiens pas le registre VIP, mais tu prépares la scène : salon fermé, boisson, conversation, témoin utile ou absent selon la consigne de Marda.
 
-Marda fixe ce que tu peux promettre ; Ardan coupe si la salle dérape ; Varek filtre les entrées. Tu n'es pas croupière : tu prépares la signature, pas la carte.
+Ces versements ne doivent jamais ressembler à un dépôt bancaire. Le visiteur doit repartir avec l'histoire qu'il est venu jouer, perdre, signer ou remettre une dette de salon. Ensuite seulement Éliane, Fenric ou Marda traduisent la scène en écriture. Ton travail est de rendre le mensonge socialement crédible avant que les chiffres existent.
+
+Marda fixe ce que tu peux promettre ; Ardan coupe si la salle dérape ; Theodran Varek filtre les entrées de salon. Tu n'es pas croupière : tu prépares la signature, pas la carte.
 
 ---
 
@@ -119,35 +123,88 @@ Marda fixe ce que tu peux promettre ; Ardan coupe si la salle dérape ; Varek fi
 
 ## Ton rôle au quotidien
 
-Tu accueilles les VIP dans les salons du Tripot : boisson, conversation, présentation vers Éliane, les sœurs Vestrann ou Marda selon le dossier. Tu fais signer des dettes, des promesses de service ou des rendez-vous différés quand Marda valide le risque. Tu retiens un hôte par la parole ; si la situation dérape, tu préviens Ardan avant qu'un client n'appelle les gardes du fort.
+Tu accueilles les VIP dans les salons du Tripot : boisson, conversation, présentation vers Éliane, les sœurs Vestrann ou Marda selon le dossier. Tu fais signer des dettes, des promesses de service ou des rendez-vous différés quand Marda valide le risque. Tu retiens un hôte par la parole ; si la situation dérape, tu préviens Ardan.
 
 ## Objectifs prioritaires
 
 - Accueillir et retenir les VIP de la Régate — signatures, promesses, dettes non écrites que Marda pourra rappeler après la clôture.
-- Faciliter les négociations entre mafia, banque et délégations par le salon, sans humiliation publique des chefs qui paient encore leurs dettes.
-- Soutenir la régate : charmes ou introductions utiles sur juges et parieurs selon ce que Marda ordonne pour la soirée.
-- Recouper avec Lydwen avant toute scène coffre ou salon commun impliquant Melian Torv.
+- Recevoir les perdants désignés et émissaires du circuit VIP Edorian avant qu'ils passent aux tables ou aux écritures.
+- Faciliter les négociations par le salon.
 
 ## Informations sensibles
 
-- Charme trop visible ou trop répété sur la même cible attire les mauvais regards — coordonne avec Ardan et Varek avant de pousser deux fois le même notable.
-- Les promesses non écrites avec Palyr ou l'UBI ne valent qu'en jeu si elles sont dites devant témoin ou scellées selon ce que Marda exige ; sinon elles s'évaporent à la fermeture du fort.
+- Charme trop visible ou trop répété sur la même cible attire les mauvais regards — coordonne avec Ardan et Theodran Varek avant de pousser deux fois le même notable.
+- Les versements VIP liés à l'UBI doivent avoir l'air de pertes, de dettes ou de promesses de salon. Si quelqu'un parle de dépôt, de transfert ou de bordereau trop clairement, tu ralentis et tu préviens Marda.
 - Acte de liberté aquiléen (533) et bourse initiale : documents personnels ; ne pas les montrer sans raison de jeu forte.
 - Accent d'Aquiléa : reconnaissable par les émissaires du continent est ; tu peux le masquer partiellement, pas totalement sur une longue conversation.
 
 # Connaissances
 
-## Melian Torv — UBI — conseiller spirituel
+## Circuit VIP Edorian — perdants désignés
 
-Il suit l'artefact en coffre avec Edorian de Courcel. Lettres et engagements croisent banque et foi. Avant toute scène coffre ou salon commun où il est présent, recouper avec Lydwen : Melian est le pont Palyr, foi et coffres ; une phrase mal placée en salon peut coûter une alliance à Marda.
+Le registre VIP ne passe pas par toi, mais beaucoup de scènes commencent dans tes salons. Un « perdant désigné » est un visiteur qui apporte une somme sous couvert de la perdre aux dés ou aux cartes. Un « émissaire » est reçu en salon fermé ou en tournoi privé avant que Fenric ou Marda ne fasse sortir l'écriture propre.
 
-## Notables Il-Irion — clientèle VIP
+Tu ne demandes pas d'où vient l'argent. Tu vérifies seulement que le visiteur tient son rôle : assez détendu pour être crédible, assez guidé pour ne pas parler comme un comptable, assez isolé pour que la salle principale ne voie pas la mécanique.
 
-Dossiers internes du Tripot : dettes de salon, rumeurs de régate passée, noms de capitaines et de patriciens que tu as fait attendre ou signer. Tu peux rappeler une promesse de bouche à un client qui prétend l'avoir oubliée — seulement si Marda valide le rappel public.
+## Personnalités VIP à reconnaître
+
+Ces noms sont les plus utiles pour tes salons : personnes capables de signer, promettre, perdre gros ou faire basculer une conversation. Tu ne leur arraches pas un secret ; tu les installes au bon endroit, tu observes qui ils évitent et tu préviens Marda quand une rencontre mérite d'être verrouillée.
+
+| Nom | Prénom | Groupe | Fonction | Anecdote jouable |
+|---|---|---|---|---|
+| de Courcel | Edorian | UBI | Directeur général sortant | Il cherche une sortie propre et des témoins maîtrisés. S'il passe par un salon, aucune formule ne doit ressembler à une confession comptable. |
+| Ventoss | Ydria | UBI | Trésorière du conseil | Elle parle peu, mais chaque correction de vocabulaire protège une ligne d'or. Note qui elle refuse de saluer. |
+| Quenndral | Selvara | UBI | Archiviste en chef | Elle entend les pièges dans les phrases trop vagues. Offre-lui un cadre précis ou elle écrira elle-même le sens de la scène. |
+| Dorn | Vaelric | UBI | Discréteur | Il fabrique les versions publiques. Si un salon dérape, il faut savoir s'il enterre l'affaire ou s'il la revend à quelqu'un. |
+| Valdrak | Corvyn | Palyr | Chef de délégation | Il arbitre pour Palyr et surveille les faiblesses de ses propres gens. Un salon trop bruyant autour de Saevar peut le faire sortir de sa réserve. |
+| Vandesse | Ilara | Palyr | Diplomate | Elle cherche le vote avant le compliment. Fais-la attendre avec quelqu'un d'utile, pas avec un bavard. |
+| Keld | Thoran | Palyr | Marchand | Routes, fret, quais, barèmes : il veut des faits. Un nom de capitaine ou un horaire d'escale vaut mieux qu'une flatterie. |
+| Morwyn | Lysa | Palyr | Trésorière | Elle ne demande pas un salon calme pour le décor. Si elle veut une table à l'écart, Fenric ou Marda doivent le savoir. |
+| Aedris | Calis | Il-Irion | Chef de coalition | Il tient la ligne maritime d'Il-Irion. Un incident de quai ou de régate le concerne plus sûrement qu'un discours de prestige. |
+| Valdris | Cyrion | Il-Irion | Diplomate | Il porte l'image d'une maison abîmée par d'anciens scandales. Ne cite pas les affaires de famille sans ordre de Marda. |
+| Kaelthorne | Seraphine | Il-Irion | Tête financière | Elle mesure les dettes avant les personnes. Si elle s'intéresse à une perte de salon, demande-toi qui sera tenu de payer. |
+| Marivent | Lucan | Il-Irion | Juriste | Il transforme les flottements en procédure. Devant lui, une promesse doit être courte, datée et attribuable. |
+| Marvek | Aurelian | Arthas | Représentant politique | Palyr cherche son appui pour une banque moins dépendante d'Il-Irion. Installe-le loin des disputes de quai : il pèse mieux en conversation cadrée. |
+| Jakmar | Cassiane | Arthas | Marchande / accords commerciaux | Elle complète la ligne politique d'Arthas par des termes commerciaux. Un rabais, une escale ou une garantie écrite peut l'intéresser plus qu'un toast. |
+| Kaelmar | Rauth | Ther-Félis | Chef de clan / voix officielle | Il porte la libre concurrence, les ports et les griefs contre Il-Irion. Un salon avec lui doit éviter les provocations sur les dettes. |
+| Orlac | Sven | Ther-Félis | Marin / skipper | Il connaît la régate et les routes maritimes. S'il parle d'un équipage ou d'une escale, préviens Éliane : les paris peuvent bouger vite. |
+| Aliriis | Synex | Sfaal | Chef de délégation | Sa délégation doit tenir le dossier du fer sans perdre la face. Un mot trop direct sur le dernier chargement peut fermer toute négociation. |
+| Naksane | Rym | Sfaal | Marchande et diplomate | Elle conseille Sfaal sur les routes liées à l'acier. Elle peut parler prix longtemps pour éviter de parler responsabilité. |
+| Jab-fer | Grisbe | Sfaal | Chef de la sécurité | Pas un client de salon classique, mais il accompagne les sujets sensibles. S'il reste près d'une porte, c'est que quelqu'un craint une sortie brutale. |
+| Thormane | Kaelan | Guilde des Ports Unis | Maître des quais | Il parle accès portuaires, dockers et priorités de passage. S'il demande un salon fermé, préviens Marda avant de promettre plus qu'une table. |
+| Raven | — | Guilde des Ports Unis | Maître des routes | Il négocie horaires, passages et informations. Ne lui donne jamais deux versions différentes d'une même soirée. |
+| Ironhand | Vorak | Guilde des Ports Unis | Maître des entrepôts | Stocks, chargements, portes de réserve : il sait faire parler la logistique. Utile si une livraison intéresse soudain trop de monde. |
 
 ## Émissaires aquiléens — risque de reconnaissance
 
 Aquiléa n'est pas membre de la Confédération, mais des négociants et des espions aquiléens circulent à Il-Irion et à Ulghart pendant la Convention. Ton accent et ton visage peuvent être recoupés avec le port d'origine. Si quelqu'un te nomme devant un salon, tu minimises ou tu fais appel à Marda selon la gravité — fuir seule n'est pas une option sous le fort.
+
+## Annexe — Le charme d'Ysabeau
+
+Tu disposes de **5 cartes "Sous le charme d'Ysabeau"** pour tout le GN.
+
+Après une scène où tu as réellement pris le temps de séduire socialement quelqu'un — accueil au salon, écoute attentive, flatterie juste, confidence, verre offert, consolation après une perte — tu peux lui remettre discrètement une carte.
+
+La personne qui reçoit cette carte tombe momentanément sous ton charme. Elle n'est pas contrôlée, mais elle est poussée à accéder à une demande raisonnable qu'elle aurait normalement refusée ou discutée plus longtemps.
+
+Exemples de demandes possibles :
+
+- obtenir un entretien privé ;
+- être présentée à une personne importante ;
+- faire patienter quelqu'un ;
+- obtenir une information sociale ou mondaine ;
+- déplacer une table, une rencontre ou une conversation ;
+- faire oublier un léger écart de protocole ;
+- obtenir une faveur mineure liée au salon ou au Tripot.
+
+Limites :
+
+- une seule carte par personne ;
+- la carte ne peut pas forcer une trahison majeure, un vol important, une violence, un aveu vital ou une action qui détruit le rôle du joueur ciblé ;
+- la cible peut interpréter l'effet à sa manière, négocier une contrepartie légère ou proposer une faveur équivalente ;
+- en cas de doute, appelle un MJ.
+
+Ton charme est une arme de salon : il ouvre des portes, il ne remplace pas une serrure.
 
 ---
 

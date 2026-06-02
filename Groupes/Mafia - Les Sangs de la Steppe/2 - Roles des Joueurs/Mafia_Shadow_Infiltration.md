@@ -8,7 +8,6 @@ Epopée en Krondaar
 
 ## Informations pratiques
 
-
 | Information | Détail |
 |-------------|--------|
 | Dates du jeu | Vendredi 26, samedi 27 et dimanche 28 juin 2026 |
@@ -34,7 +33,8 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Shadow (nom de code — identité civile tenue secrète) |
 | Joueur | Stephen |
-| Rôle dans le groupe | Infiltration, extorsion, documents sur élites |
+| E-mail joueur | morgane.peste@orange.fr |
+| Rôle dans le groupe | Expert en extorsion — infiltration, documents sur élites |
 | Classe / profession | Guerrier |
 | Compétences | Torture ; Erudit |
 | Groupe | Les Sangs de la Steppe |
@@ -50,10 +50,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Furtif, observateur, adaptable, méfiant. |
-| Valeurs | Survivre d'abord ; vendre cher une compétence d'infiltration que des clients précédents ont exploitée sans payer le vrai prix. |
-| Peur | Qu'un Sang ou un délégué retrouve ton nom de naissance ; redevenir un sans-le-sou réduit à voler dans les ruelles. |
-| Rêve | Quitter le métier avec assez d'or et la certitude qu'aucune étiquette de coffre ne porte ton nom de naissance. |
+| Traits de caractère | Furtif, observateur, adaptable, méfiant. Tu regardes les sorties avant les visages. |
+| Valeurs | Survivre, garder ton nom civil hors des coffres, et faire payer cher les informations que tu risques ta vie à obtenir. |
+| Peur | Qu'un Sang, un délégué ou une croupière retrouve ton nom de naissance ; qu'un aveu sur Il-Irion détruise ta couverture. |
+| Rêve | Quitter le métier avec assez d'or et dire un jour aux deux filles de l'auberge Vestrann ce que tu as fait, sans mourir avant la fin de la phrase. |
 
 ---
 
@@ -61,49 +61,61 @@ Epopée en Krondaar
 
 ## Enfance — Elfrion et Il-Irion
 
-Tu as grandi entre les ruelles d'Elfrion et les bas-fonds d'Il-Irion, sans famille déclarée. Tu n'as jamais porté longtemps le même nom : à chaque quartier, tu changeais de prénom et de récit pour éviter les patrouilles et les bandes.
+Tu as grandi entre les ruelles d'Elfrion et les bas-fonds d'Il-Irion, sans famille déclarée. À chaque quartier, tu changeais de prénom et de récit pour éviter les patrouilles, les bandes et les adultes qui voulaient te fixer quelque part.
 
-Vers dix ans, tu volais déjà dans les comptoirs et les coffres d'auberge. Tu as appris à crocheter une serrure, à imiter une signature simple et à fuir par les toits quand un cri tombait derrière toi.
+Vers dix ans, tu volais déjà dans les comptoirs et les coffres d'auberge. Tu as appris à crocheter une serrure, à imiter une signature simple et à fuir par les toits quand un cri tombait derrière toi. Les noms ne servaient pas à être reconnus ; ils servaient à repartir.
 
 ## Jeunesse — vol et doubles fonds
 
-Tu as travaillé pour des clients sans contrat écrit : marchands qui voulaient récupérer une lettre, prêteurs qui cherchaient une reconnaissance de dette à effacer, élites qui payaient pour voir disparaître une preuve. Tu as appris les doubles fonds des meubles à secrets, les sceaux qu'on peut imiter à la cire fraîche, les greffiers qu'on paie pour une heure d'absence.
+Adolescent, tu as travaillé pour des clients sans contrat écrit : marchands qui voulaient récupérer une lettre, prêteurs qui cherchaient une reconnaissance de dette à effacer, familles qui payaient pour voir disparaître une preuve. Tu as appris les doubles fonds des meubles à secrets, les sceaux qu'on peut imiter à la cire fraîche et les greffiers qu'on paie pour une heure d'absence.
 
-Tu opérais surtout sur la route entre Elfrion et les ports confédérés — Il-Irion, Palyr, Staal — en passant d'un client à l'autre sous des noms différents. Aucun de tes commanditaires ne connaissait ton visage civil.
+Tu opérais surtout entre Elfrion et les ports confédérés : Il-Irion, Palyr, Sfaal. Un jour tu étais aide de quai, le lendemain garçon de course, le surlendemain messager sans livrée. Aucun commanditaire ne connaissait ton nom civil. Ceux qui demandaient trop de détails recevaient un autre visage ou une autre histoire.
 
-## Incendie de 525 — Sira et Lira Vestrann
+## Incendie de 525 — deux filles dans la fumée
 
-En l'an 525, tu as seize ou dix-sept ans. Une panique d'incendie éclate dans le bas port d'Il-Irion : l'auberge Vestrann brûle, la foule bloque la porte principale.
+En l'an 525, tu as seize ou dix-sept ans. Dans le bas port d'Il-Irion, une mission de vol tourne mal dans une auberge. Le feu devait couvrir ta fuite et effacer des traces. Il prend plus vite que prévu. La foule bloque la porte principale, la fumée monte par l'escalier de service, et tu comprends que tu viens de déclencher plus qu'une diversion.
 
-Tu passes par les toits. Tu sors Lira Vestrann par une fenêtre du couloir bas et tu la déposes dans une ruelle. Tu retournes dans la fumée, tu tires Sira, plus jeune, du palier de l'étage et tu la portes à l'hôpital de charité où tu donnes son nom au moine de garde. Le père, la mère et le frère cadet meurent dans l'incendie. Les deux sœurs se croient seules survivantes ; tu ne les remets pas en contact ce soir-là.
+Tu ne connais pas la famille qui vit là. Tu passes par les toits, tu sors une fille par la fenêtre du couloir bas et tu la déposes dans une ruelle. Tu retournes dans la fumée, tu tires une seconde fille, plus jeune, du palier de l'étage et tu la portes à l'hôpital de charité. Au moine de garde, tu donnes le seul nom que tu utilises alors : Shadow.
 
-À l'hôpital, tu murmures le seul nom que tu utilises alors : Shadow. Elles avaient cinq et huit ans à l'époque, et n'ont jamais vu ton visage d'adulte.
+Le lendemain, tu apprends que le père, la mère et le frère cadet sont morts dans l'incendie. Tu ne connais toujours pas le nom des deux filles. Personne n'a de preuve contre toi. Aucun témoin ne peut dire que tu as allumé le feu. Toi, tu le sais.
 
-Dans les mois qui ont suivi le feu, tu les as suivies de loin. Tu as glissé des bourses sous le paillasson de leur logement, payé un intermédiaire pour effacer une dette, fait détourner deux hommes qui les pressaient. Aucune des sœurs ne sait que tu existes encore ; aucune n'a jamais payé pour ces interventions, mais tu considères qu'elles te doivent service, silence ou accès.
+Dans les années qui suivent, tu les cherches séparément. Au début, tu veux seulement vérifier qu'elles vivent encore. Ensuite, tu reviens. Tu glisses une bourse sous un paillasson, tu fais effacer une dette par un intermédiaire, tu détournes deux hommes qui pressaient l'une d'elles. Tu ne signes rien et tu ne demandes rien. Tu veux croire que ces gestes corrigent quelque chose ; ils ne rendent personne à la vie.
+
+## Rings du bas port — les noms Vestrann
+
+Vers 535, les caves de pugilat du bas port parlent de deux championnes de cave. L'une est plus âgée, souriante, dure à coucher. L'autre est plus rapide, plus légère, et les parieurs misent souvent contre elle avant de perdre. Les bookmakers les appellent Lira Vestrann et Sira Vestrann. C'est là que tu comprends enfin le nom des deux filles sorties de l'auberge en 525.
+
+Tu fais circuler une proposition de combat par deux intermédiaires : même cave du quai Est, même soirée, bourse correcte pour chacune. Les organisateurs croient monter une affiche rentable entre deux championnes Vestrann. Toi, tu veux voir si elles se reconnaissent. Au premier corps à corps, elles s'arrêtent une seconde. Après le combat, elles disparaissent par la trappe de service et ne remontent plus l'une contre l'autre.
+
+Depuis ce soir-là, tu suis leur route avec plus d'attention. Elles passent des rings aux cercles de jeu, puis aux tables de Palyr. Leur survie te fascine parce qu'elles ont construit une vie sans savoir qui avait détruit leur famille. Tu aides parfois de loin : dette effacée, créancier détourné, contrat dangereux qui disparaît avant signature.
+
+Depuis, tu as fait pire pour des clients et pour les Sangs. Tu as posé des faux, vendu des secrets, brisé des familles par documents interposés. Pourtant l'incendie de 525 reste le souvenir le plus précis. Les crimes de jeunesse marquent autrement : à l'époque, tu croyais encore pouvoir choisir ce que tes fautes allaient détruire.
 
 ## Sybrel Dornik — avant les Sangs
 
-Quelques années plus tard, une gamine de ta chaîne de messagers a raté un signal sur un quai : elle est restée trop longtemps et a croisé un regard de trop. Le protocole prévoyait de remonter son nom aux nettoyeurs pour qu'elle disparaisse. Tu as menti par omission à tes intermédiaires et tu as refermé l'affaire toi-même, sans la livrer.
+Quelques années plus tard, une gamine de ta chaîne de messagers rate un signal sur un quai. Elle reste trop longtemps, croise un regard de trop, puis disparaît de son point de relais. Le protocole prévu par tes intermédiaires est simple : son nom doit remonter aux nettoyeurs, et les nettoyeurs doivent la faire disparaître.
 
-Elle a survécu. Elle s'appelle aujourd'hui Sybrel Dornik et garde les tunnels de l'UBI à Ulghart. Tu ne veux pas qu'elle paie pour ton travail actuel chez les Sangs. Les autres Sangs ignorent cette histoire et tu ne l'as inscrite dans aucun rapport.
+Tu mens par omission et tu refermes l'affaire toi-même. La gamine survit. Elle s'appelle aujourd'hui Sybrel Dornik et garde les tunnels de l'UBI à Ulghart. Les autres Sangs ignorent cette histoire. Tu ne l'as inscrite dans aucun rapport, parce qu'un rapport permettrait aux Sangs de remonter jusqu'à elle.
 
 ## Signature aux Sangs — il y a huit ans
 
-À vingt-huit ans, le réseau t'a recruté pour des missions ponctuelles ; à trente ans, tu as signé comme cadre des Sangs de la Steppe. Tu places des documents compromettants dans les coffres d'élites et tu fais tomber des familles en utilisant leurs propres lettres.
+À vingt-huit ans, le réseau t'a recruté pour des missions ponctuelles. À trente ans, tu as signé comme cadre des Sangs de la Steppe. Tu places des documents compromettants dans les coffres d'élites, tu copies des sceaux, tu fabriques des fuites, et tu fais tomber des familles en utilisant leurs propres lettres.
 
-Contrairement à Kaelan, Vorak, Gareth, Drask et Raven, tu ne portes pas une branche unique de la Guilde des Ports Unis. Ta couverture visible change selon la mission : aide de greffe, commis de quai, messager de route, employé d'un entrepôt ou visiteur attaché à un chantier. Cette absence de titre fixe protège ton nom civil, mais elle t'oblige à coordonner chaque approche avec Raven ou Vorak pour ne pas contredire leur version publique.
+Contrairement à Kaelan, Vorak, Gareth, Drask et Raven, tu ne portes pas une branche fixe de la Guilde des Ports Unis. Ta couverture visible change selon la mission : aide de greffe, commis de quai, messager de route, employé d'entrepôt ou visiteur attaché à un chantier. Cette absence de titre fixe protège ton nom civil, mais elle t'oblige à coordonner chaque approche avec Raven ou Vorak pour ne pas contredire leur version publique.
 
-Il y a six mois, tu as mené une infiltration dans la banque d'Il-Irion dont les rumeurs circulent encore dans le réseau. Vorak fixe le calendrier de tes opérations. Raven tient les rencontres ouvertes sur le quai et dans les parlements. Avant de revoir un même clerc ou un même greffier, vous vous accordez pour qu'aucun de vous deux ne le sollicite le même jour, sinon il se ferme ou il parle à la milice.
+Il y a six mois, tu as mené une infiltration dans la banque d'Il-Irion dont les rumeurs circulent encore dans le réseau. Vorak fixe le calendrier de tes opérations. Raven tient les rencontres ouvertes sur les quais et dans les parlements. Avant de revoir un même clerc ou un même greffier, vous vous accordez pour qu'aucun de vous deux ne le sollicite le même jour. Un témoin pressé deux fois parle à la milice, ou ferme sa porte.
 
 ## Tripot — Vestrann et Convention
 
-Sira et Lira Vestrann tiennent les tables au Tripot d'Ulghart pendant la Convention. Tu les surveilles depuis ton arrivée : filatures discrètes en livrée changée, couverture si un créancier ou un soldat les presse trop, recoupements avec Varek Pisteur du Tripot — auquel tu ne révèles rien de l'incendie de 525.
+En 547, Sira et Lira Vestrann tiennent les tables au Tripot d'Ulghart pendant la Convention. Elles servent Marda Velyss, repèrent les parieurs addicts et connaissent les habitudes d'une clientèle que les Sangs veulent atteindre. Le Tripot reste un lieu que votre réseau n'a jamais vraiment contrôlé.
 
-Aucune des deux sœurs ne sait que l'homme des toits de 525 et toi êtes la même personne. Tu prépares le moment où tu leur demanderas un service, un silence ou un accès au Tripot. Tu attends que le Tripot t'ait rendu ce qu'il doit avant de leur révéler ton rôle dans leur survie.
+Aucune des deux sœurs ne sait que l'homme des toits de 525 et toi êtes la même personne. Elles ignorent aussi que tu as provoqué l'incendie. Tu rêves de leur dire la vérité pour cesser de mentir sur cette nuit, mais un aveu peut les retourner contre toi, les briser, ou donner à Marda une arme contre les Sangs. Pour l'instant, tu les surveilles sans te montrer : filature discrète, couverture si un créancier les presse, recoupement avec Varek sans lui donner la cause réelle.
 
 ## Ulghart — UBI et retraite
 
-À Ulghart, tu vises le futur conseil de l'UBI, les nobles d'Il-Irion et les commissions où une phrase suffit à ouvrir ou à fermer une ligne de crédit. Chaque mission sur la banque te place dans une contradiction : tu dois rendre des comptes aux Sangs sans laisser le réseau remonter à Sybrel.
+À Ulghart, tu vises le futur conseil de l'UBI, les nobles d'Il-Irion et les commissions où une phrase suffit à ouvrir ou fermer une ligne de crédit. Chaque mission sur la banque te place dans une contradiction : tu dois rendre des comptes aux Sangs sans laisser le réseau remonter à Sybrel, ni aux deux Vestrann.
+
+La retraite négociée des Sangs t'intéresse autant que les autres cadres. Tu veux de l'or, des quittances et assez de documents pour empêcher le MiVI de vous découper après usage. Mais tu as aussi deux affaires qui ne doivent pas entrer dans le calcul commun : Sybrel, que tu as protégée, et les sœurs Vestrann, que tu as sauvées après avoir détruit leur famille.
 
 ---
 
@@ -111,21 +123,25 @@ Aucune des deux sœurs ne sait que l'homme des toits de 525 et toi êtes la mêm
 
 ## Ton rôle au quotidien
 
-Tu infiltres les coffres et les bureaux, tu fais pression avec des documents volés ou copiés, tu fabriques des fuites que Maître Vaelric Dorn enterre ou relance à l'UBI selon le plan de Kaelan. En public, tu empruntes une couverture de la Guilde des Ports Unis ou d'un service voisin, jamais la même deux fois devant le même témoin.
+Tu infiltres les coffres et les bureaux, tu fais pression avec des documents volés ou copiés, et tu fabriques des fuites que Maître Vaelric Dorn enterre ou relance à l'UBI selon le plan de Kaelan. En public, tu empruntes une couverture de la Guilde des Ports Unis ou d'un service voisin, jamais la même deux fois devant le même témoin.
+
+Tu dois coordonner tes approches avec Vorak et Raven. Vorak fixe le calendrier des opérations. Raven tient les rencontres ouvertes, les informateurs et les négociations visibles. Si vous sollicitez le même clerc, le même porteur ou le même délégué le même jour, le témoin peut se fermer, fuir ou parler à la milice.
 
 ## Objectifs prioritaires
 
 - Infiltrer ou faire pression sur les filières utiles au conseil de l'UBI et aux familles d'Il-Irion.
-- Récupérer copies de sceaux et de lettres sans laisser de chaîne qui remonte à ton identité civile.
-- Te coordonner avec Raven et Vorak pour ne pas solliciter les mêmes clercs ou délégués le même jour.
-- Protéger Sira et Lira Vestrann au Tripot sans révéler ni aux Sangs ni aux sœurs ton rôle dans leur survie en 525.
-- Demander leur service, leur silence ou leur accès au Tripot quand Kaelan ou toi jugerez le moment opportun.
+- Récupérer copies de sceaux, lettres et accès sans laisser de chaîne qui remonte à ton identité civile.
+- Te coordonner avec Raven et Vorak pour ne pas compromettre les mêmes clercs, porteurs ou délégués.
+- Protéger Sira et Lira Vestrann au Tripot sans révéler aux Sangs que tu as causé l'incendie de 525.
+- Décider si tu avoues aux deux sœurs la vérité sur le feu, leur sauvetage, les années d'aide anonyme et le combat du quai Est.
 
 ## Informations sensibles
 
 - Si ton identité civile est démasquée à Ulghart, tu deviens un otage utile pour quiconque sait que tu connais les coffres et les sceaux des familles d'Il-Irion.
 - Le rapport RA-III-546-004 sur l'arguethain a été rédigé par toi ou par un cadre qui t'a précédé sur le dossier. Tu choisis en jeu si tu reconnais devant Kaelan en être l'auteur, ou si tu l'attribues à un prédécesseur des Sangs.
-- Si ton lien avec les sœurs Vestrann remonte à la surface (incendie de 525, dette de service), tu perds ta couverture chez les Sangs et les sœurs perdent leur abri au Tripot.
+- Tu as causé l'incendie de l'auberge Vestrann en 525. Il n'existe pas de preuve solide contre toi, mais ton aveu suffit à faire de toi le responsable de la mort des parents et du frère de Sira et Lira.
+- Tu as organisé les retrouvailles des sœurs au ring du quai Est en 535. Elles ne le savent pas. Les organisateurs du combat ne savent pas pourquoi tu as fait passer l'affiche.
+- Tu as protégé Sybrel Dornik avant les Sangs. Les autres cadres ignorent ce lien ; ne leur donne pas de raison de relier Sybrel à ton ancien réseau de messagers.
 
 ---
 
@@ -133,25 +149,33 @@ Tu infiltres les coffres et les bureaux, tu fais pression avec des documents vol
 
 ## Sira Vestrann — Tripot (croupière)
 
-Tu l'as portée à l'hôpital de charité depuis le palier enfumé de l'auberge Vestrann en 525. Aujourd'hui, elle tient une table au Tripot d'Ulghart avec sa sœur. Tu interviens auprès d'elle par intermédiaires : filature pour la surveiller, pot-de-vin discret à un créancier pour qu'il la laisse tranquille. Tu peux lui demander en personne un service discret — ouvrir une table privée, ne pas signaler un client — sans révéler ton rôle dans son sauvetage. Le jour où tu choisiras de le lui dire, le service qu'elle te doit deviendra une dette claire.
+En 525, tu l'as portée à l'hôpital de charité depuis le palier enfumé de l'auberge Vestrann, sans connaître son nom. Elle était la plus jeune des deux filles. Tu as donné au moine le nom Shadow, puis tu es reparti avant qu'un registre ne fixe ton visage.
+
+Vers 535, tu l'as retrouvée dans les rumeurs de rings du bas port, sous le nom de Sira Vestrann. Tu as aidé à organiser le combat du quai Est où elle a reconnu Lira. Aujourd'hui, elle tient une table au Tripot d'Ulghart avec sa sœur. Tu peux l'approcher par prudence, par intermédiaire ou sous couverture. Si tu lui parles de 525, tu dois dire à la fois que tu l'as sauvée et que tu as causé le feu.
 
 ## Lira Vestrann — Tripot (croupière)
 
-Tu l'as descendue par la fenêtre du couloir bas la même nuit que sa sœur. Elle est plus instable que Sira et plus accessible aux pressions financières. Des rumeurs disent que Saevar Dren doit une somme importante au Tripot, mais tu n'as pas le montant exact. Tu peux exploiter cette dette pendant la Régate, ou la laisser pour plus tard. Tu la gardes sous surveillance : elle vendrait une information utile si le Tripot ne paie pas ses créanciers à temps.
+En 525, tu l'as descendue par la fenêtre du couloir bas, sans savoir qu'elle s'appelait Lira Vestrann. Elle était l'aînée. Tu l'as déposée dans une ruelle avant de retourner chercher la seconde fille dans l'auberge.
+
+Tu as appris son nom quand les caves de pugilat ont commencé à parler d'une championne Vestrann plus âgée, dure à coucher et connue pour sourire avant de frapper. Tu as poussé le combat du quai Est pour la mettre face à Sira. Aujourd'hui, Lira tient les codes et les habitudes de clientèle du Tripot. Des rumeurs disent que Saevar Dren lui doit une somme importante ; tu n'as pas le montant exact. Tu peux exploiter cette dette pour une mission des Sangs, mais chaque pression sur Lira te ramène à l'incendie.
 
 ## Sybrel Dornik — UBI (garde des tunnels)
 
-Tu l'as protégée enfant en refermant le protocole qui aurait conduit à sa mort. Aujourd'hui elle garde les sous-sols de l'UBI à Ulghart. Aucun autre Sang ne porte cette histoire ; tu ne l'as confiée ni à Kaelan ni à Vorak. Le message codé MC-III-547-003 mobilise plusieurs Sangs (Kaelan, Drask, Raven) sur des angles différents. Ne cite pas Sybrel devant ces coéquipiers sans préparer ta couverture. Dans les tunnels, un croisement maladroit peut la trahir si un Sang comprend d'où tu la connais ; tu dois la protéger sans révéler ton lien.
+Tu l'as protégée enfant en refermant le protocole qui aurait conduit à sa mort. Aujourd'hui elle garde les sous-sols de l'UBI à Ulghart. Aucun autre Sang ne porte cette histoire ; tu ne l'as confiée ni à Kaelan ni à Vorak.
+
+Le message codé MC-III-547-003 mobilise plusieurs Sangs sur des angles différents. Ne cite pas Sybrel devant tes coéquipiers sans préparer ta couverture. Dans les tunnels, un croisement maladroit peut la trahir si un Sang comprend d'où tu la connais. Tu dois la protéger sans révéler ton lien.
 
 ## Korran Vesper — Pirates d'Albar
 
-Le rapport RA-III-546-004 sur l'arguethain est coordonné avec Vorak. Tu ne tiens pas le billet BM-III-546-005 du chef. Tu peux l'utiliser en commission pour orienter une ligne maritime si Kaelan te l'ordonne.
+Le rapport RA-III-546-004 sur l'arguethain est coordonné avec Vorak. Tu ne tiens pas le billet BM-III-546-005 du chef. Si Kaelan te l'ordonne, tu peux utiliser ce dossier en commission pour orienter une ligne maritime ou soutenir une version des Sangs sur l'affaire du fer.
 
 ## Marda Velyss — Tripot
 
-Tu as passé une nuit au Tripot sous faux nom ; ce n'est pas la reconnaissance de dette RD-III-543-002 de Kaelan. Tu peux revenir sous couverture pour observer les flux ou tester la résistance de Marda avant qu'elle ne te reconnaisse.
+Marda dirige le Tripot d'Ulghart. Les Sangs n'ont jamais réussi à prendre la main sur son casino, malgré les pressions et les rencontres difficiles. Tu as déjà passé une nuit au Tripot sous faux nom ; ce n'est pas la reconnaissance de dette RD-III-543-002 de Kaelan.
 
-## Maître Halwen Rask — Staal
+Tu peux revenir sous couverture pour observer les flux, tester la résistance de Marda ou chercher comment les Vestrann tiennent leurs tables. Ne révèle pas ton lien avec Sira et Lira devant elle sans calcul : Marda peut transformer cette vérité en protection pour elles ou en arme contre toi.
+
+## Maître Halwen Rask — Sfaal
 
 Tu n'as pas la lettre complète CC-III-544-002 : tu as arraché une épreuve avant tirage. Tu peux la montrer à Halwen pour négocier silence ou complaisance, ou la brûler si Kaelan préfère étouffer la campagne.
 
@@ -161,11 +185,11 @@ Le fragment FM-III-546-006 est un papier à moitié brûlé que tu as récupér�
 
 ## Maître Vaelric Dorn — UBI
 
-Tu fabriques des fuites qu'il enterre parfois. Tu ne détiens pas le placard PA-II-545-003 mot pour mot : tu proposes à Vaelric un échange feuille contre retard d'enquête sur la Guilde.
+Tu fabriques des fuites qu'il enterre parfois. Tu ne détiens pas le placard PA-II-545-003 mot pour mot. Tu peux proposer à Vaelric un échange : une feuille retirée contre un retard d'enquête sur la Guilde.
 
 ## Dame Ydria Ventoss — UBI
 
-Tu lis les écarts par rumeurs de comptoir, pas par le bordereau BC-III-544-003 en main. En salon, cite des montants entendus ; pour une confrontation lourde, demande la pièce à Kaelan.
+Tu lis les écarts par rumeurs de comptoir, pas par le bordereau BC-III-544-003 en main. En salon, cite des montants entendus. Pour une confrontation lourde, demande la pièce à Kaelan avant d'engager ton nom de couverture.
 
 ## Melian Torv — UBI
 
@@ -173,11 +197,11 @@ Melian Torv siège au conseil de l'UBI comme conseiller spirituel. Tu peux te pr
 
 ## Cyrion Valdris — Il-Irion
 
-Tu détiens seul CP-III-542-002 : une copie de lettre de chantage sur la maison Valdris. Kaelan tient les deux autres pièces (CP-III-542-001 et CP-III-543-001) qui complètent le dossier. Dans un couloir de commission, tu peux montrer ta copie à Cyrion pour obtenir un rendez-vous privé. Pour une confrontation appuyée qui exige les trois pièces, passe par Kaelan.
+Tu détiens seul CP-III-542-002 : une copie de lettre de chantage sur la maison Valdris. Kaelan tient les deux autres pièces, CP-III-542-001 et CP-III-543-001, qui complètent le dossier. Dans un couloir de commission, tu peux montrer ta copie à Cyrion pour obtenir un rendez-vous privé. Pour une confrontation appuyée qui exige les trois pièces, passe par Kaelan.
 
 ## Varek Pisteur — Tripot
 
-Varek tient les pistes et les silences au Tripot. Tu recoupes avec lui sans tout dire sur les sœurs Vestrann : demande passage, filature ou diversion ; ne lui confie pas l'incendie de 525.
+Varek tient les pistes et les silences au Tripot. Tu peux recouper avec lui pour obtenir un passage, une filature ou une diversion. Ne lui confie ni ton rôle dans l'incendie de 525, ni le fait que tu as organisé les retrouvailles du quai Est. S'il comprend que tu suis les Vestrann pour une raison personnelle, donne-lui une raison opérationnelle liée aux Sangs ou aux dettes du Tripot.
 
 ---
 

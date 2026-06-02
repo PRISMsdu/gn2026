@@ -15,7 +15,7 @@ Le **Tripot** est le casino du **fort d’Ulghart**, sur **Il-Irion**. Il foncti
 
 Pour vous, le Tripot ce n’est pas seulement un contrat : c’est le bruit des jetons le soir, l’odeur du tabac et du bois ciré, les visages qui reviennent par habitude et ceux qui entrent une fois pour tout perdre. Vous repérez vite qui bluffe, qui compte, qui observe les coffres sans jouer. Dix ans, c’est assez long pour que des alliances tiennent sans serment public et assez long pour qu’un malentendu en salle coûte cher à toute la maison.
 
-Vous êtes **onze** — **sept femmes** et **quatre hommes**.
+Vous êtes **douze** — **sept femmes** et **cinq hommes**.
 
 ---
 
@@ -25,7 +25,7 @@ Il y a dix ans, l’**Union bancaire** a mis fin à une direction précédente d
 
 **Marda Velyss** a pris le contrat en premier. Elle n’a pas reçu un titre honorifique : elle a reçu des **chiffres**, des échéances et une part du résultat. Elle a signé en sachant qu’une erreur de chiffre ou de ton avec la banque peut fermer une salle en quelques jours : vous le lui rappelez encore quand une décision se prend à la hâte.
 
-Elle a monté l’équipe sans tapage inutile. **Ardan Trevil**, issu des cercles de jeu d’**Arthas**, réfugié à Il-Irion après un mort chez les **Darsen** — Marda l’a fait venir depuis l’île — tient la sécurité **à l’intérieur du Tripot** : salles et accès du casino, pas les murailles du fort ni la garnison générale. Il sait calmer une altercation sans faire monter l’affaire jusqu’aux autorités du fort : pour vous, c’est aussi important que gagner un tournoi. Les sœurs **Sira** et **Lira Vestrann**, venues de **Palyr**, tiennent les tables. Leur voix et leurs mains rythment la salle ; entre elles, la rivalité est une habitude de famille autant qu’un levier pour le spectacle. **Varek** assure pistage, quai et coulisses : qui entre, qui ment, qui revient trop souvent. Il rapporte ce qu’il voit sans dramatiser : Marda préfère un fait mal fichu à une belle histoire inutile. **Lydwen** tient les tirages et lectures où la patronne cadre avec vous ce qui peut tenir pour vérité utile en salle. **Éliane** gère les **paris**, en particulier autour de la mer et de la **régate**. **Ysabeau** tient les salons où les signatures valent autant que les mises ; une phrase mal placée au bon salon peut valoir une dette qu’aucune table ne paiera à votre place.
+Elle a monté l’équipe sans tapage inutile. **Ardan Trevil**, issu des cercles de jeu d’**Arthas**, réfugié à Il-Irion après un mort chez les **Darsen** — Marda l’a fait venir depuis l’île — tient la sécurité **à l’intérieur du Tripot** : salles et accès du casino, pas les murailles du fort ni la garnison générale. Il sait calmer une altercation sans faire monter l’affaire jusqu’aux autorités du fort : pour vous, c’est aussi important que gagner un tournoi. Les sœurs **Sira** et **Lira Vestrann**, venues de **Palyr**, tiennent les tables. Leur voix et leurs mains rythment la salle ; entre elles, la rivalité est une habitude de famille autant qu’un levier pour le spectacle. **Samvel Rauk** et **Theodran Veyr** portent tous les deux le nom de code **Varek** : Samvel tient le quai, les arrivées et les sorties ; Theodran tient les coulisses, les salons et les relais internes. Pour les clients, les délégations et les rivaux, Varek reste un seul pisteur du Tripot. Pour vous, ce sont deux regards coordonnés par Marda et Ardan. **Lydwen** tient les tirages et lectures où la patronne cadre avec vous ce qui peut tenir pour vérité utile en salle. **Éliane** gère les **paris**, en particulier autour de la mer et de la **régate**. **Ysabeau** tient les salons où les signatures valent autant que les mises ; une phrase mal placée au bon salon peut valoir une dette qu’aucune table ne paiera à votre place.
 
 **Soren** est arrivé comme alchimiste et homme de main : potions, interventions discrètes. Le groupe a traité son passé comme une chose à ne pas étaler en salle ; au Tripot, la confiance se mesure aussi aux informations que chacun garde. Vous savez que certaines questions sur lui dépassent le registre du casino : la maison a choisi de protéger le travail collectif plutôt que le curieux qui poserait trop de questions au bar.
 
@@ -41,7 +41,7 @@ Après travaux, le casino a rouvert. Les premières semaines, vous avez senti le
 
 Pendant plusieurs années, le Tripot a rempli son rôle : encaisser, tenir les salles, éviter les incidents qui feraient intervenir la garnison du fort pour une histoire de dette entre joueurs. Ce fut une longue suite de nuits où le risque principal était le ridicule public ou la perte brutale d’une réputation — pas encore la menace d’un conseil qui refermerait les dossiers. **Ardan** a resserré les procédures : peu de sang sur le tapis public, les règlements se traitent hors vue quand c’est possible.
 
-**Varek** connaît les habitudes du fort : qui revient trop souvent, qui joue pour fuir autre chose, qui observe les coffres sans être client. Il a fini par reconnaître des pas dans les couloirs autant que des visages.
+Les deux **Varek** connaissent les habitudes du fort : qui revient trop souvent, qui joue pour fuir autre chose, qui observe les coffres sans être client. Samvel reconnaît les passages du quai et les sorties de service. Theodran reconnaît les pas dans les couloirs, les salons et les réserves. Quand un même visage traverse les deux périmètres, Marda veut l'apprendre avant tout le monde.
 
 **Sira** et **Lira** maîtrisent la dynamique des tables ; leur rivalité entre sœurs fait partie du spectacle pour les clients et une contrainte de coordination pour Marda. Quand elles se contredisent en pleine salle, ce n’est pas seulement du théâtre : chaque cliente fortunée choisit son camp pour la soirée, et la maison doit encaisser le résultat.
 
@@ -59,7 +59,7 @@ Vous avez tenu la maison ouverte parce que cela payait. L’argent sale est entr
 
 Et puis il y a les **Sangs de la Steppe**, puissante mafia, qui veulent **contrôler** ou **absorber** le casino. Les rencontres avec leurs chefs ne ressemblent pas à des banquets : pauses courtes, regards qui comptent les gardiens, messagers qui repartent sans laisser de lettre. Vous avez **résisté** par rendez-vous, messagers anonymes et rappels de vieilles dettes — assez pour tenir sans déclencher une **guerre ouverte en salle** qui ferait fuir le magot et attirer les autorités sur tout le monde. Ils vont venir, vous le savez, ils viennent tout le temps, et avec tout ce monde, ils se savent moins visibles.
 
-À partir d’il y a deux ans, vous avez commencé à vous méfier de certains gardes de la banque. Les doutes visent surtout les six gardes retrouvés morts récemment, ainsi que leurs proches dans le service. Depuis cette période, vous avez constaté plusieurs tentatives de dégradation du Tripot : poissons pourris laissés dans les réserves, débuts de feu dans des couloirs de service, dégâts mineurs sur les accès. Le calendrier vous a marqués : ces incidents ont commencé un an après leur arrivée, puis se sont répétés régulièrement. Vous n’avez pas de preuve complète, mais pour Varek, ce n’est plus une coïncidence. Holgrim, chef de la garde de la banque, n’écoute pas vos requêtes. Pour lui, ces six morts rendent toute alerte venant du Tripot encore plus suspecte.
+À partir d’il y a deux ans, vous avez commencé à vous méfier de certains gardes de la banque. Les doutes visent surtout les six gardes retrouvés morts récemment, ainsi que leurs proches dans le service. Depuis cette période, vous avez constaté plusieurs tentatives de dégradation du Tripot : poissons pourris laissés dans les réserves, débuts de feu dans des couloirs de service, dégâts mineurs sur les accès. Le calendrier vous a marqués : ces incidents ont commencé un an après leur arrivée, puis se sont répétés régulièrement. Vous n’avez pas de preuve complète, mais pour les deux Varek, ce n’est plus une coïncidence : Samvel a vu des passages suspects côté quai, Theodran a vu des retours inutiles côté couloirs. Holgrim, chef de la garde de la banque, n’écoute pas vos requêtes. Pour lui, ces six morts rendent toute alerte venant du Tripot encore plus suspecte.
 
 
 ---
@@ -70,7 +70,7 @@ Un **nouveau conseil** UBI arrive. Les rumeurs parlent d’**audit**, d’**int�
 
 Vous avez refait les comptes sur les **cinq ans** de commission à dix pour cent : vous estimez que le **risque** et le **travail réel** justifient **quinze pour cent** et le **rattrapage** avant fermeture des preuves. Ce n’est pas une reclamation de bureau : c’est le prix que vous demandez pour des années où vous avez tenu la porte quand la banque salissait ses mains. Quitte à balancer la Banque.
 
-Grâce à Varek, dont le réseau dépasse largement Il-Irion, vous entendez des bruits, des histoires qui circulent dans les couloirs : l'équipe des banquiers pourris ne serait pas si unie. Mélian Torv (de l'UBI) aurait vendu de l'information auprès de Palyr. Palyr pourrait vous proposer une **sortie** possible : quai, bateau, logistique — contre **informations**, **services** ou **gages** à fixer. La discrétion se paie ; les passeurs n’aiment pas les histoires qui traînent. Vous savez qu’un passage sans papier peut vous sauver ou vous perdre si vous mentez sur le poids des sacs ou sur les noms cités.
+Grâce aux Varek, dont le réseau dépasse largement Il-Irion, vous entendez des bruits, des histoires qui circulent dans les couloirs : l'équipe des banquiers pourris ne serait pas si unie. Mélian Torv (de l'UBI) aurait vendu de l'information auprès de Palyr. Palyr pourrait vous proposer une **sortie** possible : quai, bateau, logistique — contre **informations**, **services** ou **gages** à fixer. La discrétion se paie ; les passeurs n’aiment pas les histoires qui traînent. Vous savez qu’un passage sans papier peut vous sauver ou vous perdre si vous mentez sur le poids des sacs ou sur les noms cités.
 
 La **Régate** et la **Convention** concentrent délégations, juges et paris. Les couloirs du fort se remplissent de costumes, de badges et de voix qui monteraient trop haut si vous les laissiez faire. **D’autres groupes** pourraient toucher les juges de la régate, habituellement votre terrain de jeu pour favoriser certaines cités moyennant dessous de table naturellement. Si plusieurs personnes soudoient le même juge, tout le monde peut perdre.
 
@@ -102,7 +102,8 @@ Le Tripot vous donne encore une base de travail : une salle active, une équipe,
 | Ardan Trevil | Capitaine des gardes — sécurité du Tripot | Mathieu |
 | Sira Vestrann | Croupière — sœur de Lira | Lucile |
 | Lira Vestrann | Croupière — sœur de Sira | Marion |
-| Varek | Pisteur — filatures, quai, coulisses | Sam |
+| Samvel Rauk, dit Varek | Pisteur — filatures, quai, sorties | Sam |
+| Theodran Veyr, dit Varek | Pisteur — coulisses, salons, relais internes | Theodore |
 | Lydwen | Oracle, cartes | Corinne |
 | Éliane | Maîtresse des paris — régate | *Joueur* |
 | Ysabeau | Hôtesse — VIP, salons | Marina |

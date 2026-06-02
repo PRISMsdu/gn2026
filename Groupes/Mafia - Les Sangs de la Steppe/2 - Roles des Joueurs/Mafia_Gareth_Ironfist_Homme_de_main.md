@@ -72,13 +72,15 @@ Tu as servi plusieurs années dans des compagnies auxiliaires de la République 
 
 À vingt-huit ans, tu savais fermer une porte, tenir un couloir face à plusieurs hommes et faire disparaître un témoin sans déclencher de battue dans la ville.
 
-## Entrée dans les Sangs — il y a dix ans
+## Dans les Sangs — cadre affiché il y a dix ans
 
-À trente ans, tu as rejoint les Sangs de la Steppe. On ne t'a pas demandé d'expliquer ton passé. On t'a demandé des portes qui cèdent, des témoins qui se taisent et des cadres protégés quand une rencontre tournait mal.
-
-Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. Tu es devenu Maître des Chantiers navals dans la Guilde des Ports Unis. C'est ton métier visible : surveillance des cales, sécurité des ouvriers, litiges sur les réparations. Cette charge te permet d'être sur les chantiers à toute heure, d'entendre les conversations des ouvriers et de tenir tranquilles les hommes qui refusent de parler aux prévôts.
+Tu faisais déjà partie des Sangs de la Steppe quand, à trente ans, on t'a confié la charge visible de Maître des Chantiers navals dans la Guilde des Ports Unis. Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. C'est ton métier visible : surveillance des cales, sécurité des ouvriers, litiges sur les réparations. Cette charge te permet d'être sur les chantiers à toute heure, d'entendre les conversations des ouvriers et de tenir tranquilles les hommes qui refusent de parler aux prévôts.
 
 Drask Bloodmoon te fournit poisons, sédatifs et antidotes selon la mission. Shadow t'appelle quand une infiltration tourne mal au Tripot ou à la banque et qu'il faut sortir un homme en vie.
+
+## Il y a treize ans — Corven Halst (mission ratée)
+
+Recouvrement standard sur Il-Irion : Corven Halst, négociant en métaux, refusait une créance. Tu es passé par la cour de service ; au couloir, le garde du corps a tué le premier des tiens, puis vous vous êtes affrontés. Tu lui as ouvert le flanc et lacéré la main droite ; il t'a neutralisé, mais tu es sorti vivant, le bérêt au crâne. Le troisième a atteint le bureau : Corven est mort, contrat sur la poitrine. Pour Kaelan, la créance est soldée. Toi, tu sais qu'un garde a survécu avec une vilaine cicatrice à la main droite — tu ne l'as jamais revu depuis et tu ignores où il se trouve, si ce n'est qu'un homme de main au Tripot aurait. comme de par le plus pur des hasards de mes deux, une vilaine cicatrice à la main droite.
 
 ## Travail actuel — muscle et escorte
 
@@ -126,6 +128,10 @@ Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kae
 ## Korran Vesper — Pirates d'Albar
 
 Pour les remises au quai, tu portes parfois la marque MQ-II-547-004 : tissu plié, trois barres dont celle du milieu est brisée, encre indigo. Tu la montres au second poste de garde côté terre — pas au même homme que la semaine précédente. Ce n'est pas le billet maritime que détient Kaelan ; c'est ton signe sans papier traçable quand Raven négocie l'or.
+
+## Garde de Corven Halst — Il-Irion (survivant)
+
+Il y a treize ans, lors du recouvrement Halst, tu lui as laissé une cicatrice profonde à la main droite. S'il est encore en vie, il la porte encore. Reconnaissance possible : sa main.
 
 ## Marda Velyss — Tripot (fort d'Ulghart)
 

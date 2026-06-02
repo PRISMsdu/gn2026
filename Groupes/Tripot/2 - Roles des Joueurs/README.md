@@ -12,7 +12,8 @@ Fiches individuelles remises à chaque joueur. Convention de nommage : `Tripot_N
 | `Tripot_Lira_Vestrann_Croupiere.md` | Croupière — codes de salle, complément de Sira |
 | `Tripot_Lydwen_Oracle.md` | Oracle — cartes, visions, artefact |
 | `Tripot_Soren_Homme_de_main.md` | Homme de main — poisons, potions |
-| `Tripot_Varek_Pisteur.md` | Pisteur — filatures, quai |
+| `Tripot_Varek_Pisteur.md` | Samvel Rauk, dit Varek — pisteur du quai |
+| `Tripot_Theodran_Veyr_Varek_Coulisses.md` | Theodran Veyr, dit Varek — pisteur des coulisses |
 | `Tripot_Ysabeau_Hotesse.md` | Hôtesse — VIP, salons |
 | `Tripot_Guelievre_Marech_Gouvernante.md` | Gouvernante — réserves, service, rapport à Marda |
 
