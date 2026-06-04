@@ -138,7 +138,7 @@ Tu dois coordonner tes approches avec Vorak et Raven. Vorak fixe le calendrier d
 ## Informations sensibles
 
 - Si ton identité civile est démasquée à Ulghart, tu deviens un otage utile pour quiconque sait que tu connais les coffres et les sceaux des familles d'Il-Irion.
-- Le rapport RA-III-546-004 sur l'arguethain a été rédigé par toi ou par un cadre qui t'a précédé sur le dossier. Tu choisis en jeu si tu reconnais devant Kaelan en être l'auteur, ou si tu l'attribues à un prédécesseur des Sangs.
+- La position des Sangs sur l'arguethain a été préparée par toi ou par un cadre qui t'a précédé sur le dossier. Tu choisis en jeu si tu reconnais devant Kaelan en être l'auteur, ou si tu l'attribues à un prédécesseur des Sangs.
 - Tu as causé l'incendie de l'auberge Vestrann en 525. Il n'existe pas de preuve solide contre toi, mais ton aveu suffit à faire de toi le responsable de la mort des parents et du frère de Sira et Lira.
 - Tu as organisé les retrouvailles des sœurs au ring du quai Est en 535. Elles ne le savent pas. Les organisateurs du combat ne savent pas pourquoi tu as fait passer l'affiche.
 - Tu as protégé Sybrel Dornik avant les Sangs. Les autres cadres ignorent ce lien ; ne leur donne pas de raison de relier Sybrel à ton ancien réseau de messagers.
@@ -163,45 +163,33 @@ Tu as appris son nom quand les caves de pugilat ont commencé à parler d'une ch
 
 Tu l'as protégée enfant en refermant le protocole qui aurait conduit à sa mort. Aujourd'hui elle garde les sous-sols de l'UBI à Ulghart. Aucun autre Sang ne porte cette histoire ; tu ne l'as confiée ni à Kaelan ni à Vorak.
 
-Le message codé MC-III-547-003 mobilise plusieurs Sangs sur des angles différents. Ne cite pas Sybrel devant tes coéquipiers sans préparer ta couverture. Dans les tunnels, un croisement maladroit peut la trahir si un Sang comprend d'où tu la connais. Tu dois la protéger sans révéler ton lien.
+Ne cite pas Sybrel devant tes coéquipiers sans préparer ta couverture. Dans les tunnels, un croisement maladroit peut la trahir si un Sang comprend d'où tu la connais. Tu dois la protéger sans révéler ton lien.
 
-## Korran Vesper — Pirates d'Albar
-
-Le rapport RA-III-546-004 sur l'arguethain est coordonné avec Vorak. Tu ne tiens pas le billet BM-III-546-005 du chef. Si Kaelan te l'ordonne, tu peux utiliser ce dossier en commission pour orienter une ligne maritime ou soutenir une version des Sangs sur l'affaire du fer.
 
 ## Marda Velyss — Tripot
 
-Marda dirige le Tripot d'Ulghart. Les Sangs n'ont jamais réussi à prendre la main sur son casino, malgré les pressions et les rencontres difficiles. Tu as déjà passé une nuit au Tripot sous faux nom ; ce n'est pas la reconnaissance de dette RD-III-543-002 de Kaelan.
+Marda dirige le Tripot d'Ulghart. Les Sangs n'ont jamais réussi à prendre la main sur son casino, malgré les pressions et les rencontres difficiles. Tu penses qu'un réseau solide protège son impunité, même si Marda ne connaît peut-être pas tous ceux qui tiennent ce filet. Tu as déjà essayé d'obtenir des informations à distance : cela n'a rien donné. Il te faut aller sur place et parler directement avec elle.
 
-Tu peux revenir sous couverture pour observer les flux, tester la résistance de Marda ou chercher comment les Vestrann tiennent leurs tables. Ne révèle pas ton lien avec Sira et Lira devant elle sans calcul : Marda peut transformer cette vérité en protection pour elles ou en arme contre toi.
 
-## Maître Halwen Rask — Sfaal
-
-Tu n'as pas la lettre complète CC-III-544-002 : tu as arraché une épreuve avant tirage. Tu peux la montrer à Halwen pour négocier silence ou complaisance, ou la brûler si Kaelan préfère étouffer la campagne.
-
-## Edorian — UBI
-
-Le fragment FM-III-546-006 est un papier à moitié brûlé que tu as récupéré près d'un coffre d'Edorian. C'est un indice d'accès aux sous-sols, pas une preuve complète d'une fraude. Tu peux le montrer en privé à Edorian pour obtenir une clé d'accès supplémentaire, une audience hors registre, ou pour lui faire craindre une enquête déjà ouverte. Remonte ensuite à Kaelan ce qu'Edorian a concédé.
-
-## Maître Vaelric Dorn — UBI
-
-Tu fabriques des fuites qu'il enterre parfois. Tu ne détiens pas le placard PA-II-545-003 mot pour mot. Tu peux proposer à Vaelric un échange : une feuille retirée contre un retard d'enquête sur la Guilde.
-
-## Dame Ydria Ventoss — UBI
-
-Tu lis les écarts par rumeurs de comptoir, pas par le bordereau BC-III-544-003 en main. En salon, cite des montants entendus. Pour une confrontation lourde, demande la pièce à Kaelan avant d'engager ton nom de couverture.
-
-## Melian Torv — UBI
-
-Melian Torv siège au conseil de l'UBI comme conseiller spirituel. Tu peux te présenter à lui sous faux nom et simuler une confession ou une crise de conscience sur un dossier qui touche Palyr, pour observer si Melian protège la cité palyrienne ou s'il transmet l'information ailleurs. Ne sors pas le fragment FL-III-545-002 que conserve Kaelan : laisse Melian se trahir par lui-même.
-
-## Cyrion Valdris — Il-Irion
-
-Tu détiens seul CP-III-542-002 : une copie de lettre de chantage sur la maison Valdris. Kaelan tient les deux autres pièces, CP-III-542-001 et CP-III-543-001, qui complètent le dossier. Dans un couloir de commission, tu peux montrer ta copie à Cyrion pour obtenir un rendez-vous privé. Pour une confrontation appuyée qui exige les trois pièces, passe par Kaelan.
 
 ## Varek Pisteur — Tripot
 
-Varek tient les pistes et les silences au Tripot. Tu peux recouper avec lui pour obtenir un passage, une filature ou une diversion. Ne lui confie ni ton rôle dans l'incendie de 525, ni le fait que tu as organisé les retrouvailles du quai Est. S'il comprend que tu suis les Vestrann pour une raison personnelle, donne-lui une raison opérationnelle liée aux Sangs ou aux dettes du Tripot.
+Varek tient les pistes et les silences au Tripot. Tu peux recouper avec lui pour obtenir un passage, une filature ou une diversion. Ne lui confie ni ton rôle dans l'incendie de 525, ni le fait que tu as organisé les retrouvailles du quai Est. S'il comprend que tu suis les Vestrann pour une raison personnelle, donne-lui une raison opérationnelle, pas la vérité entière. Son réseau t'intéresse assez pour justifier une vraie discussion.
+
+## Réseaux et gens du renseignement
+
+Tu connais ou tu soupçonnes les noms suivants dans les métiers de l'information. Ne les traite pas comme un seul réseau. Chaque nom dépend d'une maison, d'une délégation ou d'un service différent.
+
+- Fenric Ossel — Tripot : maître des registres. Il ne suit pas les gens dans les couloirs, mais ses livres peuvent prouver des flux, des dettes et des blanchiments.
+- Selvara Quenndral — UBI : archiviste en chef. Elle connaît les registres officiels, les registres internes et les codes de dépôt qui rendent une copie dangereuse.
+- Ysel Marivent — MiVI : officier de renseignement styrgienne. Si son nom apparaît dans une conversation, préviens Kaelan ou Raven avant de répondre.
+- Isar Dornelis — Il-Irion : homme de renseignement lié à la maison Dornelis. Il suit les rumeurs, les audits et les fuites autour de l'UBI.
+- Maren Holt — Palyr : commandant militaire et responsable des Cinq Feux pour Palyr. Il coordonne des rapports et peut reconnaître une filature mal tenue.
+- Sven Orlac — Ther-Félis : marin et opérateur d'affaires sensibles. Ses contacts passent par les quais, les juges et les pots-de-vin.
+- Bastion Kharvek — Arthas : chef de sécurité de délégation. Il cherche les traces liées aux vols, aux coffres et aux incidents qui touchent Arthas.
+- Grisbe Jab-fer — Sfaal : chef de sécurité de délégation. Il surveille les coffres, les accès et les vols qui touchent les familles sfaaliennes.
+
+
 
 ---
 

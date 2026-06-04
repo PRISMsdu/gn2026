@@ -43,10 +43,11 @@ Epopée en Krondaar
 | Groupe | Banquiers — UBI |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
-| Armes autorisées | toutes |
-| Armure autorisée | Cuir clouté maximum |
+| Armes autorisées | armes courtes |
+| Armure autorisée | cuir maximum |
 | Remarques | Placée par Palyr ; signature sur chaque mouvement de lingots ; coordination opération or avec Edorian via Varek (Tripot). |
 | Doublons (or) | 100 |
+| Fortune personnelle détournée | 5 000 couronnes hors circuits officiels |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -90,23 +91,21 @@ Depuis trois ans, les sorties hors registre passent par tes comptoirs. Tu enregi
 
 ## Chapitre IV : Les défis actuels
 
-Le mandat se termine. La priorité est de sortir l'or restant avant que la passation fige les accès aux coffres. Edorian a organisé l'opération extérieure — les Corbeaux de Minuit interviennent la première nuit de la Régate. Leur passage doit coïncider avec une séquence de mouvements que tu auras préparée pour que la perte soit difficile à dater précisément.
+Le mandat se termine. La priorité est de sortir l'or restant avant que la passation fige les accès aux coffres. Edorian a organisé l'opération extérieure — les Corbeaux de Minuit interviennent la première nuit de la Régate.
 
 Selvara a travaillé les registres pour masquer les écarts comptables. Tu as aligné les mouvements officiels sur ce qu'elle a rédigé. Ensemble, les deux couvertures doivent tenir face à un audit de routine. Face à un audit sérieux, elles tiennent moins longtemps. Le but n'est pas de tenir indéfiniment : c'est de tenir jusqu'à ce que tu sois partie.
 
-Tu as une issue personnelle préparée : des fonds placés hors des circuits bancaires officiels, des contacts chez des contrebandiers qui peuvent faire sortir des valeurs d'une cité sans laisser de trace confédérale. Si la maison brûle avant la passation, tu as une porte. Kaelan Thormane peut servir de corridor gris pour faire sortir du lingot si tous les autres accords tombent.
+Tu as une issue personnelle préparée : 5 000 couronnes placées hors des circuits bancaires officiels et des contacts chez des contrebandiers rencontrés avant l'UBI. Il y a quelques semaines, tu as envoyé un message à Neral Voss et Tessa Mire, deux anciens relais de Palyr, pour leur demander un contact discret pendant la Régate. Ces gens peuvent faire sortir des valeurs d'une cité sans laisser de trace confédérale. Si la maison brûle avant la passation, tu peux passer par eux..
 
 ## Chapitre V : Le réseau et les relations
 
-Edorian coordonne le plan. Tu travailles avec lui sur les mouvements d'or et la séquence de la passation. Tu n'as pas de loyauté personnelle envers lui. Tu as des intérêts alignés pour encore quelques semaines.
+Edorian coordonne le plan. Tu travailles avec lui sur les mouvements d'or et la séquence de la passation. Ta loyauté va au plan commun : sortir proprement, avec des comptes assez cohérents pour laisser l'équipe passer la Régate.
 
-Selvara est ta contrainte principale. Vos lignes se croisent sur chaque acte qui donne une apparence légale aux mouvements hors registre. Elle a besoin que tes chiffres restent cohérents avec ses textes. Tu as besoin que ses textes couvrent tes chiffres. C'est une dépendance mutuelle que vous gérez sans vous apprécier.
+Selvara est ton appui principal sur la forme écrite. Vos lignes se croisent sur chaque acte qui donne une apparence légale aux mouvements hors registre. Elle a besoin que tes chiffres restent cohérents avec ses textes. Tu as besoin que ses textes couvrent tes chiffres. C'est une dépendance mutuelle que vous gérez avec méthode.
 
-Vaelric gère le bruit. Ce qu'Ulghart croit savoir sur ce qui se passe dans cette banque, c'est lui qui le décide. Tu respectes l'efficacité de la méthode sans te fier à lui sur autre chose.
+Vaelric gère les mauvais payeurs et les mandats de recouvrement. Ses convocations, saisies et réquisitions doivent rester cohérentes avec tes lignes comptables. Vous vous coordonnez pour que chaque acte ait un chiffre défendable.
 
 Corvus tient les clefs des coffres. Sans lui les lingots restent en théorie. La passation oblige une coordination entre toi, Corvus et Horgrim sur les procédures d'accès. Tu maintiens une façade correcte avec Horgrim pour que cette coordination se fasse sans friction.
-
-Kaelan Thormane offre un corridor gris pour faire partir du lingot hors fil bancaire. Ce corridor se paie et se referme vite si quelqu'un parle trop tôt.
 
 ---
 
@@ -114,14 +113,13 @@ Kaelan Thormane offre un corridor gris pour faire partir du lingot hors fil banc
 
 - **Signature et lingots** : tenir le comptoir jusqu'à la fin du mandat ; aligner les mouvements officiels avec le plan convenu pour que la séquence de l'opération extérieure soit difficile à dater.
 - **Couverture comptable** : maintenir la cohérence entre tes mouvements et les registres de Selvara face à un audit de routine.
-- **Issue personnelle** : protéger les fonds placés hors circuits officiels et les contacts contrebandiers en cas d'effondrement avant la passation.
+- **Issue personnelle** : retrouver Neral Voss et Tessa Mire si la situation tourne mal ; protéger tes 5 000 couronnes placées hors circuits officiels et négocier leur sortie avant la passation.
 - **Varek et Corbeaux de Minuit** : caler les créneaux opérationnels via Varek sans laisser de trace entre ton comptoir et le casino.
 
 
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
 
@@ -131,15 +129,13 @@ Pour l'or tu assures l'accueil, la pesée à l'écart, la valeur retenue, les dr
 
 ## Varek — Tripot (relais opérationnel)
 
-Varek tient le relais vers l'équipe extérieure depuis le casino. Tu cadres avec lui les créneaux compatibles avec tes signatures au comptoir ce jour-là. Tu ne joues pas aux cartes — tu aligne des horaires. Le contact peut être cadré par un code type **GC-III-547-007**.
+Varek tient le relais vers l'équipe extérieure depuis le casino. Tu cadres avec lui les créneaux compatibles avec tes signatures au comptoir ce jour-là. Tu ne joues pas aux cartes — tu alignes des horaires. Le contact passe par des signes discrets, pas par une pièce bancaire.
 
-## Kaelan Thormane — Sangs de la Steppe
+## Neral Voss et Tessa Mire — contrebandiers de Palyr
 
-Le chef des Sangs offre un corridor gris pour faire partir du lingot hors fil bancaire lorsque tous les autres accords tombent. Ce corridor se paie. Il se referme vite si quelqu'un relie deux dossiers sous deux juridictions au même moment.
+Avant l'UBI, tu as gardé des contacts chez des contrebandiers capables de déplacer or, pierres et reconnaissances de dette hors des circuits bancaires. Il y a quelques semaines, tu as envoyé un message à Neral Voss et Tessa Mire pour réactiver cette filière pendant la Régate. Ils connaissent une phrase de reconnaissance : « Les colonnes propres ne sauvent pas les sacs pleins. » Tu dois répondre : « Alors on pèse avant l'aube. »
 
-## Contrebandiers et nobles endettés
-
-Tu as des fils vers des circuits d'évacuation hors cité et des signatures de nobles pris trop vite à des termes que tu contrôles encore. Ces contacts restent utiles tant que deux auditeurs ne relient pas le même dossier avant la même aube.
+Ces contacts ne connaissent pas le plan d'Edorian. Ils peuvent sauver tes 5 000 couronnes personnelles, pas couvrir seuls la disparition des coffres de l'Union. S'ils viennent, ils demanderont un point de remise clair, une valeur transportable et un paiement de risque.
 
 ---
 

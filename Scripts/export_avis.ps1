@@ -183,7 +183,7 @@ function Export-HtmlFileToPdf {
   $htmlUri = ([System.Uri]$htmlResolved).AbsoluteUri
   $pdfArg = '--print-to-pdf="' + $PdfAbsolutePath + '"'
 
-  $args = @(
+  $browserArgs = @(
     '--headless=new'
     '--disable-gpu'
     '--no-first-run'
@@ -193,7 +193,7 @@ function Export-HtmlFileToPdf {
     $htmlUri
   )
 
-  $p = Start-Process -FilePath $BrowserExe -ArgumentList $args -Wait -PassThru -NoNewWindow
+  $p = Start-Process -FilePath $BrowserExe -ArgumentList $browserArgs -Wait -PassThru -NoNewWindow
   $code = $p.ExitCode
   if ($null -eq $code) { $code = 0 }
 
@@ -274,17 +274,31 @@ try {
 # Supprimer le h1 du corps (il sera affiche dans l'entete)
 $bodyInner = [regex]::Replace($bodyInner, '(?s)<h1[^>]*>.*?</h1>', '', 1)
 
-# --- Blason : detection dans le repertoire du .md ---
+# --- Blason : chemin force ou detection dans le repertoire du .md ---
 
 $blasonSrc = ''
-foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
-  $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
-    Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
-    Select-Object -First 1
-  if ($found) {
-    $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
-    $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
-    break
+$forcedBlasonPath = $env:GN_AVIS_BLASON_PATH
+if (-not [string]::IsNullOrWhiteSpace($forcedBlasonPath)) {
+  if ([System.IO.Path]::IsPathRooted($forcedBlasonPath)) {
+    $foundBlasonPath = $forcedBlasonPath
+  } else {
+    $foundBlasonPath = Join-Path (Get-Location).Path $forcedBlasonPath
+  }
+  if (-not (Test-Path -LiteralPath $foundBlasonPath)) {
+    Write-Error "GN_AVIS_BLASON_PATH introuvable : $foundBlasonPath"
+  }
+  $blasonPrint = Optimize-ExportImageForPrint -SourcePath $foundBlasonPath -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+  $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
+} else {
+  foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
+    $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
+      Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
+      Select-Object -First 1
+    if ($found) {
+      $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+      $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
+      break
+    }
   }
 }
 
@@ -292,6 +306,91 @@ if ($blasonSrc) {
   $blasonHtml = '<img src="' + $blasonSrc + '" class="avis-blason" alt="Blason" />'
 } else {
   $blasonHtml = ''
+}
+
+# --- Sceaux de signature : option archives ---
+
+if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
+  $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Notice UBI\s*:[\s\S]*?)</p>', '<p class="archive-notice">$1</p>', 1)
+  $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Mention de classement\s*:[\s\S]*?)</p>', '<p class="archive-closing-mention">$1</p>', 1)
+  $contractBodyRegex = [regex]'(?s)(?<header><p>\s*CONTRAT[\s\S]*?</p>)(?<body>[\s\S]*?)(?=<p>Pour\s+)'
+  $contractBodyEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      $body = [regex]::Replace($m.Groups['body'].Value, '<p>(?!\s*(?:Pour\s|T.moin bancaire|Mention de classement))', '<p class="archive-contract-body">')
+      return ($m.Groups['header'].Value + $body)
+    }
+  $bodyInner = $contractBodyRegex.Replace($bodyInner, $contractBodyEvaluator, 1)
+
+  $sealBaseDir = Join-Path (Get-Location).Path 'LivretsLocaux\Blasons'
+  $sealFilesByCity = @{
+    'Il-Irion' = 'Sceau_Il-Irion.png'
+    'Sfaal' = 'Sceau_Sfaal.png'
+    'Palyr' = 'Sceau_Palyr.png'
+    'Ther-Félis' = 'Sceau_Ther-Felis.png'
+    'Arthas' = 'Sceau_Arthas.png'
+    'UBI' = 'Sceau_UBI.png'
+  }
+  $sealSrcByCity = @{}
+  foreach ($city in $sealFilesByCity.Keys) {
+    $sealPath = Join-Path $sealBaseDir $sealFilesByCity[$city]
+    if (-not (Test-Path -LiteralPath $sealPath)) {
+      Write-Error "Sceau introuvable pour $city : $sealPath"
+    }
+    $sealPrint = Optimize-ExportImageForPrint -SourcePath $sealPath -MaxEdgePx 96 -CacheDir $exportImageCacheDir
+    $sealSrcByCity[$city] = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $sealPrint
+  }
+  $sealVariantState = @{ Index = 0 }
+
+  $citySealRegex = [regex]'(?s)(?<label><p>Pour\s+(?<city>[^:<]+)\s*:[\s\S]*?</p>\s*)(?<sig><div class="doc-export-signature">[\s\S]*?<img[^>]+class="doc-export-signature-ink"[^>]*>[\s\S]*?</div>)'
+  $citySealEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      $city = $m.Groups['city'].Value.Trim()
+      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } else { $city }
+      if (-not $sealSrcByCity.ContainsKey($cityKey)) { return $m.Value }
+      $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $city")
+      $variant = $sealVariantState.Index % 5
+      $sealVariantState.Index += 1
+      $sealHtml = '<img src="' + $sealSrcByCity[$cityKey] + '" alt="' + $sealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
+      $sig = $m.Groups['sig'].Value -replace '</div>\s*$', ($sealHtml + "`n</div>")
+      return ($m.Groups['label'].Value + $sig)
+    }
+  $bodyInner = $citySealRegex.Replace($bodyInner, $citySealEvaluator)
+
+  $citySealEnsureRegex = [regex]'(?s)(?<label><p>Pour\s+(?<city>[^:<]+)\s*:[\s\S]*?</p>\s*)(?<sig><div class="doc-export-signature">[\s\S]*?</div>)'
+  $citySealEnsureEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      $sig = $m.Groups['sig'].Value
+      if ($sig -match 'doc-export-signature-seal') { return $m.Value }
+      $city = $m.Groups['city'].Value.Trim()
+      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } else { $city }
+      if (-not $sealSrcByCity.ContainsKey($cityKey)) { return $m.Value }
+      $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $city")
+      $variant = $sealVariantState.Index % 5
+      $sealVariantState.Index += 1
+      $sealHtml = '<img src="' + $sealSrcByCity[$cityKey] + '" alt="' + $sealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
+      $sig = $sig -replace '</div>\s*$', ($sealHtml + "`n</div>")
+      return ($m.Groups['label'].Value + $sig)
+    }
+  $bodyInner = $citySealEnsureRegex.Replace($bodyInner, $citySealEnsureEvaluator)
+
+  $partySignaturesRegex = [regex]'(?s)(?<first><p>Pour\s+[^:<]+\s*:[\s\S]*?</p>\s*<div class="doc-export-signature">[\s\S]*?</div>)\s*(?<second><p>Pour\s+[^:<]+\s*:[\s\S]*?</p>\s*<div class="doc-export-signature">[\s\S]*?</div>)'
+  $partySignaturesEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      return ('<div class="archive-party-signatures"><div class="archive-party-signature">' + $m.Groups['first'].Value + '</div><div class="archive-party-signature">' + $m.Groups['second'].Value + '</div></div>')
+    }
+  $bodyInner = $partySignaturesRegex.Replace($bodyInner, $partySignaturesEvaluator, 1)
+
+  $witnessSealRegex = [regex]'(?s)(?<label><p>T.moin bancaire\s*:[\s\S]*?</p>\s*)(?<sig><div class="doc-export-signature">[\s\S]*?<img[^>]+class="doc-export-signature-ink"[^>]*>[\s\S]*?</div>)'
+  $witnessSealEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      $sealAlt = [System.Net.WebUtility]::HtmlEncode('Sceau UBI')
+      $variant = $sealVariantState.Index % 5
+      $sealVariantState.Index += 1
+      $sealHtml = '<img src="' + $sealSrcByCity['UBI'] + '" alt="' + $sealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
+      $sig = $m.Groups['sig'].Value -replace '</div>\s*$', ($sealHtml + "`n</div>")
+      return ($m.Groups['label'].Value + $sig)
+    }
+  $bodyInner = $witnessSealRegex.Replace($bodyInner, $witnessSealEvaluator)
 }
 
 # --- Format de page : surcharge CSS ---
@@ -317,12 +416,25 @@ if ($mH1.Success) {
 # --- Assemblage HTML ---
 
 $shellPath = Join-Path $PSScriptRoot "avis_shell.html"
-$cssPath = Join-Path $PSScriptRoot "avis_print.css"
+$cssOverridePath = $env:GN_AVIS_CSS_PATH
+if ([string]::IsNullOrWhiteSpace($cssOverridePath)) {
+  $cssPath = Join-Path $PSScriptRoot "avis_print.css"
+} elseif ([System.IO.Path]::IsPathRooted($cssOverridePath)) {
+  $cssPath = $cssOverridePath
+} else {
+  $cssPath = Join-Path $PSScriptRoot $cssOverridePath
+}
 
 $cssResolved = (Resolve-Path -LiteralPath $cssPath).Path
 $cssHref = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $cssResolved
 
 $shell = Get-Content -Path $shellPath -Raw -Encoding UTF8
+if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
+  $quickRef = [System.Net.WebUtility]::HtmlEncode($baseName)
+  $shell = $shell.Replace('__TOP_RIGHT_HTML__', '<div class="avis-archive-corner"><div class="avis-archive-ref">' + $quickRef + '</div><div class="avis-archive-stamp">Acte ex&eacute;cut&eacute; et clos.</div></div>')
+} else {
+  $shell = $shell.Replace('__TOP_RIGHT_HTML__', '')
+}
 $html = $shell.
   Replace('__CSS_HREF__', $cssHref).
   Replace('__PAGE_OVERRIDE__', $pageOverride).

@@ -41,8 +41,8 @@ Epopée en Krondaar
 | Groupe | Tripot (casino du fort d'Ulghart) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
-| Armes autorisées | toutes |
-| Armure autorisée | Cuir clouté maximum |
+| Armes autorisées | armes courtes |
+| Armure autorisée | Cuir maximum |
 | Remarques | Registres de paris — preuves potentielles ; aligner truquages avec Marda. |
 | Argent | 7 600 couronnes |
 | Pugilat | 3 |
@@ -118,30 +118,20 @@ L'un des Varek te signale un parieur suspect : tu ajustes la cote ou tu alertes 
 - Tenir les écritures visibles alignées avec Fenric ; une cote trop agressive peut attirer l'UBI avant l'encaissement.
 - Supporter Sira et Lira sur les truquages à la marge quand Marda valide le risque.
 
-## Informations sensibles
-
-- Les truquages de régate passés laissent des preuves dans tes registres et chez des clients — utile pour toi, dangereux si saisie.
-- Toute cote trop belle attire les regards UBI ; tu cadres avec Fenric sur les écritures visibles avant les grandes soirées.
-- Si plusieurs groupes soudoient le même juge, tout le monde peut perdre ; alerte Marda avant d'engager un montant ou un nom.
-- Pas de double langage entre salles sur les mêmes juges : une contradiction publique brûle la réputation avant l'encaissement.
 
 # Connaissances
 
-## Juges et officiels de régate — Convention — Ulghart
+## Pistes par délégation — juges et gros paris
 
-Dessous de table, routes intermédiaires ; mêmes noms que mafia, Palyr, marins — coordonner avec Marda sans contradiction publique.
+La Régate attire des délégations qui veulent gagner sur l'eau ou encaisser aux tables. Cette liste te donne un premier nom à sonder par groupe. Avant de promettre un juge, une cote ou un paiement, vérifie avec Marda que le Tripot n'a pas déjà vendu le même résultat à quelqu'un d'autre.
 
-## Paris croisés — marins, Ther-Félis — Quai, délégations
+- Saevar Dren — Palyr : chef de la sécurité palyrienne et parieur endetté. Il revient aux tables même quand sa mission devrait l'en éloigner. Lira tient le détail de sa dette. Parle-lui avant d'utiliser Saevar pour une grosse mise ou une demande liée à la Régate.
+- Sven Orlac — Ther-Félis : marin chargé des affaires discrètes de sa délégation. Il traite les juges, les quais et les pots-de-vin. Si Ther-Félis veut acheter un juge, commence par lui.
+- Marek Thorne — Il-Irion : opérateur de renseignement dans les milieux marchands. Il peut utiliser une mise pour approcher un débiteur, tester une cote ou couvrir une pression venue d'Il-Irion. S'il pose de l'or sur la Régate, vérifie pour qui il travaille avant d'accepter.
+- Bastion Kharvek — Arthas : chef de la sécurité d'Arthas. Il suit les vols, les coffres et les incidents qui touchent sa délégation. S'il vient près des tableaux, il peut chercher à savoir qui truque la course autant qu'à parier lui-même.
+- Grisbe Jab-fer — Sfaal : chef de la sécurité de Sfaal. Il surveille les coffres, les accès et les pertes d'argent de sa délégation. Si une grosse mise sfaalienne arrive au Tripot, son nom sert à vérifier si l'argent vient d'un joueur isolé ou d'un ordre de la délégation.
+- Raven — Guilde des Ports Unis : maître des routes. Il peut fournir un intermédiaire, un juge ou un gros parieur contre une commission. Ne traite pas avec lui sans prévenir Marda.
 
-Paris et rumeurs qui traversent le Tripot ; recouper avec les Varek si des capitaines ou des gens de Ther-Félis misent gros.
-
-## Clients de régates passées — Divers
-
-Truquages passés ; certains croient encore devoir la maison ou possèdent des preuves.
-
-## Délégation Palyr — Palyr
-
-Paris et intérêts maritimes ; collision possible sur les mêmes juges.
 
 ---
 

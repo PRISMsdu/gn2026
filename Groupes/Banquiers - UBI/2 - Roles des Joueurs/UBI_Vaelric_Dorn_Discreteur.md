@@ -1,4 +1,4 @@
-# Vaelric Dorn — Discréteur (UBI)
+# Vaelric Dorn — Recouvreur mandaté (UBI)
 
 <!--
   Rôle joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe.
@@ -37,7 +37,7 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Vaelric Dorn |
-| Rôle dans le groupe | Discréteur — conseil ; récit public, rumeurs, dossiers hors registre |
+| Rôle dans le groupe | Recouvrement bancaire — mandats officiels, mauvais payeurs, réquisitions |
 | Classe / profession | Guerrier |
 | Compétences | Transe ; Pugilat (6) |
 | Groupe | Banquiers — UBI |
@@ -45,7 +45,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Placé par les réseaux d'Arthas ; ami d'Edorian depuis 8 ans ; coordonne calendrier opération extérieure via Varek (Tripot). |
+| Remarques | Placé par les réseaux d'Arthas ; ami d'Edorian depuis 8 ans ; agit avec des mandats bancaires officiels autorisant la réquisition de gardes locaux ou présents sur site. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -53,10 +53,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Calme, précis dans la parole, peu de gestes inutiles. Rien de ce qu'il dit n'est dit par hasard. |
-| Valeurs | Contrôle de l'information. Ce qui est su, par qui, au bon moment. |
-| Peur | Qu'un fil qu'il croyait coupé soit encore actif au mauvais moment. Qu'un témoin relie deux dossiers qu'il avait gardés séparés. |
-| Rêve | Sortir d'Ulghart avec assez de dossiers pour n'avoir plus jamais à rendre de comptes à personne. |
+| Traits de caractère | Calme, précis, tenace. Il parle peu, mais il arrive toujours avec un mandat, un montant et un nom. |
+| Valeurs | Un papier signé vaut mieux qu'une menace vide. Une dette doit être soldée ou devenir une prise. |
+| Peur | Qu'un débiteur fasse invalider un mandat au mauvais moment. Qu'un auditeur aligne ses recouvrements avec les arrangements du conseil. |
+| Rêve | Sortir d'Ulghart avec assez de créances, de dossiers et d'or pour ne plus jamais réclamer l'argent des autres. |
 
 ---
 
@@ -66,15 +66,15 @@ Epopée en Krondaar
 
 Tu nais à Arthas. La cité vit du commerce inter-îles : marchandises, informations, accords en coulisse. Ta famille gravite autour des comptoirs sans en tenir aucun en propre. Ton père sert d'intermédiaire entre des maisons marchandes qui ne veulent pas se parler directement. Tu apprends ce métier en regardant, pas à l'école.
 
-Dès l'adolescence tu comprends la mécanique : ce qui circule comme rumeur dans une taverne arrive toujours avant le document officiel. Celui qui contrôle le bruit contrôle le temps. Tu commences à rendre de petits services — un nom transmis à la bonne personne, un détail omis dans un rapport, un rendez-vous facilité entre deux parties qui ne devaient pas officiellement se voir.
+Dès l'adolescence tu comprends la mécanique des dettes : celui qui tient l'acte, le témoin et le bon délai tient souvent le débiteur. Tu commences à rendre de petits services — une lettre portée avant saisie, un rendez-vous imposé, une présence armée obtenue sans procès ouvert.
 
 À vingt ans tu travailles pour plusieurs maisons à la fois sans que chacune le sache. Ce n'est pas de la trahison. C'est un service : chaque maison paie pour que tu règles ce qu'elle ne peut pas régler elle-même.
 
 ## Chapitre II : L'apprentissage
 
-Tu t'imposes comme spécialiste de la gestion des dossiers sensibles. Un noble endette une famille de marchands, la famille veut se plaindre, le noble veut que ça disparaisse : tu trouves le prix. Un contrat a été signé sous contrainte et les deux signataires veulent qu'il soit oublié : tu trouves comment.
+Tu t'imposes comme spécialiste du recouvrement difficile. Un noble ne paie plus une maison marchande, un convoi disparaît avant solde, un débiteur refuse de reconnaître une signature : tu arrives avec l'acte, le montant et la procédure. Tu apprends vite qu'une dette se récupère mieux quand la menace reste légale.
 
-Les réseaux d'Arthas t'utilisent pour des missions hors cité. Tu passes plusieurs années à Il-Irion, Ulghart, Sfaal. Tu apprends les régimes de chaque cité, ce que chaque conseil veut cacher, qui tient réellement les décisions. Tu n'es pas mercenaire. Tu es une mémoire mobile avec un prix.
+Les réseaux d'Arthas t'utilisent pour des missions hors cité. Tu passes plusieurs années à Il-Irion, Ulghart, Sfaal. Tu apprends les usages de chaque cité, les limites des gardes locales, les noms des officiers qu'un mandat peut faire bouger et ceux qui demandent une garantie avant d'agir. Tu n'es pas mercenaire. Tu es l'homme qui transforme une créance en saisie.
 
 Les familles marchandes d'Arthas avaient des dossiers en coffre à l'UBI. Certains de ces dossiers, si leur contenu sortait, pouvaient renverser des alliances commerciales entières. Arthas voulait quelqu'un à l'intérieur de la banque. Ton nom s'est retrouvé sur la liste.
 
@@ -82,29 +82,27 @@ Les familles marchandes d'Arthas avaient des dossiers en coffre à l'UBI. Certai
 
 Tu rencontres Edorian à Il-Irion il y a huit ans. Ce n'est pas dans un bureau. C'est dans une taverne du bas quartier, après une bagarre où ni toi ni lui n'avait vraiment besoin d'être. Vous finissez à la même table. Vous parlez. Il a un plan. Tu as un réseau. Vous avez tous les deux une raison personnelle de vouloir qu'Il-Irion paie. Le reste se construit vite.
 
-Edorian ne voulait pas n'importe qui au poste de discréteur. Il voulait quelqu'un qui comprenait que l'UBI était une institution à exploiter, pas à servir. Tu l'avais compris avant qu'il finisse sa phrase. Arthas voulait quelqu'un dedans pour protéger ses dossiers. Edorian t'a aidé à être ce quelqu'un, et tu sais exactement ce que ça implique.
+Edorian ne voulait pas n'importe qui au recouvrement. Il voulait quelqu'un qui comprenait que l'UBI pouvait faire plier un débiteur avec un acte signé, une escorte légale et une menace de saisie. Tu l'avais compris avant qu'il finisse sa phrase. Arthas voulait quelqu'un dedans pour protéger ses dossiers et récupérer ce qu'on lui devait. Edorian t'a aidé à être ce quelqu'un, et tu sais exactement ce que ça implique.
 
-Il y a cinq ans, tu prends le poste de discréteur lors du renouvellement du conseil par la Régate. Arthas croit t'avoir placé pour défendre ses intérêts. Dans les faits, tu défends les tiens — et ceux du plan.
+Il y a cinq ans, tu prends le poste de recouvreur mandaté lors du renouvellement du conseil par la Régate. Arthas croit t'avoir placé pour défendre ses intérêts. Dans les faits, tu défends les tiens — et ceux du plan.
 
-Depuis le premier jour tu construis le bruit. Ce qui sort de la banque comme rumeur, tu l'as décidé. Ce qui ne sort pas aussi. Tu as géré des scandales avant qu'ils atteignent le conseil confédéral. Tu as orienté des délégations vers les mauvaises questions. Tu as laissé circuler des rumeurs sur des personnages que vous vouliez fragiliser.
+Depuis le premier jour tu fais rentrer l'argent que les débiteurs refusent de payer. Un mandat bancaire de l'UBI te donne le droit de demander l'appui des gardes des polices locales dans les cités concernées. Dans le fort, le même mandat peut justifier la réquisition d'un garde présent sur site, tant que l'ordre reste lié à un recouvrement, une saisie, une escorte de débiteur ou la protection d'un acte bancaire.
 
 ## Chapitre IV : Les défis actuels
 
-Le mandat se termine. L'opération extérieure est presque calée. Les Corbeaux de Minuit entrent la première nuit de la Régate pour prendre l'or et les archives. Ton rôle dans l'opération est narratif : l'attaque doit être crédible. Une bande extérieure, des complicités locales mal identifiées, une séquence qui tient sous interrogatoire de routine.
+Le mandat se termine. L'opération extérieure est presque calée. Les Corbeaux de Minuit entrent la première nuit de la Régate pour prendre l'or et les archives. Ton rôle est de fournir des déplacements crédibles : un mandat à signifier, un débiteur à convoquer, une escorte à demander, une saisie à préparer. Ces gestes justifient des mouvements de gardes et des rendez-vous sans annoncer le plan.
 
-Tu travailles ce récit depuis trois mois. Il doit couvrir la disparition d'or visible, pointer vers des suspects plausibles sans atteindre le noyau, et être suffisamment solide pour que le conseil entrant le reprenne comme version officielle. Tu ne participes pas à l'opération physique. Tout passe par Varek au Tripot.
+Tu prépares ces prétextes depuis trois mois. Ils doivent couvrir une partie des circulations autour du fort, pointer vers des débiteurs plausibles et rester compatibles avec les actes de l'UBI. Tu ne participes pas à l'opération physique. Tout ce qui concerne l'équipe extérieure passe par Varek au Tripot.
 
-Le problème, ce sont les questeurs. Ils arrivent d'Il-Irion pour enquêter sur les six gardes morts. Des questeurs ne se contentent pas du premier récit qu'on leur présente. Tu dois t'assurer que le tien soit le seul à leur arriver en premier, et que les autres sources aient déjà été fragilisées avant leur arrivée.
-
-Kaelan Thormane et les Sangs de la Steppe traversent des corridors où tes réseaux croisent l'argent gris. Chacun peut gêner l'autre si la même information lui sert deux fois au mauvais moment. Ni alliance, ni guerre : une distance utile.
+Le problème, ce sont les questeurs. Ils arrivent d'Il-Irion pour enquêter sur les six gardes morts. Des questeurs peuvent relire un mandat, interroger un garde réquisitionné et demander pourquoi une saisie a servi à déplacer des hommes au mauvais moment. Tes actes doivent rester propres sur le papier.
 
 ## Chapitre V : Le réseau et les relations
 
-Edorian et toi vous vous connaissez depuis huit ans. Tu n'as pas de fidélité aveugle envers lui. Tu as une confiance construite sur des intérêts alignés. Il tient la direction ; tu tiens le bruit. Tant que les deux s'accordent, ça fonctionne.
+Edorian et toi vous vous connaissez depuis huit ans. Tu n'as pas de fidélité aveugle envers lui. Tu as une confiance construite sur des intérêts alignés. Il tient la direction ; tu tiens les mandats qui font bouger les débiteurs et les gardes. Tant que les deux s'accordent, ça fonctionne.
 
-Horgrim te surveille et te bloque dans les souterrains parce que tu y circules sans suivre ses procédures. Tu y circules sans suivre ses procédures parce que certains passages ne doivent pas apparaître dans ses rapports. C'est une tension que tu entretiens : plus il te surveille, moins il surveille autre chose.
+Horgrim tient la sécurité du fort. Tu ne commandes pas sa garde par autorité personnelle ; tu peux seulement demander des hommes quand un mandat bancaire le justifie. Lui vérifie que la demande reste dans le cadre. Vous n'avez pas le même périmètre, et c'est précisément pour cela que vous pouvez travailler ensemble.
 
-Ydria tient les signatures sur les lingots. Sans ses mouvements au comptoir, le récit d'une attaque extérieure ne tient pas comptablement. Vous n'avez pas besoin de vous apprécier pour travailler ensemble.
+Ydria tient les signatures sur les lingots. Sans ses mouvements au comptoir, tes actes de recouvrement ne tiennent pas comptablement. Vous n'avez pas besoin de vous apprécier pour travailler ensemble.
 
 Melian te préoccupe. Pas sa morale — ça ne te dérange pas. Son réseau à Palyr et sa capacité à relier des fils que tu croyais séparés : ça, c'est un risque réel. Un homme compromis jusqu'à l'os peut coopérer avec un auditeur pour obtenir sa propre protection.
 
@@ -114,34 +112,32 @@ Varek est ton seul contact direct avec l'extérieur. Tout ce qui ne doit pas lai
 
 # Tes missions et objectifs
 
-- **Récit de couverture** : finaliser et tenir le récit d'attaque extérieure ; s'assurer qu'il soit la version que les questeurs et le conseil entrant reçoivent en premier.
+- **Mandats de recouvrement** : garder des actes crédibles pour justifier les convocations, escortes et réquisitions nécessaires pendant la Régate.
 - **Coordination Varek** : caler avec Varek les créneaux et les signaux compatibles avec l'opération extérieure, sans laisser de trace entre ton bureau et le casino.
-- **Neutraliser les fuites** : identifier qui dans le fort pourrait parler avant la passation et fermer les canaux avant que l'information atteigne les mauvaises personnes.
+- **Mauvais payeurs** : utiliser les débiteurs présents à Ulghart comme prétextes officiels sans leur donner assez d'éléments pour comprendre le plan.
 - **Arthas** : gérer la relation avec les familles d'Arthas qui croient avoir un droit sur ta loyauté ; tu sors d'Ulghart pour toi, pas pour elles.
 
 
 
----
-
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
-
 # Connaissances
 
-## Fonction hors registre — UBI
+## Mandats de recouvrement — UBI
 
-Tu n'es pas sur le fil continu du comptoir. Tu interviens quand le risque n'est pas la pesée mais la réputation : un dépôt qui deviendrait parole de ville avant preuve, un bien dont le dépôt est déjà parti pris entre maisons. Tu cadres ce qu'Ulghart croira avoir vu ou manqué quand les portes se referment.
+Tu interviens quand l'UBI veut récupérer une somme, faire signer un débiteur, saisir un bien ou contraindre une maison à respecter un acte. Ton mandat bancaire te donne une autorité officielle : dans une cité, tu peux demander l'appui des gardes des polices locales ; au fort, tu peux demander l'appui d'un garde présent sur site si la demande reste liée au recouvrement.
+
+En jeu, un mandat sert à convoquer quelqu'un, demander une escorte, retenir un débiteur ou faire vérifier un bien. Il ne te donne pas le commandement général de la sécurité du fort : ce périmètre reste celui d'Horgrim.
 
 ## Varek — Tripot (relais opérationnel)
 
-Varek tient avec toi les créneaux et les signaux compatibles avec l'opération extérieure. Ton nom reste hors bande officielle banque. Le contact physique avec l'équipe qui entre ne passe pas par ton bureau. Les grilles de contact peuvent être cadrées par un code type **GC-III-547-007**.
+Varek est ton relais vers le Tripot. Les consignes pour l'équipe extérieure passent par lui afin que ton nom ne figure pas sur une note bancaire. Tu peux lui donner une heure, un signe ou une contrainte de passage, mais pas un ordre écrit signé de toi.
 
-## Kaelan Thormane — Sangs de la Steppe
+## Questeurs et conseil entrant
 
-Le chef des Sangs traverse des corridors où tes réseaux discrets croisent l'argent gris. Vous n'êtes pas ennemis directs, mais chacun peut brûler l'autre si la même information lui sert deux fois au mauvais moment. Tu maintiens une distance utile.
+Les questeurs arrivent pour les six gardes morts, mais leur autorité peut déborder sur toute la banque. Ils poseront des questions simples : quel mandat justifiait tel déplacement, quel garde a été requis, qui a signé la demande, quel débiteur était concerné. Tes réponses doivent tenir avec les actes de Selvara, les signatures d'Ydria et les accès contrôlés par Horgrim.
 
-## Dossiers sensibles hors registre
+Le conseil entrant sera plus facile à contenir si les mandats existent déjà. Prépare des noms de débiteurs crédibles, des horaires compatibles avec les rondes et une raison bancaire pour chaque escorte demandée. Ton objectif n'est pas de prouver toute l'histoire. Il est de fournir des actes assez solides pour que les autres puissent s'y référer.
 
-Tu as conservé des copies de dossiers qui ne devaient pas en avoir. Certains concernent des familles d'Arthas. D'autres concernent des conseillers de cités voisines. Ces dossiers sont ta garantie personnelle si quelqu'un cherche à te laisser seul face à un auditeur après la Régate.
+
 
 ---
 

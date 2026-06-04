@@ -125,29 +125,19 @@ Quand Guelievre, Samvel ou Theodran remontent quelque chose, tu te déplaces ava
 - Humilier publiquement un chef mafia peut déclencher une guerre ouverte — Marda négocie ; toi tu limites la violence au périmètre du casino.
 - La sécurité du fort (remparts, citadelle) n'est pas ton service : la confondre avec la tienne crée des scènes fausses avec Il-Irion ou la garnison.
 - Les VIP sont protégés pour le magot de la maison, pas par sentiment personnel.
-- Tu as des notes sur les gardes banque avant les six morts — utile si quelqu'un te demande ce que tu savais avant les cadavres sur les quais.
 - Marda connaît ton passé d'Arthas et le mort chez les Darsen (hors role: tu dois lui dire, c'est plus simple pour le rédacteur de ton rôle ;) ; ne le propage pas en salle. Luceriane Darsen est dans la délégation d'Arthas à la Convention : si quelqu'un te reconnaît, alerte Marda avant d'agir seul.
 
 # Connaissances
 
-## Kaelan Thormane / Raven — Mafia — Sangs de la Steppe
+## Six gardes morts — Sybrel et habitants de l'île
 
-Visites en salle ; dette de salle liée à Marda (reconnaissance signée) ; enjeux régate et quai.
+Les six gardes de la banque morts sur les quais n'étaient pas seulement des hommes d'Holgrim. Ils fréquentaient aussi un groupe d'habitants d'Ulghart que tu trouvais déjà suspect : rendez-vous tardifs, passages près des coursives, regards sur les accès du Tripot. Avant leur mort, tu as surpris une ou deux fois Sybrel Dornik, côté UBI, en discussion avec eux dans des coursives où elle n'avait pas besoin de parler si bas.
 
-## Holgrim Dval — UBI — garde banque
+Tu as déjà échangé ce doute avec Marda et les Varek. Ces gardes et leurs contacts peuvent avoir participé aux détériorations du casino : poissons pourris dans les réserves, départs de feu dans les coulisses, dégâts sur les accès. Tu n'as pas de preuve complète. Tu as assez d'éléments pour surveiller Sybrel, les proches des morts et les habitants qui reviennent autour des mêmes portes.
 
-Tes signalements sur dégradations et gardes suspects ; six morts ; il te considère gênant.
-
-## Luceriane Darsen / famille Darsen — Arthas — délégation
-
-Tu as tué un homme des Darsen à Arthas après une erreur de jugement ; la famille peut te reconnaître si ton passé remonte.
-
-## Gardes PNJ du Tripot — Tripot
-
-Réseau que tu as recruté — postes, rotations, consignes de salle.
+Depuis ces morts, un songe revient par fragments. Tu vois un immense serpent détruire des murs, des quais et des portes. Au réveil, tu ne sais pas si c'est un avertissement, une peur ou un signe lié à Ulghart. Si Lydwen ou Marda évoque un serpent, des habitants étranges ou les morts de la banque, tu dois recouper ce que tu as vu avant d'agir seul.
 
 ## Autorités du fort — Citadelle
-
 Tu n'es pas leur subordonné ; si une scène militaire touche au fort, tu ne cadres que ce qui concerne la maison, avec Marda.
 
 ---

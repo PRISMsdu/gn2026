@@ -73,21 +73,19 @@ En interne, la maison n’est pas homogène. La discipline demandée par le MiVI
 Il existe un endroit sur lequel vous n'avez pas de pression, pas de relais et même pas d'espion : le tripot du fort d'Ulgarth. Prendre la main sur le casino permettrait d'accélérer fortement la réussite de nombreux objectifs. Dans un casino on entend tout, on croise du monde. On blanchit de l'or également. Le Casino est très proche de la banque, vous pensez qu'il lui appartient. Malgré plusieurs tentatives de pression et des rencontres houleuses avec Marda Velyss, la patrone du Casino, vous n'avez jamais réussi à la faire cracher, à la faire tomber. C'est pourtant un objectif que vous a fixé depuis longtemps le MiVI. Il doit y avoir un secret, quelque chose, qui  donne tant d'applomb et de resistance a ce groupe dont vous vous méfiez, certains d'entre eux sont connus partout et ont des relais dans toutes les grandes familles. Surtout ceux qui ont des dettes...
 
 
-### L’affaire du fer (route maritime Sfaal–Palyr)
+### L’affaire du fer (ligne Sfaal–Palyr)
 
-Ther-Félis détient encore le contrat de transport du fer confédéré, mais la cité n’a plus les moyens d’entretenir sa flotte. Les navires restent à quai ; les convois passent par sous-traitance à la Guilde des Ports Unis, en secret. Evidement, ils ne savent pas que vous avez organisé le détournement de fer. Des écrits (mandat, avenants, correspondance avec le représentant des routes commerciales de la Guilde) circulent dans les coffres et les registres — pièces utiles si quelqu’un relie Ther-Félis à ce qui s’est passé en mer.
+Ther-Félis détient encore une part du transport maritime sur la ligne Sfaal–Palyr, mais la cité n’a plus les moyens d’entretenir sa flotte. Le contrat SE-II-546-008 lui permet de sous-traiter à la Guilde des Ports Unis le trajet Sfaal–Ther-Félis, première étape du transit vers Palyr. La Guilde, c’est vous.
 
-C’est cette porte ouverte qui vous a permis d’organiser le détournement lorsque le MiVI l’a exigé.
+Cette sous-traitance vous a donné les navires, les manifestes, les escales et les sceaux. Sur ordre du MiVI, vous deviez faire disparaître le bon fer et l'orienter vers la Styrgie. Les papiers devaient rester propres : navire déclaré, escale déclarée, cargaison déclarée.
 
-Il y a quelques mois, sur ordre du MiVI, vous avez monté une substitution en mer sur la route Sfaal–Palyr : remplacer le bon minerai par du fer médiocre tout en conservant des documents d’expédition conformes à l’arrivée.
+À Sfaal, les sceaux et les marques devaient tenir. Vous avez obtenu une copie du sceau qui atteste le fer, puis vous avez remis l'original à sa place. Les pirates des eaux d’Albar ont exécuté l’abordage et le transbordement. À Palyr, les forges et les arsenaux ont reçu du métal médiocre pendant que les vingt tonnes de fer de qualité supérieure quittaient le circuit officiel.
 
-À Sfaal, les sceaux et les marques devaient tenir : vous avez obtenu une complicité interne — récupération du sceau qui atteste le fer, copie des marques, remise du sceau à sa place. La Guilde des Ports Unis a tenu les relais portuaires. Les pirates des eaux d’Albar ont exécuté l’abordage et le transbordement. À Palyr, les forges et les arsenaux ont reçu le métal médiocre pendant que le bon fer quittait le circuit officiel.
+Vous avez ensuite doublé le MiVI. Au lieu d'envoyer le bon fer vers la Styrgie, vous l'avez vendu à Aquiléa par l'intermédiaire des pirates. Le prix retenu pour cette vente illégale est de vingt mille couronnes : vingt tonnes à mille couronnes la tonne, car le métal est de qualité militaire, déjà scellé, et la transaction expose l'acheteur comme le vendeur.
 
-En parallèle des instructions reçues des officiels styrgiens, vous avez mis vos propres fonds pour orienter ce bon fer vers Aquiléa plutôt que vers les circuits que certains intérêts styrgiens attendaient. Vous avez donc servi deux séries d’ordres : celles transmises officiellement et celles financées par vos liquidités.
+Korran Vesper a déjà reçu cinq mille couronnes d'avance pour l'abordage, le transbordement et la vente à Aquiléa. Pendant la Convention, les pirates doivent apporter aux Sangs les vingt mille couronnes de la vente. Après comptage, ils récupèrent les cinq mille couronnes restantes de leur contrat. Raven porte la relation opérationnelle avec Korran. Gareth protège les sacs. Kaelan valide la remise.
 
-Aujourd’hui, le bon fer a disparu. Les versions divergent selon les interlocuteurs ; le MiVI vous tient pour responsables des manques dans les inventaires et les rapports qu’il exige.
-
-Une partie du produit de la manœuvre avait été convertie en or avec les pirates. Cet or n’arrive pas par mandat sur un coffre : il faut un rendez-vous (lieu, heure, signes), compter les sacs, confronter aux engagements pris en mer. Sans rencontre avec les pirates — en pratique avec Korran Vesper — pas de règlement net. Raven porte la relation opérationnelle. Vous devez clore la remise, éviter un incident qui révélerait le double jeu aux officiels styrgiens et aux pirates, et décider du sort de l’argent si les pirates ou les contreparties d’Aquiléa ne tiennent pas leurs engagements.
+Aujourd’hui, le bon fer a disparu du circuit officiel. Le MiVI vous tient pour responsables des manques dans les inventaires et croit encore pouvoir récupérer le bénéfice politique de l'opération. Si les pirates gardent l'or, parlent à Palyr ou révèlent Aquiléa, votre double jeu devient visible.
 
 ### Bilan des trois dernières années
 
@@ -108,7 +106,7 @@ Votre échéance tient là : Régate, renouvellement du conseil de l’UBI, tens
 
 Derrière cette échéance, votre ligne commune reste simple : partir avec des garanties, par une sortie arrangée plutôt qu’une fuite précipitée.
 
-L’or à récupérer chez les pirates et les documents compromettants que vous accumulez depuis des années (archives, coffres, correspondances, dossiers sur les élites) font votre jeu : capitaux ailleurs, silence gardé sur vos noms, prise contre d’éventuels poursuivants.
+Les documents compromettants que vous accumulez depuis des années font votre jeu : archives, coffres, correspondances, dossiers sur les élites, rapport interne sur la Guilde et les Sangs. L'or d'Aquiléa doit financer votre sortie, une fois les cinq mille couronnes restantes versées aux pirates. Si Korran Vesper garde l'or ou parle trop tôt, il peut vendre le détail de l'abordage et votre trahison du MiVI.
 
 Vous ne cherchez pas la rupture publique avec Elfrion. Vous visez une négociation avec le MiVI sur le récit qui suivra votre départ : quels dossiers se ferment, quels noms restent rangés sous l’histoire « steppe », quelles pièces ne partent pas en dénonciation signée vers les autorités confédérées.
 
@@ -123,8 +121,8 @@ Vous tenez un rapport interne sur la naissance de la Guilde des Ports Unis et le
 - Contrôler le Tripot (casino du fort d’Ulghart) : les flux — blanchiment, dettes, renseignements — ne sont pas encore sous votre autorité ; il vous faut une mainmise ou un accord écrit qui fixe vos droits de regard et vos commissions sur ces flux face à Marda Velyss et à son équipe. Comprendre comment Marda peut-elle être si puissante, car si vous ne pouvez partir proprement, il faudra disparaitre et la réputation de certaines personnes de l'équipe de Marda est reconnue (Varek, Ardan Trevil sont connus dans le monde du jeu, des silences et des réseaux depuis plus longtemps que vous).
 - Maintenir des contacts avec les séparatistes d’Arthas et de Ther-Félis utiles aux votes et à la rumeur quand l’UBI tranche. Faire que Arthas et Ther-Félis prennent des positions fortes dans le prochain conseil.
 - Documenter, faire fuiter ou faire taire selon ce qui vous sert, et réduire les témoins ou fuites qui vous menacent vous-mêmes.
-- Clore les dettes vives : affaire du fer et or attendu — remises avec les pirates (Korran Vesper), contreparties Aquiléa ; sans règlement net, exposition aux relances du MiVI et aux règlements internes.
-- Préparer la retraite : or des pirates, documents compromettants, rapport Guilde / Sangs comme base pour exiger des quittances écrites dans une sortie négociée avec le MiVI.
+- Clore les dettes vives : affaire du fer, remise de l'or d'Aquiléa, solde de cinq mille couronnes dû aux pirates. Sans règlement net, exposition aux relances du MiVI, aux fuites pirates et aux règlements internes.
+- Préparer la retraite : documents compromettants, rapport Guilde / Sangs et capitaux déjà détournés comme base pour exiger des quittances écrites dans une sortie négociée avec le MiVI.
 
 ---
 
@@ -137,7 +135,7 @@ Vous tenez un rapport interne sur la naissance de la Guilde des Ports Unis et le
 | Gareth Ironfist | Homme de main | Intimidation, protection, règlements | Olivier Ledreux |
 | Drask Bloodmoon | Alchimiste interrogateur | Soins, substances, interrogatoires | Luc Zawierta |
 | Shadow | Infiltrateur et expert en extorsion | Renseignement, infiltration, chantage, documents *(nom de code)* | Stephen |
-| Raven | Maître des réseaux et négociateur | Informateurs, parlement, extérieur ; remises avec Korran Vesper (pirates) | Sylvain Biosca |
+| Raven | Maître des réseaux et négociateur | Informateurs, parlement, extérieur ; paiement de Korran Vesper (pirates) | Sylvain Biosca |
 
 ---
 

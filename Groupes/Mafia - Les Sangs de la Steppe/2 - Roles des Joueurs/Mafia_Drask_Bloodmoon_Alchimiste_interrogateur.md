@@ -125,23 +125,22 @@ Tu tiens la pharmacie du réseau et tu cadres les interrogatoires avec Vorak. En
 
 ## Sybrel Dornik — UBI (garde des tunnels)
 
-Sybrel arpente les sous-sols de la banque. La pièce MC-III-547-003 est un message codé que d'autres Sangs utilisent pour la pression ; toi, tu peux proposer une lecture chimique si on te remet le papier ou des effets personnels liés à la piste (odeur, encre, résidu sur un sceau). Recoupe avec Raven avant une scène où elle est présente : elle ne doit pas savoir que tu analyses son territoire sans accord.
+Sybrel arpente les sous-sols de la banque. Tu n'as pas de dossier direct sur elle. Si Raven ou Kaelan te demandent un avis avant une scène où elle est présente, reste sur ton domaine : état d'un témoin, traces de substances, cohérence d'un récit physique.
 
 ## Maître Vaelric Dorn — UBI (discréteur)
 
-Vaelric enterre ou relance les fuites selon ses dossiers. La pièce PA-II-545-003 concerne la crédibilité d'un récit face à des preuves physiques. Si on te confie un extrait ou un témoin qu'il a auditionné, tu notes ce qui colle ou non au corps (tremblements, pupilles, cicatrices récentes) pour Kaelan.
+Vaelric enterre ou relance les fuites selon ses dossiers. Si on te confie un extrait ou un témoin qu'il a auditionné, tu notes ce qui colle ou non au corps (tremblements, pupilles, cicatrices récentes) pour Kaelan.
 
 ## Dame Ydria Ventoss — UBI (trésorière)
 
-Ydria lit les écarts financiers et préside les audits. Le bordereau BC-III-544-003 documente une ligne de caisse contestée et les pressions exercées autour de sa justification publique. Si un délégué ou un greffier passe par ta salle après une convocation chez elle, tu peux relever signes de fatigue extrême ou de poison léger déjà administré par un tiers. Ne fais cette observation que si Vorak ou Kaelan te l'ordonnent.
-
-## Receveur anonyme — conciliation hors greffe
-
-La pièce AC-II-543-003 concerne des timings et des traces distinctes des dossiers UBI centraux. On peut te la remettre pour vérifier si des délais entre deux rendez-vous quai sont physiologiquement possibles pour un messager ; tu rends un avis court au chef, pas un discours public.
+Ydria lit les écarts financiers et préside les audits. Si un délégué ou un greffier passe par ta salle après une convocation chez elle, tu peux relever signes de fatigue extrême ou de poison léger déjà administré par un tiers. Ne fais cette observation que si Vorak ou Kaelan te l'ordonnent.
 
 ## Korran Vesper — Pirates d'Albar
 
-Korran doit remettre l'or de l'affaire du fer. Tu n'es pas le négociateur : Raven et Kaelan tiennent la remise. Si un pirate arrive blessé ou drogué avant la rencontre, Gareth peut t'appeler pour le stabiliser sans retarder la transaction — seulement sur ordre.
+Korran doit apporter l'or de la vente du fer à Aquiléa. Tu n'es pas le négociateur : Raven et Kaelan tiennent la remise et le solde. Si un pirate arrive blessé ou drogué avant la rencontre, Gareth peut t'appeler pour le stabiliser sans retarder la transaction — seulement sur ordre.
+
+## autres Alchimistes et Herboristes
+Il est certain que la convention va faire venir pas mal de charlatans, mais aussi probablement des confrêres ou des Herboristes. Tu vois aussi dans cette convention un moyen de te créer un réseau pour l'après : il va bien falloir que tu continues tes recherches personnelles et que tu gagnes un peu ta vie...
 
 ---
 

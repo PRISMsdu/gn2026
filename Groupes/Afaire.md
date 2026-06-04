@@ -93,9 +93,9 @@ Cette liste d'intéraction doit être rédigée. pour chacune des intéractions 
 -->
 [ ] faire les contrats
 - sous-traiteance ther-felis
-- remettre les magnificences à tous les groupes
-- remettre a sybrel la véritable histoire
-- ajouter dans le role de varek une mention sur la compagnie du dolmen rouge, ainsi que Mafia, palyr, Sybrel
+[ x ] - remettre a sybrel la véritable histoire
+
 - faire le texte et les contrats du détournement d'argent pour les autres cités.
 - checker le changement de loblat palyr en Legat.
+- donner les cpipe compromettante à Selvara
 

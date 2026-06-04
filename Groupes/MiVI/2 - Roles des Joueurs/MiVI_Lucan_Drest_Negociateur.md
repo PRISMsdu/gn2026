@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Lucan Drest |
+| Joueur | Nathanaël Sebille |
+| E-mail joueur | nathanael.sebille@protonmail.com |
 | Rôle dans le groupe | Négociateur |
 | Classe / profession | Diplomate |
 | Compétences | Erudit ; Transe |
@@ -47,7 +49,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir maximum |
 | Remarques | Cinq langues du Levant - avec aide orga peut identifier l'origine d'une personne sur son simple parlé  |
-| Doublons (or) | 100 |
+| Argent | 200 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -100,11 +102,11 @@ Tu arrives à la citadelle d'Ulghart, sur l'île d'Il-Irion, avec le détachemen
 
 Il y a deux jours, le réseau a intercepté une escorte Questeur en route vers Ulghart : un Clerc de Jorock et trois gardes, enquête sur les six gardiens de la banque retrouvés morts. La bataille a tué plus de quinze mercenaires engagés pour l'opération. Un homme de l'escorte adverse a réchappé, blessé. Plusieurs membres du détachement portent encore des blessures visibles.
 
-Depuis l'embuscade, couverture Questeur sur le détachement. Théven Corvel incarne messire Ydrael Montfou (lettre d'ordre des Oblats, acte Horgrim Dval). Sur le mandat, tu es adjoint assermenté : auditions, langues, procès-verbaux. Varro et Miraen portent la garde du corps affichée ; Ysel le greffier d'instruction sur les papiers. Insignes Questeur visibles. Tant que l'imposture tient, vous circulez dans les couloirs, la banque et les salles d'audition. Théven veut retrouver le mercenaire survivant avant qu'il ne parle.
+Depuis l'embuscade, couverture Questeur sur le détachement. Théven Corvel incarne messire Ydrael Montfou (lettre d'ordre des Oblats, acte Horgrim Dval). Sur le mandat, tu es adjoint assermenté : auditions, langues, procès-verbaux. Varro et Miraen portent la garde du corps affichée ; Ysel est la greffière d'instruction sur les papiers. Insignes Questeur visibles. Tant que l'imposture tient, vous circulez dans les couloirs, la banque et les salles d'audition. Théven veut retrouver le mercenaire survivant avant qu'il ne parle.
 
 Elfrion t'a fixé trois chantiers, à mener au nom du Questeur quand c'est possible, et hors mandat seulement quand Théven l'ordonne.
 
-Premier chantier : régate et routes. Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. Elfrion veut orienter escales et contrats vers Arthas et Ther-Félis plutôt que vers Il-Irion seule, sans provoquer d'embargo. L'annexe AN-III-547-008 est dans tes dossiers d'adjoint : noms d'intermédiaires à citer en audition ou en commission (sous-enchères, quai en échange, billets différés). Tu cites le mandat Montfou si un délégué résiste ; si « embargo » circule, tu arrêtes. Toute pression sur la Guilde ou le Tripot : ordre de Théven.
+Premier chantier : régate et routes. Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. Elfrion veut orienter escales et contrats vers Arthas et Ther-Félis plutôt que vers Il-Irion seule, sans provoquer d'embargo. Tu cites le mandat Montfou si un délégué résiste ; si « embargo » circule, tu arrêtes. Toute pression sur la Guilde ou le Tripot : ordre de Théven.
 
 Deuxième chantier : commerce discret avec Palyr — hors mandat Questeur. Rendez-vous secret avec Thoran Keld (lettre d'approvisionnement Styrgie qui lui est parvenue avec ses papiers de délégation), vendredi soir au quai, mot « cale close avant l'aube ». Tu n'y vas pas en Questeur : pas d'insigne, pas de procès-verbal. Ne cite ni MiVI, ni Primat, ni Montfou. Ne signe rien de lourd sans Théven.
 
@@ -123,12 +125,12 @@ Théven tranche si une audition que tu ouvres met le détachement en danger. Tu 
 
 ## Ton rôle au quotidien
 
-Tu parles cinq langues du Levant. En couverture, tu conduis les auditions au nom de Montfou et rédiges les procès-verbaux. En mission MiVI, tu négocies routes, salons et contacts hors registre quand Théven l'ordonne.
+Tu parles les langues du Levant, le tchélène, le styrgien, l'aquilien et une cinquième langue que tu choisis avant le jeu. La règle en annexe te permet de détecter l'accent sous-jacent d'une personne, même quand elle s'exprime naturellement dans la langue commune. En couverture, tu conduis les auditions au nom de Montfou et rédiges les procès-verbaux. En mission MiVI, tu négocies routes, salons et contacts hors registre quand Théven l'ordonne.
 
 ## Objectifs prioritaires
 
 - Tenir la couverture d'adjoint Questeur (depuis 2 jours) : procès-verbaux, auditions, langues ; ne jamais citer le MiVI ni le Primat en public.
-- Orienter escales et rabais fret vers Arthas et Ther-Félis (AN-III-547-008) sous couverture du mandat, avant le vote du conseil UBI.
+- Orienter escales et rabais fret vers Arthas et Ther-Félis sous couverture du mandat, avant le vote du conseil UBI.
 - Rendez-vous Thoran Keld hors mandat (vendredi soir, quai, « cale close avant l'aube ») : sans insignes Questeur ; ne rien signer de lourd sans Théven.
 - Recouper avec Ysel avant toute scène UBI avec Melian Torv ; ne pas exposer FL-III-545-002 sans accord.
 
@@ -148,11 +150,23 @@ Cyrion porte la voix d'Il-Irion à la Convention. La pièce CP-III-542-001 (chan
 
 ## Marda Velyss — Tripot (patronne)
 
-Marda tient le casino du fort depuis dix ans. Sous mandat Montfou, tu peux la convoquer, l'auditionner ou exiger une table fermée ; Miraen recueille flux et dettes, tu rédiges. Si Marda conteste une perquisition, tu cites le mandat ou tu remontes à Théven. La dette RD-III-543-002 lie le Tripot aux Sangs : utile en audition, pas en descente publique sans ordre.
+Marda tient le casino du fort depuis dix ans. Sous mandat Montfou, tu peux la convoquer, l'auditionner ou exiger une table fermée ; Miraen recueille flux et dettes de clients, tu rédiges. Si Marda conteste une perquisition, tu cites le mandat ou tu remontes à Théven. Les Sangs veulent contrôler le Tripot, mais tu n'as pas de dette écrite de Marda à utiliser en audition.
 
-## Routes et régate — annexe AN-III-547-008
+## Routes et régate
 
-Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. L'annexe AN-III-547-008 est dans tes dossiers d'adjoint : cite Sera Orist (Arthas, armateur) pour une sous-enchère ; négocie avec Jonn Halet (Ther-Félis, quais) en personne ; n'utilise la Maison Veth & Roole (billets différés) que si Théven l'ordonne. Si le mot « embargo » circule en commission, tu arrêtes. Toute pression sur la Guilde ou le Tripot au nom des routes : ordre de Théven.
+Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. Tu peux soutenir des interlocuteurs Arthas ou Ther-Félis quand ils affaiblissent la position d'Il-Irion, mais sans produire de note interne. Si le mot « embargo » circule en commission, tu arrêtes. Toute pression sur la Guilde ou le Tripot au nom des routes : ordre de Théven.
+
+---
+
+# Annexe : Sous l'accent des ports
+
+Tu disposes d'une carte de faveur sociale liée à ton oreille de négociateur. Elle représente ta capacité à entendre les habitudes de langue, les tournures apprises dans l'enfance et les accents qu'une personne garde même quand elle parle la langue commune.
+
+Pour utiliser cette carte, donne-la à une personne avec qui tu viens d'échanger quelques phrases. La conversation peut être courtoise, commerciale ou tenue pendant une audition. La personne qui reçoit la carte doit te dire ses origines réelles. Si elle a plusieurs origines, elle doit toutes te les donner.
+
+Les origines à donner sont celles qui expliquent son accent et son histoire personnelle : cité, peuple, pays, famille étrangère, enfance passée ailleurs ou double appartenance. La personne ne te donne pas ses secrets, ses missions, ses crimes ni ses allégeances cachées, sauf si ces éléments font partie directement de ses origines.
+
+La carte ne force personne à obéir à une demande et ne remplace pas une preuve. Elle te donne une information de départ pour une négociation, une vérification de procès-verbal ou une pression polie. Après usage, laisse la carte à la personne le temps qu'elle lise l'effet, puis récupère-la. Si tu perds cette carte, ta compétence est perdue. L'échange doit être discret car si la carte est revélée de manière ostentatoire ou trop visibles à d'autres personnes autour, les gens se méfieront. Les gens se méfient toujours de toute façon... ;) 
 
 ---
 

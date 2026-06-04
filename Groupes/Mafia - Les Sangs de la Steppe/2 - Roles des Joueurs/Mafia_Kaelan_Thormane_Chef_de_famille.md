@@ -88,9 +88,9 @@ Il y a environ huit ans, vous avez monté l'affaire Lysara Valdris. Des lettres 
 
 Pendant la même période, le réseau a vendu des secrets à la Styrgie, à Sfaal et à plusieurs acheteurs qui payaient la chute d'un rival. La banque d'Il-Irion a servi de lieu de dépôt pour des parchemins extorqués ou volés. Il n'y a pas eu de traité public avec elle : seulement un accès contrôlé à des intermédiaires et à des coffres.
 
-Il y a quelques mois, sur ordre du MiVI, vous avez monté une substitution en mer sur la route Sfaal–Palyr : bon minerai remplacé par du fer médiocre, documents d'expédition conformes à l'arrivée. Les pirates d'Albar ont exécuté l'abordage et le transbordement. En parallèle, tu as orienté une partie du bon fer vers Aquiléa avec les fonds des cinq cadres. Le MiVI vous tient responsables des manques dans les inventaires et exige des comptes.
+Il y a quelques mois, sur ordre du MiVI, vous avez monté une substitution en mer sur la ligne Sfaal-Palyr, sous couverture de la sous-traitance confiée à la Guilde des Ports Unis. Le bon minerai a été remplacé par du fer médiocre, avec des documents d'expédition conformes à l'arrivée. Les pirates d'Albar ont exécuté l'abordage et le transbordement.
 
-L'or converti avec les pirates doit être remis en main propre : rendez-vous, signes, sacs comptés. Raven porte la négociation opérationnelle avec Korran Vesper ; toi tu valides ou tu coupes la remise.
+Le MiVI attendait que le bon fer parte vers la Styrgie. Vous l'avez vendu à Aquiléa par l'intermédiaire des pirates. Korran Vesper a déjà reçu cinq mille couronnes d'avance. Il doit rapporter vingt mille couronnes pendant la Convention, puis recevoir les cinq mille couronnes restantes après comptage.
 
 ## Ulghart — Tripot, UBI, retraite
 
@@ -98,7 +98,7 @@ Le Tripot du fort d'Ulghart est le dernier objectif du MiVI sur lequel vous n'av
 
 À Ulghart se croisent la Régate et le renouvellement du conseil de l'UBI. Officiellement, vous êtes la Guilde des Ports Unis. Pour la troisième fois, vous assistez aux échanges sur les postes au conseil sans y intervenir directement, selon l'usage fixé.
 
-Depuis un an, les cinq autres cadres et toi avez détourné 10'000 couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie arrangée. Tes leviers : l'or des pirates à récupérer, les documents compromettants accumulés depuis quinze ans, et un rapport interne sur la naissance de la Guilde et des Sangs — celui-ci doit servir à obtenir des quittances écrites du MiVI avant le départ.
+Depuis un an, les cinq autres cadres et toi avez détourné 10'000 couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie arrangée. Tes leviers : les documents compromettants accumulés depuis quinze ans, les capitaux déjà mis de côté, l'or attendu d'Aquiléa et un rapport interne sur la naissance de la Guilde et des Sangs. Ce rapport doit servir à obtenir des quittances écrites du MiVI avant le départ.
 
 ---
 
@@ -113,13 +113,13 @@ Tu décides et tu signes pour le réseau. En public, tu parles comme Maître des
 - Exécuter les priorités du MiVI à Ulghart : affaiblir institutions et rivalités utiles à la Styrgie, sans effondrement immédiat de la Confédération si ce n'est pas l'ordre du jour.
 - Influencer le nouveau conseil de l'UBI : alliés de délégation, candidatures, preuves en coffres ou en commission.
 - Obtenir une mainmise ou un accord écrit sur le Tripot face à Marda Velyss (flux, commissions, dettes).
-- Clore l'affaire du fer : remise d'or avec Korran Vesper ; éviter un incident qui révèle le double jeu aux styriens et aux pirates.
+- Clore l'affaire du fer : faire remettre les vingt mille couronnes d'Aquiléa, solder Korran Vesper de cinq mille couronnes sans trace UBI, éviter un incident qui révèle le double jeu aux styriens, à Palyr ou à Sfaal.
 - Préparer la retraite négociée : pièces en main, quittances du MiVI, dossiers qui ne partent pas en dénonciation publique.
 
 ## Informations sensibles
 
 - Toute fuite publique sur la chaîne Elfrion–MiVI–Sangs te désigne personnellement comme responsable et te coûte la couverture de la Guilde.
-- Le bordereau FC-III-544-001 contre Edorian et les pièces sur le scandale de Staal sont des leviers à usage unique. Sortis sans préparation, ils peuvent être retournés contre toi en commission ou devant le MiVI.
+- Les pièces sur le scandale de Staal et le dossier Valdris sont des leviers à usage unique. Sortis sans préparation, ils peuvent être retournés contre toi en commission ou devant le MiVI.
 
 ---
 
@@ -127,35 +127,23 @@ Tu décides et tu signes pour le réseau. En public, tu parles comme Maître des
 
 ## Korran Vesper — Pirates d'Albar
 
-Korran mène l'équipage qui doit remettre l'or de l'affaire du fer. Tu détiens le billet BM-III-546-005 : trois sacs au sceau du corbeau, remise au point convenu après la cloche du second gardien, retard d'une marée qui majore le prix d'un dixième. Raven négocie sur le quai avec Korran ; Garm le Roc sécurise la salle, Miren Ald pèse les sacs et Sera Vane tient l'heure et les signes. Montant attendu : 10'000 couronnes, correspondant à l'argent détourné pendant la substitution du fer Sfaal-Palyr. Compte les sacs, confronte au papier, ne signe pas de quitus sans Raven.
-
-## Marda Velyss — Tripot (fort d'Ulghart)
-
-Marda tient le casino. Tu détiens RD-III-543-002 : reconnaissance de dette de 543, quatre-vingts pièces d'or pour salle privée et jetons prélevés sur caisse non déclarée, signée sous la formule « familles de l'Est ». Tu peux la rappeler en privé : proposer un accord de commission sur les flux du casino, exiger un droit de regard sur les dettes des élites, ou menacer de faire circuler une copie de la reconnaissance vers la milice. Choisis selon ce que tu veux obtenir ce week-end ; ne brandis le papier qu'une fois.
-
-## Maître Halwen Rask — Staal (imprimerie)
-
-Halwen Rask tient une imprimerie à Staal. La lettre CC-III-544-002 est une complaisance éditoriale sur la chute du patriarche marchand Orrin Malet. Tu peux demander une nouvelle feuille, étouffer une rumeur ou accélérer une campagne de presse contre une famille rivale — en échange d'or ou de protection pour son atelier.
-
-## Edorian — UBI (direction)
-
-Edorian dirige la banque. Tu as une copie du bordereau FC-III-544-001 : honoraires de mandat sur la ligne casino, mille deux cent quarante pièces d'or, marge « report personnel — E. » sans sceau complet. En audition ou en salon, cite-le seulement si tu veux le coincer ; sinon garde-le pour une confrontation fermée avec lui ou avec ses alliés au conseil.
+Korran mène l'équipage qui a exécuté l'abordage, le transbordement et la vente du fer à Aquiléa. Tu détiens le billet interne `Billet_remise_or_pirates_546` : cinq mille couronnes déjà versées, vingt mille couronnes d'Aquiléa à remettre aux Sangs, puis cinq mille couronnes de solde pour les pirates après comptage. Raven négocie sur le quai avec Korran. Garm le Roc sécurise la salle, Miren Ald pèse les sacs et Sera Vane tient l'heure et les signes. Le billet n'est pas enregistré à l'UBI et ne doit pas l'être. Compte l'or d'Aquiléa avant tout solde, obtiens le silence de Korran, ne donne pas de quitus sans Raven.
 
 ## Sybrel Dornik — UBI (garde des tunnels)
 
-Sybrel garde les sous-sols de l'UBI. Le message MC-III-547-003 est codé ; Shadow et Drask l'examinent sous des angles différents. Avant de la convoquer ou de la confronter, accorde-toi avec eux pour ne pas la solliciter deux fois le même jour : un témoin pressé en double parle moins, ou fuit.
+Sybrel garde les sous-sols de l'UBI. Si tu dois la convoquer ou la confronter, accorde-toi avec Raven et Shadow pour ne pas la solliciter deux fois le même jour : un témoin pressé en double parle moins, ou fuit.
 
 ## Maître Vaelric Dorn — UBI (discréteur)
 
-Vaelric gère fuites et enterrements de scandale. La pièce PA-II-545-003 concerne un placard anonyme. Tu peux lui proposer un échange : tu retires une copie, il retarde une enquête sur la Guilde.
+Vaelric gère fuites et enterrements de scandale. Tu peux lui proposer un échange : tu retires une copie, tu calmes une rumeur ou tu bloques un témoin, et il retarde une enquête sur la Guilde.
 
 ## Dame Ydria Ventoss — UBI (trésorière)
 
-Ydria lit les écarts comptables et préside les audits. Le bordereau BC-III-544-003 documente une ligne de caisse contestée et les pressions exercées pour en justifier l'usage. Tu peux le citer en commission de l'UBI pour obtenir un vote favorable, ou l'utiliser en privé pour qu'Ydria ouvre une ligne de crédit à un alliance que tu fais fermer ensuite par un autre canal.
+Ydria lit les écarts comptables et préside les audits. Tu n'as pas de bordereau contre elle. Si tu veux l'utiliser, passe par une demande de ligne de crédit, un audit orienté ou une question de procédure qui l'oblige à choisir un camp devant le conseil.
 
 ## Melian Torv — UBI (conseiller spirituel)
 
-Melian siège au conseil. Le fragment FL-III-545-002 lie Palyr à une affaire sensible. Recoupe avec Raven avant une scène où Melian et une délégation palyrienne sont dans la même salle.
+Melian siège au conseil. Tu entends des bruits étranges le concernant : peur, inquiétude. Il masque quelque chose au sein de la banque, mais quoi ? 
 
 ## Cyrion Valdris — Il-Irion (Maison Valdris)
 

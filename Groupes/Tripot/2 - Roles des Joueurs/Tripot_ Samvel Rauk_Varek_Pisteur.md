@@ -145,13 +145,17 @@ Tu entretiens ton réseau par messages et rencontres brèves en ville basse ou a
 
 # Connaissances
 
+## Réseau des Varek — annexe
+
+Le détail des contacts communs aux deux Varek se trouve dans [Réseau des Varek](Reseau_varek.md). Utilise cette fiche avec Theodran : un nom vu au quai et revu dans les coulisses devient une piste à remonter à Ardan ou à Marda.
+
 ## Marek Thorne — Il-Irion (réseaux gris)
 
 Thorne est un opérateur de renseignement d'Il-Irion. Ses relais à Ulghart peuvent croiser les tiens sans que vous vous soyez jamais présentés officiellement. Pendant la Régate, repère s'il remonte une dette de jeu ou un nom de délégation vers le Tripot : un croisement peut te compromettre ou te donner un échange utile, selon qui paie.
 
 ## Délégation styrgienne et MiVI — Ulghart (danger)
 
-La République envoie des experts maritimes, des négociateurs et des hommes du MiVI sans drapeau. Tu connais leurs habitudes de travail de l'intérieur : filatures en binôme, mots de passe courts, préférence pour les quais après la tombée du jour. Si quelqu'un te fixe trop longtemps ou cite un nom d'unité de traque, ne confonds pas paranoïa et reconnaissance — préviens Marda.
+La République envoie des experts maritimes, des négociateurs et des hommes sans drapeau (on parle d'un réseau nommé MiVI). Tu connais leurs habitudes de travail de l'intérieur : filatures en binôme, mots de passe courts, préférence pour les quais après la tombée du jour. Si quelqu'un te fixe trop longtemps ou cite un nom d'unité de traque, ne confonds pas paranoïa et reconnaissance — préviens Marda.
 
 ## Informateurs — Confédération, quais et fort
 
@@ -163,7 +167,7 @@ Tu as entendu circuler des plis entre réseaux rivaux : Sybrel, le mot « nid »
 
 ## Saevar Dren — Palyr (client possible)
 
-Saevar Dren, sécurité de la délégation Palyr, connaît ta réputation au Tripot : tu sais qui doit combien dans le fort et dans quel salon on le dit. Il peut acheter une information ou te demander de fermer un sujet.
+Saevar Dren, sécurité de la délégation Palyr, connaît ta réputation au Tripot. Il peut acheter une information ou te demander de fermer un sujet.
 
 ---
 

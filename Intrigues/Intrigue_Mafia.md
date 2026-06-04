@@ -31,7 +31,7 @@ Les **trois dernières années**, le bilan remonté au MiVI est jugé insuffisan
 
 **Ther-Félis et la sous-traitance** : Ther-Félis conserve le **contrat confédéré de transport du fer**, mais la cité n’a plus les moyens d’**entretenir sa flotte** (navires à quai). Les convois passent par **sous-traitance** à la **Guilde des Ports Unis**. Greffes et délégation traitent la Guilde comme syndicat maritime reconnu et **ignorent** le réseau Sangs. Mandats, avenants et correspondance avec le **directeur de syndicat des routes** circulent dans les coffres — pièces utiles si une enquête relie Ther-Félis à ce qui s’est passé en mer. C’est cette porte ouverte qui a permis d’**organiser le détournement** lorsque le MiVI l’a exigé (détail joueurs : `Back_groupe_Mafia.md`, section *L’affaire du fer*).
 
-L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécutée avec la **Guilde des Ports Unis** et des **Pirates d’Albar**, reste un dossier vif : les Sangs ont payé les pirates pour orienter le **bon fer** vers **Aquiléa** et non vers la Styrgie ; le **paiement** lié à cette manœuvre est encore **en suspens** pendant le GN. Contacts règlement : **Korran Vesper** (pirates) ↔ **Raven** (Sangs). Le bon fer a **disparu** ensuite — tension **MiVI** si le dossier refait surface.
+L’opération **fer Sfaal–Ther-Félis** (546–547), conçue par le MiVI et exécutée avec la **Guilde des Ports Unis** et des **Pirates d’Albar**, reste un dossier vif : les Sangs doivent payer les pirates pour l'abordage, le transbordement et l'orientation du **bon fer** vers **Aquiléa** ; ce **paiement** est encore **en suspens** pendant le GN. Contacts règlement : **Korran Vesper** (pirates) ↔ **Raven** (Sangs). Le bon fer a **disparu** ensuite — tension **MiVI** si le dossier refait surface.
 
 ---
 
@@ -102,7 +102,7 @@ L’opération **fer Sfaal–Palyr** (544–545), conçue par le MiVI et exécut
 - **Leurre tchélène / steppe** : couverture extérieure ; pas la confusion interne au réseau.
 - **Pression MiVI** : relances si les dossiers majeurs (Tripot, UBI, preuves, fer) stagnent encore.
 - **Coffres UBI** : pièces d’archive (codes pièce `TT-R-YYY-NNN`), fil Valdris, dossiers « guerre » ou compromettants pour la Styrgie.
-- **Opération fer 546–547** : **Ther-Félis** (contrat, flotte à quai, sous-traitance Guilde) → MiVI ordonne le détournement → substitution en mer → **Palyr** reçoit du mauvais fer ; **CP-III-546-002** / complice **Sfaal** ; relais portuaires Guilde ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
+- **Opération fer 546–547** : **Ther-Félis** (contrat, flotte à quai, sous-traitance Guilde) → MiVI ordonne le détournement → substitution en mer sur le trajet **Sfaal–Ther-Félis** → le mauvais fer poursuit le circuit officiel ; **CP-III-546-002** / complice **Sfaal** ; relais portuaires Guilde ; **paiement pirates** par les Sangs, **destination Aquiléa** ; tension si le dossier remonte pendant le GN.
 - **Scandale de Staal (~12 ans)** : cohérence avec archives et chantage actuel sur familles.
 
 ---

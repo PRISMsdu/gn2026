@@ -108,9 +108,9 @@ Qui, où, quoi, document, conséquence — sans métaphore.
 
 ## MiVI — Lucan (information injouable → chapitre explicite)
 
-❌ Liste d'intermédiaires pour enchères d'escales, rabais fret. Pièce : AN-III-547-008. Noms utiles : Sera Orist (Arthas, armateur), Jonn Halet (Ther-Félis, facteur d'escales), Maison Veth & Roole (Guilde des Ports Unis, couverture).
+❌ Liste d'intermédiaires pour enchères d'escales, rabais fret. Noms utiles : Sera Orist (Arthas, armateur), Jonn Halet (Ther-Félis, facteur d'escales), Maison Veth & Roole (Guilde des Ports Unis, couverture).
 
-✅ Pendant la Convention, les maisons se disputent l'ordre d'accostage à Ulghart et les rabais sur le fret Palyr–Il-Irion. AN-III-547-008 nomme trois interlocuteurs. Sera Orist, armateur d'Arthas : cite-le en commission pour soutenir sa sous-enchère s'il engage du tonnage. Jonn Halet, facteur d'escales de Ther-Félis : il attribue les quais ; négocie en personne, pas par mandataire. Maison Veth & Roole sert aux billets à ordre différés — seulement si Théven l'ordonne.
+✅ Pendant la Convention, les maisons se disputent l'ordre d'accostage à Ulghart et les rabais sur le fret Palyr–Il-Irion. Sera Orist, armateur d'Arthas : cite-le en commission pour soutenir sa sous-enchère s'il engage du tonnage. Jonn Halet, facteur d'escales de Ther-Félis : il attribue les quais ; négocie en personne, pas par mandataire. Maison Veth & Roole sert aux billets à ordre différés — seulement si Théven l'ordonne.
 
 Le chapitre doit répondre à « à quoi ça sert en jeu ? » sans renvoyer le joueur vers une fiche orga.
 

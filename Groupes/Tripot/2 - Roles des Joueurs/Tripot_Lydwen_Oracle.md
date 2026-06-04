@@ -127,21 +127,6 @@ L'organisation te remettra un jeu de cartes portant des informations précises (
 
 Tu ne lis pas ces cartes à l'avance devant les autres joueurs. Tu les consultes en coulisse ou au moment du tirage, selon les consignes remises avec le paquet. Si la personne attendue n'est pas là, tu ne force pas l'information : tu attends le bon créneau ou tu en parles à Marda si le délai presse.
 
----
-
-# Connaissances
-
-## Melian Torv — UBI — conseiller spirituel
-
-Il suit l'artefact en coffre avec Edorian de Courcel. Lettres et engagements croisent banque et foi. Avant toute scène coffre ou salon commun où il est présent, recouper avec Ysabeau : Melian est le pont Palyr / foi / coffres, et une phrase mal placée peut coûter une alliance à Marda. Tout ceci n'est pas clair, c'est volntaire.
-
-## Artefact et ligne UBI — Banquiers
-
-Rumeurs sur l'objet maudit et sur le blanchiment passé par le Tripot. Tu sens qu'il pèse sur les négociations ; tu ne possèdes pas le détail complet. 
-
-## Lysa Morwyn — Palyr — trésorière
-
-Tu n'as pas encore croisé son nom sur une carte officielle, mais des visions récentes mêlent parfois une femme de délégation, un ordre plié, et le visage de Soren. Si une trésorière palyrienne te cherche pour un tirage ou une « rencontre de hasard », préviens Marda avant de répondre.
 
 ---
 

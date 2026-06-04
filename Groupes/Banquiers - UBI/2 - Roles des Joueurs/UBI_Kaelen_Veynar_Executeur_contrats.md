@@ -37,7 +37,7 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Kaelen « Griffes-de-Fer » Veynar |
-| Rôle dans le groupe | Exécuteur de contrats — recouvrement, pression, réseau d'influence |
+| Rôle dans le groupe | Exécuteur de contrats — appui armé, pression, escortes sensibles |
 | Classe / profession | Guerrier |
 | Compétences | Torture ; Pugilat (7) |
 | Groupe | Banquiers — UBI |
@@ -55,8 +55,8 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Direct, peu patient avec les justifications longues. Comprend vite ce qu'une personne veut éviter. |
 | Valeurs | La reconnaissance d'un travail bien fait. L'or comme preuve concrète que le travail compte. |
-| Peur | Rester dans l'ombre d'Horgrim indéfiniment. Que les dossiers qu'il a constitués remontent contre lui si quelqu'un les aligne correctement. |
-| Rêve | Prendre la tête de la garde après le départ d'Horgrim. Partir d'Ulghart avec assez pour s'installer ailleurs à ses propres conditions. |
+| Peur | Qu'un audit relie ses escortes, ses interventions et les dossiers nobles que l'équipe a utilisés pendant le mandat. |
+| Rêve | Partir d'Ulghart avec l'équipe, assez payé pour s'installer ailleurs à ses propres conditions. |
 
 ---
 
@@ -80,9 +80,9 @@ Tu te retrouves sans employeur, avec un nom qui circule dans les réseaux de gar
 
 ## Chapitre III : L'ascension
 
-Tu entres au service de l'UBI il y a cinq ans, sous Horgrim. On te confie d'abord des missions d'escorte et de surveillance visible. Tu travailles correctement. Horgrim te monte en grade et te confie un deuxième rôle : le recouvrement de dettes.
+Tu entres au service de l'UBI il y a cinq ans, sous Horgrim. On te confie d'abord des missions d'escorte et de surveillance visible. Tu travailles correctement. Horgrim te monte en grade et te confie un deuxième rôle : l'appui armé aux actes sensibles.
 
-Le recouvrement de dettes à l'UBI, c'est plus que présenter une lettre officielle à un débiteur. La banque a des créances que personne d'autre ne veut aller chercher, sur des personnes que personne d'autre ne veut approcher. Tu y vas. Tu trouves le bon levier — un membre de la famille à exposer, un secret à révéler, une dette croisée avec quelqu'un d'autre. Les dettes rentrent.
+Quand Vaelric arrive avec un mandat de recouvrement, il lui faut parfois une présence qui fasse comprendre au débiteur que l'acte sera appliqué. C'est ton rôle. Tu escortes, tu tiens une porte, tu accompagnes une saisie et tu rappelles à ceux qui hésitent que la banque n'est pas venue discuter.
 
 Chaque intervention te donne une prise sur une maison noble ou une famille marchande. Tu sais où sont les dossiers, ce qu'ils ont mis en gage, ce qu'ils ont fait pour éviter de payer. Ces informations ne sont pas dans les registres officiels. Elles sont dans ta tête et dans des notes que tu gardes pour toi.
 
@@ -92,9 +92,9 @@ Tu choisis d'en bénéficier.
 
 ## Chapitre IV : Les défis actuels
 
-Le mandat se termine. Edorian sort. Horgrim sort aussi. Ce que tu veux, c'est sortir avec eux — et prendre la tête de la garde dans le chaos de la passation si une opportunité se présente.
+Le mandat se termine. Edorian sort. Horgrim sort aussi. Ce que tu veux, c'est sortir avec eux, dans les formes prévues, sans qu'un incident de garde ou une procédure de recouvrement bloque le départ.
 
-Les dossiers que tu as constitués pendant cinq ans sur des familles nobles d'Il-Irion, de Sfaal et d'ailleurs sont une ressource. Si quelqu'un essaie de te laisser seul face aux auditeurs après la passation, ces dossiers deviennent une protection. Tu les gardes hors du circuit officiel.
+Les dossiers constitués pendant cinq ans sur des familles nobles d'Il-Irion, de Sfaal et d'ailleurs protègent l'équipe autant que toi. Ils peuvent acheter un silence, calmer une famille ou empêcher un témoin de donner aux questeurs une version trop complète.
 
 Les questeurs d'Il-Irion qui arrivent pour enquêter sur les six gardes morts vont probablement croiser des noms que tu connais. Des familles qui ont subi des recouvrements musclés ont des raisons de parler. Tu dois savoir qui parmi eux est encore sous pression suffisante pour se taire.
 
@@ -102,44 +102,38 @@ La Régate va ramener du monde dans le fort. Parmi ce monde, des personnes qui t
 
 ## Chapitre V : Le réseau et les relations
 
-Horgrim est ton mentor et ton obstacle. Il t'a formé, il t'a donné ta place dans cette institution. Il est aussi la raison pour laquelle tu n'as pas encore le titre que tu veux. La passation va créer un vide. Tu y penses.
+Horgrim est ton chef direct et ton mentor. Il t'a formé, il t'a donné ta place dans cette institution, et tu connais assez ses méthodes pour agir vite sans lui créer de problème de procédure. Pendant la passation, vous devez tenir les escortes et les accès comme une seule équipe.
 
-Edorian te respecte pour ce que tu as fait. Il ne t'a pas intégré dans le noyau initial, mais il sait ce que tu vaux. Tu travailles avec lui sur les dossiers de familles nobles qui pourraient bloquer la sortie du conseil.
+Edorian te respecte pour ce que tu as fait. Il sait ce que tu vaux sur le terrain. Tu travailles avec lui sur les dossiers de familles nobles qui pourraient bloquer la sortie du conseil.
 
 Sybrel partage parfois tes rondes dans les tunnels. Elle ne pose pas de questions. Toi non plus. C'est une collaboration fonctionnelle.
 
-Les familles nobles que tu as récupérées pendant cinq ans savent qui tu es et ce que tu peux faire. Certaines te haïssent. Toutes préfèrent que tu restes silencieux sur leurs dossiers. C'est ton levier principal pendant la Régate.
-
-Kaelan Thormane et les Sangs de la Steppe ont croisé tes réseaux de recouvrement plusieurs fois. Ni alliance, ni conflit ouvert : une mémoire mutuelle de ce que chacun a vu sur le terrain.
+Les familles nobles que tu as récupérées savent qui tu es et ce que tu peux révéler. Certaines te haïssent. Toutes préfèrent que leurs dossiers restent fermés.
 
 ---
 
 # Tes missions et objectifs
 
-- **Dossiers nobles** : identifier les familles présentes à la Régate qui ont des comptes à régler avec toi et s'assurer qu'elles ne parlent pas aux questeurs avant la passation.
-- **Sortie avec le noyau** : partir d'Ulghart avec ce que le plan prévoit ; protéger tes propres dossiers hors du circuit collectif comme garantie personnelle.
-- **Poste de chef de garde** : si Horgrim part dans les formes, te positionner pour que la passation te laisse en place ou que tu sortes avec un titre reconnu.
-- **Recouvrement final** : solder les dernières créances actives avant la passation pour que rien ne remonte vers toi par une procédure en cours.
+- **Dossiers nobles** : identifier les familles présentes à la Régate qui peuvent parler aux questeurs et les tenir sous pression jusqu'à la passation.
+- **Sortie avec le noyau** : partir d'Ulghart avec ce que le plan prévoit ; protéger les dossiers utiles à l'équipe jusqu'au départ.
+- **Appui à Horgrim** : tenir les escortes, les accès et les hommes disponibles pour que la passation ne laisse pas d'ouverture aux questeurs.
+- **Appui final** : soutenir les dernières opérations sous mandat avant la passation pour que rien ne remonte vers toi par une procédure en cours.
 
 
 
 ---
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
-
 # Connaissances
 
-## Recouvrement et dossiers nobles — UBI
+## Appui aux mandats et dossiers nobles — UBI
 
-Pendant cinq ans tu as récupéré ce que la banque était censée récupérer — et parfois ce qu'elle n'était pas censée demander. Chaque intervention t'a donné une prise sur une maison noble ou une famille marchande. Tu sais où sont les dossiers, ce qu'ils ont mis en gage, ce qu'ils ont fait pour éviter de payer. Un auditeur qui remonte tes interventions trouverait des mouvements sans trace officielle et des accords verbaux que personne ne pourra nier avoir honorés.
+Pendant cinq ans tu as accompagné les opérations que la banque voulait faire aboutir, y compris quand la méthode ne devait pas apparaître au registre. Chaque intervention t'a donné une prise sur une maison noble ou une famille marchande : dette cachée, gage honteux, accord verbal ou témoin intimidable.
+
+En jeu, utilise ces dossiers pour faire taire une famille, obtenir une escorte ou empêcher un témoin de parler aux questeurs. Ne montre pas tout le dossier d'un coup. Un nom, une date ou un gage suffit souvent.
 
 ## Dépôts — escorte et force visible — UBI
 
 Tu n'es pas sur le fil continu du comptoir. Tu interviens pour l'escorte visible lors des dépôts qui exigent une présence armée, et pour le maintien de l'ordre si la salle s'échauffe. Pour les dépôts importants, tu escortes le client ou le métal sur ordre d'Horgrim.
-
-## Kaelan Thormane — Sangs de la Steppe
-
-Le chef des Sangs a croisé tes réseaux de recouvrement plusieurs fois. Il sait ce que tu fais et dans quel cadre. Ni alliance officielle, ni conflit ouvert : une mémoire mutuelle de ce que chacun a vu sur le terrain, qui peut devenir une pression si l'un des deux décide d'en faire usage.
 
 ---
 

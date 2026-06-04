@@ -33,8 +33,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Sira Vestrann |
-| Joueur | Lucile |
-| E-mail joueur | Lucile.dury@orange.fr |
+| Joueur | Marion |
+| E-mail joueur | mariondury@orange.fr |
 | Rôle dans le groupe | Croupière — sœur de Lira |
 | Classe / profession | Voleuse |
 | Compétences | Pugilat - 9 |

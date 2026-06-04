@@ -103,7 +103,7 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 
 | Nom / organisation | Type de relation | Description de la relation |
 |--------------------|------------------|----------------------------|
-| UBI / conseil sortant | Partenaire toxique | Blanchiment, contrat de gestion ; **Edorian** et ligne banque — [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md), `Contrats_et_Livres/FC-III-544-001.md`, `RD-III-543-002.md`. |
+| UBI / conseil sortant | Partenaire toxique | Blanchiment, contrat de gestion ; **Edorian** et ligne banque — [`Intrigue_Banquiers.md`](Intrigue_Banquiers.md). |
 | Nouveau conseil UBI | Menace | Audit, intégrité, exposition des malversations. |
 | Sangs / Guilde | Pression / négociation | **Kaelan**, **Raven**, quai — mainmise ou trêve ; [`Intrigue_Mafia.md`](Intrigue_Mafia.md). |
 | Palyr | Fuite possible | Aide logistique, contre infos / régate ; **Saevar** accro au jeu ; **Lysa** (trésorière) porte la **traque BN** sur **Soren** — [`Intrigue_Palyr.md`](Intrigue_Palyr.md). |
@@ -150,8 +150,6 @@ Les **contacts Palyr** (refuge, logistique, contreparties) doivent être **offic
 
 ### Documents additionnels
 
-- `Contrats_et_Livres/RD-III-543-002.md` — dette de salle (Marda / Sangs)
-- `Contrats_et_Livres/FC-III-544-001.md` — bordereau interne UBI
 - `Groupes/Tripot/1 - Back de groupe/Back_groupe_Tripot.md`
 - `Groupes/Tripot/2 - Roles des Joueurs/`
 

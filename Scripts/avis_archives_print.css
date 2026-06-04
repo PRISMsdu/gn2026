@@ -1,0 +1,224 @@
+@import url("avis_print.css");
+
+body.avis-document {
+  position: relative;
+}
+
+/* En-tete archives : titre centre, blason UBI en repere discret a gauche. */
+.avis-entete {
+  position: relative;
+  text-align: center;
+  margin-bottom: 0.7rem;
+}
+
+.avis-entete-inner {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 0.35rem;
+  min-height: 18mm;
+}
+
+.avis-entete-inner img.avis-blason {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18mm;
+  height: 18mm;
+}
+
+body.avis-document .avis-entete .avis-entete-inner .avis-institution-nom {
+  font-family: 'Segoe Script', 'Bradley Hand ITC', 'Brush Script MT', cursive !important;
+  font-size: 1.95rem !important;
+  font-style: italic !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  line-height: 1.05 !important;
+  text-align: center !important;
+  color: #4f1300 !important;
+  text-shadow: 0.25px 0 #4f1300;
+}
+
+.avis-separateur {
+  display: none;
+}
+
+.avis-separateur::before {
+  content: none;
+}
+
+.avis-ornement {
+  display: none;
+}
+
+.avis-archive-corner {
+  position: absolute;
+  top: 5mm;
+  right: 4mm;
+  text-align: right;
+  z-index: 2;
+  font-family: 'IM Fell English', Georgia, serif;
+}
+
+.avis-archive-ref {
+  font-size: 8pt;
+  letter-spacing: 0.04em;
+  color: #4a1000;
+}
+
+.avis-archive-stamp {
+  display: inline-block;
+  margin-top: 1.5mm;
+  padding: 0.7mm 1.5mm;
+  border: 1px solid rgba(120, 0, 0, 0.72);
+  color: rgba(120, 0, 0, 0.82);
+  font-size: 7.5pt;
+  font-style: italic;
+  transform: rotate(-4deg);
+}
+
+#contenu-avis .archive-notice {
+  max-width: 70%;
+  margin: 0 0 0.35rem auto;
+  text-align: right;
+  font-family: 'Segoe Script', 'Bradley Hand ITC', cursive;
+  font-size: 6.2pt;
+  font-style: italic;
+  line-height: 1.05;
+  color: #3a1808;
+}
+
+#contenu-avis .archive-notice + p {
+  margin-top: 3.4em;
+}
+
+#contenu-avis .archive-notice + p + p.archive-contract-body {
+  margin-top: 2.6em;
+}
+
+#contenu-avis p.archive-contract-body::first-letter {
+  float: left;
+  font-family: 'Cinzel Decorative', 'IM Fell English', Georgia, serif;
+  font-size: 2.15em;
+  line-height: 0.78;
+  padding: 0.03em 0.12em 0 0;
+  color: #7d0f00;
+  text-shadow:
+    0.8px 0.8px 0 rgba(160, 104, 32, 0.45),
+    -0.35px 0 rgba(120, 54, 12, 0.35);
+}
+
+#contenu-avis p.archive-contract-body::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+#contenu-avis p.archive-contract-body + p:not(.archive-contract-body) {
+  margin-top: 4.2em;
+}
+
+#contenu-avis .archive-party-signatures {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20mm;
+  margin: 4.2em 0 0.9em;
+}
+
+#contenu-avis .archive-party-signature {
+  flex: 0 0 42%;
+}
+
+#contenu-avis .archive-party-signature > p {
+  margin: 0 0 0.12rem;
+}
+
+#contenu-avis .archive-closing-mention {
+  position: fixed;
+  left: 20mm;
+  right: 20mm;
+  bottom: 14mm;
+  margin: 0;
+  font-family: 'Segoe Script', 'Bradley Hand ITC', cursive;
+  font-size: 7.2pt;
+  font-style: italic;
+  line-height: 1.15;
+  text-align: left;
+  color: #3a1808;
+}
+
+/* Variante archives UBI : signatures reduites de 50% pour tenir les contrats sur une page. */
+#contenu-avis .doc-export-signature {
+  display: inline-block;
+  margin: 0.25rem 0 0.05rem;
+  line-height: 1;
+  text-align: left;
+  white-space: nowrap;
+}
+
+#contenu-avis .doc-export-signature p {
+  display: inline-block;
+  margin: 0;
+  vertical-align: middle;
+}
+
+#contenu-avis .doc-export-signature img.doc-export-signature-ink {
+  height: 9.8mm;
+  max-height: none;
+  width: auto;
+  max-width: none;
+  vertical-align: middle;
+}
+
+#contenu-avis .doc-export-signature img.doc-export-signature-seal {
+  display: inline-block;
+  width: 20.25mm;
+  height: 20.25mm;
+  margin-left: -1.2mm;
+  object-fit: contain;
+  position: relative;
+  vertical-align: middle;
+}
+
+#contenu-avis .archive-party-signature .doc-export-signature {
+  display: block;
+  margin: 0.15rem 0 0;
+  white-space: normal;
+}
+
+#contenu-avis .archive-party-signature .doc-export-signature p {
+  display: block;
+  margin: 0;
+}
+
+#contenu-avis .archive-party-signature .doc-export-signature img.doc-export-signature-ink {
+  display: block;
+}
+
+#contenu-avis .archive-party-signature .doc-export-signature img.doc-export-signature-seal {
+  display: block;
+  margin-top: -1.6mm;
+  margin-left: 9mm;
+}
+
+#contenu-avis .doc-export-signature img.seal-variant-0 {
+  transform: translate(-1.2mm, -1.5mm) rotate(-8deg);
+}
+
+#contenu-avis .doc-export-signature img.seal-variant-1 {
+  transform: translate(-2.1mm, 1.2mm) rotate(5deg);
+}
+
+#contenu-avis .doc-export-signature img.seal-variant-2 {
+  transform: translate(-0.8mm, -0.4mm) rotate(-4deg);
+}
+
+#contenu-avis .doc-export-signature img.seal-variant-3 {
+  transform: translate(-1.7mm, 1.7mm) rotate(8deg);
+}
+
+#contenu-avis .doc-export-signature img.seal-variant-4 {
+  transform: translate(-1.1mm, -1.1mm) rotate(3deg);
+}

@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Varro Selt |
+| Joueur | Christophe Tiliacos |
+| E-mail joueur | c.tiliacos@free.fr |
 | Rôle dans le groupe | Infiltrateur / exécutant |
 | Classe / profession | Assassin |
 | Compétences | Egorgement ; Torture |
@@ -47,7 +49,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Dernier mot sur ce qui doit cesser de respirer ; brigades sans nom sur feuille. |
-| Doublons (or) | 100 |
+| Argent | 100 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -75,61 +77,92 @@ Le MiVI t'a recruté pour les opérations où la rédaction d'un acte ne suffit 
 
 Tu rends compte à Théven et à lui seul. C'est lui qui décide ce qui peut se faire en couloir ouvert, ce qui doit se faire en cellule fermée, et ce qui doit rester invisible jusqu'au départ du détachement. Tu ne discutes pas l'ordre devant les autres membres et tu n'agis pas seul tant que la couverture Questeur est en place : une intervention non couverte par le mandat affiché ferait sauter l'imposture pour tout le groupe.
 
-## Chapitre III : L'ascension (forge)
+## La forge Corvel
 
-Simulation ratée : trop de parole. Deuxième passe : sirène trop tôt, faux Il-Rion, papier menteur. Tu as mis ton épaule dans le bois jusqu'à ce que les gonds crient assez fort pour retenir les gardes simulés quelques secondes de plus. Quand la sirène s'est tue, tu étais encore debout. Tu t'en souviens quand une porte réelle grince à Ulghart.
+Le détachement Corvel s'est formé dans une salle sans fenêtre, avec de faux registres, de fausses gardes et une sirène lancée trop tôt. Le premier exercice a échoué parce que tout le monde a parlé en même temps. Le MiVI voulait voir qui se taisait, qui observait et qui agissait quand le plan se cassait.
 
-## Chapitre IV : Les défis actuels (Ulghart)
+Au second exercice, tu as bloqué une porte avec ton épaule pendant que Ysel lisait un faux registre. Les gonds ont crié assez fort pour attirer les gardes simulés vers toi. Lucan a retenu un gardien par la conversation, Miraen a détourné l'attention et Théven a choisi le dossier à sauver.
 
-Citadelle d'Ulghart. Depuis deux jours, couverture Questeur après l'embuscade de la vraie escorte : en faction, garde du corps de Montfou — insignes visibles, blessures encore possibles de la bataille. Un mercenaire de l'escorte adverse a réchappé : Théven veut le retrouver avant qu'il ne dénonce l'opération.
+Quand la sirène s'est tue, tu étais encore debout. Tu as compris ce jour-là ta place dans le groupe. Tu n'es pas là pour décider quel papier compte. Tu es là pour donner à Théven, Ysel ou Lucan le temps nécessaire pour obtenir ce papier sans exposer le MiVI.
 
-Mandat affiché (couverture) : six gardiens morts, surnormal, accès banque et fort. Mission MiVI : fer, Tripot, UBI, routes — sans jamais citer le MiVI en public.
+La première mission réelle à Staal a confirmé cette répartition. Une correspondance devait partir dans une malle diplomatique. Le trajet a changé au dernier moment, Lucan a improvisé une dette d'honneur et vous êtes ressortis avec la copie. Depuis Staal, tu sais que le plan commence souvent proprement et finit dans un couloir étroit.
 
-Ton rôle : protéger Montfou et l'escorte, extraire papier ou homme quand Ysel l'ordonne, neutraliser le mercenaire ou toute fuite, poigne sur les Sangs sans spectacle. Un massacre public ferait refermer la Confédération : tu refuses cette carte.
+## Ulghart et la fausse escorte Questeur
 
-Quand Ysel dit « sortir », tu sors. Quand Théven dit « visible », assez pour faire peur à la bonne table, pas assez pour faire pleurer l'île. Quand Lucan retient un témoin à l'audition, tu sécurises la porte ; tu n'improvises pas seul.
+À Ulghart, le détachement porte depuis deux jours une fausse identité Questeur. Théven Corvel incarne messire Ydrael Montfou. Toi, tu es son garde du corps affiché, avec insignes visibles et blessures possibles de l'embuscade contre la vraie escorte.
 
-Le dossier fer 544–545, pour toi, ce sont quais, marques d'encre sur linge, convois et mains qui déplacent des lots — pas une légende de rapport. Tu interviens quand le contrat ou la remise bascule en violence ; tu refuses le massacre visible qui ferait rallier les cinq cités contre la Styrgie.
+La couverture repose sur le mandat des Oblats : six gardiens de la banque sont morts, le surnaturel peut être invoqué, et un Questeur peut exiger des auditions. Tant que cette imposture tient, vous avez accès au fort, à la banque et aux couloirs où les délégations parlent trop vite. Si elle tombe, chaque personne qui vous a vus sous insigne peut devenir témoin.
 
-Les contacts opérationnels (Sangs, Guilde, conciliation hors greffe, fausse piste Palyr) sont détaillés en fin de fiche, section Connaissances.
+Un mercenaire de l'escorte interceptée a survécu. Il est blessé et peut chercher refuge au fort. Théven veut le retrouver avant qu'il ne décrive l'embuscade, les visages du détachement ou les insignes récupérés.
 
-## Chapitre V : Discipline et silence
+Ta priorité immédiate est simple : protéger Montfou, surveiller les portes et repérer l'homme qui revient de l'embuscade. S'il parle à la Garde du fort, la mission entière peut tomber. S'il est isolé, Théven décide s'il faut l'interroger, le déplacer ou le tuer.
 
-Lucan tient les auditions ; Ysel ordonne ce qui sort d'un tiroir ; Miraen signale les angles au Tripot ; Théven tranche avant que tu n'agisses seul. Tu n'écris pas les rapports : un nom de trop sur une feuille confédérale lance une chasse longue. Une phrase au bar peut coûter plus qu'un coup raté — tu restes hors des discours publics du détachement.
+## Fer, Tripot et banque
 
+Le mandat réel du MiVI porte d'abord sur le fer 544-545. Le bon minerai devait disparaître du circuit officiel entre Sfaal, Palyr et la mer. Les papiers promettaient une substitution contrôlée. Les suivis disent autre chose. Pour toi, ce dossier se vérifie sur les quais, dans les marques posées sur les lots, auprès des convoyeurs et auprès des hommes qui déplacent une caisse sans l'inscrire au registre.
 
-# Tes missions et objectifs
+Théven veut des noms sur la chaîne du fer. Ysel cherche les pièces dans les coffres et les archives. Lucan obtient les versions parlées. Ton rôle commence quand un témoin refuse de suivre, quand un quai se ferme ou quand une remise bascule en violence.
 
-- **Préparer et exécuter** les entrées physiques (portes, rencontres qui basculent, extractions) quand le plan le exige.
-- **Protéger Montfou et le détachement** (couverture Questeur) ; retrouver le mercenaire survivant avant qu'il ne parle.
-- **Protéger le détachement** si le mandat Questeur saute — violence maîtrisée, priorité aux preuves.
-- **Ne pas** déclencher l'incident qui ferait d'Ulghart un siège général : rester sous le seuil du massacre spectaculaire.
+Le Tripot est le deuxième chantier. Les Sangs veulent contrôler le casino, mais Marda Velyss résiste mieux que prévu. Miraen entre dans les salles et relève les flux, les dettes et les noms. Tu dois rester disponible si une porte se ferme, si un homme des Sangs veut forcer la main, ou si Ardan Trevil transforme une audition en rixe.
+
+La banque et les routes forment le troisième chantier. Elfrion cherche des nominations favorables à Arthas et Ther-Félis au conseil UBI, ainsi que des choix d'escales qui affaiblissent Il-Irion. Tu n'es pas celui qui négocie ces résultats. Tu protèges ceux qui négocient et tu empêches un témoin, un garde ou un homme des Sangs de compromettre l'opération.
+
+## Violence utile et violence dangereuse
+
+Ta violence doit rester utile au mandat. Un coup porté dans une cellule peut sauver une couverture. Un cadavre visible dans un couloir peut rallier les cinq cités contre la Styrgie. À Ulghart, la différence entre les deux se mesure au lieu, au témoin et à l'ordre donné par Théven.
+
+Quand Ysel demande de sortir une pièce ou un homme, tu vérifies d'abord le chemin. Quand Lucan retient un témoin en audition, tu surveilles la porte et les mains. Quand Miraen signale un angle au Tripot, tu demandes si Théven a validé l'approche avant d'entrer dans la salle.
+
+Tu n'écris pas les rapports. Un nom de trop sur une feuille confédérale peut lancer une chasse longue. Tu laisses Ysel et Lucan tenir les procès-verbaux, puis tu fais ce qui ne doit pas apparaître dans ces procès-verbaux.
+
+Si la couverture Questeur saute, la priorité reste les preuves et la sortie du détachement. Tu ne transformes pas Ulghart en siège. Tu ouvres un passage, tu neutralises celui qui bloque, et tu reviens vers Théven avant de décider qui doit disparaître.
+
+# Tes missions et actions
+
+## Ton rôle au quotidien
+
+Tu protèges Théven sous l'identité de Montfou. Tu contrôles les portes pendant les auditions. Tu prépares les sorties discrètes quand Ysel ou Lucan ont besoin d'un témoin, d'une pièce ou d'un accès hors procédure.
+
+## Objectifs prioritaires
+
+- Retrouver le mercenaire survivant de l'embuscade avant qu'il ne dénonce le détachement.
+- Protéger Théven, Ysel, Lucan et Miraen tant que la couverture Questeur tient.
+- Préparer les entrées physiques : porte fermée, quai surveillé, rencontre qui bascule, extraction d'un témoin.
+- Soutenir le dossier fer 544-545 quand il devient physique : convoi, lot, quai, remise ou témoin.
+- Rester sous le seuil du massacre public qui souderait la Confédération contre la Styrgie.
+
 
 # Connaissances
 
 ## Gareth Ironfist — Les Sangs
 
-Gareth prête muscle et extraction sur ordre des Sangs. La grille GC-III-547-007 fixe créneaux et signaux de contact : ne croise pas un créneau réservé à d'autres initiales (G.I. = lui ; autre consigne pisteur le même jour = autre fil). Coordonne avec Théven avant une entrée physique au Tripot ou au quai.
+Gareth sert de muscle et d'extracteur pour les Sangs. Il peut être utile si une opération passe par les quais, le Tripot ou une sortie discrète. Il peut aussi attirer l'attention de la Garde si son intervention ressemble trop à une descente de mafia.
 
-## Korran Vesper — Pirates d'Albar (PNJ)
+Les initiales G.I. renvoient à lui dans certaines consignes opérationnelles. Ne prends pas un créneau réservé à Gareth sans vérifier avec Théven. Si un autre contact a reçu une consigne de pisteur le même jour, ce n'est pas forcément le même dossier.
 
-Korran intervient sur les remises en mer. RA-III-546-004 est un rapport utile pour l'angle opérationnel Arguethain ; le gage BM-III-546-005 est plutôt tenu par Théven. Tu sécurises le quai ou l'approche, pas les négociations au nom du Questeur.
+## Noms connus — Sangs et réseaux d'Ulghart
 
-## Duc Thoren Forgefer — Sfaal (lots fer)
+Tu connais les six cadres des Sangs de la Steppe suivis par le détachement. Kaelan Thormane commande la famille. Vorak Ironhand sert de second. Gareth Ironfist tient le muscle et les extractions. Drask Bloodmoon interroge et travaille les produits. Shadow infiltre, vole des pièces et monte les extorsions. Raven tient les réseaux, les informateurs et les négociations externes.
 
-Thoren sécurise les convois du contrat fer CO-II-547-001 (ligne Sfaal–Palyr). Si le détournement éclate en violence sur la route ou au débarquement, tu peux être appelé pour ouvrir une issue ou fermer une bouche — sans spectacle devant la garnison.
+Gareth est ton contact le plus direct si une action devient physique. Raven est le nom à surveiller quand un quai, une route ou un informateur change de main. Shadow est celui qui peut avoir déjà vu une porte, une signature ou un visage avant que le détachement n'arrive.
 
-## Conciliation hors greffe — empreinte D.B.
+Tu connais aussi quelques noms utiles dans les autres groupes. Ce ne sont pas tous des alliés. Ce sont des personnes capables d'entendre, de suivre ou de faire circuler une information.
 
-L'avis AC-II-543-003 sort du greffe officiel : conciliation, chimie, créneau pour une sortie sans garde en salle. Tu l'utilises comme horaire, pas comme discours : entrer, sortir le paquet ou l'homme, disparaître.
+| Groupe | Nom connu | Ce que tu sais utiliser |
+|--------|-----------|-------------------------|
+| Tripot | Samvel Rauk, dit Varek | Pisteur du Tripot. Il connaît les quais, les sorties et des informateurs hors du fort. |
+| UBI | Sybrel Dornik | Surveillance intérieure de la banque. Elle connaît les tunnels, les coursives et les accès qui ne passent pas par les portes officielles. |
+| Palyr | Saevar Dren | Chef de sécurité et officier de renseignement. Il a des relais portuaires et des contacts gris à Ulghart. |
+| Il-Irion | Marek Thorne | Bras long hors île. Il traite commerce officieux, factions extérieures et contacts marchands. |
 
-## Marque de quai — Guilde des Ports Unis
+Si Théven demande un nom pour une filature, une sortie ou une pression discrète, commence par cette liste. Ne révèle pas que tu connais ces profils par le MiVI. Sous couverture Montfou, tu demandes un entretien, une vérification ou une escorte. Tu ne parles pas de réseau d'informateurs en public.
 
-MQ-II-547-004 est une marque d'encre sur linge : signal de remise logistique. Lis-le comme un rendez-vous physique au quai, pas comme une preuve à brandir en audition.
+## Duc Thoren Forgefer — Sfaal
 
-## Reçu falsifié — fausse piste Palyr
+Thoren Forgefer sécurise des convois liés au contrat fer CO-II-547-001, sur la ligne Sfaal-Palyr. Ce dossier touche directement au bon minerai disparu et aux lots que les registres ne décrivent plus correctement.
 
-FA-III-546-003 est un reçu falsifié, distinct du message tunnels MC-III-547-003 (Sybrel). Ne mélange pas les deux fils le même jour : une fausse piste mal posée ferme des portes que Ysel compte encore ouvrir.
+Si le détournement éclate au débarquement, sur la route ou pendant une remise, tu peux être appelé pour ouvrir une issue ou neutraliser un témoin. Ne fais pas de démonstration devant la garnison. Le but est d'obtenir un nom, un trajet ou un lot, pas de laisser un cadavre public relier l'opération au détachement.
+
 
 ---
 

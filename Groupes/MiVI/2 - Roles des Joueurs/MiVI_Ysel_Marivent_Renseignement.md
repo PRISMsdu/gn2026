@@ -1,4 +1,4 @@
-# Ysel Marivent — Officier de renseignement (cible UBI)
+# Ysel Marivent — Officière de renseignement (cible UBI)
 
 <!--
   MiVI — Styrgie, détachement Corvel. Texte joueur : tutoiement, in-univers.
@@ -37,108 +37,144 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ysel Marivent |
-| Rôle dans le groupe | Officier de renseignement |
+| Joueur | Sacha Duprey |
+| E-mail joueur | dupreymarc@gmail.com |
+| Rôle dans le groupe | Officière de renseignement |
 | Classe / profession | Diplomate |
 | Compétences | Erudit ; Torture |
 | Groupe | MiVI — détachement Corvel (service du Primat) |
-| Couverture à Ulghart (depuis 2 jours) | Greffier d'instruction du Questeur Montfou (rôle sur le mandat) |
+| Couverture à Ulghart (depuis 2 jours) | Greffière d'instruction du Questeur Montfou (rôle sur le mandat) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | « Archives mentales » — déteste qu'on y touche ; concurrence avec d'autres services sur les mêmes pièces. |
-| Doublons (or) | 100 |
+| Remarques | « Archives mentales » : déteste qu'on y touche. D'autres services cherchent les mêmes pièces. |
+| Argent | 200 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Méticuleux, tenace, peu bavard quand il s'agit de sources. |
-| Valeurs | La trace exacte ; la preuve qui tient quand le récit ment. |
-| Peur | De confondre une copie propre avec la vérité — et d'abandonner un informateur trop tôt par excès de zèle. |
-| Rêve | Refermer un dossier en laissant la banque plus lisible pour toi que pour tes rivaux. |
+| Traits de caractère | Méticuleuse, tenace, peu bavarde quand il s'agit de sources. |
+| Valeurs | Une trace exacte vaut mieux qu'un récit bien raconté. |
+| Peur | Prendre une copie falsifiée pour une preuve et condamner le mauvais informateur. |
+| Rêve | Quitter Ulghart avec des dossiers que le MiVI comprend mieux que l'UBI. |
 
 ---
 
-# L'histoire de Ysel Marivent
+# Biographie
 
-## Chapitre I : Les origines (quais)
+## Les quais d'Il-Irion
 
 Ta famille travaillait sur les quais d'Il-Irion : arrimeurs côté débarquement, copistes au greffe du port. Pas d'académie de droit, pas de titre noble. Tu as appris très tôt qu'un connaissement mal signé peut suffire à perdre une cargaison entière, et qu'une page absente d'un registre pèse autant qu'une preuve fabriquée. Vers seize ans, tu as commencé à copier toi-même des bordereaux pour le greffe portuaire ; tu prenais déjà soin d'identifier ce que d'autres avaient effacé ou réécrit.
 
-Tu as choisi d'être celui qui repère le manque dans un dossier avant l'auditeur confédéral, avant le rival de service, avant le faussaire qui prépare la page suivante. C'est ce talent qui t'a fait remarquer du recruteur styrgien.
+Il-Irion est ta cité natale, mais elle ne t'a jamais traitée comme une des siens. Les familles de banque protégeaient leurs héritiers, pendant que les gens du quai portaient les pertes, les retards et les accusations quand un registre changeait de main. Tu ne trahis pas une maison qui t'a élevée ; tu rends des comptes à ceux qui t'ont donné un poste, des moyens et une utilité.
+
+Tu as choisi d'être celle qui repère le manque dans un dossier avant l'auditeur confédéral, avant le rival de service, avant le faussaire qui prépare la page suivante. C'est ce talent qui t'a fait remarquer d'un recruteur styrgien.
 
 ## Chapitre II : L'apprentissage (UBI et MiVI)
 
-Le MiVI t'a recruté pour les doubles livres de l'UBI. Tu as passé trois années à l'intérieur de l'Union bancaire d'Il-Irion sans jamais t'exposer assez pour te brûler : circulation dans les couloirs, repérage des heures où les coffres sont moins surveillés, mémorisation des initiales qui reviennent sur les bordereaux. Tu as construit en mémoire la carte de la banque — salles, signatures de visa, angles morts entre deux rondes. Tu appelles cela tes archives mentales. C'est un outil de travail ; tu supportes mal qu'un collègue les manipule sans méthode.
+Le MiVI t'a recrutée pour les doubles livres et les bordereaux bancaires d'Il-Irion. Avant cela, tu as passé trois années dans la succursale bancaire d'Il-Irion, pas au fort et pas dans le cœur politique de l'UBI. Tu y copiais des actes de dépôt, des avis de transfert et des visas de coffre pour des clients de passage. Tu as mémorisé les initiales qui reviennent sur les bordereaux, les horaires où les caisses changent de main et les formules qui masquent un transfert sensible. Tu appelles cela tes archives mentales. C'est un outil de travail ; tu supportes mal qu'un collègue les manipule sans méthode.
 
 Le Primat ne t'a pas promis de médailles. Il t'a annoncé tes concurrents : services confédéraux, banquiers nerveux, espions de salon — tous cherchent les mêmes pièces que toi. La Styrgie ne veut pas seulement de l'or dans ses caisses. Elle veut que la Confédération ne se referme pas en bloc avant qu'Elfrion ait posé ses leviers : conseil UBI, flux, preuves contre Arthas et Ther-Félis. Toute la difficulté est de placer ces pièces sans déclencher l'embargo qui rallierait les cinq cités contre la République.
 
 Tu connais le coût des outils que sont les Sangs de la Steppe et la Guilde des Ports Unis. Tu ne les confonds pas avec un partenariat. Tant que les dossiers avancent et que les leviers se posent, leur usage est justifié pour le service ; si les pièces ne sortent pas, le coût a été payé pour rien.
 
-Au sortir de ces trois années à l'intérieur de l'UBI, tu avais vingt-cinq ans environ. Pendant les dix-huit années qui ont suivi, tu as enchaîné pour le MiVI des missions d'archives, de coffres et de correspondances — Il-Irion, Palyr, Sfaal, Elfrion, à chaque fois sous couverture brève — sans jamais te brûler dans une cité. Tu as aujourd'hui quarante-trois ans.
+Au sortir de ces trois années dans la succursale d'Il-Irion, tu avais vingt-cinq ans environ. Pendant les dix-huit années qui ont suivi, tu as enchaîné pour le MiVI des missions d'archives, de coffres et de correspondances — Il-Irion, Palyr, Sfaal, Elfrion, à chaque fois sous couverture brève — sans jamais te brûler dans une cité. Tu as aujourd'hui quarante-trois ans.
 
-## Chapitre III : L'ascension (forge et Staal)
+## Le MiVI et la Styrgie
 
-Salle sans fenêtre, papier brûlé, même phrase pour tout le monde : utile à une ligne qu'on ne signe pas. Première simulation : échec — trop de bruit. Deuxième : faux registre, sirène trop tôt. Tu as lu plus vite que l'instructeur ne voulait le croire. Pas de fierté bête : si tu t'écoutes trop, tu rates la ligne suivante.
+Le Primat ne t'a pas promis de médaille. Il t'a surtout nommée tes concurrents : services confédéraux, banquiers nerveux, espions de salon. Tous cherchent les mêmes pièces que toi pendant la Convention.
 
-Staal : correspondance qui filait vers une malle diplomatique. Le plan s'est déchiré ; Lucan a acheté du temps avec une dette d'honneur fabriquée ; vous êtes ressortis avec la copie. Tu te souviens du froid dans le dos quand la porte a grincé. Ce froid t'aide à ne pas confondre vitesse et précision.
+La Styrgie veut éviter que la Confédération se referme en bloc contre elle. Elfrion cherche des moyens d'agir sur le conseil UBI, les flux bancaires et les preuves liées à Arthas et Ther-Félis. Ton travail consiste à trouver les documents utiles sans provoquer l'embargo qui rallierait les cinq cités contre la République.
 
-## Chapitre IV : Les défis actuels (Ulghart, UBI)
+Tu connais aussi le prix des outils employés par Elfrion. Les Sangs de la Steppe et la Guilde des Ports Unis ne sont pas des alliés fiables. Le MiVI les utilise tant que les dossiers avancent. Si aucune pièce ne sort, le coût politique et humain aura été payé pour rien.
 
-Citadelle d'Ulghart, Convention. Depuis deux jours, couverture Questeur après l'embuscade : sur le mandat, greffier d'instruction de messire Ydrael Montfou (Théven Corvel incarne le Questeur). Mission MiVI : coffres, archives du conseil, pièces codées. Lettre Oblats, acte Horgrim Dval. Insignes visibles, accès banque tant que l'imposture tient. Mercenaire survivant à retrouver : priorité de Théven.
+Pendant dix-huit ans, tu as servi le MiVI sur des dossiers d'archives, de coffres et de correspondances. Tu as travaillé à Il-Irion, Palyr, Sfaal et Elfrion sous des couvertures brèves. Tu as aujourd'hui quarante-trois ans et tu n'as jamais laissé une cité t'identifier durablement.
 
-Ton terrain : coffres, archives du conseil, correspondances, pièces codées. Tu cites le mandat pour ouvrir un tiroir ; tu ne cites jamais le MiVI ni le Primat en public.
+## La forge Corvel et Staal
 
-Premier lot : traquer ce qui pourrait documenter une guerre imminente contre la Styrgie — avant qu'un concurrent confédéral ne l'emploie pour verrouiller opinion et budgets, ou avant que la transition de mandat ne referme les tiroirs que tu peux encore ouvrir. Localiser, substituer, effacer : Théven tranche le cadre ; toi tu exécutes le réel côté papier et sceau.
+Le détachement Corvel s'est formé dans une salle sans fenêtre, avec de faux registres et de fausses gardes. Le premier exercice a échoué parce que l'équipe a parlé trop vite et trop fort. Le second exercice a mieux tenu. Tu as lu le faux registre avant que l'instructeur n'attende ta réponse.
 
-Deuxième lot : cartographier la chaîne or vers Argheteim — qui croit, qui paie, où ça bloque — pour recommander sabotage, fuite contrôlée ou exploitation — selon ce qu'Elfrion peut absorber sans bruit excessif.
+Cette formation t'a appris à travailler avec les quatre autres. Théven fixe les priorités. Lucan retient les témoins par les mots et les procès-verbaux. Miraen observe les flux du Tripot. Varro ferme une porte ou une bouche quand Théven l'autorise.
 
-Troisième lot : soutenir sur documents la pente voulue vers Arthas et Ther-Félis — qui entre au conseil, quels flux, quels doubles. Miraen remonte parfois des noms entendus au Tripot ; tu ne confonds jamais rumeur de salle et preuve qui tient devant un juge ou un comité.
+À Staal, votre première mission réelle a porté sur une correspondance prête à partir dans une malle diplomatique. Le plan s'est déchiré, puis Lucan a gagné du temps avec une dette d'honneur fabriquée. Vous êtes ressortis avec la copie.
 
-Varek, Sybrel, Vaelric, Melian, Ydria et le rapport Arguethain sont détaillés en fin de fiche, section Connaissances. Chaque copie volée laisse une empreinte : Théven tranche quand ne pas prendre.
+Depuis Staal, tu te méfies des plans qui reposent sur une seule porte ou une seule signature. Une copie récupérée trop vite peut être fausse. Une preuve perdue au mauvais moment peut détruire tout un dossier.
 
-## Chapitre V : Rapports et limites
+## Ulghart et les coffres de l'UBI
 
-Théven fixe le cadre : quelles pièces lire, substituer ou faire disparaître ; quand abandonner un informateur. Lucan mène les auditions ; tu vérifies ce que les témoins prétendent contre les registres. Miraen remonte les flux du Tripot ; tu recoupes avant de classer une rumeur de salle en preuve. Varro intervient quand le papier ne suffit plus — après accord de Théven.
+La Convention se tient à la citadelle d'Ulghart, sur l'île d'Il-Irion. Depuis deux jours, le détachement porte une fausse identité Questeur après l'embuscade de la vraie escorte. Théven Corvel incarne messire Ydrael Montfou. Sur le mandat, tu es sa greffière d'instruction.
 
-Tu ne confonds pas copie propre et vérité. Les angles personnels du casino (dettes de Miraen, faiblesses de clients) ne partent pas dans un bulletin Elfrion sans cadre explicite.
+La couverture repose sur une lettre des Oblats et sur l'acte d'Horgrim Dval. Les insignes Questeur vous donnent accès aux couloirs, aux auditions et à la banque tant que l'imposture tient. Un mercenaire de l'escorte interceptée a survécu. Théven veut le retrouver avant qu'il ne parle.
 
+Ton terrain à Ulghart se trouve dans les coffres, les archives du conseil, les correspondances et les pièces codées. Tu cites le mandat Montfou pour ouvrir un tiroir. En public, tu ne cites jamais le MiVI, le Primat ni Elfrion.
 
+Le premier dossier concerne les preuves d'une guerre imminente contre la Styrgie. Un concurrent confédéral pourrait les utiliser pour verrouiller l'opinion et les budgets. Tu dois localiser ces pièces, les copier, les substituer ou les faire disparaître selon l'ordre de Théven.
 
-# Tes missions et objectifs
+Le deuxième dossier concerne la chaîne or vers Argheteim. Tu dois établir qui croit au projet, qui paie et où le circuit bloque. Ton rapport doit permettre à Elfrion de choisir entre sabotage, fuite contrôlée ou exploitation du dossier.
 
-- **Tenir la couverture de greffier** (depuis 2 jours) en banque et en archives ; en parallèle, coffres, correspondances et pièces codées pour le MiVI.
-- **Localiser ou neutraliser** les preuves « guerre imminente » supposées à l'UBI (coffres, archives conseil, correspondances) — avant ou pendant la transition de mandat.
-- **Cartographier** la chaîne or → Argheteim et recommander : sabotage, fuite contrôlée, exploitation.
-- **Soutenir le rapprochement** Arthas / Ther-Félis sur le plan documentaire : qui nominate, quels flux, quels doubles.
+Le troisième dossier concerne le rapprochement voulu vers Arthas et Ther-Félis. Tu cherches les noms, les flux et les doubles registres qui peuvent soutenir ce choix au conseil UBI. Les noms remontés par Miraen au Tripot ne valent pas preuve tant que tu ne les as pas recoupés avec un document.
+
+## Rapports et limites
+
+Théven fixe les limites de chaque opération. Il décide quelles pièces lire, quelles pièces remplacer et quand abandonner un informateur. Tu exécutes ce cadre côté papier, sceau et coffre.
+
+Lucan mène les auditions et rédige les procès-verbaux. Tu compares ce que les témoins disent avec les registres. Si une déclaration contredit un bordereau ou un visa, tu préviens Lucan avant qu'il pousse l'audition plus loin.
+
+Miraen remonte les flux du Tripot et les noms entendus autour des tables. Tu ne classes pas une rumeur de salle comme preuve avant de l'avoir recoupée. Les dettes de Miraen et les faiblesses de clients ne partent pas dans un rapport Elfrion sans cadre fixé par Théven.
+
+Varro intervient quand le papier ne suffit plus. Il ne doit pas agir seul si la couverture Questeur peut sauter. Avant de prendre une copie ou d'ouvrir un coffre risqué, tu dois savoir si Théven accepte la trace que cette action laissera derrière vous.
+
+# Tes missions et actions
+
+## Ton rôle au quotidien
+
+Sous couverture, tu es la greffière d'instruction du Questeur Montfou. Tu accompagnes les auditions, tu demandes les registres et tu notes les contradictions entre les témoignages et les pièces. En mission MiVI, tu cherches les documents qui permettent à Théven de trancher.
+
+## Objectifs prioritaires
+
+- Tenir la couverture de greffière Questeur en banque et en archives, sans citer le MiVI ni le Primat.
+- Localiser, copier, substituer ou faire disparaître les preuves liées à une guerre imminente contre la Styrgie, selon l'ordre de Théven.
+- Cartographier la chaîne or vers Argheteim : qui croit au projet, qui paie, où le circuit bloque.
+- Soutenir le rapprochement Arthas / Ther-Félis par des documents : nominations, flux bancaires, doubles registres.
+
 
 # Connaissances
 
-## Sybrel Dornik — UBI (Ombre)
+## Sybrel Dornik — UBI, Ombre
 
-Sybrel est lié aux tunnels d'Ombre sous la banque. La copie saisie MC-III-547-003 est un message codé : recoupe-le avec d'autres pièces, pas avec des légendes de couloir. Si tu ouvres une fausse piste, Lucan ou Théven doivent savoir avant une audition publique.
+Sybrel est liée aux tunnels d'Ombre sous la banque. Si tu ouvres une piste sur les circulations internes de l'UBI, tu dois la recouper avec des pièces réelles. Une légende de couloir ne suffit pas pour accuser quelqu'un.
 
-## Maître Vaelric Dorn — UBI (Discréteur)
 
-Vaelric tient les récits officiels et les partenaires sensibles. La dénonciation anonyme PA-II-545-003 le vise : tu peux la montrer en audition pour le faire coopérer, ou la garder en réserve — mais une fuite prématurée te coupe l'accès aux tiroirs qu'il contrôle.
+## Maître Vaelric Dorn — UBI, Discréteur
 
-## Melian Torv — UBI (conseiller spirituel)
+Vaelric tient les récits officiels et les partenaires sensibles de l'UBI. Il peut enterrer une rumeur, retarder une consultation ou orienter un visiteur vers une pièce moins utile.
 
-Melian signe des actes sur des dépôts sensibles. Le fragment FL-III-545-002 (Melian vers Palyr, fin 545) est en coffre : accorde-toi avec Lucan avant une scène registre ou salon où il est présent. Ne cite pas le code en salle ; cite le contenu seulement si Théven valide l'exposition.
+Tu peux le pousser en audition sur ce qu'il cache, mais pas avec un placard anonyme. Une fuite prématurée te couperait l'accès aux tiroirs qu'il contrôle. Il faut obtenir un refus net, une contradiction ou un document.
 
-## Dame Ydria Ventoss — UBI (Trésorière)
+## Melian Torv — UBI, conseiller spirituel
 
-Ydria coordonne réserves et inventaires. L'écart BC-III-544-003 porte sa signature : compare chiffres, dates et chaîne de visa avant de conclure. Une accusation mal calibrée te ferme les coffres pour tout le mandat.
+Melian signe des actes sur des dépôts sensibles. Le fragment FL-III-545-002, daté de fin 545, lie Melian à Palyr. Cette pièce se trouve en coffre.
 
-## Rapport d'agent anonyme — Arguethain et fer
 
-RA-III-546-004 décrit commerce gris et rumeurs de conversion or → Arguethain pour compenser le fer médiocre côté confédéral. Tu cartographies qui croit quoi et qui paie quand la situation bouge ; tu ne traites pas la rumeur comme un fait établi tant que les registres ne recoupent pas.
+## Dame Ydria Ventoss — UBI, Trésorière
 
-## Varek — Tripot (pisteur, dossier Orlen)
+Ydria coordonne les réserves et les inventaires de l'UBI. Si tu ouvres une piste sur ses audits, compare les chiffres, les dates et les visas avant de conclure.
 
-Le capitaine Orlen, unité de traque styrgienne, est mort en garnison vers 532 ; un déserteur a emporté son carnet, jamais identifié. Varek, quarante et un ans, pisteur au Tripot : filatures au quai, informateurs hors fort, accent et âge qui recoupent le dossier Orlen — sans preuve devant un greffier. Approche-le en privé pour noms, horaires et dettes vues pendant la Convention. Ne le dénonce pas aux autorités du fort tant que Théven n'a pas tranché ; une arrestation spectacle ferme le Tripot au détachement entier.
+Une accusation mal calibrée peut fermer les coffres pour tout le mandat Montfou. Avec Ydria, tu dois chercher une différence vérifiable : inventaire, date, réserve, signature.
+
+
+## Varek — Tripot, pisteur et dossier Orlen
+
+Le capitaine Orlen appartenait à une unité de traque styrgienne. Il est mort en garnison vers 532, dans une affaire jamais refermée proprement par le service. Après sa mort, un déserteur a emporté son carnet de terrain. Ce carnet contenait des noms d'informateurs, des itinéraires de quai et des méthodes de filature.
+
+Le déserteur n'a jamais été identifié. Le dossier Orlen donne seulement quelques éléments : un homme jeune à l'époque, formé à suivre une cible sans uniforme, capable de vivre de petits relais dans les ports. Varek correspond à plusieurs de ces points. Il a quarante et un ans, travaille comme pisteur au Tripot, connaît les quais d'Ulghart et dispose d'informateurs hors du fort.
+
+Son accent et son âge recoupent le vieux dossier, mais rien ne prouve qu'il soit le déserteur. Tu ne peux pas le dénoncer devant un greffier avec ces seuls indices. En revanche, tu peux l'approcher en privé et lui poser des questions précises : noms d'informateurs, horaires de filature, dettes vues pendant la Convention, souvenirs d'un officier nommé Orlen.
+
+Si Varek détient encore le carnet ou une partie de son réseau, il peut t'aider à suivre des mouvements autour du Tripot et du quai. S'il comprend que tu le soupçonnes trop tôt, il peut disparaître ou prévenir Marda. Ne le dénonce pas aux autorités du fort tant que Théven n'a pas tranché. Une arrestation publique fermerait le Tripot au détachement entier.
 
 ---
 

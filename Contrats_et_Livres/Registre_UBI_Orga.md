@@ -5,7 +5,7 @@
 - **Période couverte** : cinquante dernières années (498-547)
 - **Responsable** : Directeur Edorian (depuis 544)
 - **Localisation** : Citadelle d'Ulghart, Il-Irion
-- **Dernière mise à jour** : 547 (recensement SE-III-520-001 — mandat Thorne / Therne, criticité III ; RD-III-542-003, RD-III-543-004, FC-III-544-004, CC-II-545-004)
+- **Dernière mise à jour** : 547 (recensement SE-III-520-001 — mandat Thorne / Therne, criticité III ; RD-III-542-003, RD-III-543-004, CC-II-545-004)
 
 ## Structure du Registre
 
@@ -22,27 +22,10 @@
 | CO-II-547-001 | Contrat commercial | Sfaal ↔ Palyr | Fourniture de 20 tonnes de fer avec système de sceau de sécurité pour garantir l'authenticité et la qualité | Duc Thoren Forgefer (Sfaal) | 547-I-01 | II |
 | SE-IV-533-001 | Contrat de service clandestin | Arthas ↔ Ther-Félis | Convoyage et placement sous contrainte de vingt-quatre personnes prostituées sous couverture de contrats d'hôtellerie et de service | Cassiane Marvek (Arthas) | 533-VIII-12 | IV |
 | CP-III-546-002 | Correspondance compromettante | Expéditeur anonyme ↔ Maître Silas le Graveur | Lettre de demande de copie du sceau officiel de Sfaal pour falsification, rémunération de 200 pièces d'or | Déposant anonyme (origine inconnue) | 546-XI-20 | III |
-| FA-III-546-003 | Document falsifié | Trésorerie de Palyr → Maître Thoren Forgefer | Reçu de transfert falsifié montrant un détournement de 570 pièces d'or des fonds publics vers le compte personnel du trésorier | Déposant anonyme (origine inconnue) | 546-IX-18 | III |
-| FA-III-547-002 | Document falsifié | Capitaine Marcus Blackwater ↔ Maître Aldric Portmaster | Lettre de corruption falsifiée avec reçu de paiement de 320 pièces d'or en échange de l'approbation de contrats | Déposant anonyme (origine inconnue) | 547-X-25 | III |
-| RA-III-546-004 | Rapport d'agent | Agent "L'Ombre" → Kaelan Thormane | Rapport sur la vente potentielle d'arguethain pendant la régate, informations sur les parties impliquées et opportunités de sabotage | Déposant anonyme (origine inconnue) | 546-XI-03 | III |
-| FC-III-544-001 | Fiche comptable (copie) | Détournements mandat — initiales « E. » | Bordereau interne reliant liquidité casino à report personnel présumé Edorian | Saisie réseau Sangs (Sangs de la Steppe) | 544-IX-14 | III |
-| FC-III-544-004 | Fiche comptable (registre clos) | UBI — dépôt de valeur | Écart de pesée : 1 200 onces déclarées, 1 470 pesées ; greffier « H » | Archiviste registre clos (UBI) | 544-X-19 | III |
-| RD-III-543-002 | Reconnaissance de dette | Marda Velyss → intermédiaire Sangs | Dette de salle et jetons non déclarés — Tripot | Copie conservée Sangs (Sangs de la Steppe) | 543-IV-08 | III |
 | CC-III-544-002 | Correspondance commerciale | Maître Halwen Rask (Staal) → chroniqueur | Complaisance éditoriale sur récit de chute du patriarche marchand Orrin Malet | Saisie réseau Sangs (Sangs de la Steppe) | 544-VI-21 | III |
-| BM-III-546-005 | Billet maritime | Korran Vesper → Kaelan Thormane | Gage de remise de sacs d'or — pirates d'Albar | Copie conservée Sangs (Sangs de la Steppe) | 546-V-02 | III |
 | FL-III-545-002 | Fragment de lettre | Melian Torv → Palyr (initiale « L. ») | Prêts parallèles 542–543, relève 545 ; offre de fuite chiffrée à Palyr avant consolidation — pression sur Edorian | Saisie réseau Sangs (Sangs de la Steppe) | 545-XII-30 | III |
-| MC-III-547-003 | Message codé (copie) | Sybrel Dornik ↔ réseau Sangs | Fenêtre de rotation et tunnels — coordination interne | Archive Sangs (Sangs de la Steppe) | 547-I-03 | III |
-| PA-II-545-003 | Placard anonyme | Auteur inconnu → circulation publique | Accusation de double vente de rumeurs ciblant le Discréteur | Copie conservée Sangs (Sangs de la Steppe) | 545-I-03 | II |
 | CC-II-545-004 | Correspondance commerciale | UBI → Ther-Félis | Troisième relève de taux sur prêt parallèle ; non déposé au registre ouvert | Trésorerie sortante UBI (Il-Irion) | 545-XI-11 | II |
-| BC-III-544-003 | Bordereau de caisse | Ydria Ventoss — réserves UBI | Écart d'or « justifié » hors registre ouvert | Saisie réseau Sangs (Sangs de la Steppe) | 544-VIII-11 | III |
-| MQ-II-547-004 | Marque de quai | Guilde — remise informelle | Marque d'encre sur linge ; signal logistique escale | Saisie réseau Sangs (Sangs de la Steppe) | 547-VIII-29 | II |
-| AC-II-543-003 | Avis de conciliation | Fournisseur herbes ↔ initiales D.B. | Litige racines — trace hors greffe (angle pharmacie) | Saisie réseau Sangs (Sangs de la Steppe) | 543-I-03 | II |
-| FM-III-546-006 | Fragment de message | Infiltration — citadelle | Indices sceau secondaire avant conseil | Saisie réseau Sangs (Sangs de la Steppe) | 546-I-06 | III |
-| TR-III-547-005 | Tableau de relais | Initiales R. — quai Il-Irion | Grille marées, lanternes, séparation des couverts | Saisie réseau Sangs (Sangs de la Steppe) | 547-I-05 | III |
-| NS-III-547-006 | Note de service | Bureau M. (MiVI, Primat) → T. Corvel | Priorités Cognelot : fer, UBI, Tripot, routes — couverture civile | Copie recensée (archive confédérale) | 547-VIII-12 | III |
-| GC-III-547-007 | Grille de contact | Varek — Tripot, pisteur | Signaux rendez-vous, dé à coudre bleu, exclusions créneaux | Copie recensée (archive confédérale) | 547-IX-01 | III |
-| AN-III-547-008 | Annexe commerciale | Arthas & Ther-Félis — intermédiaires | Sera Orist, Jonn Halet, Maison Veth & Roole ; quai B | Copie recensée (archive confédérale) | 547-IX-01 | III |
-| RD-III-546-007 | Reconnaissance de dette | Initiales M.T. ↔ créancier satellite Tripot | Jetons, faveurs, témoin V. (pisteur) — bar paris secondaires | Copie recensée (archive confédérale) | 546-I-07 | III |
+| SE-II-546-008 | Contrat de service | Ther-Félis ↔ Guilde des Ports Unis | Sous-traitance du transport maritime du fer sur le trajet Sfaal–Ther-Félis, première étape du transit prévu vers Palyr | Rauth Kaelmar (Ther-Félis) | 546-XII-18 | II |
 
 ### Archives antérieures (hors fenêtre 498–547, réintégrées en 547)
 

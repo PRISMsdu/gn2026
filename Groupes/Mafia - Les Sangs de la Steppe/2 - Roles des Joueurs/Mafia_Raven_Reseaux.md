@@ -43,7 +43,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Couverture visible : Maître des routes dans la Guilde des Ports Unis ; remises d'or avec Korran Vesper ; ligne sensible avec Elfrion sur les gros dossiers. |
+| Remarques | Couverture visible : Maître des routes dans la Guilde des Ports Unis ; remise d'or avec Korran Vesper ; dossier fer sensible avec Elfrion. |
 | Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
@@ -80,7 +80,7 @@ Tu es devenu Maître des routes dans la Guilde des Ports Unis. C'est ton métier
 
 ## Travail actuel — quai, UBI, Tripot
 
-Tu maintiens les canaux vers l'UBI, le Tripot, Palyr et Sfaal selon les opérations en cours. Tu coordonnes les remises d'or avec Korran Vesper quand la mer entre dans l'équation : tu fixes le lieu et l'heure, tu valides les signes, tu fais compter les sacs et tu confrontes les montants au billet détenu par Kaelan.
+Tu maintiens les canaux vers l'UBI, le Tripot, Palyr et Sfaal selon les opérations en cours. Tu coordonnes la remise avec Korran Vesper quand la mer entre dans l'équation : tu fixes le lieu et l'heure, tu valides les signes, tu fais compter l'or d'Aquiléa et tu obtiens son silence sur l'abordage.
 
 Shadow et toi partagez les contacts confédérés. Shadow traite les coffres, les doubles fonds et les documents volés. Toi tu traites les rencontres visibles : quai, commissions, salons. Avant de revoir un même clerc ou un même greffier, tu t'accordes avec Shadow pour ne pas le solliciter en deux passages le même jour, ce qui le rendrait méfiant ou le pousserait à parler à la milice.
 
@@ -92,7 +92,7 @@ Tu n'as pas encore la preuve que Gareth Ironfist est l'auteur du coup. Mais ses 
 
 ## Ulghart — remise d'or et conseil
 
-Le MiVI attend des comptes sur le fer détourné. L'or des pirates doit être remis ce week-end : 10'000 couronnes liées au remplacement du bon fer Sfaal-Palyr par du fer médiocre. Korran Vesper mène l'équipage. Toi tu négocies sur le quai, tu valides le dépôt, tu obtiens un quitus ou tu reportes la remise d'une marée.
+Le MiVI attend des comptes sur le fer détourné. Le bon fer devait partir vers la Styrgie ; les Sangs l'ont vendu à Aquiléa par les pirates. Korran Vesper mène l'équipage. Il a déjà reçu cinq mille couronnes d'avance. Ce week-end, il doit remettre aux Sangs les vingt mille couronnes de la vente, puis recevoir les cinq mille couronnes restantes de son contrat.
 
 En parallèle, le renouvellement du conseil de l'UBI et la renégociation des routes commerciales de la Régate passent par des entretiens en commission et des conversations privées que tu ouvres ou que tu bloques selon les priorités fixées par Kaelan.
 
@@ -108,7 +108,7 @@ Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu m
 
 - Maintenir informateurs et communications : codes, relais, coupe-circuits si un homme est pris.
 - Ouvrir des négociations utiles au conseil UBI et aux frictions entre cités sans vendre le réseau par accident.
-- Clore la remise d'or avec Korran Vesper : compter, confronter au billet BM-III-546-005 détenu par Kaelan, éviter un incident qui expose le double jeu.
+- Clore la remise avec Korran Vesper : compter l'or d'Aquiléa, confronter au billet interne détenu par Kaelan, verser le solde de cinq mille couronnes seulement si la somme est complète.
 - Savoir si le bérêt remonte à Gareth avant qu'Arthas ne frappe en public.
 
 ## Informations sensibles
@@ -122,13 +122,13 @@ Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu m
 
 ## Korran Vesper — Pirates d'Albar
 
-Korran Vesper est le point de contact de l'équipage pour le paiement du fer détourné. La remise implique aussi Garm le Roc, qui sécurise la salle ou le quai, Miren Ald, qui pèse les sacs et les sceaux, et Sera Vane, qui tient l'heure et les signes.
+Korran Vesper est le point de contact de l'équipage pour la vente du fer détourné à Aquiléa. La remise implique aussi Garm le Roc, qui sécurise la salle ou le quai, Miren Ald, qui pèse les sacs, et Sera Vane, qui tient l'heure et les signes.
 
-Tu n'as pas le billet BM-III-546-005 sur toi : Kaelan Thormane, chef des Sangs de la Steppe, le garde. Tu connais le texte : trois sacs au sceau du corbeau, remise après la cloche du second gardien, majoration d'un dixième si retard d'une marée. Le montant à récupérer est de 10'000 couronnes. Tu négocies avec Korran Vesper et tu ne signes pas de quitus réseau sans avoir compté.
+Tu n'as pas le billet interne sur toi : Kaelan Thormane le garde dans les papiers du groupe. Tu connais le texte : cinq mille couronnes ont déjà été versées aux pirates, vingt mille couronnes doivent revenir d'Aquiléa, puis cinq mille couronnes soldent le contrat de Korran après comptage. Ce billet n'est pas une pièce UBI et ne doit pas devenir un code de registre. Ne donne pas d'accord final sans avoir compté l'or et obtenu son silence sur Aquiléa, Sfaal et le MiVI.
 
 ## Marda Velyss — Tripot du fort d'Ulghart
 
-Marda Velyss dirige le Tripot du fort d'Ulghart. Kaelan Thormane détient RD-III-543-002 ; toi, tu connais la dette et les négociations orales avec elle. Tu peux proposer une commission sur les flux, une dette contre un couloir, ou rappeler le billet si Kaelan te l'ordonne. Le Tripot reste un objectif MiVI : renseignements, blanchiment et dettes d'élites.
+Marda Velyss dirige le Tripot du fort d'Ulghart. Kaelan Thormane n'a pas de reconnaissance écrite contre elle ; toi, tu connais surtout les approches ratées et les négociations orales. Tu peux proposer une commission sur les flux, un accord de sécurité ou une trêve de couloir si Kaelan te l'ordonne. Le Tripot reste un objectif MiVI : renseignements, blanchiment et dettes d'élites.
 
 ## Maître Halwen Rask — Staal, imprimerie
 
@@ -140,19 +140,19 @@ Torven Sorel est un nom public de la Guilde des Ports Unis. Le contrat CO-II-545
 
 ## Edorian de Courcel — Union bancaire d'Il-Irion
 
-Edorian de Courcel dirige l'UBI. Le bordereau FC-III-544-001 documente des honoraires non consolidés sur la ligne casino. Tu peux lui en parler en privé pour obtenir un vote ou un silence au conseil. Kaelan Thormane décide du moment, car une accusation trop tôt peut aussi exposer le rôle de la Guilde.
+Edorian de Courcel dirige l'UBI. Tu peux lui parler en privé de la passation du conseil, des coffres fermés et des silences achetés par les grandes maisons. Kaelan Thormane décide du moment, car une accusation trop tôt peut aussi exposer le rôle de la Guilde.
 
 ## Sybrel Dornik — Union bancaire d'Il-Irion
 
-Sybrel Dornik travaille à la surveillance intérieure de l'UBI : tunnels, coursives et angles morts de la banque. MC-III-547-003 est un message codé lié à ces circulations. Tu relis les codes ; Drask Bloodmoon peut proposer un angle chimique si on te remet des effets liés à la piste. Accorde-toi avec Shadow : il a une histoire ancienne avec Sybrel Dornik que les autres Sangs ne portent pas sur cette fiche.
+Sybrel Dornik travaille à la surveillance intérieure de l'UBI : tunnels, coursives et angles morts de la banque. Si tu dois l'approcher, accorde-toi avec Shadow : il a une histoire ancienne avec Sybrel Dornik que les autres Sangs ne portent pas sur cette fiche.
 
 ## Maître Vaelric Dorn — Union bancaire d'Il-Irion
 
-Maître Vaelric Dorn est discréteur de l'UBI. Il tient le récit public, les rumeurs et les dossiers hors registre. Le placard anonyme PA-II-545-003 met en cause la crédibilité d'un délégué de l'UBI. Tu choisis le moment où une copie ressort en commission, et tu négocies avec Vaelric Dorn pour qu'il retarde une enquête sur la Guilde en échange.
+Maître Vaelric Dorn est discréteur de l'UBI. Il tient le récit public, les rumeurs et les dossiers hors registre. Tu peux négocier avec lui pour qu'il retarde une enquête sur la Guilde, mais sans brandir de placard ou de note floue : il lui faut un intérêt concret, un silence ou une protection à échanger.
 
 ## Dame Ydria Ventoss — Union bancaire d'Il-Irion
 
-Dame Ydria Ventoss est trésorière de l'UBI. Le bordereau BC-III-544-003 documente des écarts comptables et sert d'appui à ses audits. En commission de l'UBI, cite seulement des chiffres arrondis pour préparer le terrain ; ne montre le bordereau lui-même qu'avec l'autorisation expresse de Kaelan Thormane.
+Dame Ydria Ventoss est trésorière de l'UBI. Elle tient les audits, les réserves et les rythmes de caisse. En commission de l'UBI, pose des questions de procédure ou de délai ; ne prétends pas détenir une preuve comptable que Kaelan n'a plus.
 
 ## Melian Torv — Union bancaire d'Il-Irion
 

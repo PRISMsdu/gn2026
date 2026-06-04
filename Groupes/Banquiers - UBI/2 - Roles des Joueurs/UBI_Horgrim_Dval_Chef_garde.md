@@ -95,11 +95,11 @@ Le plan se déroule nickel, trop fort le gars, tu finis chef de la garde de la b
 
 Le mandat d'Edorian touche à sa fin. Une passation approche. Pour toi, une passation signifie une période de flottement dans les accès : nouveaux signataires, nouvelles combinaisons à distribuer, anciens accès à fermer. C'est le moment où les coffres sont les plus exposés.
 
-Une procédure interne est ouverte sur la mort de six gardes il y a deux jours. Les corps avaient été retrouvés sur les quais ; la banque a décidé de les déplacer dans une salle des coffres pour ne pas laisser des cadavres visibles à l'arrivée de la Régate. Les dépouilles y sont encore : elles attendent la cérémonie mortuaire, qui doit se tenir avant le samedi midi. Tant que les corps restent sous ton périmètre de sécurité, chaque visiteur, chaque rumeur et chaque accès aux couloirs bas peut poser problème.
+Une procédure interne est ouverte sur la mort de six gardes il y a deux jours. Les corps ont été trouvés sur les quais, puis déplacés dans une salle des coffres pour ne pas exposer des cadavres à l'arrivée de la Régate. Ils y restent jusqu'à la cérémonie mortuaire prévue avant samedi midi. Tant qu'ils sont sous ton périmètre, chaque visiteur, chaque rumeur et chaque accès aux couloirs bas peut poser problème.
 
-Cette procédure lie les responsabilités de la garde et les accès aux coffres dans la même enquête. Tant qu'elle est ouverte, tu évites les déclarations inutiles. Il va falloir gérer l'enquête et la cloisonner sur ce seul sujet. Tu sais que des Questeurs sont envoyés depuis Il-Irion. Ce sont des gars pas simples, pas drôle, et qui certes seront là pour enquêter sur ces six morts étranges, voire magiques, mais leur pouvoir quasi sans limite pourrait poser un problème pour dérouler le plan de sortie.
+Cette procédure lie la garde et les accès aux coffres dans la même enquête. Tant qu'elle reste ouverte, tu évites les déclarations inutiles. Les questeurs envoyés depuis Il-Irion viennent pour les morts, mais leur autorité peut déborder sur le plan de sortie.
 
-Depuis environ deux ans, Varek au Tripot t'envoie des signalements sur des incidents contre la maison du casino : poissons pourris dans les réserves, feux naissants dans des couloirs de service, dégâts mineurs sur les accès. Il relie ces actes à certains gardes de la banque, surtout aux six morts et à leurs proches encore en service. Pour lui, le calendrier tient : les incidents ont commencé un an après l'arrivée de ces hommes, puis se sont répétés. Il n'a pas de preuve complète, mais il ne croit plus au hasard.
+Depuis environ deux ans, Varek au Tripot t'envoie des signalements sur des incidents contre le casino : poissons pourris dans les réserves, feux naissants dans des couloirs de service, dégâts mineurs sur les accès. Il relie ces actes à certains gardes de la banque, surtout aux six morts et à leurs proches encore en service.
 
 Pour toi, la situation est inverse. Le Tripot est sous contrat avec l'UBI ; la maison du casino touche à des flux que tu ne contrôles pas sur le papier. Tant que la procédure sur les six morts est ouverte sur ta garde, toute alerte venant du Tripot te paraît d'autant plus suspecte : elle peut servir à te faire porter la faute ou à masquer un autre jeu. Tu n'accordes pas à Varek le droit de dicter qui tu retires du service sur la base de listes dressées depuis les coulisses du casino. Tu exiges des faits exploitables, des noms vérifiables hors du Tripot, des témoins qui ne sont pas payés par la maison. Sans ça, tu gardes la main sur tes rotations et tu réponds froidement aux requêtes.
 
@@ -113,17 +113,17 @@ Tu es proche d'Edorian. Tu fais partie du conseil et tu es dans le plan de sorti
 
 Ce que tu sais sur les autres membres du conseil : ils ont tous été placés là par Edorian. Chaque cité croyait nommer son propre candidat ; dans les faits, Edorian avait préparé le terrain pour chacun d'eux. Et depuis trois ans, l'ensemble du groupe UBI — conseil et personnel de confiance compris — est dans la combine. Tout le monde sait ce qui se passe. Personne ne peut prétendre le contraire.
 
-Kaelen Veynar voulait ta place. Il ne le cache pas très bien. Tu ne lui reproches pas l'ambition. Ce que tu surveilles, c'est s'il commence à court-circuiter tes ordres pour montrer son utilité à Edorian directement. C'est passager, dans quelques jours, tout ceci sera du passé. 
+Kaelen Veynar est ton appui le plus direct pour les escortes sensibles et les interventions où une présence armée évite les discussions inutiles. Tu l'as formé à agir vite sans casser la procédure. Pendant la passation, tu comptes sur lui pour tenir les hommes disponibles et fermer les accès au bon moment.
 
-Vaelric Dorn te met les nerfs à vif. Son travail de discréteur implique des passages discrets et des contacts non traçables, ce qui croise ta mission. Tu n'as aucune confiance en lui. Tu ne comprends pas pourquoi Edorian lui en accorde. Ils sont très proches.
+Vaelric Dorn intervient sur les mauvais payeurs avec des mandats bancaires officiels. Son périmètre n'est pas le tien : il réclame, saisit, convoque et peut demander des gardes quand l'acte le justifie. Ton rôle est de fournir l'appui nécessaire dans le fort sans lui abandonner la sécurité générale du site.
 
 Sybrel Dornik travaille sous ta supervision théorique sur les souterrains. Dans les faits tu ne sais pas tout ce qu'elle fait ni tout ce qu'elle voit. Elle est utile pour la surveillance interne, mais ce qu'elle observe, elle peut aussi le transmettre à d'autres.
 
 Melian Torv représente une autorité que tu respectes. Son rôle de conseiller spirituel tient le conseil dans un cadre moral visible. Tu ne confonds pas son autorité avec la tienne : lui gère les consciences, toi les portes. Un petit doute sur le bohomme concernant les aspects moraux des détournements...
 
-Corvus tient la chaîne des clefs et les combinaisons des coffres. Vous ne vous parliez pas beaucoup pendant le mandat. La passation va changer ça : son travail et le tien doivent s'aligner avant que les nouvelles équipes arrivent.
+Corvus tient la chaîne des clefs et les combinaisons des coffres. La passation vous oblige à aligner portes, vannes et inventaires avant l'arrivée des nouvelles équipes.
 
-Quelques gardes recrutés il y a trois ans te préoccupent. Ils font leur travail correctement, rien à redire sur les procédures. Mais plusieurs d'entre eux étaient proches des six morts. Leur deuil ne ressemble pas à celui des autres hommes : ils disparaissent à des heures inhabituelles, gardent entre eux, et certains ont posé des questions sur des zones du fort qui ne sont pas leur affectation. Tu n'as rien de concret. Tu observes.
+Quelques gardes recrutés il y a trois ans te préoccupent. Plusieurs étaient proches des six morts. Ils disparaissent à des heures inhabituelles, restent entre eux et posent des questions sur des zones du fort qui ne sont pas leur affectation. Tu n'as rien de concret. Tu observes.
 
 ---
 
@@ -131,10 +131,10 @@ Quelques gardes recrutés il y a trois ans te préoccupent. Ils font leur travai
 
 - **Sécurité des coffres** : garantir que personne n'entre dans une zone sensible sans autorisation valide jusqu'à la fin de la passation. C'est ta responsabilité directe depuis vingt ans et elle ne s'arrête pas avant que les clefs soient transmises au nouveau chef de garde.
 - **Passation sans incident** : les rotations de garde, les accès au fort pendant la Régate et les escortes de dépôts doivent tenir sans faille. Un incident pendant la passation remonte directement vers toi.
-- **Procédure sur les six gardes** : la procédure interne est ouverte. Tu dois savoir ce qu'elle peut produire comme conclusions avant qu'un auditeur extérieur y mette le nez.
+- **Procédure sur les six gardes** : savoir ce que l'enquête peut produire avant qu'un questeur ou un auditeur extérieur s'en empare.
 - **Dépouilles et cérémonie** : les six corps sont encore dans la salle des coffres où la banque les a rangés après les quais. La cérémonie mortuaire doit avoir lieu avant le samedi midi ; jusqu'à ce moment, tu tiens la zone fermée et tu contrôles qui s'en approche.
 - **Gardes suspects** : identifier ce que ces hommes cherchent dans le fort avant que l'affluence de la Régate rende leurs mouvements impossibles à suivre.
-- **Varek et les 6 gardes morts** : creuser cette piste qui pointe du doigt le Casino ou Varek de manière un peu trop évidente.
+- **Varek et les six gardes morts** : vérifier ses signalements sans lui laisser dicter tes rotations.
 
 # Connaissances
 
@@ -148,15 +148,13 @@ Pour un dépôt d'or, tu tiens la première porte, tu contrôles les armes et le
 
 ## Procédure interne — les six gardes
 
-Six gardes sont morts il y a deux jours. Leurs corps ont été trouvés sur les quais. La banque a ordonné de les transférer dans une salle des coffres pour ne pas exposer des cadavres aux arrivées de la Régate. Les dépouilles y sont toujours, en attente de la cérémonie mortuaire fixée avant le samedi midi.
+Les six corps sont dans une salle des coffres jusqu'à la cérémonie prévue avant samedi midi. Tu contrôles l'accès à cette zone et tu limites les témoins. Si l'enquête produit des conclusions, elles toucheront d'abord la garde et le choix de déplacer les corps dans ton périmètre.
 
-Une procédure interne est ouverte. Elle n'a pas encore de conclusions. Si elle en produit, elles concernent la garde en premier lieu — et le choix du lieu de conservation des corps, que tu as appliqué sur ordre du conseil. Tu ne sais pas encore jusqu'où l'enquête peut remonter. Tu évites les déclarations tant que tu n'as pas une vision complète de ce que l'enquête a compilé.
+Tu ne sais pas encore jusqu'où l'enquête peut remonter. Tant que tu n'as pas lu ce qu'elle contient, évite les déclarations définitives.
 
 ## Varek — Tripot (alertes contre la garde)
 
-Depuis environ deux ans Varek te signale des actes contre le Tripot : poissons pourris dans les réserves, débuts de feu dans des couloirs de service, dégâts mineurs sur les accès. Il relie ces incidents à certains gardes de la banque, en priorité aux six morts récemment et à leurs proches encore en service. Il note un calendrier : les dégradations ont commencé un an après l'arrivée de ces hommes, puis se sont répétées. Il n'a pas de preuve complète, mais pour lui ce n'est plus une coïncidence.
-
-Tu ne traites pas ses requêtes en profondeur, bien que ce qu'il raconte ne soit pas débile. Cependant tant que la procédure interne sur les six morts pèse sur la garde, toute alerte venant du Tripot te paraît d'autant plus suspecte...
+Varek relie des incidents du Tripot à des gardes de la banque. Son calendrier peut être utile, mais il vient d'une maison liée aux flux que tu ne contrôles pas. Demande des noms vérifiables, des témoins hors Tripot ou une trace matérielle avant de retirer un homme du service.
 
 ---
 

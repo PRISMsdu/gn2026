@@ -204,7 +204,6 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Théven Corvel | Kaelan Thormane (Sangs) | Comptes à rendre sur le fer et la Guilde sans étaler le MiVI en place publique. |
 | Théven Corvel | Raven (Sangs) | Interface maritime et grille quai : créneaux alignés sur la pièce TR. |
 | Théven Corvel | Edorian (UBI) | Cible documentaire prioritaire ; bordereau FC comme levier officiel. |
-| Théven Corvel | Korran Vesper (PNJ) | Mer et remises ; gage BM pour signatures avec les pirates. |
 | Ysel Marivent | Sybrel Dornik, Vaelric Dorn, Ydria Ventoss, Melian Torv (UBI) | Coffres, tunnels, écarts ; avec Lucan, éviter de doubler Melian sur une même scène registre sans accord. |
 | Ysel Marivent | Rapport agent / commerce gris (RA, chaîne Arguethain) | Cartographier rumeur fer et guerre sans confondre avec l’angle « corps » de Varro. |
 | Lucan Drest | Melian Torv (UBI) | Lien Palyr documenté FL ; recoupler avec Ysel si Melian est dans la pièce. |
@@ -213,12 +212,11 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Lucan Drest | Halwen Rask (Staal, imprimerie) | Presse et complaisance éditoriale ; lien scandale Staale. |
 | Lucan Drest | Intermédiaires Arthas / Ther-Félis (pièce AN) | Routes et escales ; noms utiles Sera Orist, Jonn Halet, Maison Veth & Roole. |
 | Varro Selt | Gareth Ironfist (Sangs) | Muscle et extraction ; éviter de croiser la grille GC le même jour sans plan. |
-| Varro Selt | Korran Vesper (PNJ) | Angle maritime RA ; gage BM plutôt sur la fiche Théven pour la même opération. |
 | Varro Selt | Duc Thoren Forgefer (Sfaal, fer) | Convoi et violence possible sur détournement ; lien dossier fer CO-II-547. |
 | Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas fusionner avec l’angle chimique Drask sans arbitrage. |
 | Varro Selt | Fausse piste Palyr (FA) | Distinct du message tunnel Sybrel ; pas fusionner en accusation publique. |
 | Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Réalité du casino : dette RD, paris, muscle maison ; recoupler avec Ysel sur ce qui doit tenir en preuve. |
-| Miraen Talvas | Dette personnelle (créancier satellite, témoin Varek) | Jetons et reconnaissance ; angles addiction réservés fiche perso. |
+| Miraen Talvas | Dette personnelle (créancier satellite, témoin Varek) | 1 854 couronnes inscrites au registre du Tripot ; angles addiction réservés fiche perso. |
 
 ---
 

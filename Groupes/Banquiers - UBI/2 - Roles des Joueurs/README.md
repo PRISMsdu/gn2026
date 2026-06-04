@@ -5,7 +5,7 @@ Fiches individuelles remises à chaque joueur. Convention de nommage : `UBI_NomD
 | Fichier | Rôle dans le groupe |
 |---------|---------------------|
 | `UBI_Edorian_Directeur_general.md` | Directeur général |
-| `UBI_Vaelric_Dorn_Discreteur.md` | Discréteur — conseil |
+| `UBI_Vaelric_Dorn_Discreteur.md` | Recouvreur mandaté — conseil |
 | `UBI_Ydria_Ventoss_Tresoriere.md` | Trésorière — conseil |
 | `UBI_Selvara_Quenndral_Archiviste_en_chef.md` | Archiviste en chef — conseil |
 | `UBI_Horgrim_Dval_Chef_garde.md` | Chef de la garde privée — conseil |

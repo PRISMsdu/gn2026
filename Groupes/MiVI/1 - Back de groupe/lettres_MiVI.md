@@ -34,7 +34,6 @@ Dernière passe : back `Back_groupe_MiVI.md`, fiches `Groupes/MiVI/2 - Roles des
 
 | Code | Fichier dans le dépôt | Lié à | Rédigée | Dans back MiVI | Dans rôle MiVI | Chez autre groupe |
 |------|----------------------|-------|---------|----------------|----------------|-----------------|
-| NS-III-547-006 | `Contrats_et_Livres/NS-III-547-006.md` | Note interne Primat → Théven (priorités Ulghart) | Oui | Non (pièce à part) | `MiVI_Theven_Corvel_Chef_de_mission.md` | Non |
 | CP-III-542-001 | `Contrats_et_Livres/CP-III-542-001.md` | Chantage adultère Maison Valdris (pas émission Styrgie) | Oui | Non | `MiVI_Lucan_Drest_Negociateur.md` (levier salon / Cyrion) | Il-Irion, Mafia, UBI |
 
 `Pratiques_et_methodes_dinterrogatoires.md` : volume diegétique Questeur (couverture), **pas** une lettre destinataire.
@@ -45,7 +44,7 @@ Dernière passe : back `Back_groupe_MiVI.md`, fiches `Groupes/MiVI/2 - Roles des
 
 | PJ MiVI | Lettres / pièces dans sa fiche | Dans le back commun |
 |---------|------------------------------|---------------------|
-| Théven Corvel | NS-III-547-006 | Questeur (Montfou), objectifs généraux |
+| Théven Corvel | — | Questeur (Montfou), objectifs généraux |
 | Ysel Marivent | — | Garrick Halvaren, Il-Irion (GPU-547) ; pas de reprise du texte en fiche rôle |
 | Lucan Drest | STY-547-PAL-THO-01 ; CP-III-542-001 | Thoran ; commerce gris |
 | Varro Selt | — | — |

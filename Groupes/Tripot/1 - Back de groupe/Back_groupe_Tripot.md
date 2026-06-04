@@ -100,8 +100,8 @@ Le Tripot vous donne encore une base de travail : une salle active, une équipe,
 |-----|----------|--------|
 | Marda Velyss | Patronne — stratégie, négociations  | Lise |
 | Ardan Trevil | Capitaine des gardes — sécurité du Tripot | Mathieu |
-| Sira Vestrann | Croupière — sœur de Lira | Lucile |
-| Lira Vestrann | Croupière — sœur de Sira | Marion |
+| Sira Vestrann | Croupière — sœur de Lira | Marion |
+| Lira Vestrann | Croupière — sœur de Sira | Lucile |
 | Samvel Rauk, dit Varek | Pisteur — filatures, quai, sorties | Sam |
 | Theodran Veyr, dit Varek | Pisteur — coulisses, salons, relais internes | Theodore |
 | Lydwen | Oracle, cartes | Corinne |

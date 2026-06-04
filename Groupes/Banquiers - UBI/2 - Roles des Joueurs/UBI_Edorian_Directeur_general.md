@@ -44,7 +44,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Fin de mandat à Ulghart ; cercle des cinq conseillers et plan de passation ; Régate comme échéance ; sortie coordonnée avec Corvus sur les accès coffres. |
+| Remarques | Fin de mandat à Ulghart ; cercle des cinq conseillers et plan de passation |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -53,7 +53,7 @@ Epopée en Krondaar
 | Elément | Description |
 |---------|-------------|
 | Traits de caractère | Réserve, précision, peu de paroles inutiles. |
-| Valeurs | Tenir l'Union jusqu'à la Régate. Mener le plan de sortie du cercle restreint jusqu'au bout. |
+| Valeurs | Tenir l'Union jusqu'à la Régate. Mener le plan de sortie jusqu'au bout. |
 | Peur | Un audit ouvert trop tôt. Une fuite publique avant que la passation soit jouée. |
 | Rêve | Quitter Ulghart avec ce que le plan prévoit, et laisser une passation encore défendable sur le papier. |
 
@@ -104,6 +104,12 @@ Des fois, c'est bien fichu la vie, il y a cinq ans, tu prends la tête de la ban
 
 Depuis, tu organises des détournements croissants, surtout pour vous. Tu as mis le personnel résident au pas. Tu as aussi forcé la main à Marda Velyss, la tenancière du Tripot, pour accélérer le blanchiment. C'est Sybfel qui t'a appris qu'elle cachait un lien avec la Styrgie. Tu t'en sers : tu la menaces de la dénoncer à la Styrgie si elle ne coopère pas, quand bien même tu ne sais pas très bien ce qu'elle cache. une histoire de lien de parentée avec des gars importants là-bas. Elle se planquerait.
 
+Au départ, les contrats VIP du Tripot concernent surtout Il-Irion. Les grandes familles et leurs relais utilisent ce circuit pour corriger leurs comptes, payer des services discrets et soutenir des maisons endettées sans le montrer. Le Tripot enregistre ces paiements comme pertes de jeu, dettes de salon ou paris arrangés. Les registres VIP pointent donc d'abord vers Il-Irion, parce que les prête-noms et les libellés ont été construits autour des familles ilirioniennes.
+
+En 546, tu étends le mécanisme aux quatre autres cités. Palyr, Ther-Félis, Arthas et Sfaal n'entrent pas dans le circuit avec la même raison ni avec la même information. Palyr veut protéger certains dossiers de dette avant la passation UBI. Ther-Félis veut acheter des services portuaires, des silences et des priorités sans afficher un paiement politique. Arthas veut récupérer ou protéger des dossiers sensibles déposés dans les coffres. Sfaal veut gérer les conséquences de ses accords commerciaux et du dossier du fer sans procédure ouverte.
+
+Tu gardes ces opérations séparées. Chaque cité pense traiter un problème isolé ou une urgence locale. Aucune ne doit comprendre que le même mécanisme la relie aux quatre autres. Si les registres VIP et les documents UBI sont recoupés, le dossier ne prouve plus seulement les arrangements d'Il-Irion : il montre que tu as compromis toute la Confédération autour du Tripot.
+
 
 
 ## Chapitre IV : Les défis actuels
@@ -125,7 +131,7 @@ Le mandat s'arrête le week-end de la Régate. Le fort reçoit des délégations
 
 Le vol doit être déclenché après la passation de pouvoir. Si l'intervention a lieu avant que tu aies formellement transmis le mandat, tu es encore directeur en titre et donc responsable légal de toute disparition. La séquence : passation d'abord, coffres après.
 
-La sortie doit être propre. Tu dois quitter le poste sans laisser de dossier ouvert sur toi ou sur le cercle. Cyrion Valdris et Seraphin Kaelthorne ont leurs propres détournements dans les coffres. Leur présenter ces preuves peut suffire à les tenir tranquilles le temps nécessaire.
+La sortie doit rester défendable sur le papier. Cyrion Valdris et Seraphin Kaelthorne ont leurs propres détournements dans les coffres. Leur montrer que tu peux les exposer peut suffire à les tenir tranquilles le temps nécessaire.
 
 Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que tu y fais passer. Elle peut tout révéler si elle se sent menacée ou si quelqu'un la presse. Il te faut plus d'informations sur son passé et son lien avec la Styrgie. Avec ça, tu peux l'occuper ou t'en débarrasser avant la Régate.
 
@@ -136,22 +142,24 @@ Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que t
 
 - **Fin de mandat** : mener la passation sans déclencher un audit qui bloque les couloirs avant ton départ.
 - **Grandes Familles** : négocier avec Cyrion Valdris, Seraphin Kaelthorne et les autres jusqu'à savoir ce qu'ils accepteront pour laisser passer ta sortie.
-- **Biens et preuves** : protéger jusqu'au dernier moment ce qui doit rester coffré, déplacé ou détruit selon les arbitrages assumés devant le conseil entrant.
-- **Partir propre** : ou pas...
+- **Biens et preuves** : décider ce qui reste coffré, ce qui disparaît avec les Corbeaux et ce que tu gardes comme garantie personnelle.
+- **Partir propre** : quitter le poste avec une passation défendable, ou assez de preuves pour survivre si elle ne l'est plus.
 
 # Connaissances
 
 ## Cyrion Valdris et Seraphin Kaelthorne — Grandes Familles d'Il-Irion
 
-Ce sont les porte-parole des maisons sur finances et taux. Ils sont des appuis ou des obstacles si la transition tourne au conflit informel avant la Régate.
+Cyrion Valdris et Seraphin Kaelthorne parlent pour les maisons d'Il-Irion sur les finances et les taux. Ils croient encore pouvoir contrôler la sortie du mandat. Tu peux les calmer en leur rappelant que certains de leurs propres arrangements dorment dans les coffres.
+
+Ne leur donne pas tout. Une preuve montrée trop tôt devient une arme contre toi. Une preuve annoncée au bon moment peut acheter quelques heures de silence.
 
 ## Thoren — cousin à Ther-Félis
 
-Tu as protégé **Thoren** quand une affaire de contrefaçon le menaçait.
+Thoren est ton cousin placé à Ther-Félis sous un nom d'emprunt. Tu l'as protégé quand une affaire de contrefaçon le menaçait. Si quelqu'un le retrouve, il peut devenir un levier contre toi.
 
 ## Varek — Tripot (relais extérieur)
 
-**Varek** tient le relais au Tripot pour faire partir des consignes vers l'extérieur sans que ton nom figure sur une note officielle hors casino. Tu n'as pas de contact direct avec le chef de l'équipe extérieure : tout passe par Varek.
+Varek tient le relais au Tripot pour transmettre les consignes vers l'extérieur. Ton nom ne doit pas apparaître sur une note hors casino. Tu n'as pas de contact direct avec le chef des Corbeaux de Minuit : tout passe par Varek.
 
 ---
 

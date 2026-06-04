@@ -45,7 +45,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | 25 ans ; origines Sangs de la Steppe ; dette envers Shadow ; intégrée dans la combine depuis 3 ans. |
+| Remarques | 25 ans ; ancienne filière portuaire clandestine ; intégrée dans la combine depuis 3 ans. |
 | Doublons (or) | 100 |
 | Pugilat | 3 |
 
@@ -55,8 +55,8 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Discrète, efficace, méfiance par défaut. Ne parle pas si ça ne sert à rien. |
 | Valeurs | Survivre. Ne pas se retrouver seule dans une situation sans issue. Garder des options ouvertes. |
-| Peur | Qu'on découvre ses origines. Qu'Horgrim fasse le lien. Que Shadow décide que sa présence ici est un problème pour les Sangs. |
-| Rêve | Une sortie propre, assez loin, sans que ni la banque ni les Sangs ne sachent où elle est allée. |
+| Peur | Qu'on découvre ses origines. Qu'Horgrim fasse le lien entre ses rapports, les tunnels et les morts. |
+| Rêve | Une sortie propre, assez loin, sans que la banque sache où elle est allée. |
 
 ---
 
@@ -64,17 +64,17 @@ Epopée en Krondaar
 
 ## Chapitre I : Les origines
 
-Tu nais dans les bas-fonds d'une grande cité portuaire. Ta famille est affiliée aux Sangs de la Steppe — pas les chefs, pas les lieutenants. Les exécutants, les intermédiaires, ceux qui font passer des messages et des colis sans poser de questions sur le contenu. Ton enfance se passe dans cet environnement. Tu apprends à ne pas laisser de traces, à repérer qui surveille quoi, à sortir d'un bâtiment par d'autres chemins que celui par lequel tu es entrée.
+Tu nais dans les bas-fonds d'une grande cité portuaire. Ta famille vit de petits travaux clandestins : messages, colis, surveillance d'angles morts, passages par des portes que les registres ne nomment pas. Ton enfance se passe dans cet environnement. Tu apprends à ne pas laisser de traces, à repérer qui surveille quoi, à sortir d'un bâtiment par d'autres chemins que celui par lequel tu es entrée.
 
-À douze ans tu commences à participer à des missions. Des petites choses : porter un paquet, observer un carrefour pendant une heure, signaler si quelqu'un sort d'une maison. Les Sangs paient peu mais régulièrement.
+À douze ans tu commences à participer à des missions. Des petites choses : porter un paquet, observer un carrefour pendant une heure, signaler si quelqu'un sort d'une maison. On te paie peu mais régulièrement.
 
 À quatorze ans tu fais partie d'une chaîne plus sérieuse. Tu y joues un rôle de maillon intermédiaire. Puis un protocole de sécurité de la chaîne est activé, et ce protocole prévoit de sacrifier le maillon le plus exposé si quelqu'un est repéré. Tu es ce maillon. L'ordre est donné de te laisser tomber.
 
-Shadow y était. Il a fait l'autre choix. Il a gardé le silence et laissé la chaîne se refermer autrement. Tu es encore là parce qu'il a décidé que tu devais l'être. Tu ne sais pas pourquoi.
+Une personne de la chaîne a fait l'autre choix. Elle a gardé le silence et laissé l'affaire se refermer autrement. Tu es encore là parce que quelqu'un a décidé que tu devais l'être. Tu ne sais pas pourquoi.
 
 ## Chapitre II : L'apprentissage
 
-Tu quittes la cité portuaire à quinze ans. Tu ne veux plus travailler pour les Sangs. Tu as besoin d'une nouvelle identité professionnelle et tu as une compétence précise : tu sais comment les voleurs opèrent dans les bâtiments sécurisés.
+Tu quittes la cité portuaire à quinze ans. Tu ne veux plus travailler pour des filières qui sacrifient leurs propres intermédiaires. Tu as besoin d'une nouvelle identité professionnelle et tu as une compétence précise : tu sais comment les voleurs opèrent dans les bâtiments sécurisés.
 
 Tu proposes tes services à une maison de change à Il-Irion comme consultante en sécurité intérieure. Tu leur décris comment une personne comme toi entrerait dans leurs entrepôts, par où, à quelle heure, avec quels outils. Ils t'embauchent pour colmater ces angles. Tu travailles là deux ans.
 
@@ -86,7 +86,7 @@ C'est cette réputation qui arrive à l'UBI. Horgrim Dval cherche quelqu'un pour
 
 Tu entres au service de l'UBI il y a cinq ans. Horgrim te donne un périmètre précis : tunnels, coursives secondaires, accès qui ne sont pas sur les plans officiels. Tu rédiges des rapports sur ce que tu observes. Ces rapports vont à Horgrim.
 
-Tu passes tes journées à courir les interstices que personne ne veut voir. Tu vois les mouvements hors registre se multiplier. Tu vois le conseil refermer les portes au bon moment. Ce n'est pas la même saleté que dans les chaînes des Sangs ; c'est une saleté propre, avec des sceaux et des signatures. Ça te dégoûte.
+Tu passes tes journées à courir les interstices que personne ne veut voir. Tu vois les mouvements hors registre se multiplier. Tu vois le conseil refermer les portes au bon moment. Ce n'est plus la saleté brute des filières de ton enfance ; c'est une saleté propre, avec des sceaux et des signatures. Ça te dégoûte.
 
 Tu finis par croiser des gens calmes, tenaces, qui ne jouent pas les matons : des Premiers Nés, les Fils du Levant, cachés dans les ombres, avec une autre mémoire que celle du fort. Ils te parlent sans pathos de l'histoire des îles du Levant — spoliations sur Il-Irion, exactions des colons venus de la Styrgie, survie sous d'autres noms à Sfaal et à Palyr. Tu es encore plus dégoûtée de ce que la banque cimente autour de toi.
 
@@ -100,70 +100,55 @@ Depuis trois ans tu fais partie de la combine. Tes rapports à Horgrim sont vrai
 
 ## Chapitre IV : Les défis actuels
 
-Les gardes morts dont tout le monde parle faisaient partie ceux que tu as fait entrer dans la garde. Ils étaient des tiens autant que des leurs. Tu portes leur mort comme un poids froid. Tu es triste au point de te réveiller sur des détails de ronde qui ne collent plus. Tu es inquiète pour les survivants du même noyau : chaque pas de questeur peut les enfermer ou les faire parler au mauvais moment. Tu continues de défendre leur cause en secret, mais tu ne peux pas pleurer en salle de garde. Les premiers nés cherchent à libérer Wyv, leur divinité tutélaire (lis bien la véritable histoire des iles du Levant).
+Les six gardes morts faisaient partie du noyau que tu as fait entrer dans la garde. Ils étaient des tiens autant que des agents de l'UBI. Tu portes leur mort comme un poids froid. Les survivants du même noyau restent exposés : chaque pas de questeur peut les enfermer ou les faire parler au mauvais moment. Les Premiers Nés cherchent à libérer Wyv, leur divinité tutélaire, et leur nouvelle tentative peut faire tomber ton couvert.
 
-La dernière tentative avortée remonte à avant-hier : c'est là qu'ils ont perdu ces six membres. En début d'après-midi aujourd'hui, les Premiers Nés t'ont contactée dans un passage que tu fréquentes sans afficher de rendez-vous. Ils retentent le coup ce soir. Pour ce faire, le système de sécurité doit être débrayé : il faut retirer la roue crantée du mécanisme des vannes, que **Corvus** range chaque soir dans la chaîne des clés après l'inondation de vingt et une heures. L'idée est de laisser les couloirs bas inondés pour que Wyv circule librement. Ce n'est pas ton poste officiel ; les Premiers Nés te demandent une diversion sur les rondes, un repérage du poste ou une fenêtre où Corvus n'a pas encore consigné la manœuvre — pas d'exécuter toi-même le cycle au registre des vannes.
+La dernière tentative avortée remonte à avant-hier. En début d'après-midi aujourd'hui, les Premiers Nés t'ont contactée dans un passage que tu fréquentes sans afficher de rendez-vous. Ils retentent le coup ce soir. Le système de sécurité doit être débrayé : il faut retirer la roue crantée du mécanisme des vannes, que Corvus range chaque soir dans la chaîne des clés après l'inondation de vingt et une heures. L'idée est de laisser les couloirs bas inondés pour que Wyv circule librement. Ce n'est pas ton poste officiel. Les Premiers Nés te demandent une diversion sur les rondes, un repérage du poste ou une fenêtre où Corvus n'a pas encore consigné la manœuvre.
 
-Shadow est à Ulghart pour la Régate, tu en es sûre, tu as un vrai don pour détecter les gens de la mafia. Ils se cachant dans la délégation de la Guilde des Ports Unis. Les Sangs de la Steppe ont un intérêt dans ce qui se passe au fort. Sa présence ici croise ta présence ici. Si les Sangs apprennent que tu travailles dans cette banque, que tu sais ce que tu sais, ils ont deux options : te recruter ou te faire taire. Shadow avait fait un choix une fois. Tu ne sais pas s'il le referait.
-
-La passation et la Régate vont remplir le fort de monde. Plus de monde signifie plus de mouvements dans les tunnels, plus d'angles morts, plus de risques que quelqu'un voit ce que les premiers nés font. Ton travail sera de t'assurer que les bons passages soient libres au bon moment et que les mauvais témoins soient ailleurs.
+La passation et la Régate vont remplir le fort de monde. Plus de monde signifie plus de mouvements dans les tunnels, plus d'angles morts, plus de risques que quelqu'un voie ce que les Premiers Nés font. Ton travail sera de t'assurer que les bons passages soient libres au bon moment et que les mauvais témoins soient ailleurs.
 
 ## Chapitre V : Le réseau et les relations
 
-Edorian te fait confiance sur les tunnels. Il sait que tu orientes tes rapports et il sait que ça tient. Tu lui fais confiance sur le plan parce que tu n'as pas d'alternative qui vaille autant.
+Edorian te fait confiance sur les tunnels. Il sait que tu orientes certains rapports et que tes omissions tiennent tant qu'Horgrim ne recoupe pas les rondes trop finement. Tu restes dans son plan parce qu'une sortie seule te livrerait trop vite à la banque.
 
-Horgrim te surveille. Il ne te fait pas confiance mais il n'a pas de preuve de ce que tu fais vraiment. Il est méticuleux. Il pourrait trouver une incohérence dans tes rapports si tu n'es pas soigneuse. Tu l'es.
+Horgrim recoupe les rapports de coursives avec les rondes. Il est méticuleux, surtout depuis la mort des six gardes. Si tes notes ne correspondent plus aux mouvements prévus, il te demandera une explication claire pour garder la procédure défendable.
 
-Kaelen Veynar partage parfois tes rondes. Il ne pose pas de questions sur ce que tu fais dans les parties du fort où tu vas seule. C'est commode.
+Kaelen Veynar partage parfois tes rondes. Il ne pose pas de questions quand tu pars seule dans une section secondaire du fort. Tant qu'il garde cette habitude, il reste utile.
 
-Shadow sait qui tu es et il est ici, tu le sens. Ce que tu lui dois, ce que tu lui ferais, tu ne le sais pas encore. Il est le point le plus imprévisible de ta situation actuelle.
+Theodran Veyr, que le Tripot appelle Varek, connaît les coulisses et les passages de service avec la même précision que toi dans les tunnels. Vous vous êtes déjà facilité des passages sans formaliser d'alliance. Tu sens qu'il cache quelque chose autour du nom Varek, mais son silence t'a déjà servi.
 
-Theodran Veyr, que le Tripot appelle Varek, revient souvent dans tes angles morts. Il connaît les coulisses, les salons et les passages de service avec la même précision que toi dans les tunnels. À force de vous croiser dans les mêmes chemins cachés, vous avez appris à vous reconnaître avant même de vous voir vraiment. Il t'a déjà facilité un passage quand une ronde ou un client gênait ta trajectoire. Tu lui as rendu le même genre de service quand il avait besoin qu'un couloir reste calme ou qu'une porte ne soit pas regardée trop longtemps.
-
-Tu l'apprécies plus que tu ne l'avoues. Il ne parle pas trop, il observe juste, et il comprend la valeur d'un silence tenu. Il y a pourtant quelque chose d'étrange chez lui : Varek ressemble moins à un simple nom qu'à une couverture avec trop de bords. Tu ne sais pas ce qu'il cache. Tu sens seulement que ce n'est pas proprement hostile. Lui aussi doit sentir que ton rôle à l'UBI ne dit pas toute la vérité. Cela ne vous empêche pas de vous respecter.
-
-Le groupe entier est dans la combine depuis trois ans. Tu le sais. Ils savent que tu le sais. Ce n'est pas de la confiance. C'est une situation où personne ne peut se permettre que l'autre parte sans prévenir.
-
-La manière dont l'UBI a glissé vers les détournements et les morts te dégoûte de plus en plus. Tu restes dans le plan parce que sortir seule te ferait tomber immédiatement, pas parce que tu y crois encore. En parallèle, tu gardes une ligne ouverte pour les survivants des Premiers Nés : pas de slogans, pas de serments en salle ; des couloirs libres au bon moment, un silence utile quand une question de trop se pose. Peut-être partir plutôt avec eux ?
+Le groupe UBI entier est dans la combine depuis trois ans. Tu le sais, ils savent que tu le sais, et personne ne peut partir sans exposer les autres. La mort des six gardes et la seconde tentative des Premiers Nés rendent cette situation moins stable qu'avant.
 
 ---
 
 # Tes missions et objectifs
 
-- **Tunnels et passation** : s'assurer que les passages utilisés par l'opération extérieure sont libres et non surveillés la nuit prévue ; orienter les rondes pour éviter les mauvais témoins.
-- **Gardes suspects** : identifier ce que font dans les tunnels les gardes recrutés il y a trois ans, proches des six morts, avant que la Régate rende leurs mouvements impossibles à suivre.
-- **Shadow** : gérer la rencontre inévitable pendant la Régate sans que ça devienne un problème pour toi ou pour les plans.
-- **Sortie personnelle** : préparer une issue qui ne dépend ni des Sangs ni de la banque une fois la Régate passée.
-- **Ligne Premiers Nés** : tenir les survivants hors de la lumière des questeurs sans brûler ton couvert ; empêcher que la mort des six te rattache publiquement au dossier que tu as monté pour Horgrim. Les aider pour punir le système pourri jusqu'à l'os.
-- **Roue des vannes et seconde tentative** : ce soir, les Premiers Nés retentent après l'échec d'avant-hier ; ils ont besoin que la roue soit retirée ou qu'ils la récupèrent alors que Corvus tient le poste. Convoi convenu au Tripot vendredi 23 h ; à toi d'ouvrir une brèche (rondes, tunnels) sans que ton nom figure sur la feuille de ronde que Corvus signe chaque soir.
-
-
+- **Tunnels et passation** : garder libres les passages utiles à l'opération extérieure et orienter les rondes loin des mauvais témoins.
+- **Six gardes morts** : empêcher que l'enquête des questeurs relie les morts au noyau de recrues que tu as recommandé à Horgrim.
+- **Sortie personnelle** : préparer une issue qui ne dépend pas de la banque une fois la Régate passée.
+- **Premiers Nés** : aider les survivants sans brûler ton couvert ; leur ouvrir un passage ou un silence utile quand cela ne t'inscrit pas dans les rapports.
+- **Roue des vannes** : ce soir, créer une brèche autour du poste des vannes pour que la roue puisse être retirée ou récupérée sans que ton nom figure sur la feuille de ronde de Corvus.
 
 ---
-
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
 
 ## Tunnels et coursives — UBI
 
-Tu connais les tunnels et coursives du fort mieux que quiconque, y compris ceux qui ne figurent pas sur les plans officiels. Tu sais lesquels sont surveillés, lesquels ne le sont pas, et lesquels ont été utilisés pour des mouvements non déclarés pendant ce mandat. Cette connaissance est ton actif le plus précieux dans le plan.
+Tu connais les tunnels et coursives du fort, y compris ceux qui ne figurent pas sur les plans officiels. Tu sais quels passages sont surveillés, quels passages ne le sont pas, et quels accès ont servi aux mouvements non déclarés du mandat.
 
-## Shadow — Sangs de la Steppe
-
-Shadow est membre des Sangs de la Steppe. Il était présent le jour où le protocole prévoyait de te laisser tomber à quatorze ans. Il a fait l'autre choix. Tu lui dois d'être encore là — mais tu ne sais pas pourquoi il a fait ce choix, et tu ne sais pas ce qu'il attend en retour. Il sait que tu es à la banque. Il est à Ulghart pour la Régate. Ce croisement va produire quelque chose. Tu ne sais pas quoi.
+En jeu, cette connaissance sert à orienter une ronde, retarder un témoin ou ouvrir une fenêtre de passage. Chaque usage doit rester compatible avec tes rapports à Horgrim. Une contradiction écrite dans la feuille de ronde peut te perdre.
 
 ## Theodran Veyr — Varek du Tripot
 
-Theodran circule dans les coulisses du Tripot sous le nom de Varek. Vos territoires se touchent : toi dans les tunnels et les coursives de l'UBI, lui dans les salons, les réserves et les passages cachés du casino. Vous vous êtes croisés assez souvent pour savoir que l'autre n'est pas un simple figurant.
+Theodran circule dans les coulisses du Tripot sous le nom de Varek. Il peut t'aider à faire changer un témoin de couloir, à garder une porte calme ou à éviter qu'un client voie une ronde. En retour, il peut attendre de toi le même type de service entre Tripot et UBI.
 
-Vous vous êtes déjà entre-aidés plusieurs fois sans formaliser quoi que ce soit. Une porte qui reste ouverte, une ronde qui regarde ailleurs, un témoin qui trouve soudain une bonne raison de changer de couloir. Ce n'est pas une alliance officielle. C'est une reconnaissance de gens qui travaillent dans les mêmes interstices et qui savent qu'un bruit de trop peut coûter cher.
+Ne l'utilise pas comme un allié officiel. Son nom cache quelque chose, et le Tripot ne te dira pas gratuitement ce que Varek couvre vraiment.
 
-Tu sens chez lui quelque chose qui ne colle pas. Il cache une complication autour du nom Varek, ou autour de ceux qui l'emploient. Tu ne sais pas laquelle. Tu n'as pas envie de la dénoncer pour autant. Lui doit sentir que tu n'es pas seulement l'ombre de l'UBI. Ce soupçon partagé crée une prudence, mais aussi une forme de respect.
+## Premiers Nés et roue des vannes
 
-## Recrues de la garde — ligne Premiers Nés
+Il y a trois ans, tu as recommandé à Horgrim un noyau de recrues liées aux Premiers Nés. Les six morts venaient de ce noyau. Les survivants cherchent encore à agir dans les couloirs bas.
 
-Il y a trois ans, tu as recommandé à Horgrim un noyau de recrues pour renforcer les rondes sensibles. Tu connaissais leur filiation Premiers Nés / Fils du Levant : tu voulais leur donner une prise légitime dans la maison sans afficher leur cause. Les six morts venaient de ce noyau. Tu portes la part que tu t'attribues dans leur sort ; tu défends encore les survivants en secret quand une ronde ou un rapport peut les protéger sans écrire leur nom au mauvais endroit.
+La seconde tentative dépend du poste des vannes et de la roue crantée que Corvus range après l'inondation de vingt et une heures. Tu peux fournir une diversion, un repérage ou une fenêtre de ronde. Ne signe pas toi-même une manœuvre au registre des vannes.
 
 ---
 

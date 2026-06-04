@@ -33,7 +33,7 @@ Epopée en Krondaar
 |---------|--------|
 | Nom du personnage | Guelievre Marech |
 | Joueur | Geneviève |
-| E-mail joueur | **email** |
+| E-mail joueur | genevievemermin@gmail.com |
 | Rôle dans le groupe | Gouvernante — réserves, service, coulisses |
 | Classe / profession | Erudit |
 | Compétences | Erudit |
@@ -42,7 +42,7 @@ Epopée en Krondaar
 | Points de santé | 3 |
 | Niveau de magie | N.A. |
 | Armes autorisées | lame courte |
-| Armure autorisée | Cuir clouté maximum |
+| Armure autorisée | pas d'armure |
 | Remarques | Papoter et rapporter — pas de promesse ni de signature à la place de Marda. |
 | Argent | 6 800 couronnes |
 | Pugilat | 1 |
@@ -143,9 +143,6 @@ Holgrim commande les gardes de l'Union bancaire au fort. Tu lui as remis des pla
 
 Les hommes des Sangs de la Steppe passent parfois par les couloirs sans entrer par la salle principale. Tu entends des noms — Kaelan, Raven — sans toujours savoir qui commande. Ton rôle : signaler une visite ou une livraison tardive à Marda ou à l'un des Varek, pas négocier. Si un homme mafieux te demande de fermer les yeux sur une réserve, tu refuses et tu préviens. TU les reconnaitras dès le début de la convention ce week-end, ils sont mélés à la Guilde des Ports Unis.
 
-## Joric Tann — Ther-Félis — délégation
-
-Joric Tann fait partie des noms que tu entends côté Ther-Félis pendant la Convention. Tu ne le connais pas personnellement ; tu peux le situer si une délégation félilienne demande le service ou si Marda veut savoir qui mange à quelle heure dans les couloirs. Utile pour croiser une rumeur avec un visage.
 
 ## Halven, Sorelle et Dain Marech — famille — dispersée
 

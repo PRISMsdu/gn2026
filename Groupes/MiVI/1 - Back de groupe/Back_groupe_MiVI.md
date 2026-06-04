@@ -21,7 +21,7 @@ La Guilde des Ports Unis sert de couverture commerciale et logistique au réseau
 
 Le Primat juge les bilans insuffisants depuis environ trois ans. Vous allez exiger des réponses nommées sur trois dossiers.
 
-**Détournement du fer** : opération conçue par vos services, menée avec la Guilde et les Sangs. Sur la route Sfaal–Palyr, le bon minerai devait être substitué en mer : Palyr recevait du fer médiocre, les papiers et le sceau venant d’une complicité à Sfaal. Le bon fer a disparu des suivis ; les versions divergent. Sans responsables identifiés et sans preuves sur le chargement (navire, quai, registres), le reste du mandat ne tient pas.
+**Détournement du fer** : opération conçue par vos services, menée avec la Guilde et les Sangs. Sur le trajet Sfaal–Ther-Félis, le bon minerai devait être substitué en mer : le circuit officiel recevait du fer médiocre, les papiers et le sceau venant d’une complicité à Sfaal. Le bon fer a disparu des suivis ; les versions divergent. Sans responsables identifiés et sans preuves sur le chargement (navire, quai, registres), le reste du mandat ne tient pas.
 
 **Tripot** : les Sangs veulent la mainmise sur le casino du fort d’Ulgarth ; la maison résiste. Marda Velyss, la patronne, tient face à la mafia mieux que prévu — dettes d’élite, appuis politiques ? Les services à Elfrion soupçonnent qu’elle dispose d’appuis hors Confédération : assez solides pour qu’on hésite à la briser trop tôt. Avant de forcer le Tripot ou d’imposer une solution ouverte aux Sangs, comprendre qui soutient Marda et pourquoi la maison tient encore ; ensuite seulement négocier, infiltrer ou presser.
 
@@ -35,7 +35,7 @@ On vous a aussi parlé de papiers dans les coffres UBI et d’une rumeur Arguét
 
 Théven Corvel n’a jamais aimé les salles où l’on parle trop fort. Il a grandi dans le bureau des cartes d’opérations : qui tient quel port, quel sceau dort dans quel tiroir, quels contacts Elfrion entretient avec les réseaux de la mer intérieure. On l’a promu parce qu’il sait quand se taire et quand parler. À quarante-deux ans, il porte le détachement Corvel : il a tenu le dossier fer avant même que la mer ne confirme les doutes ; il sait quelles questions poser quand les autres récitent des excuses.
 
-Ysel Marivent vient des quais, pas des académies. Fils d’arrimeurs et de copistes, il a appris tôt qu’un registre mal signé vaut une flotte mal rangée. Recruté pour son flair sur les doubles livres, il a passé trois ans à apprendre les couloirs de l’UBI par rumeurs et par pièces volées en copie — jamais assez pour se brûler, toujours assez pour savoir où chercher. Il déteste qu’on touche à ce qu’il a mémorisé.
+Ysel Marivent vient des quais, pas des académies. Fille d’arrimeurs et de copistes, elle a appris tôt qu’un registre mal signé vaut une flotte mal rangée. Recrutée pour son flair sur les doubles livres, elle a passé trois ans à apprendre les couloirs de l’UBI par rumeurs et par pièces volées en copie — jamais assez pour se brûler, toujours assez pour savoir où chercher. Elle déteste qu’on touche à ce qu’elle a mémorisé.
 
 Lucan Drest parle cinq langues du Levant avec l’accent qu’il faut pour qu’on lui donne une chaise plutôt qu’une menotte. Ancien interprète pour une maison marchande qui ne lui appartenait pas, il a rejoint le MiVI après une nuit où un mot de trop aurait coûté une cargaison entière — il a choisi le mot juste. Il sait tenir un salon, un quai et une menace dans la même conversation.
 
@@ -59,7 +59,7 @@ Depuis dix-huit mois, vous vous voyez entre les missions rarement, mais avec une
 
 ## IV — Ulgarth vous attend
 
-Vous venez pour exiger des comptes aux chefs des Sangs : fer, Tripot, nomination au conseil de l’UBI. Ordre de priorité : le chargement perdu sur Sfaal–Palyr (sceaux, registres, noms) ; puis le casino ; puis les voix au conseil favorables au rapprochement Arthas / Ther-Félis. Sans résultat sur le fer, Elfrion ne vous écoutera pas sur le reste.
+Vous venez pour exiger des comptes aux chefs des Sangs : fer, Tripot, nomination au conseil de l’UBI. Ordre de priorité : le chargement perdu sur Sfaal–Ther-Félis (sceaux, registres, noms) ; puis le casino ; puis les voix au conseil favorables au rapprochement Arthas / Ther-Félis. Sans résultat sur le fer, Elfrion ne vous écoutera pas sur le reste.
 
 La Convention rassemble les décideurs des cinq cités : régate, renouvellement du conseil de l’UBI, marchés rouverts. Tout se joue en quelques jours.
 
@@ -131,7 +131,7 @@ Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
 | Théven Corvel | Chef de mission | Arbitrage avec Elfrion / le Primat ; dossier fer ; décisions de retrait ou de brûlage | *Joueur* |
-| Ysel Marivent | Officier de renseignement | Coffres, archives, correspondances | *Joueur* |
+| Ysel Marivent | Officière de renseignement | Coffres, archives, correspondances | *Joueur* |
 | Lucan Drest | Négociateur / couverture convention | Régate, routes, salons ; langues | *Joueur* |
 | Varro Selt | Infiltrateur / exécutant | Extraction, neutralisation quand la couverture ne suffit pas | *Joueur* |
 | Miraen Talvas | Couverture Tripot | Accès crédible au casino — codes, flux, salons | *Joueur* |

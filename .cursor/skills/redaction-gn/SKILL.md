@@ -168,8 +168,8 @@ Relire **le document entier**, phrase par phrase **et chapitre par chapitre**, c
 - ❌ *Il décide si on brûle une source ou si on attend.*
 - ✅ *Il décide si on abandonne un informateur ou si on attend le lendemain.*
 
-- ❌ *Liste d'intermédiaires pour enchères d'escales. Pièce AN-III-547-008. Noms utiles : Sera Orist, Jonn Halet, Maison Veth & Roole.*
-- ✅ *Pendant la Convention, les maisons se disputent l'ordre d'accostage et les rabais fret. AN-III-547-008 nomme Sera Orist (Arthas, armateur) : cite-le en commission pour soutenir sa sous-enchère Palyr–Il-Irion. Jonn Halet (Ther-Félis) attribue les quais ; négocie en personne. Maison Veth & Roole sert aux billets différés — seulement si Théven l'ordonne.*
+- ❌ *Liste d'intermédiaires pour enchères d'escales. Noms utiles : Sera Orist, Jonn Halet, Maison Veth & Roole.*
+- ✅ *Pendant la Convention, les maisons se disputent l'ordre d'accostage et les rabais fret. Sera Orist (Arthas, armateur) peut soutenir une sous-enchère Palyr–Il-Irion. Jonn Halet (Ther-Félis) attribue les quais ; négocie en personne. Maison Veth & Roole sert aux billets différés — seulement si Théven l'ordonne.*
 
 Cette passe **s'applique après** les passes 4 à 6. Elle ne remplace pas l'anti-charabia : elle vérifie que le sens reste explicite une fois le style corrigé, **y compris à l'échelle d'un chapitre entier**.
 

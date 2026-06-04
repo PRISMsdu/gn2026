@@ -177,17 +177,6 @@ Tu as travaillé vingt-quatre ans chez un prêteur félilien, de tes seize à te
 
 En 528, la police des fraudes t'a ouvert une enquête pour cautions fictives et détournements sur les livres du prêteur. Tu as fui avant arrestation. Dix-neuf ans plus tard, personne ne t'a repris ; la Convention ramène des officiels et des marchands féliliens à Ulghart. Si quelqu'un pose des questions sur un comptable disparu du port, tu préviens Marda avant de répondre.
 
-## Edorian / conseil sortant UBI — Banque
-
-Bordereaux internes, dix pour cent, honoraires de mandat — pièces comme FC-III-544-001 si la scène le permet.
-
-## Selvara Quenndral — UBI — archives
-
-Registre central — recoupements si scène à la banque.
-
-## Auditeurs du nouveau conseil — Banque
-
-Saisie du registre officiel ; fenêtre étroite pour sortir les preuves de l'officieux.
 
 ---
 

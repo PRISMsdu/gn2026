@@ -130,6 +130,10 @@ Tu coordonnes avec Samvel Rauk, l'autre Varek. Il tient le dehors ; tu tiens le 
 
 # Connaissances
 
+## Réseau des Varek — annexe
+
+Le détail des contacts communs aux deux Varek se trouve dans [Réseau des Varek](Reseau_varek.md). Utilise cette fiche avec Samvel : un nom vu dans les coulisses et revu au quai devient une piste à remonter à Ardan ou à Marda.
+
 ## Samvel Rauk — l'autre Varek
 
 Samvel est le Varek du quai. Il vient des réseaux de piste et des ports, avec un passé styrgien qu'il ne faut pas exposer en salle. Tu ne connais pas tous ses secrets, mais tu sais qu'un officier styrgien qui l'observe trop longtemps devient un danger pour la maison. Si tu vois ce type de regard dans un salon, tu lui fais passer le signal.

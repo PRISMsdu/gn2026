@@ -61,9 +61,9 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 | Payeur | Pièces facturées | Prix facturé |
 |---|---:|---:|
 | Conseil sortant UBI (Il-Irion) | 2 | 10 c |
-| Copie conservée Sangs (Sangs de la Steppe) | 1 | 5 c |
+| Copie conservée hors registre | 1 | 5 c |
 | Lord Edran Thorne (Maison Thorne) | 1 | 5 c |
-| Saisie réseau Sangs (Sangs de la Steppe) | 1 | 1 c |
+| Saisie anonyme | 1 | 1 c |
 
 ### Droits d'enregistrement anonymes
 
@@ -89,9 +89,9 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 |---|---:|---:|
 | Archiviste registre clos (UBI) | 1 | 5 c |
 | Conseil sortant UBI (Il-Irion) | 2 | 10 c |
-| Copie conservée Sangs (Sangs de la Steppe) | 1 | 5 c |
+| Copie conservée hors registre | 1 | 5 c |
 | Lord Edran Thorne (Maison Thorne) | 1 | 5 c |
-| Saisie réseau Sangs (Sangs de la Steppe) | 4 | 16 c |
+| Saisie anonyme | 4 | 16 c |
 
 ### Droits d'enregistrement anonymes
 
@@ -103,9 +103,9 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 
 | Libellé | Valeur |
 |---|---:|
-| Frais annuels reconnus | 41 c |
+| Frais annuels reconnus | 26 c |
 | Droits d'enregistrement anonymes | 0 c |
-| CA documentaire annuel | 41 c |
+| CA documentaire annuel | 26 c |
 
 ---
 
@@ -117,10 +117,10 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 |---|---:|---:|
 | Archiviste registre clos (UBI) | 1 | 5 c |
 | Conseil sortant UBI (Il-Irion) | 2 | 10 c |
-| Copie conservée Sangs (Sangs de la Steppe) | 2 | 6 c |
+| Copie conservée hors registre | 1 | 5 c |
 | Duc Thoren Forgefer (Sfaal) | 1 | 1 c |
 | Lord Edran Thorne (Maison Thorne) | 1 | 5 c |
-| Saisie réseau Sangs (Sangs de la Steppe) | 5 | 21 c |
+| Saisie anonyme | 5 | 21 c |
 | Trésorerie sortante UBI (Il-Irion) | 1 | 1 c |
 
 ### Droits d'enregistrement anonymes
@@ -133,9 +133,9 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 
 | Libellé | Valeur |
 |---|---:|
-| Frais annuels reconnus | 49 c |
+| Frais annuels reconnus | 48 c |
 | Droits d'enregistrement anonymes | 0 c |
-| CA documentaire annuel | 49 c |
+| CA documentaire annuel | 48 c |
 
 ---
 
@@ -147,11 +147,10 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 |---|---:|---:|
 | Archiviste registre clos (UBI) | 1 | 5 c |
 | Conseil sortant UBI (Il-Irion) | 2 | 10 c |
-| Copie conservée Sangs (Sangs de la Steppe) | 3 | 11 c |
-| Copie recensée (archive confédérale) | 1 | 5 c |
+| Copie conservée hors registre | 3 | 11 c |
 | Duc Thoren Forgefer (Sfaal) | 1 | 1 c |
 | Lord Edran Thorne (Maison Thorne) | 1 | 5 c |
-| Saisie réseau Sangs (Sangs de la Steppe) | 6 | 26 c |
+| Saisie anonyme | 6 | 26 c |
 | Seigneur Aldric Ventoss (Il-Irion) | 1 | 1 c |
 | Trésorerie sortante UBI (Il-Irion) | 1 | 1 c |
 
@@ -159,17 +158,15 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 
 | Référence | Criticité | Prix à l'enregistrement |
 |---|---|---:|
-| FA-III-546-003 | III | 10 c |
-| RA-III-546-004 | III | 10 c |
 | CP-III-546-002 | III | 10 c |
 
 ### Clôture comptable 546
 
 | Libellé | Valeur |
 |---|---:|
-| Frais annuels reconnus | 65 c |
-| Droits d'enregistrement anonymes | 30 c |
-| CA documentaire annuel | 95 c |
+| Frais annuels reconnus | 45 c |
+| Droits d'enregistrement anonymes | 10 c |
+| CA documentaire annuel | 55 c |
 
 ---
 
@@ -179,14 +176,14 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 
 | Payeur | Pièces facturées | Prix facturé |
 |---|---:|---:|
-| Archive Sangs (Sangs de la Steppe) | 1 | 5 c |
+| Archive tierce anonyme | 1 | 5 c |
 | Archiviste registre clos (UBI) | 1 | 5 c |
 | Conseil sortant UBI (Il-Irion) | 2 | 10 c |
-| Copie conservée Sangs (Sangs de la Steppe) | 3 | 11 c |
+| Copie conservée hors registre | 3 | 11 c |
 | Copie recensée (archive confédérale) | 4 | 20 c |
 | Duc Thoren Forgefer (Sfaal) | 2 | 2 c |
 | Lord Edran Thorne (Maison Thorne) | 1 | 5 c |
-| Saisie réseau Sangs (Sangs de la Steppe) | 8 | 32 c |
+| Saisie anonyme | 8 | 32 c |
 | Seigneur Aldric Ventoss (Il-Irion) | 1 | 1 c |
 | Trésorerie sortante UBI (Il-Irion) | 1 | 1 c |
 
@@ -194,15 +191,14 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 
 | Référence | Criticité | Prix à l'enregistrement |
 |---|---|---:|
-| FA-III-547-002 | III | 10 c |
 
 ### Clôture comptable 547
 
 | Libellé | Valeur |
 |---|---:|
-| Frais annuels reconnus | 92 c |
-| Droits d'enregistrement anonymes | 10 c |
-| CA documentaire annuel | 102 c |
+| Frais annuels reconnus | 62 c |
+| Droits d'enregistrement anonymes | 0 c |
+| CA documentaire annuel | 62 c |
 
 ---
 
@@ -210,6 +206,6 @@ Registre des frais de garde et des droits d'enregistrement calculés depuis le r
 
 | Libellé | Valeur |
 |---|---:|
-| Total frais annuels reconnus | 283 c |
-| Total droits anonymes à l'enregistrement | 70 c |
-| CA documentaire cumulé | 353 c |
+| Total frais annuels reconnus | 197 c |
+| Total droits anonymes à l'enregistrement | 40 c |
+| CA documentaire cumulé | 237 c |

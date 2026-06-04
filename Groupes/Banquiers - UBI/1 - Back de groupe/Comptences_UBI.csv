@@ -1,7 +1,7 @@
 ﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
-Edorian;Jonathan;**email**;Directeur général;Directeur de banque;"Erudit ; Secourisme";5;100 couronnes
+Edorian;Jonathan;**email**;Directeur général;Directeur de banque;"Erudit ; Secourisme";5;2700 couronnes
 Vaelric Dorn;Paf;**email**;Discréteur;Guerrier;"Transe ; Pugilat (6)";5;100 couronnes
-Ydria Ventoss;Cha;**email**;Trésorière;Trésoriere;"Erudit ; Chirurgie";4;100 couronnes
+Ydria Ventoss;Cha;**email**;Trésorière;Trésoriere;"Erudit ; Chirurgie";4;100 couronnes + 5 000 couronnes détournées
 Selvara Quenndral;Marie;**email**;Archiviste;Archiviste;Erudit;4;100 couronnes
 Horgrim Dval;Taloche;**email**;Chef de la garde;Guerrier;"Pugilat (5) ; Torture";6;100 couronnes
 Melian Torv;Primo;**email**;Conseiller spirituel;Clerc (sapiece);Secourisme;4;100 couronnes

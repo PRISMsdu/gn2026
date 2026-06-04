@@ -18,7 +18,7 @@ Il y a cinq ans, le conseil précédent est arrivé au terme de son mandat sans 
 
 Les **Grandes Familles d'Il-Irion** ont obtenu la nomination d'**Edorian** comme directeur général. Ce n'était pas une surprise pour ceux qui connaissaient le dossier : les familles contrôlaient les votes des délégués d'Il-Irion à la Confédération depuis plusieurs mandats, et Edorian avait la réputation d'un homme capable de faire tourner une institution sans créer de remous. Ce que les familles voulaient, c'était un directeur qui oriente les flux vers leurs comptes sans que les autres cités puissent le prouver.
 
-**Vaelric Dorn** a été placé comme discréteur par les réseaux d'**Arthas**. Arthas a un intérêt particulier à contrôler ce qui sort et ce qui ne sort pas des registres de l'UBI : plusieurs familles marchandes arthasiennes avaient des dossiers sensibles en coffre. Vaelric gère les récits — ce qui circule comme rumeur, ce qui reste dans les couloirs, et les dossiers qui n'ont jamais eu de numéro de registre officiel.
+**Vaelric Dorn** a été placé au recouvrement par les réseaux d'**Arthas**. Arthas a un intérêt particulier à récupérer les créances liées à ses maisons marchandes et à protéger certains dossiers sensibles déposés à l'UBI. Vaelric agit avec des mandats bancaires officiels : il peut convoquer un débiteur, demander une saisie et réquisitionner des gardes locaux quand l'acte le justifie.
 
 **Ydria Ventoss** est la trésorière, nommée sur proposition de **Palyr**. Elle signe les mouvements de lingots, tient la réalité des chiffres. Palyr a une tradition bancaire ancienne et a toujours voulu un siège à l'UBI ; Ydria en est le résultat. Ce que Palyr attendait d'elle, ce que Palyr en a obtenu, ce qu'Ydria a choisi de faire : c'est une autre histoire.
 
@@ -34,7 +34,7 @@ Ce que la version officielle ne dit pas : **Edorian a piloté l'ensemble des nom
 
 Les cinq se sont installés, ont pris leurs marques, et ont commencé à travailler ensemble. Les premiers mois ont été ordinaires : procédures, clients, scellés entrants. Puis les décisions ont commencé à dériver de ce que la charte autorise.
 
-Les **Grandes Familles** attendaient leurs retours. Edorian a commencé à en produire — et à en garder une part pour lui. Vaelric a construit les récits qui permettaient de ne pas tracer ce qui sortait. Ydria a signé les mouvements en comptabilité. Selvara a rédigé les actes qui donnaient une apparence légale aux opérations. Horgrim a maintenu l'accès aux coffres sous contrôle du noyau.
+Les **Grandes Familles** attendaient leurs retours. Edorian a commencé à en produire — et à en garder une part pour lui. Vaelric a utilisé des mandats de recouvrement pour faire bouger débiteurs, escortes et biens saisis. Ydria a signé les mouvements en comptabilité. Selvara a rédigé les actes qui donnaient une apparence légale aux opérations. Horgrim a maintenu l'accès aux coffres sous contrôle du noyau.
 
 **Il y a environ quatre ans**, l'UBI a enregistré des **prêts bilatéraux** avec **Ther-Félis** et **Arthas**, formalisés dans des scellés conservés en coffre. Les taux d'intérêt appliqués ont augmenté par rapport aux taux publics : les cités débitrices paient aujourd'hui plus cher que ce qu'elles avaient anticipé à la signature. Ces scellés sont en coffre. Leur contenu exact et les conditions de renégociation sont connus du conseil.
 
@@ -44,7 +44,7 @@ Dans une institution de cette taille, personne ne traverse cinq ans sans voir qu
 
 **Melian Torv** a servi de caution morale à chaque dépôt que le conseil voulait faire paraître irréprochable. Les familles nobles, les délégations religieuses, les clients que la banque devait impressionner : Melian était là, en robe, avec les bons mots. Il sait depuis combien de temps il prête sa crédibilité à une maison dont les chiffres ne correspondent pas aux actes qu'il a bénis. La passation le concerne autant que les cinq.
 
-**Kaelen Veynar** a passé cinq ans à récupérer ce que la banque était censée récupérer — et parfois ce qu'elle n'était pas censée demander. Il a fait rentrer de l'argent que personne d'autre ne voulait aller chercher, dans des conditions que personne d'autre ne voulait s'expliquer. Il sait où sont les dossiers des familles nobles, ce qu'elles ont mis en gage, et ce que coûterait leur exposition. Un auditeur qui remonte ses interventions du mandat trouvera des mouvements sans trace officielle et des accords verbaux que personne ne pourra nier avoir honorés. Il le sait mieux que quiconque.
+**Kaelen Veynar** a passé cinq ans à accompagner les opérations sensibles de la banque. Quand un mandat, une escorte ou une saisie exigeait une présence armée, il était là. Il sait où sont les dossiers des familles nobles, ce qu'elles ont mis en gage, et ce que coûterait leur exposition. Un auditeur qui remonte ses interventions du mandat trouvera des mouvements sans trace officielle et des accords verbaux que personne ne pourra nier avoir honorés. Il le sait mieux que quiconque.
 
 **Sybrel Dornik** a passé cinq ans à surveiller des tunnels, à suivre des gens, à remettre des rapports. Elle n'a pas toujours su à qui profitaient ses informations, mais elle a compris assez tôt que ce fort n'était pas ordinaire. Quand le nouveau conseil arrivera et ouvrira les dossiers de surveillance interne, son nom figure dans les rapports qu'elle a elle-même rédigés.
 
@@ -58,7 +58,7 @@ Dans une institution de cette taille, personne ne traverse cinq ans sans voir qu
 
 Ce que la passation doit couvrir, c'est une sortie organisée : de l'or, des documents compromettants et des preuves qui ne doivent pas tomber dans les mains des auditeurs ni du conseil entrant. Cette sortie est planifiée pour coïncider avec la Régate — le seul moment où le fort est suffisamment occupé, les regards suffisamment dispersés, et les procédures officielles suffisamment chargées pour que des mouvements passent sans être tracés immédiatement.
 
-Le problème, c'est que tout le monde dans cette maison est maintenant dedans. Pas nécessairement au même niveau, pas avec la même information, pas avec les mêmes ordres — mais dedans. **Kaelen** récupère ce qu'on lui dit de récupérer. **Sybrel** surveille ceux qu'on lui demande de surveiller. **Corvus** ouvre les salles selon les procédures que le conseil a validées. **Melian** signe les actes que Selvara rédige. Personne ne peut prétendre n'avoir rien fait.
+Le problème, c'est que tout le monde dans cette maison est maintenant dedans. Pas nécessairement au même niveau, pas avec la même information, pas avec les mêmes ordres — mais dedans. **Kaelen** tient les escortes sensibles. **Sybrel** garde les passages utiles. **Corvus** ouvre les salles selon les procédures que le conseil a validées. **Melian** signe les actes que Selvara rédige. Personne ne peut prétendre n'avoir rien fait.
 
 Et personne ne peut se retirer. Un auditeur qui démarre son travail maintenant trouve cinq ans de registres qui ne tiennent pas ensemble. Il trouve six gardes morts sans explication assemblée. Il trouve des prêts dont les taux réels ne correspondent pas aux taux déclarés aux cités débitrices. Il trouve les traces d'un casino qui a brassé plus d'argent que ses entrées légales ne l'expliquent. Chacun dans cette maison a son nom quelque part dans ce qu'un audit remonterait.
 
@@ -66,9 +66,9 @@ Et personne ne peut se retirer. Un auditeur qui démarre son travail maintenant 
 
 **Horgrim** supervise en parallèle une procédure interne sur la mort de **six anciens gardes** au cours du mandat. La procédure est ouverte. Elle n'a pas encore de conclusions. Si elle en trouve, ça concerne la garde — et par la garde, ça remonte. Par contre c'est chaud, le conseil des Oblats a demandé l'intervention d'un Questeur. Les Questeurs, ce ne sont pas des gens cools. Entre inquisiteur et paladin, il risque de pousser son enquête un peu trop loin... 
 
-Depuis trois ans, le cercle s'est élargi. Les cinq membres du conseil ne sont plus les seuls à être dans la combine : **Melian**, **Kaelen**, **Sybrel** et **Corvus** ont chacun été intégrés progressivement — par nécessité, par pression, ou parce qu'ils ont vu assez pour qu'on ne puisse plus les laisser à l'extérieur. Aujourd'hui, l'ensemble du groupe UBI est dedans. Personne n'est neutre. Personne ne peut se retirer en prétendant n'avoir rien fait.
+Depuis trois ans, le cercle s'est élargi. Les cinq membres du conseil ne sont plus les seuls à être dans la combine : **Melian**, **Kaelen**, **Sybrel** et **Corvus** ont chacun été intégrés progressivement — par nécessité, par confiance construite, ou parce que leur poste était indispensable au plan. Aujourd'hui, l'ensemble du groupe UBI est dedans. Personne n'est neutre. Chacun sait que sa propre sortie dépend du sérieux des autres.
 
-Le plan d'Edorian tient si tout le monde joue son rôle jusqu'au bout. Il ne tient pas si une procédure s'emballe ou si quelqu'un dans la maison décide que sa propre sortie passe par une coopération avec le conseil entrant. C'est là que vous en êtes.
+Le plan d'Edorian tient si tout le monde joue son rôle jusqu'au bout. Il ne tient pas si une procédure s'emballe, si un audit arrive trop tôt ou si une pression extérieure isole l'un de vous. C'est là que vous en êtes : une équipe compromise ensemble, donc obligée de sortir ensemble.
 
 ---
 
@@ -78,7 +78,7 @@ Le plan d'Edorian tient si tout le monde joue son rôle jusqu'au bout. Il ne tie
 - **Tenir chaque poste jusqu'au bout** : le plan ne fonctionne que si la garde, les coffres, les registres et la façade morale restent opérationnels et crédibles jusqu'à fin de la Régate.
 - **Contenir les pressions extérieures** — les familles, Palyr, le conseil entrant — sans céder de preuves, sans déclencher de procédure, sans que l'une de ces factions obtienne ce qu'elle cherche avant le bon moment.
 - **Gérer Marda Velyss** : elle sait ce qu'elle a géré au Tripot. Elle doit soit partir avec vous, soit être neutralisée autrement avant la passation.
-- **Ne pas se trahir entre vous** : le seul scénario catastrophe qui n'est pas récupérable, c'est qu'un membre de la maison choisisse de coopérer avec le conseil entrant ou les auditeurs. Chacun le sait. Chacun surveille les autres.
+- **Rester soudés** : le seul scénario catastrophe qui n'est pas récupérable, c'est qu'un audit ou une pression extérieure isole l'un de vous avant la sortie. Chacun doit couvrir son poste et soutenir les autres jusqu'à la fin de la Régate.
 
 ---
 
@@ -87,12 +87,12 @@ Le plan d'Edorian tient si tout le monde joue son rôle jusqu'au bout. Il ne tie
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
 | Edorian | Directeur général | Face publique, cités, familles, arbitrage de crise | Jonathan |
-| Vaelric Dorn | Discréteur | Image, rumeurs, dossiers hors registre | Paf |
+| Vaelric Dorn | Recouvreur mandaté | Mandats, mauvais payeurs, réquisitions | Paf |
 | Ydria Ventoss | Trésorière | Or, flux, mouvements de lingots | Cha |
 | Selvara Quenndral | Archiviste & juridique | Registres, scellés inter-cités, défenses légales |Marie? |
 | Horgrim Dval | Chef de la garde | Accès, procédures, souterrains | Taloche? |
 | Melian Torv | Conseiller spirituel | Présence morale, actes officiels, contacts extérieurs |Alexandre|
-| Kaelen Veynar | Exécuteur de contrats | Recouvrement, réseau d'influence, pression sur débiteurs | Primo|
+| Kaelen Veynar | Exécuteur de contrats | Appui armé, escortes sensibles, pression sur débiteurs | Primo|
 | Sybrel Dornik | Ombre | Surveillance interne, tunnels, coursives | Chloé |
 | Corvus | Gardien de coffres | Clés, combinaisons, procédures d'accès | Louis |
 

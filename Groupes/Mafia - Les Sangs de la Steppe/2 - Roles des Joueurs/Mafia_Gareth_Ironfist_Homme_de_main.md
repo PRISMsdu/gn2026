@@ -43,7 +43,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Couverture visible : Maître des Chantiers navals dans la Guilde des Ports Unis ; escorte sur quai, remises et parlements sensibles. Signe habituel : bérêt écossais vert à pompon. |
+| Remarques | Couverture visible : Maître des Chantiers navals dans la Guilde des Ports Unis ; escorte sur quai, remises et parlements sensibles. Signe habituel : béret écossais vert à pompon. |
 | Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
@@ -53,7 +53,7 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Violent quand il le faut, loyal, protecteur avec les siens. |
 | Valeurs | La famille criminelle avant le marchand qui paie une fois ; les puissants qui écrasent les autres comme cibles légitimes. |
-| Peur | Qu'un compagnon vende le groupe ; que la délégation d'Arthas relie ton bérêt à un mort que tu n'aurais pas dû faire. |
+| Peur | Qu'un compagnon vende le groupe ; que la délégation d'Arthas relie ton béret à un mort que tu n'aurais pas dû faire. |
 | Rêve | Partir avec une retraite payée et sans ton nom sur un avis de recherche d'Arthas. |
 
 ---
@@ -80,25 +80,25 @@ Drask Bloodmoon te fournit poisons, sédatifs et antidotes selon la mission. Sha
 
 ## Il y a treize ans — Corven Halst (mission ratée)
 
-Recouvrement standard sur Il-Irion : Corven Halst, négociant en métaux, refusait une créance. Tu es passé par la cour de service ; au couloir, le garde du corps a tué le premier des tiens, puis vous vous êtes affrontés. Tu lui as ouvert le flanc et lacéré la main droite ; il t'a neutralisé, mais tu es sorti vivant, le bérêt au crâne. Le troisième a atteint le bureau : Corven est mort, contrat sur la poitrine. Pour Kaelan, la créance est soldée. Toi, tu sais qu'un garde a survécu avec une vilaine cicatrice à la main droite — tu ne l'as jamais revu depuis et tu ignores où il se trouve, si ce n'est qu'un homme de main au Tripot aurait. comme de par le plus pur des hasards de mes deux, une vilaine cicatrice à la main droite.
+Recouvrement standard sur Il-Irion : Corven Halst, négociant en métaux, refusait une créance. Tu es passé par la cour de service ; au couloir, le garde du corps a tué le premier des tiens, puis vous vous êtes affrontés. Tu lui as ouvert le flanc et lacéré la main droite ; il t'a neutralisé, mais tu es sorti vivant, le béret au crâne. Le troisième a atteint le bureau : Corven est mort, contrat sur la poitrine. Pour Kaelan, la créance est soldée. Toi, tu sais qu'un garde a survécu avec une cicatrice profonde à la main droite. Tu ne connais pas son nom actuel ; si tu croises cette cicatrice à Ulghart, préviens Vorak avant d'agir.
 
 ## Travail actuel — muscle et escorte
 
-Tu protèges les cinq autres cadres lors des rencontres à risque. Tu fais plier les récalcitrants quand l'intimidation suffit, et tu portes la lame quand Kaelan ou Vorak l'ordonnent. Tu escortes Raven sur le quai quand des sacs d'or sont en jeu, pour éviter qu'ils disparaissent en mer ou dans une auberge.
+Tu protèges les cinq autres cadres lors des rencontres à risque. Tu fais plier les récalcitrants quand l'intimidation suffit, et tu portes la lame quand Kaelan ou Vorak l'ordonnent. Tu escortes Raven sur le quai quand les pirates apportent ou réclament des sacs d'or, pour éviter qu'ils disparaissent en mer ou dans une auberge.
 
 Tu entretiens un carnet de gardiens corrompus à Ulghart et sur les autres places. Tu les paies pour une heure de garde fermée ou pour ouvrir une porte, sans jamais leur révéler le nom du réseau ni le contenu des sacs qu'ils laissent passer.
 
-## Deux erreurs — oblat d'Arthas et bérêt
+## Deux erreurs — oblat d'Arthas et béret
 
 Il y a quelques mois, tu as exécuté une intervention mal cadrée : mauvaise cible identifiée, mauvais couloir d'approche. Tu as tué par erreur un oblat d'Arthas qui n'était pas sur la liste. Kaelan n'avait pas donné cet ordre.
 
-Tu es sorti sans ton bérêt écossais vert à pompon. Il est resté sur les lieux. Tu es le seul dans la maison à savoir que tu l'as perdu là et que tu es l'auteur du coup.
+Tu es sorti sans ton béret écossais vert à pompon. Il est resté sur les lieux. Tu es le seul dans la maison à savoir que tu l'as perdu là et que tu es l'auteur du coup.
 
-La délégation d'Arthas détient désormais le bérêt et cherche son propriétaire. Raven t'observe depuis votre arrivée à Ulghart. Il n'a pas encore de preuve, seulement ton stress visible et les rumeurs rapportées par ses informateurs d'Arthas.
+La délégation d'Arthas détient désormais le béret et cherche son propriétaire. Raven t'observe depuis votre arrivée à Ulghart. Il n'a pas encore de preuve, seulement ton stress visible et les rumeurs rapportées par ses informateurs d'Arthas.
 
 ## Ulghart — Régate
 
-La Convention réunit ce week-end les délégations, les équipages de la Régate et les milices des cités. Ton travail : tenir la sécurité des cinq cadres, escorter les remises sensibles (l'or des pirates en priorité), et couper la piste du bérêt avant que la délégation d'Arthas ne te désigne devant la Guilde ou devant un délégué confédéral.
+La Convention réunit ce week-end les délégations, les équipages de la Régate et les milices des cités. Ton travail : tenir la sécurité des cinq cadres, escorter les remises sensibles avec les pirates, et couper la piste du béret avant que la délégation d'Arthas ne te désigne devant la Guilde ou devant un délégué confédéral.
 
 ---
 
@@ -112,14 +112,14 @@ Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kae
 
 - Maintenir la sécurité des cadres et des opérations sensibles sur le fort et les quais.
 - Régler témoins et rivaux selon consigne — sans bruit inutile quand le silence est l'ordre.
-- Escorter les remises d'or et les parlements où Raven ou Kaelan portent des sacs ou des papiers.
-- Récupérer ou détruire le bérêt, ou couper la piste avant qu'Arthas n'identifie le propriétaire.
+- Escorter les paiements et les parlements où Raven ou Kaelan portent des sacs ou des papiers.
+- Récupérer ou détruire le béret, ou couper la piste avant qu'Arthas n'identifie le propriétaire.
 - Empêcher que l'affaire de l'oblat n'éclate au mauvais moment (MiVI, délégations, Régate).
 
 ## Informations sensibles
 
 - Si tes méthodes (gardes payés, intimidations physiques, exécutions) sont exposées en public, c'est ton nom qui apparaîtra sur l'avis de recherche, avant celui des autres cadres.
-- Kaelan et le MiVI sanctionneraient aussi durement une négligence (bérêt perdu, témoin laissé en vie par erreur) qu'un meurtre non ordonné.
+- Kaelan et le MiVI sanctionneraient aussi durement une négligence (béret perdu, témoin laissé en vie par erreur) qu'un meurtre non ordonné.
 
 ---
 
@@ -127,39 +127,41 @@ Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kae
 
 ## Korran Vesper — Pirates d'Albar
 
-Pour les remises au quai, tu portes parfois la marque MQ-II-547-004 : tissu plié, trois barres dont celle du milieu est brisée, encre indigo. Tu la montres au second poste de garde côté terre — pas au même homme que la semaine précédente. Ce n'est pas le billet maritime que détient Kaelan ; c'est ton signe sans papier traçable quand Raven négocie l'or.
+Korran Vesper mène l'équipage qui a exécuté l'abordage, le transbordement et la vente du fer à Aquiléa. Les pirates ont déjà reçu cinq mille couronnes d'avance. Pendant la Convention, ils doivent apporter vingt mille couronnes aux Sangs, puis recevoir les cinq mille couronnes restantes après comptage. Kaelan garde le billet interne dans les papiers du groupe. Ce billet n'est pas enregistré à l'UBI. Sur le quai, ton rôle est d'escorter Raven, de tenir les curieux à distance et de protéger les sacs pendant le comptage.
+
+Pour les remises sans papier, tu peux porter une marque de quai : tissu plié, trois barres dont celle du milieu est brisée, encre indigo. Tu la montres au second poste de garde côté terre, pas deux fois au même homme. Cette marque sert à passer un contrôle de quai ; elle ne prouve rien si la milice la saisit seule.
+
+## Fer Sfaal-Ther-Félis — transport et substitution
+
+Les Sangs ont organisé la substitution du fer sur la ligne Sfaal-Palyr : le bon fer a été remplacé en mer par du fer médiocre, puis vendu à Aquiléa hors du circuit officiel. Tu connais le principe de l'opération parce qu'elle engage tout le groupe. Tu n'es pas l'homme des sceaux ni des papiers. Ton rôle est la protection physique des paiements, des témoins et des sacs.
+
+Le contrat SE-II-546-008 donne la couverture publique : Ther-Félis sous-traite à la Guilde des Ports Unis le transport maritime du fer sur le trajet Sfaal-Ther-Félis, première étape du transit prévu vers Palyr. Raven le porte comme Maître des routes. Si un capitaine, un docker ou un garde de quai parle trop de ce transport, tu peux l'intimider ou l'écarter sur ordre de Vorak ou Kaelan.
+
+Par contre, personne n'en parle, mais cette histoire de détournement met la lumière sur la Guilde...
+
+## Sceau de Sfaal — graveur Silas
+
+La pièce CP-III-546-002 concerne la copie du sceau officiel de Sfaal utilisé sur les lots de fer. Elle touche la préparation de l'opération de substitution des Sangs. Shadow et Raven traitent les documents ; toi, tu peux seulement récupérer un témoin, fermer un atelier ou empêcher un porteur de remettre une copie à la mauvaise personne.
+
+Si le nom de Silas le Graveur apparaît pendant la Convention, remonte à Vorak avant d'agir. Un coup visible contre un artisan d'Il-Irion peut attirer l'UBI, Sfaal ou Palyr sur le dossier du fer.
+
 
 ## Garde de Corven Halst — Il-Irion (survivant)
 
-Il y a treize ans, lors du recouvrement Halst, tu lui as laissé une cicatrice profonde à la main droite. S'il est encore en vie, il la porte encore. Reconnaissance possible : sa main.
+Il y a treize ans, lors du recouvrement Halst, tu as laissé au garde du corps une cicatrice profonde à la main droite. S'il est encore en vie, il la porte encore. Si tu reconnais cette main à Ulghart, ne règle pas l'affaire en salle : préviens Vorak, puis isole l'homme hors public si l'ordre tombe.
 
 ## Marda Velyss — Tripot (fort d'Ulghart)
 
-Marda tient le casino du fort d'Ulghart. Vous avez une dette de jeu réciproque, non écrite : tu lui dois une soirée de mise perdue, elle te doit un passage libre par un couloir privé quand la salle principale est saturée. Tu peux lui rappeler la dette pour faire entrer un homme du réseau sans contrôle ou éviter une fouille de la milice ; elle peut te la rappeler dans l'autre sens. C'est un levier oral, distinct de la reconnaissance écrite RD-III-543-002 que conserve Kaelan.
+Marda tient le casino du fort d'Ulghart. Kaelan n'a pas de reconnaissance écrite contre elle : si les Sangs font pression sur le Tripot, ce sera par les flux, les salles privées, les dettes d'autres clients ou la sécurité des couloirs. Ton rôle reste physique : escorter Raven ou Kaelan, contrôler un couloir ou empêcher la milice d'interrompre la scène.
 
-## Maître Halwen Rask — Staal (imprimerie)
-
-Tu connais l'adresse de l'imprimerie de Halwen à Staal et les hommes qui y dorment la nuit. Kaelan décide de la circulation de la feuille CC-III-544-002. Si l'ordre tombe, tu peux intercepter un porteur sortant de l'imprimerie pour récupérer les exemplaires, ou le frapper pour qu'il abandonne la livraison.
-
-## Garde prévôtal — Ulghart (nom selon scène)
-
-Tu as une dette de jeu envers un garde de la prévôté ou de la ville : levier sans papier. Pas d'amitié : un paiement pour une porte ou un délai.
-
-## Edorian — UBI (direction)
-
-Tu as entendu parler d'une piste CP-III-546-002 sur graveur et sceau de Sfaal, liée aux rumeurs sur le fer. Tu n'as pas le bordereau FC-III-544-001 du chef. Si un homme de main d'Edorian te provoque au quai, tu remontes à Vorak avant d'agir seul.
-
-## Dame Ydria Ventoss — UBI (trésorière)
-
-Le contrat DE-II-546-001 lie une dette Il-Irion–Palyr aux noms Ventoss et Forgefer. Tu ne le portes pas sur toi : tu sais quels quais et quels convois sont sensibles si on te demande de presser un débiteur nommé dans cette ligne.
 
 ## Cyrion Valdris — Il-Irion (Maison Valdris)
 
-La pièce CP-III-543-001 concerne des surtaxes portuaires sur la maison Valdris. Si Cyrion est au fort, tu peux intimider un porteur de message ou escorter quelqu'un qui veut lui montrer une copie — seulement sur ordre de Kaelan.
+La pièce CP-III-543-001 concerne des surtaxes portuaires liées à la maison Valdris. Cyrion Valdris porte aujourd'hui la voix d'Il-Irion à la Convention. Si Kaelan veut montrer une copie pour obtenir un vote ou un silence, ton rôle est d'escorter le porteur, tenir la porte et empêcher un témoin de partir avec le document.
 
-## Délégation Arthas — oblat et bérêt
+## Délégation Arthas — oblat et béret
 
-Un bérêt vert à pompon a été retrouvé près d'un incident mortel. Arthas cherche le propriétaire. Tu sais que c'est le tien ; personne d'autre au groupe ne doit l'apprendre par ta bouche tant que tu n'as pas réglé la chose ou confessé à Kaelan seul.
+Un béret vert à pompon a été retrouvé près de l'oblat d'Arthas que tu as tué par erreur. Arthas cherche le propriétaire. Tu sais que c'est le tien. Personne d'autre dans le groupe ne doit l'apprendre par ta bouche tant que tu n'as pas récupéré le béret, détruit la piste ou confessé l'affaire à Kaelan seul.
 
 ---
 

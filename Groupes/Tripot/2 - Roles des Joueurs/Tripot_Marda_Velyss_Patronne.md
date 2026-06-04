@@ -201,7 +201,9 @@ Joric Tann, Ther-Félis, joue et emprunte des rumeurs ; relation utile tant qu'i
 
 ## Edorian et la direction UBI
 
-Edorian est intouchable au sens où il compte pour les familles riches d'Il-Irion : parenté lointaine, alliances de dettes, secrets qu'il garde et qu'il menace de sortir. Le frapper ouvertement ferait retomber la colère sur le Tripot avant qu'elle ne l'atteigne. C'est pour cela que tu as longtemps tenu le récit d'otage devant ton équipe plutôt que celui d'une guerre directe contre le directeur.
+Edorian compte encore pour plusieurs familles riches d'Il-Irion. Il a des parentés lointaines, des alliances de dettes et des secrets qu'il menace de sortir si on l'attaque. Le frapper ouvertement exposerait le Tripot avant de le mettre réellement en danger.
+
+Pour cette raison, tu as longtemps présenté la situation à ton équipe comme une prise d'otage par la banque. Tu n'as pas parlé d'une guerre directe contre Edorian. Cette version protège le Tripot et te garde une possibilité de négocier les quinze pour cent que tu réclames.
 
 ## Rédempteurs
 
@@ -209,21 +211,27 @@ Tu es toujours Exécutrice sur l'île d'Ulghart : les douze assassins te répond
 
 Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas : c'est le total reversé à MV, soit trente pour cent des mandats depuis 540. Elle vient de tes années comme Exécutrice : parts sur les mandats propres, honoraires de coordination, prélèvements sur les douze assassins rattachés à l'île, et quelques affaires que tu as traitées toi-même quand la cible touchait trop près au Tripot. Elle est séparée du paiement VIP UBI : autre caisse, autres carnets, autres risques.
 
-La guilde t'a rappelé plusieurs fois la consigne si la place devient trop dangereuse : tu libères le casino. Elle le reprendra d'une façon ou d'une autre — autre façade, autre contrat, autre nom sur la porte. Toi, tu quittes le titre d'Exécutrice et tu acceptes une retraite bien méritée. Dans leur langage, cela veut souvent dire peu d'années devant toi, pas un port tranquille. Tu préfères encore tenir Ulghart tant que l'arriéré banque et le nom du payeur de Therne ne sont pas réglés.
+Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas. Ce montant correspond au total reversé à MV, soit trente pour cent des mandats depuis 540. Il vient de tes années comme Exécutrice : parts sur les mandats propres, honoraires de coordination, prélèvements sur les douze assassins de l'île et affaires traitées toi-même quand la cible touchait trop près au Tripot. Cette réserve est séparée du paiement VIP UBI : autre caisse, autres carnets, autres risques.
+
+La guilde t'a rappelé plusieurs fois la consigne si Ulghart devient trop dangereux : tu dois libérer le casino. Elle le reprendra par une autre façade, un autre contrat ou un autre nom sur la porte. De ton côté, tu quitterais le titre d'Exécutrice et tu accepterais une retraite. Dans leur langage, cette retraite veut souvent dire peu d'années devant toi, pas un port tranquille. Tu préfères tenir Ulghart tant que l'arriéré de la banque et le nom du payeur de Therne ne sont pas réglés.
 
 ## Kaelan, Raven et les Sangs
 
-Kaelan Thormane et Raven portent la pression du quai et de la Guilde des Ports Unis. Leur réseau remonte depuis Il-Irion ; aujourd'hui il veut commission, regard sur les caisses ou un accord qui te lie avant la Régate. Tu refuses de livrer le fonds de commerce. Leurs visites en salle ont été courtes et directes ; le poids vient surtout des relais qu'ils laissent autour du fort.
+Kaelan Thormane et Raven portent la pression du quai et de la Guilde des Ports Unis. Leur réseau remonte depuis Il-Irion. Aujourd'hui, il veut une commission, un droit de regard sur les caisses ou un accord qui te lie avant la Régate.
 
-Garrick Halvaren, côté Il-Irion, s'oppose à l'extorsion mafieuse contre les patriciens. Tu as entendu son nom ; il ne connaît pas le tien. Un rendez-vous pourrait t'aider sans lier le Tripot à une maison précise.
+Tu refuses de leur livrer le fonds de commerce. Leurs visites en salle ont été courtes et directes. Le vrai danger vient surtout des relais qu'ils laissent autour du fort.
+
+Garrick Halvaren travaille côté Il-Irion contre l'extorsion mafieuse qui vise les patriciens. Tu as entendu son nom, mais il ne connaît pas le tien. Un rendez-vous avec lui pourrait t'aider sans lier le Tripot à une maison précise.
 
 ## Palyr
 
-Des négociateurs palyriens ont parlé de navire et de cachette d'or. Corvyn Valdrak, lui, veut te voir perdre le casino pour protéger Saevar du jeu. Tu dois séparer les alliés possibles des adversaires dans la même délégation.
+Des négociateurs palyriens ont parlé de navire et de cachette d'or. Ces sujets peuvent servir à organiser un départ, un transport ou une garantie.
+
+Corvyn Valdrak, lui, veut te voir perdre le casino pour protéger Saevar du jeu. Dans la délégation Palyr, tu dois donc distinguer les alliés possibles des adversaires.
 
 ## Styrgie
 
-La délégation styrgienne à la Convention suit les flux d'or et les alliances entre cités. Ton casino attire des capitaines et des officiers qui parlent aussi à leurs ambassadeurs. Tu sais que la Styrgie n'aime pas une maison qui refuse de négocier.
+La délégation styrgienne à la Convention suit les flux d'or et les alliances entre cités. Ton casino attire des capitaines et des officiers qui parlent aussi à leurs ambassadeurs. La Styrgie n'aime pas les maisons qui refusent de négocier.
 
 Si un émissaire styrgien te contacte, il proposera sans doute protection ou neutralité en échange d'un geste public ou d'une information sur la banque, les coffres ou les délégations rivales. Tu peux refuser. Tu peux temporiser. Tu peux accepter un rendez-vous pour voir ce qu'ils offrent, sans rien signer sur-le-champ.
 
@@ -231,17 +239,14 @@ Tu n'es pas styrgienne. Edorian le sait quand il menace de te « dénoncer » à
 
 ## Banque : gardes et Holgrim
 
-Holgrim Dval commande les gardes de la banque. Tes plaintes sur dégradations et gardes suspects n'ont pas été suivies. Les six morts compliquent sa procédure interne ; il te voit comme gênante.
+Holgrim Dval commande les gardes de la banque. Tes plaintes sur les dégradations et les gardes suspects n'ont pas été suivies. Les six morts compliquent sa procédure interne. Il te voit comme une personne gênante, pas comme une plaignante à aider.
 
-## Ther-Félis et autres
-
-Joric Tann fréquente les tables ; dettes et rumeurs échangées selon les soirées.
-
-Calis Aedris observe les flux du Tripot pour la maison Aedris : pas d'alliance ouverte, mais intérêt à ce que le casino ne devienne pas un scandale public contre Il-Irion avant la Régate.
 
 ## Annexe — les douze du réseau (Il-Irion)
 
-Sous ton mandat d'Exécutrice, la guilde te confie douze assassins rattachés à l'île d'Ulghart. La plupart viennent du port d'Il-Irion ou y repassent encore pour les contrats. Tu les connais par leur nom, leur spécialité, et la façon dont ils entrent ou sortent du fort sans attirer la garnison. L'équipe du Tripot ignore leurs visages ; seul toi (et parfois l'un des Varek, de loin) croises leurs passages.
+Sous ton mandat d'Exécutrice, la guilde te confie douze assassins rattachés à l'île d'Ulghart. La plupart viennent du port d'Il-Irion ou y repassent encore pour les contrats. Tu connais leur nom, leur spécialité et leur manière d'entrer ou de sortir du fort sans attirer la garnison.
+
+L'équipe du Tripot ignore leurs visages. Seule toi les croises vraiment. L'un des Varek a parfois aperçu un passage de loin, sans connaître toute l'organisation.
 
 | Nom | Spécialité d'intervention |
 |-----|---------------------------|
@@ -258,7 +263,7 @@ Sous ton mandat d'Exécutrice, la guilde te confie douze assassins rattachés à
 | Tavian Doublevis | Déguisement, doublure, remplacement court |
 | Corvin Marquéheure | Filature, horaires, repérage des cibles |
 
-Tu ne mandats quasiment que des cibles « propres », au sens de la guilde. Pour les petites mains de la mafia, tu envoies surtout signaux, blessures ou peur — Maréflot, Gorgefil, Lamecourt — sans ouvrir une guerre de chefs en plein Tripot.
+Tu mandates presque uniquement des cibles « propres ». Pour les petites mains de la mafia, tu utilises surtout Maréflot, Gorgefil ou Lamecourt pour envoyer un signal, blesser ou faire peur. Tu évites d'ouvrir une guerre de chefs en plein Tripot.
 
 ---
 

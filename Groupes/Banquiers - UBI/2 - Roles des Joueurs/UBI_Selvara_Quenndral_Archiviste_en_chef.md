@@ -84,19 +84,19 @@ Sfaal veut un siège à l'UBI. Edorian aide Sfaal à choisir son candidat. Ton d
 
 Tu acceptes. Pas seulement pour la place dans le plan. Parce que falsifier des registres pour une banque centrale de la Confédération, c'est un capital d'une autre nature. Ce que tu saurais et aurais fait, si ça sortait, te détruirait. Mais ça détruirait aussi tout le monde au-dessus de toi. C'est une protection mutuelle qui fonctionne tant que tout le monde reste dans le plan.
 
-Il y a cinq ans tu prends le poste d'archiviste en chef. Depuis le premier jour tu tiens deux séries de registres. La série officielle, propre, cohérente, que tu peux montrer à n'importe quel auditeur ordinaire. La série interne, que tu es la seule à connaître dans son intégralité, et qui enregistre ce que la série officielle couvre.
+Il y a cinq ans tu prends le poste d'archiviste en chef. Depuis le premier jour tu tiens deux séries de registres. La première est officielle, propre et cohérente. La seconde garde la correspondance réelle entre actes, dépôts et mouvements hors registre. Tu es la seule à en connaître l'ensemble.
 
 ## Chapitre IV : Les défis actuels
 
-Le mandat se termine. La passation va amener un nouveau conseil et un inventaire des registres. L'inventaire officiel trouvera des registres propres. C'est le travail des trois dernières années. Mais un auditeur qui connaît les méthodes et qui prend le temps peut trouver des incohérences de dates, des actes dont les numéros ne correspondent pas aux séquences chronologiques, des sceaux dont l'encre ne correspond pas à la période déclarée.
+Le mandat se termine. La passation va amener un nouveau conseil et un inventaire des registres. L'inventaire officiel doit trouver des livres propres. Un auditeur ordinaire peut les accepter. Un auditeur patient peut trouver des incohérences de dates, des numéros d'actes mal alignés ou des sceaux dont l'encre ne correspond pas à la période déclarée.
 
 Ydria a aligné les mouvements d'or sur tes actes. Melian a signé des bénédictions sur des dépôts dont les valeurs déclarées ne correspondaient pas aux valeurs réelles. Ces deux fils remontent vers toi si quelqu'un tire dessus. Tu dois t'assurer que la passation se fasse sans inspection approfondie des archives.
 
-Tu as préparé une sortie personnelle. Pas seulement dans le plan d'Edorian. Tu gardes des copies des documents les plus compromettants pour toi seule. Ces copies sont ta garantie personnelle si quelqu'un du noyau décide de te laisser seule face aux auditeurs.
+Tu as préparé une sortie personnelle en dehors du plan d'Edorian. Les copies que tu gardes pour toi peuvent acheter une protection si le noyau tente de te laisser seule face aux auditeurs.
 
 ## Chapitre V : Le réseau et les relations
 
-Edorian et toi avez une relation de dépendance mutuelle. Il a besoin que tes registres tiennent. Tu as besoin que son plan fonctionne pour partir. Aucun des deux ne peut trahir l'autre sans se détruire en même temps. C'est fonctionnel.
+Edorian a besoin que tes registres tiennent jusqu'à la passation. Tu as besoin que son plan fonctionne assez longtemps pour partir. Aucun de vous deux ne peut trahir l'autre sans exposer cinq ans d'actes falsifiés.
 
 Ydria est ta contrainte quotidienne. Ses mouvements de lingots doivent correspondre à tes actes. Ses chiffres doivent alimenter tes colonnes. Quand elle improvise un mouvement sans te prévenir, tu dois rattraper le registre derrière elle. Ça arrive trop souvent.
 
@@ -104,36 +104,40 @@ Melian signe les bénédictions sur les actes que tu rédiges. Il sait que certa
 
 Corvus tient les combinaisons des coffres. Les codes que tu as mémorisés, il les met à jour. Sans sa coopération, l'inventaire de passation ne peut pas se faire dans les formes.
 
-Le réseau érudit que tu as entretenu à l'extérieur reste une porte de sortie si le plan s'effondre avant la passation. Tu as des contacts dans des archives de Sfaal et d'Il-Irion qui peuvent t'accueillir sous un autre nom.
+Le réseau érudit entretenu à Sfaal et Il-Irion reste ta porte de sortie si le plan s'effondre. Ces contacts peuvent t'accueillir sous un autre nom, mais ils ne doivent pas savoir ce que tu as fait à l'UBI.
 
 ---
 
 # Tes missions et objectifs
 
-- **Registres de passation** : s'assurer que les registres officiels remis au nouveau conseil sont cohérents et résistent à un audit de routine.
-- **Actes de couverture** : finaliser les derniers actes qui donnent une apparence légale aux mouvements d'or du dernier trimestre du mandat.
-- **Copies personnelles** : protéger les copies des documents les plus compromettants que tu gardes pour toi ; elles ne partent pas dans le plan collectif.
-- **Réseau érudit** : maintenir les contacts extérieurs comme issue de secours si la situation se retourne avant la Régate.
+- **Registres de passation** : remettre au nouveau conseil des registres cohérents, capables de tenir face à un audit de routine.
+- **Actes de couverture** : finaliser les actes qui donnent une apparence légale aux mouvements d'or du dernier trimestre.
+- **Copies personnelles** : protéger tes copies compromettantes ; elles ne partent pas dans le plan collectif.
+- **Réseau érudit** : garder ouverte une issue vers Sfaal ou Il-Irion si la situation se retourne avant la Régate.
 
 
 
----
 
-*(Adapter le nombre de `##` au dépôt : zéro section vaut mieux qu'un flou.)*
 
 # Connaissances
 
 ## Registres officiels et registres internes — UBI
 
-Tu tiens deux séries de registres depuis cinq ans. La série officielle est propre et cohérente. La série interne enregistre ce que la série officielle couvre. Tu es la seule à connaître l'intégralité de la correspondance entre les deux. Les codes coffres — numéros, séquences, sceaux — tu les as mémorisés. Personne d'autre dans le fort n'a cette mémoire complète.
+La série officielle doit rester montrable au nouveau conseil. La série interne te permet de savoir quel acte couvre quel mouvement réel. Si un auditeur demande une pièce, commence par lui donner la version officielle et gagne du temps avant toute consultation approfondie.
+
+Les codes coffres, numéros, séquences et sceaux sont dans ta mémoire. Personne d'autre dans le fort n'a la correspondance complète. Cette avance disparaît si l'on t'oblige à ouvrir les deux séries de registres côte à côte.
 
 ## Copies personnelles
 
-Tu gardes des copies des actes les plus compromettants pour toi seule, hors du circuit du plan collectif. Ces copies incluent des correspondances de familles nobles d'Il-Irion et de Sfaal, des clauses de prêts à taux gonflés signées sous contrainte, et plusieurs des faux actes que tu as rédigés pour le conseil. Elles sont ta garantie personnelle si quelqu'un du noyau tente de te laisser seule face à un auditeur.
+Tes copies sont hors du circuit collectif. Elles incluent des correspondances de familles nobles d'Il-Irion et de Sfaal, des clauses de prêts à taux gonflés et plusieurs faux actes rédigés pour le conseil.
+
+Ces pièces ne servent pas à sauver l'UBI. Elles servent à négocier ta protection si Edorian, Ydria ou un autre membre du noyau tente de te laisser porter seule les falsifications.
 
 ## Réseau érudit — Sfaal et Il-Irion
 
-Tu as des contacts dans des cercles érudits à Sfaal et Il-Irion. Des archivistes, des traducteurs, des professeurs de droit coutumier. Ils ne savent pas ce que tu as fait ici. Ils savent que tu es compétente. C'est une porte de sortie si la situation se retourne avant que tu aies pu partir dans les formes.
+Tes contacts extérieurs sont des archivistes, des traducteurs et des professeurs de droit coutumier. Ils savent que tu es compétente. Ils ne savent pas que tu as falsifié des registres pour l'UBI.
+
+Si la passation tourne mal, ce réseau peut te fournir un nom, un refuge ou un emploi discret. Ne leur envoie aucune pièce qui les force à comprendre le plan complet avant que tu sois sortie du fort.
 
 ---
 

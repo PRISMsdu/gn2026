@@ -19,7 +19,7 @@ Le Conseil Directeur de l'Union Bancaire est composé de cinq membres, un repré
 Les cinq postes du Conseil sont les suivants :
 
 - **Directeur général** : préside aux destinées de l'institution, représente l'Union devant les cités de la Confédération et les puissances étrangères, arbitre les crises qui engagent la maison.
-- **Discréteur** : tient l'image publique de l'Union, oriente les récits et les rumeurs, gère les dossiers qui ne doivent pas figurer au registre officiel.
+- **Recouvreur mandaté** : agit sur les mauvais payeurs avec des mandats bancaires officiels ; peut demander l'appui des gardes locaux ou présents sur site quand une saisie, une convocation ou une escorte relève de l'acte.
 - **Trésorier** : tient l'or et les réserves, signe les mouvements de lingots, fixe la trace comptable des flux qui entrent et sortent des coffres.
 - **Archiviste et juridique** : tient les archives, les textes légaux et les scellés inter-cités ; rédige ou valide les actes engageant plusieurs cités et veille à ce que le registre tienne devant un auditeur.
 - **Chef de la garde** : commande la garde de la citadelle, contrôle l'accès aux zones sensibles et fixe les procédures d'entrée dans les réserves et les couloirs des coffres.
