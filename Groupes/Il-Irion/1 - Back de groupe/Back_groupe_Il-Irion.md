@@ -23,7 +23,7 @@
 *Répartition fonctionnelle (PJ) — fiches joueur : `Groupes/Il-Irion/2 - Roles des Joueurs/back_joueur_*.md`.*
 
 - **Chef / Leader** : **Calis Aedris** (Maison Aedris) — coalition, chantiers navals et stratégie maritime  
-- **Second** : **Seraphine Kaelthorne** (Maison Kaelthorne) — finances, interface banque / taux  
+- **Second** : **Seraphin Kaelthorne** (Maison Kaelthorne) — finances, interface banque / taux  
 - **Conseillers** : **Cyrion Valdris** (Valdris) — diplomatie, Oblat, candidature conseil UBI ; **Lucan Marivent** (Marivent) — plaintes, procédures, rhétorique des dépôts ; **Isar Dornelis** (Dornelis) — renseignement, réseaux  
 - **Membres** : **Marek Thorne** (Thorne) — influence hors île ; **Garrick Halvaren** (Halvaren) — sécurité, intimidation  
 

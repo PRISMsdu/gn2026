@@ -148,7 +148,7 @@ Sybrel Dornik travaille à la surveillance intérieure de l'UBI : tunnels, cours
 
 ## Maître Vaelric Dorn — Union bancaire d'Il-Irion
 
-Maître Vaelric Dorn est discréteur de l'UBI. Il tient le récit public, les rumeurs et les dossiers hors registre. Tu peux négocier avec lui pour qu'il retarde une enquête sur la Guilde, mais sans brandir de placard ou de note floue : il lui faut un intérêt concret, un silence ou une protection à échanger.
+Maître Vaelric Dorn est recouvreur mandaté de l'UBI. Il tient les convocations, les saisies et les réquisitions utiles quand une affaire doit prendre une forme bancaire. Tu peux négocier avec lui pour qu'il retarde une enquête sur la Guilde, mais sans brandir de placard ou de note floue : il lui faut un intérêt concret, un silence ou une protection à échanger.
 
 ## Dame Ydria Ventoss — Union bancaire d'Il-Irion
 
@@ -185,9 +185,9 @@ Tu connais au moins les noms suivants hors des Sangs de la Steppe. Certains sont
 - Bastion Kharvek — Arthas, Bureau des Lignes : chef de sécurité de la délégation d'Arthas. Il cherche les traces liées aux vols, aux coffres et aux incidents qui touchent Arthas.
 - Grisbe Jab-fer — Sfaal, Bureau des Lignes : chef de sécurité de la délégation de Sfaal. Il surveille les coffres, les accès et les vols qui touchent les familles sfaaliennes.
 - Sybrel Dornik — UBI : surveillance intérieure, tunnels et coursives. Elle connaît les rondes, les angles morts et les passages qui ne figurent pas toujours sur les plans.
-- Maître Vaelric Dorn — UBI : discréteur. Il enterre, relance ou réoriente les scandales avant qu'ils atteignent le conseil.
+- Maître Vaelric Dorn — UBI : recouvreur mandaté. Il peut transformer une dette, une convocation ou une saisie en prétexte officiel.
 - Selvara Quenndral — UBI : archiviste en chef. Elle connaît les registres officiels, les registres internes, les codes de coffres et les copies compromettantes.
-- Corvus, nom public — UBI : gardien des coffres. Son alias marchand est Torvent Sorel. Il tient les clefs, les combinaisons, les vannes des couloirs bas et des traces utiles aux Sangs.
+- Corvus, nom public — UBI : gardien des coffres. Son alias marchand est Lux Sorel. Il tient les clefs, les combinaisons, les vannes des couloirs bas et des traces utiles aux Sangs.
 - Horgrim Dval — UBI : chef de la garde privée. Il contrôle les accès, les rotations de garde, les zones sensibles et l'enquête interne sur les six gardes morts.
 - Kaelen « Griffes-de-Fer » Veynar — UBI : exécuteur de contrats. Il tient des dossiers de recouvrement sur des familles nobles et intervient quand la banque veut faire appliquer une décision sans débat public.
 - Saevar Dren — Palyr : chef de la sécurité de la délégation. Il n'est pas espion de métier, mais il surveille les filatures, les informateurs et les accès sensibles pendant la Convention.

@@ -101,7 +101,7 @@ La sortie propre ne doit pas correspondre ligne pour ligne au paiement d'origine
 
 Le principe fixé par Edorian est une commission de dix pour cent pour la maison. Le Tripot accepte de faire passer les sommes, de tenir les salons, de produire les pertes apparentes et de prendre le risque d'une saisie.
 
-D'après les carnets VIP liés à Edorian, de IX-542 à VIII-547, 163 500 couronnes sont passées par les contrats VIP. La commission de dix pour cent représente 16 350 couronnes pour la caisse interne de Marda.
+D'après les carnets VIP liés à Edorian, de IX-542 à VIII-547, 342 400 couronnes sont passées par les contrats VIP. La commission de dix pour cent représente 34 240 couronnes pour la caisse interne de Marda. Si Marda impose quinze pour cent au conseil sortant, le paiement total monte à 51 360 couronnes, soit 17 120 couronnes d'arriéré.
 
 
 *GN Krondaar 2026 — Union bancaire d'Il-Irion*

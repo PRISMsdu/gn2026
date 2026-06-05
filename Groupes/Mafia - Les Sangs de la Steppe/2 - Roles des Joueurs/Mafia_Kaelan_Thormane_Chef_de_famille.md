@@ -133,9 +133,9 @@ Korran mène l'équipage qui a exécuté l'abordage, le transbordement et la ven
 
 Sybrel garde les sous-sols de l'UBI. Si tu dois la convoquer ou la confronter, accorde-toi avec Raven et Shadow pour ne pas la solliciter deux fois le même jour : un témoin pressé en double parle moins, ou fuit.
 
-## Maître Vaelric Dorn — UBI (discréteur)
+## Maître Vaelric Dorn — UBI (recouvreur mandaté)
 
-Vaelric gère fuites et enterrements de scandale. Tu peux lui proposer un échange : tu retires une copie, tu calmes une rumeur ou tu bloques un témoin, et il retarde une enquête sur la Guilde.
+Vaelric gère mandats, convocations et saisies pour l'UBI. Tu peux lui proposer un échange : tu retires une copie, tu calmes une rumeur ou tu bloques un témoin, et il retarde une enquête sur la Guilde par un prétexte bancaire.
 
 ## Dame Ydria Ventoss — UBI (trésorière)
 

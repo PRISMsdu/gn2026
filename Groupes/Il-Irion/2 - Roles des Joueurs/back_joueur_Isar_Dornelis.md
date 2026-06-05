@@ -9,7 +9,7 @@ Tu cartographies **qui sait quoi** : courriers, silences, faiblesses. Tu aliment
 ## Pistes de jeu
 
 - Confirmer le canal **Melian → Palyr** avant qu’un autre ne tire trop tôt sur la mauvaise cible.
-- Arbitrer ce que tu donnes à **Seraphine** (chiffres) sans te brûler les doigts.
+- Arbitrer ce que tu donnes à **Seraphin** (chiffres) sans te brûler les doigts.
 
 ---
 

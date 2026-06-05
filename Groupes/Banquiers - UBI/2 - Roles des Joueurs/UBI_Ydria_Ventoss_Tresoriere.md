@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Ydria Ventoss |
+| Joueur | Charlotte Farys |
+| E-mail joueur | Charlottefarys@gmail.com |
 | Rôle dans le groupe | Trésorière — conseil ; dépôts d'or, flux de capitaux |
 | Classe / profession | Trésoriere |
 | Compétences | Erudit ; Chirurgie |
@@ -46,8 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | armes courtes |
 | Armure autorisée | cuir maximum |
 | Remarques | Placée par Palyr ; signature sur chaque mouvement de lingots ; coordination opération or avec Edorian via Varek (Tripot). |
-| Doublons (or) | 100 |
-| Fortune personnelle détournée | 5 000 couronnes hors circuits officiels |
+| Argent | 9 800 couronnes (4 800 épargne salaire + 5 000 hors circuits officiels) |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -126,6 +127,28 @@ Corvus tient les clefs des coffres. Sans lui les lingots restent en théorie. La
 ## Comptoir or, écrits, biens — UBI
 
 Pour l'or tu assures l'accueil, la pesée à l'écart, la valeur retenue, les droits, l'encaissement et la signature de l'acte. Pour les écrits et les biens tu travailles avec Selvara sur les droits selon criticité et l'encaissement avant remise. Aucun lingot qui compte pour le mandat ne bouge sans ta ligne au comptoir.
+
+## Chambre des Vérificateurs du Trésor
+
+Les auditeurs annoncés sont Hélias de Montclair, Grand Vérificateur du Trésor des Cinq Cités ; Dame Ysandre de Valombre, Contrôleuse des Flux et Créances ; Sire Alard de Brévigne, Auditeur des Comptes des Maisons Nobles ; Sire Mélard d'Aiguevive, Inspecteur des Réserves et Trésors Physiques ; Sire Corvin d'Haulne, Maître des Registres et Archives Comptables ; Sire Elwë de Lornac, Contrôleur des Impôts, Taxes et Dîmes.
+
+## Dame Ysandre de Valombre — flux et créances
+
+Dame Ysandre de Valombre contrôle les flux, les créances, les prêts et les intérêts. C'est l'auditrice qui peut le plus vite comprendre tes signatures si elle compare les mouvements officiels, les sorties réelles et les échéances de dette.
+
+Elle a été formée dans les académies marchandes et lit les registres comme une trésorière. Elle soupçonne déjà la banque d'avoir financé des causes obscures, peut-être même des ennemis du royaume. Face à elle, une erreur de montant, de date ou d'intérêt vaut presque aveu.
+
+## Sire Mélard d'Aiguevive — réserves et trésors physiques
+
+Sire Mélard d'Aiguevive inspecte les réserves, les coffres, les métaux précieux et les objets de valeur. Il raisonne par inventaire réel : poids, volume, scellés, traces d'ouverture, remplacement possible d'un objet ou d'un lingot.
+
+Il est convaincu qu'une partie de l'or a pu être remplacée par des copies ou des illusions. S'il demande une pesée ou une ouverture physique, tes lignes de comptoir devront correspondre au contenu réel des coffres.
+
+## Sire Elwë de Lornac — impôts, taxes et dîmes
+
+Sire Elwë de Lornac contrôle les impôts, les taxes et les dîmes prélevés par la banque. Il vient d'une noblesse récemment anoblie par la richesse et cherche à utiliser l'audit pour s'élever politiquement.
+
+Son domaine touche tes encaissements, les droits de garde, les retenues et les taxes appliquées aux dépôts. Il cherchera moins une grande fraude spectaculaire qu'une ligne mal justifiée qui lui permette d'ouvrir un dossier public.
 
 ## Varek — Tripot (relais opérationnel)
 

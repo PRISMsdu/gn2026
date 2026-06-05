@@ -1,10 +1,10 @@
 ﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
-Edorian;Jonathan;**email**;Directeur général;Directeur de banque;"Erudit ; Secourisme";5;2700 couronnes
-Vaelric Dorn;Paf;**email**;Discréteur;Guerrier;"Transe ; Pugilat (6)";5;100 couronnes
-Ydria Ventoss;Cha;**email**;Trésorière;Trésoriere;"Erudit ; Chirurgie";4;100 couronnes + 5 000 couronnes détournées
-Selvara Quenndral;Marie;**email**;Archiviste;Archiviste;Erudit;4;100 couronnes
-Horgrim Dval;Taloche;**email**;Chef de la garde;Guerrier;"Pugilat (5) ; Torture";6;100 couronnes
-Melian Torv;Primo;**email**;Conseiller spirituel;Clerc (sapiece);Secourisme;4;100 couronnes
-Kaelen Veynar;Alexandre ;**email**;Exécuteur de contrats;Guerrier;"Torture ; Pugilat (7)";5;100 couronnes
-Sybrel Dornik;Chloé;**email**;Ombre;Assassin;"Egorgement ; Ambidextrie";6;100 couronnes
-Corvus;Louis;**email**;Gardien de coffres;Erudit;Erudit;4;100 couronnes
+Edorian;Jonathan Dury;jonathan.dury@orange.fr;Directeur général;Directeur de banque;"Erudit ; Secourisme";5;75 680 couronnes (7 200 épargne salaire + 68 480 part VIP)
+Vaelric Dorn;Pierre-Antoine Fernandez;pierreantoine.fernandez17@gmail.com;Recouvreur mandaté;Guerrier;"Transe ; Pugilat (6)";5;4 800 couronnes
+Ydria Ventoss;Charlotte Farys;Charlottefarys@gmail.com;Trésorière;Trésoriere;"Erudit ; Chirurgie";4;9 800 couronnes (4 800 épargne salaire + 5 000 détournées)
+Selvara Quenndral;Marie Bouvier;jonathan.dury@orange.fr;Archiviste;Archiviste;Erudit;4;4 800 couronnes
+Horgrim Dval;Sébastien Tallon;tallonsebastien103@gmail.com;Chef de la garde;Guerrier;"Pugilat (5) ; Torture";6;4 800 couronnes
+Melian Torv;Primo Milan;primolemilan@gmail.com;Conseiller spirituel;Clerc (sapiece);Secourisme;4;4 800 couronnes
+Kaelen Veynar;Alexandre Fernandez;alexandre.fernandez99@gmail.com;Exécuteur de contrats;Guerrier;"Torture ; Pugilat (7)";5;2 400 couronnes
+Sybrel Dornik;Chloe Paquien;chloe54.paquien@gmail.com;Ombre;Assassin;"Egorgement ; Ambidextrie";6;2 400 couronnes
+Corvus;Louis Gabarre;Louis.gabpo@gmail.com;Gardien de coffres;Erudit;Erudit;4;2 400 couronnes

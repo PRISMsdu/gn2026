@@ -32,6 +32,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Maître Corvus |
+| Joueur | Louis Gabarre |
+| E-mail joueur | Louis.gabpo@gmail.com |
 | Rôle dans le groupe | Gardien des coffres |
 | Classe / profession | Erudit |
 | Compétences | Erudit |
@@ -40,8 +42,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Gardien des clefs et des combinaisons ; opérateur de référence des vannes d’inondation des couloirs bas (vidage 10 h, inondation 21 h) ; nom public à l’UBI : Corvus ; alias marchand hors banque : Torvent Sorel. |
-| Doublons (or) | 100 |
+| Remarques | Gardien des clefs et des combinaisons ; opérateur de référence des vannes d’inondation des couloirs bas (vidage 10 h, inondation 21 h) ; nom public à l’UBI : Corvus ; alias marchand hors banque : Lux Sorel. |
+| Argent | 2 400 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -87,11 +89,11 @@ Tu acceptes ce salaire régulier : ta famille n’a pas de protecteur officiel a
 
 ## Chapitre II : L'apprentissage
 
-Les années de quai t’apprennent à tenir une couverture séparée de ton futur métier à la banque. Pour les démarches portuaires, les bordereaux que tu ne veux pas mêler à ton nom public et les contacts où tu dois passer pour un petit marchand, tu prends le nom de **Torvent Sorel**. Ce nom-là figure sur des factures, des récépissés et des routes commerciales ; il ne doit jamais apparaître sur une liasse qui engage l’Union bancaire ni sur une attestation de salaire au fort.
+Les années de quai t’apprennent à tenir une couverture séparée de ton futur métier à la banque. Pour les démarches portuaires, les bordereaux que tu ne veux pas mêler à ton nom public et les contacts où tu dois passer pour un petit marchand, tu prends le nom de **Lux Sorel**. Ce nom-là figure sur des factures, des récépissés et des routes commerciales ; il ne doit jamais apparaître sur une liasse qui engage l’Union bancaire ni sur une attestation de salaire au fort.
 
-Tu signes Torvent quand une démarche marchande ne doit pas revenir vers le gardien Corvus. Tu conserves Corvus pour tout ce qui touche aux coffres, aux serments devant clerc et aux maisons qui pourraient te recommander plus tard pour un poste sérieux.
+Tu signes Lux quand une démarche marchande ne doit pas revenir vers le gardien Corvus. Tu conserves Corvus pour tout ce qui touche aux coffres, aux serments devant clerc et aux maisons qui pourraient te recommander plus tard pour un poste sérieux.
 
-Ton père t’a appris une écriture nette ; tu alignes sous Torvent des montants plausibles pour du fret court et des commissions minuscules, assez pour qu’un contrôleur occasionnel ne creuse pas trois cargaisons à la fois.
+Ton père t’a appris une écriture nette ; tu alignes sous Lux des montants plausibles pour du fret court et des commissions minuscules, assez pour qu’un contrôleur occasionnel ne creuse pas trois cargaisons à la fois.
 
 Tu apprends à répondre comme un marchand quand on t’interroge au quai, et à ne jamais donner plus d’informations que la question ne contient de mots.
 
@@ -101,11 +103,11 @@ Tu apprends à lire des indices simples : cire grattée, corde remplacée, marqu
 
 Tu comprends que les informations de quai valent de l’argent avant même qu’un coffre soit ouvert : horaires de garde, noms de commis, itinéraires, dépôts signalés trop tôt. Tu apprends à reconnaître ce qui peut être dit sans te vendre et ce qui doit rester séparé.
 
-Un registre de port mal fichu ruine une couverture à Ulghart comme ailleurs. Tu conserves les traces utiles et tu détruis celles qui t’exposent. Tu retiens cette règle : un mensonge tient si les papiers ordinaires le portent. Torvent est un de ces papiers, Corvus en sera un autre.
+Un registre de port mal fichu ruine une couverture à Ulghart comme ailleurs. Tu conserves les traces utiles et tu détruis celles qui t’exposent. Tu retiens cette règle : un mensonge tient si les papiers ordinaires le portent. Lux est un de ces papiers, Corvus en sera un autre.
 
 ## Chapitre III : L'ascension
 
-Il y a cinq ans, tu comprends qu’un poste proche des coffres vaut mieux que toutes les courses de quai. Tu ne postules pas sous Torvent Sorel. Tu présentes ton expérience de gardiennage, de scellés et de salles protégées sous le nom Corvus. Les attestations citent des saisons sur les quais et des inventaires où ton écriture figure au bas des pages. Aucune ne mentionne ton alias marchand.
+Il y a cinq ans, tu comprends qu’un poste proche des coffres vaut mieux que toutes les courses de quai. Tu ne postules pas sous Lux Sorel. Tu présentes ton expérience de gardiennage, de scellés et de salles protégées sous le nom Corvus. Les attestations citent des saisons sur les quais et des inventaires où ton écriture figure au bas des pages. Aucune ne mentionne ton alias marchand.
 
 Les entretiens testent ta mémoire des procédures et ta patience sous répétition. On te confie d’abord des tâches secondaires : inventaires de caisses, contrôle de listes, dépôt de documents dans un ordre qu’on ne peut pas raccourcir sans laisser une trace au passage.
 
@@ -155,7 +157,7 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 | Inventaires | Tu participes aux inventaires officiels comme le règlement l'exige. |
 | Ouvertures de salles | Tu ouvres sous procédures annoncées avant la Régate lorsque plusieurs clients sensibles utilisent encore la maison. |
 | Passation et sortie | Tu prépares les accès et documents sensibles pour la passation ; ton sort est lié au plan de sortie du noyau et à Edorian. |
-| Couverture Torvent | Tu n’emploies Torvent Sorel que hors banque ; à l’UBI tu es Corvus. |
+| Couverture Lux | Tu n’emploies Lux Sorel que hors banque ; à l’UBI tu es Corvus. |
 
 # Connaissances
 
@@ -163,18 +165,22 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 
 Tu connais la séquence d'alimentation et d'évacuation, l'emplacement de la roue de rechange et la feuille de ronde du poste. Tant que les couloirs sont inondés, personne n'atteint les salles des coffres sans déroger à la procédure.
 
-En jeu, toute demande sur les vannes doit passer par une raison crédible : incident, inventaire, ordre d'Horgrim ou demande d'Edorian. Une manœuvre non inscrite au registre peut te livrer au chef de garde.
+Toute demande sur les vannes doit avoir une raison crédible : incident, inventaire, ordre d'Horgrim ou demande d'Edorian. Une manœuvre non inscrite au registre peut te livrer au chef de garde.
 
-## Torvent Sorel — alias marchand
+## Chambre des Vérificateurs du Trésor
 
-Torvent Sorel est ton nom hors banque. Il figure sur des traces de quai, des récépissés et des factures qui ne doivent pas revenir vers Corvus. Si quelqu'un rapproche Torvent du gardien des coffres, il peut comprendre que tu as appris à séparer les écritures bien avant l'UBI.
+Les auditeurs annoncés sont Hélias de Montclair, Grand Vérificateur du Trésor des Cinq Cités ; Dame Ysandre de Valombre, Contrôleuse des Flux et Créances ; Sire Alard de Brévigne, Auditeur des Comptes des Maisons Nobles ; Sire Mélard d'Aiguevive, Inspecteur des Réserves et Trésors Physiques ; Sire Corvin d'Haulne, Maître des Registres et Archives Comptables ; Sire Elwë de Lornac, Contrôleur des Impôts, Taxes et Dîmes.
 
-En jeu, cet alias sert à répondre aux questions sur tes anciens contacts et sur les mouvements marchands qui entourent certains dépôts. Ne l'emploie jamais dans une procédure de l'Union bancaire.
+## Sire Mélard d'Aiguevive — réserves et trésors physiques
 
----
+Sire Mélard d'Aiguevive inspecte les réserves, les coffres, les métaux précieux et les objets de valeur. Il raisonne par inventaire réel : poids, volume, scellés, traces d'ouverture, remplacement possible d'un objet ou d'un lingot.
 
-**Version** : 1.1 — **Date** : 2026-04-29  
-**Auteur** : Sébastien Dury  
-**Modifications** : Distinction Corvus / Torvent Sorel ; détournement du noyau, enjeu de fuite avec Edorian ; réparation du chapitre II.
+Il est convaincu qu'une partie de l'or a pu être remplacée par des copies ou des illusions. S'il demande une ouverture physique de salle, une vérification de scellé ou une comparaison entre inventaire et contenu réel, tu seras directement concerné.
 
-© 2026 — Perso
+## Lux Sorel — alias marchand
+
+Lux Sorel est ton nom hors banque. Il figure sur des traces de quai, des récépissés et des factures qui ne doivent pas revenir vers Corvus. Si quelqu'un rapproche Lux du gardien des coffres, il peut comprendre que tu as appris à séparer les écritures bien avant l'UBI.
+
+Cet alias sert à répondre aux questions sur tes anciens contacts et sur les mouvements marchands qui entourent certains dépôts. Une procédure de l'Union bancaire portant le nom Lux Sorel relierait ta couverture extérieure à ton poste de gardien.
+
+

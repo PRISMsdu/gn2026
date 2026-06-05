@@ -124,7 +124,7 @@ body.avis-document .avis-entete .avis-entete-inner .avis-institution-nom {
   align-items: flex-start;
   justify-content: flex-start;
   gap: 20mm;
-  margin: 4.2em 0 0.9em;
+  margin: 2em 0 0.7em;
 }
 
 #contenu-avis .archive-party-signature {
@@ -139,12 +139,26 @@ body.avis-document .avis-entete .avis-entete-inner .avis-institution-nom {
   position: fixed;
   left: 20mm;
   right: 20mm;
-  bottom: 14mm;
+  bottom: 10mm;
   margin: 0;
   font-family: 'Segoe Script', 'Bradley Hand ITC', cursive;
   font-size: 7.2pt;
   font-style: italic;
   line-height: 1.15;
+  text-align: left;
+  color: #3a1808;
+}
+
+#contenu-avis .archive-fee-mention {
+  position: fixed;
+  left: 20mm;
+  right: 20mm;
+  bottom: 19mm;
+  margin: 0;
+  font-family: 'Segoe Script', 'Bradley Hand ITC', cursive;
+  font-size: 6.8pt;
+  font-style: italic;
+  line-height: 1.1;
   text-align: left;
   color: #3a1808;
 }

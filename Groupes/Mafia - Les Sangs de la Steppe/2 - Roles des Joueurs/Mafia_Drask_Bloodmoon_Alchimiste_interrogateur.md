@@ -127,9 +127,9 @@ Tu tiens la pharmacie du réseau et tu cadres les interrogatoires avec Vorak. En
 
 Sybrel arpente les sous-sols de la banque. Tu n'as pas de dossier direct sur elle. Si Raven ou Kaelan te demandent un avis avant une scène où elle est présente, reste sur ton domaine : état d'un témoin, traces de substances, cohérence d'un récit physique.
 
-## Maître Vaelric Dorn — UBI (discréteur)
+## Maître Vaelric Dorn — UBI (recouvreur mandaté)
 
-Vaelric enterre ou relance les fuites selon ses dossiers. Si on te confie un extrait ou un témoin qu'il a auditionné, tu notes ce qui colle ou non au corps (tremblements, pupilles, cicatrices récentes) pour Kaelan.
+Vaelric tient les mandats, les convocations et les saisies qui donnent une forme officielle aux pressions de l'UBI. Si on te confie un extrait ou un témoin qu'il a auditionné, tu notes ce qui colle ou non au corps (tremblements, pupilles, cicatrices récentes) pour Kaelan.
 
 ## Dame Ydria Ventoss — UBI (trésorière)
 

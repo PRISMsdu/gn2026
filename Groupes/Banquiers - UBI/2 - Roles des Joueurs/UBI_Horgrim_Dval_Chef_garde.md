@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Horgrim Dval |
+| Joueur | Sébastien Tallon |
+| E-mail joueur | tallonsebastien103@gmail.com |
 | Rôle dans le groupe | Chef de la garde privée — conseil |
 | Classe / profession | Guerrier |
 | Compétences | Pugilat (5) ; Torture |
@@ -44,8 +46,8 @@ Epopée en Krondaar
 | Points de santé | 6 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
-| Armure autorisée | Cuir clouté maximum |
-| Doublons (or) | 100 |
+| Armure autorisée | pas de limitation |
+| Argent | 4 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -134,7 +136,7 @@ Quelques gardes recrutés il y a trois ans te préoccupent. Plusieurs étaient p
 - **Procédure sur les six gardes** : savoir ce que l'enquête peut produire avant qu'un questeur ou un auditeur extérieur s'en empare.
 - **Dépouilles et cérémonie** : les six corps sont encore dans la salle des coffres où la banque les a rangés après les quais. La cérémonie mortuaire doit avoir lieu avant le samedi midi ; jusqu'à ce moment, tu tiens la zone fermée et tu contrôles qui s'en approche.
 - **Gardes suspects** : identifier ce que ces hommes cherchent dans le fort avant que l'affluence de la Régate rende leurs mouvements impossibles à suivre.
-- **Varek et les six gardes morts** : vérifier ses signalements sans lui laisser dicter tes rotations.
+
 
 # Connaissances
 
@@ -154,7 +156,7 @@ Tu ne sais pas encore jusqu'où l'enquête peut remonter. Tant que tu n'as pas l
 
 ## Varek — Tripot (alertes contre la garde)
 
-Varek relie des incidents du Tripot à des gardes de la banque. Son calendrier peut être utile, mais il vient d'une maison liée aux flux que tu ne contrôles pas. Demande des noms vérifiables, des témoins hors Tripot ou une trace matérielle avant de retirer un homme du service.
+Varek relie des incidents du Tripot à des gardes de la banque. Demande des noms vérifiables, des témoins hors Tripot ou une trace matérielle.
 
 ---
 

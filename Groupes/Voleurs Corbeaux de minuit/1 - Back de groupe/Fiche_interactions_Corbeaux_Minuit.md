@@ -6,11 +6,9 @@ Cette fiche regroupe les interactions visibles entre les Corbeaux de Minuit et l
 
 | Personnage des Corbeaux | Personnage du groupe | Interaction |
 |---|---|---|
-| Kaël d'Il-Irion / Brann Crochemain | Edorian | Edorian fournit le mandat du casse, les accès et le prétexte du braquage. Kaël doit exécuter l'opération sans devenir le fusible qui blanchit toute la responsabilité du conseil sortant. |
-| Kaël d'Il-Irion / Brann Crochemain | Vaelric Dorn | Vaelric fixe le récit public du braquage et ce qui doit sembler volé ou détruit. Kaël ajuste le mode opératoire pour que le casse serve le mensonge sans bloquer la sortie du butin. |
-| Sorel de Ther-Félis | Selvara Quenndral | Selvara tient les archives et les scellés. Sorel peut avoir besoin de comprendre quelles pièces doivent disparaître, être brouillées ou rester visibles pour que le récit du casse tienne. |
-| Nereth de Sfaal | Horgrim Dval | Horgrim verrouille les accès, les portes et les sorties non surveillées. Nereth cherche les passages inondés ou techniques que la garde croit impraticables. |
-| Kaël d'Il-Irion / Brann Crochemain | Corvus | Corvus tient les clés et peut aussi servir d'intérêt contraire si les Sangs le tirent vers leur propre butin. Kaël doit vérifier si l'accès promis sert vraiment les Corbeaux ou s'il les conduit dans une prise. |
+| Kaël d'Il-Irion / Brann Crochemain | Noyau UBI (indirect, via Varek) | Les contraintes de l'UBI arrivent par Varek : horaires, fenêtres de passage, signes et limites opérationnelles. Aucun membre du noyau UBI ne traite directement avec Brann ou les Corbeaux. |
+| Sorel de Ther-Félis | Archives UBI (indirect, via Varek) | Les informations sur ce qui doit sembler volé ou disparaître passent par le relais du Tripot. Sorel ne reçoit pas d'instruction directe de Selvara. |
+| Nereth de Sfaal | Garde UBI (obstacle) | La garde verrouille les accès, les portes et les sorties non surveillées. Toute confrontation avec Horgrim ou ses hommes relève d'un obstacle pendant l'opération, pas d'un contact préparé. |
 
 ## MiVI
 
@@ -31,7 +29,7 @@ Cette fiche regroupe les interactions visibles entre les Corbeaux de Minuit et l
 | Personnage des Corbeaux | Personnage du groupe | Interaction |
 |---|---|---|
 | Kaël d'Il-Irion / Brann Crochemain | Kaelan Thormane | Kaelan veut des documents précis et peut tenter de capter le fruit du casse. Kaël cherche l'or et la sortie ; les deux objectifs peuvent se croiser dans les coffres. |
-| Kaël d'Il-Irion / Brann Crochemain | Corvus | Corvus peut détourner une partie de l'opération vers les intérêts des Sangs sans prévenir les Corbeaux. La friction se joue dans les accès, les clés et le choix des pièces à sortir. |
+| Kaël d'Il-Irion / Brann Crochemain | Accès aux coffres contrôlés par les Sangs | Les intérêts des Sangs peuvent modifier certains accès ou certaines priorités de butin sans contact direct avec les Corbeaux. La friction se joue dans les clés, les passages et le choix des pièces à sortir. |
 | Arkhavel d'Arthas | Gareth Ironfist | Arkhavel tient la sécurité interne des Corbeaux. Gareth tient le muscle des Sangs ; si les deux groupes se rencontrent sur le butin, la discussion peut vite devenir physique. |
 
 ## Palyr

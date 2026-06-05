@@ -312,11 +312,12 @@ if ($blasonSrc) {
 
 if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
   $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Notice UBI\s*:[\s\S]*?)</p>', '<p class="archive-notice">$1</p>', 1)
+  $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Droit de garde UBI\s*:[\s\S]*?)</p>', '<p class="archive-fee-mention">$1</p>', 1)
   $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Mention de classement\s*:[\s\S]*?)</p>', '<p class="archive-closing-mention">$1</p>', 1)
   $contractBodyRegex = [regex]'(?s)(?<header><p>\s*CONTRAT[\s\S]*?</p>)(?<body>[\s\S]*?)(?=<p>Pour\s+)'
   $contractBodyEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
-      $body = [regex]::Replace($m.Groups['body'].Value, '<p>(?!\s*(?:Pour\s|T.moin bancaire|Mention de classement))', '<p class="archive-contract-body">')
+      $body = [regex]::Replace($m.Groups['body'].Value, '<p>(?!\s*(?:Pour\s|T.moin bancaire|Droit de garde UBI|Mention de classement))', '<p class="archive-contract-body">')
       return ($m.Groups['header'].Value + $body)
     }
   $bodyInner = $contractBodyRegex.Replace($bodyInner, $contractBodyEvaluator, 1)

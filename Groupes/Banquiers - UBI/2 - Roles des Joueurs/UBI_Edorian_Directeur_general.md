@@ -1,4 +1,4 @@
-# Edorian — Directeur général (UBI)
+# Edorian (UBI) — Directeur général
 
 <!--
   Rôle joueur Banquiers UBI ; même groupe : back collectif distribué par l'équipe.
@@ -35,7 +35,9 @@ Epopée en Krondaar
 
 | Libellé | Valeur |
 |---------|--------|
-| Nom du personnage | Edorian |
+| Nom du personnage | Edorian (UBI) |
+| Joueur | Jonathan Dury |
+| E-mail joueur | jonathan.dury@orange.fr |
 | Rôle dans le groupe | Directeur général — Union bancaire d'Il-Irion |
 | Classe / profession | Directeur de banque |
 | Compétences | Erudit ; Secourisme |
@@ -44,8 +46,8 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Fin de mandat à Ulghart ; cercle des cinq conseillers et plan de passation |
-| Doublons (or) | 100 |
+| Remarques | Fin de mandat à Ulghart ; cercle des cinq conseillers ; vengeance contre les familles d'Il-Irion |
+| Argent | 75 680 couronnes (7 200 épargne salaire + 68 480 part VIP) |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -53,13 +55,13 @@ Epopée en Krondaar
 | Elément | Description |
 |---------|-------------|
 | Traits de caractère | Réserve, précision, peu de paroles inutiles. |
-| Valeurs | Tenir l'Union jusqu'à la Régate. Mener le plan de sortie jusqu'au bout. |
-| Peur | Un audit ouvert trop tôt. Une fuite publique avant que la passation soit jouée. |
-| Rêve | Quitter Ulghart avec ce que le plan prévoit, et laisser une passation encore défendable sur le papier. |
+| Valeurs | Tenir l'Union jusqu'à la Régate. Faire tomber les familles d'Il-Irion avec leurs propres preuves. |
+| Peur | Un audit ouvert trop tôt. Une fuite publique avant que les familles se soient accusées entre elles. |
+| Rêve | Quitter Ulghart après avoir laissé Cyrion Valdris (Il-Irion, Maison Valdris), Seraphin Kaelthorne (Il-Irion, Maison Kaelthorne), Calis Aedris (Il-Irion, Maison Aedris) et leurs alliés sans fortune, sans honneur et sans récit commun. |
 
 ---
 
-# L'histoire d'Edorian
+# L'histoire d'Edorian (UBI)
 
 
 ## Chapitre I : Les origines
@@ -84,25 +86,32 @@ Tu passes les examens internes que les maisons d'Il-Irion organisent pour les ca
 
 Tu entres au service d'une succursale de l'Union Bancaire d'Il-Irion. Tu travailles dans les bureaux où se décident prêts et nominations. Les maisons qui te mandatent n'utilisent pas toujours le même nom au greffe et dans la taverne. Il y a des règles, des lois, et des méthodes pour les contourner.
 
-Pendant ces premiers mois tu reclasses multitude de dossiers pour  inspection. Tu apprends à vérifier la cohérence des dates, les contenus, les artifices et les détournements. Régulièrement tu accompagnes des délégués des citées en visite, tu participes aux réunions officielles et à celles plus confidentielles. Il t'apparait rapidement que la charte et la neutralité affichées de la banque sont souvent une façade. Derrière, les arbitrages se tiennent en salle fermée, ce qui n'est pas encore tracé dans un registre peut devenir une marge pour le trimestre suivant.
+Pendant ces premiers mois tu reclasses de nombreux dossiers avant inspection. Tu apprends à vérifier la cohérence des dates, les contenus, les artifices et les détournements. Tu accompagnes aussi des délégués des cités en visite, en réunion officielle ou en entretien plus fermé. Il t'apparaît rapidement que la charte et la neutralité affichées de la banque sont souvent une façade. Derrière, les arbitrages se tiennent en salle fermée, et ce qui n'est pas encore tracé dans un registre peut devenir une marge pour le trimestre suivant.
 
 En marge de ton apprentissage d'Erudit, tu prends contact en secret avec un maître d'armes réputé à Il-Irion. Tu paies ses leçons sur tes propres deniers, sans en parler à tes employeurs ni à ta famille. La formation est sérieuse : lame, corps à corps, gestion d'une confrontation courte dans un espace fermé. Tu n'as pas l'intention de devenir soldat. Tu veux être capable de te défendre seul si une négociation tourne mal loin de toute garde.
 
 
 ## Chapitre III : L'ascension
 
-Tu enchaînes plusieurs postes à Il-Irion. Le travail prend beaucoup de place. Tu n'as pas de famille propre, mais tu as des amis et une vie sociale active.
-Tu te retrouves dans plusieurs bagarres, certaines violentes. C'est à cette période que tu rencontres Vaelric Dorn. Vous vous entendez bien. Il devient un ami.
-La même année, ta famille fait faillite. Tes parents meurent peu après. La banque aurait pu intervenir ; elle ne l'a pas fait. Des familles auraient pu aider, elles n'ont pas bougé. La tristesse deviendra rapidement colère. Puis la Colère laissera place à un feu ardent bien puissant, celui de la vengeance. Les mois passant, cette vengeance murit, s'élabore, se mijote lentement, comme un bon petit plat cuisiné. Mais froid ; super froid, glacé bordel - ils vont tous payer, tu verras, foi de cajette.
+Tu enchaînes plusieurs postes à Il-Irion. Le travail prend beaucoup de place. Tu n'as pas de famille propre, mais tu gardes des amis et une vie sociale active.
 
-Tu décides donc de changer de cap. L'objectif : monter au sein de la banque, prendre l'argent, tout détruire, partir. Tu en parles à Vaelric qui en a autant gros que toi. Vous posez les premières bases d'un plan.
-Dans les mois qui suivent, tu rencontres Ydria, Selvara et Horgrim, originaire de cités différentes. Vous vous accordez sur un objectif commun : prendre le contrôle de la banque d'Ulghart à la prochaine Régate, dans trois ans. C'était il y a huit ans.
+Plusieurs bagarres te montrent que les protections de bureau ne suffisent pas toujours. C'est à cette période que tu rencontres Vaelric Dorn (UBI, recouvreur mandaté). Vous vous entendez vite, parce qu'il connaît lui aussi les limites de la banque quand les puissants décident de ne pas agir.
 
-Par un curieux hasard, les familles dirigeantes d'Il-Irion (Cyrion Valdris, Seraphin Kaelthorne) te contactent. Elles veulent te pousser au poste de directeur général et organiser des détournements à leur profit. Il-Irion est au bord du gouffre financier, ça te le sais bien. Tu acceptes leur proposition. Ce qu'elles ignorent : ton plan avec les quatre autres est de les doubler, de vider la banque, et de détruire Il-Irion.
+Ta famille portait le nom de Courcel. Tes parents tenaient des fonctions de gestion de registres à Il-Irion, près des greffes de l'UBI. Sur plusieurs années, ton père avait reconstitué un dossier sur des malversations de plusieurs maisons : réévaluation illicite de taux, transferts dissimulés, prête-noms. Le dossier visait surtout la Maison Valdris et la Maison Kaelthorne, deux familles d'Il-Irion très implantées dans les affaires de la banque.
 
-Des fois, c'est bien fichu la vie, il y a cinq ans, tu prends la tête de la banque à Ulghart.
+La même année, ta famille fait faillite. Des intermédiaires retirent des cautionnements au mauvais moment. Des clients disparaissent. Des créanciers présentent les dettes de manière coordonnée. Tes parents meurent ensuite dans un accident. Tu crois d'abord à une série de coups du sort. La banque aurait pu intervenir ; elle ne l'a pas fait. Des familles auraient pu aider ; elles n'ont pas bougé.
 
-Depuis, tu organises des détournements croissants, surtout pour vous. Tu as mis le personnel résident au pas. Tu as aussi forcé la main à Marda Velyss, la tenancière du Tripot, pour accélérer le blanchiment. C'est Sybfel qui t'a appris qu'elle cachait un lien avec la Styrgie. Tu t'en sers : tu la menaces de la dénoncer à la Styrgie si elle ne coopère pas, quand bien même tu ne sais pas très bien ce qu'elle cache. une histoire de lien de parentée avec des gars importants là-bas. Elle se planquerait.
+Il y a huit ans, Garrick Halvaren (Il-Irion, Maison Halvaren) te contacte. Il t'explique que Cyrion Valdris (Maison Valdris) et Seraphin Kaelthorne (Maison Kaelthorne) ont demandé la neutralisation de ta famille, puis transmis la demande à la Maison Halvaren. Garrick a exécuté la mission. L'accident qui a tué tes parents n'était pas dans l'ordre d'origine. La situation lui a échappé. Il ne met pas la Maison Halvaren en cause ; il te donne Valdris et Kaelthorne.
+
+À partir de cette révélation, ton objectif change. Monter dans la banque ne suffit plus. Il faut prendre l'argent disponible, puis faire tomber les deux maisons qui ont détruit les tiens. Valdris et Kaelthorne doivent perdre leur réputation, leurs avoirs et leur capacité à se couvrir l'une l'autre. Vaelric Dorn (UBI, recouvreur mandaté) partage assez de rancune contre la banque pour poser avec toi les premières bases du plan.
+
+Dans les mois qui suivent, tu rencontres Ydria Ventoss (UBI, trésorière), Selvara Quenndral (UBI, archiviste en chef) et Horgrim Dval (UBI, chef de la garde). Ils viennent de cités différentes, mais chacun a une raison de ne plus servir docilement la banque. Vous vous accordez sur un objectif commun : obtenir la direction de l'agence d'Ulghart lors de la prochaine Régate, dans trois ans. Pour toi, cette prise de contrôle n'est pas seulement une fuite préparée : c'est l'outil qui doit ruiner les sept maisons d'Il-Irion présentes à la Convention.
+
+Cyrion Valdris (Il-Irion, Maison Valdris), Seraphin Kaelthorne (Il-Irion, Maison Kaelthorne) et d'autres familles dirigeantes d'Il-Irion te contactent ensuite. Ces familles veulent te pousser au poste de directeur général et organiser des détournements à leur profit. Tu sais qu'Il-Irion est proche du gouffre financier. Tu acceptes leur soutien. Valdris et Kaelthorne pensent installer un homme redevable. Le cercle restreint connaît le vrai plan : les doubler, vider la banque et faire sortir assez de pièces pour qu'elles s'accusent, se dénoncent et se menacent devant les autres cités.
+
+Il y a cinq ans, tu prends la tête de l'agence d'Ulghart. Depuis, les détournements augmentent. Une part sert les familles d'Il-Irion ; une autre prépare votre sortie. Le personnel résident apprend vite que tes ordres ne se discutent pas quand ils concernent les registres, les accès et les délais de contrôle.
+
+Tu forces aussi Marda Velyss (Tripot, Ulghart), la tenancière du Tripot, à accélérer le blanchiment. Sybrel Dornik (UBI, surveillance intérieure) t'a appris qu'elle cache un lien avec la Styrgie. Tu ne connais pas tout le détail, mais tu sais qu'une parenté ou une protection importante la rend vulnérable. Tu t'en sers pour la menacer si elle refuse de faire passer tes flux par les registres VIP.
 
 Au départ, les contrats VIP du Tripot concernent surtout Il-Irion. Les grandes familles et leurs relais utilisent ce circuit pour corriger leurs comptes, payer des services discrets et soutenir des maisons endettées sans le montrer. Le Tripot enregistre ces paiements comme pertes de jeu, dettes de salon ou paris arrangés. Les registres VIP pointent donc d'abord vers Il-Irion, parce que les prête-noms et les libellés ont été construits autour des familles ilirioniennes.
 
@@ -112,54 +121,68 @@ Tu gardes ces opérations séparées. Chaque cité pense traiter un problème is
 
 
 
-## Chapitre IV : Les défis actuels
+## Chapitre IV : Le plan de chute
 
-Le mandat touche à sa fin. Il faut préparer la sortie du cercle restreint avant la Régate.
+Le mandat touche à sa fin. La Régate doit permettre au cercle restreint de sortir avant qu'un audit complet ne remonte les cinq dernières années. Pour toi, la sortie ne suffit plus. Les familles d'Il-Irion doivent perdre la banque, leur crédit public et leur capacité à se protéger les unes les autres.
 
-Ydria et Selvara ont travaillé les comptes pour masquer les écarts. Malgré ça, un audit sérieux ferait ressortir des anomalies. Le plan consiste à laisser les registres dans un état correct et à vider les coffres. Si l'or a disparu, il sera difficile de prouver des malversations sur des comptes en ordre.
+Ydria Ventoss (UBI, trésorière) et Selvara Quenndral (UBI, archiviste en chef) ont travaillé les comptes pour masquer les écarts. Malgré ça, un audit sérieux ferait ressortir des anomalies. Le plan consiste à laisser les registres dans un état correct et à vider les coffres. Si l'or a disparu, il sera difficile de prouver des malversations sur des comptes en ordre.
 
-Tu as mandaté un groupe extérieur, les Corbeaux de Minuit, pour organiser le vol. Les consignes passent par Varek au Tripot, sans que ton nom figure sur aucune note. L'intervention est prévue la première nuit de la Régate. Quand l'or aura disparu, toute l'équipe pourra démissionner dans les mois qui suivent et partir sans incident.
+Tu as mandaté un groupe extérieur, les Corbeaux de Minuit (voleurs, groupe extérieur), pour organiser le vol. Les consignes passent par un relais du Tripot, sans que ton nom figure sur une note. L'intervention est prévue la première nuit de la Régate, après la passation de pouvoir. Si le vol a lieu avant la transmission officielle du mandat, tu restes directeur en titre et responsable légal de la disparition.
 
-La vengeance envers Il-Irion et ses familles dirigeantes prend une forme précise. Révéler leurs malversations serait efficace mais limité. Rendre publics les documents confidentiels des coffres provoquerait un effondrement de la confiance entre les cités. Les Corbeaux de Minuit doivent donc cibler les coffres d'or, mais aussi ceux des contrats et des archives.
+La vengeance envers Il-Irion prend une forme précise. Révéler les malversations des familles serait efficace mais limité. Tu veux aussi rester vivant après la chute. Selvara Quenndral (UBI, archiviste en chef) t'a fourni des copies officielles des contrats VIP liés aux détournements. Tu as constitué un paquet par cité : Palyr, Arthas, Ther-Félis, Sfaal et Il-Irion. Chaque paquet prouve que la cité concernée a utilisé l'UBI pour placer, masquer ou détourner de l'argent.
 
-Tu garderas les pièces les plus compromettantes pour toi. Elles te serviront de garantie personnelle si quelqu'un te cherche après la Régate.
+Tu garderas les pièces les plus compromettantes pour toi, mais ce n'est pas suffisant. Une copie doit partir vers une personne de confiance pour chaque cité. Ces personnes n'auront pas besoin de t'aimer : elles devront seulement comprendre que si toi, Ydria Ventoss (UBI, trésorière), Selvara Quenndral (UBI, archiviste en chef), Horgrim Dval (UBI, chef de la garde), Corvus (UBI, gardien des coffres) ou Vaelric Dorn (UBI, recouvreur mandaté) êtes arrêtés, blessés ou tués, les paquets sortiront. Le message doit être simple : les cités peuvent haïr l'équipe sortante, mais elles n'ont pas intérêt à la toucher. Une lettre anonyme a été envoyée à chaque cité pour fixer cette menace.
 
 
-## Chapitre V : Le réseau et les relations
+## Chapitre V : Les pressions de la Régate
 
-Le mandat s'arrête le week-end de la Régate. Le fort reçoit des délégations, des équipages en compétition et des visiteurs. C'est le moment où le nombre de personnes rend les mouvements difficiles à surveiller.
+Le fort reçoit des délégations, des équipages en compétition et des visiteurs. Cette foule rend les mouvements plus difficiles à surveiller, mais elle multiplie aussi les témoins possibles.
 
-Le vol doit être déclenché après la passation de pouvoir. Si l'intervention a lieu avant que tu aies formellement transmis le mandat, tu es encore directeur en titre et donc responsable légal de toute disparition. La séquence : passation d'abord, coffres après.
+Ton équipe doit tenir jusqu'à la passation et au vol. Corvus (UBI, gardien des coffres), Horgrim Dval (UBI, chef de la garde), Ydria Ventoss (UBI, trésorière) et Selvara Quenndral (UBI, archiviste en chef) portent chacun une partie du dispositif. Si l'un d'eux panique ou parle trop tôt, le plan de sortie peut devenir une enquête ouverte.
 
-La sortie doit rester défendable sur le papier. Cyrion Valdris et Seraphin Kaelthorne ont leurs propres détournements dans les coffres. Leur montrer que tu peux les exposer peut suffire à les tenir tranquilles le temps nécessaire.
+Marda Velyss (Tripot, Ulghart) reste dangereuse, mais elle n'est pas ton ennemie naturelle. Elle aussi est prise dans les flux que tu as fait passer par le Tripot. Si les cités cherchent un coupable public, elle peut tomber avec toi. Tu peux donc lui proposer une alliance de survie : elle garde le Tripot hors de l'accusation centrale, tu lui donnes de quoi montrer qu'elle a été contrainte, et elle t'aide à faire comprendre aux cités que toucher l'équipe UBI déclenchera des conséquences incontrôlables.
 
-Marda Velyss reste un point faible. Elle sait trop sur le Tripot et sur ce que tu y fais passer. Elle peut tout révéler si elle se sent menacée ou si quelqu'un la presse. Il te faut plus d'informations sur son passé et son lien avec la Styrgie. Avec ça, tu peux l'occuper ou t'en débarrasser avant la Régate.
+Tu acceptes désormais que la protection de l'équipe passe par la peur. Les cités doivent comprendre que te capturer ou te tuer ne ferme pas le dossier. Cela l'ouvre. Si une délégation veut régler l'affaire par la force, elle doit craindre de voir ses propres contrats VIP remis à ses ennemis, à ses créanciers et aux autres cités.
 
 
 ---
 
 # Tes missions et objectifs
 
-- **Fin de mandat** : mener la passation sans déclencher un audit qui bloque les couloirs avant ton départ.
-- **Grandes Familles** : négocier avec Cyrion Valdris, Seraphin Kaelthorne et les autres jusqu'à savoir ce qu'ils accepteront pour laisser passer ta sortie.
-- **Biens et preuves** : décider ce qui reste coffré, ce qui disparaît avec les Corbeaux et ce que tu gardes comme garantie personnelle.
-- **Partir propre** : quitter le poste avec une passation défendable, ou assez de preuves pour survivre si elle ne l'est plus.
+- Passation : transmettre le mandat avant le vol, pour ne plus porter seul la responsabilité officielle des coffres.
+- Chute d'Il-Irion : faire circuler au moins une dénonciation ou un faux contrat contre une maison présente à la Convention.
+- Familles rivales : pousser Cyrion Valdris (Il-Irion, Maison Valdris), Seraphin Kaelthorne (Il-Irion, Maison Kaelthorne), Calis Aedris (Il-Irion, Maison Aedris) ou Garrick Halvaren (Il-Irion, Maison Halvaren) à accuser une autre maison avant qu'ils s'unissent contre toi.
+- Biens et preuves : décider ce qui reste coffré, ce qui disparaît avec les Corbeaux de Minuit (voleurs, groupe extérieur), ce que tu livres aux autres cités et ce que tu gardes comme garantie personnelle.
+- Marda Velyss (Tripot, Ulghart) : lui proposer une alliance de survie si elle accepte de tenir le Tripot hors du centre de l'accusation et de relayer la menace contre les cités.
 
 # Connaissances
 
-## Cyrion Valdris et Seraphin Kaelthorne — Grandes Familles d'Il-Irion
+## Cyrion Valdris (Il-Irion, Maison Valdris) et Seraphin Kaelthorne (Il-Irion, Maison Kaelthorne)
 
-Cyrion Valdris et Seraphin Kaelthorne parlent pour les maisons d'Il-Irion sur les finances et les taux. Ils croient encore pouvoir contrôler la sortie du mandat. Tu peux les calmer en leur rappelant que certains de leurs propres arrangements dorment dans les coffres.
+Cyrion porte la façade diplomatique d'Il-Irion et sa candidature au conseil UBI. Seraphin tient les chiffres, les taux et les reports de dettes. Ils t'ont aidé à obtenir la direction d'Ulghart il y a cinq ans pour organiser des détournements au profit des maisons d'Il-Irion.
 
-Ne leur donne pas tout. Une preuve montrée trop tôt devient une arme contre toi. Une preuve annoncée au bon moment peut acheter quelques heures de silence.
 
-## Thoren — cousin à Ther-Félis
+## Calis Aedris (Il-Irion, Maison Aedris) et Garrick Halvaren (Il-Irion, Maison Halvaren)
 
-Thoren est ton cousin placé à Ther-Félis sous un nom d'emprunt. Tu l'as protégé quand une affaire de contrefaçon le menaçait. Si quelqu'un le retrouve, il peut devenir un levier contre toi.
+Calis dirige la coalition des maisons. Il cherche à garder Il-Irion uni assez longtemps pour survivre à la Convention. Sa priorité est la cohésion des maisons, pas la vérité des comptes. Une crise publique autour de Valdris ou Kaelthorne le mettrait en position d'arbitre.
 
-## Varek — Tripot (relais extérieur)
+Garrick tient la sécurité et les actions violentes. Il t'a révélé il y a huit ans ce qui est arrivé à ta famille. A priori, personne dans les maisons d'Il-Irion ne sait qu'il t'a parlé. Sa protection dépend encore des Halvaren, parce que l'accident de tes parents le met directement en cause.
 
-Varek tient le relais au Tripot pour transmettre les consignes vers l'extérieur. Ton nom ne doit pas apparaître sur une note hors casino. Tu n'as pas de contact direct avec le chef des Corbeaux de Minuit : tout passe par Varek.
+Isar Dornelis écoute les rumeurs et cherche les fuites. Marek Thorne connaît les relais hors île. Tous deux peuvent comprendre le trajet de tes lettres, faux contrats et copies de registres s'ils recoupent assez de témoignages.
+
+## Dossier de vengeance — pièces non enregistrées
+
+Tu as préparé des lettres, faux contrats et consignes qui ne figurent pas dans les registres de l'UBI. Ces pièces concernent les maisons d'Il-Irion, les autres cités et le Tripot. Selvara Quenndral t'a fourni les copies officielles des contrats VIP des cités. Les originaux ne figurent dans aucun inventaire public, mais les registres VIP du Tripot en gardent la trace. Ces registres suffisent déjà à prouver une partie du système.
+
+## Hélias de Montclair — Grand Vérificateur du Trésor
+
+Hélias de Montclair préside l'audit au nom de la Chambre des Vérificateurs du Trésor. Il vient d'Il-Irion et appartient à une ancienne lignée de juristes nobles.
+
+Sa réputation publique repose sur la loi et l'incorruptibilité. Sa faiblesse est le scandale : s'il comprend que l'audit peut éclabousser plusieurs cités et la Chambre elle-même, il cherchera peut-être une sortie qui garde l'autorité du contrôle intacte.
+
+## Varek (Tripot, relais extérieur)
+
+Varek tient le relais du Tripot vers l'extérieur, mais tu ne traites pas directement avec lui. Ydria cale avec lui les mouvements d'or et les créneaux compatibles avec ses signatures au comptoir. Vaelric suit le calendrier du raid et le récit public autour des Corbeaux de Minuit.
 
 ---
 

@@ -43,7 +43,7 @@ En public, on parle de passation ordonnée. En coulisse, le directeur sortant et
 
 Le directeur conserve pour lui les pièces les plus compromettantes, dont certaines concernent des cités qui ont cru l'UBI neutre. Palyr figure dans ce lot : contrats discrets, accords sur cargaisons non déclarées, correspondances déposées à une époque où votre Conseil fermait les yeux sur le papier. Je ne sais pas tout ce qu'il a confié à d'autres mains. Je sais seulement que plusieurs réseaux — patriciens, conseil, casino, gardes — peuvent faire éclater des documents si l'un d'eux tombe ou si l'on le pousse trop vite. Si le directeur disparaissait dans un accident malheureux avant la passation, je ne dormirais plus du tout : trop de copies circulent hors des coffres.
 
-Celui qui dirige la maison ne sait pas que je vous écris. L'archiviste pourrait le deviner si elle ouvrait ce pli par erreur. Le discréteur de la banque surveille les fuites ; je le croise dans les couloirs et je baisse les yeux. Je vous supplie de ne pas me forcer à répéter ces lignes à voix haute devant un tiers.
+Celui qui dirige la maison ne sait pas que je vous écris. L'archiviste pourrait le deviner si elle ouvrait ce pli par erreur. Le recouvreur mandaté de la banque sait transformer une fuite en convocation officielle ; je le croise dans les couloirs et je baisse les yeux. Je vous supplie de ne pas me forcer à répéter ces lignes à voix haute devant un tiers.
 
 ## Ce que je demande à Palyr
 

@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Kaelen « Griffes-de-Fer » Veynar |
+| Joueur | Alexandre Fernandez |
+| E-mail joueur | alexandre.fernandez99@gmail.com |
 | Rôle dans le groupe | Exécuteur de contrats — appui armé, pression, escortes sensibles |
 | Classe / profession | Guerrier |
 | Compétences | Torture ; Pugilat (7) |
@@ -46,7 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | 30 ans ; famille de forgerons du nord ; cicatrice d'ours à l'épaule gauche ; intégré dans la combine depuis 3 ans. |
-| Doublons (or) | 100 |
+| Argent | 2 400 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -129,7 +131,7 @@ Les familles nobles que tu as récupérées savent qui tu es et ce que tu peux r
 
 Pendant cinq ans tu as accompagné les opérations que la banque voulait faire aboutir, y compris quand la méthode ne devait pas apparaître au registre. Chaque intervention t'a donné une prise sur une maison noble ou une famille marchande : dette cachée, gage honteux, accord verbal ou témoin intimidable.
 
-En jeu, utilise ces dossiers pour faire taire une famille, obtenir une escorte ou empêcher un témoin de parler aux questeurs. Ne montre pas tout le dossier d'un coup. Un nom, une date ou un gage suffit souvent.
+Ces dossiers peuvent faire taire une famille, justifier une escorte ou empêcher un témoin de parler aux questeurs. Leur force vient souvent d'un détail précis : un nom, une date, un gage ou un témoin encore joignable.
 
 ## Dépôts — escorte et force visible — UBI
 

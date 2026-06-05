@@ -8,14 +8,14 @@ Chaque ligne rappelle un croisement plausible à Ulghart entre ton PJ du groupe 
 
 | Personnage du groupe (UBI) | Personnage en interaction | Descriptif rapide (2–3 lignes) |
 |---|---|---|
-| Edorian | Cyrion Valdris (Il-Irion) | Tu listes Cyrion parmi les poids familiaux quand tu pèses alliances et représailles avant la transition. L’historique commun est avant tout politique. |
-| Edorian | Seraphine Kaelthorne (Il-Irion) | Tu cites Seraphine comme ligne fortunes et arrangements côté maisons. Elle entre dans les opérations que tu dois boucler ou désamorcer avant le conseil suivant. |
-| Edorian | Thoren — lien Ther-Félis | Tu dois protéger ton cousin placé sous un nom d’emprunt avec des changeurs là-bas. C’est aussi un levier contre toi si quelqu’un l’atteint pour te contraindre. |
-| Edorian | Brann Crochemain (Corbeaux de Minuit) | Tu relies le casse mené par Brann à ton besoin d’un fait extérieur public pendant que tu refermes tes propres dossiers. Si ses gens parlent trop tôt, ton braquage de façade devient une confession de mandat. |
-| Edorian | Marda Velyss (Tripot) | Tu as contraint Marda à blanchir des flux via le Tripot en te servant de ce qu’elle cherche à cacher. Elle sait trop sur ce qui transite par le casino. Tu dois soit la garder sous contrôle jusqu’à la passation, soit t’en débarrasser avant. |
-| Melian Torv | Lysa Morwyn (Palyr) | Elle tient le canal par lequel passent les informations que tu lui as vendues et les engagements de protection accordés par Palyr. Elle est à Ulghart pendant la Régate. Tu dois maintenir les échanges dans un circuit que tu contrôles jusqu’à la passation. |
-| Melian Torv | Corvyn Valdrak (Palyr) | Il valide le volet financier des informations achetées par Palyr. Si la ligne politique de Palyr change avant la passation, Lysa ne peut plus tenir seule la promesse de protection. Tu surveilles les signaux qui viendraient de lui via Lysa. |
-| Ydria Ventoss | Contrebandiers, nobles endettés hors coffre légal | Tu relies lingots mouvants et pressions sur signatures rapides encore chères : double ligne utile jusqu’à l’instant où quelqu’un remonte tes deux berges depuis un même audit. |
+| Edorian | Cyrion Valdris (Il-Irion) | Cyrion porte la façade diplomatique d'Il-Irion et sa candidature au conseil UBI. Son lien avec Edorian passe par la nomination d'Ulghart, les détournements et les pièces de vengeance préparées contre Valdris. |
+| Edorian | Seraphin Kaelthorne (Il-Irion) | Seraphin tient les chiffres, les taux et les reports de dettes pour les maisons d'Il-Irion. Son lien avec Edorian passe par les détournements financiers et le dossier de Courcel. |
+| Edorian | Marda Velyss (Tripot) | Marda a fait passer des flux VIP par le Tripot sous contrainte d'Edorian. Elle connaît une partie du blanchiment, mais pas forcément tout le plan de sortie de l'UBI. |
+| Vaelric Dorn | Varek (Tripot) | Vaelric cale avec Varek les prétextes de déplacement utiles au raid : convocations, mandats, escortes ou saisies plausibles. Il n'a pas de contact direct avec Brann Crochemain ni avec les Corbeaux. |
+| Ydria Ventoss | Varek (Tripot) | Ydria cale avec Varek les créneaux compatibles avec les mouvements d'or et les signatures au comptoir. Le lien avec les Corbeaux passe par Varek, sans trace bancaire directe. |
+| Melian Torv | Lysa Morwyn (Palyr) | Lysa tient le canal Palyr sur les informations vendues par Melian. Elle a reçu la lettre de dénonciation et attend les références exploitables après paiement du second versement. |
+| Melian Torv | Corvyn Valdrak (Palyr) | Corvyn valide le volet financier des informations achetées par Palyr. Si sa ligne politique change, Lysa ne peut plus garantir seule la protection promise à Melian. |
+| Ydria Ventoss | Neral Voss et Tessa Mire (Palyr) | Neral Voss et Tessa Mire sont des contacts extérieurs capables de déplacer des valeurs hors des circuits bancaires. Ils concernent d'abord la sortie personnelle d'Ydria, pas la couverture complète du vol des coffres. |
 
 ---
 
@@ -25,6 +25,6 @@ Ces fils existent dans `Intrigues/Intrigue_Banquiers.md` ou `Groupes/Fiche_inter
 
 | PJ UBI | Autre interlocuteur | Remarque |
 |--------|---------------------|----------|
-| Vaelric Dorn | Brann Crochemain (Corbeaux) | Les mandats de recouvrement peuvent fournir des prétextes officiels à certains déplacements autour du fort ; pas de mention « Brann » dans `UBI_Vaelric_Dorn_Discreteur.md` au moment du check. |
+| Varek (Tripot) | Brann Crochemain (Corbeaux) | Varek est le seul contact direct entre le Tripot/UBI et les Corbeaux de Minuit. Vaelric et Ydria passent par lui pour les horaires, les signes et les contraintes de passage. |
 | Melian Torv | Lucan Marivent (Il-Irion) | Peut solliciter Melian sur la moralité des coffres (intrigue) ; pas de mention dans `UBI_Melian_Torv_Conseiller_spirituel.md` sous Connaissances. |
 | Selvara Quenndral | Isar Dornelis (Il-Irion) | Combat documentaire suivi côté Il-Irion ; pas de mention Isar sous Connaissances Selvara au moment du check. |

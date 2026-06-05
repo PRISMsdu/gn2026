@@ -45,6 +45,8 @@ param(
 
   [string] $OutputHtmlPath = "",
   [string] $InstitutionLigne = "",
+  [Alias('Seal')]
+  [string] $Sceau = "",
   [ValidateSet('A4', 'A3')]
   [string] $Format = 'A4',
   [switch] $SkipPdf,
@@ -284,6 +286,39 @@ if ($CharteSignatures) {
     -TitreHtml '&#10022;&ensp;Signatures et visa&ensp;&#10022;'
 }
 
+if (-not [string]::IsNullOrWhiteSpace($Sceau)) {
+  $sceauCandidate = $Sceau.Trim()
+  $sceauPath = $null
+  if ([System.IO.Path]::IsPathRooted($sceauCandidate) -and (Test-Path -LiteralPath $sceauCandidate)) {
+    $sceauPath = (Resolve-Path -LiteralPath $sceauCandidate).Path
+  }
+  else {
+    foreach ($candidateBase in @((Get-Location).Path, $mdDir)) {
+      $candidate = Join-Path $candidateBase $sceauCandidate
+      if (Test-Path -LiteralPath $candidate) {
+        $sceauPath = (Resolve-Path -LiteralPath $candidate).Path
+        break
+      }
+    }
+  }
+  if (-not $sceauPath) {
+    Write-Error "Sceau introuvable : $Sceau"
+  }
+
+  $sceauPrint = Optimize-ExportImageForPrint -SourcePath $sceauPath -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+  $sceauRel = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $sceauPrint
+  $sceauAlt = [System.Net.WebUtility]::HtmlEncode('Sceau')
+  $sceauHtml = '<img src="' + $sceauRel + '" alt="' + $sceauAlt + '" class="doc-export-signature-seal" />'
+
+  $signatureSealRegex = [regex]'(?s)<div class="doc-export-signature">(?<inner>.*?)</div>'
+  $signatureSealEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      if ($m.Value -match 'doc-export-signature-seal') { return $m.Value }
+      return '<div class="doc-export-signature doc-export-signature-with-seal">' + $m.Groups['inner'].Value + $sceauHtml + '</div>'
+    }
+  $bodyInner = $signatureSealRegex.Replace($bodyInner, $signatureSealEvaluator)
+}
+
 $pageTitle = Get-ExtractedPlainFromFirstH1 -Html $bodyInner
 if ([string]::IsNullOrWhiteSpace($pageTitle)) { $pageTitle = $baseName }
 $pageTitleEsc = [System.Net.WebUtility]::HtmlEncode($pageTitle)
@@ -360,6 +395,33 @@ body.doc-officiel #contenu-avis h2::after {
 }
 
 '@
+if (-not [string]::IsNullOrWhiteSpace($Sceau)) {
+  $docOverridesCss += @'
+
+body.doc-officiel #contenu-avis .doc-export-signature-with-seal {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.2rem;
+  width: 100%;
+  margin: 0.9rem 0 0.2rem;
+  text-align: left;
+}
+
+body.doc-officiel #contenu-avis .doc-export-signature-with-seal img.doc-export-signature-ink {
+  max-height: 28mm;
+  max-width: 68%;
+}
+
+body.doc-officiel #contenu-avis .doc-export-signature-with-seal img.doc-export-signature-seal {
+  width: 30mm;
+  height: 30mm;
+  object-fit: contain;
+  margin-left: auto;
+}
+
+'@
+}
 if ($Format -eq 'A3') {
   $pageOverride = '@page { size: A3; margin: 25mm 22mm; } body.avis-document { width: 297mm; max-width: 297mm; min-height: 420mm; padding: 25mm 22mm; }'
 }

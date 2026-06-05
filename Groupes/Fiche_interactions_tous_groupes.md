@@ -34,7 +34,7 @@ Colonnes :
 |---|---|---|
 | Cyrion Valdris | Rauth Kaelmar (Ther-Felis) | Cyrion pousse la ligne officielle anti Ther-Felis tout en preservant une porte de sortie diplomatique utile a l'UBI. |
 | Lucan Marivent | Rauth Kaelmar (Ther-Felis) | Lucan prepare la plainte confederale (prix agressifs, denigrement) pour placer Ther-Felis en position defensive. |
-| Seraphine Kaelthorne | Dorian Marest (Ther-Felis) | Bras de fer sur les taux et la dette : Seraphine veut securiser les creances, Dorian veut renegocier en bloc. |
+| Seraphin Kaelthorne | Dorian Marest (Ther-Felis) | Bras de fer sur les taux et la dette : Seraphin veut securiser les creances, Dorian veut renegocier en bloc. |
 | Calis Aedris | Kaelen Voss (Palyr) | Rivalite de regate et prestige maritime : Calis protege l'image navale d'Il-Irion contre la frégate palyrienne. |
 | Calis Aedris | Thoran Keld (Palyr) | Negoce et fret : Thoran defend les contrats de quai et de minerai de Palyr face aux armateurs ilirioniens. |
 | Isar Dornelis | Lysa Morwyn (Palyr) | Guerre d'information : Isar traque les fuites UBI vers Palyr pour limiter le levier de chantage. |
@@ -43,7 +43,7 @@ Colonnes :
 | Cyrion Valdris | Edorian (UBI) | Relation toxique : Cyrion veut controle et stabilite, Edorian garde des secrets pouvant retourner les familles. |
 | Lucan Marivent | Melian (UBI) | Lucan tente de cadrer ou discrediter Melian selon l'impact de ses fuites vers Palyr. |
 | Calis Aedris | Marda Velyss (Tripot) | Contact indirect sur flux et clientele : Calis veut eviter que le Tripot devienne une arme politique contre Il-Irion. |
-| Seraphine Kaelthorne | Delegue Arthas | Seraphine defend le systeme de taux face a la volonte d'Arthas de remplacer l'UBI. |
+| Seraphin Kaelthorne | Delegue Arthas | Seraphin defend le systeme de taux face a la volonte d'Arthas de remplacer l'UBI. |
 | Marek Thorne | Intermediaires Guilde des Ports Unis | Marek traite la Guilde comme acteur marchand legitime, sans connaitre sa possible nature de couverture mafieuse. |
 
 ---
@@ -54,14 +54,14 @@ Colonnes :
 
 | Personnage du groupe (UBI) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Edorian | Cyrion Valdris (Il-Irion) | Tu listes Cyrion parmi les poids familiaux quand tu pèses alliances et représailles avant la transition ; l’historique commun est avant tout politique. |
-| Edorian | Seraphine Kaelthorne (Il-Irion) | Tu cites Seraphine comme ligne fortunes et arrangements côté maisons ; elle entre dans les opérations à boucler avant le conseil suivant. |
-| Edorian | Thoren — lien Ther-Félis | Tu dois protéger ton cousin placé sous nom d’emprunt avec changeurs ; c’est un levier contre toi si on l’atteint pour te contraindre. |
-| Edorian | Brann Crochemain (Corbeaux de Minuit) | Tu relies le casse mené par Brann au besoin d’un fait extérieur pendant que tu refermes tes dossiers ; s’ils parlent trop tôt, le braquage de façade devient une confession de mandat. |
-| Edorian | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs tient des éléments sur des flux encore sales ; tu gagneras encore du temps plutôt qu’un duel ouvert jusqu’à croisement des appuis. |
-| Edorian | Marda Velyss (Tripot) | Tu as contraint Marda à blanchir des flux via le Tripot en te servant de ce qu’elle cherche à cacher. Elle sait trop sur ce qui transite par le casino. Tu dois soit la garder sous contrôle jusqu’à la passation, soit t’en débarrasser avant. |
-| Melian Torv | Lysa Morwyn (Palyr) | 2 000 couronnes convenues ; 1 000 reçues. Tu as remis la lettre sans références internes. Tu livreras codes et extraits après le second millier. Elle est à Ulghart pour la Régate ; garde le canal fermé jusqu’à la passation. |
-| Melian Torv | Corvyn Valdrak (Palyr) | Il valide le volet financier des informations achetées par Palyr. Si la ligne politique de Palyr change avant la passation, Lysa ne peut plus tenir seule la promesse de protection. Tu surveilles les signaux qui viendraient de lui via Lysa. |
+| Edorian | Cyrion Valdris (Il-Irion) | Cyrion porte la façade diplomatique d'Il-Irion et sa candidature au conseil UBI. Le lien avec Edorian passe par la nomination d'Ulghart, les détournements et les pièces préparées contre Valdris. |
+| Edorian | Seraphin Kaelthorne (Il-Irion) | Seraphin tient les chiffres, les taux et les reports de dettes pour les maisons d'Il-Irion. Le lien avec Edorian passe par les détournements financiers et le dossier de Courcel. |
+| Edorian | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs tient des éléments sur des flux encore sales. Cette pression concerne la banque, mais elle ne remplace pas le relais Varek pour l'opération des Corbeaux. |
+| Edorian | Marda Velyss (Tripot) | Marda a fait passer des flux VIP par le Tripot sous contrainte d'Edorian. Elle connaît une partie du blanchiment, mais pas forcément tout le plan de sortie de l'UBI. |
+| Vaelric Dorn | Varek (Tripot) | Vaelric cale avec Varek les prétextes de déplacement utiles au raid : convocations, mandats, escortes ou saisies plausibles. Il n'a pas de contact direct avec Brann Crochemain ni avec les Corbeaux. |
+| Ydria Ventoss | Varek (Tripot) | Ydria cale avec Varek les créneaux compatibles avec les mouvements d'or et les signatures au comptoir. Le lien avec les Corbeaux passe par Varek, sans trace bancaire directe. |
+| Melian Torv | Lysa Morwyn (Palyr) | 2 000 couronnes convenues ; 1 000 reçues. Melian a remis la lettre sans références internes. Les codes et extraits dépendent du second millier et de la protection promise par Palyr. |
+| Melian Torv | Corvyn Valdrak (Palyr) | Corvyn valide le volet financier des informations achetées par Palyr. Si sa ligne politique change, Lysa ne peut plus garantir seule la protection promise à Melian. |
 | Kaelen Veynar | Kaelan Thormane (Mafia, Sangs) | Le chef des Sangs a croisé tes réseaux de recouvrement plusieurs fois. Ni alliance ni conflit ouvert, mais une mémoire partagée de ce que chacun a vu sur le terrain. Cette connaissance mutuelle peut devenir une pression si l’un des deux décide d’en faire usage avant la passation. |
 | Ydria Ventoss | Kaelan Thormane (Mafia, Sangs) | Leur réseau peut évacuer de l’or hors circuit officiel quand tes filières ne suffisent plus ; tu portes une dette encore coûteuse à tenir fermée. |
 | Ydria Ventoss | Contrebandiers, nobles endettés | Fil de lingots mouvants et pressions sur signatures encore chères ; double ligne utile jusqu’à l’audit commun. |
@@ -70,7 +70,7 @@ Colonnes :
 | Corvus | Kaelan Thormane (Mafia, Sangs) | Kaelan est ton commanditaire réel ; tu livres accès et infos tout en gardant la couverture banque intacte sous Horgrim. |
 | Corvus | Guilde des Ports Unis (couverture) | Tu gardes une identité plausible de couverture côté Guilde ; ta loyauté reste aux Sangs quand la pression monte. |
 
-Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Vaelric × Brann**, **Melian × Lucan Marivent**, **Selvara × Isar**, **Horgrim × Lysa**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
+Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mention récente sous Connaissances UBI correspondante lors du consolidation check : **Melian × Lucan Marivent**, **Selvara × Isar**, **Horgrim × Lysa**, **Edorian × Calis**, **Edorian × Dorian** — voir `Groupes/Fiche_interactions_tous_groupes.md` autres chapitres, `Intrigue_Banquiers.md`, et fichier `Banquiers - UBI/interactions du groupe UBI.md`, annexe.
 
 ---
 
@@ -91,7 +91,7 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Vorak Ironhand | Cyrion Valdris (Il-Irion) | Un fragment du dossier Valdris seulement ; le chef garde la série complète. |
 | Gareth Ironfist | Korran Vesper (PNJ) | Escorte terrestre des remises ; pas le même billet que le gage du chef. |
 | Gareth Ironfist | Marda Velyss (Tripot) | Dette de jeu et couloir libre ; zone sensible, pas alliance ouverte. |
-| Gareth Ironfist | Edorian / ligne UBI | Angle muscle et accès — pas le pamphlet entier du discréteur. |
+| Gareth Ironfist | Edorian / UBI | Angle muscle et accès — pas le dossier entier du recouvreur mandaté. |
 | Gareth Ironfist | Cyrion Valdris (Il-Irion) | Facette surtaxes portuaires distincte des lettres d’adultère exploitées ailleurs. |
 | Drask Bloodmoon | Sybrel Dornik, Vaelric Dorn, Ydria Ventoss (UBI) | Lecture chimique et stress des dossiers ; cadre interrogatoires avec Vorak. |
 | Drask Bloodmoon | Korran Vesper (PNJ) | Synchronisation si une séquence relie pirates et preuves fer. |
@@ -182,16 +182,12 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 
 | Personnage du groupe (Corbeaux) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
-| Brann Crochemain | Edorian (UBI) | Contrat de casse : Brann execute le vol scenarise qui doit blanchir la responsabilite du conseil sortant. |
-| Brann Crochemain | Vaelric Dorn (UBI) | Coordination narrative : Vaelric fixe les faux recits publics, Brann ajuste le mode operatoire en consequence. |
-| Brann Crochemain | Selvara Quenndral (UBI) | Ciblage des archives : Selvara peut orienter ce qui doit disparaitre ou sembler vole pendant le chaos. |
-| Brann Crochemain | Corvus (UBI infiltre mafia) | Friction souterraine : Corvus peut detourner l'operation vers les interets des Sangs sans prevenir Brann. |
+| Brann Crochemain | Varek (Tripot) | Varek est le seul relais direct entre les Corbeaux et l'opération préparée autour de l'UBI. Horaires, signes et contraintes de passage arrivent par lui. |
 | Brann Crochemain | Kaelan Thormane (Mafia) | Rivalite de butin : Kaelan veut des documents precis et peut tenter de capturer le fruit du casse. |
 | Brann Crochemain | Lysa Morwyn (Palyr) | Collision d'objectifs : Brann veut sortir vite, Lysa veut recuperer des pieces ciblees avant fermeture des acces. |
 | Brann Crochemain | Cyrion Valdris (Il-Irion) | Contrecoup politique : si le casse fuit, Cyrion exploite ou ecrase l'affaire pour sauver la facade il-irionienne. |
 | Brann Crochemain | Gorvan Tresselune (Voleurs 1) | Risque de doublon : deux equipes de vol sur la meme banque provoquent erreurs, competition ou alliance forcee. |
 | Brann Crochemain | Marda Velyss (Tripot) | Repli possible : utilisation du Tripot comme sas logistique ou relais de blanchiment post-operation. |
-| Brann Crochemain | Horgrim Dval (UBI) | Affrontement tactique : Horgrim verrouille les acces, Brann cherche la fenetre courte et les sorties non surveillees. |
 
 ---
 

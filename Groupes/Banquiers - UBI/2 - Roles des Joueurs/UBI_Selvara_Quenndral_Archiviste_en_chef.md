@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Selvara Quenndral |
+| Joueur | Marie Bouvier |
+| E-mail joueur | jonathan.dury@orange.fr |
 | Rôle dans le groupe | Archiviste en chef — conseil ; registres, sceaux inter-cités, actes légaux |
 | Classe / profession | Archiviste |
 | Compétences | Erudit |
@@ -46,7 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | 40 ans ; famille de mages érudits ruinée ; mémoire des codes coffres ; copies secrètes de documents compromettants. |
-| Doublons (or) | 100 |
+| Argent | 4 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -123,9 +125,31 @@ Le réseau érudit entretenu à Sfaal et Il-Irion reste ta porte de sortie si le
 
 ## Registres officiels et registres internes — UBI
 
-La série officielle doit rester montrable au nouveau conseil. La série interne te permet de savoir quel acte couvre quel mouvement réel. Si un auditeur demande une pièce, commence par lui donner la version officielle et gagne du temps avant toute consultation approfondie.
+La série officielle doit rester montrable au nouveau conseil. La série interne te permet de savoir quel acte couvre quel mouvement réel. Une demande d'auditeur commence normalement par la version officielle ; toute consultation approfondie augmente le risque de comparer les deux séries.
 
 Les codes coffres, numéros, séquences et sceaux sont dans ta mémoire. Personne d'autre dans le fort n'a la correspondance complète. Cette avance disparaît si l'on t'oblige à ouvrir les deux séries de registres côte à côte.
+
+## Chambre des Vérificateurs du Trésor
+
+Les auditeurs annoncés sont Hélias de Montclair, Grand Vérificateur du Trésor des Cinq Cités ; Dame Ysandre de Valombre, Contrôleuse des Flux et Créances ; Sire Alard de Brévigne, Auditeur des Comptes des Maisons Nobles ; Sire Mélard d'Aiguevive, Inspecteur des Réserves et Trésors Physiques ; Sire Corvin d'Haulne, Maître des Registres et Archives Comptables ; Sire Elwë de Lornac, Contrôleur des Impôts, Taxes et Dîmes.
+
+## Sire Corvin d'Haulne — registres et archives comptables
+
+Sire Corvin d'Haulne est le Maître des Registres et Archives Comptables de la Chambre. Il connaît les classements, les sceaux, les écritures de copie et les manières de falsifier une liasse sans toucher au texte principal.
+
+C'est l'auditeur le plus dangereux pour toi. Il ne cherche pas seulement une erreur de chiffre : il regarde l'ordre des parchemins, la fraîcheur de l'encre, les écarts entre souche et copie, et les sceaux qui ne correspondent pas à la date annoncée.
+
+## Sire Alard de Brévigne — comptes des maisons nobles
+
+Sire Alard de Brévigne vérifie les comptes qui lient la banque aux grandes familles. Son domaine recoupe les correspondances nobles, les clauses de prêts à taux gonflés et les dossiers de familles que tu as copiés ou couverts dans les archives.
+
+Alard est pris entre son devoir et les intérêts de sa propre maison, lourdement endettée. S'il voit qu'un registre peut exposer des maisons nobles sans exposer la sienne, il peut choisir ses questions avec prudence.
+
+## Sire Elwë de Lornac — impôts, taxes et dîmes
+
+Sire Elwë de Lornac contrôle les impôts, les taxes et les dîmes prélevés par la banque. Il peut demander les actes qui justifient un droit de garde, une exemption, une catégorie de dépôt ou un versement déclaré comme régulier.
+
+Son ambition politique le rend dangereux : il peut utiliser une irrégularité technique pour ouvrir un dossier plus large. Les actes que tu as rédigés pour couvrir les mouvements d'Ydria doivent donc rester cohérents avec les taxes affichées.
 
 ## Copies personnelles
 
@@ -137,7 +161,7 @@ Ces pièces ne servent pas à sauver l'UBI. Elles servent à négocier ta protec
 
 Tes contacts extérieurs sont des archivistes, des traducteurs et des professeurs de droit coutumier. Ils savent que tu es compétente. Ils ne savent pas que tu as falsifié des registres pour l'UBI.
 
-Si la passation tourne mal, ce réseau peut te fournir un nom, un refuge ou un emploi discret. Ne leur envoie aucune pièce qui les force à comprendre le plan complet avant que tu sois sortie du fort.
+Si la passation tourne mal, ce réseau peut te fournir un nom, un refuge ou un emploi discret. Une pièce trop complète les obligerait à comprendre le plan avant ta sortie du fort et les rendrait dangereux pour toi.
 
 ---
 

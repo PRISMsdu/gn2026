@@ -4,7 +4,7 @@
 
 ## Ce que tu sais (et ce que tout le monde peut savoir)
 
-Tu transformes les priorités de **Calis** (chef de coalition) et de **Cyrion** (diplomatie), avec l’argent de **Seraphine**, en **présence réelle** dans les couloirs étrangers. Quand l’ombre ne suffit plus, tu fais appel à **Garrick**.
+Tu transformes les priorités de **Calis** (chef de coalition) et de **Cyrion** (diplomatie), avec l’argent de **Seraphin**, en **présence réelle** dans les couloirs étrangers. Quand l’ombre ne suffit plus, tu fais appel à **Garrick**.
 
 ## Pistes de jeu
 

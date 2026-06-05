@@ -2,7 +2,7 @@
 
 Carnet des encaissements VIP. Cinquième exercice — partiel, clôturé au VIII-30 547 à la veille du changement de conseil UBI prévu IX-1.
 
-Volume au plus haut niveau du cycle : ~+20 % sur le rythme mensuel de 546, plafond `IV` (3 000 c) atteint sur les fêtes, plafond `III` (< 1 500 c) frôlé sur les contrats les plus appuyés. Mois VIII volontairement chargé pour solder avant la passation.
+Volume au plus haut niveau du cycle : le circuit est désormais ouvert aux quatre autres cités, avec des opérations courantes autour de 3 000 à 4 000 c et des entrées nouvelles entre 5 000 et 7 000 c. Mois VIII volontairement chargé pour solder avant la passation.
 
 Nomenclature de référence : `FC-{classe}-547-NNN`.
 
@@ -22,18 +22,19 @@ Solde UBI ouverture (référence) : 13 500 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| I-7 | Ve | FC-III-547-008 | Perdant désigné — capitaine palyrien, dés | +1 400 | 1 400 |
-| I-15 | Sa | FC-IV-547-020 | Émissaire — tournoi privé | +2 800 | 4 200 |
-| I-23 | Di | FC-III-547-028 | Perdant désigné — armateur ilirionien, salon B | +1 400 | 5 600 |
+| I-7 | Ve | FC-III-547-008 | Perdant désigné — capitaine palyrien, dés | +3 700 | 3 700 |
+| I-15 | Sa | FC-IV-547-020 | Émissaire — tournoi privé | +3 900 | 7 600 |
+| I-23 | Di | FC-III-547-028 | Perdant désigné — armateur ilirionien, salon B | +3 700 | 11 300 |
+| I-27 | Je | FC-IV-547-034 | Nouveau relais Ther-Félis — perdant désigné, salon B | +6 400 | 17 700 |
 
 ### Clôture mois I — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (3 contrats) | +5 600 |
-| **Surplus VIP** | **+5 600** |
-| Marge tripot 10 % (caisse interne hors UBI) | −560 |
-| Sortie 90 % remise sur quittance | −5 040 |
+| Total IN VIP (4 contrats) | +17 700 |
+| **Surplus VIP** | **+17 700** |
+| Marge tripot 10 % (caisse interne hors UBI) | −1 770 |
+| Sortie 90 % remise sur quittance | −15 930 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture I-30 (référence) | 14 400 |
 
@@ -45,16 +46,17 @@ Solde UBI ouverture (référence) : 14 400 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| II-15 | Sa | FC-III-547-060 | Perdant désigné — capitaine en escale, dés | +1 400 | 1 400 |
+| II-15 | Sa | FC-III-547-060 | Perdant désigné — capitaine en escale, dés | +3 700 | 3 700 |
+| II-22 | Sa | FC-IV-547-068 | Nouveau relais Arthas — perdant désigné, dés | +6 200 | 9 900 |
 
 ### Clôture mois II — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (1 contrat) | +1 400 |
-| **Surplus VIP** | **+1 400** |
-| Marge tripot 10 % (caisse interne) | −140 |
-| Sortie 90 % remise sur quittance | −1 260 |
+| Total IN VIP (2 contrats) | +9 900 |
+| **Surplus VIP** | **+9 900** |
+| Marge tripot 10 % (caisse interne) | −990 |
+| Sortie 90 % remise sur quittance | −8 910 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture II-29 (référence) | 15 400 |
 
@@ -66,16 +68,17 @@ Solde UBI ouverture (référence) : 15 400 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| III-15 | Sa | FC-III-547-094 | Perdant désigné — marchand sfaalien, cartes | +1 450 | 1 450 |
+| III-15 | Sa | FC-III-547-094 | Perdant désigné — marchand sfaalien, cartes | +3 800 | 3 800 |
+| III-22 | Sa | FC-IV-547-104 | Nouveau relais Sfaal — perdant désigné, cartes | +6 100 | 9 900 |
 
 ### Clôture mois III — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (1 contrat) | +1 450 |
-| **Surplus VIP** | **+1 450** |
-| Marge tripot 10 % (caisse interne) | −145 |
-| Sortie 90 % remise sur quittance | −1 305 |
+| Total IN VIP (2 contrats) | +9 900 |
+| **Surplus VIP** | **+9 900** |
+| Marge tripot 10 % (caisse interne) | −990 |
+| Sortie 90 % remise sur quittance | −8 910 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture III-30 (référence) | 16 200 |
 
@@ -87,18 +90,19 @@ Solde UBI ouverture (référence) : 16 200 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| IV-14 | Ve | FC-IV-547-122 | Émissaire — tournoi privé | +2 600 | 2 600 |
-| IV-22 | Sa | FC-III-547-132 | Perdant désigné — maison palyrienne, cartes | +1 400 | 4 000 |
-| IV-28 | Ve | FC-III-547-140 | Perdant désigné — officier des douanes, salon B | +1 450 | 5 450 |
+| IV-14 | Ve | FC-IV-547-122 | Émissaire — tournoi privé | +3 800 | 3 800 |
+| IV-22 | Sa | FC-III-547-132 | Perdant désigné — maison palyrienne, cartes | +3 700 | 7 500 |
+| IV-28 | Ve | FC-III-547-140 | Perdant désigné — officier des douanes, salon B | +3 800 | 11 300 |
+| IV-28 | Ve | FC-IV-547-144 | Nouveau relais Palyr — perdant désigné, cartes | +6 500 | 17 800 |
 
 ### Clôture mois IV — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (3 contrats) | +5 450 |
-| **Surplus VIP** | **+5 450** |
-| Marge tripot 10 % (caisse interne) | −545 |
-| Sortie 90 % remise sur quittance | −4 905 |
+| Total IN VIP (4 contrats) | +17 800 |
+| **Surplus VIP** | **+17 800** |
+| Marge tripot 10 % (caisse interne) | −1 780 |
+| Sortie 90 % remise sur quittance | −16 020 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture IV-29 (référence) | 17 300 |
 
@@ -110,16 +114,17 @@ Solde UBI ouverture (référence) : 17 300 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| V-15 | Sa | FC-III-547-167 | Perdant désigné — armateur ilirionien, salon B | +1 400 | 1 400 |
+| V-15 | Sa | FC-III-547-167 | Perdant désigné — armateur ilirionien, salon B | +3 700 | 3 700 |
+| V-23 | Di | FC-IV-547-176 | Nouveau relais Ther-Félis — perdant désigné, dés | +6 200 | 9 900 |
 
 ### Clôture mois V — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (1 contrat) | +1 400 |
-| **Surplus VIP** | **+1 400** |
-| Marge tripot 10 % (caisse interne) | −140 |
-| Sortie 90 % remise sur quittance | −1 260 |
+| Total IN VIP (2 contrats) | +9 900 |
+| **Surplus VIP** | **+9 900** |
+| Marge tripot 10 % (caisse interne) | −990 |
+| Sortie 90 % remise sur quittance | −8 910 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture V-30 (référence) | 18 400 |
 
@@ -131,16 +136,17 @@ Solde UBI ouverture (référence) : 18 400 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| VI-15 | Sa | FC-III-547-200 | Perdant désigné — maison ilirionienne, cartes | +1 450 | 1 450 |
+| VI-15 | Sa | FC-III-547-200 | Perdant désigné — maison ilirionienne, cartes | +3 800 | 3 800 |
+| VI-22 | Sa | FC-IV-547-210 | Nouveau relais Arthas — perdant désigné, salon B | +6 500 | 10 300 |
 
 ### Clôture mois VI — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (1 contrat) | +1 450 |
-| **Surplus VIP** | **+1 450** |
-| Marge tripot 10 % (caisse interne) | −145 |
-| Sortie 90 % remise sur quittance | −1 305 |
+| Total IN VIP (2 contrats) | +10 300 |
+| **Surplus VIP** | **+10 300** |
+| Marge tripot 10 % (caisse interne) | −1 030 |
+| Sortie 90 % remise sur quittance | −9 270 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture VI-30 (référence) | 19 500 |
 
@@ -152,18 +158,19 @@ Solde UBI ouverture (référence) : 19 500 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| VII-1 | Sa | FC-IV-547-218 | Émissaire — tournoi privé | +3 000 | 3 000 |
-| VII-13 | Je | FC-III-547-230 | Perdant désigné — capitaine palyrien, dés | +1 400 | 4 400 |
-| VII-22 | Sa | FC-III-547-244 | Perdant désigné — marchand sfaalien, cartes | +1 450 | 5 850 |
+| VII-1 | Sa | FC-IV-547-218 | Émissaire — tournoi privé | +4 000 | 4 000 |
+| VII-13 | Je | FC-III-547-230 | Perdant désigné — capitaine palyrien, dés | +3 700 | 7 700 |
+| VII-22 | Sa | FC-III-547-244 | Perdant désigné — marchand sfaalien, cartes | +3 800 | 11 500 |
+| VII-27 | Je | FC-IV-547-256 | Nouveau relais Sfaal — perdant désigné, cartes | +6 300 | 17 800 |
 
 ### Clôture mois VII — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (3 contrats) | +5 850 |
-| **Surplus VIP** | **+5 850** |
-| Marge tripot 10 % (caisse interne) | −585 |
-| Sortie 90 % remise sur quittance | −5 265 |
+| Total IN VIP (4 contrats) | +17 800 |
+| **Surplus VIP** | **+17 800** |
+| Marge tripot 10 % (caisse interne) | −1 780 |
+| Sortie 90 % remise sur quittance | −16 020 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture VII-29 (référence) | 14 400 |
 
@@ -173,23 +180,24 @@ Solde UBI ouverture (référence) : 19 500 c. Caisse VIP ouverture : 0 c.
 
 Solde UBI ouverture (référence) : 14 400 c. Caisse VIP ouverture : 0 c.
 
-Mois plein, dernier mois consigné — quatre contrats pour solder avant le changement de conseil.
+Mois plein, dernier mois consigné — cinq contrats pour solder avant le changement de conseil.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| VIII-7 | Ve | FC-III-547-269 | Perdant désigné — capitaine ilirionien, dés | +1 400 | 1 400 |
-| VIII-15 | Sa | FC-IV-547-279 | Émissaire — tournoi privé | +3 000 | 4 400 |
-| VIII-22 | Sa | FC-III-547-289 | Perdant désigné — armateur palyrien, cartes | +1 450 | 5 850 |
-| VIII-28 | Ve | FC-III-547-297 | Perdant désigné — maison sfaalienne, salon B | +1 450 | 7 300 |
+| VIII-7 | Ve | FC-III-547-269 | Perdant désigné — capitaine ilirionien, dés | +3 700 | 3 700 |
+| VIII-15 | Sa | FC-IV-547-279 | Émissaire — tournoi privé | +4 000 | 7 700 |
+| VIII-22 | Sa | FC-III-547-289 | Perdant désigné — armateur palyrien, cartes | +3 800 | 11 500 |
+| VIII-28 | Ve | FC-III-547-297 | Perdant désigné — maison sfaalienne, salon B | +3 800 | 15 300 |
+| VIII-29 | Sa | FC-IV-547-299 | Nouveau relais Palyr — perdant désigné, salon B | +6 600 | 21 900 |
 
 ### Clôture mois VIII — 547
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (4 contrats) | +7 300 |
-| **Surplus VIP** | **+7 300** |
-| Marge tripot 10 % (caisse interne) | −730 |
-| Sortie 90 % remise sur quittance | −6 570 |
+| Total IN VIP (5 contrats) | +21 900 |
+| **Surplus VIP** | **+21 900** |
+| Marge tripot 10 % (caisse interne) | −2 190 |
+| Sortie 90 % remise sur quittance | −19 710 |
 | **Caisse VIP fin de mois** | **0** |
 | Solde UBI clôture VIII-30 (référence) | 15 400 |
 
@@ -201,33 +209,33 @@ Toutes les valeurs en couronnes (c). Aucun cumul VIP d'un mois sur l'autre.
 
 | Mois | Contrats | IN VIP | Marge tripot 10 % | Sortie 90 % |
 |---|---:|---:|---:|---:|
-| I (Samonios — Samain) | 3 | +5 600 | −560 | −5 040 |
-| II (Dumannios) | 1 | +1 400 | −140 | −1 260 |
-| III (Riuros) | 1 | +1 450 | −145 | −1 305 |
-| IV (Anagantios — Imbolc) | 3 | +5 450 | −545 | −4 905 |
-| V (Ogronios) | 1 | +1 400 | −140 | −1 260 |
-| VI (Cutios) | 1 | +1 450 | −145 | −1 305 |
-| VII (Giamonios — Beltaine) | 3 | +5 850 | −585 | −5 265 |
-| VIII (Simivisonios) — clôture exercice | 4 | +7 300 | −730 | −6 570 |
-| **Total 547 (partiel I-VIII)** | **17** | **+29 900** | **−2 990** | **−26 910** |
+| I (Samonios — Samain) | 4 | +17 700 | −1 770 | −15 930 |
+| II (Dumannios) | 2 | +9 900 | −990 | −8 910 |
+| III (Riuros) | 2 | +9 900 | −990 | −8 910 |
+| IV (Anagantios — Imbolc) | 4 | +17 800 | −1 780 | −16 020 |
+| V (Ogronios) | 2 | +9 900 | −990 | −8 910 |
+| VI (Cutios) | 2 | +10 300 | −1 030 | −9 270 |
+| VII (Giamonios — Beltaine) | 4 | +17 800 | −1 780 | −16 020 |
+| VIII (Simivisonios) — clôture exercice | 5 | +21 900 | −2 190 | −19 710 |
+| **Total 547 (partiel I-VIII)** | **25** | **+115 200** | **−11 520** | **−103 680** |
 
 ### Consolidation annuelle VIP 547 (partielle)
 
 | Libellé | Valeur (c) |
 |---|---:|
-| Total IN VIP (17 contrats sur 8 mois — exercice partiel) | +29 900 |
-| **Surplus VIP brut** | **+29 900** |
-| Marge tripot — caisse interne | 2 990 |
-| Sortie totale remise sur quittance | 26 910 |
+| Total IN VIP (25 contrats sur 8 mois — exercice partiel) | +115 200 |
+| **Surplus VIP brut** | **+115 200** |
+| Marge tripot — caisse interne | 11 520 |
+| Sortie totale remise sur quittance | 103 680 |
 
 Recheck 547 :
-- Total contrats : 3+1+1+3+1+1+3+4 = **17** ✓
-- Total IN : 5 600+1 400+1 450+5 450+1 400+1 450+5 850+7 300 = **29 900** ✓
-- Marge 10 % : **2 990** ✓
-- Sortie 90 % : **26 910** ✓
-- Moyenne III (13 contrats) : 18 500 / 13 = **1 423 c** (sous le plafond III de 1 500)
-- Moyenne IV (4 contrats) : 11 400 / 4 = **2 850 c**
-- Rythme mensuel : 29 900 / 8 = **3 738 c/mois** vs 546 (3 300 c/mois) = **+13,3 %** sur le rythme observé sur 8 mois.
+- Total contrats : 4+2+2+4+2+2+4+5 = **25** ✓
+- Total IN : 17 700+9 900+9 900+17 800+9 900+10 300+17 800+21 900 = **115 200** ✓
+- Marge 10 % : **11 520** ✓
+- Sortie 90 % : **103 680** ✓
+- Moyenne III (13 contrats) : 48 700 / 13 = **3 746 c**
+- Moyenne IV (12 contrats) : 66 500 / 12 = **5 542 c**
+- Rythme mensuel : 115 200 / 8 = **14 400 c/mois** vs 546 (11 100 c/mois) = **+29,7 %** sur le rythme observé sur 8 mois.
 
 ## Récapitulatif global VIP 542-547 (cycle complet sous direction Edorian)
 
@@ -239,9 +247,9 @@ Vue cumulée des six exercices, du démarrage IX-1 542 à la clôture VIII-30 54
 | 543 | I-XII (12 mois pleins) | 23 | +25 000 | −2 500 | −22 500 | régime établi |
 | 544 | I-XII | 23 | +27 650 | −2 765 | −24 885 | +10,6 % |
 | 545 | I-XII | 23 | +33 050 | −3 305 | −29 745 | +19,5 % |
-| 546 | I-XII | 23 | +39 600 | −3 960 | −35 640 | +19,8 % |
-| 547 | I-VIII (partiel) | 17 | +29 900 | −2 990 | −26 910 | +13,3 % (rythme mensuel) |
-| **Total cycle** | **IX-1 542 → VIII-30 547** | **117** | **+163 500** | **−16 350** | **−147 150** | — |
+| 546 | I-XII | 31 | +133 200 | −13 320 | −119 880 | généralisation aux cités |
+| 547 | I-VIII (partiel) | 25 | +115 200 | −11 520 | −103 680 | +29,7 % (rythme mensuel) |
+| **Total cycle** | **IX-1 542 → VIII-30 547** | **133** | **+342 400** | **−34 240** | **−308 160** | — |
 
 ## Notes en bas de registre
 
@@ -249,7 +257,7 @@ Vue cumulée des six exercices, du démarrage IX-1 542 à la clôture VIII-30 54
 - **Pas d'OUT** : le casino encaisse uniquement.
 - **Souche / talon** : chaque contrat `FC-{classe}-547-NNN` existe en deux exemplaires — la souche reste à l'UBI dans la liasse correspondante au coffre, le talon ici.
 - **Description courte** : « perdant désigné » = visiteur qui apporte une somme sous couvert de la perdre aux dés ou aux cartes ; « émissaire » = paiement reçu en salon B ou en tournoi privé fermé.
-- **Marge tripot 10 %** : 2 990 c sur l'exercice partiel.
-- **Sortie 90 %** : 26 910 c sur l'exercice partiel, remise sur quittance hors livres UBI.
+- **Marge tripot 10 %** : 11 520 c sur l'exercice partiel.
+- **Sortie 90 %** : 103 680 c sur l'exercice partiel, remise sur quittance hors livres UBI.
 - **Procédure de dissimulation** : si une saisie tombe pendant la Convention, ce carnet sort par la porte arrière du bureau de la patronne avant l'auditeur.
 - **Caisse VIP fin VIII-30 547 : 0 c**. Aucun mouvement consigné après cette date — le carnet reste verrouillé en attente du successeur.

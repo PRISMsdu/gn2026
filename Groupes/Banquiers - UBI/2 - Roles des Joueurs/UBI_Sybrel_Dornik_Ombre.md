@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Sybrel Dornik |
+| Joueur | Chloe Paquien |
+| E-mail joueur | chloe54.paquien@gmail.com |
 | Rôle dans le groupe | Surveillance intérieure — tunnels, coursives, ombre |
 | Classe / profession | Assassin |
 | Compétences | Egorgement ; Ambidextrie |
@@ -46,7 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | 25 ans ; ancienne filière portuaire clandestine ; intégrée dans la combine depuis 3 ans. |
-| Doublons (or) | 100 |
+| Argent | 2 400 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -116,6 +118,8 @@ Kaelen Veynar partage parfois tes rondes. Il ne pose pas de questions quand tu p
 
 Theodran Veyr, que le Tripot appelle Varek, connaît les coulisses et les passages de service avec la même précision que toi dans les tunnels. Vous vous êtes déjà facilité des passages sans formaliser d'alliance. Tu sens qu'il cache quelque chose autour du nom Varek, mais son silence t'a déjà servi.
 
+Marda Velyss dirige le Tripot. Pendant tes surveillances, tu as repéré autour d'elle un lien discret avec la Styrgie : messages indirects, noms évités, protections qui ne viennent pas des familles d'Il-Irion. Tu n'as pas toute la chaîne, mais tu en as transmis assez à Edorian pour qu'il puisse faire pression sur elle.
+
 Le groupe UBI entier est dans la combine depuis trois ans. Tu le sais, ils savent que tu le sais, et personne ne peut partir sans exposer les autres. La mort des six gardes et la seconde tentative des Premiers Nés rendent cette situation moins stable qu'avant.
 
 ---
@@ -136,19 +140,23 @@ Le groupe UBI entier est dans la combine depuis trois ans. Tu le sais, ils saven
 
 Tu connais les tunnels et coursives du fort, y compris ceux qui ne figurent pas sur les plans officiels. Tu sais quels passages sont surveillés, quels passages ne le sont pas, et quels accès ont servi aux mouvements non déclarés du mandat.
 
-En jeu, cette connaissance sert à orienter une ronde, retarder un témoin ou ouvrir une fenêtre de passage. Chaque usage doit rester compatible avec tes rapports à Horgrim. Une contradiction écrite dans la feuille de ronde peut te perdre.
+Cette connaissance permet d'orienter une ronde, de retarder un témoin ou d'ouvrir une fenêtre de passage. Chaque usage doit rester compatible avec tes rapports à Horgrim. Une contradiction écrite dans la feuille de ronde peut te perdre.
 
 ## Theodran Veyr — Varek du Tripot
 
 Theodran circule dans les coulisses du Tripot sous le nom de Varek. Il peut t'aider à faire changer un témoin de couloir, à garder une porte calme ou à éviter qu'un client voie une ronde. En retour, il peut attendre de toi le même type de service entre Tripot et UBI.
 
-Ne l'utilise pas comme un allié officiel. Son nom cache quelque chose, et le Tripot ne te dira pas gratuitement ce que Varek couvre vraiment.
+Ce n'est pas un allié officiel. Son nom cache quelque chose, et le Tripot ne dira pas gratuitement ce que Varek couvre vraiment.
+
+## Marda Velyss — Tripot et Styrgie
+
+Marda Velyss cache un lien avec la Styrgie. Tu as repéré ce lien par ses protections, par des noms évités dans les couloirs du Tripot et par des messages qui ne passent pas par les familles d'Il-Irion. Edorian connaît cette information parce que tu lui en as transmis les éléments utiles.
 
 ## Premiers Nés et roue des vannes
 
 Il y a trois ans, tu as recommandé à Horgrim un noyau de recrues liées aux Premiers Nés. Les six morts venaient de ce noyau. Les survivants cherchent encore à agir dans les couloirs bas.
 
-La seconde tentative dépend du poste des vannes et de la roue crantée que Corvus range après l'inondation de vingt et une heures. Tu peux fournir une diversion, un repérage ou une fenêtre de ronde. Ne signe pas toi-même une manœuvre au registre des vannes.
+La seconde tentative dépend du poste des vannes et de la roue crantée que Corvus range après l'inondation de vingt et une heures. Une diversion, un repérage ou une fenêtre de ronde peuvent suffire. Une signature de ta main au registre des vannes te relierait directement à la manœuvre.
 
 ---
 

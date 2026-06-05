@@ -148,9 +148,9 @@ Sous couverture, tu es la greffière d'instruction du Questeur Montfou. Tu accom
 Sybrel est liée aux tunnels d'Ombre sous la banque. Si tu ouvres une piste sur les circulations internes de l'UBI, tu dois la recouper avec des pièces réelles. Une légende de couloir ne suffit pas pour accuser quelqu'un.
 
 
-## Maître Vaelric Dorn — UBI, Discréteur
+## Maître Vaelric Dorn — UBI, recouvreur mandaté
 
-Vaelric tient les récits officiels et les partenaires sensibles de l'UBI. Il peut enterrer une rumeur, retarder une consultation ou orienter un visiteur vers une pièce moins utile.
+Vaelric tient les mandats de recouvrement, les convocations et les prétextes bancaires de déplacement. Il peut retarder une consultation ou orienter un visiteur vers une pièce moins utile en s'appuyant sur un acte officiel.
 
 Tu peux le pousser en audition sur ce qu'il cache, mais pas avec un placard anonyme. Une fuite prématurée te couperait l'accès aux tiroirs qu'il contrôle. Il faut obtenir un refus net, une contradiction ou un document.
 

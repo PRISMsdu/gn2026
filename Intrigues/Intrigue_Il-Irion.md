@@ -107,7 +107,7 @@ Les grandes familles sont organisées en **sept maisons**, chacune avec un repr�
 | Maison | Personnage | Spécialité / pilier | Rôle dans l'intrigue |
 |--------|------------|---------------------|------------------------|
 | **Valdris** | **Cyrion Valdris** | Diplomatie, réseau confédéral | **Diplomate** : entretient les relations avec **toutes** les parties (cités, Confédération) ; **candidat à un poste au conseil de l’UBI** ; figure institutionnelle et représentant de **l'Oblat** |
-| **Kaelthorne** | **Seraphine Kaelthorne** | Finances, taux, dettes inter-îles | Interface **Edorian**, registres, traites, pression sur les îles débitrices |
+| **Kaelthorne** | **Seraphin Kaelthorne** | Finances, taux, dettes inter-îles | Interface **Edorian**, registres, traites, pression sur les îles débitrices |
 | **Marivent** | **Lucan Marivent** | Procédures, rhétorique légale | **Plaintes** (notamment **Ther-Félis**), défense de la « sacralité des dépôts », écrits confédéraux — complète Cyrion sur le terrain juridique, sans le rôle de figure diplomatique unique (réservé à Valdris) |
 | **Dornelis** | **Isar Dornelis** | Renseignement, réseaux | Rumeurs, audits, futurs conseillers, filature **Melian** |
 | **Thorne** | **Marek Thorne** | Influence hors île, commerce officiel | Factions dans les autres cités, contacts marchands (y compris avec la **Guilde des Ports Unis** sans connaître la couverture mafieuse) |

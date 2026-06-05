@@ -155,14 +155,14 @@ Ces noms sont les plus utiles pour tes salons : personnes capables de signer, pr
 | de Courcel | Edorian | UBI | Directeur général sortant | Il cherche une sortie propre et des témoins maîtrisés. S'il passe par un salon, aucune formule ne doit ressembler à une confession comptable. |
 | Ventoss | Ydria | UBI | Trésorière du conseil | Elle parle peu, mais chaque correction de vocabulaire protège une ligne d'or. Note qui elle refuse de saluer. |
 | Quenndral | Selvara | UBI | Archiviste en chef | Elle entend les pièges dans les phrases trop vagues. Offre-lui un cadre précis ou elle écrira elle-même le sens de la scène. |
-| Dorn | Vaelric | UBI | Discréteur | Il fabrique les versions publiques. Si un salon dérape, il faut savoir s'il enterre l'affaire ou s'il la revend à quelqu'un. |
+| Dorn | Vaelric | UBI | Recouvreur mandaté | Il fabrique des prétextes officiels avec convocations, mandats et saisies. Si un salon dérape, vérifie quel acte bancaire lui permet d'entrer dans l'affaire. |
 | Valdrak | Corvyn | Palyr | Chef de délégation | Il arbitre pour Palyr et surveille les faiblesses de ses propres gens. Un salon trop bruyant autour de Saevar peut le faire sortir de sa réserve. |
 | Vandesse | Ilara | Palyr | Diplomate | Elle cherche le vote avant le compliment. Fais-la attendre avec quelqu'un d'utile, pas avec un bavard. |
 | Keld | Thoran | Palyr | Marchand | Routes, fret, quais, barèmes : il veut des faits. Un nom de capitaine ou un horaire d'escale vaut mieux qu'une flatterie. |
 | Morwyn | Lysa | Palyr | Trésorière | Elle ne demande pas un salon calme pour le décor. Si elle veut une table à l'écart, Fenric ou Marda doivent le savoir. |
 | Aedris | Calis | Il-Irion | Chef de coalition | Il tient la ligne maritime d'Il-Irion. Un incident de quai ou de régate le concerne plus sûrement qu'un discours de prestige. |
 | Valdris | Cyrion | Il-Irion | Diplomate | Il porte l'image d'une maison abîmée par d'anciens scandales. Ne cite pas les affaires de famille sans ordre de Marda. |
-| Kaelthorne | Seraphine | Il-Irion | Tête financière | Elle mesure les dettes avant les personnes. Si elle s'intéresse à une perte de salon, demande-toi qui sera tenu de payer. |
+| Kaelthorne | Seraphin | Il-Irion | Tête financière | Il mesure les dettes avant les personnes. S'il s'intéresse à une perte de salon, demande-toi qui sera tenu de payer. |
 | Marivent | Lucan | Il-Irion | Juriste | Il transforme les flottements en procédure. Devant lui, une promesse doit être courte, datée et attribuable. |
 | Marvek | Aurelian | Arthas | Représentant politique | Palyr cherche son appui pour une banque moins dépendante d'Il-Irion. Installe-le loin des disputes de quai : il pèse mieux en conversation cadrée. |
 | Jakmar | Cassiane | Arthas | Marchande / accords commerciaux | Elle complète la ligne politique d'Arthas par des termes commerciaux. Un rabais, une escale ou une garantie écrite peut l'intéresser plus qu'un toast. |

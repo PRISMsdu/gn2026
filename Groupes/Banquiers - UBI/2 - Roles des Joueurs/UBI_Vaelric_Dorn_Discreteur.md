@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Vaelric Dorn |
+| Joueur | Pierre-Antoine Fernandez |
+| E-mail joueur | pierreantoine.fernandez17@gmail.com |
 | Rôle dans le groupe | Recouvrement bancaire — mandats officiels, mauvais payeurs, réquisitions |
 | Classe / profession | Guerrier |
 | Compétences | Transe ; Pugilat (6) |
@@ -46,7 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Placé par les réseaux d'Arthas ; ami d'Edorian depuis 8 ans ; agit avec des mandats bancaires officiels autorisant la réquisition de gardes locaux ou présents sur site. |
-| Doublons (or) | 100 |
+| Argent | 4 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -125,7 +127,13 @@ Varek est ton seul contact direct avec l'extérieur. Tout ce qui ne doit pas lai
 
 Tu interviens quand l'UBI veut récupérer une somme, faire signer un débiteur, saisir un bien ou contraindre une maison à respecter un acte. Ton mandat bancaire te donne une autorité officielle : dans une cité, tu peux demander l'appui des gardes des polices locales ; au fort, tu peux demander l'appui d'un garde présent sur site si la demande reste liée au recouvrement.
 
-En jeu, un mandat sert à convoquer quelqu'un, demander une escorte, retenir un débiteur ou faire vérifier un bien. Il ne te donne pas le commandement général de la sécurité du fort : ce périmètre reste celui d'Horgrim.
+Un mandat peut justifier une convocation, une escorte, la retenue d'un débiteur ou la vérification d'un bien. Il ne donne pas le commandement général de la sécurité du fort : ce périmètre reste celui d'Horgrim.
+
+## Dame Ysandre de Valombre — flux et créances
+
+Dame Ysandre de Valombre contrôle les flux, les créances, les prêts et les intérêts. Son domaine touche directement tes mandats : elle peut comparer une dette, une saisie, une convocation et le mouvement d'argent qui devrait suivre.
+
+Elle soupçonne la banque d'avoir financé des causes obscures, peut-être même des ennemis du royaume. Si elle relit tes mandats, elle cherchera les créances qui ont servi de prétexte à autre chose : déplacement de gardes, pression sur une maison noble, saisie sans solde réel ou dette maintenue ouverte trop longtemps.
 
 ## Varek — Tripot (relais opérationnel)
 
@@ -135,7 +143,7 @@ Varek est ton relais vers le Tripot. Les consignes pour l'équipe extérieure pa
 
 Les questeurs arrivent pour les six gardes morts, mais leur autorité peut déborder sur toute la banque. Ils poseront des questions simples : quel mandat justifiait tel déplacement, quel garde a été requis, qui a signé la demande, quel débiteur était concerné. Tes réponses doivent tenir avec les actes de Selvara, les signatures d'Ydria et les accès contrôlés par Horgrim.
 
-Le conseil entrant sera plus facile à contenir si les mandats existent déjà. Prépare des noms de débiteurs crédibles, des horaires compatibles avec les rondes et une raison bancaire pour chaque escorte demandée. Ton objectif n'est pas de prouver toute l'histoire. Il est de fournir des actes assez solides pour que les autres puissent s'y référer.
+Le conseil entrant sera plus facile à contenir si les mandats existent déjà. Les noms de débiteurs, les horaires compatibles avec les rondes et les raisons bancaires des escortes doivent former un ensemble défendable. Ces actes n'expliquent pas toute l'histoire, mais ils donnent aux autres membres du noyau une version commune à citer.
 
 
 

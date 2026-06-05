@@ -22,10 +22,10 @@
 
 - **Fil principal** : fin de mandat + menace sur les coffres (eau / secrets) + passation sans exposition des malversations.
 - **Tensions** :
-  - Familles vs Edorian ; Melian ↔ Palyr ; Vaelric (image / dossiers hors registre vs reste du conseil) ; casse Corbeaux comme façade (**détail Edorian** : réservé fiche Edorian + orga — pas back collectif ni fiches hors noyau en création).
+  - Familles vs Edorian ; Melian ↔ Palyr ; Vaelric (mandats de recouvrement et prétextes de déplacement vs reste du conseil) ; casse Corbeaux comme façade (**détail Edorian** : réservé fiche Edorian + orga — pas back collectif ni fiches hors noyau en création).
   - Audit / cités / nouveau conseil vs urgence de sauver or, preuves et artefact.
 - **Collisions possibles** : Arthas, Palyr, Tripot, mafia (coffres), Voleurs 1 / Gorvan (piste Argheteim).
-- **Point sensible Jeu** : **inondation** des souterrains = orga uniquement, pas connaissance PJ en création. Lien **Corbeaux ↔ Edorian** : détail réservé orga.
+- **Point sensible Jeu** : **inondation** des souterrains = orga uniquement, pas connaissance PJ en création. Lien **Corbeaux ↔ UBI** : contact direct uniquement par Varek ; rôle d'Edorian réservé orga.
 
 ---
 
@@ -47,7 +47,7 @@ Les **cinq cités** membres de la Confédération sont Il-Irion, Sfaal, Palyr, A
 
 Il y a cinq ans, les Grandes Familles d’Il-Irion ont obtenu la nomination d’Edorian pour diriger l’UBI afin qu’il détourne des fonds vers leurs comptes. Edorian a détourné davantage que prévu pour lui-même. Les rapports entre lui et les familles sont aujourd’hui ouvertement hostiles. Il y a environ quatre ans, l’UBI a enregistré des prêts bilatéraux avec Ther-Félis et Arthas, formalisés dans des scellés conservés en coffre ; les taux ont augmenté et Il-Irion manquait de liquidités. **La seule ligne secrète Palyr côté UBI passe par Melian** (voir intrigues croisées) ; c’est lui qui permet à Palyr d’assembler un dossier sous-estimé par les familles et d’exercer une pression asymétrique sur l’institution — **sans** canal parallèle **Edorian–Palyr**. Une partie de l’argent sale du mandat passe aussi par le casino, ce qui relie les scènes à la banque et au Tripot.
 
-Les documents joueurs (backs collectifs, fiches Il-Irion) peuvent mentionner la fin de mandat, l’audit, les rumeurs, les inspections de coffres et les conflits internes à la banque sans donner comme certaine, avant la partie, la montée des eaux dans les souterrains : ce point reste une révélation réservée à l’orga. En ce qui concerne l’opération de vol organisée avec le groupe des Corbeaux de Minuit, seuls les cinq conseillers du noyau savent comment l’argent a été sorti et avec quelles instructions. Les contacts opérationnels avec l’équipe des voleurs passent par le Tripot : le personnage de Varek fait le lien entre les voleurs et Edorian.
+Les documents joueurs (backs collectifs, fiches Il-Irion) peuvent mentionner la fin de mandat, l’audit, les rumeurs, les inspections de coffres et les conflits internes à la banque sans donner comme certaine, avant la partie, la montée des eaux dans les souterrains : ce point reste une révélation réservée à l’orga. En ce qui concerne l’opération de vol organisée avec le groupe des Corbeaux de Minuit, seuls les cinq conseillers du noyau savent comment l’argent a été sorti et avec quelles instructions. Les contacts opérationnels avec l’équipe des voleurs passent uniquement par Varek au Tripot. Edorian ne traite pas directement avec les Corbeaux ; Ydria cale les mouvements d’or et Vaelric cale les prétextes de déplacement avec Varek.
 ---
 
 ## Identité du groupe (orga)
@@ -58,15 +58,15 @@ Canon **genre** (9 PJ, 3 F / 6 H).
 
 | Nom du personnage | Rôle | Cité (Confédération) | Résumé | Classe - Compétences | Joueur |
 |-------------------|------|----------------------|--------|----------------------|--------|
-| Edorian (H) | Directeur | Il-Irion | Stratégie, familles, crise, récit ; artefact ; lien casse Corbeaux | Erudit - Guerrier | Jonathan Dury |
-| Vaelric Dorn (H) | Discréteur | Arthas | Récits, scandales ; image et dossiers hors registre ; coordination du récit avec Varek (Tripot) pour l’organisation du casse Corbeaux au niveau du noyau | Bardes (phylum Alba - B) | [à compléter] |
-| Ydria Ventoss (F) | Trésorière | Palyr | Or, flux, détournements ; contact Tripot ; organisation coordonnée des détournements avec Corbeaux. | Erudit - Transe | [à compléter] |
-| Selvara Quenndral (F) | Archiviste & juridique / scellés | Sfaal | Registres, coffres ; lettres Confédération, audits, défenses et scellés inter-cités | Erudit - Assassin | [à compléter] |
-| Horgrim Dval (H) | Chef de la garde | Ther-Félis | Sécurité, évacuation, procédure | Guerrier - Pugilat | [à compléter] |
-| Melian Torv (H) | Conseiller spirituel | — (hors répartition ci-dessus) | Morale, artefact, familles / Palyr | Enchanteur (Phylum Wultan B)   | [à compléter] |
-| Kaelen Veynar (H) | Exécuteur de contrats | — | Recouvrement de créances ; réseau d'influence sur débiteurs, familles et intermédiaires ; pression sans état d'âme | Guerrier - Érudit | [à compléter] |
-| Sybrel Dornik (F) | Ombre interne | — | Surveillance, mafia, tunnels | Assassin - Pugilat | [à compléter] |
-| Corvus (H) | Gardien de coffres | — | Procédures coffres ; mafia possible | Erudit (phylum Alba - B) | [à compléter] |
+| Edorian (H) | Directeur | Il-Irion | Stratégie, familles, crise, récit ; artefact ; lien casse Corbeaux par écrans internes | Erudit ; Secourisme | Jonathan Dury |
+| Vaelric Dorn (H) | Recouvreur mandaté | Arthas | Mandats, saisies, réquisitions ; prétextes officiels pour certains déplacements autour du fort | Transe ; Pugilat (6) | [à compléter] |
+| Ydria Ventoss (F) | Trésorière | Palyr | Or, flux, détournements ; contact Tripot ; coordination des créneaux avec Varek | Erudit ; Chirurgie | [à compléter] |
+| Selvara Quenndral (F) | Archiviste & juridique / scellés | Sfaal | Registres, coffres ; lettres Confédération, audits, défenses et scellés inter-cités | Erudit | [à compléter] |
+| Horgrim Dval (H) | Chef de la garde | Ther-Félis | Sécurité, évacuation, procédure | Pugilat (5) ; Torture | [à compléter] |
+| Melian Torv (H) | Conseiller spirituel | — (hors répartition ci-dessus) | Morale, artefact, familles / Palyr | Secourisme | [à compléter] |
+| Kaelen Veynar (H) | Exécuteur de contrats | — | Appui armé, escortes sensibles, pression sur débiteurs et témoins | Torture ; Pugilat (7) | [à compléter] |
+| Sybrel Dornik (F) | Ombre interne | — | Surveillance, tunnels, Premiers Nés, Tripot | Egorgement ; Ambidextrie | [à compléter] |
+| Corvus (H) | Gardien de coffres | — | Procédures coffres ; vannes ; alias marchand Lux Sorel | Erudit | [à compléter] |
 
 ## Objectifs de groupe
 
@@ -75,7 +75,7 @@ Canon **genre** (9 PJ, 3 F / 6 H).
 - Pour le conseil : s'organiser une sortie propre en façade, faire pression sur Il-Irion pour obtenir de leur part de l'aide sinon ils dévoileront tout le système. Pas de contact direct, à jouer durant le jeu.
 - Passation vers le nouveau conseil **sans** exposer les malversations (récit tenable à l’audit).
 - S'assurer de la sortie d'un maximum d'or en utilisant les corbeaux de Minuit. Le vol va permettre de masquer la disparition d'or. 
-- Aider discrètement les corbeaux de minuit en fournissant les informations d'accès aux coffres, via Varek du Tripot. Ydria est l'organisatrice de cette opération. 
+- Aider discrètement les Corbeaux de Minuit en fournissant les informations d'accès aux coffres via Varek du Tripot. Varek est le seul contact direct avec les voleurs ; Ydria cale les créneaux liés aux mouvements d'or et Vaelric fournit des prétextes de déplacement par mandats.
 - **Artefact** : protéger, déplacer ou neutraliser (uniquement pour Edorian / Melian).
 - ralentir ou bloquer les audits qui s'ils sont faits avant le vol, vont révéler les malversations
 - faire disparaitre les preuves de malversations des coffres
@@ -88,12 +88,12 @@ Canon **genre** (9 PJ, 3 F / 6 H).
 <!-- Rédaction factuelle : voir `Groupes/_templates/0 - Intrigues/template_intrigue.md` (PAS DE TOURNURE DE STYLE). Ce passage couvre surtout les liens avec d’autres groupes. Les relations entre les neuf PJ UBI sont détaillées dans `Back_groupe_UBI.md` et les fiches `UBI_*_*.md` du dossier rôles. -->
 
 ### Edorian
-Directeur de l’UBI. Il prépare la fin du mandat, la sortie d’argent et de documents, et la réponse aux familles d’Il-Irion ; Seraphine Kaelthorne est le nom du côté des maisons pour les finances et les taux (détail dans `Intrigue_Il-Irion.md` et fiches Il-Irion). Il a participé avec Vaelric, Ydria, Selvara et Horgrim aux décisions du conseil sur les détournements. Pour le braquage avec les Corbeaux de Minuit : il travaille avec Ydria ; le contact opérationnel avec les voleurs passe par Varek au Tripot.
+Directeur de l’UBI. Il prépare la fin du mandat, la sortie d’argent et de documents, et la réponse aux familles d’Il-Irion ; Seraphin Kaelthorne est le nom du côté des maisons pour les finances et les taux (détail dans `Intrigue_Il-Irion.md` et fiches Il-Irion). Il a participé avec Vaelric, Ydria, Selvara et Horgrim aux décisions du conseil sur les détournements. Pour le braquage avec les Corbeaux de Minuit, il ne traite pas directement avec les voleurs : le contact direct passe par Varek au Tripot, avec Ydria pour les flux d'or et Vaelric pour les prétextes de déplacement.
 *Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` (lignes Edorian) ; `Intrigues/Intrigue_Il-Irion.md`.
 
 ### Vaelric Dorn
-Discréteur : il gère ce qui n’est pas dans les registres officiels (rumeurs, dossiers). Il participe aux réunions du conseil qui ont organisé le casse sur le mandat. Il fixe avec Varek (Tripot) et Brann Crochemain (Corbeaux) le calendrier et le discours public sur le raid.
-*Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` (Vaelric × Brann Crochemain).
+Recouvreur mandaté : il gère les mauvais payeurs, les saisies, les convocations et les réquisitions justifiées par un acte bancaire. Il participe aux réunions du conseil qui ont organisé le casse sur le mandat. Il fixe avec Varek (Tripot) les prétextes officiels de déplacement ; il ne traite pas directement avec Brann Crochemain ni avec les Corbeaux.
+*Recouper avec :* `Groupes/Fiche_interactions_tous_groupes.md` (Vaelric × Varek, si une ligne est créée).
 
 ### Ydria Ventoss
 Trésorière : elle enregistre et signe les mouvements de lingots au comptoir. Elle organise avec Edorian la sortie d’or en même temps que l’action des Corbeaux ; le contact avec les voleurs passe par Varek au Tripot. `Fiche_interactions_tous_groupes.md` contient une ligne possible avec Kaelan Thormane (mafia) pour faire sortir de l’or par ce canal : sur la fiche Ydria ce n’est pas une obligation de jeu ; la fiche ou le back mafia doivent indiquer la même chose.

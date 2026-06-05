@@ -8,7 +8,7 @@
 
 **Émetteur** : Tavish Kaironi, résident d’Ulghart — attaches familiales sur plusieurs îles du Levant.  
 **Destinataire** : le Conseil de la cité de Palyr, en vue de la délégation à la Convention d’Ulghart.  
-**Date** : avant le départ des vaisseaux *(an 547 — à imprimer sans date si besoin)*.
+**Date** : avant le départ des vaisseaux.
 
 ---
 
@@ -44,4 +44,4 @@ Ne diffusez pas ce texte dans les salles ouvertes. Si Palyr refuse, brûlez le p
 
 Tavish Kaironi  
 *(Signature manuscrite)*  
-Ulghart — logis du bas quartier des archives, près de la vieille porte est *(adresse volontairement vague)*
+Ulghart — logis du bas quartier.

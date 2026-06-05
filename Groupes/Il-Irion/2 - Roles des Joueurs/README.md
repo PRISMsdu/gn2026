@@ -6,7 +6,7 @@ Documents courts à distribuer aux joueurs, alignés sur `Intrigues/Intrigue_Il-
 |---------|------------|
 | `back_joueur_Calis_Aedris.md` | Chef de coalition ; chantiers / mer |
 | `back_joueur_Cyrion_Valdris.md` | Diplomatie ; candidat conseil UBI |
-| `back_joueur_Seraphine_Kaelthorne.md` | Finances / Edorian |
+| `back_joueur_Seraphin_Kaelthorne.md` | Finances / Edorian |
 | `back_joueur_Lucan_Marivent.md` | Plaintes / procédures |
 | `back_joueur_Isar_Dornelis.md` | Renseignement |
 | `back_joueur_Marek_Thorne.md` | Hors île / commerce |

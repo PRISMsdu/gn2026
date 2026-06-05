@@ -37,6 +37,8 @@ Epopée en Krondaar
 | Libellé | Valeur |
 |---------|--------|
 | Nom du personnage | Frère Melian Torv |
+| Joueur | Primo Milan |
+| E-mail joueur | primolemilan@gmail.com |
 | Rôle dans le groupe | Conseiller spirituel de l'UBI |
 | Classe / profession | Clerc (sapiece) |
 | Compétences | Secourisme |
@@ -46,7 +48,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Remarques | Ancien moine Église de la Flamme ; canal vers Lysa Morwyn (Palyr) ; artefact en réserve surveillé avec Edorian. |
-| Doublons (or) | 100 |
+| Argent | 4 800 couronnes |
 | Pugilat | 3 |
 
 ## Apparence et caractère
@@ -131,11 +133,17 @@ Vaelric connaît l'existence de ton canal vers Palyr. S'il faut justifier un dé
 
 Tu interviens pour bénédiction visible, pour accord sur la catégorie de garde quand le dogme l'exige, et pour signature de l'engagement sur les actes de dépôt de biens. Tu n'es pas sur le fil continu des pesées d'or. Tu apparais quand le client doit voir l'Église avant le chiffre.
 
+## Hélias de Montclair — Grand Vérificateur du Trésor
+
+Hélias de Montclair préside l'audit au nom de la Chambre des Vérificateurs du Trésor. Il vient d'Il-Irion et appartient à une ancienne lignée de juristes nobles.
+
+Il affiche une incorruptibilité stricte, mais il craint le scandale public. Pour toi, c'est important : un homme qui veut préserver l'autorité morale de la Chambre peut accepter de cadrer ce qui sort, surtout si une accusation ouverte détruit aussi les institutions qui prétendent contrôler la banque.
+
 ## Lysa Morwyn — trésorière, délégation Palyr
 
 Lysa tient le canal Palyr. Elle a déjà reçu la lettre de dénonciation, mais pas les références qui rendent le dossier utilisable devant un greffier. Sans le second versement de 1 000 couronnes, tu ne livres pas le second paquet.
 
-Les échanges peuvent passer par le casino du fort ou par un rendez-vous discret. Ne donne pas les codes si Lysa ne peut plus garantir la protection promise par Palyr.
+Les échanges peuvent passer par le casino du fort ou par un rendez-vous discret. Les codes n'ont de valeur pour toi que si Lysa peut encore garantir la protection promise par Palyr.
 
 ## Dossier prêts parallèles — codes (second paquet)
 
@@ -145,7 +153,7 @@ Après le second versement, tu transmets les références suivantes (registre sc
 - RD-III-543-004 : avenant Arthas, bénédiction Melian, 543.
 - CC-II-545-004 : relève de taux Ther-Félis, non déposée au registre ouvert, 545.
 
-Les pièces CP-III-542-001 à CP-III-543-001 (chantages Valdris) sont un autre dossier ; ne les mélange pas en scène avec ce fil.
+Les pièces CP-III-542-001 à CP-III-543-001 (chantages Valdris) appartiennent à un autre dossier que celui des prêts parallèles.
 
 ## Corvyn Valdrak — Conseil, Palyr
 

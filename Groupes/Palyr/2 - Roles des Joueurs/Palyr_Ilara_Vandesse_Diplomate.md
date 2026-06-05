@@ -56,7 +56,7 @@ Epopée en Krondaar
 |---------|-------------|
 | Traits de caractère | Directe en commission. Économe en mots inutiles. Lit une salle avant de parler. |
 | Valeurs | Le rapport de force comme langage diplomatique. L'influence dure plus longtemps que l'argent. |
-| Peur | Utiliser les preuves trop tôt et priver Lysa du temps pour récupérer les coffres. Que Cyrion Valdris, Seraphine Kaelthorne, Lucan Marivent ou Isar Dornelis utilisent une erreur de procédure contre toi. |
+| Peur | Utiliser les preuves trop tôt et priver Lysa du temps pour récupérer les coffres. Que Cyrion Valdris, Seraphin Kaelthorne, Lucan Marivent ou Isar Dornelis utilisent une erreur de procédure contre toi. |
 | Rêve | Obtenir le siège de Palyr au conseil UBI et y attacher la fonction d'archiviste-directrice adjointe. |
 
 ---
@@ -93,7 +93,7 @@ La charge d'archiviste-directrice adjointe dépend de plusieurs votes en commiss
 
 Corvyn fixe le tempo. Il veut attendre que Lysa ait récupéré les archives Palyr avant de sortir les preuves. Tu comprends la logique. Tu ne t'y soumets pas entièrement : si une opportunité se présente en commission, tu ne la sacrifies pas pour une contrainte de timing qui n'est pas la tienne.
 
-La délégation d'Il-Irion est ton adversaire principal en commission. Cyrion Valdris, diplomate d'Il-Irion, porte la candidature d'Il-Irion au siège de directeur. Seraphine Kaelthorne, responsable des finances d'Il-Irion, peut défendre les taux et retourner les créances contre Palyr. Lucan Marivent, juriste d'Il-Irion, peut déposer une objection de procédure. Isar Dornelis, agent de renseignement d'Il-Irion, peut chercher qui a transmis les preuves à Palyr.
+La délégation d'Il-Irion est ton adversaire principal en commission. Cyrion Valdris, diplomate d'Il-Irion, porte la candidature d'Il-Irion au siège de directeur. Seraphin Kaelthorne, responsable des finances d'Il-Irion, peut défendre les taux et retourner les créances contre Palyr. Lucan Marivent, juriste d'Il-Irion, peut déposer une objection de procédure. Isar Dornelis, agent de renseignement d'Il-Irion, peut chercher qui a transmis les preuves à Palyr.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -105,7 +105,7 @@ Thoran ne croise pas beaucoup tes lignes. Il tient le commerce et les contrats d
 
 Saevar assure la sécurité de la délégation. Sa situation au Tripot peut créer des fuites au mauvais moment. Si une information sur tes preuves UBI, sur tes échanges avec Arthas ou sur le commerce discret de Thoran avec la Styrgie sort par le Tripot, plusieurs dossiers deviennent vulnérables. Tu surveilles les personnes que Saevar approche pendant la Régate sans lui en expliquer la raison.
 
-Tu dois agir avant la passation du conseil UBI. Après la passation, Cyrion Valdris peut obtenir le siège d'Il-Irion, Seraphine Kaelthorne peut reprendre les chiffres, Lucan Marivent peut verrouiller les procédures, et Isar Dornelis peut identifier les relais de Palyr. Pendant la Régate, tu peux encore les affronter en séance avec les preuves de Lysa et l'arbitrage de Corvyn.
+Tu dois agir avant la passation du conseil UBI. Après la passation, Cyrion Valdris peut obtenir le siège d'Il-Irion, Seraphin Kaelthorne peut reprendre les chiffres, Lucan Marivent peut verrouiller les procédures, et Isar Dornelis peut identifier les relais de Palyr. Pendant la Régate, tu peux encore les affronter en séance avec les preuves de Lysa et l'arbitrage de Corvyn.
 
 ---
 
@@ -113,7 +113,7 @@ Tu dois agir avant la passation du conseil UBI. Après la passation, Cyrion Vald
 
 - **Obtenir le siège de Palyr et la charge d'archiviste-directrice adjointe** : convaincre les délégations clefs en commission, utiliser le dossier de corruption comme levier au bon moment, sans brûler toute la munition avant que Lysa ait sécurisé les coffres.
 - **Axe Arthas — transition bancaire** : consolider le projet de remplacement du système bancaire il-irionien par un cadre piloté avec Arthas. Palyr propose la garde des coffres comme contrepartie.
-- **Adversaires Il-Irion** : préparer tes échanges avec Cyrion Valdris, Seraphine Kaelthorne, Lucan Marivent et Isar Dornelis. Chacun peut bloquer une partie de ton plan si tu arrives en commission sans preuve, sans majorité ou sans procédure prête.
+- **Adversaires Il-Irion** : préparer tes échanges avec Cyrion Valdris, Seraphin Kaelthorne, Lucan Marivent et Isar Dornelis. Chacun peut bloquer une partie de ton plan si tu arrives en commission sans preuve, sans majorité ou sans procédure prête.
 - **Timing avec Lysa et Corvyn** : coordonner les sorties de preuves avec Lysa (coffres) et Corvyn (arbitrage). Toi tu décides dans les marges — mais une erreur de timing peut couper les deux lignes à la fois.
 
 # Connaissances
@@ -130,7 +130,7 @@ Le dossier de preuves documente les détournements du conseil UBI sous Edorian. 
 
 Cyrion Valdris est diplomate d'Il-Irion et candidat au siège de directeur pour Il-Irion. Il peut défendre Il-Irion contre la charge d'archiviste-directrice adjointe attachée au siège de Palyr. En commission, force-le à répondre sur l'accès des cinq cités aux archives de la banque.
 
-Seraphine Kaelthorne tient les finances d'Il-Irion, les taux et les dettes inter-îles. Elle peut présenter Palyr comme une cité qui attaque la banque pour éviter ses propres coûts. Réponds avec les preuves de détournement et garde les chiffres précis pour le moment du vote.
+Seraphin Kaelthorne tient les finances d'Il-Irion, les taux et les dettes inter-îles. Il peut présenter Palyr comme une cité qui attaque la banque pour éviter ses propres coûts. Réponds avec les preuves de détournement et garde les chiffres précis pour le moment du vote.
 
 Lucan Marivent est juriste d'Il-Irion. Il travaille les plaintes et les procédures. Il peut ralentir ton vote avec une objection de forme ou une demande de renvoi. Prépare avec Corvyn une formulation courte : création de la charge, durée du mandat, pouvoir limité, visa de la Convention.
 

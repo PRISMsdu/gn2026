@@ -8,7 +8,7 @@ Tu **tranches** les priorités **opérationnelles et maritimes** : quels contrat
 
 ## Tension de jeu
 
-Si la **banque** (Seraphine, Cyrion) et la **mer** (toi) envoient des signaux contradictoires, la coalition peut se fissurer **sans** que l’extérieur le voie — jusqu’au jour où ça éclate en régate ou en assemblée.
+Si la **banque** (Seraphin, Cyrion) et la **mer** (toi) envoient des signaux contradictoires, la coalition peut se fissurer **sans** que l’extérieur le voie — jusqu’au jour où ça éclate en régate ou en assemblée.
 
 ## Pistes de jeu
 

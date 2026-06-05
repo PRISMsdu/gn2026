@@ -44,7 +44,7 @@ La Styrgie appuie sur la Confédération, par des voies officielles et par un r�
 - **Réseau mafieux** : identifier les Sangs de la Steppe, **ne pas encore les détruire** ; établir l’origine réelle, le fonctionnement, la pénétration dans la Confédération et les personnages clés.
 - **Convention** : surveiller tractations et votes sur le week-end ; état des risques à l’UBI, en parallèle des audits. Remonter les abus qui dépassent les usages du Levant (ex. sous-doiement de juges).
 - **Arguétheim** : aider au maximum la transaction engagée par Palyr ; métal d’exception pour traiter les stocks dégradés. **Mission prioritaire.** Convaincre les cités de contribuer aux réserves à Ulghart sans contrainte ouverte — plusieurs délégations sont tendues face à la place d’**Il-Irion**. Moyens acceptables avec réserve : documents des coffres UBI pour presser les familles dominantes ; éviter le chantage pur si possible.
-- **Coordination** : premier rassemblement au fort **dès 19 h** — auberge ; Maren Holt tient la responsabilité de mission (ordre **ORD-HCM-547-CIN-MAR-01**).
+- **Coordination** : premier rassemblement au fort **dès 23 h** le vendredi — auberge ; Maren Holt tient la responsabilité de mission (ordre **ORD-HCM-547-CIN-MAR-01**).
 
 | Cité | Nom | Fonction |
 |------|-----|----------|
