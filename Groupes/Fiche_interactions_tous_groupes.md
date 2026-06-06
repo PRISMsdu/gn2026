@@ -207,12 +207,11 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Lucan Drest | Torven Sorel (Guilde des Ports Unis) | Contrat acier Sfaal–Palyr ; levier commerce hors seul casino. |
 | Lucan Drest | Halwen Rask (Staal, imprimerie) | Presse et complaisance éditoriale ; lien scandale Staale. |
 | Lucan Drest | Intermédiaires Arthas / Ther-Félis (pièce AN) | Routes et escales ; noms utiles Sera Orist, Jonn Halet, Maison Veth & Roole. |
-| Varro Selt | Gareth Ironfist (Sangs) | Muscle et extraction ; éviter de croiser la grille GC le même jour sans plan. |
+| Varro Selt | Gareth Ironfist / Maître des Chantiers navals (Guilde des Ports Unis) | Contact violent des Sangs sous couverture Guilde ; ses rendez-vous peuvent croiser ceux du détachement. |
 | Varro Selt | Duc Thoren Forgefer (Sfaal, fer) | Convoi et violence possible sur détournement ; lien dossier fer CO-II-547. |
 | Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas fusionner avec l’angle chimique Drask sans arbitrage. |
 | Varro Selt | Fausse piste Palyr (FA) | Distinct du message tunnel Sybrel ; pas fusionner en accusation publique. |
-| Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Réalité du casino : dette RD, paris, muscle maison ; recoupler avec Ysel sur ce qui doit tenir en preuve. |
-| Miraen Talvas | Dette personnelle (créancier satellite, témoin Varek) | 1 854 couronnes inscrites au registre du Tripot ; angles addiction réservés fiche perso. |
+| Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Joueur professionnel au casino : paris, salons, protections autour de Marda, muscle maison ; recoupement avec Ysel sur ce qui doit tenir en preuve. |
 
 ---
 

@@ -17,13 +17,13 @@ Ce document raconte qui vous êtes devenus ensemble — pas seulement ce que vou
 
 Depuis longtemps, la Styrgie ne compte pas seule sur ses ports et ses banques face à la Confédération. Le MiVI, côté Primat, a implanté ce que la Confédération appelle la mafia : les Sangs de la Steppe. Interlocuteurs, commandement, financements : tout est tenu à Elfrion dans des dossiers que vous n’avez pas tous lus, et c’est voulu.
 
-La Guilde des Ports Unis sert de couverture commerciale et logistique au réseau. Dans les salons, on parle encore de la menace des steppes ; vous savez qui commande vraiment quand vous exigez des comptes.
+La Guilde des Ports Unis sert de couverture commerciale et logistique au réseau. Dans les salons, on parle encore de la menace des steppes ; le détachement sait que cette façade protège les Sangs. Ysel tient la liste complète des cadres et de leurs titres publics dans la Guilde.
 
 Le Primat juge les bilans insuffisants depuis environ trois ans. Vous allez exiger des réponses nommées sur trois dossiers.
 
 **Détournement du fer** : opération conçue par vos services, menée avec la Guilde et les Sangs. Sur le trajet Sfaal–Ther-Félis, le bon minerai devait être substitué en mer : le circuit officiel recevait du fer médiocre, les papiers et le sceau venant d’une complicité à Sfaal. Le bon fer a disparu des suivis ; les versions divergent. Sans responsables identifiés et sans preuves sur le chargement (navire, quai, registres), le reste du mandat ne tient pas.
 
-**Tripot** : les Sangs veulent la mainmise sur le casino du fort d’Ulgarth ; la maison résiste. Marda Velyss, la patronne, tient face à la mafia mieux que prévu — dettes d’élite, appuis politiques ? Les services à Elfrion soupçonnent qu’elle dispose d’appuis hors Confédération : assez solides pour qu’on hésite à la briser trop tôt. Avant de forcer le Tripot ou d’imposer une solution ouverte aux Sangs, comprendre qui soutient Marda et pourquoi la maison tient encore ; ensuite seulement négocier, infiltrer ou presser.
+**Tripot** : les Sangs veulent la mainmise sur le casino du fort d’Ulgarth ; la maison résiste. Marda Velyss, la patronne, tient face à la mafia mieux que prévu — appuis politiques, protections extérieures, relais inconnus ? Les services à Elfrion soupçonnent qu’elle dispose d’appuis hors Confédération : assez solides pour qu’on hésite à la briser trop tôt. Avant de forcer le Tripot ou d’imposer une solution ouverte aux Sangs, comprendre qui soutient Marda et pourquoi la maison tient encore ; ensuite seulement négocier, infiltrer ou presser.
 
 **Banque** : l’enjeu est la nomination au futur conseil de l’UBI. La Styrgie veut des sièges favorables au rapprochement Arthas / Ther-Félis. Tant que les Sangs n’ont pas livré un levier clair sur cette passation, le dossier banque reste insuffisant.
 
@@ -41,7 +41,7 @@ Lucan Drest parle cinq langues du Levant avec l’accent qu’il faut pour qu’
 
 Varro Selt ne raconte pas d’où viennent ses mains. On sait seulement qu’elles savent ouvrir ce qui refuse de l’être, et refermer ce qui a trop parlé. Il a servi dans des brigades dont les noms ne figurent sur aucune feuille ; il est là pour ce qui ne peut pas se régler à la plume. Il respecte Théven parce que Théven ne lui demande jamais d’être propre quand il faut être précis.
 
-Miraen Talvas connaît les usages du Tripot. Le Primat l’a pris pour une couverture crédible au casino du fort d’Ulgarth — accès aux salles où les autres ne passent qu’avec un masque. Ce que le récit partagé ne détaille pas appartient aux briefs serrés ; le groupe sait seulement qu’à lui confier le Tripot, c’est miser sur le visage qu’on montre au monde.
+Miraen Talvas connaît les usages du Tripot comme joueur professionnel. Le Primat l’a pris pour une couverture crédible au casino du fort d’Ulgarth : il sait lire une table, les mises, les dettes et les joueurs qui changent de comportement. Ce que le récit partagé ne détaille pas appartient aux briefs serrés ; le groupe sait seulement qu’à lui confier le Tripot, c’est miser sur quelqu’un qui connaît la maison par le jeu.
 
 ## III — La forge de la cellule
 
@@ -92,7 +92,7 @@ La première approche n’a pas abouti. À Ulghart, vous reprenez le fil : une l
 
 ### Tripot
 
-Les rapports convergent : Marda Velyss, la patronne du Tripot, ne se comporte pas comme une simple gestionnaire sous pression. Elle résiste à la mafia comme si d’autres puissances la protégeaient — peut-être en dehors de la Confédération (voisin, empire, réseau occulte : vous n’avez pas encore de preuve, seulement des doutes partagés à Elfrion). Avant toute manœuvre brutale — fermeture, descente, chantage public —, cartographier qui la soutient et ce que le Tripot sait sur la mafia. Miraen assure l’accès crédible aux salles ; le reste du détachement recoupe à distance. Forcer le Tripot sans cette étape, c’est risquer de révéler la main styrgienne ou de livrer un avantage à un tiers inconnu.
+Les rapports convergent : Marda Velyss, la patronne du Tripot, ne se comporte pas comme une simple gestionnaire sous pression. Elle résiste à la mafia comme si d’autres puissances la protégeaient — peut-être en dehors de la Confédération (voisin, empire, réseau occulte : vous n’avez pas encore de preuve, seulement des doutes partagés à Elfrion). Avant toute manœuvre brutale — fermeture, descente, chantage public —, cartographier qui la soutient et ce que le Tripot sait sur la mafia. Miraen assure l’accès crédible aux tables par son profil de joueur professionnel ; le reste du détachement recoupe à distance. Forcer le Tripot sans cette étape, c’est risquer de révéler la main styrgienne ou de livrer un avantage à un tiers inconnu.
 
 ## V — Couverture : les Questeurs
 
@@ -100,15 +100,15 @@ Ce chapitre fixe comment vous entrez à Ulghart.
 
 Sans motif crédible, une délégation styrgienne serait repérée en quelques jours. Vous arrivez avec un prétexte initial fragile — à préciser entre vous ; il sert aussi de porte de sortie si la couverture craque.
 
-Les Questeurs sont des enquêteurs confédéraux. Quand leurs rapports établissent l’usage de la magie ou du surnaturel, leurs conclusions ouvrent des pouvoirs exceptionnels. Un détachement Questeur se prend mal en embuscade : trop entraîné, trop habitué au surnormal et à la contrainte. Le Primat ne vous a pas envoyés pour abattre des Questeurs en route.
+Les Questeurs sont des enquêteurs confédéraux. Leur identité ouvre les banques, les auditions et les couloirs du fort beaucoup plus vite qu'une délégation styrgienne.
 
-Pour ouvrir Ulghart sans attendre, le réseau sur Il-Irion a repéré une autre mission vers le fort : un Clerc de Jorock — probablement au rang de Maître — et trois gardes du corps, sur l'enquête des six gardiens de la banque retrouvés morts. L’interception a été montée en moins de deux jours depuis Il-Irion, avec l’aide du réseau (Guilde, hommes des Sangs, relais du quai).
+Votre propre réseau a repéré une mission Questeur en route vers Ulghart : un Clerc de Jorock, probablement Maître, et trois gardes du corps. La mission venait enquêter sur les six gardiens de la banque retrouvés morts. Cette occasion a donné une couverture plus forte que votre prétexte initial.
 
-La bataille a fait rage. Plus de quinze mercenaires engagés pour l’opération sont morts sur le terrain à 2 jours du Fort. Même après soins, plusieurs d’entre vous portent des blessures visibles. Vous auriez dû liquider toute l’escorte adverse : un mercenaire de leur côté a réchappé, plus malin que les autres.
+L'attaque a été montée en moins de deux jours avec des hommes des Sangs, des relais du quai et des mercenaires recrutés pour frapper vite. Le Clerc, ses gardes et les mercenaires engagés devaient tous disparaître sur place. Plusieurs d'entre vous portent encore des blessures visibles, la bataille a été sanglante, il n'est pas facile de se débarasser d'un Clerc, même à 7 contre un...
 
-Vous entrez au fort sous identité Questeur — insignes, rôles de garde du corps, habitudes à improviser. La lettre d’ordre des Oblats fixe le cadre légal : le Questeur désigné pour l’instruction est messire Ydrael Montfou ; la demande est actée au nom de messire Horgrim Dval, chef de la Garde du fort d’Ulghart. En principe, on évite de contrarier un Questeur.
+Depuis deux jours, vous portez l'identité de la mission attaquée : insignes, rôles de garde du corps, habitudes à improviser. La lettre d'ordre des Oblats désigne messire Ydrael Montfou pour l'instruction. La demande vient de messire Horgrim Dval, chef de la Garde du fort d'Ulghart. Vous arrivez maintenant au fort sous cette identité.
 
-Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d’un accès large — banque, forteresse, auditions — au prix d’un risque égal si l’imposture éclate. Le mercenaire qui a fui est blessé ; il n’a guère d’autres moyens de survivre que de gagner le fort. Retrouvez-le et supprimez-le avant qu’il ne parle. 
+Un mercenaire recruté pour l'attaque a fui, blessé. Il peut gagner le fort pour survivre. S'il parle, il dénoncera de faux Questeurs et pourra raconter que le MiVI a trahi les hommes qu'il avait payés.
 
 ## Résumé des objectifs
 
@@ -119,10 +119,10 @@ Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d
 - **Palyr — Thoran Keld** : Lucan tient le rendez-vous commerce gris (lettre STY-547-PAL-THO-01, mot « cale close avant l’aube », vendredi soir quai) ; relancer achats discrets armes / matériel, hors registres confédéraux.
 - **Il-Irion** : reprendre la piste avec Garrick Halvaren ; lettre de la Guilde des Ports Unis (au nom de la Styrgie), rendez-vous samedi avant 9 h — Ysel, mot « registre du quai nord ».
 - **Rumeur Arguétheim** : identifier qui la propage côté confédéral, où ça bloque, sabotage ou fuite contrôlée selon les ordres du Primat.
-- **Routes et mer** : orienter régate, escales, fret et rabais vers des intermédiaires d’Arthas et Ther-Félis alignés sur les objectifs fixés à Elfrion ; faciliter une prise d’influence sur l’UBI par cette porte plutôt qu’en attaquant la banque de front ; éviter l’embargo ouvert qui rallierait toute la Confédération.
+- **Routes et mer** : observer la bourse aux routes pendant la Convention ; aider Arthas et Palyr à prendre de meilleurs contrats ; relever qui soutient quelle cité, au contraire... créer un maximum de tensions entre les cités.
 - **Appuis lointains** : entretenir les contacts utiles sans les exposer.
-- **Tripot** : comprendre pourquoi Marda Velyss résiste à la mafia et quels appuis (probablement hors Confédération) soutiennent la maison — ne pas forcer avant d’avoir des noms ; puis exploiter, négocier ou presser (couverture Questeur, Miraen en salle).
-- **Mercenaire survivant** : retrouver le mercenaire blessé réchappé de l’interception et le supprimer avant qu’il ne dénonce l’embuscade ou ne croise vos identités Questeur.
+- **Tripot** : comprendre pourquoi Marda Velyss résiste à la mafia et quels appuis (probablement hors Confédération) soutiennent la maison — ne pas forcer avant d’avoir des noms ; puis exploiter, négocier ou presser (couverture Questeur, Miraen comme joueur professionnel aux tables).
+- **Mercenaire survivant** : retrouver le mercenaire blessé recruté pour l'attaque et le supprimer avant qu'il ne raconte que le MiVI a fait tuer les Questeurs puis ses propres hommes de main.
 
 ---
 
@@ -130,11 +130,11 @@ Tant que personne ne vérifie trop vite qui vous êtes vraiment, vous disposez d
 
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
-| Théven Corvel | Chef de mission | Arbitrage avec Elfrion / le Primat ; dossier fer ; décisions de retrait ou de brûlage | *Joueur* |
-| Ysel Marivent | Officière de renseignement | Coffres, archives, correspondances | *Joueur* |
-| Lucan Drest | Négociateur / couverture convention | Régate, routes, salons ; langues | *Joueur* |
-| Varro Selt | Infiltrateur / exécutant | Extraction, neutralisation quand la couverture ne suffit pas | *Joueur* |
-| Miraen Talvas | Couverture Tripot | Accès crédible au casino — codes, flux, salons | *Joueur* |
+| Théven Corvel | Chef de mission | Arbitrage avec Elfrion / le Primat ; dossier fer ; décisions de retrait ou de brûlage | Marc Duprey |
+| Ysel Marivent | Officière de renseignement | Coffres, archives, correspondances | Sacha Duprey |
+| Lucan Drest | Négociateur / couverture convention | Régate, routes, salons ; langues | Nathanaël Sebille |
+| Varro Selt | Infiltrateur / exécutant | Extraction, neutralisation quand la couverture ne suffit pas | Christophe Tiliacos |
+| Miraen Talvas | Joueur professionnel / couverture Tripot | Accès crédible au casino — tables, mises, dettes, flux, salons | Georges Radilo |
 
 ---
 

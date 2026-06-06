@@ -43,7 +43,7 @@ Epopée en Krondaar
 | Classe / profession | Diplomate |
 | Compétences | Erudit ; Transe |
 | Groupe | MiVI — détachement Corvel (service du Primat) |
-| Couverture à Ulghart (depuis 2 jours) | Adjoint assermenté du Questeur Montfou (auditions, langues, procès-verbaux) |
+| Couverture pour Ulghart (prise il y a 2 jours) | Adjoint assermenté du Questeur Montfou (auditions, langues, procès-verbaux) |
 | Points de santé | 4 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
@@ -56,10 +56,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Calme, précis, capable de formuler une menace en termes polis. |
-| Valeurs | Un procès-verbal bien tenu ouvre des auditions |
-| Peur | Qu'un interprète tchélène reconnaisse, dans ta diction, l'entraînement d'Elfrion — et qu'on t'échange contre un prisonnier de frontière sans procès public. |
-| Rêve | Quitter Ulghart sans que ton nom figure sur un traité ou une dénonciation signée. |
+| Traits de caractère | Calme, précis, dur quand la phrase reste polie. |
+| Valeurs | Une parole utile se note. Une parole notée peut devenir une arme. |
+| Peur | Un interprète tchélène peut reconnaître l'école d'Elfrion dans ta diction. |
+| Rêve | Participer activement à la décomposition de la confédération |
 
 ---
 
@@ -73,100 +73,111 @@ Ton grand-père affrétait des navires sur la côte du Levant. Ta mère copiait 
 
 ## Chapitre II : L'apprentissage (MiVI)
 
-Tu es entré au MiVI, le service de renseignement du Primat. Pas d'uniforme, pas de mention au greffe confédéral : ton nom n'apparaît sur aucun acte public et tu sers des missions que la Styrgie ne reconnaît jamais en son nom.
+À dix-huit ans, un agent du Primat t'a abordé sur le quai d'Elfrion. Il cherchait un homme capable de passer d'une langue à l'autre sans interprète et de rédiger seul un acte de commerce. C'est ton entrée dans le MiVI.
 
-Pendant trois années, le service t'a fait travailler tes cinq langues avec ses propres maîtres, dans une école interne basée à Elfrion : diction, vocabulaire des chancelleries, formules juridiques, protocoles de salon par cour. Tu en es ressorti capable de tenir un débat technique dans chacun de ces idiomes. Le service y a ajouté une consigne ferme : ne jamais parler trop bien en mission. Tu maintiens dans chaque langue des défauts volontaires d'accent et de tournure, ceux d'un commis de maison de fret autodidacte. Sans ces défauts, un interprète attaché à une grande chancellerie reconnaîtrait à ta diction la signature de l'école styrgienne — et ta couverture sauterait dans l'heure.
+## Langues et service du Primat
 
-Ta première mission de terrain t'a placé comme interprète sur une route maritime déclarée neutre mais qui servait en réalité deux maisons concurrentes. Une nuit d'escale, un négociateur s'apprêtait à prononcer un terme qui aurait rattaché la cargaison à un entrepôt sous embargo. Tu as substitué dans la traduction un mot proche : le contrat est resté valide, aucun signataire n'a soulevé la fraude, et la cargaison a poursuivi sa route au matin.
+Le MiVI t'a formé trois ans à Elfrion. Diction, vocabulaire de chancellerie, clauses de commerce, protocoles de salon. Tu as appris les mots qui ouvrent une porte et ceux qui ferment une délégation entière.
 
-Quelques semaines plus tard, on t'a convoqué seul à Elfrion, dans une salle sans fenêtre du service. L'officier qui t'a auditionné — sans uniforme ni insigne au col — t'a demandé pourquoi tu avais choisi ce mot précis, ce que tu avais entendu avant d'intervenir, et si tu accepterais désormais de négocier au nom du Primat sans jamais le citer en public. On t'a remis un point de contact pour te signaler entre deux missions et une consigne explicite : ne jamais donner le nom de celui qui t'a recruté, même sous menace de procès ou de torture.
+Le service t'a aussi appris à garder de petits défauts. Un accent trop propre trahirait l'école styrgienne. Un commis de fret autodidacte garde une aspérité dans chaque langue.
 
-Tu avais alors vingt-deux ans. Pendant les vingt années suivantes, tu as servi le MiVI sur des missions ponctuelles — escales du Levant, audiences de chancellerie, contrats hors registres entre maisons rivales — sans jamais te fixer dans une cité. Tu n'es pas marié, tu n'as pas d'enfant déclaré, et ton nom de naissance n'apparaît sur aucun acte public confédéral depuis ton recrutement. Tu as aujourd'hui quarante-cinq ans.
+Ta première mission de terrain t'a placé comme interprète sur une route maritime déclarée neutre. Une nuit d'escale, un négociateur allait prononcer un terme qui liait la cargaison à un entrepôt sous embargo. Tu as traduit par un mot voisin. Le contrat est resté valide. La cargaison est repartie au matin.
+
+Quelques semaines plus tard, un officier du service t'a interrogé seul. Il voulait savoir ce que tu avais entendu, pourquoi tu avais choisi ce mot et si le Primat pouvait compter sur toi sans jamais être cité. Ton recruteur n'apparaît dans aucun dossier que tu portes.
+
+Tu avais vingt-deux ans. Depuis, tu as servi sur des escales du Levant, des audiences de chancellerie et des contrats hors registres entre maisons rivales. Tu as aujourd'hui quarante-cinq ans. Ton nom de naissance n'apparaît plus sur les actes publics confédéraux.
+
+## Détachement Corvel
+
+Le MiVI vous a réunis dans une salle sans fenêtre. Même message pour tous : servir le Primat à Ulghart, sans drapeau styrgien.
+
+La première simulation a échoué. Trop de parole. Trop peu d'écoute. La deuxième a tenu. Ysel a lu le faux registre. Varro a bloqué l'accès. Miraen a attiré le regard au bon endroit. Tu as retenu le gardien principal par une conversation de fret. Théven a choisi la priorité.
+
+À Staal, le détachement a récupéré une copie de correspondance avant son départ en malle diplomatique. Le prévôt a changé d'itinéraire au dernier moment. Une dette d'honneur inventée a déplacé un messager. La copie est sortie sans fouille devant témoins.
+
+Depuis dix-huit mois, le groupe se voit peu. Les rôles restent nets. Théven tranche. Ysel lit les coffres. Tu tiens la parole. Varro neutralise. Miraen entre au Tripot par le jeu.
+
+## Ulghart
+
+Le détachement Corvel arrive à la citadelle d'Ulghart, sur l'île d'Il-Irion. La Convention de l'an 547 commence : régate, renouvellement du conseil de l'Union bancaire d'Il-Irion, négociations entre les cinq cités.
+
+Il y a deux jours, le réseau a organisé l'attaque d'une mission Questeur en route vers Ulghart : un Clerc de Jorock et trois gardes, envoyés après la mort des six gardiens de la banque. L'opération a été montée vite, avec des mercenaires recrutés sur Il-Irion, probablement proches des Sangs ou d'autres relais de mafia. Le plan prévoyait de tuer les Questeurs, puis de faire disparaître les mercenaires engagés. Plus de quinze mercenaires sont morts, mais l'un d'eux a réchappé, blessé. Plusieurs membres du détachement portent encore des blessures visibles.
+
+Le détachement porte maintenant l'identité de cette mission. Théven incarne messire Ydrael Montfou. Le mandat te présente comme adjoint assermenté : langues, auditions, procès-verbaux. Ysel est greffière d'instruction. Varro et Miraen portent l'escorte visible.
+
+Les insignes ouvrent les couloirs, la banque et les salles d'audition. L'imposture tient tant que personne ne remonte trop vite la route de l'attaque. Le mercenaire survivant peut raconter que le MiVI a trahi ses propres hommes de main.
+
+## Renseignement confédéral
+
+Le renseignement militaire confédéral compile des rapports contre la Styrgie : notes militaires, flux financiers, positions diplomatiques, noms de relais. Une partie de ces pièces peut se trouver à l'UBI, dans les coffres ou les archives du conseil.
+
+Ces rapports peuvent suffire à unir les cités contre Elfrion. Les responsables réunis au fort donnent aussi au renseignement confédéral une occasion rare : faire voter, réquisitionner et signer des décisions qui ne passeraient pas en temps calme.
+
+Tu ne cherches pas seulement les documents. Les personnes qui les portent, les citent ou les réclament comptent autant. Une pièce supprimée trop tôt coupe la piste. Une pièce connue, copiée ou surveillée peut mener aux agents qui l'exploitent.
+
+Le risque vient du calendrier. Avant la fin du mandat du conseil, un autre service peut utiliser ces rapports contre la Styrgie. Avant d'agir sur une pièce, sa chaîne compte : qui l'a demandée, qui la garde, qui l'attend, qui peut la signer.
 
 
-## Chapitre III : L'ascension (forge Corvel et Staal)
+## Langues et danger
 
-Le MiVI ne vous a pas réunis par hasard. Chacun a été convoqué seul, parfois à des mois d'intervalle, dans la même salle sans fenêtre où l'air sent le papier brûlé. On vous a répété la même consigne : être utile aux ordres du Primat à Ulghart, sans drapeau styrgien à hisser. Puis on vous a mis ensemble pour une formation qui imitait une mission sur Il-Irion : fausses archives, fausses salles, fausses gardes.
+Tu parles les langues du Levant, le tchélène, le styrgien, l'aquilien et une cinquième langue liée à tes années de couverture. Tes défauts volontaires protègent l'imposture. Un interprète tchélène trop attentif peut reconnaître l'entraînement d'Elfrion.
 
-La première passe a mal tourné. La sirène a retenti trop tôt. Trop de monde a parlé en même temps, et l'exercice s'est effondré avant que personne n'ait atteint son objectif. La deuxième passe, vous saviez déjà qui devait faire quoi. Varro bloquait l'accès qu'il fallait fermer. Ysel lisait le faux registre plus vite que l'instructeur ne l'avait prévu. Miraen poussait un cri de panique au bon endroit pour que les gardes simulés regardent ailleurs. Toi, tu retenais le gardien principal par la conversation — questions sur les escales, remarques sur le fret, rien qui alerte — pendant que Théven décidait en silence quelle priorité suivre. Quand la sirène s'est arrêtée, vous étiez encore debout, essoufflés. Vous n'étiez pas encore une équipe soudée, mais chacun avait tenu son poste.
-
-Théven a demandé qui aurait parlé si l'exercice avait été réel. Personne n'a répondu tout de suite. Le MiVI a considéré que c'était suffisant pour vous envoyer sur de vrais registres et de vrais coffres. On vous a aussi donné un nom interne : le détachement Corvel, du nom de jeune fille de la mère de Théven.
-
-La première mission réelle vous a menés à Staal pour une nuit. Il fallait récupérer une copie de correspondance avant qu'elle ne parte dans une malle diplomatique. Le prévôt a changé d'itinéraire au dernier moment. Tu as inventé une dette d'honneur publique assez crédible pour qu'un messager te laisse passer un pli dans l'autre sens sans fouille devant témoins. Vous êtes ressortis avec la copie.
-
-Depuis dix-huit mois, le détachement se croise rarement entre deux missions. Théven tranche les arbitrages. Ysel lit les coffres et les preuves. Toi, tu négocies et, quand la couverture l'exige, tu tiens les auditions au nom du Questeur. Varro tue ou neutralise quand la mission l'exige. Miraen tient le Tripot pour le MiVI.
-
-## Chapitre IV : Les défis actuels (Ulghart)
-
-Tu arrives à la citadelle d'Ulghart, sur l'île d'Il-Irion, avec le détachement Corvel. La Convention de l'an 547 commence : régate, renouvellement du conseil de l'Union bancaire d'Il-Irion, négociations entre les cinq cités.
-
-Il y a deux jours, le réseau a intercepté une escorte Questeur en route vers Ulghart : un Clerc de Jorock et trois gardes, enquête sur les six gardiens de la banque retrouvés morts. La bataille a tué plus de quinze mercenaires engagés pour l'opération. Un homme de l'escorte adverse a réchappé, blessé. Plusieurs membres du détachement portent encore des blessures visibles.
-
-Depuis l'embuscade, couverture Questeur sur le détachement. Théven Corvel incarne messire Ydrael Montfou (lettre d'ordre des Oblats, acte Horgrim Dval). Sur le mandat, tu es adjoint assermenté : auditions, langues, procès-verbaux. Varro et Miraen portent la garde du corps affichée ; Ysel est la greffière d'instruction sur les papiers. Insignes Questeur visibles. Tant que l'imposture tient, vous circulez dans les couloirs, la banque et les salles d'audition. Théven veut retrouver le mercenaire survivant avant qu'il ne parle.
-
-Elfrion t'a fixé trois chantiers, à mener au nom du Questeur quand c'est possible, et hors mandat seulement quand Théven l'ordonne.
-
-Premier chantier : régate et routes. Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. Elfrion veut orienter escales et contrats vers Arthas et Ther-Félis plutôt que vers Il-Irion seule, sans provoquer d'embargo. Tu cites le mandat Montfou si un délégué résiste ; si « embargo » circule, tu arrêtes. Toute pression sur la Guilde ou le Tripot : ordre de Théven.
-
-Deuxième chantier : commerce discret avec Palyr — hors mandat Questeur. Rendez-vous secret avec Thoran Keld (lettre d'approvisionnement Styrgie qui lui est parvenue avec ses papiers de délégation), vendredi soir au quai, mot « cale close avant l'aube ». Tu n'y vas pas en Questeur : pas d'insigne, pas de procès-verbal. Ne cite ni MiVI, ni Primat, ni Montfou. Ne signe rien de lourd sans Théven.
-
-À l'UBI, Ysel ouvre les coffres ; tu l'accompagnes aux auditions où le mandat exige une seconde plume. Au Tripot, Miraen mène les convocations et filatures ; tu rédiges les procès-verbaux. Les contacts détaillés (Thoran, Melian, Cyrion, Marda, annexe routes) sont en fin de fiche, section Connaissances.
-
-## Chapitre V : Salons, langues et risques
-
-Cinq langues du Levant : tu gardes des défauts volontaires dans chaque idiome pour passer pour homme de métier. Aux commissions et aux quais, un interprète tchélène qui t'écoute trop bien peut reconnaître l'entraînement d'Elfrion — tu évites les débats techniques devant eux.
-
-Théven tranche si une audition que tu ouvres met le détachement en danger. Tu retiens le gardien ou l'hôte par la conversation ; Varro entre quand la parole ne suffit plus, après accord de Théven. Tu ne cites jamais le MiVI ni le Primat en public.
-
+La conversation est une arme lente. Elle retient un gardien, isole une contradiction ou donne une forme polie à une menace. Le nom du MiVI ou du Primat en public rattacherait Montfou à la Styrgie.
 
 ---
 
-# Tes missions et actions
-
-## Ton rôle au quotidien
-
-Tu parles les langues du Levant, le tchélène, le styrgien, l'aquilien et une cinquième langue que tu choisis avant le jeu. La règle en annexe te permet de détecter l'accent sous-jacent d'une personne, même quand elle s'exprime naturellement dans la langue commune. En couverture, tu conduis les auditions au nom de Montfou et rédiges les procès-verbaux. En mission MiVI, tu négocies routes, salons et contacts hors registre quand Théven l'ordonne.
-
-## Objectifs prioritaires
-
-- Tenir la couverture d'adjoint Questeur (depuis 2 jours) : procès-verbaux, auditions, langues ; ne jamais citer le MiVI ni le Primat en public.
-- Orienter escales et rabais fret vers Arthas et Ther-Félis sous couverture du mandat, avant le vote du conseil UBI.
-- Rendez-vous Thoran Keld hors mandat (vendredi soir, quai, « cale close avant l'aube ») : sans insignes Questeur ; ne rien signer de lourd sans Théven.
-- Recouper avec Ysel avant toute scène UBI avec Melian Torv ; ne pas exposer FL-III-545-002 sans accord.
 
 # Connaissances
 
 ## Thoran Keld — Palyr (commerce gris)
 
-Thoran est marchand et capitaine de la délégation palyrienne. Il a reçu avec ses papiers de mission une lettre d'approvisionnement Styrgie (armes et matériel de forge hors registres confédéraux). Rendez-vous convenu : vendredi soir, quai du fort ; mot de passe « cale close avant l'aube ». Tu y vas sans insigne Questeur, sans procès-verbal, sans citer MiVI, Primat ni Montfou. Les autres Palyriens ne savent pas que tu viens de la Styrgie. Le contrat fer CO-II-545-001 (acier Sfaal–Palyr) est un dossier distinct : ne le mélange pas avec cette rencontre.
+Thoran est marchand et capitaine de la délégation palyrienne. Elfrion veut tester avec lui un réseau économique direct entre la Styrgie et Palyr, sans passer par les circuits confédéraux ni par les maisons d'Il-Irion.
+
+La première offre porte sur des armes et du matériel de forge hors registres. Pour Palyr, ce canal peut réduire la dépendance aux intermédiaires et aux prix imposés par les routes officielles. Pour la Styrgie, il ouvre une entrée durable dans les ports et les ateliers palyriens.
+
+Une lettre d'approvisionnement styrgienne lui est arrivée avec ses papiers de mission. Le rendez-vous est convenu vendredi soir au quai du fort. Mot de reconnaissance : « cale close avant l'aube ». Les autres Palyriens ne savent pas que le contact vient de la Styrgie.
 
 ## Melian Torv — UBI (conseiller spirituel)
 
-Melian siège au conseil de l'UBI comme conseiller spirituel. Le fragment FL-III-545-002, saisi en coffre, établit un lien écrit entre lui et Palyr. Accorde-toi avec Ysel avant toute scène banque ou salon où il est présent ; ne cite pas ce fragment en public sans accord commun. Une audition Questeur peut le contraindre sur les prêts parallèles sans exposer tout le dossier d'un coup.
+Melian siège au conseil de l'UBI comme conseiller spirituel. Son nom ressort dans une fuite vers Palyr (réf. FL-III-545-002). Le fragment retrouvé ne donne pas tout le dossier, mais il suffit à montrer qu'un canal existe entre lui et une personne côté palyrien.
+
+L'enjeu porte sur les prêts parallèles de l'UBI. Palyr cherche des preuves contre la banque ; Melian peut avoir vendu une première lettre, puis gardé les références vraiment exploitables pour obtenir le reste de son paiement ou une protection. Pour toi, Melian est un point de pression : foi, morale publique, argent reçu, promesse de Palyr.
 
 ## Cyrion Valdris — Il-Irion (diplomate)
 
-Cyrion porte la voix d'Il-Irion à la Convention. La pièce CP-III-542-001 (chantage adultère Maison Valdris) peut le gêner en audition ou au salon si tu la cites au bon moment — ce n'est pas le dossier complet tenu ailleurs sur l'île. Pas de chantage improvisé devant témoins : Théven fixe le plafond.
+Cyrion porte la voix d'Il-Irion à la Convention. La pièce CP-III-542-001 touche un chantage adultère contre la Maison Valdris. Elle peut le gêner en audition ou au salon.
+
+Ce n'est pas le dossier complet tenu ailleurs sur l'île. Un chantage improvisé devant témoins expose le détachement. Par contre récupérer toutes les pièces peut être très productif.
 
 ## Marda Velyss — Tripot (patronne)
 
-Marda tient le casino du fort depuis dix ans. Sous mandat Montfou, tu peux la convoquer, l'auditionner ou exiger une table fermée ; Miraen recueille flux et dettes de clients, tu rédiges. Si Marda conteste une perquisition, tu cites le mandat ou tu remontes à Théven. Les Sangs veulent contrôler le Tripot, mais tu n'as pas de dette écrite de Marda à utiliser en audition.
+Marda tient le casino du fort depuis dix ans. Les Sangs veulent contrôler le Tripot. Marda résiste encore.
+
+Miraen connaît les tables et les joueurs. Les noms qu'il remonte peuvent devenir matière à procès-verbal.
 
 ## Routes et régate
 
-Pendant la Convention, les maisons disputent l'ordre d'accostage et les rabais fret Palyr–Il-Irion. Tu peux soutenir des interlocuteurs Arthas ou Ther-Félis quand ils affaiblissent la position d'Il-Irion, mais sans produire de note interne. Si le mot « embargo » circule en commission, tu arrêtes. Toute pression sur la Guilde ou le Tripot au nom des routes : ordre de Théven.
+Pendant la Convention, les cités renégocient les treize grandes routes commerciales. Chaque route déplace des taxes, des escales, des protections de convoi et des contrats de fret. Les discussions montrent qui veut isoler une cité, qui cherche un rabais, qui protège un port et qui accepte un intermédiaire.
+
+Pour Elfrion, certaines routes peuvent basculer vers des interlocuteurs pro-styrgiens. Même sans bascule immédiate, les prises de position donnent une carte utile : qui joue Arthas, qui tient Ther-Félis, qui suit Il-Irion, qui craint Palyr. Le mot « embargo » en commission signale un danger immédiat.
+
+## Renseignement militaire confédéral
+
+Le renseignement confédéral peut être présent au fort sous couverture d'auditeur, de secrétaire, de garde, de conseiller ou d'envoyé de cité. Ses agents cherchent des rapports capables de souder les cinq cités contre la Styrgie.
+
+Les documents restent importants, mais les circuits le sont autant. Une note connue peut être suivie. Une note disparue trop tôt prévient son propriétaire. Les signatures, demandes de consultation, refus d'accès et copies partielles peuvent révéler qui travaille pour ce service.
 
 ---
 
 # Annexe : Sous l'accent des ports
 
-Tu disposes d'une carte de faveur sociale liée à ton oreille de négociateur. Elle représente ta capacité à entendre les habitudes de langue, les tournures apprises dans l'enfance et les accents qu'une personne garde même quand elle parle la langue commune.
+La carte de faveur sociale représente ton oreille de négociateur. Elle couvre les habitudes de langue, les tournures apprises dans l'enfance et les accents qu'une personne garde dans la langue commune.
 
-Pour utiliser cette carte, donne-la à une personne avec qui tu viens d'échanger quelques phrases. La conversation peut être courtoise, commerciale ou tenue pendant une audition. La personne qui reçoit la carte doit te dire ses origines réelles. Si elle a plusieurs origines, elle doit toutes te les donner.
+Après quelques phrases, la carte révèle les origines réelles d'une personne : cité, peuple, pays, famille étrangère, enfance passée ailleurs ou double appartenance.
 
-Les origines à donner sont celles qui expliquent son accent et son histoire personnelle : cité, peuple, pays, famille étrangère, enfance passée ailleurs ou double appartenance. La personne ne te donne pas ses secrets, ses missions, ses crimes ni ses allégeances cachées, sauf si ces éléments font partie directement de ses origines.
+Elle ne révèle pas les secrets, les missions, les crimes ni les allégeances cachées, sauf si ces éléments font partie directement des origines. Elle ne remplace pas une preuve. Elle donne un point de départ pour une négociation, une vérification de procès-verbal ou une pression polie.
 
-La carte ne force personne à obéir à une demande et ne remplace pas une preuve. Elle te donne une information de départ pour une négociation, une vérification de procès-verbal ou une pression polie. Après usage, laisse la carte à la personne le temps qu'elle lise l'effet, puis récupère-la. Si tu perds cette carte, ta compétence est perdue. L'échange doit être discret car si la carte est revélée de manière ostentatoire ou trop visibles à d'autres personnes autour, les gens se méfieront. Les gens se méfient toujours de toute façon... ;) 
+Un usage trop visible peut attirer la méfiance des personnes présentes.
 
 ---
 
