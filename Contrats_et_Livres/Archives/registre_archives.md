@@ -6,7 +6,7 @@
 - Période couverte : 397-547
 - Nature du registre : contrats légaux exécutés, soldés et classés
 - Classement physique : archives anciennes de la banque UBI
-- Nombre d'actes recensés : 601
+- Nombre d’actes recensés : 629
 - Dont contrats commerciaux de classe II : 100
 - Droit de garde UBI : 2 % de la valeur du contrat, payé avant enregistrement
 
@@ -84,8 +84,9 @@ Récapitulatif 401 : revenus UBI sur droits de garde : 952 couronnes.
 | SE-I-402-001 | Contrat de service | Arthas ↔ Ther-Félis | Construction de rayonnages, coffres bas et pupitres de compte | 8'100 couronnes | 162 couronnes | 402-XII-02 | 402-XII-18 | Exécuté, soldé, classé |
 | PB-III-402-007 | Contrat de prêt bancaire | UBI ↔ Sfaal | Prêt bancaire pour avance d'exécution liée au contrat SE-III-402-005 : transport discret de liasses de dette, matrices de sceaux et reçus parallèles | 4'025 couronnes | 161 couronnes | 402-XII-11 | 403-I-20 | Exécuté, remboursé, classé |
 | SE-III-402-005 | Contrat de service | Sfaal ↔ Arthas | Transport discret de liasses de dette, matrices de sceaux et reçus parallèles | 8'050 couronnes | 161 couronnes | 402-XII-11 | 403-I-20 | Exécuté, soldé, classé |
+| PAR-I-402-008 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la première régate | 0 couronne | 50 couronnes | 402-XII-01 | 402-XII-01 | Enregistré, classé |
 
-Récapitulatif 402 : revenus UBI sur droits de garde : 1'056 couronnes.
+Récapitulatif 402 : revenus UBI sur droits de garde : 1'106 couronnes.
 
 ### 403
 
@@ -137,8 +138,9 @@ Récapitulatif 406 : revenus UBI sur droits de garde : 327 couronnes.
 | CO-II-407-004 | Contrat commercial | Ther-Félis ↔ Palyr | Achat de lames d'épée, fers de lance, carreaux d'arbalète et pointes trempées | 10'600 couronnes | 212 couronnes | 407-VI-05 | 407-X-22 | Exécuté, soldé, classé |
 | EC-I-407-001 | Contrat d'exclusivité | Ther-Félis ↔ Sfaal | Exclusivité d'achat de cire claire pour archives | 4'350 couronnes | 87 couronnes | 407-VII-16 | 407-XI-13 | Exécuté, soldé, classé |
 | SE-I-407-002 | Contrat de service | Il-Irion ↔ Palyr | Mise en ordre d'archives notariales et reliure de liasses | 5'150 couronnes | 103 couronnes | 407-X-22 | 407-XI-20 | Exécuté, soldé, classé |
+| PAR-I-407-006 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la deuxième régate | 0 couronne | 50 couronnes | 407-XII-01 | 407-XII-01 | Enregistré, classé |
 
-Récapitulatif 407 : revenus UBI sur droits de garde : 589 couronnes.
+Récapitulatif 407 : revenus UBI sur droits de garde : 639 couronnes.
 
 ### 408
 
@@ -190,8 +192,9 @@ Récapitulatif 411 : revenus UBI sur droits de garde : 892 couronnes.
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | EP-I-412-001 | Contrat d'exploitation | Sfaal ↔ Arthas | Exploitation limitée d'une carrière de calcaire | 8'600 couronnes | 172 couronnes | 412-II-04 | 412-V-08 | Exécuté, soldé, classé |
 | DE-III-412-002 | Contrat de dette | Ther-Félis ↔ Sfaal | Prêt garanti pour reconstitution de réserves métalliques après crise de change | 6'200 couronnes | 124 couronnes | 412-III-12 | 412-V-20 | Exécuté, soldé, classé |
+| PAR-I-412-003 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la troisième régate | 0 couronne | 50 couronnes | 412-XII-01 | 412-XII-01 | Enregistré, classé |
 
-Récapitulatif 412 : revenus UBI sur droits de garde : 296 couronnes.
+Récapitulatif 412 : revenus UBI sur droits de garde : 346 couronnes.
 
 ### 413
 
@@ -250,8 +253,9 @@ Récapitulatif 416 : revenus UBI sur droits de garde : 771 couronnes.
 | PR-III-417-004 | Contrat de protection | Sfaal ↔ Arthas | Protection de témoins commerciaux avant arbitrage sur cargaison rare | 7'750 couronnes | 155 couronnes | 417-IV-09 | 417-V-18 | Exécuté, soldé, classé |
 | CO-II-417-003 | Contrat commercial | Sfaal ↔ Ther-Félis | Fourniture de dalles de marbre veiné, colonnettes et chaux fine | 10'000 couronnes | 200 couronnes | 417-V-23 | 417-VIII-21 | Exécuté, soldé, classé |
 | PR-I-417-001 | Contrat de protection | Il-Irion ↔ Palyr | Escorte de chariots de pierre sur route de carrière | 4'850 couronnes | 97 couronnes | 417-IX-18 | 417-XI-03 | Exécuté, soldé, classé |
+| PAR-I-417-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la quatrième régate | 0 couronne | 50 couronnes | 417-XII-01 | 417-XII-01 | Enregistré, classé |
 
-Récapitulatif 417 : revenus UBI sur droits de garde : 452 couronnes.
+Récapitulatif 417 : revenus UBI sur droits de garde : 502 couronnes.
 
 ### 418
 
@@ -308,8 +312,9 @@ Récapitulatif 421 : revenus UBI sur droits de garde : 831 couronnes.
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | PB-III-422-002 | Contrat de prêt bancaire | UBI ↔ Il-Irion | Prêt bancaire pour avance d'exécution liée au contrat SE-III-422-001 : transport discret de liasses de dette, matrices de sceaux et reçus parallèles | 4'700 couronnes | 188 couronnes | 422-XII-29 | 423-III-18 | Exécuté, remboursé, classé |
 | SE-III-422-001 | Contrat de service | Il-Irion ↔ Ther-Félis | Transport discret de liasses de dette, matrices de sceaux et reçus parallèles | 9'400 couronnes | 188 couronnes | 422-XII-29 | 423-III-18 | Exécuté, soldé, classé |
+| PAR-I-422-003 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la cinquième régate | 0 couronne | 50 couronnes | 422-XII-01 | 422-XII-01 | Enregistré, classé |
 
-Récapitulatif 422 : revenus UBI sur droits de garde : 376 couronnes.
+Récapitulatif 422 : revenus UBI sur droits de garde : 426 couronnes.
 
 ### 423
 
@@ -366,8 +371,9 @@ Récapitulatif 426 : revenus UBI sur droits de garde : 700 couronnes.
 | PR-III-427-004 | Contrat de protection | Sfaal ↔ Ther-Félis | Protection de témoins commerciaux avant arbitrage sur cargaison rare | 8'350 couronnes | 167 couronnes | 427-VIII-25 | 427-XI-09 | Exécuté, soldé, classé |
 | SE-I-427-002 | Contrat de service | Il-Irion ↔ Arthas | Construction de rayonnages, coffres bas et pupitres de compte | 4'850 couronnes | 97 couronnes | 427-X-06 | 427-XII-02 | Exécuté, soldé, classé |
 | CO-I-427-001 | Contrat commercial | Palyr ↔ Sfaal | Achat de planches de chêne, poutres courtes et chevilles de charpente | 5'400 couronnes | 108 couronnes | 427-XI-20 | 427-XII-19 | Exécuté, soldé, classé |
+| PAR-I-427-006 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la sixième régate | 0 couronne | 50 couronnes | 427-XII-01 | 427-XII-01 | Enregistré, classé |
 
-Récapitulatif 427 : revenus UBI sur droits de garde : 789 couronnes.
+Récapitulatif 427 : revenus UBI sur droits de garde : 839 couronnes.
 
 ### 428
 
@@ -420,8 +426,9 @@ Récapitulatif 431 : revenus UBI sur droits de garde : 551 couronnes.
 | PB-III-432-007 | Contrat de prêt bancaire | UBI ↔ Sfaal | Prêt bancaire pour avance d'exécution liée au contrat SE-III-432-004 : mise à disposition de commis spécialisés pour copie de registres sensibles et reclassement de dettes | 3'900 couronnes | 156 couronnes | 432-IX-09 | 432-XII-07 | Exécuté, remboursé, classé |
 | SE-III-432-004 | Contrat de service | Sfaal ↔ Il-Irion | Mise à disposition de commis spécialisés pour copie de registres sensibles et reclassement de dettes | 7'800 couronnes | 156 couronnes | 432-IX-09 | 432-XII-07 | Exécuté, soldé, classé |
 | EC-I-432-002 | Contrat d'exclusivité | Palyr ↔ Sfaal | Priorité d'achat sur plantes tinctoriales séchées | 6'800 couronnes | 136 couronnes | 432-IX-26 | 432-XI-25 | Exécuté, soldé, classé |
+| PAR-I-432-008 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la septième régate | 0 couronne | 50 couronnes | 432-XII-01 | 432-XII-01 | Enregistré, classé |
 
-Récapitulatif 432 : revenus UBI sur droits de garde : 1'043 couronnes.
+Récapitulatif 432 : revenus UBI sur droits de garde : 1'093 couronnes.
 
 ### 433
 
@@ -475,8 +482,9 @@ Récapitulatif 436 : revenus UBI sur droits de garde : 803 couronnes.
 | CO-III-437-003 | Contrat commercial | Il-Irion ↔ Arthas | Fourniture confidentielle de cristaux de veille, poudres de fixation et encres de sceau | 6'050 couronnes | 121 couronnes | 437-I-06 | 437-IV-24 | Exécuté, soldé, classé |
 | PB-III-437-004 | Contrat de prêt bancaire | UBI ↔ Il-Irion | Prêt bancaire pour avance d'exécution liée au contrat CO-III-437-003 : fourniture confidentielle de cristaux de veille, poudres de fixation et encres de sceau | 3'025 couronnes | 121 couronnes | 437-I-06 | 437-IV-24 | Exécuté, remboursé, classé |
 | CO-I-437-002 | Contrat commercial | Arthas ↔ Palyr | Vente de sel gris, saumure et jarres de conservation | 6'100 couronnes | 122 couronnes | 437-II-23 | 437-IV-10 | Exécuté, soldé, classé |
+| PAR-I-437-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la huitième régate | 0 couronne | 50 couronnes | 437-XII-01 | 437-XII-01 | Enregistré, classé |
 
-Récapitulatif 437 : revenus UBI sur droits de garde : 364 couronnes.
+Récapitulatif 437 : revenus UBI sur droits de garde : 414 couronnes.
 
 ### 438
 
@@ -534,8 +542,9 @@ Récapitulatif 441 : revenus UBI sur droits de garde : 186 couronnes.
 | CO-II-442-004 | Contrat commercial | Sfaal ↔ Palyr | Vente de cerises précoces, raisins de serre et herbes fraîches | 10'150 couronnes | 203 couronnes | 442-V-04 | 442-IX-19 | Exécuté, soldé, classé |
 | EC-I-442-001 | Contrat d'exclusivité | Sfaal ↔ Il-Irion | Exclusivité de fourniture de lanternes de quai | 9'550 couronnes | 191 couronnes | 442-VI-05 | 442-X-24 | Exécuté, soldé, classé |
 | SE-I-442-002 | Contrat de service | Ther-Félis ↔ Il-Irion | Rédaction de contrats de vente pour marchands étrangers | 2'350 couronnes | 47 couronnes | 442-IX-11 | 442-X-05 | Exécuté, soldé, classé |
+| PAR-I-442-006 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la neuvième régate | 0 couronne | 50 couronnes | 442-XII-01 | 442-XII-01 | Enregistré, classé |
 
-Récapitulatif 442 : revenus UBI sur droits de garde : 626 couronnes.
+Récapitulatif 442 : revenus UBI sur droits de garde : 676 couronnes.
 
 ### 443
 
@@ -585,8 +594,9 @@ Récapitulatif 446 : revenus UBI sur droits de garde : 471 couronnes.
 | Référence | Type | Parties | Objet | Montant | Droit UBI payé | Date de dépôt | Date d'exécution | Statut |
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | DE-III-447-001 | Contrat de dette | Palyr ↔ Il-Irion | Prêt garanti pour reconstitution de réserves métalliques après crise de change | 7'950 couronnes | 159 couronnes | 447-VI-17 | 447-VII-17 | Exécuté, soldé, classé |
+| PAR-I-447-002 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la dixième régate | 0 couronne | 50 couronnes | 447-XII-01 | 447-XII-01 | Enregistré, classé |
 
-Récapitulatif 447 : revenus UBI sur droits de garde : 159 couronnes.
+Récapitulatif 447 : revenus UBI sur droits de garde : 209 couronnes.
 
 ### 448
 
@@ -639,8 +649,9 @@ Récapitulatif 451 : revenus UBI sur droits de garde : 652 couronnes.
 | CO-II-452-003 | Contrat commercial | Arthas ↔ Sfaal | Achat de chevaux rapides pour relais de messagers | 12'550 couronnes | 251 couronnes | 452-IV-22 | 452-VII-18 | Exécuté, soldé, classé |
 | CO-III-452-004 | Contrat commercial | Il-Irion ↔ Palyr | Fourniture confidentielle de cristaux de veille, poudres de fixation et encres de sceau | 8'350 couronnes | 167 couronnes | 452-V-17 | 452-VII-01 | Exécuté, soldé, classé |
 | PR-I-452-001 | Contrat de protection | Ther-Félis ↔ Il-Irion | Garde de chantier naval pendant pose de pièces importées | 2'050 couronnes | 41 couronnes | 452-VIII-07 | 452-X-14 | Exécuté, soldé, classé |
+| PAR-I-452-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la onzième régate | 0 couronne | 50 couronnes | 452-XII-01 | 452-XII-01 | Enregistré, classé |
 
-Récapitulatif 452 : revenus UBI sur droits de garde : 459 couronnes.
+Récapitulatif 452 : revenus UBI sur droits de garde : 509 couronnes.
 
 ### 453
 
@@ -694,8 +705,9 @@ Récapitulatif 456 : revenus UBI sur droits de garde : 884 couronnes.
 | PB-III-457-005 | Contrat de prêt bancaire | UBI ↔ Arthas | Prêt bancaire pour avance d'exécution liée au contrat CO-III-457-004 : fourniture confidentielle de cristaux de veille, poudres de fixation et encres de sceau | 4'925 couronnes | 197 couronnes | 457-II-18 | 457-V-12 | Exécuté, remboursé, classé |
 | CO-II-457-003 | Contrat commercial | Palyr ↔ Sfaal | Achat de cuivre martelé, gouttières fines et clous d'ornement | 10'600 couronnes | 212 couronnes | 457-III-16 | 457-V-15 | Exécuté, soldé, classé |
 | SE-I-457-002 | Contrat de service | Ther-Félis ↔ Sfaal | Tri de ballots saisis et rédaction des listes de restitution | 9'700 couronnes | 194 couronnes | 457-VIII-06 | 457-XI-22 | Exécuté, soldé, classé |
+| PAR-I-457-006 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la douzième régate | 0 couronne | 50 couronnes | 457-XII-01 | 457-XII-01 | Enregistré, classé |
 
-Récapitulatif 457 : revenus UBI sur droits de garde : 800 couronnes.
+Récapitulatif 457 : revenus UBI sur droits de garde : 850 couronnes.
 
 ### 458
 
@@ -751,8 +763,9 @@ Récapitulatif 461 : revenus UBI sur droits de garde : 1'059 couronnes.
 | EP-III-462-004 | Contrat d'exploitation | Ther-Félis ↔ Sfaal | Exploitation limitée d'une source minérale utilisée pour bains, teintures et préparations magiques | 9'600 couronnes | 192 couronnes | 462-III-16 | 462-IV-04 | Exécuté, soldé, classé |
 | CO-II-462-003 | Contrat commercial | Palyr ↔ Ther-Félis | Fourniture de lances montées, boucliers peints et sangles de réserve | 12'050 couronnes | 241 couronnes | 462-IV-15 | 462-VI-18 | Exécuté, soldé, classé |
 | CO-I-462-001 | Contrat commercial | Il-Irion ↔ Sfaal | Achat de poissons salés, huile de lampe et jarres de graisse | 2'600 couronnes | 52 couronnes | 462-X-09 | 462-XII-04 | Exécuté, soldé, classé |
+| PAR-I-462-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la treizième régate | 0 couronne | 50 couronnes | 462-XII-01 | 462-XII-01 | Enregistré, classé |
 
-Récapitulatif 462 : revenus UBI sur droits de garde : 485 couronnes.
+Récapitulatif 462 : revenus UBI sur droits de garde : 535 couronnes.
 
 ### 463
 
@@ -804,8 +817,9 @@ Récapitulatif 466 : revenus UBI sur droits de garde : 511 couronnes.
 | CO-I-467-001 | Contrat commercial | Ther-Félis ↔ Palyr | Achat de laine brute, fil teint et aiguilles d'atelier | 6'850 couronnes | 137 couronnes | 467-V-23 | 467-VIII-25 | Exécuté, soldé, classé |
 | EP-I-467-002 | Contrat d'exploitation | Ther-Félis ↔ Il-Irion | Exploitation de source minérale pour bains et teintures | 6'150 couronnes | 123 couronnes | 467-VIII-25 | 467-X-22 | Exécuté, soldé, classé |
 | EC-III-467-004 | Contrat d'exclusivité | Il-Irion ↔ Arthas | Exclusivité industrielle sur filtres de distillation, sels rares et alambics scellés | 9'250 couronnes | 185 couronnes | 467-X-23 | 468-I-23 | Exécuté, soldé, classé |
+| PAR-I-467-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la quatorzième régate | 0 couronne | 50 couronnes | 467-XII-01 | 467-XII-01 | Enregistré, classé |
 
-Récapitulatif 467 : revenus UBI sur droits de garde : 647 couronnes.
+Récapitulatif 467 : revenus UBI sur droits de garde : 697 couronnes.
 
 ### 468
 
@@ -854,8 +868,9 @@ Récapitulatif 471 : revenus UBI sur droits de garde : 757 couronnes.
 | Référence | Type | Parties | Objet | Montant | Droit UBI payé | Date de dépôt | Date d'exécution | Statut |
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | SE-I-472-001 | Contrat de service | Il-Irion ↔ Palyr | Nettoyage de citernes, rigoles et bassins de salaison | 2'500 couronnes | 50 couronnes | 472-X-06 | 472-XI-14 | Exécuté, soldé, classé |
+| PAR-I-472-002 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la quinzième régate | 0 couronne | 50 couronnes | 472-XII-01 | 472-XII-01 | Enregistré, classé |
 
-Récapitulatif 472 : revenus UBI sur droits de garde : 50 couronnes.
+Récapitulatif 472 : revenus UBI sur droits de garde : 100 couronnes.
 
 ### 473
 
@@ -894,8 +909,9 @@ Récapitulatif 476 : revenus UBI sur droits de garde : 408 couronnes.
 | EC-I-477-001 | Contrat d'exclusivité | Ther-Félis ↔ Arthas | Priorité sur bois de chêne sec pour coffres | 6'750 couronnes | 135 couronnes | 477-V-20 | 477-IX-09 | Exécuté, soldé, classé |
 | SE-I-477-002 | Contrat de service | Il-Irion ↔ Arthas | Construction de rayonnages, coffres bas et pupitres de compte | 7'550 couronnes | 151 couronnes | 477-VIII-26 | 477-IX-16 | Exécuté, soldé, classé |
 | CO-I-477-003 | Contrat commercial | Ther-Félis ↔ Il-Irion | Vente de sel gris, saumure et jarres de conservation | 2'850 couronnes | 57 couronnes | 477-IX-19 | 477-X-23 | Exécuté, soldé, classé |
+| PAR-I-477-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la seizième régate | 0 couronne | 50 couronnes | 477-XII-01 | 477-XII-01 | Enregistré, classé |
 
-Récapitulatif 477 : revenus UBI sur droits de garde : 597 couronnes.
+Récapitulatif 477 : revenus UBI sur droits de garde : 647 couronnes.
 
 ### 479
 
@@ -930,8 +946,9 @@ Récapitulatif 481 : revenus UBI sur droits de garde : 304 couronnes.
 | Référence | Type | Parties | Objet | Montant | Droit UBI payé | Date de dépôt | Date d'exécution | Statut |
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | EP-I-482-001 | Contrat d'exploitation | Palyr ↔ Sfaal | Coupe contrôlée de bois de chêne sur domaine marchand | 3'000 couronnes | 60 couronnes | 482-XII-08 | 482-XII-04 | Exécuté, soldé, classé |
+| PAR-I-482-002 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la dix-septième régate | 0 couronne | 50 couronnes | 482-XII-01 | 482-XII-01 | Enregistré, classé |
 
-Récapitulatif 482 : revenus UBI sur droits de garde : 60 couronnes.
+Récapitulatif 482 : revenus UBI sur droits de garde : 110 couronnes.
 
 ### 483
 
@@ -975,8 +992,9 @@ Récapitulatif 486 : revenus UBI sur droits de garde : 368 couronnes.
 | CO-II-487-003 | Contrat commercial | Palyr ↔ Il-Irion | Achat de selles ouvragées, mors argentés et couvertures de parade | 12'100 couronnes | 242 couronnes | 487-III-21 | 487-VI-15 | Exécuté, soldé, classé |
 | PR-I-487-001 | Contrat de protection | Il-Irion ↔ Arthas | Garde de halle pendant vente de lots saisis | 7'250 couronnes | 145 couronnes | 487-VII-22 | 487-IX-25 | Exécuté, soldé, classé |
 | PR-I-487-002 | Contrat de protection | Palyr ↔ Ther-Félis | Protection de scribes lors d'une tournée d'inventaire | 7'100 couronnes | 142 couronnes | 487-VIII-11 | 487-XII-22 | Exécuté, soldé, classé |
+| PAR-I-487-004 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la dix-huitième régate | 0 couronne | 50 couronnes | 487-XII-01 | 487-XII-01 | Enregistré, classé |
 
-Récapitulatif 487 : revenus UBI sur droits de garde : 529 couronnes.
+Récapitulatif 487 : revenus UBI sur droits de garde : 579 couronnes.
 
 ### 488
 
@@ -1012,8 +1030,9 @@ Récapitulatif 490 : revenus UBI sur droits de garde : 624 couronnes.
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | SE-I-492-001 | Contrat de service | Arthas ↔ Sfaal | Réfection de toitures d'entrepôt et pose de gouttières | 3'500 couronnes | 70 couronnes | 492-II-10 | 492-III-20 | Exécuté, soldé, classé |
 | CO-II-492-003 | Contrat commercial | Il-Irion ↔ Sfaal | Vente de sel d'alun, mordants de teinture et savons de laine | 10'150 couronnes | 203 couronnes | 492-II-15 | 492-IV-12 | Exécuté, soldé, classé |
+| PAR-I-492-004 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la dix-neuvième régate | 0 couronne | 50 couronnes | 492-XII-01 | 492-XII-01 | Enregistré, classé |
 
-Récapitulatif 492 : revenus UBI sur droits de garde : 273 couronnes.
+Récapitulatif 492 : revenus UBI sur droits de garde : 323 couronnes.
 
 ### 493
 
@@ -1043,6 +1062,15 @@ Récapitulatif 495 : revenus UBI sur droits de garde : 263 couronnes.
 | CO-I-496-002 | Contrat commercial | Sfaal ↔ Il-Irion | Achat de planches de chêne, poutres courtes et chevilles de charpente | 7'350 couronnes | 147 couronnes | 496-VII-19 | 496-X-09 | Exécuté, soldé, classé |
 
 Récapitulatif 496 : revenus UBI sur droits de garde : 505 couronnes.
+
+
+### 497
+
+| Référence | Type | Parties | Objet | Montant | Droit UBI payé | Date de dépôt | Date d'exécution | Statut |
+|-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
+| PAR-I-497-001 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingtième régate | 0 couronne | 50 couronnes | 497-XII-01 | 497-XII-01 | Enregistré, classé |
+
+Récapitulatif 497 : revenus UBI sur droits de garde : 50 couronnes.
 
 ### 498
 
@@ -1087,8 +1115,9 @@ Récapitulatif 501 : revenus UBI sur droits de garde : 72 couronnes.
 | CO-II-502-003 | Contrat commercial | Ther-Félis ↔ Sfaal | Achat de tapis épais, tentures brodées et coussins de réception | 12'650 couronnes | 253 couronnes | 502-II-08 | 502-III-12 | Exécuté, soldé, classé |
 | CO-I-502-001 | Contrat commercial | Sfaal ↔ Palyr | Vente de cire blanche, suif, mèches et lanternes d'entrepôt | 4'050 couronnes | 81 couronnes | 502-IV-12 | 502-VII-10 | Exécuté, soldé, classé |
 | PR-I-502-002 | Contrat de protection | Ther-Félis ↔ Arthas | Escorte de chariots de pierre sur route de carrière | 5'500 couronnes | 110 couronnes | 502-VII-24 | 502-IX-19 | Exécuté, soldé, classé |
+| PAR-I-502-004 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt et unième régate | 0 couronne | 50 couronnes | 502-XII-01 | 502-XII-01 | Enregistré, classé |
 
-Récapitulatif 502 : revenus UBI sur droits de garde : 444 couronnes.
+Récapitulatif 502 : revenus UBI sur droits de garde : 494 couronnes.
 
 ### 503
 
@@ -1131,8 +1160,9 @@ Récapitulatif 506 : revenus UBI sur droits de garde : 356 couronnes.
 | Référence | Type | Parties | Objet | Montant | Droit UBI payé | Date de dépôt | Date d'exécution | Statut |
 |-----------|------|---------|-------|---------|----------------|---------------|------------------|--------|
 | SE-I-507-001 | Contrat de service | Ther-Félis ↔ Il-Irion | Copie de registres de dettes et reclassement de bordereaux | 7'700 couronnes | 154 couronnes | 507-IX-21 | 507-X-25 | Exécuté, soldé, classé |
+| PAR-I-507-002 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-deuxième régate | 0 couronne | 50 couronnes | 507-XII-01 | 507-XII-01 | Enregistré, classé |
 
-Récapitulatif 507 : revenus UBI sur droits de garde : 154 couronnes.
+Récapitulatif 507 : revenus UBI sur droits de garde : 204 couronnes.
 
 ### 508
 
@@ -1178,8 +1208,9 @@ Récapitulatif 511 : revenus UBI sur droits de garde : 423 couronnes.
 | CO-II-512-004 | Contrat commercial | Sfaal ↔ Arthas | Fourniture de tuiles vernissées, ferrures de portail et plomb de toiture | 12'250 couronnes | 245 couronnes | 512-III-02 | 512-VII-13 | Exécuté, soldé, classé |
 | EC-I-512-001 | Contrat d'exclusivité | Sfaal ↔ Ther-Félis | Priorité sur jarres d'huile et graisse de conservation | 3'950 couronnes | 79 couronnes | 512-IV-09 | 512-VIII-20 | Exécuté, soldé, classé |
 | EC-I-512-003 | Contrat d'exclusivité | Ther-Félis ↔ Arthas | Priorité d'achat sur le cuivre rouge livré au port | 2'200 couronnes | 44 couronnes | 512-VIII-18 | 512-IX-20 | Exécuté, soldé, classé |
+| PAR-I-512-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-troisième régate | 0 couronne | 50 couronnes | 512-XII-01 | 512-XII-01 | Enregistré, classé |
 
-Récapitulatif 512 : revenus UBI sur droits de garde : 368 couronnes.
+Récapitulatif 512 : revenus UBI sur droits de garde : 418 couronnes.
 
 ### 514
 
@@ -1215,8 +1246,9 @@ Récapitulatif 516 : revenus UBI sur droits de garde : 152 couronnes.
 | EC-I-517-002 | Contrat d'exclusivité | Palyr ↔ Il-Irion | Exclusivité de fourniture de lanternes de quai | 9'000 couronnes | 180 couronnes | 517-II-03 | 517-VI-22 | Exécuté, soldé, classé |
 | CO-II-517-004 | Contrat commercial | Arthas ↔ Ther-Félis | Achat de fruits fragiles, poires d'hiver, figues violettes et paniers de pêches | 10'300 couronnes | 206 couronnes | 517-II-22 | 517-V-10 | Exécuté, soldé, classé |
 | EP-I-517-001 | Contrat d'exploitation | Il-Irion ↔ Sfaal | Exploitation de ruchers et prélèvement de cire | 8'200 couronnes | 164 couronnes | 517-XI-23 | 517-XII-15 | Exécuté, soldé, classé |
+| PAR-I-517-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-quatrième régate | 0 couronne | 50 couronnes | 517-XII-01 | 517-XII-01 | Enregistré, classé |
 
-Récapitulatif 517 : revenus UBI sur droits de garde : 550 couronnes.
+Récapitulatif 517 : revenus UBI sur droits de garde : 600 couronnes.
 
 ### 518
 
@@ -1258,8 +1290,9 @@ Récapitulatif 521 : revenus UBI sur droits de garde : 822 couronnes.
 | CO-II-522-003 | Contrat commercial | Arthas ↔ Ther-Félis | Vente de miel clair, épices entières, fruits confits et sucre de pain | 11'600 couronnes | 232 couronnes | 522-II-20 | 522-V-12 | Exécuté, soldé, classé |
 | DF-IV-522-004 | Contrat de défense | Arthas ↔ Il-Irion | Transfert secret de lames de siège, ressorts d'arbalètes lourdes et plans de tour mobile vers un relais proche de la Styrgie | 17'950 couronnes | 359 couronnes | 522-IV-17 | 522-VII-18 | Exécuté, soldé, classé |
 | SE-I-522-002 | Contrat de service | Ther-Félis ↔ Sfaal | Réparation de pontons, cales et rampes de chargement | 6'450 couronnes | 129 couronnes | 522-VII-10 | 522-XI-19 | Exécuté, soldé, classé |
+| PAR-I-522-005 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-cinquième régate | 0 couronne | 50 couronnes | 522-XII-01 | 522-XII-01 | Enregistré, classé |
 
-Récapitulatif 522 : revenus UBI sur droits de garde : 720 couronnes.
+Récapitulatif 522 : revenus UBI sur droits de garde : 770 couronnes.
 
 ### 523
 
@@ -1316,8 +1349,9 @@ Récapitulatif 526 : revenus UBI sur droits de garde : 1'482 couronnes.
 | EC-I-527-002 | Contrat d'exclusivité | Arthas ↔ Ther-Félis | Exclusivité de fourniture de tonnelets pour caves | 8'400 couronnes | 168 couronnes | 527-VI-04 | 527-IX-16 | Exécuté, soldé, classé |
 | DE-IV-527-004 | Contrat de dette | Il-Irion ↔ Palyr | Avance bancaire dissimulée pour solder une rançon militaire et éviter la publication d'ordres contradictoires | 13'750 couronnes | 275 couronnes | 527-VI-07 | 527-VII-18 | Exécuté, soldé, classé |
 | PR-IV-527-005 | Contrat de protection | Il-Irion ↔ Palyr | Protection de témoins militaires avant effacement d'un dépôt d'armes non déclaré | 12'700 couronnes | 254 couronnes | 527-XI-07 | 528-IV-24 | Exécuté, soldé, classé |
+| PAR-I-527-006 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-sixième régate | 0 couronne | 50 couronnes | 527-XII-01 | 527-XII-01 | Enregistré, classé |
 
-Récapitulatif 527 : revenus UBI sur droits de garde : 1'125 couronnes.
+Récapitulatif 527 : revenus UBI sur droits de garde : 1'175 couronnes.
 
 ### 528
 
@@ -1380,8 +1414,9 @@ Récapitulatif 531 : revenus UBI sur droits de garde : 1'852 couronnes.
 | PB-IV-532-005 | Contrat de prêt bancaire | UBI ↔ Arthas | Prêt bancaire pour avance d'exécution liée au contrat EP-IV-532-002 : extraction discrète de minerai noir, utile aux plaques d'armure et aux poudres de scellement interdites | 7'550 couronnes | 302 couronnes | 532-VIII-29 | 533-I-15 | Exécuté, remboursé, classé |
 | CO-IV-532-001 | Contrat commercial | Sfaal ↔ Il-Irion | Vente couverte de cristaux d'écoute, sels de narcose et fioles de mémoire à un courtier lié à Aquiléas | 12'700 couronnes | 254 couronnes | 532-X-24 | 533-II-24 | Exécuté, soldé, classé |
 | PB-IV-532-004 | Contrat de prêt bancaire | UBI ↔ Sfaal | Prêt bancaire pour avance d'exécution liée au contrat CO-IV-532-001 : vente couverte de cristaux d'écoute, sels de narcose et fioles de mémoire à un courtier lié à Aquiléas | 6'350 couronnes | 254 couronnes | 532-X-24 | 533-II-24 | Exécuté, remboursé, classé |
+| PAR-I-532-007 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-septième régate | 0 couronne | 50 couronnes | 532-XII-01 | 532-XII-01 | Enregistré, classé |
 
-Récapitulatif 532 : revenus UBI sur droits de garde : 1'820 couronnes.
+Récapitulatif 532 : revenus UBI sur droits de garde : 1'870 couronnes.
 
 ### 533
 
@@ -1453,8 +1488,9 @@ Récapitulatif 536 : revenus UBI sur droits de garde : 2'243 couronnes.
 | DF-IV-537-005 | Contrat de défense | Il-Irion ↔ Arthas | Transfert secret de lames de siège, ressorts d'arbalètes lourdes et plans de tour mobile vers un relais proche de la Styrgie | 12'800 couronnes | 256 couronnes | 537-VII-26 | 537-XI-20 | Exécuté, soldé, classé |
 | PB-IV-537-009 | Contrat de prêt bancaire | UBI ↔ Il-Irion | Prêt bancaire pour avance d'exécution liée au contrat DF-IV-537-005 : transfert secret de lames de siège, ressorts d'arbalètes lourdes et plans de tour mobile vers un relais proche de la Styrgie | 6'400 couronnes | 256 couronnes | 537-VII-26 | 537-XI-20 | Exécuté, remboursé, classé |
 | DF-IV-537-007 | Contrat de défense | Sfaal ↔ Palyr | Transfert secret de lames de siège, ressorts d'arbalètes lourdes et plans de tour mobile vers un relais proche de la Styrgie | 15'050 couronnes | 301 couronnes | 537-VIII-22 | 537-XII-24 | Exécuté, soldé, classé |
+| PAR-I-537-010 | Paraphe de routes | Cinq cités confédérées | Constat des propriétés contractuelles des treize lignes marchandes après la vingt-huitième régate | 0 couronne | 50 couronnes | 537-XII-01 | 537-XII-01 | Enregistré, classé |
 
-Récapitulatif 537 : revenus UBI sur droits de garde : 2'285 couronnes.
+Récapitulatif 537 : revenus UBI sur droits de garde : 2'335 couronnes.
 
 ### 538
 

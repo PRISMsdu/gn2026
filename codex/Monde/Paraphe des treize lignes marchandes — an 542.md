@@ -5,7 +5,7 @@
 
 ---
 
-Attendu que la vingt-neuvième régate s’est tenue conformément au [Fonctionnement de la bourse des échanges de la Confédération](Fonctionnement de la bourse des échanges de la Confédération.md) ;
+Attendu que la vingt-neuvième régate s’est tenue conformément au Fonctionnement de la bourse des échanges de la Confédération ;
 
 Attendu que les Grands ordonnateurs de la Convention ont convoqué et tenu la séance pléniaire du samedi, que les cinq cités contractantes, le greffier de l’Union bancaire d’Il-Irion et le collège des Grands ordonnateurs y ont été présents conformément au texte sur la bourse, et que l’acte de clôture ainsi que le procès-verbal de supervision ont été signés ;
 
@@ -32,14 +32,14 @@ Les liaisons ci-dessous portent les noms de route de la Convention. La colonne �
 | Palyr – Ther-Félis | ~665 | 8 000 | Palyr |
 | Sfaal – Ther-Félis | ~220 | 16 000 | Sfaal |
 | Sfaal – Arthas | ~515 | 12 000 | Sfaal |
-| Arthas – Ther-Félis | ~290 | 36 000 | mixte |
+| Arthas – Ther-Félis | ~290 | 36 000 | Arthas |
 | Arthas – Escalèche | ~35 | 10 000 | Arthas |
 | Arthas – Ulghart | ~275 | 25 000 | Arthas |
 | Il-Irion – Ulghart | ~55 | 3 200 | Il-Irion |
 
 **Totaux constatés** : ~4 710 km cumulés sur les treize lignes ; ~185 400 couronnes/an au titre des montants indicatifs inscrits au tableau.
 
-**Mention spéciale** : sur la ligne Andulin Arthas – Ther-Félis, la mention « mixte » renvoie au partage conventionnel des droits entre Arthas et Ther-Félis tel qu’acté au cycle ouvert en 542.
+**Mention spéciale** : sur la ligne Andulin Arthas – Ther-Félis, la titularité d’Arthas vaut pour toute la période ouverte en 542, sans partage conventionnel entre cités.
 
 ---
 
@@ -69,12 +69,12 @@ Les liaisons ci-dessous portent les noms de route de la Convention. La colonne �
 
 (*Signature*: Ther-Félis)
 
-**Greffe UBI** :
+**Greffe UBI** : ![](../../LivretsLocaux/Blasons/Blason_UBI.png)
 
-(*Signature*: Greffe de mes 2)
+(*Signature*: Gralis Podevin)
 
-**Grands ordonnateurs de la Convention** :
+**Grands ordonnateurs de la Convention** : ![](../../LivretsLocaux/Blasons/Blason_Talamh.png)
 
-(*Signature*: Les Gros enculés)
+(*Signature*: Maison Talamh)
 
 *Copies certifiées conformes : archives des cinq cités, Guilde des Ports Unis, registres de la Convention sur les routes marchandes.*

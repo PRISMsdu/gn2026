@@ -51,10 +51,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Peu bavard, méthodique, attentif aux horaires et aux hommes disponibles. |
-| Valeurs | Un ordre clair, une exécution propre, un compte rendu au chef. |
+| Traits de caractère | Peu bavard, méthodique, attentif aux horaires, aux accès et aux hommes disponibles. Tu vérifies le lieu, l'heure, le responsable et le résultat attendu. |
+| Valeurs | Ordres clairs, exécution propre, compte rendu à Kaelan. Tu sépares les tâches pour protéger le réseau. |
 | Peur | Perdre une équipe parce qu'un relais parle trop tôt ou qu'un cadre agit sans prévenir les autres. |
-| Rêve | Quitter les Sangs avec Kaelan, les quittances du MiVI et assez d'or pour ne plus dépendre d'Elfrion. |
+| Rêve | Quitter les Sangs avec Kaelan, les quittances du MiVI et assez d'or pour ne plus dépendre d'Elfrion ni des contrats de route. |
 
 ---
 
@@ -146,7 +146,7 @@ Ton rôle est de protéger le rendez-vous côté hommes et entrepôts. Si Raven 
 
 Marda Velyss dirige le Tripot du fort d'Ulghart. Les Sangs ont déjà essayé de prendre une part sur les caisses, de contrôler les entrées et de placer des hommes autour des salons. Les résultats sont mauvais : certains hommes ont disparu, d'autres sont tombés malades, et les survivants n'ont rapporté aucun accès stable.
 
-Cette résistance ne ressemble pas seulement à du courage. Quelqu'un de très haut placé protège le Tripot, ou couvre au moins une partie de ses affaires. Marda ne sait peut-être pas exactement qui la protège. Pour toi, le fait utile est simple : avant toute pression directe, il faut identifier cette protection, puis tester les gardes, les clients et les livraisons sans envoyer un homme seul.
+Cette résistance ne ressemble pas seulement à du courage. Quelqu'un de très haut placé protège le Tripot, ou couvre au moins une partie de ses affaires. Marda ne sait peut-être pas exactement qui la protège. Avant toute pression directe, il faut identifier cette protection, puis tester les gardes, les clients et les livraisons sans envoyer un homme seul.
 
 
 ## Edorian — UBI

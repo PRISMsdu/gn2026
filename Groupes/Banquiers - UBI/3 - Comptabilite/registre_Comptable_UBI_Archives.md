@@ -223,6 +223,7 @@ Total revenus UBI 401 : 19'093 couronnes.
 | SE-I-402-001 | 402-XII-02 | 402-XII-18 | Septimus Calveran (Arthas) ↔ Vera Seld (Ther-Félis) | 8'100 couronnes | 162 couronnes |
 | PB-III-402-007 | 402-XII-11 | 403-I-20 | Miren Ask (UBI) ↔ Sorna Kelveg (Sfaal) | 4'025 couronnes | 161 couronnes |
 | SE-III-402-005 | 402-XII-11 | 403-I-20 | Sorna Kelveg (Sfaal) ↔ Marra Kesh (Arthas) | 8'050 couronnes | 161 couronnes |
+| PAR-I-402-008 | 402-XII-01 | 402-XII-01 | Thoran Keld (UBI) ↔ Maison Solmène | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 402 :
 
@@ -244,7 +245,7 @@ Location et assurance coffres (55 coffres a 12 couronnes/an) : 660 couronnes.
 Primes CREDOC garanties documentaires 402 : 14'368 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 402 : 19'401 couronnes.
+Total revenus UBI 402 : 19'451 couronnes.
 
 ## 403
 
@@ -376,6 +377,7 @@ Total revenus UBI 406 : 18'729 couronnes.
 | CO-II-407-004 | 407-VI-05 | 407-X-22 | Jonn Halet (Ther-Félis) ↔ Maren Holt (Palyr) | 10'600 couronnes | 212 couronnes |
 | EC-I-407-001 | 407-VII-16 | 407-XI-13 | Nadia Ferl (Ther-Félis) ↔ Iskra Morven (Sfaal) | 4'350 couronnes | 87 couronnes |
 | SE-I-407-002 | 407-X-22 | 407-XI-20 | Neriane Vossel (Il-Irion) ↔ Ilara Vandesse (Palyr) | 5'150 couronnes | 103 couronnes |
+| PAR-I-407-006 | 407-XII-01 | 407-XII-01 | Septimus Calveran (UBI) ↔ Maison Lanterive | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 407 :
 
@@ -397,7 +399,7 @@ Location et assurance coffres (61 coffres a 12 couronnes/an) : 732 couronnes.
 Primes CREDOC garanties documentaires 407 : 14'629 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 407 : 19'266 couronnes.
+Total revenus UBI 407 : 19'316 couronnes.
 
 ## 408
 
@@ -529,6 +531,7 @@ Total revenus UBI 411 : 19'649 couronnes.
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | EP-I-412-001 | 412-II-04 | 412-V-08 | Sorna Kelveg (Sfaal) ↔ Marra Kesh (Arthas) | 8'600 couronnes | 172 couronnes |
 | DE-III-412-002 | 412-III-12 | 412-V-20 | Borin Ask (Ther-Félis) ↔ Sorna Kelveg (Sfaal) | 6'200 couronnes | 124 couronnes |
+| PAR-I-412-003 | 412-XII-01 | 412-XII-01 | Iskra Morven (UBI) ↔ Maison Orsille | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 412 :
 
@@ -550,7 +553,7 @@ Location et assurance coffres (67 coffres a 12 couronnes/an) : 804 couronnes.
 Primes CREDOC garanties documentaires 412 : 14'716 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 412 : 19'163 couronnes.
+Total revenus UBI 412 : 19'213 couronnes.
 
 ## 413
 
@@ -689,6 +692,7 @@ Total revenus UBI 416 : 19'758 couronnes.
 | PR-III-417-004 | 417-IV-09 | 417-V-18 | Iskra Morven (Sfaal) ↔ Vorik Ash (Arthas) | 7'750 couronnes | 155 couronnes |
 | CO-II-417-003 | 417-V-23 | 417-VIII-21 | Harl Dravik (Sfaal) ↔ Borin Ask (Ther-Félis) | 10'000 couronnes | 200 couronnes |
 | PR-I-417-001 | 417-IX-18 | 417-XI-03 | Ryliane Sorne (Il-Irion) ↔ Ilara Vandesse (Palyr) | 4'850 couronnes | 97 couronnes |
+| PAR-I-417-005 | 417-XII-01 | 417-XII-01 | Rauth Kaelmar (UBI) ↔ Maison Vantrel | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 417 :
 
@@ -710,7 +714,7 @@ Location et assurance coffres (73 coffres a 12 couronnes/an) : 876 couronnes.
 Primes CREDOC garanties documentaires 417 : 14'774 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 417 : 19'491 couronnes.
+Total revenus UBI 417 : 19'541 couronnes.
 
 ## 418
 
@@ -847,6 +851,7 @@ Total revenus UBI 421 : 20'036 couronnes.
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | PB-III-422-002 | 422-XII-29 | 423-III-18 | Hesta Noll (UBI) ↔ Odran Calev (Il-Irion) | 4'700 couronnes | 188 couronnes |
 | SE-III-422-001 | 422-XII-29 | 423-III-18 | Odran Calev (Il-Irion) ↔ Maelis Tern (Ther-Félis) | 9'400 couronnes | 188 couronnes |
+| PAR-I-422-003 | 422-XII-01 | 422-XII-01 | Yorna Vask (UBI) ↔ Maison Cornebrume | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 422 :
 
@@ -868,7 +873,7 @@ Location et assurance coffres (79 coffres a 12 couronnes/an) : 948 couronnes.
 Primes CREDOC garanties documentaires 422 : 15'034 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 422 : 19'737 couronnes.
+Total revenus UBI 422 : 19'787 couronnes.
 
 ## 423
 
@@ -1005,6 +1010,7 @@ Total revenus UBI 426 : 20'149 couronnes.
 | PR-III-427-004 | 427-VIII-25 | 427-XI-09 | Harl Dravik (Sfaal) ↔ Odran Veyl (Ther-Félis) | 8'350 couronnes | 167 couronnes |
 | SE-I-427-002 | 427-X-06 | 427-XII-02 | Eldra Marivel (Il-Irion) ↔ Marra Kesh (Arthas) | 4'850 couronnes | 97 couronnes |
 | CO-I-427-001 | 427-XI-20 | 427-XII-19 | Neral Voss (Palyr) ↔ Iskra Morven (Sfaal) | 5'400 couronnes | 108 couronnes |
+| PAR-I-427-006 | 427-XII-01 | 427-XII-01 | Orel Vant (UBI) ↔ Maison Hermine | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 427 :
 
@@ -1026,7 +1032,7 @@ Location et assurance coffres (85 coffres a 12 couronnes/an) : 1'020 couronnes.
 Primes CREDOC garanties documentaires 427 : 15'300 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 427 : 20'472 couronnes.
+Total revenus UBI 427 : 20'522 couronnes.
 
 ## 428
 
@@ -1161,6 +1167,7 @@ Total revenus UBI 431 : 25'988 couronnes.
 | PB-III-432-007 | 432-IX-09 | 432-XII-07 | Hesta Noll (UBI) ↔ Branik Telg (Sfaal) | 3'900 couronnes | 156 couronnes |
 | SE-III-432-004 | 432-IX-09 | 432-XII-07 | Branik Telg (Sfaal) ↔ Darian Quenndral (Il-Irion) | 7'800 couronnes | 156 couronnes |
 | EC-I-432-002 | 432-IX-26 | 432-XI-25 | Lysa Ventoss (Palyr) ↔ Iskra Morven (Sfaal) | 6'800 couronnes | 136 couronnes |
+| PAR-I-432-008 | 432-XII-01 | 432-XII-01 | Merra Forgecendre (UBI) ↔ Maison Argenlieu | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 432 :
 
@@ -1183,7 +1190,7 @@ Location et assurance coffres (91 coffres a 12 couronnes/an) : 1'092 couronnes.
 Primes CREDOC garanties documentaires 432 : 15'382 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 432 : 26'579 couronnes.
+Total revenus UBI 432 : 26'629 couronnes.
 
 ## 433
 
@@ -1321,6 +1328,7 @@ Total revenus UBI 436 : 26'599 couronnes.
 | CO-III-437-003 | 437-I-06 | 437-IV-24 | Vaeric Noll (Il-Irion) ↔ Lorian Darsen (Arthas) | 6'050 couronnes | 121 couronnes |
 | PB-III-437-004 | 437-I-06 | 437-IV-24 | Corvus Veyr (UBI) ↔ Vaeric Noll (Il-Irion) | 3'025 couronnes | 121 couronnes |
 | CO-I-437-002 | 437-II-23 | 437-IV-10 | Bastion Kharvek (Arthas) ↔ Thoran Keld (Palyr) | 6'100 couronnes | 122 couronnes |
+| PAR-I-437-005 | 437-XII-01 | 437-XII-01 | Vaeric Noll (UBI) ↔ Maison Bréval | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 437 :
 
@@ -1343,7 +1351,7 @@ Location et assurance coffres (97 coffres a 12 couronnes/an) : 1'164 couronnes.
 Primes CREDOC garanties documentaires 437 : 15'648 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 437 : 26'225 couronnes.
+Total revenus UBI 437 : 26'275 couronnes.
 
 ## 438
 
@@ -1485,6 +1493,7 @@ Total revenus UBI 441 : 26'371 couronnes.
 | CO-II-442-004 | 442-V-04 | 442-IX-19 | Iskra Morven (Sfaal) ↔ Lysa Ventoss (Palyr) | 10'150 couronnes | 203 couronnes |
 | EC-I-442-001 | 442-VI-05 | 442-X-24 | Harl Dravik (Sfaal) ↔ Calven Oristel (Il-Irion) | 9'550 couronnes | 191 couronnes |
 | SE-I-442-002 | 442-IX-11 | 442-X-05 | Odran Veyl (Ther-Félis) ↔ Tovan Ilmari (Il-Irion) | 2'350 couronnes | 47 couronnes |
+| PAR-I-442-006 | 442-XII-01 | 442-XII-01 | Sorel Kint (UBI) ↔ Maison Verranne | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 442 :
 
@@ -1507,7 +1516,7 @@ Location et assurance coffres (103 coffres a 12 couronnes/an) : 1'236 couronnes.
 Primes CREDOC garanties documentaires 442 : 15'311 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 442 : 26'140 couronnes.
+Total revenus UBI 442 : 26'190 couronnes.
 
 ## 443
 
@@ -1640,6 +1649,7 @@ Total revenus UBI 446 : 21'213 couronnes.
 | Référence contrat | Date de dépôt | Date d'exécution | Signataires | Montant contrat | Revenu UBI |
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | DE-III-447-001 | 447-VI-17 | 447-VII-17 | Liora Veyss (Palyr) ↔ Selvian Dorn (Il-Irion) | 7'950 couronnes | 159 couronnes |
+| PAR-I-447-002 | 447-XII-01 | 447-XII-01 | Jabren Feld (UBI) ↔ Maison Morcairn | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 447 :
 
@@ -1661,7 +1671,7 @@ Location et assurance coffres (109 coffres a 12 couronnes/an) : 1'308 couronnes.
 Primes CREDOC garanties documentaires 447 : 15'905 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 447 : 20'823 couronnes.
+Total revenus UBI 447 : 20'873 couronnes.
 
 ## 448
 
@@ -1794,6 +1804,7 @@ Total revenus UBI 451 : 21'597 couronnes.
 | CO-II-452-003 | 452-IV-22 | 452-VII-18 | Sera Orist (Arthas) ↔ Duc Thoren Forgefer (Sfaal) | 12'550 couronnes | 251 couronnes |
 | CO-III-452-004 | 452-V-17 | 452-VII-01 | Darian Quenndral (Il-Irion) ↔ Neral Voss (Palyr) | 8'350 couronnes | 167 couronnes |
 | PR-I-452-001 | 452-VIII-07 | 452-X-14 | Jonn Halet (Ther-Félis) ↔ Tovan Ilmari (Il-Irion) | 2'050 couronnes | 41 couronnes |
+| PAR-I-452-005 | 452-XII-01 | 452-XII-01 | Ilyra Vant (UBI) ↔ Maison Fendrel | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 452 :
 
@@ -1815,7 +1826,7 @@ Location et assurance coffres (115 coffres a 12 couronnes/an) : 1'380 couronnes.
 Primes CREDOC garanties documentaires 452 : 16'170 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 452 : 21'486 couronnes.
+Total revenus UBI 452 : 21'536 couronnes.
 
 ## 453
 
@@ -1951,6 +1962,7 @@ Total revenus UBI 456 : 25'986 couronnes.
 | PB-III-457-005 | 457-II-18 | 457-V-12 | Edorian Kaelthorne (UBI) ↔ Edran Thorne (Arthas) | 4'925 couronnes | 197 couronnes |
 | CO-II-457-003 | 457-III-16 | 457-V-15 | Tessa Mire (Palyr) ↔ Yorna Vask (Sfaal) | 10'600 couronnes | 212 couronnes |
 | SE-I-457-002 | 457-VIII-06 | 457-XI-22 | Maelis Tern (Ther-Félis) ↔ Duc Thoren Forgefer (Sfaal) | 9'700 couronnes | 194 couronnes |
+| PAR-I-457-006 | 457-XII-01 | 457-XII-01 | Arel Mornac (UBI) ↔ Maison Aulnoy | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 457 :
 
@@ -1973,7 +1985,7 @@ Location et assurance coffres (121 coffres a 12 couronnes/an) : 1'452 couronnes.
 Primes CREDOC garanties documentaires 457 : 16'251 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 457 : 25'937 couronnes.
+Total revenus UBI 457 : 25'987 couronnes.
 
 ## 458
 
@@ -2113,6 +2125,7 @@ Total revenus UBI 461 : 26'646 couronnes.
 | EP-III-462-004 | 462-III-16 | 462-IV-04 | Sabel Tern (Ther-Félis) ↔ Iskra Morven (Sfaal) | 9'600 couronnes | 192 couronnes |
 | CO-II-462-003 | 462-IV-15 | 462-VI-18 | Orel Vant (Palyr) ↔ Sven Orlac (Ther-Félis) | 12'050 couronnes | 241 couronnes |
 | CO-I-462-001 | 462-X-09 | 462-XII-04 | Darian Quenndral (Il-Irion) ↔ Merra Forgecendre (Sfaal) | 2'600 couronnes | 52 couronnes |
+| PAR-I-462-005 | 462-XII-01 | 462-XII-01 | Velian Corst (UBI) ↔ Maison Haut-Pavois | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 462 :
 
@@ -2135,7 +2148,7 @@ Location et assurance coffres (127 coffres a 12 couronnes/an) : 1'524 couronnes.
 Primes CREDOC garanties documentaires 462 : 16'518 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 462 : 25'969 couronnes.
+Total revenus UBI 462 : 26'019 couronnes.
 
 ## 463
 
@@ -2271,6 +2284,7 @@ Total revenus UBI 466 : 26'201 couronnes.
 | CO-I-467-001 | 467-V-23 | 467-VIII-25 | Borin Ask (Ther-Félis) ↔ Thoran Keld (Palyr) | 6'850 couronnes | 137 couronnes |
 | EP-I-467-002 | 467-VIII-25 | 467-X-22 | Borin Ask (Ther-Félis) ↔ Calven Oristel (Il-Irion) | 6'150 couronnes | 123 couronnes |
 | EC-III-467-004 | 467-X-23 | 468-I-23 | Neriane Vossel (Il-Irion) ↔ Edran Thorne (Arthas) | 9'250 couronnes | 185 couronnes |
+| PAR-I-467-005 | 467-XII-01 | 467-XII-01 | Darian Quenndral (UBI) ↔ Maison Quenelle | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 467 :
 
@@ -2293,7 +2307,7 @@ Location et assurance coffres (133 coffres a 12 couronnes/an) : 1'596 couronnes.
 Primes CREDOC garanties documentaires 467 : 16'777 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 467 : 26'427 couronnes.
+Total revenus UBI 467 : 26'477 couronnes.
 
 ## 468
 
@@ -2422,6 +2436,7 @@ Total revenus UBI 471 : 22'825 couronnes.
 | Référence contrat | Date de dépôt | Date d'exécution | Signataires | Montant contrat | Revenu UBI |
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | SE-I-472-001 | 472-X-06 | 472-XI-14 | Neriane Vossel (Il-Irion) ↔ Ilara Vandesse (Palyr) | 2'500 couronnes | 50 couronnes |
+| PAR-I-472-002 | 472-XII-01 | 472-XII-01 | Halwen Rask (UBI) ↔ Maison Seldor | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 472 :
 
@@ -2443,7 +2458,7 @@ Location et assurance coffres (139 coffres a 12 couronnes/an) : 1'668 couronnes.
 Primes CREDOC garanties documentaires 472 : 16'836 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 472 : 22'069 couronnes.
+Total revenus UBI 472 : 22'119 couronnes.
 
 ## 473
 
@@ -2542,6 +2557,7 @@ Total revenus UBI 476 : 22'339 couronnes.
 | EC-I-477-001 | 477-V-20 | 477-IX-09 | Maelis Tern (Ther-Félis) ↔ Septimus Calveran (Arthas) | 6'750 couronnes | 135 couronnes |
 | SE-I-477-002 | 477-VIII-26 | 477-IX-16 | Ryliane Sorne (Il-Irion) ↔ Marra Kesh (Arthas) | 7'550 couronnes | 151 couronnes |
 | CO-I-477-003 | 477-IX-19 | 477-X-23 | Sven Orlac (Ther-Félis) ↔ Calven Oristel (Il-Irion) | 2'850 couronnes | 57 couronnes |
+| PAR-I-477-005 | 477-XII-01 | 477-XII-01 | Brisca Norven (UBI) ↔ Maison Dorvan | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 477 :
 
@@ -2563,7 +2579,7 @@ Location et assurance coffres (145 coffres a 12 couronnes/an) : 1'740 couronnes.
 Primes CREDOC garanties documentaires 477 : 16'922 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 477 : 22'752 couronnes.
+Total revenus UBI 477 : 22'802 couronnes.
 
 ## 479
 
@@ -2658,6 +2674,7 @@ Total revenus UBI 481 : 22'806 couronnes.
 | Référence contrat | Date de dépôt | Date d'exécution | Signataires | Montant contrat | Revenu UBI |
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | EP-I-482-001 | 482-XII-08 | 482-XII-04 | Ilara Vandesse (Palyr) ↔ Iskra Morven (Sfaal) | 3'000 couronnes | 60 couronnes |
+| PAR-I-482-002 | 482-XII-01 | 482-XII-01 | Tovan Ilmari (UBI) ↔ Maison Bellambre | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 482 :
 
@@ -2679,7 +2696,7 @@ Location et assurance coffres (151 coffres a 12 couronnes/an) : 1'812 couronnes.
 Primes CREDOC garanties documentaires 482 : 17'184 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 482 : 22'659 couronnes.
+Total revenus UBI 482 : 22'709 couronnes.
 
 ## 483
 
@@ -2803,6 +2820,7 @@ Total revenus UBI 486 : 23'261 couronnes.
 | CO-II-487-003 | 487-III-21 | 487-VI-15 | Maren Holt (Palyr) ↔ Tovan Ilmari (Il-Irion) | 12'100 couronnes | 242 couronnes |
 | PR-I-487-001 | 487-VII-22 | 487-IX-25 | Selvian Dorn (Il-Irion) ↔ Marra Kesh (Arthas) | 7'250 couronnes | 145 couronnes |
 | PR-I-487-002 | 487-VIII-11 | 487-XII-22 | Maren Holt (Palyr) ↔ Borin Ask (Ther-Félis) | 7'100 couronnes | 142 couronnes |
+| PAR-I-487-004 | 487-XII-01 | 487-XII-01 | Edria Malrec (UBI) ↔ Maison des Trois Bornes | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 487 :
 
@@ -2824,7 +2842,7 @@ Location et assurance coffres (156 coffres a 12 couronnes/an) : 1'872 couronnes.
 Primes CREDOC garanties documentaires 487 : 17'594 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 487 : 23'602 couronnes.
+Total revenus UBI 487 : 23'652 couronnes.
 
 ## 488
 
@@ -2920,6 +2938,7 @@ Total revenus UBI 490 : 23'836 couronnes.
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | SE-I-492-001 | 492-II-10 | 492-III-20 | Aurelian Marvek (Arthas) ↔ Duc Thoren Forgefer (Sfaal) | 3'500 couronnes | 70 couronnes |
 | CO-II-492-003 | 492-II-15 | 492-IV-12 | Calven Oristel (Il-Irion) ↔ Harl Dravik (Sfaal) | 10'150 couronnes | 203 couronnes |
+| PAR-I-492-004 | 492-XII-01 | 492-XII-01 | Selwin Forcand (UBI) ↔ Maison Valcor | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 492 :
 
@@ -2941,7 +2960,7 @@ Location et assurance coffres (162 coffres a 12 couronnes/an) : 1'944 couronnes.
 Primes CREDOC garanties documentaires 492 : 17'859 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 492 : 23'654 couronnes.
+Total revenus UBI 492 : 23'704 couronnes.
 
 ## 493
 
@@ -3031,6 +3050,15 @@ Primes CREDOC garanties documentaires 496 : 17'811 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
 Total revenus UBI 496 : 23'924 couronnes.
+
+
+## 497
+
+| Référence contrat | Date de dépôt | Date d'exécution | Signataires | Montant contrat | Revenu UBI |
+|-------------------|---------------|------------------|-------------|-----------------|------------|
+| PAR-I-497-001 | 497-XII-01 | 497-XII-01 | Miren Ask (UBI) ↔ Maison Nacréane | 0 couronne | 50 couronnes |
+
+Total revenus UBI 497 : 50 couronnes.
 
 ## 498
 
@@ -3155,6 +3183,7 @@ Total revenus UBI 501 : 23'866 couronnes.
 | CO-II-502-003 | 502-II-08 | 502-III-12 | Rauth Kaelmar (Ther-Félis) ↔ Duc Thoren Forgefer (Sfaal) | 12'650 couronnes | 253 couronnes |
 | CO-I-502-001 | 502-IV-12 | 502-VII-10 | Duc Thoren Forgefer (Sfaal) ↔ Tessa Mire (Palyr) | 4'050 couronnes | 81 couronnes |
 | PR-I-502-002 | 502-VII-24 | 502-IX-19 | Rauth Kaelmar (Ther-Félis) ↔ Septimus Calveran (Arthas) | 5'500 couronnes | 110 couronnes |
+| PAR-I-502-004 | 502-XII-01 | 502-XII-01 | Calven Oristel (UBI) ↔ Maison Sorelle | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 502 :
 
@@ -3176,7 +3205,7 @@ Location et assurance coffres (174 coffres a 12 couronnes/an) : 2'088 couronnes.
 Primes CREDOC garanties documentaires 502 : 17'998 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 502 : 24'245 couronnes.
+Total revenus UBI 502 : 24'295 couronnes.
 
 ## 503
 
@@ -3299,6 +3328,7 @@ Total revenus UBI 506 : 24'238 couronnes.
 | Référence contrat | Date de dépôt | Date d'exécution | Signataires | Montant contrat | Revenu UBI |
 |-------------------|---------------|------------------|-------------|-----------------|------------|
 | SE-I-507-001 | 507-IX-21 | 507-X-25 | Odran Veyl (Ther-Félis) ↔ Tovan Ilmari (Il-Irion) | 7'700 couronnes | 154 couronnes |
+| PAR-I-507-002 | 507-XII-01 | 507-XII-01 | Liora Mest (UBI) ↔ Maison Caldran | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 507 :
 
@@ -3320,7 +3350,7 @@ Location et assurance coffres (180 coffres a 12 couronnes/an) : 2'160 couronnes.
 Primes CREDOC garanties documentaires 507 : 18'264 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 507 : 24'182 couronnes.
+Total revenus UBI 507 : 24'232 couronnes.
 
 ## 508
 
@@ -3448,6 +3478,7 @@ Total revenus UBI 511 : 32'042 couronnes.
 | CO-II-512-004 | 512-III-02 | 512-VII-13 | Sorna Kelveg (Sfaal) ↔ Aurelian Marvek (Arthas) | 12'250 couronnes | 245 couronnes |
 | EC-I-512-001 | 512-IV-09 | 512-VIII-20 | Merra Forgecendre (Sfaal) ↔ Borin Ask (Ther-Félis) | 3'950 couronnes | 79 couronnes |
 | EC-I-512-003 | 512-VIII-18 | 512-IX-20 | Vera Seld (Ther-Félis) ↔ Septimus Calveran (Arthas) | 2'200 couronnes | 44 couronnes |
+| PAR-I-512-005 | 512-XII-01 | 512-XII-01 | Odran Veyl (UBI) ↔ Maison Veyr-Lanterne | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 512 :
 
@@ -3470,7 +3501,7 @@ Location et assurance coffres (186 coffres a 12 couronnes/an) : 2'232 couronnes.
 Primes CREDOC garanties documentaires 512 : 18'530 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 512 : 32'203 couronnes.
+Total revenus UBI 512 : 32'253 couronnes.
 
 ## 514
 
@@ -3569,6 +3600,7 @@ Total revenus UBI 516 : 32'123 couronnes.
 | EC-I-517-002 | 517-II-03 | 517-VI-22 | Orel Vant (Palyr) ↔ Tovan Ilmari (Il-Irion) | 9'000 couronnes | 180 couronnes |
 | CO-II-517-004 | 517-II-22 | 517-V-10 | Septimus Calveran (Arthas) ↔ Nadia Ferl (Ther-Félis) | 10'300 couronnes | 206 couronnes |
 | EP-I-517-001 | 517-XI-23 | 517-XII-15 | Tovan Ilmari (Il-Irion) ↔ Merra Forgecendre (Sfaal) | 8'200 couronnes | 164 couronnes |
+| PAR-I-517-005 | 517-XII-01 | 517-XII-01 | Neriane Solvec (UBI) ↔ Maison Orbrise | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 517 :
 
@@ -3591,7 +3623,7 @@ Location et assurance coffres (192 coffres a 12 couronnes/an) : 2'304 couronnes.
 Primes CREDOC garanties documentaires 517 : 18'612 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 517 : 32'670 couronnes.
+Total revenus UBI 517 : 32'720 couronnes.
 
 ## 518
 
@@ -3696,6 +3728,7 @@ Total revenus UBI 521 : 33'314 couronnes.
 | CO-II-522-003 | 522-II-20 | 522-V-12 | Septimus Calveran (Arthas) ↔ Nadia Ferl (Ther-Félis) | 11'600 couronnes | 232 couronnes |
 | DF-IV-522-004 | 522-IV-17 | 522-VII-18 | Septimus Calveran (Arthas) ↔ Tovan Ilmari (Il-Irion) | 17'950 couronnes | 359 couronnes |
 | SE-I-522-002 | 522-VII-10 | 522-XI-19 | Vera Seld (Ther-Félis) ↔ Duc Thoren Forgefer (Sfaal) | 6'450 couronnes | 129 couronnes |
+| PAR-I-522-005 | 522-XII-01 | 522-XII-01 | Jorvan Eltrem (UBI) ↔ Maison Talamh | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 522 :
 
@@ -3718,7 +3751,7 @@ Location et assurance coffres (198 coffres a 12 couronnes/an) : 2'376 couronnes.
 Primes CREDOC garanties documentaires 522 : 18'872 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 522 : 33'232 couronnes.
+Total revenus UBI 522 : 33'282 couronnes.
 
 ## 523
 
@@ -3859,6 +3892,7 @@ Total revenus UBI 526 : 34'238 couronnes.
 | EC-I-527-002 | 527-VI-04 | 527-IX-16 | Septimus Calveran (Arthas) ↔ Nadia Ferl (Ther-Félis) | 8'400 couronnes | 168 couronnes |
 | DE-IV-527-004 | 527-VI-07 | 527-VII-18 | Tovan Ilmari (Il-Irion) ↔ Veyra Dalm (Palyr) | 13'750 couronnes | 275 couronnes |
 | PR-IV-527-005 | 527-XI-07 | 528-IV-24 | Selvian Dorn (Il-Irion) ↔ Thoran Keld (Palyr) | 12'700 couronnes | 254 couronnes |
+| PAR-I-527-006 | 527-XII-01 | 527-XII-01 | Ysmera Caldris (UBI) ↔ Maison Talamh | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 527 :
 
@@ -3881,7 +3915,7 @@ Location et assurance coffres (204 coffres a 12 couronnes/an) : 2'448 couronnes.
 Primes CREDOC garanties documentaires 527 : 18'538 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 527 : 33'445 couronnes.
+Total revenus UBI 527 : 33'495 couronnes.
 
 ## 528
 
@@ -4027,6 +4061,7 @@ Total revenus UBI 531 : 27'391 couronnes.
 | PB-IV-532-005 | 532-VIII-29 | 533-I-15 | Edorian Kaelthorne (UBI) ↔ Edran Thorne (Arthas) | 7'550 couronnes | 302 couronnes |
 | CO-IV-532-001 | 532-X-24 | 533-II-24 | Keldran Vost (Sfaal) ↔ Calven Oristel (Il-Irion) | 12'700 couronnes | 254 couronnes |
 | PB-IV-532-004 | 532-X-24 | 533-II-24 | Miren Ask (UBI) ↔ Keldran Vost (Sfaal) | 6'350 couronnes | 254 couronnes |
+| PAR-I-532-007 | 532-XII-01 | 532-XII-01 | Tirven Aulnoy (UBI) ↔ Maison Talamh | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 532 :
 
@@ -4048,7 +4083,7 @@ Location et assurance coffres (210 coffres a 12 couronnes/an) : 2'520 couronnes.
 Primes CREDOC garanties documentaires 532 : 19'132 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 532 : 27'114 couronnes.
+Total revenus UBI 532 : 27'164 couronnes.
 
 ## 533
 
@@ -4200,6 +4235,7 @@ Total revenus UBI 536 : 27'812 couronnes.
 | DF-IV-537-005 | 537-VII-26 | 537-XI-20 | Vaeric Noll (Il-Irion) ↔ Lorian Darsen (Arthas) | 12'800 couronnes | 256 couronnes |
 | PB-IV-537-009 | 537-VII-26 | 537-XI-20 | Edorian Kaelthorne (UBI) ↔ Vaeric Noll (Il-Irion) | 6'400 couronnes | 256 couronnes |
 | DF-IV-537-007 | 537-VIII-22 | 537-XII-24 | Sorna Kelveg (Sfaal) ↔ Orel Vant (Palyr) | 15'050 couronnes | 301 couronnes |
+| PAR-I-537-010 | 537-XII-01 | 537-XII-01 | Maelis Orvane (UBI) ↔ Maison Talamh | 0 couronne | 50 couronnes |
 
 Mouvements bancaires classiques 537 :
 
@@ -4221,7 +4257,7 @@ Location et assurance coffres (216 coffres a 12 couronnes/an) : 2'592 couronnes.
 Primes CREDOC garanties documentaires 537 : 19'394 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 537 : 28'020 couronnes.
+Total revenus UBI 537 : 28'070 couronnes.
 
 ## 538
 

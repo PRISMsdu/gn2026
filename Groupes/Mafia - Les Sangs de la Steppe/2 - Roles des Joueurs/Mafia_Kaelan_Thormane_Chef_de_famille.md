@@ -51,10 +51,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Autoritaire, calculateur, loyal envers les siens, impitoyable quand il le faut. |
-| Valeurs | La bande avant le marchand ; la revanche contre ceux qui croient tout acheter avec l'or. |
-| Peur | Que les siens trahissent ; que la chaîne MiVI–Elfrion casse et que l'organisation se désagrège sous toi. |
-| Rêve | Obtenir une sortie négociée avec garanties écrites, puis quitter les couteaux et les greffes. |
+| Traits de caractère | Autoritaire, calculateur, loyal envers les cadres des Sangs. Tu arbitres les désaccords et tu assumes les décisions risquées devant le MiVI. |
+| Valeurs | Loyauté envers les Sangs ; revanche contre les commanditaires et intermédiaires liés à la chute de ton père et à la mort de Sira. |
+| Peur | Que l'un des tiens trahisse ; que la chaîne Elfrion–MiVI–Sangs soit exposée et détruise la couverture de la Guilde des Ports Unis. |
+| Rêve | Obtenir une sortie négociée avec des garanties écrites, payer les cadres et quitter les opérations des Sangs. |
 
 ---
 
@@ -98,7 +98,7 @@ Le Tripot du fort d'Ulghart est le dernier objectif du MiVI sur lequel vous n'av
 
 À Ulghart se croisent la Régate et le renouvellement du conseil de l'UBI. Officiellement, vous êtes la Guilde des Ports Unis. Pour la troisième fois, vous assistez aux échanges sur les postes au conseil sans y intervenir directement, selon l'usage fixé.
 
-Depuis un an, les cinq autres cadres et toi avez détourné 10'000 couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie arrangée. Tes leviers : les documents compromettants accumulés depuis quinze ans, les capitaux déjà mis de côté, l'or attendu d'Aquiléa et un rapport interne sur la naissance de la Guilde et des Sangs. Ce rapport doit servir à obtenir des quittances écrites du MiVI avant le départ.
+Depuis un an, les cinq autres cadres et toi avez détourné 10'000 couronnes pour préparer votre retraite. Une fuite simple ne résisterait pas au MiVI : ils traqueraient, retrouveraient et tueraient. Tu vises une sortie négociée. Tes moyens sont les documents compromettants accumulés depuis quinze ans, les capitaux déjà mis de côté, l'or attendu d'Aquiléa et un rapport interne sur la naissance de la Guilde et des Sangs. Ce rapport doit servir à obtenir des quittances écrites du MiVI avant votre départ.
 
 ---
 
@@ -119,7 +119,7 @@ Tu décides et tu signes pour le réseau. En public, tu parles comme Maître des
 ## Informations sensibles
 
 - Toute fuite publique sur la chaîne Elfrion–MiVI–Sangs te désigne personnellement comme responsable et te coûte la couverture de la Guilde.
-- Les pièces sur le scandale de Staal et le dossier Valdris sont des leviers à usage unique. Sortis sans préparation, ils peuvent être retournés contre toi en commission ou devant le MiVI.
+- Les pièces sur le scandale de Staal et le dossier Valdris ne servent qu'une fois. Si tu les sors sans préparation, elles peuvent être retournées contre toi en commission ou devant le MiVI.
 
 ---
 
@@ -127,11 +127,11 @@ Tu décides et tu signes pour le réseau. En public, tu parles comme Maître des
 
 ## Korran Vesper — Pirates d'Albar
 
-Korran mène l'équipage qui a exécuté l'abordage, le transbordement et la vente du fer à Aquiléa. Tu détiens le billet interne `Billet_remise_or_pirates_546` : cinq mille couronnes déjà versées, vingt mille couronnes d'Aquiléa à remettre aux Sangs, puis cinq mille couronnes de solde pour les pirates après comptage. Raven négocie sur le quai avec Korran. Garm le Roc sécurise la salle, Miren Ald pèse les sacs et Sera Vane tient l'heure et les signes. Le billet n'est pas enregistré à l'UBI et ne doit pas l'être. Compte l'or d'Aquiléa avant tout solde, obtiens le silence de Korran, ne donne pas de quitus sans Raven.
+Korran mène l'équipage qui a exécuté l'abordage, le transbordement et la vente du fer à Aquiléa. Tu détiens le billet interne `Billet_remise_or_pirates_546` : cinq mille couronnes déjà versées, vingt mille couronnes d'Aquiléa à remettre aux Sangs, puis cinq mille couronnes de solde pour les pirates après comptage.
 
 ## Sybrel Dornik — UBI (garde des tunnels)
 
-Sybrel garde les sous-sols de l'UBI. Si tu dois la convoquer ou la confronter, accorde-toi avec Raven et Shadow pour ne pas la solliciter deux fois le même jour : un témoin pressé en double parle moins, ou fuit.
+Sybrel garde les sous-sols de l'UBI. Tu n'as pas de dossier direct sur elle, mais Raven et Shadow peuvent avoir des raisons de l'approcher pendant la Convention.
 
 ## Maître Vaelric Dorn — UBI (recouvreur mandaté)
 
@@ -143,7 +143,7 @@ Ydria lit les écarts comptables et préside les audits. Tu n'as pas de borderea
 
 ## Melian Torv — UBI (conseiller spirituel)
 
-Melian siège au conseil. Tu entends des bruits étranges le concernant : peur, inquiétude. Il masque quelque chose au sein de la banque, mais quoi ? 
+Melian siège au conseil de l'UBI. Tu entends des rumeurs de peur et d'inquiétude autour de lui. Il masque quelque chose au sein de la banque, mais tu n'as pas encore de pièce qui dise quoi.
 
 ## Cyrion Valdris — Il-Irion (Maison Valdris)
 

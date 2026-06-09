@@ -51,10 +51,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Violent quand il le faut, loyal, protecteur avec les siens. |
-| Valeurs | La famille criminelle avant le marchand qui paie une fois ; les puissants qui écrasent les autres comme cibles légitimes. |
-| Peur | Qu'un compagnon vende le groupe ; que la délégation d'Arthas relie ton béret à un mort que tu n'aurais pas dû faire. |
-| Rêve | Partir avec une retraite payée et sans ton nom sur un avis de recherche d'Arthas. |
+| Traits de caractère | Loyal, protecteur avec les tiens, brutal quand l'ordre le demande. Tu agis sur consigne de Kaelan ou de Vorak. |
+| Valeurs | Les Sangs avant les clients extérieurs ; protection des cadres ; obéissance aux ordres donnés par Kaelan et Vorak. |
+| Peur | Qu'un compagnon vende le groupe ; que la délégation d'Arthas relie ton béret à l'oblat mort et remonte jusqu'à toi devant témoins. |
+| Rêve | Partir avec une retraite payée, sans ton nom sur un avis de recherche d'Arthas et sans dette ouverte envers les Sangs. |
 
 ---
 
@@ -64,7 +64,7 @@ Epopée en Krondaar
 
 Tu as grandi dans les faubourgs d'Elfrion, sans famille connue. Tu y as appris à régler une dette par le poing ou la lame quand aucun tribunal n'écouterait. Vers tes douze ans, tu travaillais déjà comme porteur et videur dans des tripots de quartier.
 
-Vers seize ans, tu as commencé à être engagé pour des courses violentes : intimider un débiteur, vider une salle, refroidir un client trop bruyant. C'est ainsi que tu as commencé à être payé pour ta force et ton silence.
+Vers seize ans, tu as commencé à être engagé pour des courses violentes : intimider un débiteur, vider une salle, blesser un client trop bruyant pour qu'il ne revienne pas. C'est ainsi que tu as commencé à être payé pour ta force et ton silence.
 
 ## Jeunesse — corps auxiliaires de la République
 
@@ -111,7 +111,7 @@ Tu protèges les cadres, tu exécutes les règlements physiques sur ordre de Kae
 ## Objectifs prioritaires
 
 - Maintenir la sécurité des cadres et des opérations sensibles sur le fort et les quais.
-- Régler témoins et rivaux selon consigne — sans bruit inutile quand le silence est l'ordre.
+- Neutraliser témoins et rivaux selon consigne : intimidation, blessure ou exécution, sans bruit inutile quand le silence est l'ordre.
 - Escorter les paiements et les parlements où Raven ou Kaelan portent des sacs ou des papiers.
 - Récupérer ou détruire le béret, ou couper la piste avant qu'Arthas n'identifie le propriétaire.
 - Empêcher que l'affaire de l'oblat n'éclate au mauvais moment (MiVI, délégations, Régate).
@@ -137,7 +137,7 @@ Les Sangs ont organisé la substitution du fer sur la ligne Sfaal-Palyr : le bon
 
 Le contrat SE-II-546-008 donne la couverture publique : Ther-Félis sous-traite à la Guilde des Ports Unis le transport maritime du fer sur le trajet Sfaal-Ther-Félis, première étape du transit prévu vers Palyr. Raven le porte comme Maître des routes. Si un capitaine, un docker ou un garde de quai parle trop de ce transport, tu peux l'intimider ou l'écarter sur ordre de Vorak ou Kaelan.
 
-Par contre, personne n'en parle, mais cette histoire de détournement met la lumière sur la Guilde...
+Le détournement du fer expose la Guilde des Ports Unis, car la couverture publique du transport passe par elle. Si l'affaire remonte, les contrats et les quais de la Guilde seront examinés avant que les Sangs soient nommés.
 
 ## Sceau de Sfaal — graveur Silas
 

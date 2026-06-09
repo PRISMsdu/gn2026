@@ -53,7 +53,7 @@ Epopée en Krondaar
 | Traits de caractère | Furtif, observateur, adaptable, méfiant. Tu regardes les sorties avant les visages. |
 | Valeurs | Survivre, garder ton nom civil hors des coffres, et faire payer cher les informations que tu risques ta vie à obtenir. |
 | Peur | Qu'un Sang, un délégué ou une croupière retrouve ton nom de naissance ; qu'un aveu sur Il-Irion détruise ta couverture. |
-| Rêve | Quitter le métier avec assez d'or et dire un jour aux deux filles de l'auberge Vestrann ce que tu as fait, sans mourir avant la fin de la phrase. |
+| Rêve | Quitter le métier avec assez d'or et dire un jour aux deux filles de l'auberge Vestrann ce que tu as fait. |
 
 ---
 
@@ -63,7 +63,7 @@ Epopée en Krondaar
 
 Tu as grandi entre les ruelles d'Elfrion et les bas-fonds d'Il-Irion, sans famille déclarée. À chaque quartier, tu changeais de prénom et de récit pour éviter les patrouilles, les bandes et les adultes qui voulaient te fixer quelque part.
 
-Vers dix ans, tu volais déjà dans les comptoirs et les coffres d'auberge. Tu as appris à crocheter une serrure, à imiter une signature simple et à fuir par les toits quand un cri tombait derrière toi. Les noms ne servaient pas à être reconnus ; ils servaient à repartir.
+Vers dix ans, tu volais déjà dans les comptoirs et les coffres d'auberge. Tu as appris à crocheter une serrure, à imiter une signature simple et à fuir par les toits quand un cri montait derrière toi. Les noms ne servaient pas à être reconnus ; ils servaient à repartir.
 
 ## Jeunesse — vol et doubles fonds
 
@@ -113,7 +113,7 @@ Aucune des deux sœurs ne sait que l'homme des toits de 525 et toi êtes la mêm
 
 ## Ulghart — UBI et retraite
 
-À Ulghart, tu vises le futur conseil de l'UBI, les nobles d'Il-Irion et les commissions où une phrase suffit à ouvrir ou fermer une ligne de crédit. Chaque mission sur la banque te place dans une contradiction : tu dois rendre des comptes aux Sangs sans laisser le réseau remonter à Sybrel, ni aux deux Vestrann.
+À Ulghart, tu vises le futur conseil de l'UBI, les nobles d'Il-Irion et les commissions où se discutent les lignes de crédit. Chaque mission sur la banque te place dans une contradiction : tu dois rendre des comptes aux Sangs sans laisser le réseau remonter à Sybrel, ni aux deux Vestrann.
 
 La retraite négociée des Sangs t'intéresse autant que les autres cadres. Tu veux de l'or, des quittances et assez de documents pour empêcher le MiVI de vous découper après usage. Mais tu as aussi deux affaires qui ne doivent pas entrer dans le calcul commun : Sybrel, que tu as protégée, et les sœurs Vestrann, que tu as sauvées après avoir détruit leur famille.
 
@@ -168,7 +168,7 @@ Ne cite pas Sybrel devant tes coéquipiers sans préparer ta couverture. Dans le
 
 ## Marda Velyss — Tripot
 
-Marda dirige le Tripot d'Ulghart. Les Sangs n'ont jamais réussi à prendre la main sur son casino, malgré les pressions et les rencontres difficiles. Tu penses qu'un réseau solide protège son impunité, même si Marda ne connaît peut-être pas tous ceux qui tiennent ce filet. Tu as déjà essayé d'obtenir des informations à distance : cela n'a rien donné. Il te faut aller sur place et parler directement avec elle.
+Marda dirige le Tripot d'Ulghart. Les Sangs n'ont jamais réussi à prendre la main sur son casino, malgré les pressions et les rencontres difficiles. Tu penses qu'un réseau solide protège son impunité, même si Marda ne connaît peut-être pas tous ceux qui la protègent. Tu as déjà essayé d'obtenir des informations à distance : cela n'a rien donné. Il te faut aller sur place et parler directement avec elle.
 
 
 

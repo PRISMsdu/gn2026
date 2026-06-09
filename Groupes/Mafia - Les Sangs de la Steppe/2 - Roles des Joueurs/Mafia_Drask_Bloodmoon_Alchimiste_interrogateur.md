@@ -51,10 +51,10 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Méthodique, patient, froid quand la consigne l'exige. |
-| Valeurs | La chaîne de commande avant l'élégance ; un aveu utile vaut mieux qu'un cadavre inutile. |
-| Peur | Qu'une fiole mal dosée expose tout le réseau ; qu'on te réduise au rôle de bourreau sans la partie science. |
-| Rêve | Disparaître sans laisser de traces. |
+| Traits de caractère | Méthodique, patient, précis dans les doses et les horaires. Tu gardes le même calme devant un blessé, un prisonnier ou un cadre du réseau. |
+| Valeurs | Chaîne de commande, précision des mélanges, aveux utilisables. Tu préfères un témoin vivant qui parle à un cadavre inutile. |
+| Peur | Qu'une fiole mal dosée expose la pharmacie du réseau ; qu'on te réduise à un rôle de bourreau et qu'on oublie la partie science de ton travail. |
+| Rêve | Disparaître sans laisser de traces, puis continuer tes recherches personnelles et gagner ta vie hors des cellules des Sangs. |
 
 ---
 
@@ -139,8 +139,9 @@ Ydria lit les écarts financiers et préside les audits. Si un délégué ou un 
 
 Korran doit apporter l'or de la vente du fer à Aquiléa. Tu n'es pas le négociateur : Raven et Kaelan tiennent la remise et le solde. Si un pirate arrive blessé ou drogué avant la rencontre, Gareth peut t'appeler pour le stabiliser sans retarder la transaction — seulement sur ordre.
 
-## autres Alchimistes et Herboristes
-Il est certain que la convention va faire venir pas mal de charlatans, mais aussi probablement des confrêres ou des Herboristes. Tu vois aussi dans cette convention un moyen de te créer un réseau pour l'après : il va bien falloir que tu continues tes recherches personnelles et que tu gagnes un peu ta vie...
+## Autres alchimistes et herboristes
+
+La Convention attire des vendeurs de remèdes, des herboristes de délégation et probablement quelques alchimistes sérieux. Il y aura aussi des charlatans. Tu vois dans ces rencontres un moyen de créer un réseau pour l'après : continuer tes recherches personnelles et gagner ta vie sans dépendre des Sangs.
 
 ---
 
