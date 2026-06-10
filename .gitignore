@@ -1,6 +1,7 @@
 # Livrets lourds (ODT/PDF/zip) — gardés en local uniquement
 LivretsLocaux/
 Cognelot/
+*.pdf
 
 # Cache images redimensionnées pour export PDF (Scripts/Export-ImageForPrint.ps1)
 Scripts/.export_image_cache/
