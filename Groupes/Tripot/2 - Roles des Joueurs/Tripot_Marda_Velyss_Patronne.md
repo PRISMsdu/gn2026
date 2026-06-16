@@ -45,7 +45,7 @@ Epopée en Krondaar
 | Armure autorisée | Cuir clouté maximum |
 | Âge | 57 ans (47 ans à la prise du Tripot d'Ulghart) |
 | Remarques | Herboriste ; poisons (dont contact mortel, antidote personnel) ; mage des sceaux ; Exécutrice des Rédempteurs sur l'île d'Ulghart |
-| Argent — paiement VIP UBI (10 %) | 34 240 couronnes |
+| Argent — paiement VIP UBI (10 %) | 54 060 couronnes |
 | Argent — réserve personnelle Rédempteurs | 73 380 couronnes |
 | Pugilat | 3 |
 
@@ -151,7 +151,7 @@ Depuis longtemps, tu as expliqué à Ardan, Fenric et au reste de l'équipe ce q
 
 Sur cinq ans, la maison a encaissé environ dix pour cent de ces flux. Tu as tenu la porte ouverte parce que cela payait l'équipe et les réparations. Aujourd'hui tu estimes que le risque réel — garnison, fermeture, noms livrés dans un rapport — valait quinze pour cent et un arriéré avant que le conseil entrant ne verrouille les preuves. Ce n'est plus une querelle de bureau : c'est le prix que tu fixes pour des années où tu as tenu le Tripot ouvert pendant que la banque salissait ses livres.
 
-Les carnets VIP d'Edorian donnent une base nette : de IX-542 à VIII-547, 342 400 couronnes sont passées par les contrats VIP. Dix pour cent reviennent à ta caisse interne, soit 34 240 couronnes. Les quinze pour cent que tu réclames représentent 51 360 couronnes ; l'arriéré à obtenir est donc de 17 120 couronnes. Cet argent n'est pas la réserve du Tripot ni la paie de l'équipe : c'est le paiement du risque UBI, séparé des livres officiels et des fonds des Rédempteurs.
+Les carnets VIP d'Edorian donnent une base nette : de IX-542 à VIII-547, 540 600 couronnes sont passées par les contrats VIP. Dix pour cent reviennent à ta caisse interne, soit 54 060 couronnes. Les quinze pour cent que tu réclames représentent 81 090 couronnes ; l'arriéré à obtenir est donc de 27 030 couronnes. Cet argent n'est pas la réserve du Tripot ni la paie de l'équipe : c'est le paiement du risque UBI, séparé des livres officiels et des fonds des Rédempteurs.
 
 Depuis deux ans, des incidents frappent le casino : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Six de ces gardes sont morts récemment sur les quais. Ardan soupçonnait l'un d'eux. Holgrim, chef des gardes de la banque, n'a jamais donné suite à tes signalements. Avec les morts, il te considère davantage comme un problème que comme une plaignante.
 

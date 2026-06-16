@@ -329,6 +329,7 @@ if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
     'Palyr' = 'Sceau_Palyr.png'
     'Ther-Félis' = 'Sceau_Ther-Felis.png'
     'Arthas' = 'Sceau_Arthas.png'
+    'Styrgie' = 'Sceau_Styrgie.png'
     'UBI' = 'Sceau_UBI.png'
   }
   $sealSrcByCity = @{}
@@ -346,7 +347,7 @@ if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
   $citySealEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
       $city = $m.Groups['city'].Value.Trim()
-      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } else { $city }
+      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } elseif ($city -like '*Styrgie*') { 'Styrgie' } else { $city }
       if (-not $sealSrcByCity.ContainsKey($cityKey)) { return $m.Value }
       $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $city")
       $variant = $sealVariantState.Index % 5
@@ -363,7 +364,7 @@ if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
       $sig = $m.Groups['sig'].Value
       if ($sig -match 'doc-export-signature-seal') { return $m.Value }
       $city = $m.Groups['city'].Value.Trim()
-      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } else { $city }
+      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } elseif ($city -like '*Styrgie*') { 'Styrgie' } else { $city }
       if (-not $sealSrcByCity.ContainsKey($cityKey)) { return $m.Value }
       $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $city")
       $variant = $sealVariantState.Index % 5
@@ -432,7 +433,16 @@ $cssHref = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $cssRe
 $shell = Get-Content -Path $shellPath -Raw -Encoding UTF8
 if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
   $quickRef = [System.Net.WebUtility]::HtmlEncode($baseName)
-  $shell = $shell.Replace('__TOP_RIGHT_HTML__', '<div class="avis-archive-corner"><div class="avis-archive-ref">' + $quickRef + '</div><div class="avis-archive-stamp">Acte ex&eacute;cut&eacute; et clos.</div></div>')
+  $archiveStampText = $env:GN_AVIS_ARCHIVE_STAMP_TEXT
+  if ([string]::IsNullOrWhiteSpace($archiveStampText)) {
+    $archiveStampText = 'Acte execute et clos.'
+  }
+  if ($archiveStampText -eq '__NO_STAMP__') {
+    $shell = $shell.Replace('__TOP_RIGHT_HTML__', '<div class="avis-archive-corner"><div class="avis-archive-ref">' + $quickRef + '</div></div>')
+  } else {
+    $archiveStampHtml = [System.Net.WebUtility]::HtmlEncode($archiveStampText)
+    $shell = $shell.Replace('__TOP_RIGHT_HTML__', '<div class="avis-archive-corner"><div class="avis-archive-ref">' + $quickRef + '</div><div class="avis-archive-stamp">' + $archiveStampHtml + '</div></div>')
+  }
 } else {
   $shell = $shell.Replace('__TOP_RIGHT_HTML__', '')
 }

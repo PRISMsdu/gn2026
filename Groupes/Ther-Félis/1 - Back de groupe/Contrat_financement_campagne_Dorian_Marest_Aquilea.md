@@ -1,0 +1,103 @@
+<!--
+  Pièce joueur — remise au groupe Ther-Félis (Dorian Marest ; secret vis-à-vis du reste de la délégation sauf décision MJ).
+  Sources : perso_Ther-Félis_Dorian_Marest-orga.md ; Back_groupe_Ther-Félis.md ; Intrigue_Ther-Félis.md ;
+  analogie forme : Contrat_fourniture_Arguetheim_Palyr_Dolmen_Rouge.md ; DC-IV-546-018 (agent Neris Dorne).
+  Objet : financement de la campagne de candidature UBI de Dorian Marest par Aquilea, en échange de renseignements
+  à demander par billets séparés (demandes non listées dans le présent acte).
+  Date in-univers : 545 (il y a deux ans). Hors registre UBI.
+  Export PDF : Scripts/export_doc.ps1 — blason Ther-Félis si disponible (même dossier).
+-->
+
+# Convention de financement et de renseignement
+
+CONVENTION CONFIDENTIELLE  
+Référence : CN-IV-545-DM-AQ-01  
+Classement : IV — hors registre confédéral
+
+En l'an 545 du IVe âge de Krondaar, le 14 du mois de Nivios, il est conclu le présent accord entre :
+
+Messire Dorian Marest, marchand et négociateur de routes, agissant en son nom propre et pour les frais de sa candidature au futur conseil de l'Union bancaire d'Il-Irion, avec l'aval tacite de certaines maisons de route ther-féliennes qui financent sa visibilité politique.
+
+Et messire Neris Dorne, agent aquiléen, mandaté par les intérêts portuaires d'Aquilea pour traiter avec des correspondants discrets sur le Levant confédéral.
+
+Le présent acte n'est déposé ni à l'UBI ni au greffe d'Ulghart. Chaque partie conserve un exemplaire scellé.
+
+## Article premier — Objet de l'accord
+
+Aquilea verse à Dorian Marest une avance de campagne destinée à couvrir voyages, banquets, cadeaux protocolaires, copies certifiées et frais de greffe liés à sa candidature au conseil de l'UBI.
+
+En contrepartie, Dorian Marest s'engage à répondre, dans les délais fixés ci-dessous, aux demandes de renseignement qu'Aquilea formulera par billets séparés.
+
+Le présent accord ne liste aucune demande précise. Les sujets, formats et échéances de chaque renseignement seront portés uniquement par ces billets.
+
+## Article deuxième — Versements
+
+Le financement total convenu est fixé à dix-huit mille cinq cents couronnes, réparties ainsi :
+
+- six mille couronnes à la signature du présent acte, reçues par Dorian Marest le jour même ;
+- trois tranches de trois mille cinq cents couronnes, versées à intervalles de six mois, les 14 de Nivios 545, de Florios 546 et de Nivios 546 ;
+- un solde de deux mille couronnes, dû à la remise du premier billet d'information jugé satisfaisant par Neris Dorne ou son successeur mandaté.
+
+Au moment de la Convention d'Ulghart de l'an 547, les trois premières tranches et la signature ont été réglées. Il reste dû le solde de l'article précédent, sous réserve du premier billet.
+
+Les paiements se font en espèces confédérales, en lettres portables sur Il-Irion ou en marchandises de valeur équivalente, remises hors comptoir public et sans inscription au registre ouvert de l'UBI.
+
+## Article troisième — Billets de demande
+
+Aquilea formule ses demandes par billet signé de Neris Dorne ou d'un mandataire aquiléen identifié au verso du présent acte.
+
+Chaque billet doit indiquer : l'objet du renseignement, le format attendu (note, copie, liste, croquis, témoignage daté), le délai de réponse et, le cas échéant, la personne ou l'institution visée.
+
+Dorian Marest dispose de vingt et un jours ouvrables maritimes à compter de la remise du billet pour fournir la réponse ou un refus motivé par écrit.
+
+Un billet peut être transmis en mains propres, par relais maritime hors ports confédéraux ou par intermédiaire nommément accepté des deux parties. Aucun billet ne doit transiter par le greffe d'Ulghart ni par un clerc de l'UBI.
+
+## Article quatrième — Nature des renseignements
+
+Les billets ne peuvent exiger que des faits que Dorian Marest peut obtenir par son réseau marchand, par ses audiences auprès des candidats au conseil de l'UBI, par ses passages à Ulghart, Arthas ou Ther-Félis, ou par des documents auxquels il accède sans effraction.
+
+Dorian Marest n'est pas tenu de livrer les secrets maritimes ther-féliens dont il n'a pas la garde, ni de signer au nom de la cité de Ther-Félis, ni de commettre un acte de violence ou de saisie.
+
+Si un billet dépasse ce cadre, Dorian Marest peut le renvoyer avec refus motivé. Aquilea peut alors retirer le billet ou proposer une demande réduite. Le refus d'un billet hors cadre ne rompt pas le présent accord.
+
+## Article cinquième — Contrôle et insatisfaction
+
+Neris Dorne ou son mandataire examine chaque réponse dans les sept jours qui suivent la remise.
+
+Si la réponse est jugée incomplète, Aquilea adresse un supplement de demande sur le même billet. Dorian Marest dispose alors de quatorze jours ouvrables maritimes supplémentaires.
+
+Si Aquilea déclare une réponse insatisfaisante après ce délai, elle peut suspendre le solde restant jusqu'à exécution d'un nouveau billet. Elle ne peut exiger le remboursement des sommes déjà versées pour la campagne.
+
+## Article sixième — Discrétion
+
+Les parties ne mentionnent pas le présent accord devant le conseguès confédéral, le conseil de Ther-Félis, l'UBI, les délégations d'Il-Irion ou Palyr, ni devant tout greffier travaillant au registre ouvert.
+
+Dorian Marest ne présente pas Neris Dorne comme parrain de sa candidature. Aquilea ne publie pas le nom de Dorian Marest dans ses ports.
+
+Toute révélation non autorisée par écrit des deux parties ouvre droit à réparation. Aquilea rappelle qu'elle dispose d'agents sur plusieurs quais du Levant. Dorian Marest rappelle qu'il dispose de correspondants dans les chancelleries qui traitent les candidatures au conseil de l'UBI.
+
+## Article septième — Durée et succession
+
+Le présent accord court du 14 Nivios 545 jusqu'à l'élection du nouveau conseil de l'UBI ou, au plus tard, jusqu'au 31 Florios 548.
+
+Si Dorian Marest cesse d'être candidat visible, il reste tenu des billets déjà remis et des réponses en cours. Aquilea peut cesser les versements futurs non encore dus.
+
+En cas de décès ou d'incapacité de Neris Dorne, Aquilea désigne un successeur par note scellée remise à Dorian Marest. En cas d'empêchement de Dorian Marest, Aquilea peut exiger qu'un mandataire ther-félien désigné par écrit reprenne les billets en cours, sous peine de suspension du solde.
+
+## Article huitième — Litiges
+
+Tout différend sur un versement ou sur la recevabilité d'un billet est d'abord porté entre Dorian Marest et Neris Dorne.
+
+Si aucun accord n'est trouvé dans trente jours, le différend est consigné sur un procès-verbal privé signé des deux parties, sans recours au greffe d'Ulghart ni à l'arbitrage UBI.
+
+## Signatures
+
+Fait en deux exemplaires scellés le 14 Nivios 545, remis l'un à chaque partie pour valoir ce que de droit.
+
+Pour Dorian Marest, candidat au conseil de l'UBI :  
+(*Signature* : Dorian Marest)
+
+Pour Aquilea, par son agent : Neris Dorne  
+(*Signature* : Neris Dorne)
+
+Mention au verso (cachet aquiléen) : mandataire de remplacement possible — Vessa Korr, factorerie de Selm, en cas d'indisponibilité de Neris Dorne.

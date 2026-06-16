@@ -9,7 +9,7 @@ Le script d'export ne genere pas le texte du contrat. Il met en page un fichier 
 
 ## Source des informations
 
-Utiliser d'abord `registre_archives.md`.
+Utiliser d'abord `Groupes/Banquiers - UBI/3- Compta & registres/registre_UBI_Contrats_archives.md`.
 
 La ligne du registre donne les informations de base :
 
@@ -56,7 +56,7 @@ Procedure :
 11. inventer des noms de signataires coherents avec les cites ;
 12. choisir un temoin bancaire UBI ;
 13. rediger le fichier `.md` dans le format archive ;
-14. ajouter ou verifier la ligne correspondante dans `registre_archives.md` si le contrat doit faire partie du registre.
+14. ajouter ou verifier la ligne correspondante dans `Groupes/Banquiers - UBI/3- Compta & registres/registre_UBI_Contrats_archives.md` si le contrat doit faire partie du registre.
 
 La criticite n'est pas choisie au hasard : elle est toujours fournie en parametre de lancement du prompt. Ce niveau influence ensuite le contenu et le montant :
 
@@ -119,7 +119,7 @@ Recapitulatif 438 : revenus UBI sur droits de garde : 192 couronnes.
 
 Chaque annee a son propre tableau et son recapitulatif. Le recapitulatif annuel additionne uniquement les droits de garde UBI payes pour les contrats de cette annee de depot.
 
-Le registre de revenus `Groupes\Banquiers - UBI\3 - Comptabilite\registre_Comptable_UBI_Archives.md` doit aussi etre mis a jour a chaque creation de contrat. Il reprend, annee par annee, la reference du contrat, les dates, les signataires, le montant du contrat et le revenu UBI correspondant.
+Le registre de revenus `Groupes\Banquiers - UBI\3- Compta & registres\registre_Comptable_UBI_Archives.md` doit aussi etre mis a jour a chaque creation de contrat. Il reprend, annee par annee, la reference du contrat, les dates, les signataires, le montant du contrat et le revenu UBI correspondant.
 
 Les garanties CREDOC ne modifient pas ce contrat. Si un contrat archive est couvert par assurance ou lettre de credit, l'activation est inscrite dans `registre_Credoc_archives.md` selon `METHODE_credoc_archives.md`, sans avenant au fichier du contrat support.
 
@@ -204,13 +204,13 @@ Cout bancaire UBI : 192 couronnes, soit quatre pour cent du montant emprunte, pa
 
 Registres :
 
-Le contrat de pret est ajoute au registre standard `registre_archives.md`.
+Le contrat de pret est ajoute au registre standard `Groupes/Banquiers - UBI/3- Compta & registres/registre_UBI_Contrats_archives.md`.
 
 Dans la colonne `Montant`, indiquer le montant emprunte, pas la valeur totale du contrat finance.
 
 Dans la colonne `Droit UBI paye`, indiquer le cout bancaire UBI de 4 %. Ce montant participe aux revenus de la banque au meme titre que les droits de garde.
 
-Le registre de revenus `Groupes\Banquiers - UBI\3 - Comptabilite\registre_Comptable_UBI_Archives.md` doit aussi etre mis a jour. La ligne reprend :
+Le registre de revenus `Groupes\Banquiers - UBI\3- Compta & registres\registre_Comptable_UBI_Archives.md` doit aussi etre mis a jour. La ligne reprend :
 
 - la reference du pret ;
 - la date de depot ;

@@ -1,0 +1,40 @@
+# Accord secret de commerce militaire Arthas–Empire Tchélène
+
+Document scellé ; enregistré à l'UBI comme acte critique de classe IV ; référence DF-IV-547-016 ; conservation sous coffre UBI.
+
+<div style="font-family: 'Segoe Script', 'Bradley Hand ITC', cursive; font-size: 9pt; font-style: italic; line-height: 1.18;">
+
+Notice UBI : DF-IV-547-016 ; contrat de défense critique de classe IV ; dépôt 547-X-04 ; Arthas ↔ Empire Tchélène ; 20'000 couronnes ; exécuté, soldé et classé.
+
+ACCORD SECRET DE COMMERCE MILITAIRE
+N° DF-IV-547-016
+
+Que ce document soit gardé sous scellé et soustrait à toute autorité relevant de la Confédération des Cinq Cités.
+
+Le présent accord est conclu entre Valerian Marvek, Oblat de la cité d'Arthas, représentant certains intérêts marchands et militaires de ladite cité, et les représentants de l'Empire Tchélène, mandatés par les autorités impériales.
+
+**Article I — Objet** : la cité d'Arthas fournit à l'Empire Tchélène plusieurs cargaisons d'armes et de matériel militaire issus de ses ateliers et forges. Les fournitures peuvent inclure armes de guerre forgées à Arthas, pièces métalliques destinées à l'entretien des armées impériales, équipements défensifs et matériaux militaires, et fournitures stratégiques nécessaires aux campagnes impériales.
+
+**Article II — Confidentialité** : les parties reconnaissent que ces échanges demeurent secrets. Les cargaisons sont enregistrées sous couvert de marchandises commerciales ordinaires et transitent par des routes maritimes secondaires afin d'éviter toute inspection des autorités confédérales. La minute UBI demeure sous coffre scellé et ne peut être consultée que par le directeur de comptoir. Toute divulgation du présent accord pourrait provoquer des tensions diplomatiques majeures entre les îles du Levant et l'Empire Tchélène.
+
+**Article III — Compensations impériales** : en échange des fournitures reçues, l'Empire Tchélène accorde à Arthas d'importantes compensations financières, un accès privilégié à plusieurs comptoirs impériaux, des exemptions commerciales sur certaines routes maritimes et des garanties de protection pour les convois marchands arthassiens traversant les eaux proches de l'Empire.
+
+**Article IV — Intérêt mutuel** : les représentants impériaux reconnaissent qu'Arthas constitue un partenaire commercial stratégique majeur au sein des mers occidentales. Arthas reconnaît l'importance des débouchés commerciaux et militaires offerts par l'Empire Tchélène. Les deux parties conviennent que le maintien de relations discrètes et durables sert leurs intérêts respectifs.
+
+**Article V — Conséquences d'une rupture** : toute tentative de révélation, de sabotage ou de rupture unilatérale du présent accord est considérée comme une atteinte grave aux intérêts des parties signataires. Les représentants impériaux rappellent que l'Empire protège ses intérêts avec fermeté.
+
+**Article VI — Sceau** : le présent document est validé par les sceaux des parties concernées et doit être conservé dans un lieu sécurisé.
+
+Scellé dans l'intérêt mutuel des signataires.
+
+Pour Arthas : Valerian Marvek, Oblat d'Arthas  
+(*Signature*: Valerian Marvek)
+
+Pour l'Empire Tchélène : Commissaire impérial Vasili Kherdan  
+(*Signature*: Vasili Kherdan)
+
+Droit de garde UBI : 400 couronnes, soit deux pour cent de la valeur du présent accord, versées avant enregistrement pour conservation jusqu'à archivage ou retrait ; part Arthas : 200 couronnes ; part Empire Tchélène : 200 couronnes.
+
+Mention de classement : exécution reçue le 29 du mois de Cantlos 547. Solde versé le même jour. Acte critique exécuté et clos.
+
+</div>

@@ -57,7 +57,11 @@ param(
   [switch] $ForceSignatures,
   [Alias('nochangepage')]
   [switch] $SkipH2PageBreak,
-  [switch] $CharteSignatures
+  [switch] $CharteSignatures,
+  [switch] $Landscape,
+  [string] $ExtraCssPath = "",
+  [ValidateRange(80, 800)]
+  [int] $SignatureMaxEdgePx = 0
 )
 
 $ErrorActionPreference = 'Stop'
@@ -252,7 +256,7 @@ $markdownSansComments = [regex]::Replace($markdownUtf8Raw, '<!--[\s\S]*?-->', ''
 $pandocSourcePath = $md.Path
 $tempMdExpanded = ''
 if ($markdownSansComments -match '(?msi)\(\*\s*[Ss]ignature\s*\*\s*:') {
-  $sigMaxPx = if ($CharteSignatures) { 160 } else { 400 }
+  $sigMaxPx = if ($SignatureMaxEdgePx -gt 0) { $SignatureMaxEdgePx } elseif ($CharteSignatures) { 160 } else { 400 }
   $expandedMdText = Expand-MarkdownInkSignatureMarkers -MarkdownRaw $markdownSansComments `
     -HtmlAbsolutePath $outFile -ScriptsPSScriptRoot $PSScriptRoot `
     -ForceRegenerate:$ForceSignatures -SignatureMaxEdgePx $sigMaxPx
@@ -422,7 +426,13 @@ body.doc-officiel #contenu-avis .doc-export-signature-with-seal img.doc-export-s
 
 '@
 }
-if ($Format -eq 'A3') {
+if ($Landscape -and $Format -eq 'A3') {
+  $pageOverride = '@page { size: A3 landscape; margin: 18mm 18mm; } body.avis-document { width: 420mm; max-width: 420mm; min-height: 297mm; padding: 18mm 18mm; }'
+}
+elseif ($Landscape) {
+  $pageOverride = '@page { size: A4 landscape; margin: 12mm 12mm; } body.avis-document { width: 297mm; max-width: 297mm; min-height: 210mm; padding: 12mm 12mm; }'
+}
+elseif ($Format -eq 'A3') {
   $pageOverride = '@page { size: A3; margin: 25mm 22mm; } body.avis-document { width: 297mm; max-width: 297mm; min-height: 420mm; padding: 25mm 22mm; }'
 }
 else {
@@ -431,6 +441,10 @@ else {
 $pageOverride += $docOverridesCss
 if ($CharteSignatures) {
   $pageOverride += (Get-CharteSignatureBlockCss)
+}
+if (-not [string]::IsNullOrWhiteSpace($ExtraCssPath)) {
+  $extraCssResolved = Resolve-Path -LiteralPath $ExtraCssPath
+  $pageOverride += "`n" + (Get-Content -LiteralPath $extraCssResolved.Path -Raw -Encoding UTF8)
 }
 
 $shellPath = Join-Path $PSScriptRoot 'document_shell.html'

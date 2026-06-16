@@ -1,8 +1,8 @@
 <#
-  Exporte en PDF les contrats d'archives référencés dans registre_archives.md.
+  Exporte en PDF les contrats d'archives référencés dans registre_UBI_Contrats_archives.md.
 
   Par défaut :
-  - lit Contrats_et_Livres\Archives\registre_archives.md ;
+  - lit Groupes\Banquiers - UBI\3- Compta & registres\registre_UBI_Contrats_archives.md ;
   - exporte les références qui ont un fichier .md correspondant dans Archives ;
   - exclut les PAR-I, déjà exportés avec leur script dédié ;
   - ignore les contrats qui ont déjà un PDF dont le nom commence par la référence.
@@ -15,7 +15,7 @@
 param(
   [string] $ArchivesDir = "Contrats_et_Livres\Archives",
 
-  [string] $RegistrePath = "Contrats_et_Livres\Archives\registre_archives.md",
+  [string] $RegistrePath = "Groupes\Banquiers - UBI\3- Compta & registres\registre_UBI_Contrats_archives.md",
 
   [string[]] $ExcludeReferencePrefixes = @('PAR-I-'),
 

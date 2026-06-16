@@ -150,7 +150,7 @@ Tu acceptes désormais que la protection de l'équipe passe par la peur. Les cit
 # Tes missions et objectifs
 
 - Passation : transmettre le mandat avant le vol, pour ne plus porter seul la responsabilité officielle des coffres.
-- Chute d'Il-Irion : faire circuler au moins une dénonciation ou un faux contrat contre une maison présente à la Convention.
+- Chute d'Il-Irion : faire circuler au moins une lettre de dénonciation contre une maison présente à la Convention.
 - Familles rivales : pousser Cyrion Valdris (Il-Irion, Maison Valdris), Seraphin Kaelthorne (Il-Irion, Maison Kaelthorne), Calis Aedris (Il-Irion, Maison Aedris) ou Garrick Halvaren (Il-Irion, Maison Halvaren) à accuser une autre maison avant qu'ils s'unissent contre toi.
 - Biens et preuves : décider ce qui reste coffré, ce qui disparaît avec les Corbeaux de Minuit (voleurs, groupe extérieur), ce que tu livres aux autres cités et ce que tu gardes comme garantie personnelle.
 - Marda Velyss (Tripot, Ulghart) : lui proposer une alliance de survie si elle accepte de tenir le Tripot hors du centre de l'accusation et de relayer la menace contre les cités.
@@ -168,11 +168,13 @@ Calis dirige la coalition des maisons. Il cherche à garder Il-Irion uni assez l
 
 Garrick tient la sécurité et les actions violentes. Il t'a révélé il y a huit ans ce qui est arrivé à ta famille. A priori, personne dans les maisons d'Il-Irion ne sait qu'il t'a parlé. Sa protection dépend encore des Halvaren, parce que l'accident de tes parents le met directement en cause.
 
-Isar Dornelis écoute les rumeurs et cherche les fuites. Marek Thorne connaît les relais hors île. Tous deux peuvent comprendre le trajet de tes lettres, faux contrats et copies de registres s'ils recoupent assez de témoignages.
+Isar Dornelis écoute les rumeurs et cherche les fuites. Marek Thorne connaît les relais hors île. Tous deux peuvent comprendre le trajet de tes lettres et copies de registres s'ils recoupent assez de témoignages.
 
 ## Dossier de vengeance — pièces non enregistrées
 
-Tu as préparé des lettres, faux contrats et consignes qui ne figurent pas dans les registres de l'UBI. Ces pièces concernent les maisons d'Il-Irion, les autres cités et le Tripot. Selvara Quenndral t'a fourni les copies officielles des contrats VIP des cités. Les originaux ne figurent dans aucun inventaire public, mais les registres VIP du Tripot en gardent la trace. Ces registres suffisent déjà à prouver une partie du système.
+Tu as préparé des lettres et consignes qui ne figurent pas dans les registres de l'UBI. Ces pièces concernent les maisons d'Il-Irion, les autres cités et le Tripot. Selvara Quenndral t'a fourni les copies officielles des contrats VIP des cités. Les originaux ne figurent dans aucun inventaire public, mais les registres VIP du Tripot en gardent la trace. Ces registres suffisent déjà à prouver une partie du système.
+
+Les copies utiles portent les références `DC-IV` du Tripot : `DC-IV-542-001` à `DC-IV-546-008` pour Il-Irion, `DC-IV-546-009` à `DC-IV-547-012` pour Arthas, `DC-IV-546-013` à `DC-IV-547-016` pour Ther-Félis, `DC-IV-546-017` à `DC-IV-547-020` pour Palyr et `DC-IV-546-021` à `DC-IV-547-024` pour Sfaal. Tes lettres de protection doivent partir avec ces copies, sinon elles restent des menaces sans preuve.
 
 ## Hélias de Montclair — Grand Vérificateur du Trésor
 

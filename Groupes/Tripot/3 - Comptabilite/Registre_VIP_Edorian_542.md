@@ -1,16 +1,16 @@
 # Registre VIP — circuit Edorian — année 542
 
-Carnet des encaissements VIP. Chaque ligne porte la **référence du contrat** et la **description courte** du paiement reçu. Aucune mention d'origine, de mandant ou de destinataire final.
+Carnet des encaissements VIP. Chaque ligne porte la **référence du contrat**, la **description courte** du paiement reçu et le **code bénéficiaire**. Aucune autre mention d'origine, de mandant ou de destinataire.
 
 Nomenclature de référence : `FC-{classe}-542-NNN`.
 
 - **FC** : Fiche Contrat (forme commune à tous les contrats privés du tripot).
-- **{classe}** : `III` ou `IV`, valeur portée à l'arrivée du contrat.
+- **{classe}** : `IV` — criticité portée à l'arrivée du contrat (contrats VIP, très sensibles et compromettants).
 - **NNN** : numéro d'ordre dans la série annuelle complète du tripot pour 542 ; les contrats VIP s'intercalent dans une suite plus large tenue sur d'autres registres, les NNN consignés ici ne sont donc pas suivis.
 
 Convention : pas d'OUT. Le casino encaisse uniquement. La caisse VIP démarre chaque mois à 0 c et y revient à la clôture (10 % marge tripot, 90 % sortie remise sur quittance). Aucun cumul d'un mois sur l'autre. Le **solde UBI** d'ouverture/clôture est reporté pour mémoire.
 
-Exercice partiel — le circuit ouvre à Equos (IX-1 542). Les huit premiers mois de l'année 542 (I-VIII) ne consignent aucun encaissement VIP : aucune fiche FC-III-542 ou FC-IV-542 portée avant IX-1. Phase de rodage progressive jusqu'à la clôture du cycle quinquennal en mois XIII.
+Exercice partiel — le circuit ouvre à Equos (IX-1 542). Les huit premiers mois de l'année 542 (I-VIII) ne consignent aucun encaissement VIP : aucune fiche FC-IV-542 portée avant IX-1. Phase de rodage progressive jusqu'à la clôture du cycle quinquennal en mois XIII.
 
 ---
 
@@ -18,9 +18,9 @@ Exercice partiel — le circuit ouvre à Equos (IX-1 542). Les huit premiers moi
 
 Solde UBI ouverture (référence) : 15 825 c. Caisse VIP ouverture : 0 c.
 
-| Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
-|------|---|---|---|---:|---:|
-| IX-15 | Sa | FC-III-542-291 | Perdant désigné — capitaine palyrien, dés | +700 | 700 |
+| Date | J | Réf | Description | Bénéf. | IN VIP (c) | Caisse VIP (c) |
+|------|---|---|---|:---:|---:|---:|
+| IX-15 | Sa | FC-IV-542-291 | Perdant désigné — capitaine palyrien, dés | II | +700 | 700 |
 
 ### Clôture mois IX — 542
 
@@ -39,9 +39,9 @@ Solde UBI ouverture (référence) : 15 825 c. Caisse VIP ouverture : 0 c.
 
 Solde UBI ouverture (référence) : 17 040 c. Caisse VIP ouverture : 0 c.
 
-| Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
-|------|---|---|---|---:|---:|
-| X-15 | Je | FC-III-542-329 | Perdant désigné — armateur ilirionien, salon B | +800 | 800 |
+| Date | J | Réf | Description | Bénéf. | IN VIP (c) | Caisse VIP (c) |
+|------|---|---|---|:---:|---:|---:|
+| X-15 | Je | FC-IV-542-329 | Perdant désigné — armateur du port, salon B | II | +800 | 800 |
 
 ### Clôture mois X — 542
 
@@ -60,10 +60,10 @@ Solde UBI ouverture (référence) : 17 040 c. Caisse VIP ouverture : 0 c.
 
 Solde UBI ouverture (référence) : 18 585 c. Caisse VIP ouverture : 0 c.
 
-| Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
-|------|---|---|---|---:|---:|
-| XI-7 | Ve | FC-III-542-357 | Perdant désigné — marchand sfaalien, cartes | +800 | 800 |
-| XI-22 | Sa | FC-III-542-375 | Perdant désigné — maison palyrienne, salon B | +900 | 1 700 |
+| Date | J | Réf | Description | Bénéf. | IN VIP (c) | Caisse VIP (c) |
+|------|---|---|---|:---:|---:|---:|
+| XI-7 | Ve | FC-IV-542-357 | Perdant désigné — marchand sfaalien, cartes | II | +800 | 800 |
+| XI-22 | Sa | FC-IV-542-375 | Perdant désigné — maison palyrienne, salon B | II | +900 | 1 700 |
 
 ### Clôture mois XI — 542
 
@@ -82,10 +82,10 @@ Solde UBI ouverture (référence) : 18 585 c. Caisse VIP ouverture : 0 c.
 
 Solde UBI ouverture (référence) : 19 510 c. Caisse VIP ouverture : 0 c.
 
-| Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
-|------|---|---|---|---:|---:|
-| XII-15 | Sa | FC-III-542-401 | Perdant désigné — armateur sfaalien, cartes | +900 | 900 |
-| XII-22 | Sa | FC-IV-542-412 | Émissaire — tournoi privé | +1 500 | 2 400 |
+| Date | J | Réf | Description | Bénéf. | IN VIP (c) | Caisse VIP (c) |
+|------|---|---|---|:---:|---:|---:|
+| XII-15 | Sa | FC-IV-542-401 | Perdant désigné — armateur sfaalien, cartes | II | +900 | 900 |
+| XII-22 | Sa | FC-IV-542-412 | Émissaire — tournoi privé | II | +1 500 | 2 400 |
 
 ### Clôture mois XII — 542
 
@@ -104,10 +104,10 @@ Solde UBI ouverture (référence) : 19 510 c. Caisse VIP ouverture : 0 c.
 
 Solde UBI ouverture (référence) : 19 360 c. Caisse VIP ouverture : 0 c.
 
-| Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
-|------|---|---|---|---:|---:|
-| XIII-1 | Sa | FC-IV-542-428 | Émissaire — tournoi privé | +1 800 | 1 800 |
-| XIII-13 | Je | FC-III-542-442 | Perdant désigné — capitaine palyrien, dés | +900 | 2 700 |
+| Date | J | Réf | Description | Bénéf. | IN VIP (c) | Caisse VIP (c) |
+|------|---|---|---|:---:|---:|---:|
+| XIII-1 | Sa | FC-IV-542-428 | Émissaire — tournoi privé | II | +1 800 | 1 800 |
+| XIII-13 | Je | FC-IV-542-442 | Perdant désigné — capitaine palyrien, dés | II | +900 | 2 700 |
 
 ### Clôture mois XIII — 542
 
@@ -149,15 +149,16 @@ Recheck 542 :
 - Total IN : 700+800+1 700+2 400+2 700 = **8 300** ✓
 - Marge 10 % : 70+80+170+240+270 = **830** ✓
 - Sortie 90 % : 8 300 − 830 = **7 470** ✓
-- Moyenne III (6 contrats) : 5 000 / 6 = **833 c** (range 700-900)
-- Moyenne IV (2 contrats) : 3 300 / 2 = **1 650 c** (range 1 500-1 800)
+- Moyenne IV (8 contrats) : 8 300 / 8 = **1 037 c** (range 700-1 800)
+- Bénéficiaire unique sur l'exercice : **II** (8/8)
 
 ## Notes en bas de registre
 
 - **Cloisonnement comptable** : ce carnet ne touche que les contrats VIP. Les écritures ordinaires du tripot (paie, approvisionnements, tables) restent au seul `Registre_Tripot_UBI_542` et n'apparaissent jamais ici.
 - **Pas d'OUT** : le casino encaisse uniquement. Aucun mouvement de paiement sortant ne doit jamais figurer ici.
-- **Souche / talon** : chaque contrat `FC-{classe}-542-NNN` existe en deux exemplaires — la souche reste à l'UBI dans la liasse correspondante au coffre, le talon ici.
+- **Exemplaire unique** : chaque contrat `FC-IV-542-NNN` n'existe qu'en un seul exemplaire, non enregistré dans les registres de la banque, stocké au coffre dans un coffre anonyme.
 - **Description courte** : « perdant désigné » = visiteur qui apporte une somme sous couvert de la perdre aux dés ou aux cartes ; « émissaire » = paiement reçu en salon B ou en tournoi privé fermé.
+- **Code bénéficiaire** : colonne `Bénéf.` — code seul, sans légende dans ce carnet.
 - **Marge tripot 10 %** : 830 c sur l'exercice partiel.
 - **Sortie 90 %** : 7 470 c sur l'exercice partiel, remise sur quittance hors livres UBI.
 - **Procédure de dissimulation** : si une saisie tombe pendant la Convention, ce carnet sort par la porte arrière du bureau de la patronne avant l'auditeur. En l'absence du registre VIP, le `Registre_Tripot_UBI_542` est complet et cohérent — il suffit pour la procédure officielle.

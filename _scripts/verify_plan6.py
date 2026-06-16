@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 repo = Path(r"C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026")
-reg = repo / "Groupes" / "Banquiers - UBI" / "3 - Comptabilite" / "registre_Comptable_UBI_Archives.md"
+reg = repo / "Groupes" / "Banquiers - UBI" / "3- Compta & registres" / "registre_Comptable_UBI_Archives.md"
 text = reg.read_text(encoding="utf-8")
 
 annees = re.findall(r"^## (\d+)$", text, re.M)

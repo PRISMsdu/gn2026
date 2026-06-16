@@ -12,6 +12,7 @@ Les dettes sont avancées directement par Marda, pas d'impact sur les comptes UB
 |---|---|---|---:|---|---|
 | Saevar Dren | Palyr — chef de la sécurité de la délégation | Lira Vestrann | 2 422 | Actif ; demande à formuler pendant la Régate | Montant exact connu de Saevar et du Tripot seulement |
 | Miraen Talvas | MiVI — couverture Questeur au Tripot | Créancier satellite ; témoin Varek | 1 854 | Actif ; convocation possible hors mandat | Montant exact connu de Miraen, du créancier satellite et du Tripot seulement |
+| Raven | Sangs de la Steppe — couverture Guilde des Ports Unis | Lira Vestrann / Sira Vestrann | 1 350 | Actif ; dette de jeu à recouper avec passages aux tables | Montant exact connu de Raven et du Tripot seulement |
 
 ---
 
@@ -23,3 +24,7 @@ La maison peut demander à Saevar un service, une information ou une abstention 
 ## Note Miraen Talvas
 Miraen Talvas fréquente le bar des paris secondaires sous couvert de son accès aux salles du Tripot. Sa dette de jeu est inscrite en couronnes, pas en jetons. Le montant dû est de 1 854 couronnes.
 Le témoin noté « V. » est Varek. Le détachement Corvel ne connaît pas forcément cette dette. Le créancier satellite peut convoquer Miraen hors mandat et utiliser cette dette comme pression sur sa couverture Questeur.
+
+## Note Raven
+Raven fréquente les tables sous couverture de la Guilde des Ports Unis. Il présente ses passages comme des rencontres de quai et de routes commerciales, mais revient jouer après le départ des contacts utiles. La dette de jeu inscrite au Tripot est de 1 350 couronnes.
+Le montant exact ne doit pas circuler hors maison. Si Raven tente de solder vite ou par intermédiaire, recouper avec Lira et Sira avant de clore la ligne.

@@ -1,0 +1,40 @@
+body.doc-officiel #contenu-avis {
+  font-family: "Segoe Script", "Bradley Hand ITC", "Comic Sans MS", cursive;
+  font-size: 10pt;
+  line-height: 1.48;
+  color: #2d1b10;
+}
+
+body.doc-officiel #contenu-avis p {
+  margin: 0 0 0.95rem;
+}
+
+body.doc-officiel #contenu-avis p:not(:first-of-type):not(:has(+ .doc-export-signature))::first-letter {
+  float: left;
+  margin: 0.05rem 0.28rem 0 0;
+  padding: 0;
+  color: #7b2a18;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.9rem;
+  font-weight: 700;
+  line-height: 0.9;
+}
+
+body.doc-officiel #contenu-avis code {
+  font-family: "Segoe Script", "Bradley Hand ITC", "Comic Sans MS", cursive;
+  font-size: 1em;
+  color: #2d1b10;
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
+body.doc-officiel #contenu-avis .doc-export-signature {
+  margin-top: 0.6rem;
+  text-align: left;
+}
+
+body.doc-officiel #contenu-avis img.doc-export-signature-ink {
+  max-height: 28mm;
+  max-width: 70mm;
+}

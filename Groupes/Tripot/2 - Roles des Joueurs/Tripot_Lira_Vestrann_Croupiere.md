@@ -97,7 +97,17 @@ En l'an 535, tu as dix-huit ans. Une cave du quai Est t'attend pour un combat pr
 
 Au premier corps à corps, tu reconnais la cicatrice de gouttière au poignet : Sira, nuit du feu de 525. Elle te reconnaît en même temps. Vous vous arrêtez une seconde ; la foule hurle. Vous finissez le round sans vous détruire : coups mesurés, pas de haine. Après le gong, vous descendez par la même trappe.
 
-Vous recoupez la nuit de 525. Shadow t'avait sortie par la fenêtre du couloir bas ; il avait porté Sira jusqu'à l'hôpital de charité. Chacune croyait l'autre morte. Vous ne remontez plus sur un ring ensemble. Vous passez aux cercles de jeu du port : Sira lit les mains, tu orientes la salle.
+Vous recoupez la nuit de 525. Shadow t'avait sortie par la fenêtre du couloir bas ; il avait porté Sira jusqu'à l'hôpital de charité. Chacune croyait l'autre morte.
+
+## Mort du quai Est — après le combat de 535
+
+La soirée ne se ferme pas proprement après votre départ par la trappe. Des parieurs refusent de perdre leur mise sur un combat qui n'a pas donné de victoire nette. Les hommes du ring bloquent la caisse ; deux collecteurs veulent reprendre les bourses avant que la salle se vide. Une bagarre éclate dans l'escalier de cave.
+
+Un homme meurt dans la mêlée. Tu ne l'as pas frappé. Sira ne l'a pas frappé non plus. Vous étiez déjà dans le couloir bas, en train de recouper l'incendie de 525 et les années où chacune croyait l'autre morte.
+
+Les organisateurs du ring ont ensuite laissé circuler une version utile pour eux : les deux Vestrann avaient quitté le combat, les parieurs s'étaient battus à cause de vous, et le mort du quai Est pouvait rester attaché à vos noms. Aucun procès ne vous a rattrapées, mais dans les caves d'Il-Irion, ce mort est resté une dette.
+
+Après cette nuit, vous ne remontez plus sur un ring ensemble. Vous passez aux cercles de jeu du port : Sira lit les mains, tu orientes la salle.
 
 ## Passage à Palyr — réputation des tables
 
@@ -114,6 +124,16 @@ Au Tripot, tu tiens les phrases et les signes de salle. Avec Éliane, tu ajustes
 Tu repères les addicts avant qu'ils ne s'effondrent : main qui tremble, regard sur la porte, phrase qu'ils répètent pour se rassurer. Tu n'en es pas une : tu as vu trop de ruines pour jouer pour ton propre compte. Tu cadres la salle avec Sira ; Marda valide le risque avant qu'une dette devienne une arme.
 
 Saevar Dren, chef de la sécurité de la délégation palyrienne, est l'un de ces parieurs. Il revient après avoir gagné, il revient après avoir perdu, et il connaît le montant exact de ce qu'il te doit : 2 422 couronnes sur ton registre. Ses parents vivent modestement au port de Palyr. Si la dette éclate devant Corvyn ou sur l'île, Saevar tombe et sa famille paie avec lui.
+
+## Il y a un mois — taverne du bas port d'Il-Irion
+
+Il y a un mois, pendant un week-end de pause à Il-Irion, un intermédiaire de la Guilde des Ports Unis vous retrouve. Il se présente sous le nom de Veric Main-Rapide, relais de quai chargé d'une affaire urgente. Il connaît le mort du quai Est, la date du combat et assez de détails sur l'escalier de cave pour rendre l'accusation dangereuse.
+
+Il vous propose 1 000 couronnes pour déclencher une grosse bagarre dans une taverne du bas port, à une heure précise. La somme est énorme pour une simple rixe. Elle masque probablement autre chose : un vol, une extraction ou un assassinat dans une rue voisine.
+
+La bagarre a lieu. Des tables cassent, la garde du quartier arrive, et les rues proches se vident assez longtemps pour que personne ne regarde ailleurs. Le versement doit passer après coup par Veric Main-Rapide. Le contact de la Guilde disparaît avant le lendemain.
+
+Marda ne sait rien de cette affaire. Au Tripot, elle interdit normalement à son équipe de travailler pour son compte, surtout pendant une période où la maison doit tenir ses registres, ses clients et ses dettes sans attirer une enquête.
 
 ## Convention et régate — Ulghart, 547
 
@@ -143,6 +163,7 @@ Tu tiens les codes de salle et les habitués que Sira repère à la table. Tu co
 - Toute triche visible devient une arme contre la maison — tu cadres chaque geste avec Marda ou Éliane.
 - Shadow t'a sortie du feu en 525 ; des aides anonymes ont suivi (argent, dettes payées, créanciers détournés). Tu ignores s'il est à Ulghart pendant la Convention. S'il se présente avec une preuve solide, il peut réclamer un service, un silence ou un accès au Tripot.
 - Passé rings illégaux Il-Irion (~533–535) : surnoms « la souriante » / « la Vestrann ». Ne pas les citer devant des clients qui pourraient recouper avec le quai Est.
+- Il y a un mois, un intermédiaire de la Guilde des Ports Unis vous a fait chanter avec le mort du quai Est pour déclencher une bagarre à Il-Irion. La somme promise était de 1 000 couronnes. Le versement devait passer par Veric Main-Rapide. Marda ne sait rien.
 - Ne montre pas la structure des codes à d'autres joueurs hors scène — révélations en roleplay seulement.
 
 # Connaissances

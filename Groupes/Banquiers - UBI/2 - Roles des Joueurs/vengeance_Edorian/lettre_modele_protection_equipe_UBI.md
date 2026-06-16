@@ -1,6 +1,4 @@
-# Lettre modèle — protection de l'équipe UBI
 
-Pièce à adapter pour chaque cité. Les contrats VIP correspondants existent en copies officielles fournies par Selvara Quenndral (UBI, archiviste en chef).
 
 À la personne qui tient encore assez à sa cité pour comprendre ce courrier.
 
@@ -23,3 +21,6 @@ Laissez-les partir.
 Si vous les touchez, votre cité subira des conséquences que vous ne pouvez pas encore mesurer.
 
 Un ami de la banque, tant que vous restez raisonnables.
+
+
+(*Signature*: Marcos le Noir)

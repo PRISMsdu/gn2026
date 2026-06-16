@@ -12,7 +12,7 @@ import re, random, math
 
 # ─── CHEMINS ──────────────────────────────────────────────────────────────────
 repo = Path(r"C:\Users\sebastien-dury\OneDrive - Kheops Technologies S.A\PERSO\GN\2026")
-reg_path = repo / "Groupes" / "Banquiers - UBI" / "3 - Comptabilite" / "registre_Comptable_UBI_Archives.md"
+reg_path = repo / "Groupes" / "Banquiers - UBI" / "3- Compta & registres" / "registre_Comptable_UBI_Archives.md"
 meth_path = repo / "Contrats_et_Livres" / "Archives" / "methode_versement_archives.md"
 
 # ─── FAMILLES ─────────────────────────────────────────────────────────────────

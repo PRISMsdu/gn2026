@@ -103,15 +103,11 @@ Fait et scellé ce jour, en présence des témoins et des scribes le [DATE] à [
 
 ## Signatures
 
-[FAMILLE 1]                   [FAMILLE 2]
-[nom1]                        [nom2]
-[fonction1]                   [fonction2]
-Signature: _______            Signature: _______
+Pour [FAMILLE 1] : [nom1], [fonction1]  
+(*Signature*: [nom1])
 
-## Témoins
-- [témoin_1]
-- [témoin_2]
-- [témoin_3]
+Pour [FAMILLE 2] : [nom2], [fonction2]  
+(*Signature*: [nom2])
 
 ## Notes
 - Style simple et direct

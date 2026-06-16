@@ -1,6 +1,6 @@
 # [CODE] — Template de contrat commercial
 
-Remplacez `[CODE]` par le **code pièce** `CO-R-YYY-NNN` attribué dans `Registre_UBI_Orga.md` (ex. `CO-II-545-001`).
+Remplacez `[CODE]` par le **code pièce** `CO-R-YYY-NNN` attribué dans `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` (ex. `CO-II-545-001`).
 
 ## En-tête
 ```
@@ -51,9 +51,11 @@ Fait et scellé ce jour, en présence des témoins et dess scribes  [DATE] à [L
 
 ## Signatures
 
-[NOM 1]                    [NOM 2]
-[CITÉ 1]                   [CITÉ 2]
-Signature: _______         Signature: _______
+Pour [CITÉ 1] : [NOM 1]  
+(*Signature*: [NOM 1])
+
+Pour [CITÉ 2] : [NOM 2]  
+(*Signature*: [NOM 2])
 
 
 ## Notes

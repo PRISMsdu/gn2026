@@ -1,6 +1,33 @@
 # Fenric Ossel — Maître des registres
 
-<!-- Tripot — métadonnées rédaction. Secret perso : section Informations sensibles — ne pas diffuser hors joueur / MJ. -->
+<!--
+Tripot — métadonnées rédaction. Secret perso : section Informations sensibles — ne pas diffuser hors joueur / MJ.
+
+PDF complémentaires à donner au joueur :
+- Carnet_Ossel_504_doc_20260613_183503.pdf
+- Registre_Matelas_540.pdf
+- Registre_Matelas_541.pdf
+- Registre_Matelas_542.pdf
+- Registre_Matelas_543.pdf
+- Registre_Matelas_544.pdf
+- Registre_Matelas_545.pdf
+- Registre_Matelas_546.pdf
+- Registre_Matelas_547.pdf
+- Registre_Tripot_UBI_542.pdf
+- Registre_Tripot_UBI_543.pdf
+- Registre_Tripot_UBI_544.pdf
+- Registre_Tripot_UBI_545.pdf
+- Registre_Tripot_UBI_546.pdf
+- Registre_Tripot_UBI_547.pdf
+- Registre_VIP_Edorian_542.pdf
+- Registre_VIP_Edorian_543.pdf
+- Registre_VIP_Edorian_544.pdf
+- Registre_VIP_Edorian_545.pdf
+- Registre_VIP_Edorian_546.pdf
+- Registre_VIP_Edorian_547.pdf
+- Registre_consolidé_VIP_Edorian.pdf
+- Registre_dettes.pdf
+-->
 
 Grandeur Nature Celtiana  
 Epopée en Krondaar  
@@ -43,7 +70,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Trois registres distincts avec Marda ; discrétion professionnelle envers l'UBI et l'équipe. Recherché par la police des fraudes de Ther-Félis depuis ta fuite — jamais repris. |
+| Remarques | Trois registres distincts avec Marda ; discrétion professionnelle envers l'UBI et l'équipe. À Ther-Félis tu t'appelais Thierus Gabarrus ; la police des fraudes te cherche sous ce nom depuis ta fuite. |
 | Âge | 59 ans (année 547) |
 | Argent | 13 800 couronnes |
 | Pugilat | 3 |
@@ -53,9 +80,9 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Précis, calme, patient ; tu parles peu en salle. Tu ne racontes pas le naufrage aux clients. |
-| Valeurs | Les chiffres doivent tenir le jour où tout le monde ment ; la loyauté à Marda parce qu'elle t'a confié les vrais totaux. |
-| Peur | Un sceau posé sur un livre que tu n'as pas eu le temps de fermer ; qu'un visiteur de Ther-Félis te reconnaisse pendant la Convention ; que Marda parte trop loin dans une zone où tu ne peux plus la suivre. |
-| Rêve | Partir avec elle et l'équipe, assez d'or pour que la police des fraudes ne te redemande plus ton nom — sans laisser un registre ouvert derrière vous. |
+| Valeurs | Des comptes exacts, même quand plusieurs versions existent ; la loyauté à Marda parce qu'elle t'a confié les vrais totaux. |
+| Peur | Un auditeur qui saisit le mauvais livre ; un visiteur de Ther-Félis qui te reconnaît sous le nom Thierus Gabarrus ; un Palyrien ou un Styrgien qui comprend ce que tu as retrouvé sur le naufrage ; une affaire de Marda que tu ne peux plus comprendre ni couvrir. |
+| Rêve | Partir avec Marda et l'équipe avec assez d'or pour quitter Ulghart sans laisser de preuves compromettantes derrière vous. |
 
 ---
 
@@ -73,37 +100,45 @@ Il y a quarante-trois ans, en l'an 504, ta famille embarque sur un cog de la mai
 
 Tu as seize ans. Ton père, ta mère et tes deux frères cadets ne reviennent pas. Les autorités portuaires de Ther-Félis enregistrent le naufrage ; un greffier conserve la liste des morts. La maison de négoce d'Il-Irion fait faillite quelques mois plus tard sans tes parents pour la diriger.
 
-Des parents d'amis t'hébergent à Ther-Félis le temps d'un hiver. Ensuite tu entres comme commis chez un prêteur du port : cautions sur navire, intérêts, gages sur cargaisons.
+Des parents d'amis t'hébergent à Ther-Félis le temps d'un hiver. Ensuite tu entres comme commis chez Elden Valdem, prêteur du port sur le quai des Amarrages : cautions sur navire, intérêts, gages sur cargaisons. Tu t'inscris sous le nom Thierus Gabarrus.
+
+La Maison Valdem fait partie des familles créancières de Ther-Félis. Elle n'est pas un clan de direction comme les Kaelmar, ni une maison de consuls de route comme les Marest. Elle travaille au niveau du port : elle avance de l'argent aux capitaines, tient des gages de cargaison et prête aux armateurs qui doivent payer un équipage avant le retour d'un navire. Elden Valdem a sa place dans les réunions de quai, parce que plusieurs familles marchandes lui doivent de l'argent ou passent par ses cautions.
 
 ## Ther-Félis — commis prêteur jusqu'à quarante ans
 
-Tu restes chez le même prêteur vingt-quatre ans, de tes seize à tes quarante ans. Tu montes du recopiage des manifestes à la tenue des gros livres. Le patron te laisse ouvrir les coffres quand il est en tournée sur les quais. Tu connais les greffiers du port, les armateurs endettés, les formules de gage qui tiennent devant un tribunal félilien.
+Tu restes chez Valdem vingt-quatre ans, de tes seize à tes quarante ans, toujours sous le nom Thierus Gabarrus. Tu montes du recopiage des manifestes à la tenue des gros livres. Elden Valdem te laisse ouvrir les coffres quand il est en tournée sur les quais ou chez les familles d'armateurs. Tu connais les greffiers du port, les armateurs endettés, les mandataires d'entrepôt et les formules de gage qui tiennent devant un tribunal félilien.
 
-Tu apprends à séparer ce qu'un client doit voir de ce que la maison garde pour elle. Les années passent : mariages de filleuls, faillites de capitaines, saisons où les taux montent. Tu vis modestement à Ther-Félis. Tu ne repars pas vers Il-Irion : le port félilien est devenu ta maison depuis le naufrage.
+Tu apprends à séparer ce qu'un client doit voir de ce que la maison garde pour elle. Les années passent : mariages de filleuls, faillites de capitaines, saisons où les taux montent. Tu vis modestement à Ther-Félis.
+
+Au début de l'an 528, tu retrouves dans les pièces closes de Valdem un dossier ancien sur le naufrage de 504. Le cog de ta famille ne transportait pas seulement le stock que ton père devait contrôler. Un second manifeste mentionne des pièces de forge palyriennes, chargées hors registre, destinées à un acheteur styrgien par un relais de Ther-Félis.
+
+Deux noms palyriens reviennent dans les annexes : Keld pour le fret et Vandesse pour l'assurance de cargaison. La Styrgie apparaît comme destinataire final, sous un libellé de matériel de forge. Elden Valdem avait garanti une partie du transport par caution, puis récupéré de l'argent après le naufrage. Rien dans le dossier ne prouve qu'il a fait couler le navire. Tout prouve que Palyr, la Styrgie et Valdem ont laissé mourir la maison Ossel sur le papier, puis ont fermé le dossier quand l'argent a circulé.
+
+À partir de ce jour, Palyr et la Styrgie ne sont plus seulement des cités dans tes registres. Palyr a chargé la cargaison qui n'aurait jamais dû se trouver dans la cale de ton père. La Styrgie l'a achetée hors traité confédéral. Valdem a gardé les pièces et l'argent. Tu ne peux pas porter l'affaire devant un tribunal : tu vis sous le nom Thierus Gabarrus, et le dossier relie Fenric Ossel au greffe du naufrage.
 
 ## Quarante ans — fraude et fuite
 
-En l'an 528, tu as quarante ans. Tu triches depuis plusieurs saisons dans les livres du prêteur : cautions doublées sur des cargaisons fictives, intérêts encaissés deux fois sur les mêmes gages, dettes effacées contre des parts que tu retires pour toi. Tu crois tenir l'écart assez longtemps pour constituer une réserve.
+En l'an 528, tu as quarante ans. Sous le nom Thierus Gabarrus, tu triches dans les livres d'Elden Valdem : cautions doublées sur des cargaisons fictives, intérêts encaissés deux fois sur les mêmes gages, dettes effacées contre des parts que tu retires pour toi. Tu ne te présentes pas cela comme un vol. Tu prends l'argent que la maison Ossel n'a jamais pu réclamer, et tu constitues une réserve pour survivre si Palyr, la Styrgie ou Valdem comprennent que tu as lu le dossier.
 
-Un commis rival compare deux registres. La police des fraudes de Ther-Félis ouvre une enquête. Tu apprends qu'un mandat est prêt avant l'aube. Tu prends un sac d'or, deux carnets utiles et tu passes le détroit de nuit vers Il-Irion. Tu laisses le prêteur avec le trou dans ses colonnes.
+Un commis rival compare deux registres. La police des fraudes de Ther-Félis ouvre une enquête contre Gabarrus à partir d'une plainte de la Maison Valdem. Tu apprends qu'un mandat est prêt avant l'aube. Tu prends un sac d'or, deux carnets utiles et tu passes le détroit de nuit vers Il-Irion. Tu abandonnes Thierus Gabarrus et tu reprends Fenric Ossel, le nom enregistré après le naufrage de 504. Tu laisses Elden Valdem avec un manque dans ses comptes et une affaire ouverte devant le greffe portuaire.
 
-Depuis dix-neuf ans, ton nom figure sur les listes de recherche féliliennes. Personne ne t'a repris. Tu as gardé le nom Fenric Ossel : à Il-Irion, le naufrage de ta famille est un vieux dossier ; la fraude de Ther-Félis ne circule pas dans les mêmes couloirs que les tripots.
+Depuis dix-neuf ans, Thierus Gabarrus figure sur les listes de recherche féliliennes. Personne ne t'a repris sous l'un ou l'autre nom. À Il-Irion et au Tripot, tu es Fenric Ossel. La fraude de Ther-Félis n'a pas été reliée aux maisons de jeu où tu as travaillé.
 
 ## Il-Irion — tripots avant Ulghart
 
 À ton arrivée à Il-Irion, tu travailles pour des casinos et des prêteurs qui tiennent déjà deux jeux de livres : un pour le questeur, un pour la caisse interne. Consolidation, réserves, bordereaux : tu suis des maisons quand les flux dépassent ce qu'une seule caisse peut absorber.
 
-Pendant près de dix ans, tu changes de patron deux fois sans laisser de trace vers Ther-Félis. Tu refuses les contrats qui exigent un acte signé au port félilien. Depuis le naufrage, tu ne fais confiance qu'aux colonnes que tu contrôles toi-même ; depuis la fuite, tu évites tout greffier qui pourrait recouper ton nom avec l'an 528.
+Pendant près de dix ans, tu changes de patron deux fois sans laisser de trace vers Ther-Félis. Tu refuses les contrats qui exigent un acte signé au port félilien. Depuis le naufrage, tu ne fais confiance qu'aux documents que tu contrôles toi-même. Depuis la fuite, tu évites tout greffier qui pourrait relier Fenric Ossel au dossier Gabarrus de 528.
 
 ## Il y a dix ans — Marda te prend au Tripot
 
-Il y a dix ans, en l'an 537, Marda Velyss reprend le casino du fort d'Ulghart. Les volumes grossissent ; elle cherche un maître des registres qui sait tenir plusieurs histoires à la fois. Tu postules sous le nom que tu portes encore : Fenric Ossel, comptable de tripots, origine ilirionienne, long séjour à Ther-Félis avant Il-Irion.
+Il y a dix ans, en l'an 537, Marda Velyss reprend le casino du fort d'Ulghart. Les volumes grossissent. Elle cherche un maître des registres capable de tenir plusieurs versions de comptes sans erreur visible. Tu postules sous le nom que tu portes encore : Fenric Ossel, comptable de tripots, origine ilirionienne, long séjour à Ther-Félis avant Il-Irion.
 
-Marda te retient après une nuit d'essai sur ses livres. Tu lui dis une partie de la vérité : fraude à Ther-Félis, police des fraudes, fuite. Elle te prend quand même. Le fort d'Ulghart lui convient : garnison, contrat UBI, clientèle mêlée, peu de contrôles féliliens en routine. Tu t'y caches autant que tu y travailles.
+Marda te retient après une nuit d'essai sur ses livres. Tu lui dis une partie de la vérité : tu t'appelais Thierus Gabarrus à Ther-Félis, tu as fraudé Elden Valdem après avoir trouvé le dossier Ossel-504, la police des fraudes te cherche, et tu as repris le nom Fenric Ossel après la fuite. Elle te prend quand même. Le fort d'Ulghart lui convient : garnison, contrat UBI, clientèle mêlée, peu de contrôles féliliens en routine. Tu y travailles sous le nom Fenric Ossel.
 
 Elle t'engage comme maître des registres. Tu travailles surtout pour elle, pas pour la salle : elle te confronte quand un total lui semble flou, elle te demande des tableaux avant les grandes soirées, elle referme avec toi les livres longtemps après la dernière table.
 
-L'équipe du casino te connaît comme l'homme de la porte fermée. Guelievre ne lit pas tes classeurs. Ardan te protège si quelqu'un force l'accès. Les autres savent que tu tiens les chiffres ; seule Marda voit l'ensemble.
+L'équipe du casino sait que tu travailles dans le bureau des registres. Guelievre ne lit pas tes classeurs. Ardan te protège si quelqu'un force l'accès. Les autres savent que tu tiens les comptes ; seule Marda voit les trois registres.
 
 ## Les trois registres
 
@@ -115,67 +150,44 @@ Registre officieux : celui où passent les manipulations liées à la banque —
 
 Registre secret de Marda : carnets que tu ne montres pas à l'équipe et que l'UBI ne doit jamais voir. Entrées et sorties pour des visiteurs venus de son ancien réseau — hommes d'Il-Irion, messagers de nuit, comptes ouverts avant ton arrivée au Tripot. Tu saisis une partie des écritures ; Marda en garde d'autres sous clef. Blanchiment pour des clients qui ne ressemblent pas aux parieurs ordinaires : gros perdants en salle, dettes effacées contre or propre, montants qui ne remontent ni au registre officiel ni au registre officieux de la banque.
 
-Les trois registres ne se recoupent pas ligne pour ligne. Ton travail est de tenir chaque histoire cohérente le jour où l'une d'elles est ouverte.
+Les trois registres ne se recoupent pas ligne pour ligne. Chaque registre doit rester cohérent si l'UBI, Marda ou un auditeur l'ouvre.
 
 ## Cinq ans avec Edorian et le registre officieux
 
-Depuis cinq ans, le conseil sortant de l'UBI utilise le Tripot comme laveur. Environ dix pour cent des montants détournés reviennent à la maison. Marda estime avoir été sous-payée au regard du risque : vous visez quinze pour cent rétroactifs et l'arriéré avant que la passation ne verrouille les preuves.
+Depuis cinq ans, le conseil sortant de l'UBI utilise le Tripot pour blanchir des fonds. Environ dix pour cent des montants détournés reviennent à la maison. Marda estime que le risque justifie quinze pour cent. Elle veut obtenir l'arriéré avant que le nouveau conseil verrouille les preuves.
 
 Edorian accélère parfois les volumes. Toi et Marda passez des nuits à classer ce qui va dans le registre officiel, ce qui reste dans l'officieux. Éliane tient les registres de paris ; tu recouples ses cotes avec tes écritures générales avant qu'un inspecteur ne compare.
 
-Le nouveau conseil parle d'audit, d'intégrité, de saisies. Si quelqu'un saisit le mauvais classeur, les chiffres ne diront pas la même histoire. Tu prépares copies et sacs de fuite sans fermer le site trop tôt.
+Le nouveau conseil parle d'audit, d'intégrité et de saisies. Une saisie du registre officieux ou du registre secret exposerait Marda, Edorian et le Tripot. Tu prépares copies et sacs de fuite sans fermer le site trop tôt.
 
 ## Ce que Marda ne te dit pas — et ce qui te fait peur
 
-Tu fais confiance à Marda. Elle t'a confié les deux premiers registres et une fraction du troisième ; elle t'a payé, protégé, tenue informé sur Edorian et l'otage. Tu ne trahis pas cette confiance.
+Tu fais confiance à Marda. Elle t'a confié les registres ; elle t'a payé, protégé. Tu ne trahis pas cette confiance.
 
-Tu vois pourtant des signes que tu ne sais pas ranger dans une colonne : visiteurs du troisième registre qui ne jouent pas ; allées et couloirs où Ardan ou l'un des Varek ferme le passage sans t'expliquer ; morts sur les quais qui changent le ton de la maison ; mafia qui recule parfois sans que tu voies la dette correspondante dans tes livres.
+Tu vois pourtant des faits que tes registres n'expliquent pas : visiteurs du troisième registre qui ne jouent pas, couloirs fermés par Ardan ou l'un des Varek, mafia qui recule sans dette visible dans tes livres.
 
-Marda cache sans aucun doute une autre activité — plus large que la comptabilité, plus dure que le blanchiment banque. Tu ne lui en as pas parlé ouvertement : tu crains qu'elle aille trop loin quelque part de très dangereux, pas qu'elle te mente sur les totaux du casino. Cette peur ne coupe pas ta loyauté ; elle te pousse à fermer vite les bons registres et à rester près d'elle quand la Convention serre.
+Marda cache sans doute une autre activité que la comptabilité du Tripot et le blanchiment de l'UBI. Tu ne lui en as pas parlé ouvertement. Tu crains surtout qu'elle s'expose à des ennemis que tu ne connais pas. Cette peur ne coupe pas ta loyauté. Elle t'amène à protéger les registres et à rester disponible quand la Convention augmente la pression.
 
-Depuis quelques jours, tu te demandes d'où vient le réseau qui protège le Tripot et pourquoi il fallait trois registres dès le départ. Ce n'est pas une certitude ; c'est assez pour te méfier des questions qu'un auditeur ou un étranger pourrait poser à côté des chiffres.
-
-## Convention, régate, audit
-
-La Convention remplit le fort. La délégation de Ther-Félis est à Ulghart pour la régate : greffiers, marchands, officiers portuaires. Tu évites les quais quand tu peux. Tu gardes le registre officiel propre pour l'UBI. Tu protèges l'officieux pour le rétroactif quinze pour cent. Tu ne laisses personne ouvrir le registre secret de Marda.
-
+Depuis quelques jours, tu cherches à comprendre qui protège le Tripot en dehors de l'équipe visible. Tu ne connais pas encore ce réseau. Les questions d'un auditeur ou d'un étranger peuvent te conduire vers ce sujet.
 
 ---
 
 # Tes missions et actions
 
-## Ton rôle au quotidien
+<!-- Orga : mandat MR-TF-528-547-01 → Groupes/PNJs/Mandat_recherche_Thierus_Gabarrus.md ; PNJ Orret Valdem → Groupes/PNJs/Scene_emissaire_Valdem_recherche_Thierus_Gabarrus.md -->
 
-Tu ouvres et fermes le registre officiel pour l'UBI. Tu mets à jour le registre officieux avec Marda : réserves, bordereaux, preuves du dix pour cent → quinze pour cent. Tu saisis dans le registre secret ce qu'elle te confie ; le reste reste sous sa clef.
+## Ta fonction
 
-Avant une soirée chargée, Marda et toi recoupez les trois registres. Quand Éliane monte une cote risquée, tu cadres les écritures visibles. Quand l'un des Varek remonte un nom, tu décides s'il entre dans un livre ou reste sur un papier à part.
+Tu es maître des registres au Tripot. Tu travailles pour Marda Velyss, pas pour la salle : écritures, totaux, comparaisons avant les grandes soirées. L'équipe sait que tu tiens les comptes. Seule Marda voit les trois registres.
 
-## Objectifs prioritaires
+Tu tiens trois registres distincts avec elle : officiel (UBI), officieux (banque, Edorian, blanchiment), secret (visiteurs de son ancien réseau). Tu saisis une partie du registre secret ; Marda garde le reste sous clef. Éliane tient les registres de paris. Tes comptes et les siens doivent donner les mêmes totaux sur les soirées visibles.
 
-- Tenir le registre officiel lisible pour l'UBI tout en gardant les preuves du rétroactif quinze pour cent dans le registre officieux — en accord avec Marda.
-- Protéger les trois registres en cas de saisie : savoir lequel montrer, lequel déplacer, lequel Marda seule peut ouvrir.
-- Te synchroniser avec Éliane sur les registres de paris : recoupement critique si l'audit tombe pendant la régate.
-- Préparer copies, sacs et écritures de fuite sans fermer le site trop tôt.
-- Repérer les croisements possibles avec le registre central de la banque si une scène t'y mène.
-- Éviter qu'un visiteur félilien ne recoupe ton nom avec le mandat de 528 pendant la Convention.
+## Enjeux
 
-## Informations sensibles
-
-- Trois registres distincts : officiel (UBI), officieux (banque / Edorian / rétroactif), secret (visiteurs de l'ancien réseau de Marda). Ne pas les mélanger en scène ni en saisie.
-- Tu ignores le nom exact et le métier du réseau derrière le registre secret ; tu vois les montants et les visages. Marda ne t'a pas tout dit — volontairement.
-- Fraude à Ther-Félis en 528 ; mandat de la police des fraudes félilienne toujours actif. Marda et toi seuls au Tripot connaissent ce volet ; le reste de l'équipe te connaît comme comptable ilirionien.
-- Marda cache une autre activité que la comptabilité. Tu as peur qu'elle aille trop loin dans une zone dangereuse ; tu restes loyal et tu fermes les livres qu'elle te confie.
-- Ne montre pas la structure des trois registres à d'autres joueurs hors scène — révélations en roleplay seulement.
-
-# Connaissances
-
-## Prêteur du port — Ther-Félis
-
-Tu as travaillé vingt-quatre ans chez un prêteur félilien, de tes seize à tes quarante ans. Tu connais les quais, les greffiers et les formes de gage qui tiennent devant un tribunal portuaire. Si un client de la Convention cite Ther-Félis ou un manifeste félilien, tu peux vérifier si la forme tient — pas si la dette est honnête. Évite de signer quoi que ce soit au nom de Fenric Ossel devant un greffier félilien : ton mandat de 528 peut encore circuler dans leurs registres.
-
-## Police des fraudes — Ther-Félis
-
-En 528, la police des fraudes t'a ouvert une enquête pour cautions fictives et détournements sur les livres du prêteur. Tu as fui avant arrestation. Dix-neuf ans plus tard, personne ne t'a repris ; la Convention ramène des officiels et des marchands féliliens à Ulghart. Si quelqu'un pose des questions sur un comptable disparu du port, tu préviens Marda avant de répondre.
+- Registre officiel : marges, charges et réserves déclarées. L'UBI peut le lire pendant la Convention ou pendant l'audit annoncé.
+- Registre officieux : bordereaux d'Edorian, dix pour cent reversés à la maison depuis cinq ans, pièces utiles au rétroactif de quinze pour cent que Marda réclame.
+- Thierus Gabarrus : nom utilisé à Ther-Félis de 504 à 528. Sous ce nom, tu as fraudé Elden Valdem, prêteur du quai des Amarrages et chef de la Maison Valdem, une famille créancière du port. Le mandat de 528 vient de la plainte de cette maison. Pour l'équipe et les clients, tu es Fenric Ossel.
+- Palyr et Styrgie : le dossier Ossel-504 relie le naufrage de ta famille à des pièces de forge palyriennes destinées à un acheteur styrgien. Les noms Keld et Vandesse apparaissent dans les annexes. Si un représentant de Palyr ou un envoyé styrgien s'approche du Tripot, tu peux chercher ce qu'il sait, ce qu'il cache encore, ou comment lui faire payer cette dette.
 
 
 ---

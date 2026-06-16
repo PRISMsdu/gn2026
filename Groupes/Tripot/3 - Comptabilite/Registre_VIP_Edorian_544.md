@@ -18,9 +18,9 @@ Solde UBI ouverture (référence) : 11 700 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| I-7 | Ve | FC-III-544-006 | Perdant désigné — capitaine palyrien, dés | +850 | 850 |
+| I-7 | Ve | FC-IV-544-006 | Perdant désigné — capitaine palyrien, dés | +850 | 850 |
 | I-15 | Sa | FC-IV-544-018 | Émissaire — tournoi privé | +1 800 | 2 650 |
-| I-23 | Di | FC-III-544-026 | Perdant désigné — armateur ilirionien, salon B | +900 | 3 550 |
+| I-23 | Di | FC-IV-544-026 | Perdant désigné — armateur ilirionien, salon B | +900 | 3 550 |
 
 ### Clôture mois I — 544
 
@@ -41,7 +41,7 @@ Solde UBI ouverture (référence) : 12 400 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| II-15 | Sa | FC-III-544-060 | Perdant désigné — capitaine en escale, dés | +900 | 900 |
+| II-15 | Sa | FC-IV-544-060 | Perdant désigné — capitaine en escale, dés | +900 | 900 |
 
 ### Clôture mois II — 544
 
@@ -62,7 +62,7 @@ Solde UBI ouverture (référence) : 13 150 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| III-15 | Sa | FC-III-544-094 | Perdant désigné — marchand sfaalien, cartes | +950 | 950 |
+| III-15 | Sa | FC-IV-544-094 | Perdant désigné — marchand sfaalien, cartes | +950 | 950 |
 
 ### Clôture mois III — 544
 
@@ -84,7 +84,7 @@ Solde UBI ouverture (référence) : 13 900 c. Caisse VIP ouverture : 0 c.
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
 | IV-14 | Ve | FC-IV-544-122 | Émissaire — tournoi privé | +1 700 | 1 700 |
-| IV-22 | Sa | FC-III-544-131 | Perdant désigné — maison palyrienne, cartes | +950 | 2 650 |
+| IV-22 | Sa | FC-IV-544-131 | Perdant désigné — maison palyrienne, cartes | +950 | 2 650 |
 
 ### Clôture mois IV — 544
 
@@ -105,7 +105,7 @@ Solde UBI ouverture (référence) : 14 750 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| V-15 | Sa | FC-III-544-164 | Perdant désigné — armateur ilirionien, salon B | +900 | 900 |
+| V-15 | Sa | FC-IV-544-164 | Perdant désigné — armateur ilirionien, salon B | +900 | 900 |
 
 ### Clôture mois V — 544
 
@@ -126,7 +126,7 @@ Solde UBI ouverture (référence) : 15 600 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| VI-15 | Sa | FC-III-544-198 | Perdant désigné — maison ilirionienne, cartes | +950 | 950 |
+| VI-15 | Sa | FC-IV-544-198 | Perdant désigné — maison ilirionienne, cartes | +950 | 950 |
 
 ### Clôture mois VI — 544
 
@@ -148,8 +148,8 @@ Solde UBI ouverture (référence) : 16 500 c. Caisse VIP ouverture : 0 c.
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
 | VII-1 | Sa | FC-IV-544-216 | Émissaire — tournoi privé | +2 200 | 2 200 |
-| VII-13 | Je | FC-III-544-227 | Perdant désigné — capitaine palyrien, dés | +900 | 3 100 |
-| VII-22 | Sa | FC-III-544-240 | Perdant désigné — marchand sfaalien, cartes | +950 | 4 050 |
+| VII-13 | Je | FC-IV-544-227 | Perdant désigné — capitaine palyrien, dés | +900 | 3 100 |
+| VII-22 | Sa | FC-IV-544-240 | Perdant désigné — marchand sfaalien, cartes | +950 | 4 050 |
 
 ### Clôture mois VII — 544
 
@@ -170,7 +170,7 @@ Solde UBI ouverture (référence) : 12 200 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| VIII-15 | Sa | FC-III-544-272 | Perdant désigné — officier portuaire, salon B | +950 | 950 |
+| VIII-15 | Sa | FC-IV-544-272 | Perdant désigné — officier portuaire, salon B | +950 | 950 |
 
 ### Clôture mois VIII — 544
 
@@ -191,7 +191,7 @@ Solde UBI ouverture (référence) : 13 050 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| IX-15 | Sa | FC-III-544-301 | Perdant désigné — maison sfaalienne, cartes | +950 | 950 |
+| IX-15 | Sa | FC-IV-544-301 | Perdant désigné — maison sfaalienne, cartes | +950 | 950 |
 | IX-22 | Ve | FC-IV-544-313 | Émissaire — tournoi privé | +1 700 | 2 650 |
 
 ### Clôture mois IX — 544
@@ -214,8 +214,8 @@ Solde UBI ouverture (référence) : 13 950 c. Caisse VIP ouverture : 0 c.
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
 | X-7 | Ve | FC-IV-544-331 | Émissaire — tournoi privé | +2 000 | 2 000 |
-| X-13 | Je | FC-III-544-340 | Perdant désigné — maison palyrienne, cartes | +900 | 2 900 |
-| X-29 | Sa | FC-III-544-360 | Perdant désigné — marchand sfaalien, dés | +1 000 | 3 900 |
+| X-13 | Je | FC-IV-544-340 | Perdant désigné — maison palyrienne, cartes | +900 | 2 900 |
+| X-29 | Sa | FC-IV-544-360 | Perdant désigné — marchand sfaalien, dés | +1 000 | 3 900 |
 
 ### Clôture mois X — 544
 
@@ -236,7 +236,7 @@ Solde UBI ouverture (référence) : 14 900 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| XI-15 | Sa | FC-III-544-377 | Perdant désigné — maison ilirionienne, cartes | +950 | 950 |
+| XI-15 | Sa | FC-IV-544-377 | Perdant désigné — maison ilirionienne, cartes | +950 | 950 |
 | XI-21 | Ve | FC-IV-544-386 | Émissaire — tournoi privé | +1 700 | 2 650 |
 
 ### Clôture mois XI — 544
@@ -258,9 +258,9 @@ Solde UBI ouverture (référence) : 15 800 c. Caisse VIP ouverture : 0 c.
 
 | Date | J | Réf | Description | IN VIP (c) | Caisse VIP (c) |
 |------|---|---|---|---:|---:|
-| XII-7 | Ve | FC-III-544-405 | Perdant désigné — capitaine palyrien, dés | +900 | 900 |
+| XII-7 | Ve | FC-IV-544-405 | Perdant désigné — capitaine palyrien, dés | +900 | 900 |
 | XII-15 | Sa | FC-IV-544-414 | Émissaire — tournoi privé | +1 700 | 2 600 |
-| XII-22 | Sa | FC-III-544-424 | Perdant désigné — maison palyrienne, salon B | +950 | 3 550 |
+| XII-22 | Sa | FC-IV-544-424 | Perdant désigné — maison palyrienne, salon B | +950 | 3 550 |
 
 ### Clôture mois XII — 544
 
@@ -309,15 +309,14 @@ Recheck 544 :
 - Total IN : 3 550+900+950+2 650+900+950+4 050+950+2 650+3 900+2 650+3 550 = **27 650** ✓
 - Marge 10 % : **2 765** ✓
 - Sortie 90 % : **24 885** ✓
-- Moyenne III (16 contrats) : 14 850 / 16 = **928 c**
-- Moyenne IV (7 contrats) : 12 800 / 7 = **1 829 c**
+- Moyenne IV (23 contrats) : 27 650 / 23 = **1202 c**
 - Croissance vs 543 : 27 650 / 25 000 = **+10,6 %** ✓
 
 ## Notes en bas de registre
 
 - **Cloisonnement comptable** : ce carnet ne touche que les contrats VIP. Les écritures ordinaires du tripot restent au seul `Registre_Tripot_UBI_544` et n'apparaissent jamais ici.
 - **Pas d'OUT** : le casino encaisse uniquement.
-- **Souche / talon** : chaque contrat `FC-{classe}-544-NNN` existe en deux exemplaires — la souche reste à l'UBI dans la liasse correspondante au coffre, le talon ici.
+- **Exemplaire unique** : chaque contrat `FC-{classe}-544-NNN` n'existe qu'en un seul exemplaire, non enregistré dans les registres de la banque, stocké au coffre dans un coffre anonyme.
 - **Description courte** : « perdant désigné » = visiteur qui apporte une somme sous couvert de la perdre aux dés ou aux cartes ; « émissaire » = paiement reçu en salon B ou en tournoi privé fermé.
 - **Marge tripot 10 %** : 2 765 c sur l'année.
 - **Sortie 90 %** : 24 885 c sur l'année, remise sur quittance hors livres UBI.

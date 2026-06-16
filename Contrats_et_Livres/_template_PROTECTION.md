@@ -99,14 +99,11 @@ Fait et scellé ce jour, en présence des témoins et des scribes le [DATE] à [
 
 ## Signatures
 
-[PROTÉGÉ]                     [PROTECTEUR]
-[nom_protégé]                 [nom_protecteur]
-[fonction_protégé]            [fonction_protecteur]
-Signature: _______            Signature: _______
+Pour [PROTÉGÉ] : [nom_protégé], [fonction_protégé]  
+(*Signature*: [nom_protégé])
 
-## Témoins
-- [témoin_1]
-- [témoin_2]
+Pour [PROTECTEUR] : [nom_protecteur], [fonction_protecteur]  
+(*Signature*: [nom_protecteur])
 
 ## Notes
 - Style simple et direct

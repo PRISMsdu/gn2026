@@ -7,7 +7,7 @@
 Intrigue orga : `Intrigues/Intrigue_Banquiers.md`  
 Document collectif joueurs : `1 - Back de groupe/Back_groupe_UBI.md`  
 Fiches individuelles : `2 - Roles des Joueurs/`  
-Registres et comptabilité : `3 - Comptabilite/`  
+Registres et comptabilité : `3- Compta & registres/`  
 Atelier interactions ↔ autres groupes : `interactions_UBI_autres_groupes.csv` (à compléter au fil de la rédaction)
 
 Même logique que le groupe **Tripot** : pas de dossier séparé « backs perso orga » — intrigue MJ + back collectif + rôles joueurs. La charte fondateur peut servir de prop in-game : `1 - Back de groupe/Charte_UBI.md`.  

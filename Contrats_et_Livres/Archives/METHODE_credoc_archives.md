@@ -22,7 +22,7 @@ Les cinq contrats-cadres actifs sont :
 | AC-UBI-397-THERFELIS | Ther-Felis | Garantie documentaire des services, greniers et registres |
 | AC-UBI-397-SFAAL | Sfaal | Garantie transport renforcee et fret industriel |
 
-Ces contrats-cadres sont conserves dans `Contrats_et_Livres/Archives`, mais leurs activations ne passent pas par `registre_archives.md`. Elles passent par le registre CREDOC.
+Ces contrats-cadres sont conserves dans `Contrats_et_Livres/Archives`, mais leurs activations ne passent pas par `Groupes/Banquiers - UBI/3- Compta & registres/registre_UBI_Contrats_archives.md`. Elles passent par le registre CREDOC.
 
 ## Niveaux de garantie
 

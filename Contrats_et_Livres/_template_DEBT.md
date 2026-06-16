@@ -1,6 +1,6 @@
 # [CODE] — Template de contrat de dette
 
-Remplacez `[CODE]` par le **code pièce** `DE-R-YYY-NNN` attribué dans `Registre_UBI_Orga.md` (ex. `DE-II-546-001`).
+Remplacez `[CODE]` par le **code pièce** `DE-R-YYY-NNN` attribué dans `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` (ex. `DE-II-546-001`).
 
 ## En-tête
 ```
@@ -59,14 +59,11 @@ Fait et scellé ce jour, en présence des témoins et des scribes le [DATE] à [
 
 ## Signatures
 
-[PRÊTEUR]                    [EMPRUNTEUR]
-[nom_prêteur]                [nom_emprunteur]
-[fonction_prêteur]           [fonction_emprunteur]
-Signature: _______           Signature: _______
+Pour [PRÊTEUR] : [nom_prêteur], [fonction_prêteur]  
+(*Signature*: [nom_prêteur])
 
-## Témoins
-- [témoin_1]
-- [témoin_2]
+Pour [EMPRUNTEUR] : [nom_emprunteur], [fonction_emprunteur]  
+(*Signature*: [nom_emprunteur])
 
 ## Notes
 - Style simple et direct

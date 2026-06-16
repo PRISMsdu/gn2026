@@ -1,0 +1,35 @@
+# Accord confidentiel Arthas–Styrgie — fourniture d'armes
+
+Pièce UBI : DF-II-547-022 ; accord de fourniture standard de classe II ; dépôt 547-X-16 ; Arthas ↔ Styrgie ; consignée au registre courant sous scellé.
+
+Document scellé ; enregistré à l’UBI comme pièce standard de classe II ; référence DF-II-547-022 ; conservation sous coffre UBI.
+
+<div style="font-family: 'Segoe Script', 'Bradley Hand ITC', cursive; font-size: 9pt; font-style: italic; line-height: 1.18;">
+
+ACCORD CONFIDENTIEL DE FOURNITURE D'ARMES
+
+Que ce document demeure scellé et dissimulé aux regards des autorités confédérales.
+
+Le présent accord est conclu entre Valerian Marvek, Oblat de la cité d'Arthas, agissant au nom de certains intérêts marchands et militaires de ladite cité, et les représentants de la Styrgie, agissant au nom des autorités militaires styrgiennes.
+
+**Article I — Objet** : la cité d'Arthas fournit à la Styrgie des armes, équipements militaires et pièces métalliques issus de ses forges et ateliers. Les fournitures comprennent notamment épées et sabres militaires, pointes de lances et armes d'hast, carreaux d'arbalètes, pièces de harnois et matériel de réparation destiné aux armées styrgiennes.
+
+**Article II — Discrétion** : les échanges demeurent secrets. Les cargaisons transitent sous couvert de contrats marchands ordinaires et sont enregistrées comme marchandises civiles lorsque cela est nécessaire. Ni le Conseil des Oblats, ni les autorités des Cinq Cités ne doivent avoir connaissance de cet accord. La minute UBI demeure sous coffre scellé et ne peut être consultée que par le directeur de comptoir.
+
+**Article III — Compensations** : en échange des fournitures, la Styrgie verse à Arthas des compensations financières en écus et métaux précieux, des avantages commerciaux sur certaines routes continentales et un accès privilégié à plusieurs ports et marchés styrgiens.
+
+**Article IV — Assistance mutuelle** : la Styrgie reconnaît l'importance stratégique d'Arthas dans le commerce maritime des îles du Levant. En cas de troubles politiques majeurs au sein de la Confédération, les représentants styrgiens s'engagent à soutenir les intérêts d'Arthas dans la mesure de leurs moyens.
+
+**Article V — Rupture** : toute tentative visant à révéler ou compromettre le présent accord est considérée comme une trahison des engagements conclus entre les parties. Les signataires reconnaissent que certaines conséquences pourraient alors être irréversibles.
+
+**Article VI — Sceau** : le présent accord est validé par les sceaux des représentants concernés et doit demeurer conservé à l'abri de toute inspection confédérale.
+
+Scellé au nom des intérêts mutuels des parties.
+
+Pour Arthas : Valerian Marvek, Oblat d'Arthas  
+(*Signature*: Valerian Marvek)
+
+Pour Styrgie : un représentant mandaté  
+(*Signature*: représentant mandaté de la Styrgie)
+
+</div>

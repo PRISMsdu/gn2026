@@ -104,6 +104,8 @@ Depuis un an, les cadres des Sangs préparent aussi leur sortie. Plus de dix mil
 
 Le Tripot du fort reste un problème. Marda Velyss résiste aux pressions depuis assez longtemps pour inquiéter les Sangs. Des hommes envoyés vers le casino ont disparu, sont tombés malades ou sont revenus sans rien obtenir. Si Kaelan veut reprendre ce dossier, il faut d'abord comprendre qui protège le Tripot.
 
+Il y a un mois, un ordre venu par le canal d'Elfrion a utilisé votre couverture de la Guilde des Ports Unis à Il-Irion. Veric Main-Rapide, relais de quai piloté par Raven, a fait pression sur deux anciennes combattantes du Tripot avec une affaire de mort au quai Est. Elles devaient déclencher une bagarre dans une taverne du bas port contre 1 000 couronnes. La bagarre a couvert une exécution dans une rue voisine. Le versement doit être vérifié dans la chaîne Raven-Veric.
+
 Il y a quelques jours, un pigeon t'a apporté une missive courte sur le quai. Un acheteur anonyme aurait payé cher pour une intervention armée sur la route Il-Irion-Ulghart. Quinze mercenaires habitués, dont plusieurs ont déjà travaillé avec les Sangs, seraient partis sur ce contrat. Depuis, aucun rapport, aucun blessé revenu par les relais, aucune solde réclamée. Une opération de quinze hommes laisse toujours une trace. Cette absence te paraît anormale.
 
 ---

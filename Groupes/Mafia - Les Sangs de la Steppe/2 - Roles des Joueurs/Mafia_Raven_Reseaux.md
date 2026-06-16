@@ -43,7 +43,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Couverture visible : Maître des routes dans la Guilde des Ports Unis ; remise d'or avec Korran Vesper ; dossier fer sensible avec Elfrion. |
+| Remarques | Couverture visible : Maître des routes dans la Guilde des Ports Unis ; remise d'or avec Korran Vesper ; dossier fer sensible avec Elfrion ; parieur addict au Tripot. |
 | Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
@@ -51,9 +51,9 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Analytique, organisé, méfiant. Tu vérifies les versions avant d'engager un informateur ou de transmettre un renseignement à Kaelan. |
+| Traits de caractère | Analytique, organisé, méfiant. Tu vérifies les versions avant d'engager un informateur ou de transmettre un renseignement à Kaelan. Aux tables, tu recomptes chaque perte comme si le calcul allait corriger la suivante. |
 | Valeurs | Information vérifiée, contrôle des relais, paiement des dettes. Tu ne vends pas un renseignement sans recoupement. |
-| Peur | Perdre le contrôle de tes informateurs ; qu'un Sang, un délégué ou un ancien contact retrouve ton identité civile et ton nom de naissance. |
+| Peur | Perdre le contrôle de tes informateurs ; qu'un Sang, un délégué ou un ancien contact retrouve ton identité civile et ton nom de naissance ; qu'une dette de jeu te rende lisible au Tripot. |
 | Rêve | Que toute information utile à Ulghart passe par toi avant d'être publique, puis quitter le métier avec une quittance écrite du MiVI. |
 
 ---
@@ -83,6 +83,12 @@ Tu es devenu Maître des routes dans la Guilde des Ports Unis. C'est ton métier
 Tu maintiens les canaux vers l'UBI, le Tripot, Palyr et Sfaal selon les opérations en cours. Pour l'affaire du fer, tu coordonnes la remise avec Korran Vesper : lieu, heure, signes, comptage de l'or d'Aquiléa et silence sur l'abordage.
 
 Shadow et toi partagez les contacts confédérés. Shadow traite les coffres, les doubles fonds et les documents volés. Toi tu traites les rencontres visibles : quai, commissions, salons. Avant de revoir un même clerc ou un même greffier, tu t'accordes avec Shadow pour ne pas le solliciter en deux passages le même jour, ce qui le rendrait méfiant ou le pousserait à parler à la milice.
+
+Le Tripot te sert aussi de lieu de renseignement. Tu y croises des capitaines, des commis de route et des débiteurs qui parlent plus facilement après une perte. Depuis plusieurs passages à Ulghart, tu restes pourtant à table après le départ des contacts utiles. Tu rejoues pour récupérer une perte, puis pour couvrir la perte suivante. Le registre interne du Tripot porte aujourd'hui 1 350 couronnes à ton nom.
+
+Il y a un mois, Veric Main-Rapide a servi de relais à Il-Irion pour une opération venue par le canal d'Elfrion. Il a accroché deux anciennes combattantes du Tripot avec une affaire de mort au quai Est, puis les a envoyées déclencher une bagarre dans une taverne du bas port. La bagarre couvrait une exécution dans une rue voisine. Tu as reçu 2 000 couronnes pour payer Veric, régler les combattantes et fermer les témoins. Tu as gardé l'argent dans ta caisse de relais. Tu n'as jamais parlé de cette caisse, de Veric ni des deux combattantes aux autres cadres des Sangs.
+
+Cette caisse devait rester disponible jusqu'à la clôture des relais d'Il-Irion. En réalité, elle couvre aussi ta dette au Tripot. Si Fenric, Lira ou Sira recoupent les 1 350 couronnes avec les 2 000 couronnes confiées pour Veric, la dette n'est plus seulement une faiblesse de joueur : elle devient une trace de détournement interne.
 
 ## Béret d'Arthas et stress de Gareth
 
@@ -115,6 +121,7 @@ Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu m
 
 - Une erreur sur un dossier lourd remonte au-delà de Kaelan : le MiVI peut couper les flux ou envoyer des observateurs.
 - Tu soupçonnes Gareth pour le béret et l'oblat ; confronte-le en privé avant d'en parler à Kaelan si tu veux garder la maison sous contrôle.
+- Tu dois 1 350 couronnes au Tripot. Cette dette vient de tes passages répétés aux tables et se croise avec les 2 000 couronnes gardées sur l'affaire Veric Main-Rapide. Les autres cadres des Sangs ne connaissent pas ce lien.
 
 ---
 

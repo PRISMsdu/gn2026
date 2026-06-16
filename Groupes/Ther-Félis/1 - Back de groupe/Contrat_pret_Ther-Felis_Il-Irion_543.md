@@ -1,0 +1,88 @@
+<!--
+  Pièce joueur — remise au groupe Ther-Félis (Jonn Halet, Dorian Marest, Rauth Kaelmar).
+  Sources : Historique_Ther-Félis.md ; Intrigue_Ther-Félis.md ; Intrigue_Banquiers.md ;
+  DE-IV-543-001 (signataires Odran Calev / Jonn Halet) ; AC-UBI-397-THERFELIS.
+  Objet : prêt bilatéral Ther-Félis auprès d'Il-Irion, scellé privé UBI ; 50 000 écus ; échéance 547.
+  Date in-univers : Samonios 543 (il y a quatre ans).
+  Export PDF : Scripts/export_doc.ps1.
+-->
+
+# Reconnaissance de dette scellée
+
+PRÊT BILATÉRAL — SCELLÉ PRIVÉ UBI  
+Référence : PR-SC-543-THE-ILI-01  
+Classement : IV — hors registre ouvert
+
+En l'an 543 du IVe âge de Krondaar, le 8 du mois de Samonios, devant un comptoir reconnu de l'Union bancaire d'Il-Irion, il est conclu le présent acte entre :
+
+La cité d'Il-Irion, représentée par messire Odran Calev, factor des prêts inter-cités et mandataire des maisons patriciennes prêteuses.
+
+Et la cité de Ther-Félis, représentée par messire Jonn Halet, facteur d'escales et mandataire du magistrat portuaire pour les emprunts de la cité.
+
+Le présent acte est déposé à l'UBI comme scellé privé. Il n'apparaît pas au registre confédéral ouvert. Seuls le numéro d'acte, le montant et la date d'échéance peuvent être relevés par un clerc habilité sur présentation du sceau des deux cités.
+
+## Article premier — Objet du prêt
+
+Il-Irion prête à Ther-Félis la somme de cinquante mille écus confédéraux, versée en deux remises en Samonios et Dornios 543.
+
+Ther-Félis emploie cette somme à maintenir l'activité de son port, à payer les droits de mouillage et de transit, et à couvrir la sous-traitance du transport de fer entre Sfaal et Palyr pendant la remontée des taux sur le Levant.
+
+## Article deuxième — Intérêts
+
+Le capital porte intérêt au taux de sept pour cent par an sur le capital restant dû, à compter de la seconde remise.
+
+Les intérêts sont payables avec le capital à l'échéance finale. Ils ne sont pas exigibles par trimestre.
+
+Si le conseil patricien d'Il-Irion constate une nouvelle remontée des taux sur le marché inter-cités, Il-Irion peut relever le taux une fois par an, par note écrite remise à Jonn Halet, dans la limite de deux points supplémentaires. Cette clause a été appliquée en 544 et en 545.
+
+## Article troisième — Remboursement
+
+Ther-Félis s'engage à rembourser le capital et les intérêts courus au plus tard le 31 Cantlos 547.
+
+Le paiement se fait en écus confédéraux, en ordres portables sur Il-Irion, ou par compensation sur créances certaines que Ther-Félis détient contre des maisons il-irioniennes, si Odran Calev les accepte par écrit.
+
+Ther-Félis peut demander une prorogation de soixante jours si elle remet, avant le 31 Cantlos 547, un plan de paiement accepté par écrit par Il-Irion. Sans ce plan, aucune prorogation tacite n'est due.
+
+## Article quatrième — Garanties
+
+Ther-Félis offre en gage :
+
+- la créance sur les paiements de transit dus par Palyr pour la route du fer passant par ses quais ;
+- le droit de préemption sur deux créneaux hebdomadaires au quai des lingots, pendant six mois après l'échéance si la dette n'est pas soldée.
+
+Il-Irion peut exiger, avant le 31 Equos 547, un relevé des contrats de transit et des titres gagés. Jonn Halet doit le remettre dans les quinze jours.
+
+## Article cinquième — Défaut de paiement
+
+Si le solde n'est pas réglé le 31 Cantlos 547, Il-Irion peut exiger le solde immédiat, majoré d'une pénalité de cinq pour cent du capital.
+
+Il-Irion peut saisir les créances gagées, bloquer l'ouverture de nouveaux scellés privés au nom de Ther-Félis et porter l'acte au débat du futur conseil de l'UBI si aucun échéancier n'est accepté dans les trente jours.
+
+## Article sixième — Discrétion
+
+Les parties ne publient pas le montant du prêt devant le conseguès confédéral ni dans les plaidoiries publiques sur la libre concurrence portuaire.
+
+Ther-Félis peut invoquer la dette devant les candidats au conseil de l'UBI pour demander une renégociation, sans remettre la minute du présent acte à un tiers non signataire.
+
+Toute copie intégrale remise hors des deux cités et de l'UBI requiert l'accord écrit d'Odran Calev et de Jonn Halet.
+
+## Article septième — Litiges
+
+Tout différend est d'abord porté entre Jonn Halet et Odran Calev.
+
+Si aucun accord n'est trouvé dans quarante jours, le différend est soumis à l'arbitrage de deux clercs UBI désignés par le Grand Coffrier, sans publication au registre ouvert.
+
+## Signatures
+
+Fait à Il-Irion le 8 Samonios 543, pour valoir ce que de droit.
+
+Pour Il-Irion : Odran Calev, factor des prêts inter-cités  
+(*Signature* : Odran Calev)
+
+Pour Ther-Félis : Jonn Halet, facteur d'escales  
+(*Signature* : Jonn Halet)
+
+Témoin bancaire UBI : Teren Vask, clerc des scellés privés  
+(*Signature* : Teren Vask)
+
+Droit de garde UBI : mille écus, soit deux pour cent de la valeur du capital, versés avant enregistrement pour conservation du scellé ; part Il-Irion : cinq cents écus ; part Ther-Félis : cinq cents écus.

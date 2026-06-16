@@ -98,14 +98,11 @@ Fait et scellé ce jour, en présence des témoins et des scribes le [DATE] à [
 
 ## Signatures
 
-[EMPLOYEUR]                   [PRESTATAIRE]
-[nom_employeur]               [nom_prestataire]
-[fonction_employeur]          [fonction_prestataire]
-Signature: _______            Signature: _______
+Pour [EMPLOYEUR] : [nom_employeur], [fonction_employeur]  
+(*Signature*: [nom_employeur])
 
-## Témoins
-- [témoin_1]
-- [témoin_2]
+Pour [PRESTATAIRE] : [nom_prestataire], [fonction_prestataire]  
+(*Signature*: [nom_prestataire])
 
 ## Notes
 - Style simple et direct

@@ -7,7 +7,7 @@ Ces mouvements ne creent pas de contrat archive. Ils ne doivent donc pas produir
 Ils sont inscrits uniquement dans le registre comptable :
 
 ```text
-Groupes\Banquiers - UBI\3 - Comptabilite\registre_Comptable_UBI_Archives.md
+Groupes\Banquiers - UBI\3- Compta & registres\registre_Comptable_UBI_Archives.md
 ```
 
 ## Nature des mouvements

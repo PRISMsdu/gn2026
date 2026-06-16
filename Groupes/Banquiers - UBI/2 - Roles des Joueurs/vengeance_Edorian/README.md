@@ -12,11 +12,11 @@ S'il arrive malheur à Edorian (UBI), Ydria Ventoss (UBI, trésorière), Selvara
 
 ## Paquets par cité
 
-- Paquet Palyr : copies officielles des contrats VIP liés à Palyr, plus une lettre de protection adressée à un relais palyrien.
-- Paquet Arthas : copies officielles des contrats VIP liés à Arthas, plus une lettre de protection adressée à un relais arthasien.
-- Paquet Ther-Félis : copies officielles des contrats VIP liés à Ther-Félis, plus une lettre de protection adressée à un relais ther-félisien.
-- Paquet Sfaal : copies officielles des contrats VIP liés à Sfaal, plus une lettre de protection adressée à un relais sfaalien.
-- Paquet Il-Irion : copies officielles des contrats VIP liés aux familles d'Il-Irion, plus une lettre de protection adressée à une personne capable de faire trembler la coalition.
+- Paquet Palyr : copies officielles `DC-IV-546-017`, `DC-IV-546-018`, `DC-IV-547-019` et `DC-IV-547-020`, plus une lettre de protection adressée à un relais palyrien.
+- Paquet Arthas : copies officielles `DC-IV-546-009`, `DC-IV-546-010`, `DC-IV-547-011` et `DC-IV-547-012`, plus une lettre de protection adressée à un relais arthasien.
+- Paquet Ther-Félis : copies officielles `DC-IV-546-013`, `DC-IV-546-014`, `DC-IV-547-015` et `DC-IV-547-016`, plus une lettre de protection adressée à un relais ther-félisien.
+- Paquet Sfaal : copies officielles `DC-IV-546-021`, `DC-IV-546-022`, `DC-IV-547-023` et `DC-IV-547-024`, plus une lettre de protection adressée à un relais sfaalien.
+- Paquet Il-Irion : copies officielles `DC-IV-542-001`, `DC-IV-543-002`, `DC-IV-543-003`, `DC-IV-544-004`, `DC-IV-544-005`, `DC-IV-545-006`, `DC-IV-545-007` et `DC-IV-546-008`, plus une lettre de protection adressée à une personne capable de faire trembler la coalition.
 
 ## Rôle possible de Marda
 
@@ -26,6 +26,6 @@ Marda Velyss (Tripot, Ulghart) n'est pas une cible prioritaire dans ce mécanism
 
 - `lettre_modele_protection_equipe_UBI.md` : modèle de lettre à adapter pour chaque paquet de cité.
 
-## Anciennes pièces de perturbation
+## Lettres de perturbation
 
-Les lettres et faux contrats déjà présents dans ce dossier peuvent encore servir à créer de la confusion entre familles d'Il-Irion. Ils ne remplacent pas les paquets de protection fondés sur les contrats VIP officiels.
+Les lettres présentes dans ce dossier peuvent encore servir à créer de la pression entre familles d'Il-Irion et délégations extérieures. Elles s'appuient sur les dossiers `DC-IV` existants, mais elles ne remplacent pas les paquets de protection fondés sur les contrats VIP officiels.

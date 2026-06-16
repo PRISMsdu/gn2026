@@ -102,14 +102,11 @@ Fait et scellé ce jour, en présence des témoins et des scribes le [DATE] à [
 
 ## Signatures
 
-[VENDEUR]                     [ACHETEUR]
-[nom_vendeur]                 [nom_acheteur]
-[fonction_vendeur]            [fonction_acheteur]
-Signature: _______            Signature: _______
+Pour [VENDEUR] : [nom_vendeur], [fonction_vendeur]  
+(*Signature*: [nom_vendeur])
 
-## Témoins
-- [témoin_1]
-- [témoin_2]
+Pour [ACHETEUR] : [nom_acheteur], [fonction_acheteur]  
+(*Signature*: [nom_acheteur])
 
 ## Notes
 - Style simple et direct

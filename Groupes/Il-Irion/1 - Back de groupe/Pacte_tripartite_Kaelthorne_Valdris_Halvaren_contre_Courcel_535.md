@@ -1,0 +1,111 @@
+<!--
+  Pièce joueur — remise selon décision MJ (Il-Irion, Banquiers, Tripot, Edorian).
+  Sources : UBI_Edorian_Directeur_general.md (ch. III — dossier Courcel, faillite, neutralisation) ;
+  Historique_Il-Irion.md ; Intrigue_Il-Irion.md ; back_joueur_Cyrion_Valdris.md.
+  Objet : pacte tripartite Kaelthorne / Valdris / Halvaren pour arrêter, discréditer et isoler la Maison Courcel.
+  Aucune mention de meurtre ni de violence physique dans le texte du pacte.
+  Date in-univers : 535 (il y a douze ans). Scellé privé, hors registre ouvert.
+  Export PDF : Scripts/export_doc.ps1.
+-->
+
+# Pacte d'entente patricienne
+
+ACCORD TRIPARTITE CONFIDENTIEL  
+Référence : AL-IV-535-KVH-COU-01  
+Classement : IV — scellé privé entre maisons d'Il-Irion
+
+En l'an 535 du IVe âge de Krondaar, le 18 du mois de Equos, il est conclu le présent pacte entre :
+
+La Maison Kaelthorne, représentée par messire Selvian Kaelthorne, patriarche, agissant pour les intérêts financiers et les créances de la maison auprès des greffes du Levant.
+
+La Maison Valdris, représentée par dame Lysara Valdris, cheffe de maison, agissant pour la voix patricienne de la maison dans les salons, les nominations et les attestations d'honneur.
+
+Et la Maison Halvaren, représentée par messire Helven Halvaren, patriarche, agissant pour la surveillance des démarches et la sûreté des personnes et biens liés au présent pacte.
+
+Les trois maisons sont citoyennes d'Il-Irion. Le présent acte vise la Maison Courcel, famille de greffiers et de commis de registres établie sur le port d'Il-Irion.
+
+Le pacte n'est déposé qu'en triple exemplaire scellé. Il n'apparaît pas au registre ouvert de l'Union bancaire d'Il-Irion.
+
+## Article premier — Objet commun
+
+Les trois maisons s'associent pour arrêter, discréditer et isoler la Maison Courcel sur Il-Irion et, dans la mesure du possible, sur le Levant confédéral.
+
+La Maison Courcel reconstituait des notes sur des réévaluations de taux, des transferts dissimulés et des prête-noms impliquant notamment les maisons Kaelthorne et Valdris. Les signataires entendent empêcher la publication de ces notes, couper les relais de crédit de la Maison Courcel et la tenir hors des circuits où se nouent réputation et influence patricienne.
+
+Le présent pacte ne vise aucune atteinte corporelle. Il autorise seulement des mesures commerciales, sociales, financières et administratives.
+
+## Article deuxième — Mesures de la Maison Kaelthorne
+
+La Maison Kaelthorne s'engage à :
+
+- refuser tout cautionnement nouveau au profit d'un agent ou d'un héritier Courcel ;
+- retarder ou refuser l'ouverture de lignes de crédit portant la signature ou la recommandation Courcel, sauf ordre écrit conjoint des trois maisons ;
+- présenter, de concert avec les créanciers qu'elle contrôle, les dettes Courcel aux échéances les moins favorables à la maison ;
+- retirer aux commis Courcel l'accès aux salles de chiffre où se préparent les reports inter-maisons.
+
+Selvian Kaelthorne transmet à Lysara Valdris et à Helven Halvaren, dans les quinze jours qui suivent toute saisine ou toute demande de garantie émanant de la Maison Courcel.
+
+## Article troisième — Mesures de la Maison Valdris
+
+La Maison Valdris s'engage à :
+
+- ne plus inviter la Maison Courcel aux banquets, salons et cérémonies où se distribuent recommandations et mariages d'intérêt ;
+- laisser circuler, par bouche sûre, que les registres tenus par les Courcel comportent des irrégularités de dates et de contresceaux ;
+- refuser toute attestation d'honneur ou de solvabilité au nom de la Maison Courcel devant les greffes confédéraux ;
+- bloquer toute nomination Courcel à un poste visible auprès de l'UBI, d'un consulat de quai ou d'une chambre patricienne.
+
+Lysara Valdris informe les deux autres maisons avant tout mariage, parrainage ou contrat qui pourrait réintroduire la Maison Courcel dans le réseau patricien.
+
+## Article quatrième — Mesures de la Maison Halvaren
+
+La Maison Halvaren s'engage à :
+
+- relever les démarches des agents Courcel auprès des greffes, des entrepôts et des embarcadères, et en rendre compte aux deux autres maisons ;
+- refuser escorte, garde et recommandation commerciale aux convois ou aux personnes se réclamant de la Maison Courcel ;
+- signaler aux capitaineries amies tout changement de pavillon ou de prête-nom utilisé par un Courcel pour contourner l'isolement ;
+- protéger les messagers des trois maisons qui transportent les copies du présent pacte.
+
+Helven Halvaren n'est pas tenu d'ouvrir les portes des maisons Kaelthorne ou Valdris aux agents Courcel. Il ne reçoit pas non plus instruction d'employer la force contre une personne, seulement de refuser service, escorte et accès.
+
+## Article cinquième — Coordination
+
+Les trois maisons se réunissent au moins une fois par trimestre, ou sur convocation écrite de l'une d'elles, pour comparer les notes sur la Maison Courcel.
+
+Aucune maison ne lève seule l'isolement imposé par le pacte. Toute ouverture de crédit, invitation ou attestation favorable à un Courcel requiert l'accord écrit des trois signataires ou de leurs successeurs désignés en annexe.
+
+Si une maison manque à ses engagements, les deux autres peuvent suspendre leurs propres garanties réciproques jusqu'à exécution.
+
+## Article sixième — Durée
+
+Le pacte court du 18 Equos 535 pour une durée de douze ans, renouvelable par écrit des trois maisons.
+
+Il peut être dénoncé avant terme seulement si la Maison Courcel a quitté Il-Irion sans laisser d'héritier exerçant auprès des greffes du Levant, ou si les trois maisons constatent par procès-verbal qu'aucun membre de la maison ne détient plus de note compromettante sur les signataires.
+
+## Article septième — Discrétion
+
+Les parties ne remettent pas le présent pacte au greffe ouvert, au conseguès confédéral ni à une cité tierce.
+
+Aucune copie intégrale ne peut être remise à un Courcel. En cas de fuite, les trois maisons conviennent d'abord de la source avant toute réponse publique.
+
+La mention du pacte dans une conversation de salon vaut violation si elle permet d'identifier les clauses et les signatures.
+
+## Article huitième — Litiges entre les maisons signataires
+
+Tout différend sur l'application du pacte est d'abord porté entre les patriarches ou cheffes de maison.
+
+Si aucun accord n'est trouvé dans trente jours, le différend est soumis à un arbitre patricien d'Il-Irion choisi à l'unanimité, sans publication au registre ouvert.
+
+## Signatures
+
+Fait en trois exemplaires scellés le 18 Equos 535, pour valoir ce que de droit.
+
+Pour la Maison Kaelthorne : Selvian Kaelthorne, patriarche  
+(*Signature* : Selvian Kaelthorne)
+
+Pour la Maison Valdris : Lysara Valdris, cheffe de maison  
+(*Signature* : Lysara Valdris)
+
+Pour la Maison Halvaren : Helven Halvaren, patriarche  
+(*Signature* : Helven Halvaren)
+
+Annexe scellée (distribution interne) : messire Cyrion Valdris et messire Seraphin Kaelthorne sont désignés comme porteurs des convocations trimestrielles pour leurs maisons respectives, sous la responsabilité de leurs patriarches.

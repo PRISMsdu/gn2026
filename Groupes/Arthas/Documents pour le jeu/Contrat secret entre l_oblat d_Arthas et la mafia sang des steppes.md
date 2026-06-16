@@ -1,0 +1,35 @@
+# Accord confidentiel Arthas–Fraternité des Sangs des Steppes
+
+Pièce UBI : MN-II-547-023 ; convention de mandat standard de classe II ; dépôt 547-X-17 ; Arthas ↔ Fraternité des Sangs des Steppes ; consignée au registre courant sous scellé.
+
+Document scellé ; enregistré à l’UBI comme pièce standard de classe II ; référence MN-II-547-023 ; conservation sous coffre UBI.
+
+<div style="font-family: 'Segoe Script', 'Bradley Hand ITC', cursive; font-size: 9pt; font-style: italic; line-height: 1.18;">
+
+ACCORD CONFIDENTIEL DE COMMERCE ET DE PROTECTION
+
+Que ce document demeure scellé et tenu à l'écart des regards indiscrets.
+
+Le présent accord est conclu en toute connaissance de cause entre Valerian Marvek, Oblat de la cité d'Arthas, agissant en son nom propre et au nom de certains intérêts marchands de ladite cité, et la Fraternité des Sangs des Steppes, organisation marchande et fraternelle opérant sur les routes continentales et les territoires de l'Est.
+
+**Article I — Nature de l'accord** : la Fraternité des Sangs des Steppes accorde à Valerian Marvek et à ses représentants un droit privilégié de commerce et de circulation sur certaines routes continentales placées sous leur influence. En échange, Valerian Marvek facilite l'acheminement discret de certaines marchandises appartenant à la Fraternité à bord de convois marchands relevant d'Arthas. Lesdites marchandises ne feront l'objet d'aucune inspection, saisie ou déclaration auprès des autorités confédérales.
+
+**Article II — Compensations** : en reconnaissance des services rendus, Valerian Marvek reçoit une part équivalente à dix pour cent de la valeur totale de chaque échange ou cargaison transitant dans le cadre du présent accord. Cette compensation pourra être versée en écus, en marchandises rares ou sous toute autre forme convenue entre les parties. Les versements seront effectués par l'intermédiaire d'agents désignés par la Fraternité afin de garantir la discrétion nécessaire à la poursuite de ces échanges.
+
+**Article III — Discrétion** : les termes du présent accord demeurent secrets. Ni le Conseil des Oblats, ni les autorités confédérales, ni les cités alliées ne doivent avoir connaissance de l'existence de cet arrangement. Toute révélation de cet accord pourrait provoquer des conséquences graves pour les parties impliquées.
+
+**Article IV — Rupture** : si Valerian Marvek manquait à ses engagements — notamment en empêchant les convois convenus, en révélant les activités de la Fraternité ou en tentant de rompre unilatéralement cet accord — la Fraternité des Sangs des Steppes se réserverait le droit de réclamer réparation. La Fraternité rappelle qu'elle dispose d'agents, d'amis et de débiteurs dans de nombreuses cités, ports et routes commerciales. Dans une telle situation, la sécurité personnelle de Valerian Marvek ne pourrait plus être garantie. Les Sangs des Steppes ne sauraient être tenus responsables des conséquences qui pourraient découler d'une telle rupture, y compris celles qui pourraient mettre en péril la vie même de l'Oblat.
+
+**Article V — Clause de garantie** : la Fraternité des Sangs des Steppes agit selon les lois anciennes des routes et des steppes : tout pacte scellé doit être honoré. Si l'une des parties trahissait la parole donnée, détournait les cargaisons convenues ou tentait de révéler l'existence du présent accord aux autorités confédérales, la Fraternité se réserverait le droit d'exiger réparation selon ses propres usages. Les signataires reconnaissent que ces usages peuvent inclure des mesures définitives à l'encontre de ceux qui rompent leurs engagements.
+
+**Article VI — Sceau** : le présent accord est scellé par les marques des deux parties, en signe de reconnaissance mutuelle et d'engagement. Que ce pacte demeure dans l'ombre tant que ses termes seront respectés.
+
+Scellé et signé.
+
+Pour Arthas : Valerian Marvek, Oblat d'Arthas  
+(*Signature*: Valerian Marvek)
+
+Pour la Fraternité des Sangs des Steppes  
+(*Signature*: mandataire des Sangs des Steppes)
+
+</div>

@@ -30,7 +30,7 @@ Créez une copie du template avec un nouveau nom suivant la convention :
 ```
 [CODE].md
 ```
-où `[CODE]` suit le format **`TT-R-YYY-NNN`** décrit dans `Registre_UBI_Orga.md` (deux lettres de type, criticité romaine **I** à **IV**, année in-univers sur trois chiffres, numéro séquentiel **global dans l’année** sur trois chiffres), **unique** dans tout le dossier — à réserver dans `Registre_UBI_Orga.md` *avant* de figer le fichier (y compris si le document est antidaté in-univers).
+où `[CODE]` suit le format **`TT-R-YYY-NNN`** décrit dans `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` (deux lettres de type, criticité romaine **I** à **IV**, année in-univers sur trois chiffres, numéro séquentiel **global dans l’année** sur trois chiffres), **unique** dans tout le dossier — à réserver dans `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` *avant* de figer le fichier (y compris si le document est antidaté in-univers).
 
 Exemples :
 - `CO-II-545-001.md` (contrat commercial)
@@ -194,7 +194,7 @@ L'IA pourra alors créer un contrat en s'inspirant des exemples existants (`CO-I
 - **Témoins** : Liste des témoins (optionnel)
 
 ### Fichiers pièces
-- Chaque document publié dans ce dossier porte un nom **`[CODE].md`** avec **`[CODE]`** au format **`TT-R-YYY-NNN`**, attribué dans `Registre_UBI_Orga.md` (**`YYY`** = année du dépôt ; **`NNN`** = rang dans l’année, compteur global par année — voir registre).
+- Chaque document publié dans ce dossier porte un nom **`[CODE].md`** avec **`[CODE]`** au format **`TT-R-YYY-NNN`**, attribué dans `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` (**`YYY`** = année du dépôt ; **`NNN`** = rang dans l’année, compteur global par année — voir registre).
 
 ## 📚 Références
 
@@ -208,15 +208,15 @@ Pour voir des exemples de contrats remplis, consultez :
 2. **Conservez la structure** : Respectez la structure des sections pour maintenir la cohérence
 3. **Variables obligatoires** : Certaines variables sont essentielles (dates, noms, montants) - ne les oubliez pas
 4. **Clause standardisée** : La section "De la Loi et de l'Honneur" doit rester identique dans tous les contrats
-5. **Enregistrement** : Après création, enregistrez le contrat dans le `Registre_UBI_Orga.md` (voir section ci-dessous)
+5. **Enregistrement** : Après création, enregistrez le contrat dans le `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` (voir section ci-dessous)
 
 ## 📝 Enregistrement dans le Registre UBI
 
-Après avoir créé un contrat, il est **obligatoire** de l'enregistrer dans le `Registre_UBI_Orga.md` pour qu'il soit officiellement reconnu et archivé par l'Union Bancaire d'Il-Irion.
+Après avoir créé un contrat, il est **obligatoire** de l'enregistrer dans le `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` pour qu'il soit officiellement reconnu et archivé par l'Union Bancaire d'Il-Irion.
 
 ### Étape 1 : Déterminer la référence (code pièce)
 
-La **référence** est le **code pièce** `TT-R-YYY-NNN`, **identique au nom du fichier** (sans `.md`) — voir `Registre_UBI_Orga.md` :
+La **référence** est le **code pièce** `TT-R-YYY-NNN`, **identique au nom du fichier** (sans `.md`) — voir `Groupes/Banquiers - UBI/3- Compta & registres/Registre_UBI_Orga.csv` :
 - **`YYY`** : année in-univers du dépôt (colonne *Date de Dépôt*).
 - **`NNN`** : rang **global dans l’année** (001, 002, …) : comptez combien de pièces sont déjà enregistrées pour cette année dans le tableau, puis attribuez le suivant.
 - Exemples existants : `CO-II-545-001`, `DE-II-546-001`, `CP-III-542-001`.

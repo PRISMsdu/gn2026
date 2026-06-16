@@ -113,7 +113,17 @@ En l'an 535, tu as seize ans. Un bookmaker te propose trois couronnes pour rempl
 
 Au premier corps à corps, tu reconnais Lira. Elle porte la même cicatrice au poignet : brûlure de gouttière, nuit du feu de 525. Elle t'a crue morte ; tu l'as crue morte aussi. Vous vous figez une seconde ; la foule siffle. Vous finissez le round sans vous blesser pour de vrai : coups mesurés, pas de haine. Après le gong, vous descendez par la trappe de service.
 
-Vous recoupez la nuit de 525. Shadow t'avait sortie par le palier et la cour ; Lira était passée par la fenêtre du couloir bas. Vous vous étiez perdues de vue dans le même incendie, chacune croyant l'autre morte. Vous ne remontez plus sur un ring l'une contre l'autre. Vous passez aux cercles de jeu du port : tu lis les mains et les visages, elle oriente la salle.
+Vous recoupez la nuit de 525. Shadow t'avait sortie par le palier et la cour ; Lira était passée par la fenêtre du couloir bas. Vous vous étiez perdues de vue dans le même incendie, chacune croyant l'autre morte.
+
+## Mort du quai Est — après le combat de 535
+
+La soirée ne se ferme pas proprement après votre départ par la trappe. Des parieurs refusent de perdre leur mise sur un combat qui n'a pas donné de victoire nette. Les hommes du ring bloquent la caisse ; deux collecteurs veulent reprendre les bourses avant que la salle se vide. Une bagarre éclate dans l'escalier de cave.
+
+Un homme meurt dans la mêlée. Tu ne l'as pas frappé. Lira ne l'a pas frappé non plus. Vous étiez déjà dans le couloir bas, en train de recouper l'incendie de 525 et les années où chacune croyait l'autre morte.
+
+Les organisateurs du ring ont ensuite laissé circuler une version utile pour eux : les deux Vestrann avaient quitté le combat, les parieurs s'étaient battus à cause de vous, et le mort du quai Est pouvait rester attaché à vos noms. Aucun procès ne vous a rattrapées, mais dans les caves d'Il-Irion, ce mort est resté une dette sans papier.
+
+Après cette nuit, vous ne remontez plus sur un ring l'une contre l'autre. Vous passez aux cercles de jeu du port : tu lis les mains et les visages, elle oriente la salle.
 
 ## Passage à Palyr — tables et habitués
 
@@ -130,6 +140,16 @@ En l'an 537, il y a dix ans, Marda Velyss reprend le casino du fort d'Ulghart ap
 Tu connais les habitués, leurs phrases, leurs absences. Samvel et Theodran Varek te confirment ce que tes yeux soupçonnent déjà : un visage vu deux fois la même nuit, un messager qui ne joue pas, un parieur qui regarde les sorties plus que les cartes. Avec Éliane, tu ajustes les mains et les cotes quand Marda l'ordonne.
 
 Tu repères les addicts : souffle court, main qui revient malgré la ruine, phrase qu'ils se répètent avant de remiser. Tu n'en es pas une : tu as grandi dans la misère, pas dans la dépendance au tapis. Tu les cadres pour la maison : pousser une cote, laisser croire à une chance, orienter vers Lira pour une dette signée en salon. Marda tranche le risque ; Ysabeau reçoit le VIP avant que la dette ne devienne politique.
+
+## Il y a un mois — taverne du bas port d'Il-Irion
+
+Il y a un mois, pendant un week-end de pause à Il-Irion, un intermédiaire de la Guilde des Ports Unis vous retrouve. Il se présente sous le nom de Veric Main-Rapide, relais de quai chargé d'une affaire urgente. Il connaît le mort du quai Est, la date du combat et assez de détails sur l'escalier de cave pour rendre l'accusation dangereuse.
+
+Il vous propose 1 000 couronnes pour déclencher une grosse bagarre dans une taverne du bas port, à une heure précise. La somme est énorme pour une simple rixe. Elle masque probablement autre chose : un vol, une extraction ou un assassinat dans une rue voisine.
+
+La bagarre a lieu. Des tables cassent, la garde du quartier arrive, et les rues proches se vident assez longtemps pour que personne ne regarde ailleurs. Le versement doit passer après coup par Veric Main-Rapide. Le contact de la Guilde disparaît avant le lendemain.
+
+Marda ne sait rien de cette affaire. Au Tripot, elle interdit normalement à son équipe de travailler pour son compte, surtout pendant une période où la maison doit tenir ses registres, ses clients et ses dettes sans attirer une enquête.
 
 ## Convention et régate — Ulghart, 547
 
@@ -157,6 +177,7 @@ Tu tiens les tables où l'or circule le plus vite. Tu repères tricheurs et pari
 - Signaux sur les parieurs addicts : si le brief de table les active, tu es le relais principal avec Lira. Ce ne sont pas vos addictions à vous ; ce sont des outils pour servir la maison, validés par Marda.
 - Shadow : sauvetage de la nuit de 525 ; aides anonymes ensuite (argent, dettes payées, contrats empêchés, filatures coupées). Tu ne connais pas son visage. Tu ignores s'il est à Ulghart. S'il se présente avec une preuve solide, il peut réclamer un service, un silence ou un accès au Tripot.
 - Rings illégaux du bas port (vers 532–535) : surnoms « la puce » / « Vestrann ». Retrouvailles avec Lira en 535 au quai Est — ne pas en parler en salle devant des clients du bas port.
+- Il y a un mois, un intermédiaire de la Guilde des Ports Unis vous a fait chanter avec le mort du quai Est pour déclencher une bagarre à Il-Irion. La somme promise était de 1 000 couronnes. Le versement devait passer par Veric Main-Rapide. Marda ne sait rien.
 - Ne montre pas les codes orientés addicts hors scène convenue — révélations en jeu seulement.
 
 # Connaissances
