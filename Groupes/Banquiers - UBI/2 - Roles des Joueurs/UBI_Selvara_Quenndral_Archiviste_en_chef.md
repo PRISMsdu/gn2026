@@ -106,7 +106,7 @@ Melian signe les bénédictions sur les actes que tu rédiges. Il sait que certa
 
 Corvus tient les combinaisons des coffres. Les codes que tu as mémorisés, il les met à jour. Sans sa coopération, l'inventaire de passation ne peut pas se faire dans les formes.
 
-Le réseau érudit entretenu à Sfaal et Il-Irion reste ta porte de sortie si le plan s'effondre. Ces contacts peuvent t'accueillir sous un autre nom, mais ils ne doivent pas savoir ce que tu as fait à l'UBI.
+Le réseau détaillé sous Connaissances reste ta porte de sortie si le plan s'effondre : Lucan Marivent, Isar Dornelis, Fenric Ossel, Daya Guelendag, Rym Naksane, Lysa Morwyn et Ilara Vandesse. Aucun ne doit savoir ce que tu as fait à l'UBI avant que tu sois partie.
 
 ---
 
@@ -115,7 +115,7 @@ Le réseau érudit entretenu à Sfaal et Il-Irion reste ta porte de sortie si le
 - **Registres de passation** : remettre au nouveau conseil des registres cohérents, capables de tenir face à un audit de routine.
 - **Actes de couverture** : finaliser les actes qui donnent une apparence légale aux mouvements d'or du dernier trimestre.
 - **Copies personnelles** : protéger tes copies compromettantes ; elles ne partent pas dans le plan collectif.
-- **Réseau érudit** : garder ouverte une issue vers Sfaal ou Il-Irion si la situation se retourne avant la Régate.
+- **Réseau érudit** : maintenir le lien avec les contacts listés sous Connaissances sans leur livrer la série interne ni tes copies personnelles.
 
 
 
@@ -157,11 +157,39 @@ Tes copies sont hors du circuit collectif. Elles incluent des correspondances de
 
 Ces pièces ne servent pas à sauver l'UBI. Elles servent à négocier ta protection si Edorian, Ydria ou un autre membre du noyau tente de te laisser porter seule les falsifications.
 
-## Réseau érudit — Sfaal et Il-Irion
+## Réseau érudit et contacts extérieurs — Sfaal, Il-Irion, Palyr, Tripot
 
-Tes contacts extérieurs sont des archivistes, des traducteurs et des professeurs de droit coutumier. Ils savent que tu es compétente. Ils ne savent pas que tu as falsifié des registres pour l'UBI.
+Tu as constitué ce réseau entre dix-huit et trente-cinq ans, d'abord aux greffes et maisons d'archives d'Il-Irion, puis aux Conventions confédérales. Ces personnes te connaissent comme archiviste : lecture rapide des actes, vérification des sceaux, discrétion sur les liasses consultées. Aucune ne sait que tu tiens deux séries de registres à Ulghart ni que tu as falsifié des actes pour le conseil sortant.
 
-Si la passation tourne mal, ce réseau peut te fournir un nom, un refuge ou un emploi discret. Une pièce trop complète les obligerait à comprendre le plan avant ta sortie du fort et les rendrait dangereux pour toi.
+## Lucan Marivent (Il-Irion, juriste)
+
+Lucan Marivent est juriste de la délégation d'Il-Irion. Il porte les plaintes, les procédures et les écrits confédéraux liés aux dépôts et aux griefs entre cités. Tu l'as croisé aux greffes d'Il-Irion quand tu vérifiais les actes entrants. À Ulghart, il intervient en commission sur la forme des actes : dates, souches, attributions, sacralité des dépôts. Il travaille aux côtés de Cyrion Valdris sur le volet juridique de la coalition ilirionienne.
+
+## Isar Dornelis (Il-Irion, renseignement)
+
+Isar Dornelis tient le renseignement pour la maison Dornelis au sein de la coalition d'Il-Irion. Sa fonction couvre les rumeurs, les audits annoncés et les réseaux de la délégation à la Convention. Tu l'as vu circuler entre les greffes, les couloirs de la banque et les délégations avant l'ouverture des séances.
+
+## Fenric Ossel (Tripot, maître des registres)
+
+Fenric Ossel est maître des registres au Tripot. Il tient les livres de compte pour Marda Velyss. Il a travaillé à Il-Irion et à Ther-Félis avant d'arriver au fort, il y a dix ans. Tu l'as reconnu dès ta première année à Ulghart : même vocabulaire de souches, de totaux et de registres soumis à inspection.
+
+## Daya Guelendag (Sfaal, trésorière)
+
+Daya Guelendag est trésorière de la délégation de Sfaal. Elle est mandatée pour examiner les coffres et les comptes de Sfaal à la banque d'Ulghart pendant la Convention. Les consultations passent par toi pour les scellés inter-cités, l'ordre des liasses et les actes de dépôt. Vous vous croisez dans les mêmes salles que les autres trésoriers des cinq cités.
+
+## Rym Naksane (Sfaal, diplomate et marchande)
+
+Rym Naksane est marchande et diplomate de Sfaal. Elle conseille Synex Aliriis, chef de la délégation, et négocie les routes commerciales liées à l'acier. Tu la connais de Sfaal, avant la chute de ta famille : elle fréquentait déjà les maisons qui commandaient des traductions et des expertises de sceaux. À Ulghart, elle défend publiquement la qualité du fer de Sfaal et les contrats de chargement.
+
+## Lysa Morwyn (Palyr, trésorière)
+
+Lysa Morwyn est trésorière de la délégation de Palyr. Elle est présente à Ulghart pour les questions de coffre, de dépôt et de passation qui concernent Palyr. Les accès aux chambres closes et la correspondance entre registre et coffre passent par ton service d'archiviste en chef.
+
+## Ilara Vandesse (Palyr, diplomate)
+
+Ilara Vandesse est diplomate de Palyr. Elle porte le mandat de sa cité sur le vote du conseil UBI et intervient en commission sur les procédures confédérales. Tu la connais d'Il-Irion : elle y a fait sa formation, aux mêmes années où tu travaillais aux greffes et aux archives. Vous vous êtes croisées sur des liasses, des séances préparatoires et des procès-verbaux.
+
+Depuis sa formation à Il-Irion, elle estime que la banque retient trop d'actes hors de portée des autres cités, au profit surtout d'Il-Irion. En séance, elle attaque d'abord les procédures de verrouillage, avant de défendre un contrat ou un dépôt précis de Palyr. Tu ignores quel vote elle déposera à Ulghart. Tu la connais depuis les greffes : ambitieuse, patiente, peu satisfaite du fonctionnement actuel de la banque.
 
 ---
 

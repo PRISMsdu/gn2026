@@ -27,6 +27,9 @@ Registre joueur des contrats et pièces déposés à partir du 1er Equos 542. Le
 | RD-III-543-004 | Contrat de dette | Il-Irion ↔ Arthas | Non renseigné | Non renseigné | 543-VI-03 | Non renseignée | Déposé |
 | CP-III-543-001 | Correspondance | Dame Lysara Valdris ↔ Maître Aldric Portmaster | Non renseigné | Non renseigné | 543-VI-05 | Non renseignée | Déposé |
 | TR-I-543-006 | Contrat de transport | Ther-Félis ↔ Arthas | 2'400 couronnes | 48 couronnes | 543-VI-18 | 543-VII-10 | Exécuté, soldé, classé |
+| SE-III-543-011 | Contrat de service | Ther-Félis ↔ Guilde des Ports Unis | 800 couronnes | 16 couronnes | 543-VI-22 | 547-VI-21 | En vigueur |
+| DE-IV-543-012 | Contrat de dette | Il-Irion ↔ Arthas | 50'000 écus | 1'000 écus | 543-VIII-03 | 547-XI-30 | En vigueur |
+| DE-IV-543-011 | Contrat de dette | Il-Irion ↔ Ther-Félis | 50'000 écus | 1'000 écus | 543-VIII-08 | 547-XI-30 | En vigueur |
 | EC-I-543-010 | Contrat d'exclusivité | Sfaal ↔ Arthas | 3'500 couronnes | 70 couronnes | 543-VIII-21 | 543-XII-21 | Exécuté, soldé, classé |
 | DE-IV-543-005 | Contrat de dette | Palyr ↔ Arthas | 19'350 couronnes | 387 couronnes | 543-XI-07 | 543-XII-11 | Exécuté, soldé, classé |
 | DE-IV-543-001 | Contrat de dette | Il-Irion ↔ Ther-Félis | 15'750 couronnes | 315 couronnes | 543-XII-07 | 544-III-21 | Exécuté, soldé, classé |
@@ -52,6 +55,7 @@ Registre joueur des contrats et pièces déposés à partir du 1er Equos 542. Le
 | CO-II-545-001 | Contrat commercial | Sfaal ↔ Palyr | Non renseigné | Non renseigné | 545-I-01 | Non renseignée | Déposé |
 | SE-I-545-009 | Contrat de service | Sfaal ↔ Il-Irion | 1'250 couronnes | 25 couronnes | 545-II-11 | 545-II-28 | Exécuté, soldé, classé |
 | EC-I-545-008 | Contrat d'exclusivité | Palyr ↔ Ther-Félis | 4'000 couronnes | 80 couronnes | 545-III-14 | 545-IX-14 | Exécuté, soldé, classé |
+| CP-IV-545-013 | Correspondance | Dorian Marest ↔ Aquilea | 18'500 couronnes | 370 couronnes | 545-III-14 | 548-II-28 | En vigueur |
 | TR-I-545-011 | Contrat de transport | Il-Irion ↔ Sfaal | 2'300 couronnes | 46 couronnes | 545-V-08 | 545-IX-01 | Exécuté, soldé, classé |
 | AL-IV-545-003 | Accord commercial | Sfaal ↔ Il-Irion | 20'000 couronnes | 400 couronnes | 545-VIII-02 | 545-IX-23 | Exécuté, soldé, classé |
 | EN-I-545-012 | Convention d'entrepôt | Palyr ↔ Arthas | 1'900 couronnes | 38 couronnes | 545-VIII-03 | 545-XII-03 | Exécuté, soldé, classé |

@@ -122,6 +122,10 @@ Tu dois agir avant la passation du conseil UBI. Après la passation, Cyrion Vald
 
 Tu as bâti cet axe sur plusieurs années. Arthas veut une alternative bancaire aux structures d'Il-Irion. Palyr propose d'assurer la garde des coffres d'une nouvelle institution. Les termes sont en cours de négociation. Tu peux avancer avec Aurelian Marvek pour la position politique et avec Cassiane Jakmar pour les accords commerciaux. Ce dossier est connu de Corvyn ; les détails techniques restent entre toi et Arthas.
 
+## Selvara Quenndral — archiviste en chef (UBI)
+
+Selvara Quenndral est archiviste en chef de l'UBI à Ulghart. Elle est originaire de Sfaal et a travaillé aux greffes et aux archives d'Il-Irion avant sa nomination, il y a cinq ans. Tu l'as connue pendant ta formation à Il-Irion : vous vous croisiez sur les liasses, les séances préparatoires et les procès-verbaux. À la Convention, elle tient les scellés inter-cités, l'ordre des consultations et les actes de dépôt. Toute demande d'accès aux archives de la banque repasse par son service.
+
 ## Dossier corruption UBI — usage politique
 
 Le dossier de preuves documente les détournements du conseil UBI sous Edorian. Tu ne l'utilises pas en un seul bloc. Tu identifies les preuves qui suffisent à faire basculer une délégation en commission et tu les sors au moment où le vote est le plus proche. Lysa tient les originaux. Tu tiens les copies utiles en séance.

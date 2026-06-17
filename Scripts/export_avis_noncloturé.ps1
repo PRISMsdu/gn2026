@@ -1,7 +1,8 @@
 <#
   Variante non clôturée de export_avis.ps1.
-  Elle utilise le rendu archives A4, le blason UBI et les sceaux,
+  Elle utilise le rendu archives A4 et les sceaux,
   sans tampon de clôture dans le coin du document.
+  Blason : dossier du .md, puis LivretsLocaux/Blasons (voir Resolve-ExportBlasonPath.ps1).
 #>
 
 [CmdletBinding()]
@@ -27,8 +28,8 @@ $previousCssPath = $env:GN_AVIS_CSS_PATH
 $previousBlasonPath = $env:GN_AVIS_BLASON_PATH
 $previousSignatureSeals = $env:GN_AVIS_SIGNATURE_SEALS
 $previousArchiveStampText = $env:GN_AVIS_ARCHIVE_STAMP_TEXT
-$env:GN_AVIS_CSS_PATH = "avis_archives_print.css"
-$env:GN_AVIS_BLASON_PATH = "Groupes\Banquiers - UBI\1 - Back de groupe\Blason_UBI.png"
+$env:GN_AVIS_CSS_PATH = "avis_noncloture_print.css"
+Remove-Item Env:\GN_AVIS_BLASON_PATH -ErrorAction SilentlyContinue
 $env:GN_AVIS_SIGNATURE_SEALS = "archives"
 $env:GN_AVIS_ARCHIVE_STAMP_TEXT = "__NO_STAMP__"
 

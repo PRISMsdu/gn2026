@@ -52,6 +52,7 @@ param(
 $ErrorActionPreference = "Stop"
 . (Join-Path $PSScriptRoot "Expand-MarkdownExportSignatures.ps1")
 . (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+. (Join-Path $PSScriptRoot 'Resolve-ExportBlasonPath.ps1')
 $exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
 function ConvertTo-HtmlUriPath {
@@ -274,32 +275,15 @@ try {
 # Supprimer le h1 du corps (il sera affiche dans l'entete)
 $bodyInner = [regex]::Replace($bodyInner, '(?s)<h1[^>]*>.*?</h1>', '', 1)
 
-# --- Blason : chemin force ou detection dans le repertoire du .md ---
+# --- Blason : dossier du .md, puis LivretsLocaux/Blasons, puis chemin force ---
 
 $blasonSrc = ''
-$forcedBlasonPath = $env:GN_AVIS_BLASON_PATH
-if (-not [string]::IsNullOrWhiteSpace($forcedBlasonPath)) {
-  if ([System.IO.Path]::IsPathRooted($forcedBlasonPath)) {
-    $foundBlasonPath = $forcedBlasonPath
-  } else {
-    $foundBlasonPath = Join-Path (Get-Location).Path $forcedBlasonPath
-  }
-  if (-not (Test-Path -LiteralPath $foundBlasonPath)) {
-    Write-Error "GN_AVIS_BLASON_PATH introuvable : $foundBlasonPath"
-  }
+$foundBlasonPath = Resolve-ExportBlasonPath -MarkdownDirectory $mdDir -MarkdownPath $md.Path `
+  -InstitutionNom $InstitutionNom -MarkdownRaw $markdownUtf8Raw -ScriptsRoot $PSScriptRoot `
+  -ForcedBlasonPath $env:GN_AVIS_BLASON_PATH
+if ($foundBlasonPath) {
   $blasonPrint = Optimize-ExportImageForPrint -SourcePath $foundBlasonPath -MaxEdgePx 220 -CacheDir $exportImageCacheDir
   $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
-} else {
-  foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
-    $found = Get-ChildItem -Path $mdDir -File -ErrorAction SilentlyContinue |
-      Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
-      Select-Object -First 1
-    if ($found) {
-      $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
-      $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
-      break
-    }
-  }
 }
 
 if ($blasonSrc) {
@@ -438,7 +422,7 @@ if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
     $archiveStampText = 'Acte execute et clos.'
   }
   if ($archiveStampText -eq '__NO_STAMP__') {
-    $shell = $shell.Replace('__TOP_RIGHT_HTML__', '<div class="avis-archive-corner"><div class="avis-archive-ref">' + $quickRef + '</div></div>')
+    $shell = $shell.Replace('__TOP_RIGHT_HTML__', '')
   } else {
     $archiveStampHtml = [System.Net.WebUtility]::HtmlEncode($archiveStampText)
     $shell = $shell.Replace('__TOP_RIGHT_HTML__', '<div class="avis-archive-corner"><div class="avis-archive-ref">' + $quickRef + '</div><div class="avis-archive-stamp">' + $archiveStampHtml + '</div></div>')

@@ -11,7 +11,7 @@
   Par defaut : pas de bandeau institution (seul un léger ornement sous le titre de page navigateur).
 
   Pour un bandeau du type Union bancaire : -InstitutionLigne "Union bancaire d Il-Irion - Citadelle d Ulghart"
-  Dans ce cas, si un fichier Blason_*.png|jpg existe dans le repertoire du .md, il est inclus comme pour export_avis.
+  Dans ce cas, le blason est cherche dans le dossier du .md, puis dans LivretsLocaux/Blasons.
 
   Exemples (depuis la racine du depot) :
     .\Scripts\export_doc.ps1 -MarkdownPath "Groupes\MiVI\1 - Back de groupe\Lettre_ordre_Oblats_Questeur_Montfou.md"
@@ -67,6 +67,7 @@ param(
 $ErrorActionPreference = 'Stop'
 . (Join-Path $PSScriptRoot 'Expand-MarkdownExportSignatures.ps1')
 . (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+. (Join-Path $PSScriptRoot 'Resolve-ExportBlasonPath.ps1')
 . (Join-Path $PSScriptRoot 'Charte-SignatureLayout.ps1')
 $exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
@@ -327,20 +328,16 @@ $pageTitle = Get-ExtractedPlainFromFirstH1 -Html $bodyInner
 if ([string]::IsNullOrWhiteSpace($pageTitle)) { $pageTitle = $baseName }
 $pageTitleEsc = [System.Net.WebUtility]::HtmlEncode($pageTitle)
 
-# Bandeau optionnel (-InstitutionLigne) : titre institution + blason local éventuel uniquement.
+# Bandeau optionnel (-InstitutionLigne) : titre institution + blason (dossier du .md, puis LivretsLocaux/Blasons).
 $blasonHtml = ''
 $institutionHtml = ''
 if (-not [string]::IsNullOrWhiteSpace($InstitutionLigne)) {
-  foreach ($ext in @('png', 'jpg', 'jpeg', 'webp')) {
-    $found = Get-ChildItem -LiteralPath $mdDir -File -ErrorAction SilentlyContinue |
-      Where-Object { $_.Name -match '^[Bb]lason_.*\.' + $ext + '$' } |
-      Select-Object -First 1
-    if ($found) {
-      $blasonPrint = Optimize-ExportImageForPrint -SourcePath $found.FullName -MaxEdgePx 220 -CacheDir $exportImageCacheDir
-      $rel = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
-      $blasonHtml = '<img src="' + $rel + '" class="avis-blason" alt="" />'
-      break
-    }
+  $foundBlasonPath = Resolve-ExportBlasonPath -MarkdownDirectory $mdDir -MarkdownPath $md.Path `
+    -InstitutionNom $InstitutionLigne -MarkdownRaw $markdownUtf8Raw -ScriptsRoot $PSScriptRoot
+  if ($foundBlasonPath) {
+    $blasonPrint = Optimize-ExportImageForPrint -SourcePath $foundBlasonPath -MaxEdgePx 220 -CacheDir $exportImageCacheDir
+    $rel = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
+    $blasonHtml = '<img src="' + $rel + '" class="avis-blason" alt="" />'
   }
   $institutionHtml = '<div class="avis-institution-nom">' +
     ([System.Net.WebUtility]::HtmlEncode($InstitutionLigne.Trim())) + '</div>'

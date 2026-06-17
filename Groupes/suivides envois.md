@@ -1,6 +1,6 @@
 # Suivi des envois
 
-Rapport généré le 2026-06-13 20:18.
+Rapport généré le 2026-06-17 19:05.
 
 Comparaison des dates de modification entre les rôles `.md` et les exports `.pdf` dans les dossiers joueurs des groupes Tripot, MiVI, Mafia, UBI et Palyr.
 
@@ -16,11 +16,11 @@ Comparaison des dates de modification entre les rôles `.md` et les exports `.pd
 | Statut | Groupe | Fichier MD | Date MD | Fichier PDF | Date PDF | Dernière préparation email |
 |---|---|---|---|---|---|---|
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Corvus_Gardien_des_coffres.md | 2026-06-05 16:57 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Corvus_Gardien_des_coffres_20260605_165857.pdf | 2026-06-05 16:59 | - |
-| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Edorian_Directeur_general.md | 2026-06-13 20:05 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Edorian_Directeur_general_20260613_201329.pdf | 2026-06-13 20:13 | 2026-06-13 20:14:00 |
+| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Edorian_Directeur_general.md | 2026-06-15 10:23 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Edorian_Directeur_general_20260617_185443.pdf | 2026-06-17 18:54 | 2026-06-17 18:54:58 |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Horgrim_Dval_Chef_garde.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Horgrim_Dval_Chef_garde_20260605_165917.pdf | 2026-06-05 16:59 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Kaelen_Veynar_Executeur_contrats.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Kaelen_Veynar_Executeur_contrats_20260605_165931.pdf | 2026-06-05 16:59 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Melian_Torv_Conseiller_spirituel.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Melian_Torv_Conseiller_spirituel_20260605_165944.pdf | 2026-06-05 16:59 | - |
-| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Selvara_Quenndral_Archiviste_en_chef.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Selvara_Quenndral_Archiviste_en_chef_20260605_165956.pdf | 2026-06-05 17:00 | - |
+| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Selvara_Quenndral_Archiviste_en_chef.md | 2026-06-17 18:47 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Selvara_Quenndral_Archiviste_en_chef_20260617_185459.pdf | 2026-06-17 18:55 | 2026-06-17 18:55:06 |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Sybrel_Dornik_Ombre.md | 2026-06-05 16:57 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Sybrel_Dornik_Ombre_20260605_170005.pdf | 2026-06-05 17:00 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Vaelric_Dorn_Discreteur.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Vaelric_Dorn_Discreteur_20260605_170015.pdf | 2026-06-05 17:00 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Ydria_Ventoss_Tresoriere.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Ydria_Ventoss_Tresoriere_20260605_170024.pdf | 2026-06-05 17:00 | - |
@@ -37,9 +37,9 @@ Comparaison des dates de modification entre les rôles `.md` et les exports `.pd
 | PDF à jour | MiVI | MiVI/2 - Roles des Joueurs/MiVI_Ysel_Marivent_Renseignement.md | 2026-06-06 19:33 | MiVI/2 - Roles des Joueurs/MiVI_Ysel_Marivent_Renseignement_20260606_210139.pdf | 2026-06-06 21:01 | - |
 | PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Brina_Lyrd_Druidesse.md | 2026-05-29 13:12 | Palyr/2 - Roles des Joueurs/Palyr_Brina_Lyrd_Druidesse_20260613_194203.pdf | 2026-06-13 19:42 | - |
 | PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Corvyn_Valdrak_Chef_delegation.md | 2026-05-29 14:03 | Palyr/2 - Roles des Joueurs/Palyr_Corvyn_Valdrak_Chef_delegation_20260613_194208.pdf | 2026-06-13 19:42 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate.md | 2026-06-13 20:02 | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate_20260613_201527.pdf | 2026-06-13 20:15 | 2026-06-13 20:15:36 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate.md | 2026-06-17 18:51 | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate_20260617_185508.pdf | 2026-06-17 18:55 | 2026-06-17 18:55:15 |
 | PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate.md | 2026-05-29 13:12 | Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate_20260613_194223.pdf | 2026-06-13 19:42 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere.md | 2026-05-29 13:12 | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere_20260613_194231.pdf | 2026-06-13 19:42 | - |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere.md | 2026-06-17 18:52 | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere_20260617_185516.pdf | 2026-06-17 18:55 | 2026-06-17 18:55:23 |
 | PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md | 2026-05-29 11:57 | Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire_20260613_194250.pdf | 2026-06-13 19:42 | - |
 | PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Saevar_Dren_Chef_securite.md | 2026-05-29 14:10 | Palyr/2 - Roles des Joueurs/Palyr_Saevar_Dren_Chef_securite_20260613_194258.pdf | 2026-06-13 19:43 | - |
 | PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Syndri_Ashfeld_Herboriste.md | 2026-05-29 14:11 | Palyr/2 - Roles des Joueurs/Palyr_Syndri_Ashfeld_Herboriste_20260613_194305.pdf | 2026-06-13 19:43 | - |

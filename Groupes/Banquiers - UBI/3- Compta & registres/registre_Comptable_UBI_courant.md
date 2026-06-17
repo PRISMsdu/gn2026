@@ -62,6 +62,9 @@ Total revenus UBI 542 courant : 15'807 couronnes.
 | RD-III-543-004 | 543-VI-03 | Non renseignée | Il-Irion ↔ Arthas | Non renseigné | Non renseigné |
 | CP-III-543-001 | 543-VI-05 | Non renseignée | Dame Lysara Valdris ↔ Maître Aldric Portmaster | Non renseigné | Non renseigné |
 | TR-I-543-006 | 543-VI-18 | 543-VII-10 | Odran Veyl (Ther-Félis) ↔ Marra Kesh (Arthas) | 2'400 couronnes | 43 couronnes |
+| SE-III-543-011 | 543-VI-22 | 547-VI-21 | Jonn Halet (Ther-Félis) ↔ Torven Sorel (Guilde des Ports Unis) | 800 couronnes | 15 couronnes |
+| DE-IV-543-012 | 543-VIII-03 | 547-XI-30 | Odran Calev (Il-Irion) ↔ Septimus Calveran (Arthas) | 50'000 écus | 909 couronnes |
+| DE-IV-543-011 | 543-VIII-08 | 547-XI-30 | Odran Calev (Il-Irion) ↔ Jonn Halet (Ther-Félis) | 50'000 écus | 909 couronnes |
 | EC-I-543-010 | 543-VIII-21 | 543-XII-21 | Sorna Kelveg (Sfaal) ↔ Marra Kesh (Arthas) | 3'500 couronnes | 63 couronnes |
 | DE-IV-543-005 | 543-XI-07 | 543-XII-11 | Neral Voss (Palyr) ↔ Sera Orist (Arthas) | 19'350 couronnes | 348 couronnes |
 | DE-IV-543-001 | 543-XII-07 | 544-III-21 | Odran Calev (Il-Irion) ↔ Jonn Halet (Ther-Félis) | 15'750 couronnes | 284 couronnes |
@@ -86,7 +89,7 @@ Location et assurance coffres (220 coffres a 12 couronnes/an) : 2'640 couronnes.
 Primes CREDOC garanties documentaires 543 (coefficient officiel x0,9) : 21'382 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 543 : 28'551 couronnes.
+Total revenus UBI 543 : 30'384 couronnes.
 
 ## 544
 
@@ -131,6 +134,7 @@ Total revenus UBI 544 : 28'838 couronnes.
 | CO-II-545-001 | 545-I-01 | Non renseignée | Sfaal ↔ Palyr | Non renseigné | Non renseigné |
 | SE-I-545-009 | 545-II-11 | 545-II-28 | Sorna Kelveg (Sfaal) ↔ Tovan Ilmari (Il-Irion) | 1'250 couronnes | 18 couronnes |
 | EC-I-545-008 | 545-III-14 | 545-IX-14 | Orel Vant (Palyr) ↔ Marda Velyss (Ther-Félis) | 4'000 couronnes | 56 couronnes |
+| CP-IV-545-013 | 545-III-14 | 548-II-28 | Dorian Marest (Ther-Félis) ↔ Neris Dorne (Aquilea) | 18'500 couronnes | 259 couronnes |
 | TR-I-545-011 | 545-V-08 | 545-IX-01 | Ryliane Sorne (Il-Irion) ↔ Jabren Feld (Sfaal) | 2'300 couronnes | 32 couronnes |
 | AL-IV-545-003 | 545-VIII-02 | 545-IX-23 | Merra Forgecendre (Sfaal) ↔ Vaeric Noll (Il-Irion) | 20'000 couronnes | 280 couronnes |
 | EN-I-545-012 | 545-VIII-03 | 545-XII-03 | Ilara Vandesse (Palyr) ↔ Bastion Kharvek (Arthas) | 1'900 couronnes | 27 couronnes |
@@ -160,7 +164,7 @@ Location et assurance coffres (220 coffres a 12 couronnes/an) : 2'640 couronnes.
 Primes CREDOC garanties documentaires 545 (coefficient officiel x0,7) : 21'844 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 545 : 29'228 couronnes.
+Total revenus UBI 545 : 29'487 couronnes.
 
 ## 546
 

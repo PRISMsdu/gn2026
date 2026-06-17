@@ -1453,13 +1453,14 @@ Récapitulatif 534 : revenus UBI sur droits de garde : 2'062 couronnes.
 
 | Référence | Type | Parties | Montant | Droit UBI | Date dépôt | Date exécution | Statut |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| AL-IV-535-006 | Contrat d'alliance | Kaelthorne ↔ Valdris ↔ Halvaren (Il-Irion) | 15'000 couronnes | 300 couronnes | 535-I-18 | 547-I-18 | En vigueur |
 | EX-IV-535-001 | Contrat d'exclusivité | Palyr ↔ Il-Irion | 16'200 couronnes | 324 couronnes | 535-IV-26 | 535-VI-10 | Exécuté, soldé, classé |
 | PB-IV-535-005 | Contrat de prêt bancaire | UBI ↔ Palyr | 8'100 couronnes | 324 couronnes | 535-IV-26 | 535-VI-10 | Exécuté, remboursé, classé |
 | CO-IV-535-002 | Contrat commercial | Palyr ↔ Arthas | 18'950 couronnes | 379 couronnes | 535-VII-14 | 535-XII-19 | Exécuté, soldé, classé |
 | PB-IV-535-004 | Contrat de prêt bancaire | UBI ↔ Palyr | 9'475 couronnes | 379 couronnes | 535-VII-14 | 535-XII-19 | Exécuté, remboursé, classé |
 | CO-IV-535-003 | Contrat commercial | Ther-Félis ↔ Sfaal | 14'450 couronnes | 289 couronnes | 535-XI-29 | 536-I-04 | Exécuté, soldé, classé |
 
-Récapitulatif 535 : revenus UBI sur droits de garde : 1'695 couronnes.
+Récapitulatif 535 : revenus UBI sur droits de garde : 1'995 couronnes.
 
 ### 536
 

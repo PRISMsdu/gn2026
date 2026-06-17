@@ -31,23 +31,25 @@ La livraison doit être présentée au fort d'Ulghart avant la fin de journée d
 
 Gorvan Tresselune ou un porteur désigné par lui remet la cargaison à Maren Holt ou à toute personne nommée par écrit par Corvyn Valdrak.
 
-La Compagnie du Dolmen Rouge doit remettre avec la cargaison une note de provenance suffisante pour permettre l'inscription au registre de transport de la délégation de Palyr. Cette note peut rester sommaire si elle protège une filière commerciale, mais elle doit identifier le vendeur, le poids livré et le lieu de remise.
+La Compagnie du Dolmen Rouge doit remettre avec la cargaison une note de provenance suffisante pour permettre l'inscription au registre de transport de la délégation de Palyr. Cette note peut rester sommaire si elle protège une filière commerciale, mais elle doit identifier le vendeur, la quantité livrée et le lieu de remise.
 
 ## Article troisième — Inspection et refus
 
 Maren Holt contrôle le métal devant témoin de Palyr. Il peut demander l'avis d'un maître-forgeron, d'un greffier de réquisition ou d'un officier du haut commandement.
 
-Palyr peut refuser tout lot qui n'est pas de l'Arguetheim, tout lot mélangé de manière frauduleuse, ou toute caisse dont les scellés ne correspondent pas à la note de provenance.
+Palyr peut refuser tout lot qui n'est pas de l'Arguetheim, tout lot mélangé de manière frauduleuse.
 
 Si une partie seulement du lot est acceptée, Palyr peut acheter cette partie au prorata du prix convenu. Le reste demeure à la charge de la Compagnie du Dolmen Rouge.
 
 ## Article quatrième — Prix et paiement
 
-Le prix de la cargaison acceptée doit être négocié entre trois cent cinquante mille et quatre cent mille couronnes.
+La livraison est comptée au grand sac d'Arguetheim, rempli selon l'usage des forges palyriennes. Le présent contrat couvre au plus deux grands sacs.
 
-Aucun paiement n'est dû avant inspection. Après réception, dame Lysa Morwyn règle la somme validée par écrit, depuis les fonds de la délégation ou depuis le coffre palyrien selon les ordres en vigueur.
+Pour chaque sac accepté après inspection, le prix est négocié entre cent soixante-quinze mille et deux cent cinquante mille couronnes. Si Maren Holt n'accepte qu'une partie d'un sac, le prix est réduit au prorata du poids accepté.
 
-Tout montant supérieur à quatre cent mille couronnes doit faire l'objet d'une nouvelle négociation entre Lysa Morwyn, Corvyn Valdrak et Gorvan Tresselune.
+Aucun paiement n'est dû avant inspection.
+
+Après réception, dame Lysa Morwyn règle la somme fixée par écrit entre elle, Corvyn Valdrak et Gorvan Tresselune, depuis les fonds de la délégation de Palyr.
 
 ## Article cinquième — Transport et protection
 
@@ -67,7 +69,7 @@ Après réception, Palyr peut communiquer l'existence du contrat au haut command
 
 Tout différend sur la qualité, le poids ou le paiement est d'abord porté devant Corvyn Valdrak et Gorvan Tresselune.
 
-Si aucun accord n'est trouvé, le litige est consigné au greffe du fort d'Ulghart. La cargaison acceptée reste sous garde de Palyr jusqu'à décision écrite ou accord signé.
+Si aucun accord n'est trouvé, le litige est consigné au greffe du fort d'Ulghart. 
 
 ## Signatures
 

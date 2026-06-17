@@ -7905,6 +7905,7 @@ Total revenus UBI 534 : 27'497 couronnes.
 
 | Référence contrat | Date de dépôt | Date d'exécution | Signataires | Montant contrat | Revenu UBI |
 |-------------------|---------------|------------------|-------------|-----------------|------------|
+| AL-IV-535-006 | 535-I-18 | 547-I-18 | Selvian Kaelthorne (Il-Irion) ↔ Lysara Valdris (Il-Irion) ↔ Helven Halvaren (Il-Irion) | 15'000 couronnes | 300 couronnes |
 | EX-IV-535-001 | 535-IV-26 | 535-VI-10 | Orel Vant (Palyr) ↔ Selvian Dorn (Il-Irion) | 16'200 couronnes | 324 couronnes |
 | PB-IV-535-005 | 535-IV-26 | 535-VI-10 | Miren Ask (UBI) ↔ Orel Vant (Palyr) | 8'100 couronnes | 324 couronnes |
 | CO-IV-535-002 | 535-VII-14 | 535-XII-19 | Liora Veyss (Palyr) ↔ Lorian Darsen (Arthas) | 18'950 couronnes | 379 couronnes |
@@ -7952,7 +7953,7 @@ Location et assurance coffres (214 coffres a 12 couronnes/an) : 2'568 couronnes.
 Primes CREDOC garanties documentaires 535 : 19'366 couronnes.
 Redevances contrats-cadres CREDOC (5 cites x 500 couronnes) : 2'500 couronnes.
 
-Total revenus UBI 535 : 27'271 couronnes.
+Total revenus UBI 535 : 27'571 couronnes.
 
 ## 536
 

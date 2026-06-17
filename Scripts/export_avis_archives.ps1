@@ -27,7 +27,7 @@ $previousBlasonPath = $env:GN_AVIS_BLASON_PATH
 $previousSignatureSeals = $env:GN_AVIS_SIGNATURE_SEALS
 $previousArchiveStampText = $env:GN_AVIS_ARCHIVE_STAMP_TEXT
 $env:GN_AVIS_CSS_PATH = "avis_archives_print.css"
-$env:GN_AVIS_BLASON_PATH = "Groupes\Banquiers - UBI\1 - Back de groupe\Blason_UBI.png"
+Remove-Item Env:\GN_AVIS_BLASON_PATH -ErrorAction SilentlyContinue
 $env:GN_AVIS_SIGNATURE_SEALS = "archives"
 $env:GN_AVIS_ARCHIVE_STAMP_TEXT = "Acte execute et clos."
 

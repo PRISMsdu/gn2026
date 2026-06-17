@@ -1,0 +1,63 @@
+@import url("avis_archives_print.css");
+
+/* Pièces non clôturées : pas de référence fichier, blason centré, corps manuscrit. */
+
+.avis-archive-corner {
+  display: none !important;
+}
+
+.avis-entete {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+
+.avis-entete-inner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  margin-bottom: 0.6rem;
+  min-height: auto;
+}
+
+.avis-entete-inner img.avis-blason {
+  position: static;
+  left: auto;
+  top: auto;
+  width: 28mm;
+  height: 28mm;
+  object-fit: contain;
+}
+
+body.avis-document,
+#contenu-avis,
+#contenu-avis p,
+#contenu-avis li,
+#contenu-avis h2,
+#contenu-avis h3 {
+  font-family: 'Segoe Script', 'Bradley Hand ITC', 'Brush Script MT', cursive !important;
+  font-style: italic;
+  letter-spacing: 0.01em;
+}
+
+body.avis-document .avis-entete .avis-entete-inner .avis-institution-nom {
+  font-size: 1.55rem !important;
+  letter-spacing: 0.01em !important;
+}
+
+#contenu-avis h2 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+#contenu-avis p.archive-contract-body::first-letter,
+#contenu-avis h2 + p::first-letter {
+  font-family: 'Segoe Script', 'Bradley Hand ITC', cursive !important;
+  font-style: italic;
+}
+
+#contenu-avis strong {
+  font-weight: 700;
+}

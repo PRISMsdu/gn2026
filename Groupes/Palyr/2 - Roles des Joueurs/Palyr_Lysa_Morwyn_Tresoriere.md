@@ -140,9 +140,11 @@ Corvyn Valdrak porte le mandat général du Légat sur la délégation ; Maren e
 
 Melian est ton unique canal vers le dossier de corruption interne à l'UBI. Prix convenu : 2 000 couronnes ; 1 000 versées ; 1 000 restantes pour les références et extraits. Tu as la lettre de dénonciation ; les codes de chambre close viendront après le solde. Ses échanges avec Edorian sont de façade — il ne sait pas qu'il t'a transmis à Palyr. Si il est exposé avant la fin de la Régate, tu perds le témoin et le second paquet. Tu gères sa sécurité et le timing du paiement.
 
-## Selvara Quenndral — archiviste (UBI)
+## Selvara Quenndral — archiviste en chef (UBI)
 
-Selvara tient les codes des chambres closes et les registres des coffres à la banque. C'est ta clef principale pour accéder au coffre palyrien et comparer les dépôts avec ton registre historique. Elle a ses propres raisons de prendre ses distances avec le conseil sortant. Tu dois évaluer si elle accepte de coopérer discrètement, et quel argument elle écoutera. Si elle refuse ou retourne la situation contre toi, tu perds l'accès aux coffres.
+Selvara Quenndral est archiviste en chef de l'UBI à Ulghart. Elle est originaire de Sfaal et a travaillé aux greffes et aux archives d'Il-Irion avant d'entrer à la banque, il y a cinq ans. Elle tient les scellés inter-cités, l'ordre des liasses et la correspondance entre registre et coffre. Les accès aux chambres closes passent par elle.
+
+Tu la croises à chaque consultation du coffre palyrien : dépôts, passation, inventaires. Tu possèdes un registre historique qui indique quelles pièces demander ; elle détient les codes et les procédures d'ouverture. Vous travaillez dans les mêmes salles que les trésoriers des autres cités pendant la Convention.
 
 ## Registre historique du coffre Palyr
 
