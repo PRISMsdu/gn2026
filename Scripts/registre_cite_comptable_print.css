@@ -1,0 +1,110 @@
+/* Registre comptable cité — blason en-tête + tableaux multi-formats */
+
+@import url("registre_print.css");
+
+@page {
+  size: A4 landscape;
+  margin: 8mm 10mm 10mm 10mm;
+}
+
+body.registre-cite-comptable {
+  font-size: 6.5pt;
+}
+
+/* Blason à gauche du titre principal (h1) */
+#contenu-registre h1 {
+  overflow: hidden;
+  min-height: 18mm;
+  padding-left: 0;
+}
+
+#contenu-registre h1 .registre-cite-blason {
+  float: left;
+  width: 16mm;
+  height: 16mm;
+  object-fit: contain;
+  margin: 0 4mm 1mm 0;
+}
+
+#contenu-registre h1 .registre-cite-titre-texte {
+  display: block;
+  padding-top: 2mm;
+}
+
+#contenu-registre > p,
+#contenu-registre li {
+  font-size: 7pt;
+  line-height: 1.05;
+}
+
+#contenu-registre ol {
+  margin-bottom: 2mm;
+}
+
+/* 9 colonnes — garanties CREDOC */
+body.registre-cite-comptable table tr > *:nth-child(1):nth-last-child(9) { width: 10%; }
+body.registre-cite-comptable table tr > *:nth-child(2):nth-last-child(8) { width: 8%; }
+body.registre-cite-comptable table tr > *:nth-child(3):nth-last-child(7) { width: 10%; }
+body.registre-cite-comptable table tr > *:nth-child(4):nth-last-child(6) { width: 12%; }
+body.registre-cite-comptable table tr > *:nth-child(5):nth-last-child(5) { width: 18%; }
+body.registre-cite-comptable table tr > *:nth-child(6):nth-last-child(4) { width: 12%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(7):nth-last-child(3) { width: 6%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(8):nth-last-child(2) { width: 12%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(9):nth-last-child(1) { width: 12%; }
+
+/* 6 colonnes — contrats cité et contrat-cadre CREDOC */
+body.registre-cite-comptable table tr > *:nth-child(1):nth-last-child(6) { width: 9%; }
+body.registre-cite-comptable table tr > *:nth-child(2):nth-last-child(5) { width: 9%; }
+body.registre-cite-comptable table tr > *:nth-child(3):nth-last-child(4) { width: 9%; }
+body.registre-cite-comptable table tr > *:nth-child(4):nth-last-child(3) { width: 38%; }
+body.registre-cite-comptable table tr > *:nth-child(5):nth-last-child(2) { width: 17%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(6):nth-last-child(1) { width: 18%; text-align: right; }
+
+/* 5 colonnes — bancaire, balance, auditeur */
+body.registre-cite-comptable table tr > *:nth-child(1):nth-last-child(5) { width: 12%; }
+body.registre-cite-comptable table tr > *:nth-child(2):nth-last-child(4) { width: 22%; }
+body.registre-cite-comptable table tr > *:nth-child(3):nth-last-child(3) { width: 22%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(4):nth-last-child(2) { width: 22%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(5):nth-last-child(1) { width: 22%; text-align: right; }
+
+/* 4 colonnes — périmètre auditeur cycle */
+body.registre-cite-comptable table tr > *:nth-child(1):nth-last-child(4) { width: 22%; }
+body.registre-cite-comptable table tr > *:nth-child(2):nth-last-child(3) { width: 26%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(3):nth-last-child(2) { width: 26%; text-align: right; }
+body.registre-cite-comptable table tr > *:nth-child(4):nth-last-child(1) { width: 26%; text-align: right; }
+
+body.registre-cite-comptable table tr > * {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  line-height: 1.02;
+  vertical-align: top;
+  font-size: 6.5pt;
+}
+
+body.registre-cite-comptable thead th {
+  font-size: 7pt;
+}
+
+body.registre-cite-comptable h2 {
+  page-break-after: avoid;
+  break-after: avoid;
+  margin-top: 3mm;
+}
+
+body.registre-cite-comptable p strong {
+  font-size: 7pt;
+}
+
+body.registre-cite-comptable table {
+  page-break-inside: auto;
+  break-inside: auto;
+  margin-bottom: 2.5mm;
+}
+
+body.registre-cite-comptable tbody tr {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}

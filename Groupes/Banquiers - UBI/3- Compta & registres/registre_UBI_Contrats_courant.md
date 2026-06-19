@@ -25,7 +25,7 @@ Registre joueur des contrats et pièces déposés à partir du 1er Equos 542. Le
 | CO-I-543-008 | Contrat commercial | Arthas ↔ Sfaal | 2'800 couronnes | 56 couronnes | 543-III-04 | 543-III-28 | Exécuté, soldé, classé |
 | EN-I-543-009 | Convention d'entrepôt | Ther-Félis ↔ Palyr | 1'700 couronnes | 34 couronnes | 543-V-16 | 543-IX-16 | Exécuté, soldé, classé |
 | RD-III-543-004 | Contrat de dette | Il-Irion ↔ Arthas | Non renseigné | Non renseigné | 543-VI-03 | Non renseignée | Déposé |
-| CP-III-543-001 | Correspondance | Dame Lysara Valdris ↔ Maître Aldric Portmaster | Non renseigné | Non renseigné | 543-VI-05 | Non renseignée | Déposé |
+| CP-III-543-001 | Correspondance | Dame Lysara Valdris ↔ Maître Aldric Portmaster | 0 couronne | 0 couronne | 543-VI-05 | 543-VI-05 | Déposé |
 | TR-I-543-006 | Contrat de transport | Ther-Félis ↔ Arthas | 2'400 couronnes | 48 couronnes | 543-VI-18 | 543-VII-10 | Exécuté, soldé, classé |
 | SE-III-543-011 | Contrat de service | Ther-Félis ↔ Guilde des Ports Unis | 800 couronnes | 16 couronnes | 543-VI-22 | 547-VI-21 | En vigueur |
 | DE-IV-543-012 | Contrat de dette | Il-Irion ↔ Arthas | 50'000 écus | 1'000 écus | 543-VIII-03 | 547-XI-30 | En vigueur |
@@ -43,7 +43,7 @@ Registre joueur des contrats et pièces déposés à partir du 1er Equos 542. Le
 | CO-I-544-006 | Contrat commercial | Sfaal ↔ Il-Irion | 3'100 couronnes | 62 couronnes | 544-IV-09 | 544-V-02 | Exécuté, soldé, classé |
 | PR-IV-544-005 | Accord commercial | Il-Irion ↔ Ther-Félis | 17'750 couronnes | 355 couronnes | 544-IV-15 | 544-V-06 | Exécuté, soldé, classé |
 | EN-I-544-009 | Convention d'entrepôt | Arthas ↔ Il-Irion | 1'800 couronnes | 36 couronnes | 544-V-02 | 544-IX-02 | Exécuté, soldé, classé |
-| CC-III-544-002 | Correspondance | Maître Halwen Rask (Staal) → chroniqueur | Non renseigné | Non renseigné | 544-VI-21 | Non renseignée | Déposé |
+| CC-III-544-002 | Correspondance | Maître Halwen Rask (Staal) → chroniqueur | 0 couronne | 0 couronne | 544-VI-21 | 544-VI-21 | Déposé |
 | AL-IV-544-001 | Accord commercial | Il-Irion ↔ Palyr | 17'050 couronnes | 341 couronnes | 544-VIII-17 | 544-XII-12 | Exécuté, soldé, classé |
 | EC-I-544-010 | Contrat d'exclusivité | Il-Irion ↔ Palyr | 3'200 couronnes | 64 couronnes | 544-IX-15 | 544-XII-15 | Exécuté, soldé, classé |
 | TR-I-544-008 | Contrat de transport | Palyr ↔ Sfaal | 2'100 couronnes | 42 couronnes | 544-X-18 | 544-XI-08 | Exécuté, soldé, classé |
@@ -69,14 +69,15 @@ Registre joueur des contrats et pièces déposés à partir du 1er Equos 542. Le
 
 | Référence | Type | Parties | Montant | Droit UBI | Date dépôt | Date exécution | Statut |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DE-II-546-001 | Contrat de dette | Il-Irion ↔ Palyr | Non renseigné | Non renseigné | 546-I-01 | Non renseignée | Déposé |
+| DE-II-546-001 | Contrat de dette | Il-Irion ↔ Palyr | 2'000 couronnes | 40 couronnes | 546-I-01 | Non renseignée | Déposé |
 | SE-I-546-011 | Contrat de service | Arthas ↔ Ther-Félis | 1'000 couronnes | 20 couronnes | 546-II-09 | 546-II-27 | Exécuté, soldé, classé |
 | CO-I-546-012 | Contrat commercial | Palyr ↔ Il-Irion | 2'900 couronnes | 58 couronnes | 546-III-17 | 546-X-12 | Exécuté, soldé, classé |
 | AL-IV-546-005 | Accord commercial | Palyr ↔ Ther-Félis | 17'150 couronnes | 343 couronnes | 546-V-25 | 546-X-18 | Exécuté, soldé, classé |
-| MN-IV-546-001 | Accord commercial | Arthas ↔ Sfaal | 14'850 couronnes | 297 couronnes | 546-VI-25 | 546-VII-09 | Exécuté, soldé, classé |
+| MN-IV-546-001 | Contrat de mandat | Arthas ↔ Sfaal | 14'850 couronnes | 297 couronnes | 546-VI-25 | 546-VII-09 | Exécuté, soldé, classé |
 | TR-I-546-013 | Contrat de transport | Ther-Félis ↔ Palyr | 2'400 couronnes | 48 couronnes | 546-VII-29 | 546-IX-18 | Exécuté, soldé, classé |
 | EN-I-546-010 | Convention d'entrepôt | Arthas ↔ Sfaal | 1'600 couronnes | 32 couronnes | 546-VIII-07 | 546-XI-07 | Exécuté, soldé, classé |
 | EC-I-546-014 | Contrat d'exclusivité | Sfaal ↔ Il-Irion | 3'600 couronnes | 72 couronnes | 546-VIII-14 | 546-XII-14 | Exécuté, soldé, classé |
+| MN-IV-546-003 | Contrat de mandat | Il-Irion ↔ mandataire (prête-nom) | 15'050 couronnes | 301 couronnes | 546-VIII-22 | 546-X-27 | Exécuté, soldé, classé |
 | PB-IV-546-009 | Contrat de prêt bancaire | UBI ↔ Il-Irion | 7'525 couronnes | 301 couronnes | 546-VIII-25 | 546-X-27 | Exécuté, remboursé, classé |
 | CP-III-546-002 | Correspondance | Expéditeur anonyme ↔ Maître Silas le Graveur | Non renseigné | Non renseigné | 546-XI-20 | Non renseignée | Déposé |
 | SE-II-546-008 | Contrat de service | Ther-Félis ↔ Guilde des Ports Unis | Non renseigné | Non renseigné | 546-XII-18 | Non renseignée | Déposé |

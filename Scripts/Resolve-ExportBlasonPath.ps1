@@ -6,7 +6,7 @@ function Get-ExportBlasonCatalogDir {
   Join-Path (Split-Path -Parent $ScriptsRoot) 'LivretsLocaux\Blasons'
 }
 
-function Get-ExportBlasonGroupSlug {
+function Find-BlasonImageInDirectory {
   param(
     [string] $Directory,
     [string[]] $PreferredNames = @()

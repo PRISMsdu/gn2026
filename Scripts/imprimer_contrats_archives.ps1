@@ -89,10 +89,16 @@ function Get-LatestArchivePdf {
     [string] $ArchiveDir,
     [string] $Reference
   )
-  $pdfs = Get-ChildItem -LiteralPath $ArchiveDir -Filter ($Reference + '_avis_*.pdf') -File -ErrorAction SilentlyContinue |
-    Sort-Object LastWriteTime -Descending
+  $pdfs = [System.Collections.Generic.List[System.IO.FileInfo]]::new()
+  foreach ($pattern in @(
+      ($Reference + '_avis_*.pdf')
+      ($Reference + '_doc_*.pdf')
+    )) {
+    Get-ChildItem -LiteralPath $ArchiveDir -Filter $pattern -File -ErrorAction SilentlyContinue |
+      ForEach-Object { [void]$pdfs.Add($_) }
+  }
   if ($pdfs.Count -eq 0) { return $null }
-  return $pdfs[0]
+  return ($pdfs | Sort-Object LastWriteTime -Descending | Select-Object -First 1)
 }
 
 function Get-SumatraPdfPath {

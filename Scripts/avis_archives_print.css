@@ -97,26 +97,37 @@ body.avis-document .avis-entete .avis-entete-inner .avis-institution-nom {
   margin-top: 2.6em;
 }
 
-#contenu-avis p.archive-contract-body::first-letter {
-  float: left;
-  font-family: 'Cinzel Decorative', 'IM Fell English', Georgia, serif;
-  font-size: 2.15em;
-  line-height: 0.78;
-  padding: 0.03em 0.12em 0 0;
-  color: #7d0f00;
-  text-shadow:
-    0.8px 0.8px 0 rgba(160, 104, 32, 0.45),
-    -0.35px 0 rgba(120, 54, 12, 0.35);
+/* Pas de lettrine sur le corps contrat (héritée de avis_print.css ou paragraphe archive). */
+#contenu-avis p.archive-contract-body::first-letter,
+#contenu-avis h2 + p::first-letter,
+#contenu-avis h2 + p > strong:first-child + *::first-letter {
+  float: none;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  line-height: inherit;
+  padding: 0;
+  color: inherit;
+  text-shadow: none;
 }
 
-#contenu-avis p.archive-contract-body::after {
-  content: '';
-  display: table;
-  clear: both;
+#contenu-avis p.archive-contract-body::after,
+#contenu-avis h2 + p::after {
+  content: none;
+  display: none;
 }
 
 #contenu-avis p.archive-contract-body + p:not(.archive-contract-body) {
-  margin-top: 4.2em;
+  margin-top: 1.6em;
+}
+
+/* Espacement avant chaque article (repère export avis-article) : deux lignes. */
+#contenu-avis h2.avis-article {
+  margin-top: 4.4em;
+}
+
+#contenu-avis p.avis-article {
+  margin-top: 2.5em;
 }
 
 #contenu-avis .archive-party-signatures {
@@ -125,6 +136,30 @@ body.avis-document .avis-entete .avis-entete-inner .avis-institution-nom {
   justify-content: flex-start;
   gap: 20mm;
   margin: 2em 0 0.7em;
+}
+
+#contenu-avis .archive-signatures-section {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+}
+
+#contenu-avis .archive-signatures-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.45rem 1.4rem;
+  align-items: start;
+  margin: 0.55em 0 0.35em;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+}
+
+#contenu-avis .archive-signatures-grid > .archive-party-signature {
+  flex: none;
+  min-width: 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 #contenu-avis .archive-party-signature {

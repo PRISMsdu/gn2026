@@ -1,0 +1,47 @@
+﻿=== EFFECTIFS ===
+Fichiers MD archives (contrats)     : 577
+Registre contrats (refs uniques)    : 577 (lignes 577)
+Registre compta (contrats archives) : 572 (lignes 572)
+Orga CSV periode=archives           : 577
+
+=== MD sans registre contrats : 0 ===
+
+=== Registre contrats sans MD : 0 ===
+
+=== Contrats sans ligne compta : 5 ===
+  CP-III-542-001
+  CP-III-542-002
+  RD-III-542-003
+  SE-III-520-001
+  SE-IV-533-001
+
+=== Compta sans registre contrats : 0 ===
+
+=== Contrats sans orga archives : 0 ===
+
+=== Orga archives sans registre contrats : 0 ===
+
+=== DROIT UBI registre contrats : 2 ecarts ===
+  ('SE-IV-533-001', 400, 0, 8)
+  ('RD-III-542-003', 22000, 0, 440)
+
+=== ALIGNEMENT montants/revenus : 3 ecarts ===
+  ('orga montant', 'AL-IV-535-006', 15000, 547)
+  ('orga droit', 'AL-IV-535-006', 300, None)
+  ('orga source', 'AL-IV-535-006', '300 couronnes', 'registre_UBI_Contrats_archives.md')
+
+=== RECAP ANNUEL droits de garde vs somme lignes : 0 ecarts ===
+
+=== CONTRATS droit 0 absents compta (attendu?) : 5 ===
+  CP-III-542-001 montant=0
+  CP-III-542-002 montant=0
+  RD-III-542-003 montant=22000
+  SE-III-520-001 montant=0
+  SE-IV-533-001 montant=400
+
+=== DROIT 0 mais montant > 0 : 2 ===
+  ('RD-III-542-003', 22000)
+  ('SE-IV-533-001', 400)
+
+=== VERDICT ===
+ECARTS detectes ù voir detail ci-dessus.

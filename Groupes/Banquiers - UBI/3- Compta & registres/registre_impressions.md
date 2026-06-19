@@ -2,7 +2,6 @@
 
 Suivi orga des contrats archivés déjà envoyés à l'imprimante physique.
 
-- Source des références : `registre_UBI_Contrats_archives.md`
 - Fichiers imprimés : PDF `*_avis_*.pdf` dans ce dossier
 - Script : `Scripts/imprimer_contrats_archives.ps1`
 

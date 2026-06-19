@@ -2,7 +2,6 @@
 
 Ce registre suit les ecarts entre les sommes demandees aux acteurs et les sommes declarees dans la comptabilite officielle courante.
 
-Les sources demandees restent `registre_UBI_Contrats_courant.md` et `registre_Credoc_courant.md`. Les montants declares sont ceux de `registre_Comptable_UBI_courant.md`.
 
 Decision de direction attribuee a Edorian Kaelthorne : a partir du 1er Equos 542, la comptabilite officielle declare une baisse progressive des droits de garde et des primes CREDOC. Les contrats courants et le registre CREDOC courant restent aux montants demandes aux acteurs. La difference entre les sommes encaissees et les sommes declarees est retiree de la comptabilite officielle.
 

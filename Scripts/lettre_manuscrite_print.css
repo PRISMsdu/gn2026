@@ -38,3 +38,11 @@ body.doc-officiel #contenu-avis img.doc-export-signature-ink {
   max-height: 28mm;
   max-width: 70mm;
 }
+
+body.doc-officiel #contenu-avis img:not(.doc-export-signature-ink):not(.avis-blason) {
+  display: block;
+  width: 22mm;
+  height: 22mm;
+  object-fit: contain;
+  margin-top: 0.8rem;
+}

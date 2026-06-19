@@ -2,7 +2,7 @@
   Pièce joueur — remise au groupe Palyr.
   Sources : Back_groupe_Palyr.md ; Palyr_Lysa_Morwyn_Tresoriere.md ; Palyr_Maren_Holt_Commandant_militaire.md ; back_groupe_CompagnieDolmenRouge.md.
   Objet : contrat de fourniture d'Arguetheim entre Palyr et la Compagnie du Dolmen Rouge.
-  Export PDF : Scripts/export_doc.ps1 — blason Blason_Palyr_+.png (même dossier).
+  Export PDF : Scripts/export_avis_noncloturé.ps1 — sceaux LivretsLocaux/Blasons/Sceau_Palyr.png (signatures Pour Palyr).
   InstitutionLigne : Cité de Palyr — chancellerie commerciale
 -->
 
@@ -59,13 +59,19 @@ La Compagnie du Dolmen Rouge peut demander un sauf-conduit limité pour les pers
 
 Le sauf-conduit ne protège pas contre une poursuite pour vol, fraude, meurtre ou dette étrangère au présent accord.
 
-## Article sixième — Discrétion
+## Article sixième — Périmètre et registres
+
+Le présent accord sort du périmètre de gestion de l'Union bancaire d'Il-Irion. Il n'est pas déposé aux registres de l'UBI et ne figure pas au registre courant confédéral.
+
+Palyr et la Compagnie du Dolmen Rouge conservent chacune une copie du présent contrat. Aucune des deux parties ne l'inscrit dans un registre interne.
+
+## Article septième — Discrétion
 
 Jusqu'à la réception du métal, les parties ne rendent pas publique la filière d'approvisionnement. Cette discrétion protège la cargaison, les routes et la position de Palyr dans les négociations de la Convention.
 
 Après réception, Palyr peut communiquer l'existence du contrat au haut commandement confédéral, à la chancellerie du fort et à tout greffe nécessaire au transport du métal.
 
-## Article septième — Litiges
+## Article huitième — Litiges
 
 Tout différend sur la qualité, le poids ou le paiement est d'abord porté devant Corvyn Valdrak et Gorvan Tresselune.
 
@@ -75,14 +81,14 @@ Si aucun accord n'est trouvé, le litige est consigné au greffe du fort d'Ulgha
 
 Fait et signé le 1er de Luvios 547, pour servir et valoir ce que de droit pendant la Convention d'Ulghart.
 
-Pour la cité de Palyr : Lysa Morwyn, trésorière mandatée  
-(*Signature* : Lysa Morwyn)
+Pour Palyr : Lysa Morwyn, trésorière mandatée  
+(*Signature*: Lysa Morwyn)
 
-Visa de direction pour Palyr : Corvyn Valdrak, chef de délégation  
-(*Signature* : Corvyn Valdrak)
+Pour Palyr : Corvyn Valdrak, chef de délégation, visa de direction  
+(*Signature*: Corvyn Valdrak)
 
-Réception militaire après inspection : Maren Holt, commandant militaire  
-(*Signature* : Maren Holt)
+Pour Palyr : Maren Holt, commandant militaire, réception après inspection  
+(*Signature*: Maren Holt)
 
 Pour la Compagnie du Dolmen Rouge : Gorvan Tresselune, chef de compagnie  
-(*Signature* : Gorvan Tresselune)
+(*Signature*: Gorvan Tresselune)

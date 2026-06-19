@@ -292,16 +292,85 @@ if ($blasonSrc) {
   $blasonHtml = ''
 }
 
+function Add-HtmlElementClass {
+  param(
+    [string] $Attrs,
+    [string] $ClassName
+  )
+  if ($Attrs -match 'class="([^"]*)"') {
+    $existing = $Matches[1].Trim()
+    if (($existing -split '\s+') -contains $ClassName) {
+      return $Attrs
+    }
+    return ($Attrs -replace 'class="[^"]*"', ('class="' + $existing + ' ' + $ClassName + '"'))
+  }
+  return ($Attrs + (' class="' + $ClassName + '"'))
+}
+
+function Normalize-AvisPourCityLabel {
+  param([string] $Raw)
+  $label = $Raw.Trim()
+  if ($label -match '^\s*(.+?)\s*:') { $label = $Matches[1].Trim() }
+  if ($label -match '^(?i)la\s+') { $label = $label -replace '^(?i)la\s+', '' }
+  if ($label -match "(?i)^l'") { $label = $label.Substring(2).Trim() }
+  return $label
+}
+
+function Resolve-AvisSealCityKey {
+  param(
+    [string] $CityLabel,
+    [hashtable] $SealSrcByCity
+  )
+
+  $city = Normalize-AvisPourCityLabel -Raw $CityLabel
+  if ($city -like 'Ther-F*lis') { return 'Ther-Félis' }
+  if ($city -like '*Styrgie*') { return 'Styrgie' }
+  if ($city -match 'Guilde|Ports Unis') { return 'Ther-Félis' }
+  if ($city -match 'Conseil des Oblats') { return 'Il-Irion' }
+  if ($city -match '(?i)aquil') { return 'Styrgie' }
+  if ($city -match 'Empire|Tch[eéè]l') { return 'Styrgie' }
+  if ($city -match 'Sangs des Steppes|Fraternit') { return 'Styrgie' }
+  if ($city -match 'UBI|Union bancaire|Banque d''Ulghart') { return 'UBI' }
+  if ($SealSrcByCity.ContainsKey($city)) { return $city }
+  foreach ($slug in (Get-ExportBlasonSlugsFromText -Text $city)) {
+    if ($SealSrcByCity.ContainsKey($slug)) { return $slug }
+  }
+  return $null
+}
+
+function Add-AvisSealToSignatureDiv {
+  param(
+    [string] $SignatureDivHtml,
+    [string] $CityKey,
+    [hashtable] $SealSrcByCity,
+    [hashtable] $SealVariantState,
+    [string] $SealAlt
+  )
+  if ($SignatureDivHtml -match 'doc-export-signature-seal') { return $SignatureDivHtml }
+  if ([string]::IsNullOrWhiteSpace($CityKey) -or -not $SealSrcByCity.ContainsKey($CityKey)) {
+    return $SignatureDivHtml
+  }
+  $variant = $SealVariantState.Index % 5
+  $SealVariantState.Index += 1
+  $sealHtml = '<img src="' + $SealSrcByCity[$CityKey] + '" alt="' + $SealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
+  return ($SignatureDivHtml -replace '</div>\s*$', ($sealHtml + "`n</div>"))
+}
+
 # --- Sceaux de signature : option archives ---
 
 if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
+  $rxSigDivClosed = '<div class="doc-export-signature">(?:(?!</div>).)*</div>'
+  $rxPourPartyLine = '(?<label><p>Pour\s+(?<city>[\s\S]*?)</p>\s*)'
+  $rxPourPartyBlock = '<p>Pour\s+[\s\S]*?</p>\s*' + $rxSigDivClosed
+  $rxFooterAfterParties = '(?=\s*<p>\s*T.moin\s+bancaire|\s*<p>\s*(?:Droit de garde UBI|Droit d''enregistrement UBI|Mention de classement)|\s*</section>|\s*$)'
+
   $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Notice UBI\s*:[\s\S]*?)</p>', '<p class="archive-notice">$1</p>', 1)
   $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Droit de garde UBI\s*:[\s\S]*?)</p>', '<p class="archive-fee-mention">$1</p>', 1)
   $bodyInner = [regex]::Replace($bodyInner, '<p>\s*(Mention de classement\s*:[\s\S]*?)</p>', '<p class="archive-closing-mention">$1</p>', 1)
   $contractBodyRegex = [regex]'(?s)(?<header><p>\s*CONTRAT[\s\S]*?</p>)(?<body>[\s\S]*?)(?=<p>Pour\s+)'
   $contractBodyEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
-      $body = [regex]::Replace($m.Groups['body'].Value, '<p>(?!\s*(?:Pour\s|T.moin bancaire|Droit de garde UBI|Mention de classement))', '<p class="archive-contract-body">')
+      $body = [regex]::Replace($m.Groups['body'].Value, '<p>(?!\s*(?:Pour\s|T.moin bancaire|Droit de garde UBI|Droit d''enregistrement UBI|Mention de classement))', '<p class="archive-contract-body">')
       return ($m.Groups['header'].Value + $body)
     }
   $bodyInner = $contractBodyRegex.Replace($bodyInner, $contractBodyEvaluator, 1)
@@ -327,56 +396,117 @@ if ($env:GN_AVIS_SIGNATURE_SEALS -eq 'archives') {
   }
   $sealVariantState = @{ Index = 0 }
 
-  $citySealRegex = [regex]'(?s)(?<label><p>Pour\s+(?<city>[^:<]+)\s*:[\s\S]*?</p>\s*)(?<sig><div class="doc-export-signature">[\s\S]*?<img[^>]+class="doc-export-signature-ink"[^>]*>[\s\S]*?</div>)'
+  $citySealRegex = [regex]"(?s)$rxPourPartyLine(?<sig>$rxSigDivClosed)"
   $citySealEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
       $city = $m.Groups['city'].Value.Trim()
-      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } elseif ($city -like '*Styrgie*') { 'Styrgie' } else { $city }
-      if (-not $sealSrcByCity.ContainsKey($cityKey)) { return $m.Value }
+      $cityKey = Resolve-AvisSealCityKey -CityLabel $city -SealSrcByCity $sealSrcByCity
+      if (-not $cityKey) { return $m.Value }
       $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $city")
-      $variant = $sealVariantState.Index % 5
-      $sealVariantState.Index += 1
-      $sealHtml = '<img src="' + $sealSrcByCity[$cityKey] + '" alt="' + $sealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
-      $sig = $m.Groups['sig'].Value -replace '</div>\s*$', ($sealHtml + "`n</div>")
+      $sig = Add-AvisSealToSignatureDiv -SignatureDivHtml $m.Groups['sig'].Value -CityKey $cityKey `
+        -SealSrcByCity $sealSrcByCity -SealVariantState $sealVariantState -SealAlt $sealAlt
       return ($m.Groups['label'].Value + $sig)
     }
   $bodyInner = $citySealRegex.Replace($bodyInner, $citySealEvaluator)
 
-  $citySealEnsureRegex = [regex]'(?s)(?<label><p>Pour\s+(?<city>[^:<]+)\s*:[\s\S]*?</p>\s*)(?<sig><div class="doc-export-signature">[\s\S]*?</div>)'
+  $citySealEnsureRegex = [regex]"(?s)$rxPourPartyLine(?<sig>$rxSigDivClosed)"
   $citySealEnsureEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
-      $sig = $m.Groups['sig'].Value
-      if ($sig -match 'doc-export-signature-seal') { return $m.Value }
+      if ($m.Groups['sig'].Value -match 'doc-export-signature-seal') { return $m.Value }
       $city = $m.Groups['city'].Value.Trim()
-      $cityKey = if ($city -like 'Ther-F*lis') { 'Ther-Félis' } elseif ($city -like '*Styrgie*') { 'Styrgie' } else { $city }
-      if (-not $sealSrcByCity.ContainsKey($cityKey)) { return $m.Value }
+      $cityKey = Resolve-AvisSealCityKey -CityLabel $city -SealSrcByCity $sealSrcByCity
+      if (-not $cityKey) { return $m.Value }
       $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $city")
-      $variant = $sealVariantState.Index % 5
-      $sealVariantState.Index += 1
-      $sealHtml = '<img src="' + $sealSrcByCity[$cityKey] + '" alt="' + $sealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
-      $sig = $sig -replace '</div>\s*$', ($sealHtml + "`n</div>")
+      $sig = Add-AvisSealToSignatureDiv -SignatureDivHtml $m.Groups['sig'].Value -CityKey $cityKey `
+        -SealSrcByCity $sealSrcByCity -SealVariantState $sealVariantState -SealAlt $sealAlt
       return ($m.Groups['label'].Value + $sig)
     }
   $bodyInner = $citySealEnsureRegex.Replace($bodyInner, $citySealEnsureEvaluator)
 
-  $partySignaturesRegex = [regex]'(?s)(?<first><p>Pour\s+[^:<]+\s*:[\s\S]*?</p>\s*<div class="doc-export-signature">[\s\S]*?</div>)\s*(?<second><p>Pour\s+[^:<]+\s*:[\s\S]*?</p>\s*<div class="doc-export-signature">[\s\S]*?</div>)'
-  $partySignaturesEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+  $partyBlockItemRx = [regex]"(?s)$rxPourPartyBlock"
+  $partyRunRx = [regex]"(?s)(?<run>(?:$rxPourPartyBlock\s*)+)$rxFooterAfterParties"
+  $partyRunEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
-      return ('<div class="archive-party-signatures"><div class="archive-party-signature">' + $m.Groups['first'].Value + '</div><div class="archive-party-signature">' + $m.Groups['second'].Value + '</div></div>')
+      $blocks = $partyBlockItemRx.Matches($m.Groups['run'].Value)
+      if ($blocks.Count -eq 0) { return $m.Value }
+      $sb = New-Object System.Text.StringBuilder
+      [void]$sb.Append('<div class="archive-signatures-grid">')
+      foreach ($b in $blocks) {
+        [void]$sb.Append('<div class="archive-party-signature">')
+        [void]$sb.Append($b.Value.Trim())
+        [void]$sb.Append('</div>')
+      }
+      [void]$sb.Append('</div>')
+      return $sb.ToString()
     }
-  $bodyInner = $partySignaturesRegex.Replace($bodyInner, $partySignaturesEvaluator, 1)
+  $bodyInner = $partyRunRx.Replace($bodyInner, $partyRunEvaluator, 1)
 
-  $witnessSealRegex = [regex]'(?s)(?<label><p>T.moin bancaire\s*:[\s\S]*?</p>\s*)(?<sig><div class="doc-export-signature">[\s\S]*?<img[^>]+class="doc-export-signature-ink"[^>]*>[\s\S]*?</div>)'
+  $witnessSealRegex = [regex]"(?s)(?<label><p>T.moin bancaire\s*:[\s\S]*?</p>\s*)(?<sig>$rxSigDivClosed)"
   $witnessSealEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
       param([System.Text.RegularExpressions.Match]$m)
       $sealAlt = [System.Net.WebUtility]::HtmlEncode('Sceau UBI')
-      $variant = $sealVariantState.Index % 5
-      $sealVariantState.Index += 1
-      $sealHtml = '<img src="' + $sealSrcByCity['UBI'] + '" alt="' + $sealAlt + '" class="doc-export-signature-seal seal-variant-' + $variant + '" />'
-      $sig = $m.Groups['sig'].Value -replace '</div>\s*$', ($sealHtml + "`n</div>")
+      $sig = Add-AvisSealToSignatureDiv -SignatureDivHtml $m.Groups['sig'].Value -CityKey 'UBI' `
+        -SealSrcByCity $sealSrcByCity -SealVariantState $sealVariantState -SealAlt $sealAlt
       return ($m.Groups['label'].Value + $sig)
     }
   $bodyInner = $witnessSealRegex.Replace($bodyInner, $witnessSealEvaluator)
+
+  # Bloc signatures indivisible : reste en bas de page si la place suffit, sinon bascule entier.
+  $sigSectionRx = [regex]'(?s)(?<block><h2[^>]*>\s*Signatures\s*</h2>(?<tail>[\s\S]*?))(?=\s*<p>\s*(?:Droit de garde UBI|Droit d''enregistrement UBI|Mention de classement)|\s*$)'
+  $sigSectionEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      if ($m.Value -match 'archive-signatures-section') { return $m.Value }
+      return '<section class="archive-signatures-section">' + $m.Groups['block'].Value + '</section>'
+    }
+  $bodyInner = $sigSectionRx.Replace($bodyInner, $sigSectionEvaluator, 1)
+  if ($bodyInner -notmatch 'archive-signatures-section') {
+    $gridOnlyRx = [regex]'(?s)<div class="archive-signatures-grid">(?:\s*<div class="archive-party-signature">[\s\S]*?</div>)+\s*</div>'
+    $gridOnlyEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+        param([System.Text.RegularExpressions.Match]$m)
+        return '<section class="archive-signatures-section">' + $m.Value + '</section>'
+      }
+    $bodyInner = $gridOnlyRx.Replace($bodyInner, $gridOnlyEvaluator, 1)
+  }
+
+  $orphanSigRx = [regex]"(?s)(?<prev><p>[\s\S]*?</p>\s*)?<sig>$rxSigDivClosed"
+  $orphanSigEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      if ($m.Groups['sig'].Value -match 'doc-export-signature-seal') { return $m.Value }
+      $prev = $m.Groups['prev'].Value
+      $cityKey = $null
+      $sealAlt = 'Sceau'
+      if ($prev -match 'T.moin bancaire') {
+        $cityKey = 'UBI'
+        $sealAlt = 'Sceau UBI'
+      }
+      elseif ($prev -match 'Pour\s+([\s\S]*?)</p>') {
+        $cityLabel = $Matches[1].Trim()
+        $cityKey = Resolve-AvisSealCityKey -CityLabel $cityLabel -SealSrcByCity $sealSrcByCity
+        $sealAlt = [System.Net.WebUtility]::HtmlEncode("Sceau $cityLabel")
+      }
+      if (-not $cityKey) { return $m.Value }
+      $sig = Add-AvisSealToSignatureDiv -SignatureDivHtml $m.Groups['sig'].Value -CityKey $cityKey `
+        -SealSrcByCity $sealSrcByCity -SealVariantState $sealVariantState -SealAlt $sealAlt
+      return ($m.Groups['prev'].Value + $sig)
+    }
+  $bodyInner = $orphanSigRx.Replace($bodyInner, $orphanSigEvaluator)
+
+  # Repères « Article » : espacement PDF via classe avis-article (h2 ou paragraphe **Article**).
+  $h2ArticleRx = [regex]'<h2(?<attrs>[^>]*)>(?<inner>Article[^<]*)</h2>'
+  $h2ArticleEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      $attrs = Add-HtmlElementClass -Attrs $m.Groups['attrs'].Value -ClassName 'avis-article'
+      return ('<h2' + $attrs + '>' + $m.Groups['inner'].Value + '</h2>')
+    }
+  $bodyInner = $h2ArticleRx.Replace($bodyInner, $h2ArticleEvaluator)
+
+  $pArticleRx = [regex]'<p(?<attrs>[^>]*)>\s*<strong>Article\s'
+  $pArticleEvaluator = [System.Text.RegularExpressions.MatchEvaluator]{
+      param([System.Text.RegularExpressions.Match]$m)
+      $attrs = Add-HtmlElementClass -Attrs $m.Groups['attrs'].Value -ClassName 'avis-article'
+      return ('<p' + $attrs + '><strong>Article ')
+    }
+  $bodyInner = $pArticleRx.Replace($bodyInner, $pArticleEvaluator)
 }
 
 # --- Format de page : surcharge CSS ---

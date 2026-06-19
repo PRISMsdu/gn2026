@@ -1,6 +1,6 @@
 # Registre comptable UBI - archives
 
-Ce registre suit les revenus de l'Union Bancaire d'Il-Irion jusqu'au mois d'Equos 542 exclu. Les revenus déposés à partir de 542-IX sont tenus dans `registre_Comptable_UBI_courant.md`.
+Ce registre suit les revenus de l'Union Bancaire d'Il-Irion jusqu'au mois d'Equos 542 exclu.
 
 Sept sources de revenus sont enregistrees :
 
@@ -10,7 +10,7 @@ Sept sources de revenus sont enregistrees :
 4. **Interets prets intercites** : revenus annuels fixes sur les prets accordes aux cites, a taux de 6,5 a 7,5 % selon l'accord.
 5. **Location et assurance de coffres** : forfait de 12 couronnes par coffre et par an.
 6. **Redevances des contrats-cadres CREDOC** : 5 cites x 500 couronnes par an pour maintenir l'acces au cadre de garantie documentaire.
-7. **Primes CREDOC** : primes annuelles sur garanties documentaires inscrites dans `registre_Credoc_archives.md`, sans modification des contrats supports.
+7. **Primes CREDOC** : primes annuelles sur garanties documentaires inscrites au registre CREDOC archives, sans modification des contrats supports.
 
 ## Prêts intercités longs termes
 
