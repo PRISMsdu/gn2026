@@ -96,7 +96,13 @@ Au bout d'un an, tu comprends qu'il n'est pas seulement herboriste. Therne Valli
 
 Sa règle personnelle le distingue des siens : il n'accepte que des mandats contre des ordures — tyrans de quartier, marchands d'esclaves, officiers corrompus que les tribunaux protègent. Il te fait lire les dossiers qu'il refuse et ceux qu'il prend. Tu apprends à juger une cible sans te raconter d'histoire. Tu restera avec lui pendant 10 ans. Tu auras traversé les îles et les citées du levant dans tout les sens.
 
-Tu progresses vite sur les poisons. Therne note surtout ta précision au geste. Il t'a transmis une préparation rare, la sève grise : une goutte sur la peau nue suffit ; la mort suit en environ moins d'une heure. Pour ne pas te tuer en la manipulant, tu dois boire son antidote au moins une heure avant. La protection dure une heure : passé ce délai, et en tout cas au-delà de deux heures après la prise, tu ne touches plus la fiole sans risque. Tu gardes l'antidote et la sève dans des flacons séparés, marqués de ta main.
+Tu progresses vite sur les poisons. Therne note surtout ta précision au geste. Il t'a transmis la sève grise : une goutte sur la peau nue suffit ; la mort suit en moins d'une heure. Les recettes sont en annexe.
+
+## La sève grise
+
+Therne t'a appris cette préparation sur une route du Levant, en croisant herboristerie et composants d'un alchimiste de Staal. Le filtrat est gris cendré ; les veines de la victime prennent la même teinte.
+
+Une goutte sur la peau nue : empoisonnement grave par contact, 1 PS perdu par 10 minutes ; le coma arrive en moins d'une heure si personne n'intervient. Tu désignes la cible et annonces l'effet ou  tu fais passer une carte empoisonnement au joueur via Orga, PNJs ou n'importe qui en fait. Un antidote herboriste ou alchimiste du livret peut le stopper à temps. Voir l'annexe en fin de role.
 
 A tes trente ans, Therne disparaît un matin d'hiver. Il laisse tes carnets et une bourse honnête. Tu ne sais pas encore ce qui lui est arrivé. Tu n'as pas cherché la guilde. Pendant quelques mois, aucun messager ne vient te rappeler les tiers ni les règles des Exécuteurs.
 
@@ -190,7 +196,6 @@ Les Rédempteurs sont une autre option. Une somme importante appartenant à la g
 - **Commission et arriéré** : faire reconnaître par l'UBI la somme due à ta caisse interne, en or ou en écrit, sans provoquer une fermeture immédiate du site.
 - **Tenir le fort** : garder le casino ouvert et présentable jusqu'à la date que tu as fixée pour le départ ; pas d'émeute ni de fermeture administrative prématurée.
 - **Mafia et banque** : tenir face à la remontée des Sangs et à la direction UBI sans guerre ouverte en salle.
-- **Palyr et UBI** : faire confirmer par les Varek s'il existe un canal discret entre Palyr et le conseil sortant, puis décider si cette piste sert à vendre des preuves, acheter un appui ou préparer une fuite.
 - **Therne** : retrouver le nom de la famille Il-Irion qui a payé la mafia pour le tuer.
 
 
@@ -198,14 +203,46 @@ Les Rédempteurs sont une autre option. Une somme importante appartenant à la g
 
 # Connaissances
 
-## Edorian de Courcel — montants UBI
+Tu connais ces groupes par quinze ans à Il-Irion, dix ans au Tripot, les dettes en salle et ce qui circule entre banque et quai. Ci-dessous : ce qui te sert à la Convention — chef visible, enjeu public, lien avec ta maison. Pour les noms croisés au quai ou en coulisse, les Varek tiennent une annexe séparée ; recoupe avec eux avant d'agir. Ton réseau est gigantesque, de part ton histoire et aussi grâce à tes Rédempteurs. profites-en ! (et bonne chance...il va falloir vous concerter et vous concentrer sur un nombre minimum de pistes, 2 jours c'est court).
 
-Les carnets VIP d'Edorian donnent une base chiffrée : de IX-542 à VIII-547, 540 600 couronnes sont passées par les contrats VIP du Tripot.
+## Union bancaire d'Il-Irion
 
-La part déjà touchée par le Tripot est de dix pour cent, soit 54 060 couronnes. Tu réclames quinze pour cent, soit 81 090 couronnes. L'arriéré à obtenir est donc de 27 030 couronnes.
+L'UBI garde l'or et les scellés des cinq cités au fort. Le conseil sortant termine son mandat ce week-end ; la Régate désigne cinq nouveaux conseillers, un par cité.
 
-Fenric tient ces montants dans le registre officieux.
+Edorian de Courcel dirige la banque depuis cinq ans. Les Grandes Familles l'ont imposé ; il a orienté les autres nominations. Horgrim Dval commande la garde du fort et les accès aux coffres. Six gardes sont morts récemment sur les quais ; Horgrim mène une procédure interne sans suite à tes signalements. Les Oblats envoient un Questeur sur cette affaire.
 
+Les carnets VIP d'Edorian donnent une base chiffrée : de IX-542 à VIII-547, 540 600 couronnes sont passées par les contrats VIP du Tripot. La part déjà touchée par le Tripot est de dix pour cent, soit 54 060 couronnes. Tu réclames quinze pour cent, soit 81 090 couronnes. L'arriéré à obtenir est de 27 030 couronnes. Fenric tient ces montants dans le registre officieux.
+
+## Il-Irion — coalition des sept maisons
+
+Calis Aedris commande la coalition patricienne à Ulghart. Cyrion Valdris porte la voix d'Il-Irion en séance et se présente au conseil UBI. Les familles ont nommé Edorian il y a cinq ans ; elles soupçonnent aujourd'hui d'avoir été doublées. Elles veulent récupérer leur part avant la passation sans audit qui les expose. Le Tripot les gêne : trop de dettes nobles, trop de passages entre casino et banque.
+
+## Palyr — délégation du Légat
+
+Corvyn Valdrak parle au nom du Légat de Palyr. Il veut réduire ou fermer le Tripot parce que Saevar Dren joue chez toi.
+
+Palyr vit une crise de fer : le dernier minerai venu de Sfaal ne tient pas l'épreuve en creuset malgré des sceaux conformes. Les forges sont à l'arrêt. La cité cherche des leviers sur l'UBI et sur les coffres avant le changement de conseil. Kaelen Voss mène la frégate de Palyr à la Régate.
+
+## Ther-Félis — délégation
+
+Rauth Kaelmar est la voix officielle de Ther-Félis à la Confédération. La cité doit de l'argent à la banque et défend ses routes maritimes face à Il-Irion. Ther-Félis transporte encore une part du fer Sfaal-Palyr ; les retards et les escales alimentent les querelles de ce week-end.
+
+## Arthas — délégation
+
+Aurelian Marvek représente l'Oblat d'Arthas depuis l'assassinat récent de leur Oblat. Arthas veut le poste de directeur général à la passation UBI et contrôle le Grand Canal. La cité doit dix mille écus à Il-Irion hors UBI. Arthas et Palyr se rapprochent en coulisse contre le poids d'Il-Irion à la banque.
+
+## Sfaal — délégation
+
+Synex Aliriis parle au nom de l'Oblat de Sfaal. Sfaal fournit le minerai des forges de Palyr et conteste la plainte sur la qualité du fer. Pey Trgun se présente au poste de chef de garde de la forteresse. Le conflit acier domine les échanges publics avec Palyr et Ther-Félis.
+
+
+## Compagnie du Dolmen Rouge
+
+Maison marchande de Ther-Félis, connue pour les métaux rares et la cire pourpre de ses contrats. Tu as entendue que Gorvan Tresselune, leur chef de compagnie, se trouvera probablement sur le site. pourquoi ?
+
+## Questeur confédéré
+
+Les Questeurs relèvent des Oblats et enquêtent hors tribunaux ordinaires. Ydrael Montfou arrive avec un mandat sur les six gardes morts de la banque. Il peut demander des auditions sous serment et lire des registres de service.
 
 ## Rédempteurs — registres et réserve
 
@@ -214,29 +251,6 @@ Aucun membre du Tripot ne sait que tu es Exécutrice des Rédempteurs. Fenric sa
 Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas. Ce total correspond à la part MV : trente pour cent des mandats depuis 540.
 
 La guilde t'a rappelé sa consigne si Ulghart devient trop dangereux : tu dois quitter le casino. Les Rédempteurs reprendront ensuite le site par un autre contrat ou un autre prête-nom.
-
-## Kaelan Thormane et Raven — Sangs de la Steppe
-
-Kaelan Thormane et Raven se présentent à Ulghart sous la couverture de la Guilde des Ports Unis. Ils demandent une part sur les caisses ou un droit de contrôle sur les entrées.
-
-## Garrick Halvaren — Il-Irion, sécurité de la coalition
-
-Garrick Halvaren coordonne la sécurité des familles patriciennes d'Il-Irion à Ulghart pendant la Convention. Tu connais son nom parce qu'il est cité comme un homme capable de tenir tête aux Sangs. Il ne connaît pas le tien.
-
-## Palyr — Corvyn Valdrak
-
-Corvyn Valdrak porte le mandat du Légat de Palyr à Ulghart. Il veut réduire ou fermer le Tripot parce que Saevar Dren joue chez toi.
-
-Tu n'as pas la preuve d'un accord Palyr-UBI. Tu as une intuition construite par les passages observés autour de la banque et du Tripot. Demande aux Varek de recouper les émissaires palyriens, les visiteurs UBI et les allers-retours qui évitent les audiences publiques.
-
-## Joric Tann — Ther-Félis
-
-Joric Tann est marin et skipper pour Ther-Félis. Il fréquente les tavernes, les jeux et les quais. Il perd assez souvent au Tripot pour devoir négocier avec la maison. Quand il manque d'argent, il propose des informations de quai, des noms de marins ou des rendez-vous de taverne. Tu peux le faire entrer dans ton réseau d'informateurs si ses informations se vérifient.
-
-## Horgrim Dval — garde UBI
-
-Horgrim Dval commande la garde de la banque au fort. Il tient les accès aux coffres, les rotations de garde et les zones sensibles.
-
 
 ## Les douze du réseau d'Il-Irion
 
@@ -259,6 +273,32 @@ La liste suivante n'est pas connue de l'équipe du Tripot. Samvel Rauk ou Theodr
 
 Tu refuses les mandats qui ne tombent pas dans la catégorie « ordures » que Therne t'avait apprise. Pour les petites mains de la mafia trop proches du casino, tu mandates surtout Maréflot, Gorgefil ou Lamecourt. Pas les chefs. Pas de morts.
 
+---
+
+# Annexe — recettes de la sève grise
+
+Composants issus des livrets herboriste et alchimiste. Gants de cuir tanné pour toute manipulation de la sève.
+
+## Antidote personnel
+
+Ingrédients : Eau Mystique, Poudre de Jade, sève de Saule, Gentiane, Camomille, Ambrosia bleutée.
+
+Préparation : tout macérer une nuit au frais dans un flacon sombre. Filtrer.
+
+Usage : une gorgée au moins une heure avant de toucher la sève. l'effet de la protection commence 1 heure après la prise de l'antidote et dure 1 h. le créneau est serré.
+
+## Sève grise
+
+Ingrédients : sève de Saule, Omphale putride, Mycose cendrée, Sels de Réalgar, Eau Mystique, Charbon.
+
+Préparation :
+
+1. Presser la sève de Saule ; laisser reposer une nuit.
+2. Ajouter les champignons broyés ; macérer trois jours à l'ombre.
+3. Incorporer Sels de Réalgar et Eau Mystique ; remuer au verre, sans métal.
+4. Filtrer, décanter avec Charbon ; conserver le liquide gris. Une goutte suffit.
+
+tu disposes de 2 doses de chaque au début du jeu.
 ---
 
 *GN Krondaar 2026 — Tripot*

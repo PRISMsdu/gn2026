@@ -1,30 +1,20 @@
 # Registre des dettes — Tripot
 
-Carnet interne des reconnaissances de dette encore utiles pendant la Convention d'Ulghart. Ce registre n'est pas destiné à l'auditeur UBI ni aux délégations.
-Les dettes sont avancées directement par Marda, pas d'impact sur les comptes UBI.
+Carnet interne, an 547. Dettes avancées par Marda, hors comptes UBI.
 
-
----
-
-## Créances actives — an 547
-
-| Débiteur | Groupe / fonction | Tenancière | Montant dû (c) | Statut | Confidentialité |
-|---|---|---|---:|---|---|
-| Saevar Dren | Palyr — chef de la sécurité de la délégation | Lira Vestrann | 2 422 | Actif ; demande à formuler pendant la Régate | Montant exact connu de Saevar et du Tripot seulement |
-| Miraen Talvas | MiVI — couverture Questeur au Tripot | Créancier satellite ; témoin Varek | 1 854 | Actif ; convocation possible hors mandat | Montant exact connu de Miraen, du créancier satellite et du Tripot seulement |
-| Raven | Sangs de la Steppe — couverture Guilde des Ports Unis | Lira Vestrann / Sira Vestrann | 1 350 | Actif ; dette de jeu à recouper avec passages aux tables | Montant exact connu de Raven et du Tripot seulement |
+**Objectif** : faire payer avant le départ du fort.
 
 ---
 
-## Note Saevar Dren
-Saevar Dren fréquente les tables depuis plusieurs séjours à Ulghart. Lira Vestrann lui a ouvert du crédit quand il ne couvrait plus ses pertes. Les intérêts et les anciennes lignes reprises portent la dette à 2 422 couronnes.
-Corvyn Valdrak sait que Saevar est endetté au Tripot. Il ne connaît pas le montant. Thoran Keld sait que Saevar joue trop, sans tenir le chiffre exact. Aucun membre de la délégation de Palyr ne doit lire ce registre.
-La maison peut demander à Saevar un service, une information ou une abstention pendant la Régate. 
-
-## Note Miraen Talvas
-Miraen Talvas fréquente le bar des paris secondaires sous couvert de son accès aux salles du Tripot. Sa dette de jeu est inscrite en couronnes, pas en jetons. Le montant dû est de 1 854 couronnes.
-Le témoin noté « V. » est Varek. Le détachement Corvel ne connaît pas forcément cette dette. Le créancier satellite peut convoquer Miraen hors mandat et utiliser cette dette comme pression sur sa couverture Questeur.
-
-## Note Raven
-Raven fréquente les tables sous couverture de la Guilde des Ports Unis. Il présente ses passages comme des rencontres de quai et de routes commerciales, mais revient jouer après le départ des contacts utiles. La dette de jeu inscrite au Tripot est de 1 350 couronnes.
-Le montant exact ne doit pas circuler hors maison. Si Raven tente de solder vite ou par intermédiaire, recouper avec Lira et Sira avant de clore la ligne.
+| Débiteur | Groupe | Fonction | Montant dû (c) |
+|---|---|---|---:|
+| Joric Tann | Ther-Félis | Marin, skipper de la délégation | 3 000 |
+| Saevar Dren | Palyr | Chef de la sécurité de la délégation | 2 422 |
+| Miraen Talvas | Questeur | Il ne l'était pas il y a quelques mois | 1 854 |
+| Marek Thorne | Il-Irion | Bras long hors île, réseaux gris | 1 500 |
+| Lucan Marivent | Il-Irion | Plaintes et procédures | 1 500 |
+| Raven | Guilde des Ports Unis | un nom courant qui rappelle d'autres personnes peu fréquentables | 1 350 |
+| Ysara Vell | Ther-Félis | Négociations UBI et contrats | 1 000 |
+| Lochlan Parewai | Local d'Ulghart | Gardien UBI, pêcheur | 500 |
+| Mael Tanevar | Local d'Ulghart | Gardien UBI, charpentier | 300 |
+| **Total** | | | **12 426** |

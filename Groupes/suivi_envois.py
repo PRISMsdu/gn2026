@@ -9,6 +9,7 @@ import re
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "suivides envois.md"
+REGENERATE_JSON = ROOT / "suivi_a_regenerer.json"
 EMAIL_LOG = ROOT / "suivi_envois_emails.json"
 
 GROUP_ROLE_DIRS = [
@@ -118,11 +119,75 @@ def markdown_link(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
 
+def needs_regeneration(status: RoleExportStatus) -> bool:
+    return status.status in {"PDF ancien", "PDF manquant"}
+
+
+def render_regeneration_list(statuses: list[RoleExportStatus]) -> list[str]:
+    to_regenerate = sorted(
+        (status for status in statuses if needs_regeneration(status)),
+        key=lambda status: (status.group.casefold(), status.md_path.name.casefold()),
+    )
+    if not to_regenerate:
+        return [
+            "## À régénérer",
+            "",
+            "Aucun rôle à régénérer : tous les PDF sont à jour.",
+            "",
+        ]
+
+    lines = [
+        "## À régénérer",
+        "",
+        "Rôles dont le `.md` est plus récent que le PDF, ou sans PDF. Ce sont les candidats pour `Scripts/regenerer_pdfs_anciens_et_preparer_mails.ps1`.",
+        "",
+        "| Statut | Fichier MD | Date MD | Date PDF | Dernière préparation email |",
+        "|---|---|---|---|---|",
+    ]
+    for status in to_regenerate:
+        lines.append(
+            "| "
+            + " | ".join(
+                [
+                    status.status,
+                    markdown_link(status.md_path),
+                    format_date(status.md_date),
+                    format_date(status.pdf_date),
+                    status.email_prepared_at,
+                ]
+            )
+            + " |"
+        )
+    lines.append("")
+    return lines
+
+
+def print_console_summary(statuses: list[RoleExportStatus]) -> None:
+    to_regenerate = [status for status in statuses if needs_regeneration(status)]
+    print(f"Rôles suivis : {len(statuses)}")
+    print(f"À régénérer : {len(to_regenerate)}")
+    if not to_regenerate:
+        print("Aucun rôle à régénérer.")
+        return
+
+    print("")
+    for status in sorted(
+        to_regenerate,
+        key=lambda item: (item.group.casefold(), item.md_path.name.casefold()),
+    ):
+        pdf_date = format_date(status.pdf_date)
+        print(
+            f"- [{status.status}] {markdown_link(status.md_path)} "
+            f"(MD {format_date(status.md_date)} / PDF {pdf_date})"
+        )
+
+
 def render_statuses(statuses: list[RoleExportStatus]) -> str:
     generated_at = datetime.now().strftime("%Y-%m-%d %H:%M")
     missing = [status for status in statuses if status.status == "PDF manquant"]
     outdated = [status for status in statuses if status.status == "PDF ancien"]
     current = [status for status in statuses if status.status == "PDF à jour"]
+    to_regenerate = [status for status in statuses if needs_regeneration(status)]
 
     lines = [
         "# Suivi des envois",
@@ -134,15 +199,21 @@ def render_statuses(statuses: list[RoleExportStatus]) -> str:
         "## Synthèse",
         "",
         f"- Rôles suivis : {len(statuses)}",
+        f"- À régénérer : {len(to_regenerate)}",
         f"- PDF manquants : {len(missing)}",
         f"- PDF anciens : {len(outdated)}",
         f"- PDF à jour : {len(current)}",
         "",
-        "## Détail",
-        "",
-        "| Statut | Groupe | Fichier MD | Date MD | Fichier PDF | Date PDF | Dernière préparation email |",
-        "|---|---|---|---|---|---|---|",
     ]
+    lines.extend(render_regeneration_list(statuses))
+    lines.extend(
+        [
+            "## Détail",
+            "",
+            "| Statut | Groupe | Fichier MD | Date MD | Fichier PDF | Date PDF | Dernière préparation email |",
+            "|---|---|---|---|---|---|---|",
+        ]
+    )
 
     status_order = {
         "PDF ancien": 0,
@@ -192,9 +263,34 @@ def render_statuses(statuses: list[RoleExportStatus]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def write_regeneration_json(statuses: list[RoleExportStatus]) -> None:
+    payload = [
+        {
+            "status": status.status,
+            "markdown_path": markdown_link(status.md_path),
+            "old_pdf_path": (
+                markdown_link(status.pdf_path)
+                if status.pdf_path is not None
+                else "-"
+            ),
+        }
+        for status in statuses
+        if needs_regeneration(status)
+    ]
+    REGENERATE_JSON.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
 def main() -> None:
     statuses = collect_statuses()
     OUTPUT.write_text(render_statuses(statuses), encoding="utf-8")
+    write_regeneration_json(statuses)
+    print_console_summary(statuses)
+    print("")
+    print(f"Rapport écrit : {OUTPUT.relative_to(ROOT.parent)}")
+    print(f"Liste JSON : {REGENERATE_JSON.relative_to(ROOT.parent)}")
 
 
 if __name__ == "__main__":

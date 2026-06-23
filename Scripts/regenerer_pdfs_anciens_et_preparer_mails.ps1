@@ -25,6 +25,7 @@ $repoRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot '..')).Path
 $groupesRoot = Join-Path $repoRoot 'Groupes'
 $trackingScript = Join-Path $repoRoot 'Groupes\suivi_envois.py'
 $trackingFile = Join-Path $repoRoot 'Groupes\suivides envois.md'
+$regenerateJsonFile = Join-Path $repoRoot 'Groupes\suivi_a_regenerer.json'
 $emailLogFile = Join-Path $repoRoot 'Groupes\suivi_envois_emails.json'
 $exportScript = Join-Path $repoRoot 'Scripts\export_back_groupe.ps1'
 $mailScript = Join-Path $repoRoot 'Scripts\preparer_mails_roles.ps1'
@@ -104,45 +105,23 @@ function Write-EmailLog {
     Set-Content -LiteralPath $emailLogFile -Encoding UTF8
 }
 
-function Get-OutdatedRows {
-  if (-not (Test-Path -LiteralPath $trackingFile)) {
-    Write-Error "Fichier de suivi introuvable : $trackingFile"
+function Get-RowsToRegenerate {
+  if (-not (Test-Path -LiteralPath $regenerateJsonFile)) {
+    Write-Error "Fichier JSON introuvable : $regenerateJsonFile (executer d'abord Groupes/suivi_envois.py)"
   }
 
-  $lines = Get-Content -LiteralPath $trackingFile -Encoding UTF8
-  $headerLine = $lines | Where-Object { $_ -like '| Statut |*' } | Select-Object -First 1
-  if ([string]::IsNullOrWhiteSpace($headerLine)) {
-    Write-Error "Table de suivi introuvable dans $trackingFile"
-  }
-
-  $headers = Split-MarkdownTableRow -Line $headerLine
-  $statusIndex = [array]::IndexOf($headers, 'Statut')
-  $mdIndex = [array]::IndexOf($headers, 'Fichier MD')
-  $pdfIndex = [array]::IndexOf($headers, 'Fichier PDF')
-
-  if ($statusIndex -lt 0 -or $mdIndex -lt 0 -or $pdfIndex -lt 0) {
-    Write-Error "Colonnes attendues introuvables dans la table de suivi."
+  $raw = Get-Content -LiteralPath $regenerateJsonFile -Raw -Encoding UTF8
+  $parsed = $raw | ConvertFrom-Json
+  if ($null -eq $parsed) {
+    return @()
   }
 
   $rows = @()
-  foreach ($line in $lines) {
-    if (-not $line.StartsWith('| ')) {
-      continue
-    }
-    if ($line -like '|---*' -or $line -eq $headerLine) {
-      continue
-    }
-
-    $cells = Split-MarkdownTableRow -Line $line
-    if ($cells.Count -le [Math]::Max($mdIndex, $pdfIndex)) {
-      continue
-    }
-
-    if ($cells[$statusIndex] -eq 'PDF ancien') {
-      $rows += [pscustomobject]@{
-        MarkdownPath = $cells[$mdIndex]
-        OldPdfPath = $cells[$pdfIndex]
-      }
+  foreach ($entry in @($parsed)) {
+    $rows += [pscustomobject]@{
+      Status = $entry.status
+      MarkdownPath = $entry.markdown_path
+      OldPdfPath = if ($entry.old_pdf_path) { $entry.old_pdf_path } else { '-' }
     }
   }
 
@@ -152,16 +131,16 @@ function Get-OutdatedRows {
 Push-Location $repoRoot
 try {
   python $trackingScript
-  $outdatedRows = @(Get-OutdatedRows)
+  $outdatedRows = @(Get-RowsToRegenerate)
 
   if ($outdatedRows.Count -eq 0) {
-    Write-Host "Aucun PDF ancien dans le suivi."
+    Write-Host "Aucun role a regenerer dans le suivi."
     return
   }
 
-  Write-Host "PDF anciens a regenerer : $($outdatedRows.Count)"
+  Write-Host "Roles a regenerer : $($outdatedRows.Count)"
   foreach ($row in $outdatedRows) {
-    Write-Host "- $($row.MarkdownPath)"
+    Write-Host "- [$($row.Status)] $($row.MarkdownPath)"
   }
 
   if ($DryRun) {

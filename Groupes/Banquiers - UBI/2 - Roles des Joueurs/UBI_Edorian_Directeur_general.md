@@ -127,7 +127,15 @@ Le mandat touche à sa fin. La Régate doit permettre au cercle restreint de sor
 
 Ydria Ventoss (UBI, trésorière) et Selvara Quenndral (UBI, archiviste en chef) ont travaillé les comptes pour masquer les écarts. Malgré ça, un audit sérieux ferait ressortir des anomalies. Le plan consiste à laisser les registres dans un état correct et à vider les coffres. Si l'or a disparu, il sera difficile de prouver des malversations sur des comptes en ordre.
 
-Tu as mandaté un groupe extérieur, les Corbeaux de Minuit (voleurs, groupe extérieur), pour organiser le vol. Les consignes passent par un relais du Tripot, sans que ton nom figure sur une note. L'intervention est prévue la première nuit de la Régate, après la passation de pouvoir. Si le vol a lieu avant la transmission officielle du mandat, tu restes directeur en titre et responsable légal de la disparition.
+Tu as mandaté un groupe extérieur, les Corbeaux de Minuit, pour organiser le vol. Leur chef connaît ton nom. C'est une condition de leur métier : ils acceptent des contrats criminels, mais ils gardent toujours de quoi se retourner contre un commanditaire qui les doublerait. Cette règle te convient, parce qu'elle les oblige aussi à respecter le marché tant que tu respectes ta part.
+
+Pendant la Régate, tu ne pilotes pas l'opération en personne. Le relais passe par Theodran Veyr, dit Varek, dans les coulisses du Tripot. Tu le connais depuis une opération ratée au comptoir de la banque UBI à Il-Irion il y a genre 10 ans. À l'époque, il travaillait comme petit mercenaire pour les Sangs de la Steppe. Tu l'as surpris pendant une tentative de vol de données - personne n'aurait pu penser que souvent tu dormais sur place. Tu aurais pu le faire arrêter. Tu l'as laissé partir, parce qu'il avait du sang-froid, des informations utiles et une vraie intelligence des couloirs. Depuis 8 ans, comme un curieux hasard que c'est finalement bien fichu ce scénario, il travaille comme homme de main et de réseau de Marda.
+
+Depuis, Theodran te doit une revanche. Vous vous appréciez aussi, ce qui rend la dette plus simple à utiliser. Il sait lire les passages, les hésitations et les mensonges de couloir mieux que beaucoup de gardes officiels. Tu lui fais confiance parce qu'il comprend qu'un ordre discret doit parfois rester oral, et parce qu'il n'a jamais vendu ton nom quand tu es passé par lui, notamment pour les premiers contacts avec Palyr, Arthas et d'autres cités dès 546 lorsque tu as étendu tes opérations VIP. Un jour, il faudra bien lui expliquer tout ça et le récompenser. Tu lui fais confiance aussi car tu sais bien que les Sangs de la Steppe seraient ravis de remttre la main sur lui, ça aide.
+
+Varek doit remettre le vendredi soir, via le Tripot, une lettre dans laquelle tu donnes les informations leur permettant de faire le casse. L'intervention est prévue la première nuit de la Régate. Le rendez-vous pour régler la transaction de l'or avec toi doit être fixé par Varek, samedi après minuit, une fois que tu ne seras plus en charge officielle de la banque. La lettre que tu remts est anonyme. Tu ne peux pas gérer directement le vol, trop risqué, trop compliqué, Varek sera parfait.
+
+Le prix convenu au premier contact était de vingt-cinq pour cent de l'or pour toi. Dans ta lettre, tu annonces que les conditions ont changé : cinquante pour cent de l'or te reviendront, par contre tous les documents trouvés dans les coffres resteront aux Corbeaux. Si les Corbeaux organisent ton départ et celui de quelques collaborateurs sûrs après le vol, tu peux descendre à trente pour cent. L'or compte moins que le bruit qu'il va produire : sa disparition doit noyer la trace de l'argent que ton équipe a déjà détourné.
 
 La vengeance envers Il-Irion prend une forme précise. Révéler les malversations des familles serait efficace mais limité. Tu veux aussi rester vivant après la chute. Selvara Quenndral (UBI, archiviste en chef) t'a fourni des copies officielles des contrats VIP liés aux détournements. Tu as constitué un paquet par cité : Palyr, Arthas, Ther-Félis, Sfaal et Il-Irion. Chaque paquet prouve que la cité concernée a utilisé l'UBI pour placer, masquer ou détourner de l'argent.
 
@@ -182,9 +190,15 @@ Hélias de Montclair préside l'audit au nom de la Chambre des Vérificateurs du
 
 Sa réputation publique repose sur la loi et l'incorruptibilité. Sa faiblesse est le scandale : s'il comprend que l'audit peut éclabousser plusieurs cités et la Chambre elle-même, il cherchera peut-être une sortie qui garde l'autorité du contrôle intacte.
 
-## Varek (Tripot, relais extérieur)
+## Theodran Veyr — Varek des coulisses
 
-Varek tient le relais du Tripot vers l'extérieur, mais tu ne traites pas directement avec lui. Ydria cale avec lui les mouvements d'or et les créneaux compatibles avec ses signatures au comptoir. Vaelric suit le calendrier du raid et le récit public autour des Corbeaux de Minuit.
+Theodran Veyr est le Varek des coulisses du Tripot. Il n'est pas le Varek du quai. Cette distinction compte, parce que Theodran tient les salons, les escaliers, les réserves et les portes que les visiteurs importants utilisent quand ils ne veulent pas être vus.
+
+Tu le connais bien. Avant de servir Marda, il a travaillé quelques fois pour les Sangs de la Steppe comme petit mercenaire. Lors d'une récupération de données secrètes dans le comptoir UBI d'Il-Irion, tu l'as surpris dans un bureau où il n'aurait jamais dû entrer.
+
+Tu ne l'as pas dénoncé. Tu l'as interrogé, puis tu l'as laissé partir. Depuis, il te doit une revanche, et vous avez gardé un contact discret. Theodran t'a aidé à approcher Palyr, Arthas et d'autres relais utiles aux opérations VIP quand l'UBI ne devait pas apparaître en première ligne.
+
+Cette histoire te donne une prise sur lui, mais elle a surtout créé une confiance utile. Theodran sait que tu peux garder un secret quand cela sert le plan. Tu sais qu'il ne protège pas l'UBI par loyauté : il protège le Tripot, ses couloirs et sa place auprès de Marda. Pour l'affaire des Corbeaux, c'est exactement le relais dont tu as besoin.
 
 ---
 

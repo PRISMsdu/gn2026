@@ -71,6 +71,8 @@ Enfant, tu apprends à disparaître sans magie : tenir un plateau, porter une cr
 
 Tu comprends aussi que l'information seule ne suffit pas. Il faut prouver qu'on l'a, sans la brûler. Tu apprends à poser un mot sur une table, à laisser une bague près d'un verre, à citer une heure sans dire le lieu. Les clients paient pour que les phrases restent incomplètes.
 
+Avant Marda, tu as aussi vendu tes services à des gens moins propres. Les Sangs de la Steppe t'ont employé quelques fois comme petit mercenaire : porteur de message, guetteur de couloir, homme de diversion quand une opération demandait quelqu'un de discret mais remplaçable. Un gars nommé Raven peut se souvenir de toi sous un ancien nom de course.
+
 ## Rencontre avec Marda
 
 Marda Velyss te repère avant de reprendre le Tripot. Elle cherche des gens capables de circuler sans attirer la garnison, pas des brutes qui aiment entendre leur nom. Tu lui donnes un renseignement sur un prêteur qui mentait sur ses créances ; elle vérifie, puis te rappelle.
@@ -83,8 +85,6 @@ Marda te donne le même nom de code que Samvel : Varek. Elle ne le fait pas pour
 
 Samvel Rauk, l'autre Varek, tient le quai, les abords du fort, les arrivées et les sorties. Toi, tu tiens les coulisses, les salons, les couloirs et les portes qui ne donnent pas directement sur la nuit. Si un client dit qu'il a parlé à Varek, Marda peut demander lequel. Le client, lui, ne sait pas toujours répondre.
 
-Ardan connaît le dispositif. Guelievre s'en doute depuis longtemps parce qu'elle voit trop de choses passer par les couloirs. Fenric préfère que vos notes soient datées et signées autrement quand elles touchent aux registres. Les autres utilisent surtout le nom Varek comme on utilise une sonnette : on appelle, quelqu'un vient.
-
 ## Dix ans au Tripot
 
 Depuis la reprise du casino, tu as appris les circulations du fort. Tu connais les chambres où les VIP veulent être vus, celles où ils ne veulent surtout pas l'être, les salons qui portent trop bien le son, les escaliers qui évitent une table de jeu et les portes que la garde de l'UBI regarde par habitude.
@@ -96,6 +96,22 @@ Depuis cinq ans, la ligne grise avec l'UBI a rendu ton travail plus délicat. Ce
 Dans ces passages où les couloirs du Tripot croisent les habitudes de la banque, tu as souvent rencontré Sybrel Dornik. Elle aussi se déplace dans les coulisses, les coursives et les chemins que les autres préfèrent ne pas voir. À force de vous croiser dans les mêmes angles morts, vous avez appris à vous connaître un peu. Vous vous êtes déjà rendu service plusieurs fois : une porte gardée au bon moment, un témoin détourné, un signal discret avant qu'une ronde ne change de direction.
 
 Tu l'apprécies, à ta manière. Tu respectes sa discrétion et elle semble respecter la tienne. Il y a pourtant quelque chose d'étrange chez elle, quelque chose que tu sens sans réussir à le nommer. Tu as l'impression qu'elle porte plus que son rôle officiel à l'UBI. Ce n'est pas assez clair pour l'accuser, ni assez sale pour le désapprouver. Peut-être qu'elle pense la même chose de toi.
+
+## Edorian et l'affaire du comptoir d'Il-Irion
+
+Tu connais Edorian depuis une opération ratée, bien avant l'affaire des Corbeaux. À l'époque, les Sangs de la Steppe t'utilisaient encore comme petit mercenaire de passage. Raven ou un de ses relais t'avait donné une tâche simple : entrer dans le comptoir de la banque UBI à Il-Irion (pas Ulghart, la cité Il-Irion elle-même), récupérer des données secrètes sur des dépôts et ressortir avant le changement de garde.
+
+L'opération a mal tourné. Un horaire était faux, ou quelqu'un avait parlé trop tôt. Tu as trouvé la pièce, mais Edorian t'a trouvé avant la sortie. Il aurait pu te livrer à la garde, te donner à l'UBI comme exemple. Il ne l'a pas fait.
+
+Edorian t'a gardé dans un bureau jusqu'à l'aube. Il t'a demandé qui t'avait envoyé, ce que tu avais vu et ce que tu savais des relais criminels d'Il-Irion. Tu n'as pas tout donné. Il n'a pas tout exigé. Au matin, il t'a laissé partir avec un message simple : un jour, il te demanderait une revanche.
+
+Depuis, vous vous connaissez bien. Edorian sait que tu n'es pas un exécutant idiot. Tu sais qu'il ment à beaucoup de monde, mais pas toujours à toi. Il t'a donné des informations utiles quand cela servait aussi le Tripot. Tu lui as ouvert quelques portes ou quelques conversations quand il fallait approcher Palyr, Arthas ou d'autres relais pour les opérations inconnues sans faire apparaître l'UBI en première ligne.
+
+C'est ta faille. Si Raven te reconnaît comme l'ancien petit mercenaire du comptoir d'Il-Irion, les Sangs peuvent te réclamer des comptes sur l'opération ratée. Si Marda apprend que tu as déjà travaillé pour eux avant le Tripot, elle peut se demander si tu as apporté une dette ennemie dans sa maison. Edorian connaît cette faiblesse et ne l'a jamais utilisée contre toi. C'est une des raisons pour lesquelles tu lui fais confiance. C'est aussi la raison pour laquelle tu lui dois encore une revanche.
+
+Pendant la convention, Edorian t'a fait passer une consigne précise. Un groupe de voleurs, les Corbeaux de Minuit, doit te chercher au Tripot, dès le vendredi. Leur chef Kael, connaît le nom d'Edorian, parce que ces gens ne travaillent jamais sans connaître le commanditaire. Ils ne sont pas des coupe-gorges de hasard : ce sont des voleurs mercenaires, dangereux, mais ils respectent un marché clair.
+
+Tu dois leur remttre une lettre et fixer un rendez-vous avec eux après minuit, dans la nuit du samedi. Tu ne t'es pas encore permis de lire cette lettre cachetée...
 
 ## Régate, banque et doubles passages
 
@@ -117,16 +133,9 @@ Tu coordonnes avec Samvel Rauk, l'autre Varek. Il tient le dehors ; tu tiens le 
 
 - Protéger le secret des deux Varek : les extérieurs doivent croire que Varek est un seul pisteur du Tripot.
 - Surveiller les salons VIP, les couloirs de service et les clients qui ne jouent pas vraiment.
-- Recouper avec Samvel les doubles passages entre quai et intérieur.
-- Prévenir Ardan si un visage mafia, UBI, Palyr ou MiVI revient trop souvent dans une zone sensible.
+- Gérer le rendez-vous des Corbeaux de Minuit après minuit, sans exposer Marda ni le Tripot.
 - Aider Marda à tenir le casino ouvert jusqu'à la fenêtre de sortie : aucun scandale inutile, aucune fuite de registre, aucun client important abandonné sans arbitrage.
 
-## Informations sensibles
-
-- Le nom Varek est un outil de Marda. Ne le corrige pas devant un extérieur.
-- Si un témoin affirme que « Varek » lui a promis quelque chose, vérifie avec Samvel avant de répondre.
-- Tu ne vends pas les informations sur Fenric, les registres ou les passages de Marda. Un client qui demande cela doit être signalé.
-- Guelievre voit beaucoup de tes mouvements. Ne lui mens pas inutilement : si elle découvre une contradiction, elle ira voir Marda.
 
 # Connaissances
 
@@ -156,7 +165,7 @@ Ysabeau tient les salons, Éliane les paris, Sira et Lira les tables. Elles voie
 
 ## Guelievre et Fenric
 
-Guelievre connaît les couloirs mieux que beaucoup de gardes. Si elle te dit qu'une réserve a été touchée, tu vérifies. Fenric tient les registres ; tu n'entres pas dans ses chiffres sans raison. Si un client cherche son bureau ou une écriture précise, tu notes et tu préviens.
+Guelievre connaît les couloirs mieux que beaucoup de gardes. Si elle te dit qu'une réserve a été touchée, tu vérifies. Fenric tient les registres ; tu n'entres pas dans ses chiffres sans raison.
 
 ---
 

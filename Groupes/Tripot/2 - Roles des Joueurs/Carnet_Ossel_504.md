@@ -2,60 +2,57 @@
 
 Carnet de comptes, couverture brune, pages tachées d'eau. Plusieurs feuillets sont recopiés d'une écriture serrée. Les montants figurent deux fois, avec des ratures en marge.
 
-## Copie de pièces closes — Maison Valdem
+---
 
-**Dossier** : Ossel-504.  
-**Origine** : pièces closes de la Maison Valdem, quai des Amarrages, Ther-Félis.  
-**Copie** : Thierus Gabarrus, an 528.
+## Déclaration — à lire si je suis mort ou arrêté
 
-## Manifeste déposé au greffe du naufrage
+Je signe sous le nom de Thierus Gabarrus, commis de la Maison Valdem à Ther-Félis. Je suis aussi Fenric Ossel, seul survivant du naufrage de l'an 504, enregistré au greffe du port félilien à seize ans. Si ce carnet est saisi, qu'on le lise devant un greffier d'Ulghart avant toute remise à Ther-Félis.
 
-**Navire** : cog de la maison Ossel, Il-Irion.  
-**Destination déclarée** : Ther-Félis.  
-**Objet déclaré** : contrôle d'un stock déposé au port félilien.  
-**Passagers inscrits** : maître Ossel, son épouse, trois enfants.  
-**Survivant relevé au greffe** : Fenric Ossel, seize ans.
+---
 
-**Naufrage** : an 504.  
-**Cause portée au greffe** : tempête, mât principal rompu, perte du pont.
+## L'affaire Ossel-504
 
-## Second manifeste (hors greffe du naufrage)
+### Le naufrage
 
-**Cale arrière** : pièces de forge palyriennes.  
-**Chargement** : hors registre ouvert.  
-**Fret** : Keld.  
-**Assurance de cargaison** : Vandesse.  
-**Destination finale** : acheteur styrgien, libellé « matériel de forge ».
+En l'an 504, la maison Ossel d'Il-Irion envoie son cog à Ther-Félis. Mon père, maître de la maison, embarque avec ma mère et mes trois frères. Une tempête casse le mât et le navire sombre dans la nuit. Je m'accroche à une planche ; un chalutier de Ther-Félis me repêche au matin. J'ai seize ans. Mon père, ma mère et mes frères sont portés morts au greffe. La maison Ossel disparaît des livres du port quelques mois plus tard.
 
-Ce second manifeste ne figure pas dans la copie remise au greffe du naufrage.
+### L'assurance
 
-## Caution Valdem
+Le navire et sa cargaison étaient assurés. Après le naufrage, l'indemnisation est versée à la Maison Valdem, quai des Amarrages à Ther-Félis. Valdem gérait les papiers de la maison Ossel et tenait les cautions du voyage.
 
-La Maison Valdem garantit une partie du transport par caution sur navire. La caution porte sur la cargaison du second manifeste.
+Cet argent devait revenir à la famille Ossel. Valdem encaisse 5 900 couronnes. Il n'ouvre aucun dépôt au nom de la maison. Il n'ouvre aucun dépôt au nom du survivant Fenric Ossel. Il classe le dossier et garde la somme.
 
-Après le naufrage, Valdem encaisse 5 900 couronnes au titre de compensation de perte.  
-Aucun versement n'est inscrit au nom de la maison Ossel.  
-Aucun dépôt n'est ouvert au nom du survivant Fenric Ossel.
+### Ce que j'ai trouvé en 528
 
-## Calcul repris en 528
+Je reste chez Valdem vingt-quatre ans, de 504 à 528, sous le nom Thierus Gabarrus. Au début de l'an 528, je retrouve dans les pièces closes de la maison le dossier Ossel-504 : contrat d'assurance, quittance d'indemnisation, écritures de la maison.
 
-**Somme encaissée par Valdem** : 5 900 couronnes.  
-**Frais déclarés par Valdem** (dossier, garde des pièces, démarches de greffe) : 700 couronnes.  
-**Solde net au nom de la maison Ossel** : 5 200 couronnes.
+Valdem déduit 700 couronnes de frais. Il reste 5 200 couronnes au nom de la maison Ossel. Il ne me les verse pas.
 
-Valdem classe ce solde en compensation close. Il ne l'inscrit pas comme dépôt pour Fenric Ossel.
+J'ajoute les intérêts au taux ordinaire de prêt de Valdem sur vingt-quatre ans, de 504 à 528 : 3 440 couronnes.
 
-**Recalcul des intérêts** (taux ordinaire de prêt Maison Valdem, vingt-quatre ans, 504–528) : 3 440 couronnes.  
-**Capital non reversé** : 5 200 couronnes.  
-**Intérêts retenus** : 3 440 couronnes.  
-**Total dû à Fenric Ossel en 528** : 8 640 couronnes.
+Total dû à Fenric Ossel en 528 : 8 640 couronnes.
 
-**Somme reprise dans les livres de Valdem avant la fuite de Gabarrus** : environ 8 400 couronnes.
+### Le vol et ce que j'ai fait
 
-## Note personnelle
+L'argent de l'assurance appartenait à ma famille. Valdem l'a pris. Elden Valdem appelle cela une affaire close. Je l'appelle un vol.
 
-Elden Valdem qualifie les écritures de fraude. Je les qualifie de reprise sur une dette non versée depuis 504.
+En 528, j'ai repris de l'argent dans les livres de Valdem — l'équivalent de ce qu'il nous devait depuis le naufrage. Valdem parle de fraude. Je parle de récupération.
 
-**Faits relevés dans le dossier** : Palyr charge la cargaison hors registre (Keld au fret, Vandesse à l'assurance). Un acheteur styrgien est inscrit comme destinataire final. Valdem cautionne le transport, encaisse après le naufrage et classe le dossier clos. Quatre membres de la maison Ossel sont portés morts au greffe. Le nom de maison disparaît des livres du port.
+Les pièces du dossier suffisent sans mon témoignage : contrat d'assurance au nom de la maison Ossel, indemnisation encaissée par Valdem, aucun versement au survivant, dossier classé.
 
-**Instruction** : en cas de saisie, faire lire ces pages devant un greffier d'Ulghart avant toute remise à Ther-Félis.
+### Sommes
+
+| Poste | Montant |
+|-------|--------:|
+| Indemnisation d'assurance encaissée par Valdem | 5 900 couronnes |
+| Frais déclarés par Valdem | 700 couronnes |
+| Solde dû à la maison Ossel | 5 200 couronnes |
+| Intérêts (504–528) | 3 440 couronnes |
+| Total dû à Fenric Ossel (528) | 8 640 couronnes |
+| Somme reprise dans les livres avant ma fuite | ~8 400 couronnes |
+
+---
+
+Copie établie par Thierus Gabarrus, an 528.  
+Origine des pièces : dossier clos Maison Valdem, quai des Amarrages, Ther-Félis.  
+Code pièce : Ossel-504.
