@@ -127,7 +127,7 @@ Edorian, directeur de l’agence, te connaît comme homme de confiance pour les 
 
 Sur le fond, vos intérêts se rejoignent : Edorian prépare une sortie qui tient avec la Régate et la passation ; tu tiens les accès sans lesquels rien ne bouge. Tu cherches à partir avec lui quand le plan le permet. Rester seul entre auditeurs, conseil entrant et coffres te paraît trop dangereux.
 
-Ydria coordonne inventaires et flux ; Selvara amène visiteurs et demandes pressantes ; Horgrim tient la sécurité visible ; Vaelric tient les mandats de recouvrement et les réquisitions ; Melian croise tes scellés sur le trésor. Chacun a sa zone ; la tienne reste celle des accès physiques, des secrets de combinaison et du poste des vannes : chaque matin tu vides les couloirs bas avant l’ouverture des salles, chaque soir tu les inondes après vingt et une heures, et tu consignes la roue dentée comme une clef de plus.
+Ydria coordonne inventaires et flux ; Selvara amène visiteurs et demandes pressantes ; Horgrim tient la sécurité visible ; Vaelric tient les mandats de recouvrement et les réquisitions ; Melian croise tes scellés sur le trésor. Chacun a sa zone ; la tienne reste celle des accès physiques, des secrets de combinaison et du poste des vannes : chaque matin tu vides les couloirs bas avant l’ouverture des salles, chaque soir tu les inondes après vingt et une heures, et tu consignes la manœuvre sur la feuille de ronde du poste vannes.
 
 La note interne sur la gestion des vannes te désigne comme opérateur de référence ; Horgrim peut te désigner un remplaçant, mais en cinq ans c’est presque toujours toi qui signes la feuille de ronde du poste.
 
@@ -153,7 +153,7 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 | Mission | Détail |
 |---------|--------|
 | Maintenir l'accès aux coffres | Tu contrôles clefs et combinaisons ; tu vérifies les doubles et les délais autorisés. |
-| Vannes d'inondation | Opérateur de référence : vidage des couloirs bas à 10 h, inondation à 21 h, roue dentée et registre du poste vannes ; signaler toute anomalie au chef de garde et au directeur. |
+| Vannes d'inondation | Opérateur de référence : vidage des couloirs bas à 10 h, inondation à 21 h, deux roues crantées (alimentation et évacuation) et registre du poste vannes ; signaler toute anomalie au chef de garde et au directeur. |
 | Inventaires | Tu participes aux inventaires officiels comme le règlement l'exige. |
 | Ouvertures de salles | Tu ouvres sous procédures annoncées avant la Régate lorsque plusieurs clients sensibles utilisent encore la maison. |
 | Passation et sortie | Tu prépares les accès et documents sensibles pour la passation ; ton sort est lié au plan de sortie du noyau et à Edorian. |
@@ -163,9 +163,9 @@ Ton but immédiat est clair et étroit : **exécuter ta part de la passation**, 
 
 ## Vannes et couloirs bas — UBI
 
-Tu connais la séquence d'alimentation et d'évacuation, l'emplacement de la roue de rechange et la feuille de ronde du poste. Tant que les couloirs sont inondés, personne n'atteint les salles des coffres sans déroger à la procédure.
+Tu connais la séquence d'alimentation et d'évacuation, l'emplacement des roues de rechange et la feuille de ronde du poste. Deux roues crantées verrouillent les mécanismes : une pour la vanne d'alimentation, une pour la vanne d'évacuation. Tant que les couloirs sont inondés, personne n'atteint les salles des coffres sans déroger à la procédure.
 
-Toute demande sur les vannes doit avoir une raison crédible : incident, inventaire, ordre d'Horgrim ou demande d'Edorian. Une manœuvre non inscrite au registre peut te livrer au chef de garde.
+Si une roue manque, tu dois le signaler sans délai à Horgrim et à Edorian : sans les deux roues, le vidage du lendemain ne peut pas s'exécuter dans les formes. Toute demande sur les vannes doit avoir une raison crédible : incident, inventaire, ordre d'Horgrim ou demande d'Edorian. Une manœuvre non inscrite au registre peut te livrer au chef de garde.
 
 ## Chambre des Vérificateurs du Trésor
 

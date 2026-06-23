@@ -1,6 +1,6 @@
 # Suivi des envois
 
-Rapport généré le 2026-06-23 19:22.
+Rapport généré le 2026-06-23 21:40.
 
 Comparaison des dates de modification entre les rôles `.md` et les exports `.pdf` dans les dossiers joueurs des groupes Tripot, MiVI, Mafia, UBI et Palyr.
 
@@ -20,13 +20,13 @@ Aucun rôle à régénérer : tous les PDF sont à jour.
 
 | Statut | Groupe | Fichier MD | Date MD | Fichier PDF | Date PDF | Dernière préparation email |
 |---|---|---|---|---|---|---|
-| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Corvus_Gardien_des_coffres.md | 2026-06-05 16:57 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Corvus_Gardien_des_coffres_20260605_165857.pdf | 2026-06-05 16:59 | - |
+| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Corvus_Gardien_des_coffres.md | 2026-06-23 21:31 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Corvus_Gardien_des_coffres_20260623_214000.pdf | 2026-06-23 21:40 | 2026-06-23 21:40:18 |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Edorian_Directeur_general.md | 2026-06-23 17:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Edorian_Directeur_general_20260623_192140.pdf | 2026-06-23 19:21 | 2026-06-23 19:21:50 |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Horgrim_Dval_Chef_garde.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Horgrim_Dval_Chef_garde_20260605_165917.pdf | 2026-06-05 16:59 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Kaelen_Veynar_Executeur_contrats.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Kaelen_Veynar_Executeur_contrats_20260605_165931.pdf | 2026-06-05 16:59 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Melian_Torv_Conseiller_spirituel.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Melian_Torv_Conseiller_spirituel_20260605_165944.pdf | 2026-06-05 16:59 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Selvara_Quenndral_Archiviste_en_chef.md | 2026-06-17 18:47 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Selvara_Quenndral_Archiviste_en_chef_20260617_185459.pdf | 2026-06-17 18:55 | 2026-06-22 18:19:00 |
-| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Sybrel_Dornik_Ombre.md | 2026-06-05 16:57 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Sybrel_Dornik_Ombre_20260605_170005.pdf | 2026-06-05 17:00 | - |
+| PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Sybrel_Dornik_Ombre.md | 2026-06-23 21:38 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Sybrel_Dornik_Ombre_20260623_214019.pdf | 2026-06-23 21:40 | 2026-06-23 21:40:27 |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Vaelric_Dorn_Discreteur.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Vaelric_Dorn_Discreteur_20260605_170015.pdf | 2026-06-05 17:00 | - |
 | PDF à jour | Banquiers - UBI | Banquiers - UBI/2 - Roles des Joueurs/UBI_Ydria_Ventoss_Tresoriere.md | 2026-06-05 16:56 | Banquiers - UBI/2 - Roles des Joueurs/UBI_Ydria_Ventoss_Tresoriere_20260605_170024.pdf | 2026-06-05 17:00 | 2026-06-22 18:19:00 |
 | PDF à jour | Mafia - Les Sangs de la Steppe | Mafia - Les Sangs de la Steppe/2 - Roles des Joueurs/Mafia_Gareth_Ironfist_Homme_de_main.md | 2026-06-22 17:44 | Mafia - Les Sangs de la Steppe/2 - Roles des Joueurs/Mafia_Gareth_Ironfist_Homme_de_main_20260622_175101.pdf | 2026-06-22 17:51 | 2026-06-22 17:52:44 |

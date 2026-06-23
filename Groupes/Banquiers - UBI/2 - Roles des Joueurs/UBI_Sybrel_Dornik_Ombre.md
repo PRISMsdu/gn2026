@@ -104,9 +104,11 @@ Depuis trois ans tu fais partie de la combine. Tes rapports à Horgrim sont vrai
 
 Les six gardes morts faisaient partie du noyau que tu as fait entrer dans la garde. Ils étaient des tiens autant que des agents de l'UBI. Tu portes leur mort comme un poids froid. Les survivants du même noyau restent exposés : chaque pas de questeur peut les enfermer ou les faire parler au mauvais moment. Les Premiers Nés cherchent à libérer Wyv, leur divinité tutélaire, et leur nouvelle tentative peut faire tomber ton couvert.
 
-La dernière tentative avortée remonte à avant-hier. En début d'après-midi aujourd'hui, les Premiers Nés t'ont contactée dans un passage que tu fréquentes sans afficher de rendez-vous. Ils retentent le coup ce soir. Le système de sécurité doit être débrayé : il faut retirer la roue crantée du mécanisme des vannes, que Corvus range chaque soir dans la chaîne des clés après l'inondation de vingt et une heures. L'idée est de laisser les couloirs bas inondés pour que Wyv circule librement. Ce n'est pas ton poste officiel. Les Premiers Nés te demandent une diversion sur les rondes, un repérage du poste ou une fenêtre où Corvus n'a pas encore consigné la manœuvre.
+La dernière tentative avortée remonte à avant-hier. En début d'après-midi aujourd'hui, les Premiers Nés t'ont contactée dans un passage que tu fréquentes sans afficher de rendez-vous. Ils retentent le coup ce soir. Le système de sécurité des couloirs bas repose sur deux mécanismes de vannes, chacun verrouillé par une roue crantée : une pour l'alimentation, une pour l'évacuation. Corvus exécute l'inondation à vingt et une heures. Sans ces roues, personne ne peut vider les couloirs bas ; Wyv pourrait circuler librement pendant que l'eau reste en place.
 
-La passation et la Régate vont remplir le fort de monde. Plus de monde signifie plus de mouvements dans les tunnels, plus d'angles morts, plus de risques que quelqu'un voie ce que les Premiers Nés font. Ton travail sera de t'assurer que les bons passages soient libres au bon moment et que les mauvais témoins soient ailleurs.
+Ce soir, c'est à toi de récupérer les deux roues crantées juste après la fermeture de vingt et une heures, une fois la manœuvre de Corvus terminée. Au Tripot à vingt-trois heures, dans un couloir de service que tu connais déjà, tu remets les deux roues aux Premiers Nés et, en même temps, le code de la chambre forte. Ce n'est pas ton poste officiel. Si ton nom ou tes initiales figurent sur la feuille de ronde du poste vannes, Horgrim te tiendra pour responsable.
+
+La passation et la Régate vont remplir le fort de monde. Plus de monde signifie plus de mouvements dans les tunnels, plus d'angles morts, plus de risques qu'on te voie sortir du poste des vannes ou traverser le fort avec les roues en main. Ton travail sera de t'assurer que les bons passages soient libres au bon moment et que les mauvais témoins soient ailleurs.
 
 ## Chapitre V : Le réseau et les relations
 
@@ -130,7 +132,7 @@ Le groupe UBI entier est dans la combine depuis trois ans. Tu le sais, ils saven
 - **Six gardes morts** : empêcher que l'enquête des questeurs relie les morts au noyau de recrues que tu as recommandé à Horgrim.
 - **Sortie personnelle** : préparer une issue qui ne dépend pas de la banque une fois la Régate passée.
 - **Premiers Nés** : aider les survivants sans brûler ton couvert ; leur ouvrir un passage ou un silence utile quand cela ne t'inscrit pas dans les rapports.
-- **Roue des vannes** : ce soir, créer une brèche autour du poste des vannes pour que la roue puisse être retirée ou récupérée sans que ton nom figure sur la feuille de ronde de Corvus.
+- **Roues et chambre forte** : ce soir, après vingt et une heures, récupérer les deux roues crantées des mécanismes d'alimentation et d'évacuation ; au Tripot à vingt-trois heures, les remettre aux Premiers Nés avec le code de la chambre forte, sans laisser ton nom sur la feuille de ronde de Corvus.
 
 ---
 
@@ -152,12 +154,15 @@ Ce n'est pas un allié officiel. Son nom cache quelque chose, et le Tripot ne di
 
 Marda Velyss cache un lien avec la Styrgie. Tu as repéré ce lien par ses protections, par des noms évités dans les couloirs du Tripot et par des messages qui ne passent pas par les familles d'Il-Irion. Edorian connaît cette information parce que tu lui en as transmis les éléments utiles.
 
-## Premiers Nés et roue des vannes
+## Premiers Nés, roues et chambre forte
 
 Il y a trois ans, tu as recommandé à Horgrim un noyau de recrues liées aux Premiers Nés. Les six morts venaient de ce noyau. Les survivants cherchent encore à agir dans les couloirs bas.
 
-La seconde tentative dépend du poste des vannes et de la roue crantée que Corvus range après l'inondation de vingt et une heures. Une diversion, un repérage ou une fenêtre de ronde peuvent suffire. Une signature de ta main au registre des vannes te relierait directement à la manœuvre.
+Le poste des vannes commande deux mécanismes distincts. Chaque vanne est verrouillée par sa propre roue crantée. Tant qu'elles manquent, les couloirs bas restent inondés et Wyv peut circuler.
 
+La chambre forte qui enferme Wyv est verrouillée par un code numérique. Tu l'as récupérer discrêtement lors de tes rondes dans les couloirs bas, assez tôt pour le transmettre ce soir sans passer par Corvus.
+
+**Ce soir** : récupérer les deux roues juste après la fermeture ; au Tripot à vingt-trois heures, remettre les roues et le code aux Premiers Nés.
 ---
 
 *GN Krondaar 2026*
