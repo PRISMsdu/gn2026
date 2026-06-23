@@ -140,11 +140,10 @@ Tu tiens le dossier complet des cadres des Sangs de la Steppe et de leurs couver
 | Nom | Rôle dans les Sangs | Couverture dans la Guilde des Ports Unis |
 |-----|---------------------|------------------------------------------|
 | Kaelan Thormane | Chef de famille | Maître des quais |
-| Vorak Ironhand | Second | Maître des Entrepôts |
+| Vorak Ironhand | Second et clerc de cellule | Maître des Entrepôts |
 | Gareth Ironfist | Homme de main | Maître des Chantiers navals |
-| Drask Bloodmoon | Alchimiste interrogateur | Maître des Marins |
 | Shadow | Infiltration et extorsion | Couvertures variables : aide de greffe, commis de quai, messager de route, employé d'entrepôt ou visiteur attaché à un chantier |
-| Raven | Réseaux et négociation externe | Maître des routes |
+| Raven | Réseaux et négociation externe | Maître des routes et Maître des Marins |
 
 Pour le public, ces personnes appartiennent à la Guilde des Ports Unis. Leur lien avec les Sangs reste une information cachée. La Guilde sert de façade commerciale et logistique au réseau.
 

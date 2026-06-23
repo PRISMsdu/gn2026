@@ -101,7 +101,7 @@ Tu mens par omission et tu refermes l'affaire toi-même. La gamine survit. Elle 
 
 À vingt-huit ans, le réseau t'a recruté pour des missions ponctuelles. À trente ans, tu as signé comme cadre des Sangs de la Steppe. Tu places des documents compromettants dans les coffres d'élites, tu copies des sceaux, tu fabriques des fuites, et tu fais tomber des familles en utilisant leurs propres lettres.
 
-Contrairement à Kaelan, Vorak, Gareth, Drask et Raven, tu ne portes pas une branche fixe de la Guilde des Ports Unis. Ta couverture visible change selon la mission : aide de greffe, commis de quai, messager de route, employé d'entrepôt ou visiteur attaché à un chantier. Cette absence de titre fixe protège ton nom civil, mais elle t'oblige à coordonner chaque approche avec Raven ou Vorak pour ne pas contredire leur version publique.
+Contrairement à Kaelan, Vorak, Gareth et Raven, tu ne portes pas une branche fixe de la Guilde des Ports Unis. Ta couverture visible change selon la mission : aide de greffe, commis de quai, messager de route, employé d'entrepôt ou visiteur attaché à un chantier. Cette absence de titre fixe protège ton nom civil, mais elle t'oblige à coordonner chaque approche avec Raven ou Vorak pour ne pas contredire leur version publique.
 
 Il y a six mois, tu as mené une infiltration dans la banque d'Il-Irion dont les rumeurs circulent encore dans le réseau. Vorak fixe le calendrier de tes opérations. Raven tient les rencontres ouvertes sur les quais et dans les parlements. Avant de revoir un même clerc ou un même greffier, vous vous accordez pour qu'aucun de vous deux ne le sollicite le même jour. Un témoin pressé deux fois parle à la milice, ou ferme sa porte.
 

@@ -76,7 +76,7 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 
 ## 4. Mafia - Les Sangs de la Steppe
 
-*Mise à jour consolidation* : synthèse alignée sur `Groupes/Mafia - Les Sangs de la Steppe/interactions du groupe Mafia.md` ; casting joueurs : Kaelan, Vorak, Gareth, Drask, Shadow, Raven.
+*Mise à jour consolidation* : synthèse alignée sur `Groupes/Mafia - Les Sangs de la Steppe/interactions du groupe Mafia.md` ; casting joueurs : Kaelan, Vorak, Gareth, Shadow, Raven.
 
 | Personnage du groupe (Mafia) | Personnage en interaction | Descriptif rapide |
 |---|---|---|
@@ -87,18 +87,17 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Kaelan Thormane | Cyrion Valdris (Il-Irion, Maison Valdris) | Chantage par l’héritage Lysara ; série de lettres CP tenue par le chef. |
 | Vorak Ironhand | Marda Velyss (Tripot) | Dette orale de salle distincte du papier du chef ; synchroniser quai et casino avec Kaelan. |
 | Vorak Ironhand | Staal (imprimerie, contrat Sfaal–Palyr) | Levier sur les nerfs des cités ; angle différent du bordereau Edorian du chef. |
-| Vorak Ironhand | Edorian, Sybrel, Vaelric, Ydria, Melian (UBI) | Chaque fiche porte un angle ou une pièce distincte : éviter que deux joueurs citent le même code sans accord table. |
+| Vorak Ironhand | Edorian, Sybrel, Vaelric, Ydria, Melian (UBI) | Angle coordinateur et clerc de cellule : lecture chimique, stress des dossiers, soins et cadre des interrogatoires. |
 | Vorak Ironhand | Cyrion Valdris (Il-Irion) | Un fragment du dossier Valdris seulement ; le chef garde la série complète. |
 | Gareth Ironfist | Korran Vesper (PNJ) | Escorte terrestre des remises ; pas le même billet que le gage du chef. |
 | Gareth Ironfist | Marda Velyss (Tripot) | Dette de jeu et couloir libre ; zone sensible, pas alliance ouverte. |
 | Gareth Ironfist | Edorian / UBI | Angle muscle et accès — pas le dossier entier du recouvreur mandaté. |
 | Gareth Ironfist | Cyrion Valdris (Il-Irion) | Facette surtaxes portuaires distincte des lettres d’adultère exploitées ailleurs. |
-| Drask Bloodmoon | Sybrel Dornik, Vaelric Dorn, Ydria Ventoss (UBI) | Lecture chimique et stress des dossiers ; cadre interrogatoires avec Vorak. |
-| Drask Bloodmoon | Korran Vesper (PNJ) | Synchronisation si une séquence relie pirates et preuves fer. |
 | Raven | Korran Vesper (PNJ) | Remises d’or et grilles quai ; même ligne BM que le chef sur les signatures. |
 | Raven | Marda Velyss (Tripot) | Reconnaissance RD alignée sur le chef ; parlements quai et casino. |
-| Raven | Torven Sorel (Guilde des Ports Unis, nom public) | Levier commerce et acier hors seul Tripot. |
-| Raven | Bloc UBI (Edorian à Cyrion) | Relais codes et tempo ; croisement avec Drask sur fil tunnels si besoin. |
+| Raven | Torven Sorel (Guilde des Ports Unis, nom public) | Levier commerce, routes, marins et acier hors seul Tripot. |
+| Raven | Capitaines du canal d'Ulghart | Grève possible, passages du fort, blocage des délégations et des fuites. |
+| Raven | Bloc UBI (Edorian à Cyrion) | Relais codes et tempo ; croisement avec Vorak sur fil tunnels si besoin. |
 | Shadow | Edorian, Sybrel, Vaelric, Ydria, Melian, Cyrion (UBI / Il-Irion) | Fuites et infiltration ; lien personnel avec Sybrel porté par Shadow seul parmi les Sangs. |
 
 ---
@@ -209,7 +208,7 @@ Croisement tablés ailleurs (intrigue générale ou fiches Il-Irion) sans mentio
 | Lucan Drest | Intermédiaires Arthas / Ther-Félis (pièce AN) | Routes et escales ; noms utiles Sera Orist, Jonn Halet, Maison Veth & Roole. |
 | Varro Selt | Gareth Ironfist / Maître des Chantiers navals (Guilde des Ports Unis) | Contact violent des Sangs sous couverture Guilde ; ses rendez-vous peuvent croiser ceux du détachement. |
 | Varro Selt | Duc Thoren Forgefer (Sfaal, fer) | Convoi et violence possible sur détournement ; lien dossier fer CO-II-547. |
-| Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas fusionner avec l’angle chimique Drask sans arbitrage. |
+| Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas fusionner avec l’angle chimique de Vorak sans arbitrage. |
 | Varro Selt | Fausse piste Palyr (FA) | Distinct du message tunnel Sybrel ; pas fusionner en accusation publique. |
 | Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Joueur professionnel au casino : paris, salons, protections autour de Marda, muscle maison ; recoupement avec Ysel sur ce qui doit tenir en preuve. |
 

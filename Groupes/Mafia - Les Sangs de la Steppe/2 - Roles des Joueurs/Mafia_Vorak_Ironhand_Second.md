@@ -1,4 +1,4 @@
-# Vorak Ironhand — Second
+# Vorak Ironhand — Second et clerc de cellule
 
 <!-- GN 2026 — Les Sangs de la Steppe. Texte joueur : tutoiement, in-univers. -->
 
@@ -35,15 +35,15 @@ Epopée en Krondaar
 | Nom du personnage | Vorak Ironhand |
 | Joueur | Eric Ferrière |
 | E-mail joueur | ferrieres.eric@gmail.com |
-| Rôle dans le groupe | Second — coordinateur opérationnel |
-| Classe / profession | Guerrier |
-| Compétences | Transe ; Torture |
+| Rôle dans le groupe | Second — coordinateur opérationnel et clerc de cellule |
+| Classe / profession | Clerc (Jorok) |
+| Compétences | Torture ; Chirurgie ; Secourisme |
 | Groupe | Les Sangs de la Steppe |
 | Points de santé | 5 |
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Couverture visible : Maître des Entrepôts dans la Guilde des Ports Unis |
+| Remarques | Couverture visible : Maître des Entrepôts dans la Guilde des Ports Unis ; coffre de pharmacie, soins d'urgence et cadre des interrogatoires |
 | Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
@@ -51,9 +51,9 @@ Epopée en Krondaar
 
 | Élément | Description |
 |---------|-------------|
-| Traits de caractère | Peu bavard, méthodique, attentif aux horaires, aux accès et aux hommes disponibles. Tu vérifies le lieu, l'heure, le responsable et le résultat attendu. |
-| Valeurs | Ordres clairs, exécution propre, compte rendu à Kaelan. Tu sépares les tâches pour protéger le réseau. |
-| Peur | Perdre une équipe parce qu'un relais parle trop tôt ou qu'un cadre agit sans prévenir les autres. |
+| Traits de caractère | Peu bavard, méthodique, attentif aux horaires, aux accès, aux hommes disponibles et aux doses administrées. Tu vérifies le lieu, l'heure, le responsable et le résultat attendu. |
+| Valeurs | Ordres clairs, exécution propre, témoin vivant quand il doit reparler, compte rendu à Kaelan. Tu sépares les tâches pour protéger le réseau. |
+| Peur | Perdre une équipe parce qu'un relais parle trop tôt ; tuer un témoin utile par mauvaise dose ; voir une fiole remonter jusqu'au coffre des Sangs. |
 | Rêve | Quitter les Sangs avec Kaelan, les quittances du MiVI et assez d'or pour ne plus dépendre d'Elfrion ni des contrats de route. |
 
 ---
@@ -71,6 +71,8 @@ Très jeune, ta famille t'a placé chez les Loups Gris, une milice contractuelle
 Dans les Loups Gris, tu as monté en grade sur les routes intérieures de la République et aux frontières d'Elfrion. Tu lisais les cartes mieux que la plupart des officiers. Sur un même axe, tu savais faire passer trois groupes sans qu'ils se croisent ni se dénoncent.
 
 Les contrats de la compagnie n'étaient pas tous propres. Certains convois transportaient des armes sans marque, des coffres non déclarés ou des prisonniers que personne ne réclamait. Tu n'as pas cherché à devenir juge : tu as appris à savoir qui commandait, qui payait, qui devait rester ignorant.
+
+Les Loups Gris avaient aussi besoin d'hommes capables de recoudre un blessé sans médecin officiel. Un clerc de Jorok attaché à la compagnie t'a appris les gestes utiles : nettoyer une plaie, poser une suture, reconnaître une fièvre de campagne, calmer un prisonnier avant qu'il ne meure trop tôt. Cette formation n'a jamais fait de toi un guérisseur public. Elle a fait de toi l'homme qu'on appelle quand un corps doit tenir jusqu'au rapport.
 
 À cette époque, tu as fixé ta méthode. Un ordre doit donner le lieu, l'heure, l'homme responsable et le résultat attendu. Quand il manque une de ces quatre choses, tu redemandes avant d'agir.
 
@@ -90,9 +92,13 @@ Cette affaire t'a donné une réputation interne : tu ne fais pas seulement peur
 
 La Guilde des Ports Unis t'a ensuite offert une couverture stable. Tu es devenu Maître des Entrepôts. En public, tu parles de stocks, de registres de transit, de manutention et d'horaires de chargement. Ce poste te donne accès aux hommes qui touchent les caisses, ouvrent les magasins et ferment les portes sans demander ce que contient chaque ballot.
 
-## Second des Sangs — ordres et limites
+## Second des Sangs — ordres, cellules et pharmacie
 
-Aujourd'hui, Kaelan tranche les grandes décisions et tu organises l'exécution. Gareth reçoit les cibles d'intimidation et les limites à ne pas franchir sans ordre. Drask reçoit le cadre des interrogatoires : qui questionner, combien de temps, et quel résultat doit remonter.
+Aujourd'hui, Kaelan tranche les grandes décisions et tu organises l'exécution. Gareth reçoit les cibles d'intimidation et les limites à ne pas franchir sans ordre. Tu cadres aussi les interrogatoires : qui questionner, combien de temps, quelle substance utiliser, et quel résultat doit remonter.
+
+Tu tiens le coffre de pharmacie du réseau : antidotes, sédations et substances de vérité. Chaque sortie de fiole est inscrite sur un registre interne. Ton nom n'apparaît sur aucune étiquette qui circule hors du coffre. Avant chaque séance, tu fixes l'entrée, la sortie, les minutes disponibles et la phrase exacte que le témoin doit pouvoir répéter.
+
+Raven te renvoie parfois des informateurs interrogés trop durement par d'autres. Tu les soignes pour qu'ils repartent debout, ou tu préviens Kaelan qu'ils ne sont plus utilisables. Shadow te demande parfois un avis sur une lettre, un verre ou un greffier nerveux ; tu ne remplaces pas son travail de coffre, mais tu sais reconnaître une main qui tremble, une pupille anormale ou une odeur de substance.
 
 Tu connais la vérité sur les Sangs. Le récit public parle d'une menace de la steppe, de tribus du nord et d'un réseau étranger aux cités. En interne, tu sais que l'argent et les ordres viennent du MiVI, le service secret de la Styrgie. Cette vérité ne sort pas devant les dockers, les délégués, les imprimeurs ni les hommes de la Guilde.
 
@@ -118,10 +124,14 @@ Tu transformes les décisions de Kaelan en ordres exécutables. Tu désignes les
 
 En public, tu restes Maître des Entrepôts de la Guilde des Ports Unis. Tu contrôles des stocks, des horaires de chargement, des accès aux magasins et des registres de transit. Cette couverture suffit pour parler à un contremaître, un garde de quai ou un délégué sans citer les Sangs.
 
+En cellule, tu tiens les soins, la pharmacie et les interrogatoires. Tu ne sors aucune substance par initiative personnelle : Kaelan ordonne, ou tu obtiens son accord avant usage. Si un blessé des Sangs, un pirate ou un témoin arrive mal en point, tu peux le stabiliser assez longtemps pour qu'il parle ou pour qu'il quitte le fort sans exposer le réseau.
+
 ## Objectifs prioritaires
 
 - Exécuter les ordres de Kaelan sans exposer la couverture de la Guilde : un ordre, un responsable, un compte rendu.
 - Obtenir des informations sur le futur conseil de l'UBI : candidats, alliances, votes possibles, accès aux coffres ou aux archives.
+- Préparer et administrer soins d'urgence, sédations, antidotes et substances de vérité selon consigne de Kaelan.
+- Documenter les aveux utiles au MiVI sans signer ton nom sur des étiquettes qui circulent seules.
 - Identifier qui protège le Tripot, puis tester les flux, les gardes ou les clients sans exposer les Sangs.
 - Retrouver la trace des quinze mercenaires partis sur la route Il-Irion-Ulghart : morts, prisonniers, vendus ou retournés contre vous.
 - Protéger la sortie négociée des cadres : dossiers en main, quittances du MiVI, paiement des dettes qui peuvent provoquer une fuite publique.
@@ -131,6 +141,8 @@ En public, tu restes Maître des Entrepôts de la Guilde des Ports Unis. Tu cont
 ## Informations sensibles
 
 - Si l'équipe disparue a été engagée contre les Sangs ou contre le MiVI, Kaelan doit l'apprendre rapidement.
+- Une fiole mal étiquetée qui circule hors du coffre peut faire identifier le réseau. Tu connais les doses et tu ne prêtes jamais la mallette à un autre cadre.
+- Le MiVI examine les échecs d'interrogatoire au gramme et à la minute près. Si une mission rate, présente les chiffres exacts, jamais une approximation.
 - Le lien MiVI-Styrgie-Sangs ne doit pas sortir sous ta voix. Même un homme de la Guilde n'a pas besoin de cette vérité.
 - Les dossiers Tripot, Staal et quai ne se traitent pas devant les mêmes témoins. Si tu mélanges les acteurs, tu facilites le travail d'un enquêteur.
 
@@ -155,17 +167,25 @@ Cette résistance ne ressemble pas seulement à du courage. Quelqu'un de très h
 
 Edorian dirige l'Union bancaire d'Il-Irion. Il compte dans la passation du conseil, les accès aux coffres et les silences que l'UBI vend aux grandes maisons. Une accusation directe contre lui expose aussi la Guilde si elle n'est pas préparée.
 
+## Sybrel Dornik — UBI
+
+Sybrel arpente les sous-sols de la banque. Tu n'as pas de dossier direct sur elle. Si Raven ou Kaelan te demandent un avis avant une scène où elle est présente, reste sur ton domaine : état d'un témoin, traces de substances, cohérence d'un récit physique.
+
 ## Maître Vaelric Dorn — UBI
 
 Vaelric Dorn gère les fuites et les scandales de l'UBI. Il peut enterrer une affaire, relancer une rumeur ou retarder une enquête si l'échange lui rapporte quelque chose. Il ne faut pas lui apporter une menace vague : il faut lui proposer un silence, une copie ou un témoin.
 
 Si tu veux l'occuper, coordonne-toi avec Raven ou Shadow avant de faire circuler une rumeur. Si tu veux négocier, propose-lui de retarder une enquête sur la Guilde ou de détourner l'attention d'un quai précis. Ne lui donne pas deux versions différentes du même dossier.
 
+Si on te confie un extrait ou un témoin qu'il a auditionné, note ce qui colle ou non au corps : tremblements, pupilles, cicatrices récentes, fatigue ou trace de substance.
+
 ## Dame Ydria Ventoss — UBI
 
 Dame Ydria Ventoss lit les écarts comptables et les audits. Son nom croise des dettes, notamment avec Forgefer. Le contrat DE-II-546-001 est suivi de près par Gareth.
 
 Avant de presser un débiteur lié à Ydria, parle à Gareth. Deux pressions le même jour peuvent faire fuir la cible ou attirer un audit. En commission, tu peux poser une question de procédure ou de délai plutôt que l'accuser sans pièce.
+
+Si un délégué ou un greffier passe par ta salle après une convocation chez elle, relève les signes de fatigue extrême ou de poison léger déjà administré par un tiers. Ne fais cette observation que si Kaelan te l'ordonne.
 
 ## Melian Torv — UBI
 
@@ -184,6 +204,10 @@ Tu détiens CP-III-542-002 seul, comme exemple de la mécanique utilisée contre
 La missive reçue par pigeon parle de quinze hommes, d'un acheteur anonyme et d'une intervention armée sur la route Il-Irion-Ulghart. Plusieurs de ces mercenaires ont déjà travaillé avec les Sangs. Aucun n'a encore réclamé de solde ni donné de signe par vos relais.
 
 Interroge les relais du quai, les auberges sur la route et les blessés de l'hôpital de charité. Si l'un revient, isole-le et préviens Kaelan avant qu'il parle à la milice. Cherche surtout qui a payé, qui était visé et pourquoi personne ne revient.
+
+## Autres clercs, alchimistes et herboristes
+
+La Convention attire des vendeurs de remèdes, des herboristes de délégation et probablement quelques alchimistes sérieux. Il y aura aussi des charlatans. Tu peux acheter des antidotes, vérifier une poudre ou repérer un concurrent, mais ne montre jamais le registre des fioles des Sangs.
 
 ---
 

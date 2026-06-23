@@ -165,7 +165,7 @@ Tu connais au moins les noms des personnes qui touchent à la sûreté, aux fila
 - Varek, nom d'usage au Tripot à Ulghart : pisteur du Tripot. Il suit les gens sur les quais et dans les coulisses.
 - Soren, nom d'usage au Tripot à Ulghart : homme de main de la maison. Il traite les basses œuvres propres, les poisons et les potions.
 
-La Guilde des Ports Unis a son siège à Il-Irion et parle officiellement pour les métiers des ports. Tu peux croiser ses responsables pendant la Régate. Torven Sorel préside la Guilde. Kaelan Thormane est maître des quais. Vorak Ironhand est maître des entrepôts. Gareth Ironfist est maître des chantiers navals. Drask Bloodmoon est maître des marins. Raven, nom d'usage public, est maître des routes. Ces charges leur donnent une raison officielle de parler aux capitaines, aux dockers, aux greffiers de quai et aux délégations.
+La Guilde des Ports Unis a son siège à Il-Irion et parle officiellement pour les métiers des ports. Tu peux croiser ses responsables pendant la Régate. Torven Sorel préside la Guilde. Kaelan Thormane est maître des quais. Vorak Ironhand est maître des entrepôts. Gareth Ironfist est maître des chantiers navals. Raven, nom d'usage public, est maître des routes et maître des marins. Ces charges leur donnent une raison officielle de parler aux capitaines, aux dockers, aux greffiers de quai et aux délégations.
 
 
 ## Éliane — paris autour de la régate (Tripot)

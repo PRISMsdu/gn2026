@@ -19,7 +19,7 @@ Le nom « Sangs de la Steppe » est une couverture. Il attribue les actes du ré
 
 Sur les quais et dans les comptoirs, le réseau opère sous le nom de la très reconnue Guilde des Ports Unis.
 
-Vous êtes six à la tête du réseau : un chef, un second, un homme de main, un alchimiste chargé des interrogatoires, et deux figures qui circulent sous des noms de code — Shadow et Raven. Vous arrivez à Ulghart pour la Régate et le renouvellement du conseil de l'UBI, avec l'ensemble de ces dossiers en main.
+Vous êtes cinq à la tête du réseau : un chef, un second qui tient aussi les soins de cellule, un homme de main, et deux figures qui circulent sous des noms de code — Shadow et Raven. Vous arrivez à Ulghart pour la Régate et le renouvellement du conseil de l'UBI, avec l'ensemble de ces dossiers en main.
 
 ---
 
@@ -53,15 +53,13 @@ Vous êtes les parrains, les boss dont les signatures engagent le réseau et don
 
 Kaelan Thormane décide et signe. Il porte la discussion avec le MiVI quand les ordres ne peuvent pas s’appliquer tels quels sur le terrain sans exposer le réseau. Kaelan est également le Maître des quais (dockers) dans la Guilde.
 
-Vorak Ironhand coordonne les opérations majeures, les cellules et les relais : quand une opération se termine ou qu’un site se ferme, il réaffecte les hommes et les itinéraires. Maitre des Entrepots.
+Vorak Ironhand coordonne les opérations majeures, les cellules et les relais : quand une opération se termine ou qu’un site se ferme, il réaffecte les hommes et les itinéraires. Il tient aussi la pharmacie du réseau, les soins d'urgence et les substances utilisées pour obtenir des aveux ou des déclarations. Maitre des Entrepots.
 
 Gareth Ironfist tient l’intimidation physique, la protection des cadres et les règlements qui ne passent pas par un tribunal. Maitre des Chantiers Navals.
 
-Drask Bloodmoon tient les salles d’interrogatoire, les soins et les substances utilisées pour obtenir des aveux ou des déclarations. Maitre des Marins, les durs, les vrais.
-
 Shadow tient infiltration, chantage et documents. Le poste cumule plusieurs accès et plusieurs mandats. Maitre de rien, mais maitre de tout en fait, car il tient tous les informateurs de tous les corps de métiers dans sous son réseau. 
 
-Raven tient l’extérieur : informateurs, parlementaires, négociations. Maitre des routes (publication et respects des contrats commerciaux fixés durant la Régate)
+Raven tient l’extérieur : informateurs, parlementaires, négociations. Il porte aussi la charge de Maître des Marins : soins visibles des équipages, discipline du syndicat des marins, plaintes de bord et négociation avec les capitaines du canal. Maitre des routes (publication et respects des contrats commerciaux fixés durant la Régate)
 
 Vous avez entretenu des contacts avec des courants séparatistes d’Arthas et de Ther-Félis qui se tournent vers la Styrgie.
 
@@ -131,11 +129,10 @@ Vous tenez un rapport interne sur la naissance de la Guilde des Ports Unis et le
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
 | Kaelan Thormane | Chef de famille | Grandes décisions ; interface avec la ligne Elfrion / MiVI | Mathieu Lescure |
-| Vorak Ironhand | Second / coordinateur | Opérations majeures, cellules, relais | Eric Ferrière |
+| Vorak Ironhand | Second / coordinateur / clerc de cellule | Opérations majeures, cellules, relais, soins et substances | Eric Ferrière |
 | Gareth Ironfist | Homme de main | Intimidation, protection, règlements | Olivier Ledreux |
-| Drask Bloodmoon | Alchimiste interrogateur | Soins, substances, interrogatoires | Luc Zawierta |
 | Shadow | Infiltrateur et expert en extorsion | Renseignement, infiltration, chantage, documents *(nom de code)* | Stephen |
-| Raven | Maître des réseaux et négociateur | Informateurs, parlement, extérieur ; paiement de Korran Vesper (pirates) | Sylvain Biosca |
+| Raven | Maître des réseaux, des routes et des marins | Informateurs, parlement, extérieur, capitaines du canal ; paiement de Korran Vesper (pirates) | Sylvain Biosca |
 
 ---
 

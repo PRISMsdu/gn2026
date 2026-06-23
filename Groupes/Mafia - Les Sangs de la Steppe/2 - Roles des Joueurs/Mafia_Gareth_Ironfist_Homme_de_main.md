@@ -76,7 +76,7 @@ Tu as servi plusieurs années dans des compagnies auxiliaires de la République 
 
 Tu faisais déjà partie des Sangs de la Steppe quand, à trente ans, on t'a confié la charge visible de Maître des Chantiers navals dans la Guilde des Ports Unis. Kaelan Thormane commande ; Vorak Ironhand te donne le rythme et l'heure. C'est ton métier visible : surveillance des cales, sécurité des ouvriers, litiges sur les réparations. Cette charge te permet d'être sur les chantiers à toute heure, d'entendre les conversations des ouvriers et de tenir tranquilles les hommes qui refusent de parler aux prévôts.
 
-Drask Bloodmoon te fournit poisons, sédatifs et antidotes selon la mission. Shadow t'appelle quand une infiltration tourne mal au Tripot ou à la banque et qu'il faut sortir un homme en vie.
+Vorak Ironhand te fournit poisons, sédatifs et antidotes selon la mission. Shadow t'appelle quand une infiltration tourne mal au Tripot ou à la banque et qu'il faut sortir un homme en vie.
 
 ## Il y a treize ans — Corven Halst (mission ratée)
 

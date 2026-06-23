@@ -21,6 +21,6 @@ Chaque ligne part des **fiches PJ** (section Connaissances) ; les arbitrages int
 | Lucan Drest | Intermédiaires Arthas / Ther-Félis (pièce AN) | Routes et enchères d’escales ; noms utiles Sera Orist, Jonn Halet, Maison Veth & Roole. |
 | Varro Selt | Gareth Ironfist / Maître des Chantiers navals (Guilde des Ports Unis) | Contact violent des Sangs sous couverture Guilde ; ses rendez-vous peuvent croiser ceux du détachement. |
 | Varro Selt | Duc Thoren Forgefer (Sfaal, fer) | Convoi et violence possible sur détournement ; tu relies au dossier fer et au CO-II-547. |
-| Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas confondre avec l’angle chimique de Drask sur un même fil. |
+| Varro Selt | Receveur anonyme / empreinte D.B. | Conciliation hors greffe et sorties « propres » ; ne pas confondre avec l’angle chimique de Vorak sur un même fil. |
 | Varro Selt | Fausse piste Palyr (FA) | Distinct du message tunnel Sybrel ; tu ne mélanges pas les deux en accusation publique. |
 | Miraen Talvas | Varek, Marda Velyss, Éliane, Ardan Trevil (Tripot) | Accès au casino par son profil de joueur professionnel : paris, salons, protections autour de Marda, muscle maison ; recoupement avec Ysel sur ce qui doit tenir en preuve. |

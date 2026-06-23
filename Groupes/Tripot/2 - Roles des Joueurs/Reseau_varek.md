@@ -9,12 +9,13 @@ Le réseau fonctionne par recoupement. Un nom vu au quai par Samvel et revu dans
 ## Il-Irion
 
 - Marek Thorne — Il-Irion, réseaux gris : opérateur de renseignement et contacts marchands. Ses relais peuvent croiser ceux de Samvel autour de la Guilde des Ports Unis, des dettes de délégation et du Tripot. S'il remonte un nom depuis les tables vers une maison d'Il-Irion, notez qui paie et qui reçoit l'information.
-- Garrick Halvaren — Il-Irion, sécurité de coalition : protecteur des dirigeants et homme des intimidations visibles. Il travaille contre l'extorsion mafieuse qui vise les patriciens. S'il approche le Tripot, il peut chercher un appui contre les Sangs ou une porte discrète vers Marda.
+- Garrick Halvaren — Il-Irion, sécurité de coalition : protecteur des dirigeants et homme des intimidations visibles. Homme très droit qui peut devenir un allié et un protecteur contre des informations qui servent les intérêts d'Il-Irion.
 
 ## Palyr
 
 - Saevar Dren — Palyr, chef de la sécurité : agent de terrain, addict au jeu, débiteur du Tripot. Lira tient le détail de sa dette, et Éliane peut le voir revenir aux tables pendant la Régate. Saevar peut acheter une information, demander un silence ou céder sous pression si sa dette menace de remonter à Corvyn.
 - Maren Holt — Palyr, commandant militaire : responsable visible du dossier fer et coordinateur des Cinq Feux pendant la Convention. Il sait reconnaître une filature mal tenue. S'il cherche les Varek, c'est probablement pour recouper un passage, un rapport de quai ou un accès autour de la banque.
+- Émissaire palyrien et UBI : il y a moins d'un mois, Samvel a vu un messager discret entrer au fort depuis les quais. Il n'a pas identifié sa maison, mais son accent sonnait palyrien. Theodran a recoupé ensuite une rencontre discrète entre ce messager et une personne de l'UBI, dans un couloir mal éclairé. Il n'a pas pu dire s'il s'agissait de Melian, de Sybrel ou de Horgrim. Dans votre métier de doubleur, deux passages qui se répondent ne sont pas une preuve, mais ce n'est pas du hasard.
 
 ## Ther-Félis
 

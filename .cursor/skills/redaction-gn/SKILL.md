@@ -112,6 +112,7 @@ Relire **chaque phrase**. Supprimer ou réécrire si :
 | Métaphore, jeu de mots, image poétique | Remplacer par action concrète |
 | Mot abstrait seul (*marge*, *levier*, *angle*, *ombre*, *résonner*, *tisser*, *voix*, *fil*) | Nommer qui fait quoi |
 | « ligne » au sens fil d'intrigue orga | Nommer l'enjeu : banque, mafia, audit, fuite |
+| Fiche-contact télégraphique (*Nom, cité, verbe vague ; relation utile tant que…*) | Déplier en faits : statut de la personne, habitude observable, monnaie d'échange, action possible pour le PJ |
 | « accord table », « autoplay », « selon MJ » dans la bio | Déplacer en commentaire HTML ou note orga |
 | Voix passive / jargon archive dans la voix perso | Acteur + verbe concret |
 | Peur / rêve / valeurs en énigme | Reformuler en fait concret |
@@ -170,6 +171,9 @@ Relire **le document entier**, phrase par phrase **et chapitre par chapitre**, c
 
 - ❌ *Liste d'intermédiaires pour enchères d'escales. Noms utiles : Sera Orist, Jonn Halet, Maison Veth & Roole.*
 - ✅ *Pendant la Convention, les maisons se disputent l'ordre d'accostage et les rabais fret. Sera Orist (Arthas, armateur) peut soutenir une sous-enchère Palyr–Il-Irion. Jonn Halet (Ther-Félis) attribue les quais ; négocie en personne. Maison Veth & Roole sert aux billets différés — seulement si Théven l'ordonne.*
+
+- ❌ *Joric Tann, Ther-Félis, joue et emprunte des rumeurs ; relation utile tant qu'il revient aux tables.*
+- ✅ *Joric Tann est un joueur connu de Ther-Félis. Il perd assez souvent au Tripot pour devoir négocier avec la maison. Quand il manque d'argent, il propose des informations de quai, des noms de marins ou des rendez-vous de taverne. Tu peux le faire entrer dans ton réseau d'informateurs si ses informations se vérifient.*
 
 Cette passe **s'applique après** les passes 4 à 6. Elle ne remplace pas l'anti-charabia : elle vérifie que le sens reste explicite une fois le style corrigé, **y compris à l'échelle d'un chapitre entier**.
 

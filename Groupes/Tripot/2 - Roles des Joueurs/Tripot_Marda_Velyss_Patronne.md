@@ -44,7 +44,7 @@ Epopée en Krondaar
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
 | Âge | 57 ans (47 ans à la prise du Tripot d'Ulghart) |
-| Remarques | Herboriste ; poisons (dont contact mortel, antidote personnel) ; mage des sceaux ; Exécutrice des Rédempteurs sur l'île d'Ulghart |
+| Remarques | Herboriste ; poisons (dont contact mortel, antidote personnel) ; mage des sceaux ; Exécutrice des Rédempteurs sur l'île d'Il-Irion |
 | Argent — paiement VIP UBI (10 %) | 54 060 couronnes |
 | Argent — réserve personnelle Rédempteurs | 73 380 couronnes |
 | Pugilat | 3 |
@@ -54,6 +54,7 @@ Epopée en Krondaar
 | Élément | Description |
 |---------|-------------|
 | Traits de caractère | Peu de mots en public. Décisions prises sur chiffres et délais. |
+| Signe distinctif | Petit dragon tatoué sur un avant-bras. Le motif vient des rites Orkhan-Tal et n'a jamais été reproduit exactement hors de ta lignée. |
 | Valeurs | Protéger les onze qui travaillent avec toi. Partir avec assez d'or pour ne plus dépendre du fort. |
 | Peur | Fermeture du site avant d'avoir encaissé ce que la banque doit encore. |
 | Rêve | Quitter Ulghart avec la table entière, l'argent convenu, et savoir qui a payé la mort de Therne. |
@@ -64,17 +65,18 @@ Epopée en Krondaar
 
 ## Jeunesse dans le clan
 
-Tu es née dans l'Empire tchélène, au nord. Ton clan est l'un des plus puissants des tribus. Ton nom de naissance n'est pas Marda Velyss. Tu ne le donnes qu'en cas de force majeure.
+Tu es née dans l'Empire tchélène, au nord. Ton nom de naissance est Khavraïa Orkhan-Tal, de la lignée des Orkhanides. 
+Les Orkhanides descendent de Khavra l'Ancienne, cheffe de guerre et prêtresse impériale. Les tribus du nord disent qu'elle a uni trois clans par un serment de sang devant l'autel d'Ul-Kharn. Ton clan garde ce récit dans ses rites et dans ses contrats de mariage.
 
-On t'apprend à lire dettes et alliances. Les femmes de ta lignée te dressent pour commander ou épouser un chef : tenue, silence, punitions. Tu as été frappée devant la tente commune. Tu as vu une cousine mariée de force à un allié beaucoup plus âgé. Personne n'a protesté.
+On t'apprend à lire comptes et alliances. Les femmes de ta lignée te dressent pour commander ou épouser un chef : tenue, silence, punitions. Tu as été frappée devant la tente commune. Tu as vu une cousine mariée de force à un allié beaucoup plus âgé. Personne n'a protesté.
 
-À douze ans, tu sais que le camp ne te laissera pas choisir. La Confédération des cités libres du Levant est au sud. Tu observes les caravanes qui descendent vers ses ports.
+À douze ans, tu comprends ce que ton nom impose. Une fille Orkhan-Tal sert à sceller une alliance entre clans. Elle sert aussi d'offrande pendant l'Avènement d'Ul-Kharn, un rite impérial où une héritière de l'ancienne lignée meurt pour confirmer l'obéissance des tribus au trône.
 
 ## Fuite à dix-sept ans
 
-Il y a quarante ans, tu as dix-sept ans. Les chefs de ta lignée meurent en peu de mois. Les rites te nomment héritière. Le destin se referme sur toi pus tôt que prévu, alors tu fuis. Tu voles des pièces au trésor familial. Un changeur complice les fait passer en monnaie utile sur les routes du sud. Tu falsifies des sceaux sur du cuir. Tu repères un convoi de marchands qui descend vers la Confédération.
+Il y a quarante ans, tu as dix-sept ans. Les chefs de ta lignée meurent en peu de mois. Les rites te nomment héritière. Les anciens du clan parlent alors d'un mariage forcé, puis d'une offrande si l'Empire réclame l'Avènement d'Ul-Kharn.
 
-Tu voles des pièces au trésor familial. Un changeur complice les fait passer en monnaie utile sur les routes du sud. Tu falsifies des sceaux sur du cuir. Tu joins un convoi de marchands qui descend vers la Confédération.
+Tu fuis avant qu'ils choisissent pour toi. Tu voles des pièces au trésor familial. Un changeur complice les fait passer en monnaie acceptée sur les routes du sud. Tu falsifies des sceaux sur du cuir. Tu joins un convoi de marchands qui descend vers la Confédération.
 
 Une nuit de pluie, tu pars en servante avec un faux laissez-passer. Tu suis le convoi trois mois. À Arthas, tu prends le nom Marda Velyss. Tu dis venir d'une famille ruinée de Styrgie. Tu continues vers le sud jusqu'à Sfaal, sans presque rien en poche.
 
@@ -101,7 +103,7 @@ A tes trente ans, Therne disparaît un matin d'hiver. Il laisse tes carnets et u
 ## Il-Irion, bistrots et tripots
  Tu gagnes alors Il-Irion. Pendant quinze ans, tu passes des bistrots du port aux tripots de la ville : servir, compter, calmer une table, repérer un tricheur. Les patrons te prêtent leurs salles les soirs chargés. Le milieu connaît Marda Velyss : mains sûres, bouche fermée, yeux sur les coffres. Ceux qui outrepassent tes règles finissent malades sans que personne ne te voie verser quoi que ce soit.
 
-Des hommes du milieu portuaire proposent une protection : part sur les caisses, hommes en salle. Tu refuses. C'est ton premier contact avec les Sangs de la Steppe. Le nom sonne tchélène ; ils ne parlent pas ta langue natale.
+Des hommes du milieu portuaire proposent une protection : part sur les caisses, hommes en salle. Tu refuses. C'est ton premier contact avec les Sangs de la Steppe. Le nom sonne tchélène ; pour autant ils ne parlent pas ta langue natale.
 
 Ils envoient un messager. Tu le renvoies sans signer.
 
@@ -125,128 +127,120 @@ Il y a dix ans, tu as quarante-sept ans. Tu installes ta table au Tripot d'Ulgha
 
 **Ce que tu sais en plus** : les Rédempteurs t'avaient poussée avant la signature. Tu ne leur as jamais dit le lien avec la guilde.
 
-Dès le début, tu ouvres des comptes séparés que l'auditeur de la banque ne voit pas : réserves pour les Rédempteurs, entrées et sorties notées à part. La guilde y dépose et y retire. Elle utilise souvent le casino pour blanchir de l'argent : gros perdants en salle, dettes effacées contre liquidités propres, écritures qui ne remontent pas aux livres UBI. Tu ne mélanges pas ces flux avec la paye de ton équipe.
+Dès le début, tu ouvres des comptes séparés que l'auditeur de la banque ne voit pas : réserves pour les Rédempteurs, entrées et sorties notées à part. La guilde y dépose et y retire. Elle utilise souvent le casino pour blanchir de l'argent : gros perdants en salle, reconnaissances effacées contre liquidités propres, écritures qui ne remontent pas aux livres UBI. Tu ne mélanges pas ces flux avec la paye de ton équipe.
 
 Tu refais l'équipe sur la version publique.
 
-Tu recrutes Ardan Trevil pour l'ordre en salle : il vient des cercles de jeu d'Arthas, il a dû tuer un homme des Darsen après une erreur de jugement, il s'est enfui sur Il-Irion ; tu le connaissais déjà dans le milieu des tripots et tu l'as fait venir au Tripot. Les sœurs Sira et Lira Vestrann, de Palyr, tiennent les tables ; leur querelle de famille sert parfois le spectacle, parfois complique tes arbitrages. Tu confies le nom de code Varek à deux pisteurs : Samvel Rauk, que tu connaissais déjà sur d'autres ports, surveille le quai, les arrivées et les sorties ; Theodran Veyr surveille les coulisses, les salons et les relais internes. Les extérieurs croient souvent parler d'un seul homme. Toi et Ardan savez lequel a vu quoi. Lydwen gère tirages et lectures quand une décision ne peut pas reposer sur un seul chiffre. Éliane monte les paris, surtout autour de la mer et de la régate. Ysabeau tient les salons où l'on signe des dettes autant que des mises. Fenric Ossel arrive quand les volumes augmentent : livres pour l'UBI, totaux pour toi, registres que l'auditeur ne doit pas voir. Guelievre Marech, que tu rappelles de sa retraite, tient la gouvernante : réserves, service, couloirs ; elle te rapporte ce qu'elle entend et vide la maison quand tu dis que c'est trop tard. Soren rejoint plus tard pour la chimie et les interventions que la salle ne doit pas voir ; tu ne lui as pas demandé son histoire complète.
+Tu recrutes Ardan Trevil pour l'ordre en salle : il vient des cercles de jeu d'Arthas, il a dû tuer un homme des Darsen après une erreur de jugement, il s'est enfui sur Il-Irion ; tu le connaissais déjà dans le milieu des tripots et tu l'as fait venir au Tripot. Les sœurs Sira et Lira Vestrann, de Palyr, tiennent les tables ; leur querelle de famille sert parfois le spectacle, parfois complique tes arbitrages. Tu confies le nom de code Varek à deux pisteurs : Samvel Rauk, que tu connaissais déjà sur d'autres ports, surveille le quai, les arrivées et les sorties ; Theodran Veyr surveille les coulisses, les salons et les relais internes. Les extérieurs croient souvent parler d'un seul homme. Toi et Ardan savez lequel a vu quoi. Lydwen gère tirages et lectures quand une décision ne peut pas reposer sur un seul chiffre. Éliane monte les paris, surtout autour de la mer et de la régate. Ysabeau tient les salons où l'on signe des engagements autant que des mises. Fenric Ossel arrive quand les volumes augmentent : livres pour l'UBI, totaux pour toi, registres que l'auditeur ne doit pas voir. Guelievre Marech, que tu rappelles de sa retraite, tient la gouvernante : réserves, service, couloirs ; elle te rapporte ce qu'elle entend et vide la maison quand tu dis que c'est trop tard. Soren rejoint plus tard pour la chimie et les interventions que la salle ne doit pas voir ; tu ne lui as pas demandé son histoire complète.
 
-Il y a sept ans, tu as cinquante ans. Au bout de trois ans de service au Tripot, la guilde te nomme Exécutrice sur l'île d'Ulghart. C'est là que tu prends du galon, pas à Il-Irion. Tu rends compte à l'assemblée. Tu reverses un tiers des gains de tes hommes, comme l'exige la règle, mais tu récupères bien plus qu'avant : honoraires, parts sur les mandats, rentrées des douze assassins rattachés à l'île. Tu connais parfaitement ce réseau : douze noms, douze habitudes, douze façons d'entrer et de sortir sans trace inutile.
+Il y a sept ans, tu as cinquante ans. Au bout de trois ans de service au Tripot, la guilde te nomme Exécutrice sur l'île d'Il-Irion. Tu prends alors une vraie place dans la hiérarchie des Rédempteurs. Tu pilotes l'activité de la guilde sur toute l'île : mandats, comptes, caches, parts et agents. Tu rends compte à l'assemblée. Tu reverses un tiers des gains de tes hommes, comme l'exige la règle, mais tu récupères bien plus qu'avant : honoraires, parts sur les mandats, rentrées des douze assassins rattachés à l'île. Tu connais parfaitement ce réseau : douze noms, douze habitudes, douze façons d'entrer et de sortir sans trace inutile.
 
 Tu gardes la ligne que Therne t'avait apprise sur les éliminations. La guilde en a fait une politique sous le fort : mandats propres seulement, au sens où la cible est une ordure — coupable de faits affreux que les tribunaux ont relâchés, marchand d'esclaves, officier protégé, tyran de quartier. Les dossiers sont souvent déjà connus des greffes. C'est plus rentable pour tout le monde : moins de vendetta aveugle, plus de clients qui paient, moins de chasse sur vos pas. Tu refuses le reste. L'assemblée suit, parce que tu tiens les comptes et les résultats.
 
-Tu es toujours Exécutrice aujourd'hui. Les chefs de mafia restent en retrait. Tu mandates tes douze contre les petites mains trop proches du casino : percepteurs, hommes de main, poseurs. Pas les chefs. Pas de morts ouvertes, mais des signaux nets quand ils s'approchent trop. Le nom de la famille d'Il-Irion qui a payé la mort de Therne reste inconnu.
+Tu es toujours Exécutrice aujourd'hui. Les chefs de mafia restent en retrait. Tu mandates tes douze contre les petites mains trop proches du casino : percepteurs, hommes de main, poseurs. Pas les chefs. Pas de morts ouvertes, mais des signaux nets quand ils s'approchent trop.
 
-## Cinq ans de ligne grise avec l'UBI
+## Cinq ans avec Edorian
 
-Il y a cinq ans, le conseil de la banque change à Ulghart. Edorian de Courcel devient directeur général. Il arrive avec un cercle restreint — trésorerie, archives, garde — déjà habitué à fermer les portes et à faire passer des écritures hors registre public. Ce n'est pas ton Tripot qui tourne mal : c'est la banque qui cherche un masque visible.
+Il y a cinq ans, le conseil de la banque change à Ulghart. Edorian de Courcel devient directeur général. Il arrive avec un cercle restreint — trésorerie, archives, garde — déjà habitué à fermer les portes et à faire passer des écritures hors registre public. Il cherche un lieu où faire passer l'argent détourné par l'UBI.
 
-Edorian te convoque dans un bureau du bâtiment UBI, pas en salle. Il pose le contrat de gestion du casino sur la table et une liasse de bordereaux vierges. Il explique sans détour : une part des montants détournés en interne doit repasser par ta caisse, ressortir propre, et ne jamais figurer sur les livres que tu remettras à l'auditeur. Le Tripot devient laveur : gros perdants fictifs en salle, dettes effacées contre liquidités qu'on peut montrer, honoraires et marges notés sur des feuilles que seuls toi et lui paraphez parfois d'une initiale E.
+Edorian te convoque dans un bureau du bâtiment UBI, pas en salle. Il pose le contrat de gestion du casino sur la table et une liasse de bordereaux vierges. Il explique sans détour : une part des montants détournés en interne doit repasser par ta caisse, ressortir propre, et ne jamais figurer sur les livres que tu remettras à l'auditeur. Le Tripot devient laveur.
 
-Tu refuses la première fois. Il ne parle pas encore de fermeture : il évoque un contrôle serré sur ton mandat, une visite surprise, un rapport que Sybfel, le surveillant interne, pourrait rédiger si on fouillait trop vos nuits. Tu as déjà des carnets que l'UBI ne doit pas voir — ceux des Rédempteurs, séparés depuis ton arrivée. Edorian mélange volontairement « couches cachées » et rumeurs sur un lien avec la Styrgie. Il menace de te dénoncer à la République si tu ne coopères pas sur son circuit, sans préciser ce qu'il croit savoir.
+Tu refuses la première fois. Il ne parle pas encore de fermeture : il évoque un contrôle serré sur ton mandat, une visite surprise, un rapport que Sybrel Dornik, la surveillante interne, pourrait rédiger si on fouillait trop vos nuits. Tu as déjà des carnets que l'UBI ne doit pas voir — ceux des Rédempteurs, séparés depuis ton arrivée. Edorian mélange ces carnets avec les rumeurs sur ton lien supposé avec la Styrgie. Il menace de te dénoncer à la République si tu ne coopères pas, sans préciser ce qu'il croit savoir.
 
-Tu acceptes dix pour cent. Ce n'est pas un cadeau : c'est ce qu'il offre pour que la maison tienne pendant que la banque salit ses mains. L'argent sale entre par des circuits que tu n'affiches pas sur la porte du casino. Tu le traites comme une contrainte de métier, avec des nuits où toi et Fenric refermez les livres longtemps après la dernière table : lui sépare ce qui tient devant l'auditeur de ce qui tient devant ta caisse interne. Edorian t'oblige ensuite à accélérer : volumes plus gros, délais plus courts. Éliane ajuste paris et cotes quand des navires ou des intérêts extérieurs veulent des alignements précis ; Ysabeau signe des dettes en salon quand il faut effacer une trace avant l'aube. Tu travailles pour lui autant que pour le Tripot, parce qu'il tient le mandat, les bordereaux compromettants, et le bluff styrgien.
+Tu acceptes dix pour cent. Ce n'est pas un cadeau : c'est ce qu'il offre pour que la maison tienne pendant que la banque salit ses mains. L'argent sale entre par des circuits que tu n'affiches pas sur la porte du casino. Tu le traites comme une contrainte de métier, avec des nuits où toi et Fenric refermez les livres longtemps après la dernière table : lui sépare ce qui tient devant l'auditeur de ce qui tient devant ta caisse interne. Edorian t'oblige ensuite à accélérer : volumes plus gros, délais plus courts. Éliane ajuste paris et cotes quand des navires ou des intérêts extérieurs veulent des alignements précis ; Ysabeau signe des engagements en salon quand il faut effacer une trace avant l'aube. Tu travailles pour lui autant que pour le Tripot, parce qu'il tient le mandat, les bordereaux compromettants, et le bluff styrgien.
 
 Depuis longtemps, tu as expliqué à Ardan, Fenric et au reste de l'équipe ce que tu appelles ta situation d'otage : Edorian peut te dénoncer à la Styrgie si tu freines trop son circuit. Ils savent que tu n'es pas styrgienne. Ils savent aussi qu'un greffier ou un auditeur pressé peut croire au pire. Tu ne leur as pas tout dit sur la guilde ni sur l'étendue réelle des carnets.
 
-Sur cinq ans, la maison a encaissé environ dix pour cent de ces flux. Tu as tenu la porte ouverte parce que cela payait l'équipe et les réparations. Aujourd'hui tu estimes que le risque réel — garnison, fermeture, noms livrés dans un rapport — valait quinze pour cent et un arriéré avant que le conseil entrant ne verrouille les preuves. Ce n'est plus une querelle de bureau : c'est le prix que tu fixes pour des années où tu as tenu le Tripot ouvert pendant que la banque salissait ses livres.
+Sur cinq ans, la maison a encaissé une part des montants passés par le Tripot. Tu as tenu la porte ouverte parce que cela payait l'équipe et les réparations. Aujourd'hui tu veux solder ce compte avant que le conseil entrant ne verrouille les preuves.
 
-Les carnets VIP d'Edorian donnent une base nette : de IX-542 à VIII-547, 540 600 couronnes sont passées par les contrats VIP. Dix pour cent reviennent à ta caisse interne, soit 54 060 couronnes. Les quinze pour cent que tu réclames représentent 81 090 couronnes ; l'arriéré à obtenir est donc de 27 030 couronnes. Cet argent n'est pas la réserve du Tripot ni la paie de l'équipe : c'est le paiement du risque UBI, séparé des livres officiels et des fonds des Rédempteurs.
+Les carnets VIP d'Edorian donnent la base de calcul. Cet argent n'est pas la réserve du Tripot ni la paie de l'équipe : c'est le paiement du risque UBI, séparé des livres officiels et des fonds des Rédempteurs.
 
-Depuis deux ans, des incidents frappent le casino : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Six de ces gardes sont morts récemment sur les quais. Ardan soupçonnait l'un d'eux. Holgrim, chef des gardes de la banque, n'a jamais donné suite à tes signalements. Avec les morts, il te considère davantage comme un problème que comme une plaignante.
+Depuis deux ans, des incidents frappent le casino : poissons pourris dans les réserves, départs de feu dans les coulisses, petits dégâts sur les accès. Le rythme a commencé un an après l'arrivée de certains gardes de la banque. Six de ces gardes sont morts récemment sur les quais. Ardan soupçonnait l'un d'eux. Horgrim Dval, chef des gardes de la banque, n'a jamais donné suite à tes signalements. Avec les morts, il te considère davantage comme un problème que comme une plaignante.
 
 ## Sangs de la Steppe
 
-Les Sangs de la Steppe et leurs hommes du quai reviennent plus souvent à Ulghart. Ils demandent une part sur les caisses ou le droit de contrôler les entrées. Tu résistes avec l'appui des Rédempteurs.
-
-Kaelan Thormane et Raven passent pour des têtes du réseau. Ils sont venus en personne une ou deux fois dans la salle. Tu n'as pas cédé le fonds de commerce. Le reste du milieu serre autour du casino.
-
-Le réseau est le même que celui qui a exécuté le mandat contre Therne Vallis. Le nom de la famille d'Il-Irion qui a payé reste inconnu. C'est peut-être une monnaie d'échange.
-
-Les carnets des Rédempteurs servent toujours pour les passages hors livres UBI. Fenric voit qu'il existe des totaux en dessous des registres officiels. Il n'en parle pas devant la salle. Il ignore que la guilde y passe.
+Les Sangs de la Steppe et leurs hommes du quai reviennent plus souvent à Ulghart. Ils demandent une part sur les caisses ou le droit de contrôler les entrées. Tu résistes avec ton réseau et l'appui des Rédempteurs.
 
 ## Styrgie, Empire et ce qui remonte sur ton passé
 
-Depuis un an ou deux, des rumeurs circulent : des émissaires styrgiens auraient reçu des indications sur une héritière de clan tchélène réfugiée dans la Confédération. Tu ne sais pas qui a parlé. Tu sais que la Styrgie cherche des leviers contre la Confédération et que ton profil peut servir s'ils te mettent la main dessus.
+La Styrgie et l'Empire tchélène se surveillent et se menacent depuis des années. Ton nom de naissance, Khavraïa Orkhan-Tal, peut servir de monnaie d'échange entre eux. Si la Styrgie prouve ton identité, elle peut te livrer à l'Empire ou menacer de le faire.
 
-À Ulghart, une autre rumeur revient souvent, surtout quand la délégation styrgienne est présente : si tu mourais sur le sol confédéré et que la mort était imputée à la Styrgie, alors que ton nom figure déjà sur des lettres impériales que tu n'as pas toutes lues, l'Empire pourrait frapper des voisins. Tu ne sais pas si c'est exact. Des négociateurs s'en servent pour te ménager ou te faire peur. Tu t'en sers parfois toi-même, sans l'avouer.
+Tu sais que l'Empire tchélène ne cessera jamais de te chercher. Ses rites ne changent pas. Une héritière Orkhan-Tal reste une héritière, même après quarante ans de fuite.
 
-L'Empire, de son côté, n'a pas cessé sa recherche lente. Tu as croisé une fois, à Il-Irion, un homme en bureaux impériaux qui t'a regardée trop longtemps avant de repartir. Tu as changé d'auberge le soir même.
+Ta disparition est devenue une légende dans les tribus du nord. Pour certains, tu es morte sur la route du sud. Pour d'autres, tu vis encore sous un faux nom dans les cités de la Confédération. Une héritière Orkhan-Tal qui échappe au mariage, au sacrifice et aux anciens du clan blesse l'orgueil des grandes familles. Ton exemple gêne l'ordre tchélène : il prouve qu'une femme promise aux rites peut disparaître et vivre libre.
+
+Un petit dragon tatoué sur ton avant-bras peut confirmer ton identité si un agent tchélène sait quoi chercher. Le motif a été piqué pendant ton enfance, avant ta fuite, selon un dessin propre aux femmes Orkhan-Tal promises aux rites. Tu le gardes couvert en public. Si quelqu'un le voit et le décrit correctement, il peut donner à l'Empire tchélène la preuve que Marda Velyss est Khavraïa Orkhan-Tal.
 
 ## Ce week-end à Ulghart
 
-La Régate et la Convention remplissent le fort. Un nouveau conseil UBI annonce audit et vertu. Tu dois obtenir quinze pour cent sur cinq ans de flux passés par la maison, en numéraire ou en engagements écrits, avant que les pièces ne soient classées hors de portée.
+La Régate et la Convention remplissent le fort. Un nouveau conseil UBI annonce audit et vertu. Les contrats VIP d'Edorian sont des preuves : ils permettent de dénoncer l'UBI, de vendre un silence, ou de faire disparaître des pièces que plusieurs familles veulent enterrer.
 
-Tu cherches un appui côté Il-Irion contre la pression des Sangs. Tu connais de nom Garrick Halvaren, chargé de la sécurité dans la coalition des grandes maisons. Il ne te connaît pas. Tu pourrais le contacter pendant le séjour et te rapprocher des familles coupables de la mort de ton ancien maître Therne.
+Tu peux choisir entre plusieurs décisions. Tu peux tenir le casino, protéger l'équipe et livrer l'UBI au nouveau conseil ou à une cité qui saura exploiter les preuves. Cette option protège le Tripot à court terme, mais elle t'expose à une accusation de fraude : ton nom figure dans les registres, et Fenric peut confirmer que des écritures ont été tenues hors des livres officiels.
 
-Corvyn Valdrak, délégation Palyr, veut réduire ou fermer le Tripot parce que Saevar s'y ruine au jeu. Vous êtes opposées sur ce point. Il va falloir trouver une solution.
+Tu soupçonnes aussi des discussions secrètes entre Palyr et des membres du conseil sortant de l'UBI. Ce n'est pas une preuve. C'est un recoupement de passages et d'informations. Les Varek peuvent confirmer ou infirmer cette piste par leurs observations.
 
-Joric Tann, Ther-Félis, joue et emprunte des rumeurs ; relation utile tant qu'il revient aux tables.
+Tu peux aussi acheter le silence ou la complicité de familles présentes à la Convention. Certaines peuvent avoir intérêt à garder un lien avec le casino, à récupérer des contrats VIP, ou à empêcher que leurs noms sortent avec ceux d'Edorian. L'or compte, mais les preuves comptent autant : un contrat remis, conservé ou détruit peut valoir plus qu'un paiement.
+
+Les Rédempteurs sont une autre option. Une somme importante appartenant à la guilde se trouve dans les coffres du Tripot. La guilde connaît ta valeur et peut intervenir sans attendre un appel formel : protéger son argent, couvrir ta fuite ou reprendre le casino par un prête-nom. Tu peux aussi partir avec l'argent et les pièces les plus chères, puis négocier avec le plus offrant : UBI, Palyr, Il-Irion, Rédempteurs ou autre famille intéressée.
 
 ---
 
 # Tes missions et objectifs
 
-- **Commission et arriéré** : obtenir quinze pour cent sur cinq ans de flux passés par le Tripot, en or ou en écrit, sans provoquer une fermeture immédiate du site.
+- **Commission et arriéré** : faire reconnaître par l'UBI la somme due à ta caisse interne, en or ou en écrit, sans provoquer une fermeture immédiate du site.
 - **Tenir le fort** : garder le casino ouvert et présentable jusqu'à la date que tu as fixée pour le départ ; pas d'émeute ni de fermeture administrative prématurée.
-- **Mafia et banque** : tenir face à la remontée des Sangs et à la direction UBI sans guerre ouverte en salle ; ou céder le casino que tu devrais quitter contre le nom des familles d'Il-Irion qui ont payé pour Therne.
-- **Départ Palyr** : faire signer ou constater devant témoins le passage, l'or et le silence promis.
+- **Mafia et banque** : tenir face à la remontée des Sangs et à la direction UBI sans guerre ouverte en salle.
+- **Palyr et UBI** : faire confirmer par les Varek s'il existe un canal discret entre Palyr et le conseil sortant, puis décider si cette piste sert à vendre des preuves, acheter un appui ou préparer une fuite.
 - **Therne** : retrouver le nom de la famille Il-Irion qui a payé la mafia pour le tuer.
-
 
 
 ---
 
 # Connaissances
 
-## Edorian et la direction UBI
+## Edorian de Courcel — montants UBI
 
-Edorian compte encore pour plusieurs familles riches d'Il-Irion. Il a des parentés lointaines, des alliances de dettes et des secrets qu'il menace de sortir si on l'attaque. Le frapper ouvertement exposerait le Tripot avant de le mettre réellement en danger.
+Les carnets VIP d'Edorian donnent une base chiffrée : de IX-542 à VIII-547, 540 600 couronnes sont passées par les contrats VIP du Tripot.
 
-Pour cette raison, tu as longtemps présenté la situation à ton équipe comme une prise d'otage par la banque. Tu n'as pas parlé d'une guerre directe contre Edorian. Cette version protège le Tripot et te garde une possibilité de négocier les quinze pour cent que tu réclames.
+La part déjà touchée par le Tripot est de dix pour cent, soit 54 060 couronnes. Tu réclames quinze pour cent, soit 81 090 couronnes. L'arriéré à obtenir est donc de 27 030 couronnes.
 
-## Rédempteurs
-
-Tu es toujours Exécutrice sur l'île d'Ulghart : les douze assassins te répondent encore, en dehors de ce que le Tripot affiche. Les messagers passent par les comptes séparés ou par rendez-vous discrets en ville basse ou au casino. Tu reverses ce qu'on attend de toi sans discuter en public. En échange, ils ne demandent pas de compte sur ta sève grise ni sur les noms que tu cherches pour Therne. Aucun membre du Tripot ne sait que tu restes liée aux Rédempteurs. Depuis quelques jours Fenric a des doutes. Non pas sur la guilde elle-même, mais sur l'origine du réseau qui protège le Tripot et la raison de cette triple comptabilité.
-
-Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas : c'est le total reversé à MV, soit trente pour cent des mandats depuis 540. Elle vient de tes années comme Exécutrice : parts sur les mandats propres, honoraires de coordination, prélèvements sur les douze assassins rattachés à l'île, et quelques affaires que tu as traitées toi-même quand la cible touchait trop près au Tripot. Elle est séparée du paiement VIP UBI : autre caisse, autres carnets, autres risques.
-
-Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas. Ce montant correspond au total reversé à MV, soit trente pour cent des mandats depuis 540. Il vient de tes années comme Exécutrice : parts sur les mandats propres, honoraires de coordination, prélèvements sur les douze assassins de l'île et affaires traitées toi-même quand la cible touchait trop près au Tripot. Cette réserve est séparée du paiement VIP UBI : autre caisse, autres carnets, autres risques.
-
-La guilde t'a rappelé plusieurs fois la consigne si Ulghart devient trop dangereux : tu dois libérer le casino. Elle le reprendra par une autre façade, un autre contrat ou un autre nom sur la porte. De ton côté, tu quitterais le titre d'Exécutrice et tu accepterais une retraite. Dans leur langage, cette retraite veut souvent dire peu d'années devant toi, pas un port tranquille. Tu préfères tenir Ulghart tant que l'arriéré de la banque et le nom du payeur de Therne ne sont pas réglés.
-
-## Kaelan, Raven et les Sangs
-
-Kaelan Thormane et Raven portent la pression du quai et de la Guilde des Ports Unis. Leur réseau remonte depuis Il-Irion. Aujourd'hui, il veut une commission, un droit de regard sur les caisses ou un accord qui te lie avant la Régate.
-
-Tu refuses de leur livrer le fonds de commerce. Leurs visites en salle ont été courtes et directes. Le vrai danger vient surtout des relais qu'ils laissent autour du fort.
-
-Garrick Halvaren travaille côté Il-Irion contre l'extorsion mafieuse qui vise les patriciens. Tu as entendu son nom, mais il ne connaît pas le tien. Un rendez-vous avec lui pourrait t'aider sans lier le Tripot à une maison précise.
-
-## Palyr
-
-Des négociateurs palyriens ont parlé de navire et de cachette d'or. Ces sujets peuvent servir à organiser un départ, un transport ou une garantie.
-
-Corvyn Valdrak, lui, veut te voir perdre le casino pour protéger Saevar du jeu. Dans la délégation Palyr, tu dois donc distinguer les alliés possibles des adversaires.
-
-## Styrgie
-
-La délégation styrgienne à la Convention suit les flux d'or et les alliances entre cités. Ton casino attire des capitaines et des officiers qui parlent aussi à leurs ambassadeurs. La Styrgie n'aime pas les maisons qui refusent de négocier.
-
-Si un émissaire styrgien te contacte, il proposera sans doute protection ou neutralité en échange d'un geste public ou d'une information sur la banque, les coffres ou les délégations rivales. Tu peux refuser. Tu peux temporiser. Tu peux accepter un rendez-vous pour voir ce qu'ils offrent, sans rien signer sur-le-champ.
-
-Tu n'es pas styrgienne. Edorian le sait quand il menace de te « dénoncer » à la Styrgie : c'est un bluff. En revanche, si la Styrgie croit pouvoir t'utiliser, elle le fera sans scrupule.
-
-## Banque : gardes et Holgrim
-
-Holgrim Dval commande les gardes de la banque. Tes plaintes sur les dégradations et les gardes suspects n'ont pas été suivies. Les six morts compliquent sa procédure interne. Il te voit comme une personne gênante, pas comme une plaignante à aider.
+Fenric tient ces montants dans le registre officieux.
 
 
-## Annexe — les douze du réseau (Il-Irion)
+## Rédempteurs — registres et réserve
 
-Sous ton mandat d'Exécutrice, la guilde te confie douze assassins rattachés à l'île d'Ulghart. La plupart viennent du port d'Il-Irion ou y repassent encore pour les contrats. Tu connais leur nom, leur spécialité et leur manière d'entrer ou de sortir du fort sans attirer la garnison.
+Aucun membre du Tripot ne sait que tu es Exécutrice des Rédempteurs. Fenric sait seulement que tu tiens avec lui un troisième registre. Il ne connaît pas le nom de la guilde.
 
-L'équipe du Tripot ignore leurs visages. Seule toi les croises vraiment. L'un des Varek a parfois aperçu un passage de loin, sans connaître toute l'organisation.
+Ta réserve personnelle liée aux Rédempteurs s'élève à 73 380 couronnes au VIII-30 547, d'après le registre Matelas. Ce total correspond à la part MV : trente pour cent des mandats depuis 540.
+
+La guilde t'a rappelé sa consigne si Ulghart devient trop dangereux : tu dois quitter le casino. Les Rédempteurs reprendront ensuite le site par un autre contrat ou un autre prête-nom.
+
+## Kaelan Thormane et Raven — Sangs de la Steppe
+
+Kaelan Thormane et Raven se présentent à Ulghart sous la couverture de la Guilde des Ports Unis. Ils demandent une part sur les caisses ou un droit de contrôle sur les entrées.
+
+## Garrick Halvaren — Il-Irion, sécurité de la coalition
+
+Garrick Halvaren coordonne la sécurité des familles patriciennes d'Il-Irion à Ulghart pendant la Convention. Tu connais son nom parce qu'il est cité comme un homme capable de tenir tête aux Sangs. Il ne connaît pas le tien.
+
+## Palyr — Corvyn Valdrak
+
+Corvyn Valdrak porte le mandat du Légat de Palyr à Ulghart. Il veut réduire ou fermer le Tripot parce que Saevar Dren joue chez toi.
+
+Tu n'as pas la preuve d'un accord Palyr-UBI. Tu as une intuition construite par les passages observés autour de la banque et du Tripot. Demande aux Varek de recouper les émissaires palyriens, les visiteurs UBI et les allers-retours qui évitent les audiences publiques.
+
+## Joric Tann — Ther-Félis
+
+Joric Tann est marin et skipper pour Ther-Félis. Il fréquente les tavernes, les jeux et les quais. Il perd assez souvent au Tripot pour devoir négocier avec la maison. Quand il manque d'argent, il propose des informations de quai, des noms de marins ou des rendez-vous de taverne. Tu peux le faire entrer dans ton réseau d'informateurs si ses informations se vérifient.
+
+## Horgrim Dval — garde UBI
+
+Horgrim Dval commande la garde de la banque au fort. Il tient les accès aux coffres, les rotations de garde et les zones sensibles.
+
+
+## Les douze du réseau d'Il-Irion
+
+La liste suivante n'est pas connue de l'équipe du Tripot. Samvel Rauk ou Theodran Veyr a déjà vu passer un messager ou un porteur, sans connaître les noms.
 
 | Nom | Spécialité d'intervention |
 |-----|---------------------------|
@@ -263,7 +257,7 @@ L'équipe du Tripot ignore leurs visages. Seule toi les croises vraiment. L'un d
 | Tavian Doublevis | Déguisement, doublure, remplacement court |
 | Corvin Marquéheure | Filature, horaires, repérage des cibles |
 
-Tu mandates presque uniquement des cibles « propres ». Pour les petites mains de la mafia, tu utilises surtout Maréflot, Gorgefil ou Lamecourt pour envoyer un signal, blesser ou faire peur. Tu évites d'ouvrir une guerre de chefs en plein Tripot.
+Tu refuses les mandats qui ne tombent pas dans la catégorie « ordures » que Therne t'avait apprise. Pour les petites mains de la mafia trop proches du casino, tu mandates surtout Maréflot, Gorgefil ou Lamecourt. Pas les chefs. Pas de morts.
 
 ---
 

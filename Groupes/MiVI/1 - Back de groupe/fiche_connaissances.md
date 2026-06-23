@@ -102,11 +102,10 @@ Le détachement sait que les Sangs relèvent du réseau tenu par Elfrion. La Gui
 | Nom | Rôle dans les Sangs | Description |
 |-----|---------------------|-------------|
 | Kaelan Thormane | Chef de famille | Couverture publique : Maître des quais, Guilde des Ports Unis. Elfrion attend de lui des comptes sur le fer et la substitution du chargement. |
-| Vorak Ironhand | Second | Couverture publique : Maître des entrepôts, Guilde des Ports Unis. |
+| Vorak Ironhand | Second et clerc de cellule | Couverture publique : Maître des entrepôts, Guilde des Ports Unis. Tient la pharmacie du réseau et le cadre des interrogatoires. |
 | Gareth Ironfist | Homme de main | Couverture publique : Maître des chantiers navals, Guilde des Ports Unis. Escortes sur quai et remises sensibles. |
-| Drask Bloodmoon | Alchimiste interrogateur | Couverture publique : Maître des marins, Guilde des Ports Unis. Tient la pharmacie du réseau. |
 | Shadow | Infiltration et extorsion | Couvertures variables : greffe, quai, messagerie, entrepôt. |
-| Raven | Réseaux et négociation externe | Couverture publique : Maître des routes, Guilde des Ports Unis. Présent à la bourse aux routes. Remises de cargaison et contacts portuaires. |
+| Raven | Réseaux et négociation externe | Couverture publique : Maître des routes et Maître des marins, Guilde des Ports Unis. Présent à la bourse aux routes. Remises de cargaison, capitaines du canal et contacts portuaires. |
 
 ---
 

@@ -1,4 +1,4 @@
-# Raven — Maître des réseaux et négociateur
+# Raven — Maître des réseaux, des routes et des marins
 
 <!-- GN 2026 — Les Sangs de la Steppe. Identité civile non portée sur ce document. Texte joueur : tutoiement, in-univers. -->
 
@@ -35,7 +35,7 @@ Epopée en Krondaar
 | Nom du personnage | Raven (nom de code — identité civile tenue secrète) |
 | Joueur | Sylvain Biosca |
 | E-mail joueur | lat-taxi@sfr.fr |
-| Rôle dans le groupe | Réseaux, informateurs, négociation externe |
+| Rôle dans le groupe | Réseaux, informateurs, négociation externe et capitaines du canal |
 | Classe / profession | Assassin |
 | Compétences | Transe ; Torture |
 | Groupe | Les Sangs de la Steppe |
@@ -43,7 +43,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Couverture visible : Maître des routes dans la Guilde des Ports Unis ; remise d'or avec Korran Vesper ; dossier fer sensible avec Elfrion ; parieur addict au Tripot. |
+| Remarques | Couverture visible : Maître des routes et Maître des Marins dans la Guilde des Ports Unis ; remise d'or avec Korran Vesper ; dossier fer sensible avec Elfrion ; parieur addict au Tripot. |
 | Argent de départ | 50 couronnes |
 | Pugilat | 3 |
 
@@ -78,6 +78,8 @@ Tu as tenu un registre des informateurs : qui mentait par habitude, qui pour de 
 
 Tu es devenu Maître des routes dans la Guilde des Ports Unis. C'est ton métier visible : publication des routes, respect des contrats commerciaux et arbitrage des créneaux de passage. Cette charge te place dans les commissions de la Régate et te donne un prétexte officiel pour rencontrer capitaines, négociants et délégués sur les quais.
 
+Depuis le retrait de l'ancien responsable des marins, Kaelan t'a aussi confié la charge de Maître des Marins. Tu reçois les plaintes d'équipage, tu règles les conflits de bord et tu parles aux capitaines qui savent franchir le canal d'Ulghart. Ce titre renforce ta couverture : tu peux ouvrir une discussion sur une grève, une fièvre à bord ou un retard de passage sans citer les Sangs.
+
 ## Travail actuel — quai, UBI, Tripot
 
 Tu maintiens les canaux vers l'UBI, le Tripot, Palyr et Sfaal selon les opérations en cours. Pour l'affaire du fer, tu coordonnes la remise avec Korran Vesper : lieu, heure, signes, comptage de l'or d'Aquiléa et silence sur l'abordage.
@@ -102,19 +104,24 @@ Le MiVI attend des comptes sur le fer détourné. Le bon fer devait partir vers 
 
 En parallèle, le renouvellement du conseil de l'UBI et la renégociation des routes commerciales de la Régate passent par des entretiens en commission et des conversations privées que tu ouvres ou que tu bloques selon les priorités fixées par Kaelan.
 
+Pour aborder le fort d'Ulghart, il faut passer par un canal dangereux. Seuls quelques capitaines formés ont le droit de faire cette route, car ils connaissent les courants, les hauts-fonds et les manœuvres de passage. Ces capitaines dépendent désormais de ta charge dans la Guilde. Ils sont mécontents de leur traitement et parlent de grève depuis plusieurs semaines.
+
+Cette colère peut devenir un levier. Si les capitaines du canal arrêtent les passages, les délégations, les messagers et les fuyards restent bloqués sur le site. Tu peux utiliser la grève pour faire pression sur les délégations, négocier de meilleures conditions pour les marins, ou garantir qu'un témoin ne quitte pas Ulghart avant que Kaelan ait décidé quoi faire de lui.
+
 ---
 
 # Tes missions et actions
 
 ## Ton rôle au quotidien
 
-Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu mènes les remises d'or avec les pirates. En public, tu agis comme Maître des routes : tu parles d'horaires, de contrats commerciaux et de priorités de passage.
+Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu mènes les remises d'or avec les pirates. En public, tu agis comme Maître des routes et Maître des Marins : tu parles d'horaires, de contrats commerciaux, de priorités de passage, de plaintes d'équipage et de capitaines du canal.
 
 ## Objectifs prioritaires
 
 - Maintenir informateurs et communications : codes, relais, coupe-circuits si un homme est pris.
 - Ouvrir des négociations utiles au conseil UBI et aux frictions entre cités sans exposer les Sangs ni le MiVI.
 - Clore la remise avec Korran Vesper : compter l'or d'Aquiléa, confronter au billet interne détenu par Kaelan, verser le solde de cinq mille couronnes seulement si la somme est complète.
+- Exploiter la grève possible des capitaines du canal d'Ulghart : faire pression sur les délégations, négocier pour les marins, ou bloquer une fuite hors du fort.
 - Savoir si le béret remonte à Gareth avant qu'Arthas ne frappe en public.
 
 ## Informations sensibles
@@ -122,6 +129,7 @@ Tu entretiens informateurs et codes, tu négocies au quai et en commission, tu m
 - Une erreur sur un dossier lourd remonte au-delà de Kaelan : le MiVI peut couper les flux ou envoyer des observateurs.
 - Tu soupçonnes Gareth pour le béret et l'oblat ; confronte-le en privé avant d'en parler à Kaelan si tu veux garder la maison sous contrôle.
 - Tu dois 1 350 couronnes au Tripot. Cette dette vient de tes passages répétés aux tables et se croise avec les 2 000 couronnes gardées sur l'affaire Veric Main-Rapide. Les autres cadres des Sangs ne connaissent pas ce lien.
+- Une grève du canal peut servir les Sangs, mais elle peut aussi enfermer votre propre groupe dans le fort si les pirates, le MiVI ou une délégation hostile bougent au mauvais moment.
 
 ---
 
@@ -144,6 +152,12 @@ Maître Halwen Rask tient une imprimerie à Staal. La lettre CC-III-544-002 le l
 ## Torven Sorel — Guilde des Ports Unis
 
 Torven Sorel est un nom public de la Guilde des Ports Unis. Le contrat CO-II-545-001 sur l'acier Sfaal-Palyr est distinct du dossier du Tripot. En commission Régate, il permet de parler des tensions entre délégations sans exposer le dossier du fer détourné.
+
+## Capitaines du canal d'Ulghart — Guilde des Ports Unis
+
+Les capitaines formés au canal d'Ulghart connaissent les courants, les hauts-fonds et les manœuvres qui permettent d'entrer au fort. Sans eux, les passages ralentissent ou s'arrêtent. Plusieurs se plaignent depuis des semaines de leur traitement et parlent de grève.
+
+En tant que Maître des Marins, tu peux les calmer, les pousser ou utiliser leur colère. Si la grève éclate, les délégations et les messagers peuvent se retrouver bloqués sur le site. Préviens Kaelan avant de verrouiller le canal : le même blocage qui retient un témoin peut aussi compliquer la remise avec Korran Vesper ou votre sortie.
 
 ## Edorian de Courcel — Union bancaire d'Il-Irion
 

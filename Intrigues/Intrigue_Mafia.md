@@ -75,11 +75,10 @@ L’opération **fer Sfaal–Ther-Félis** (546–547), conçue par le MiVI et e
 | Nom du personnage | Rôle | Compétences | Classe | Joueur |
 |-------------------|------|-------------|--------|--------|
 | Kaelan Thormane | Chef de famille | Stratégie, arbitrage **MiVI** / ligne styrgienne | *selon table* | *à compléter* |
-| Vorak Ironhand | Second / coordinateur | Opérations majeures, cellules, relais | *selon table* | *à compléter* |
+| Vorak Ironhand | Second / coordinateur / clerc de cellule | Opérations majeures, cellules, relais, soins, interrogatoires, poisons | Clerc (Jorok) | Eric Ferrière |
 | Gareth Ironfist | Homme de main | Intimidation, protection, neutralisation | *selon table* | *à compléter* |
-| Drask Bloodmoon | Alchimiste interrogateur | Soins, interrogatoires, poisons | *selon table* | *à compléter* |
 | Shadow | Infiltrateur & expert en extorsion | Infiltration, chantage, documents — *nom de code* | *selon table* | *à compléter* |
-| Raven | Maître des réseaux & négociateur | Informateurs, interfaces externes | *selon table* | *à compléter* |
+| Raven | Maître des réseaux, des routes et des marins | Informateurs, interfaces externes, capitaines du canal | *selon table* | *à compléter* |
 
 ### Documents additionnels
 
