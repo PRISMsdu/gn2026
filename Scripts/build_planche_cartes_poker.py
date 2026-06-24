@@ -12,9 +12,9 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "images"
 
 CARDS = [
-    ("Persuasion Edorian", ROOT / "Groupes/Banquiers - UBI/1 - Back de groupe/Carte_Persuasion_Edorian.svg"),
-    ("Sève grise", ROOT / "Groupes/Tripot/1 - Back de groupe/Carte_Sève_Grise_Marda.svg"),
-    ("Sous le charme Ysabeau", ROOT / "Groupes/Tripot/1 - Back de groupe/Carte_Sous_le_charme_Ysabeau.svg"),
+    ("Persuasion Edorian", ROOT / "images/Carte_Persuasion_Edorian.svg"),
+    ("Sève grise", ROOT / "images/Carte_Sève_Grise_Marda.svg"),
+    ("Sous le charme Ysabeau", ROOT / "images/Carte_Sous_le_charme_Ysabeau.svg"),
 ]
 
 # Format poker (mm)

@@ -3,8 +3,9 @@
 
   Rendu : papier vergé, écriture manuelle (Caveat / Patrick Hand), tableaux
   sans bordures cellule par cellule (filets très tenus, lignes réglées).
-  Saut de page sur chaque <hr /> du markdown -> typiquement une page par
-  mois pour les registres Tripot UBI / VIP / Matelas.
+  Par défaut : saut de page sur chaque <hr /> du markdown (typiquement une
+  page par mois). Pour enchaîner les sections sans saut de page au changement
+  de mois, d'année ou de titre : -nochangepage (ou -SkipHrPageBreak).
 
   Prérequis :
     - Pandoc dans le PATH (https://pandoc.org)
@@ -15,6 +16,7 @@
     .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Tripot\3 - Comptabilite\Registre_Tripot_UBI.md"
     .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Tripot\3 - Comptabilite\Registre_VIP_Edorian.md"
     .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Tripot\3 - Comptabilite\Registre_Matelas_Marda.md"
+    .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Tripot\3 - Comptabilite\Registre_Matelas_540.md" -nochangepage
 
   Sortie : PDF horodaté dans le même dossier que le .md.
 #>
@@ -36,7 +38,10 @@ param(
 
   [string] $ChromePath = "",
 
-  [string] $PandocPath = ""
+  [string] $PandocPath = "",
+
+  [Alias('nochangepage')]
+  [switch] $SkipHrPageBreak
 )
 
 $ErrorActionPreference = "Stop"
@@ -265,6 +270,10 @@ if ($baseName -match 'VIP') {
   $bodyClass = "registre-matelas"
 } elseif ($baseName -match 'UBI') {
   $bodyClass = "registre-ubi"
+}
+if ($SkipHrPageBreak) {
+  if ($bodyClass) { $bodyClass += " registre-continuous" }
+  else { $bodyClass = "registre-continuous" }
 }
 
 $shell = Get-Content -Path $shellPath -Raw -Encoding UTF8

@@ -11,7 +11,7 @@
 
 /* ---- Polices ---- */
 /* IM Fell English  : corps de texte (plume, époque) */
-/* Cinzel Decorative : titres, institution, enluminures */
+/* Cinzel (latin-ext) pour titres avec accents ; Cinzel Decorative pour ornements ASCII */
 
 /* ---- Fond : blanc — impression sur papier parchemin physique ---- */
 
@@ -65,7 +65,7 @@ body.avis-document {
 }
 
 .avis-institution-nom {
-  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-family: 'Cinzel', 'Cinzel Decorative', Georgia, serif;
   font-size: 1.25rem;
   font-weight: 700;
   color: #5c1400;
@@ -98,7 +98,7 @@ body.avis-document {
 
 /* Titre principal h1 : centré, grand, rubrique */
 #contenu-avis h1 {
-  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-family: 'Cinzel', 'Cinzel Decorative', Georgia, serif;
   font-size: 1.3rem;
   font-weight: 700;
   color: #5c1400;
@@ -111,7 +111,7 @@ body.avis-document {
 /* ---- Enluminures de chapitres (h2) ---- */
 
 #contenu-avis h2 {
-  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-family: 'Cinzel', 'Cinzel Decorative', Georgia, serif;
   font-size: 1.0rem;
   font-weight: 400;
   color: #6b1200;
@@ -143,7 +143,7 @@ body.avis-document {
 #contenu-avis h2 + p::first-letter,
 #contenu-avis h2 + p > strong:first-child + *::first-letter {
   float: left;
-  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-family: 'Cinzel', 'Cinzel Decorative', Georgia, serif;
   font-size: 3.6em;
   line-height: 0.78;
   color: #8b0000;
@@ -225,7 +225,7 @@ body.avis-document {
 
 #contenu-avis th {
   background: rgba(160, 104, 32, 0.12);
-  font-family: 'Cinzel Decorative', Georgia, serif;
+  font-family: 'Cinzel', 'Cinzel Decorative', Georgia, serif;
   font-size: 0.85em;
   color: #5c1400;
 }

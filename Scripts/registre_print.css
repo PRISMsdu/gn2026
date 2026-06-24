@@ -98,6 +98,17 @@ hr {
   break-before: page;
 }
 
+/* Mode continu (-nochangepage) : pas de saut de page ni d'espace au hr */
+body.registre-continuous hr {
+  page-break-before: auto;
+  break-before: auto;
+}
+
+body.registre-continuous hr + h2,
+body.registre-continuous hr + h3 {
+  margin-top: 0;
+}
+
 /* ----------------------------------------------------------------
    Listes
    ---------------------------------------------------------------- */

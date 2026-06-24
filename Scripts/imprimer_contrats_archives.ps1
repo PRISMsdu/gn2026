@@ -93,6 +93,7 @@ function Get-LatestArchivePdf {
   foreach ($pattern in @(
       ($Reference + '_avis_*.pdf')
       ($Reference + '_doc_*.pdf')
+      ($Reference + '.pdf')
     )) {
     Get-ChildItem -LiteralPath $ArchiveDir -Filter $pattern -File -ErrorAction SilentlyContinue |
       ForEach-Object { [void]$pdfs.Add($_) }
