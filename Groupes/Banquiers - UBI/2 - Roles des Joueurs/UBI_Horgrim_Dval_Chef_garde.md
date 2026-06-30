@@ -80,7 +80,7 @@ Tu vends ta hache au plus offrant. Les premières années sont difficiles : esco
 
 Tu acquiers une réputation de mercenaire fiable. Fiable signifie ici : tu fais ce qui est demandé, tu n'en parles pas, tu ne renégocies pas le prix en cours de mission. Les maisons qui paient pour du silence paient bien.
 
-Un convoi d'or de l'UBI est attaqué une route menant à la cité Ther-Félis. Tu es l'un des gardes mercenaire du convoi. Avec deux autres hommes tu repousses les brigands et récupères les coffres. Les gardes de la délégation bancaire sont tous tués, les 2 autres mercenaires mourront dans la nuit de leurs blessures. Tu te retrouves devant la position étonnante d'avoir sous la main une fortune importante, plus de témoin, des corps de brigands et les gardes morts. La tentation est grande et naturelle, alors tu ouvres les coffres. Peu d'or finalement, beaucoup de papiers et de contrats sans importance. Sans importance sauf pour toi, et sauf un : une preuve, un contrat privé d'armes, de provision et de matières premières entre Il-Irion et Aquiléa. Une preuve qui dénonce qu'Il-Irion a soutenu de manière illégale et contre les principes d'entre-aide de la confédération un ennemis en guerre avec Ther-Félis.
+Un convoi d'or de l'UBI est attaqué une route menant à la cité Ther-Félis. Tu es l'un des gardes mercenaire du convoi. Avec deux autres hommes tu repousses les brigands et récupères les coffres. Les gardes de la délégation bancaire sont tous tués, les 2 autres mercenaires mourront dans la nuit de leurs blessures. Tu te retrouves devant la position étonnante d'avoir sous la main une fortune importante, plus de témoin, des corps de brigands et les gardes morts. La tentation est grande et naturelle, alors tu ouvres les coffres. Peu d'or finalement, beaucoup de papiers et de contrats sans importance. Sans importance sauf pour toi, et sauf un : une preuve, la convention scellée `CC-IV-530-007` — armes, provisions et matières premières entre Il-Irion et Aquiléa. Une preuve qui dénonce qu'Il-Irion a soutenu de manière illégale et contre les principes d'entraide de la confédération un ennemi en guerre avec Ther-Félis.
 
 Une preuve que ta famille, tes proches, des amis sont morts à cause du soutient de ces traitres d'Il-Irion. Tu n'avais plus de but dans la vie, tu en as maintenant un, la vengeance. Elle va se manger sacrément froide et bien dans la tronche.
 
@@ -158,6 +158,9 @@ Tu ne sais pas encore jusqu'où l'enquête peut remonter. Tant que tu n'as pas l
 
 Varek relie des incidents du Tripot à des gardes de la banque. Demande des noms vérifiables, des témoins hors Tripot ou une trace matérielle.
 
+## Convoi de 530 — contrat Il-Irion / Aquiléa
+
+Tu as ouvert les coffres après l'attaque sur la route de Ther-Félis. Tu y as lu la convention scellée `CC-IV-530-007` : armes, provisions et matières premières entre Il-Irion et Aquiléa, pendant la guerre contre ta cité. Pièce orga : `CC-IV-530-007.md`. Tu as tout rendu à l'UBI. Tu te souviens du numéro, des signataires Calven Oristel et Neris Dorne, et du montant de 16'800 couronnes.
+
 ---
 
-*GN Krondaar 2026*

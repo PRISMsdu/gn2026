@@ -1,16 +1,16 @@
 # Suivi des envois
 
-Rapport généré le 2026-06-23 21:40.
+Rapport généré le 2026-06-24 21:59.
 
 Comparaison des dates de modification entre les rôles `.md` et les exports `.pdf` dans les dossiers joueurs des groupes Tripot, MiVI, Mafia, UBI et Palyr.
 
 ## Synthèse
 
-- Rôles suivis : 42
+- Rôles suivis : 41
 - À régénérer : 0
 - PDF manquants : 0
 - PDF anciens : 0
-- PDF à jour : 42
+- PDF à jour : 41
 
 ## À régénérer
 
@@ -39,15 +39,14 @@ Aucun rôle à régénérer : tous les PDF sont à jour.
 | PDF à jour | MiVI | MiVI/2 - Roles des Joueurs/MiVI_Theven_Corvel_Chef_de_mission.md | 2026-06-13 19:28 | MiVI/2 - Roles des Joueurs/MiVI_Theven_Corvel_Chef_de_mission_20260613_201516.pdf | 2026-06-13 20:15 | 2026-06-13 20:15:26 |
 | PDF à jour | MiVI | MiVI/2 - Roles des Joueurs/MiVI_Varro_Selt_Infiltration.md | 2026-06-06 20:59 | MiVI/2 - Roles des Joueurs/MiVI_Varro_Selt_Infiltration_20260606_210216.pdf | 2026-06-06 21:02 | - |
 | PDF à jour | MiVI | MiVI/2 - Roles des Joueurs/MiVI_Ysel_Marivent_Renseignement.md | 2026-06-22 17:45 | MiVI/2 - Roles des Joueurs/MiVI_Ysel_Marivent_Renseignement_20260623_192121.pdf | 2026-06-23 19:21 | 2026-06-23 19:21:29 |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Brina_Lyrd_Druidesse.md | 2026-05-29 13:12 | Palyr/2 - Roles des Joueurs/Palyr_Brina_Lyrd_Druidesse_20260613_194203.pdf | 2026-06-13 19:42 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Corvyn_Valdrak_Chef_delegation.md | 2026-05-29 14:03 | Palyr/2 - Roles des Joueurs/Palyr_Corvyn_Valdrak_Chef_delegation_20260613_194208.pdf | 2026-06-13 19:42 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate.md | 2026-06-17 18:51 | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate_20260617_185508.pdf | 2026-06-17 18:55 | 2026-06-17 18:55:15 |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate.md | 2026-05-29 13:12 | Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate_20260613_194223.pdf | 2026-06-13 19:42 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere.md | 2026-06-17 18:52 | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere_20260617_185516.pdf | 2026-06-17 18:55 | 2026-06-17 18:55:23 |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md | 2026-05-29 11:57 | Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire_20260613_194250.pdf | 2026-06-13 19:42 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Saevar_Dren_Chef_securite.md | 2026-06-22 17:45 | Palyr/2 - Roles des Joueurs/Palyr_Saevar_Dren_Chef_securite_20260623_192152.pdf | 2026-06-23 19:21 | 2026-06-23 19:21:59 |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Syndri_Ashfeld_Herboriste.md | 2026-05-29 14:11 | Palyr/2 - Roles des Joueurs/Palyr_Syndri_Ashfeld_Herboriste_20260613_194305.pdf | 2026-06-13 19:43 | - |
-| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Thoran_Keld_Marchand.md | 2026-05-29 12:09 | Palyr/2 - Roles des Joueurs/Palyr_Thoran_Keld_Marchand_20260613_194313.pdf | 2026-06-13 19:43 | - |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Brina_Lyrd_Druidesse.md | 2026-06-24 21:51 | Palyr/2 - Roles des Joueurs/Palyr_Brina_Lyrd_Druidesse_20260624_215757.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:09 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Corvyn_Valdrak_Chef_delegation.md | 2026-06-24 21:48 | Palyr/2 - Roles des Joueurs/Palyr_Corvyn_Valdrak_Chef_delegation_20260624_215810.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:16 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate.md | 2026-06-24 21:51 | Palyr/2 - Roles des Joueurs/Palyr_Ilara_Vandesse_Diplomate_20260624_215817.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:25 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate.md | 2026-06-24 21:47 | Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate_20260624_215826.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:32 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere.md | 2026-06-24 21:51 | Palyr/2 - Roles des Joueurs/Palyr_Lysa_Morwyn_Tresoriere_20260624_215833.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:40 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md | 2026-06-24 21:47 | Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire_20260624_215841.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:47 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Syndri_Ashfeld_Herboriste.md | 2026-06-24 21:51 | Palyr/2 - Roles des Joueurs/Palyr_Syndri_Ashfeld_Herboriste_20260624_215847.pdf | 2026-06-24 21:58 | 2026-06-24 21:58:53 |
+| PDF à jour | Palyr | Palyr/2 - Roles des Joueurs/Palyr_Thoran_Keld_Marchand.md | 2026-06-24 21:51 | Palyr/2 - Roles des Joueurs/Palyr_Thoran_Keld_Marchand_20260624_215854.pdf | 2026-06-24 21:58 | 2026-06-24 21:59:01 |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Carnet_Ossel_504.md | 2026-06-23 18:37 | Tripot/2 - Roles des Joueurs/Carnet_Ossel_504_20260623_192049.pdf | 2026-06-23 19:20 | 2026-06-23 19:21:02 |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Reseau_varek.md | 2026-06-22 16:35 | Tripot/2 - Roles des Joueurs/Reseau_varek_20260623_183912.pdf | 2026-06-23 18:39 | - |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_ Samvel Rauk_Varek_Pisteur.md | 2026-06-03 17:16 | Tripot/2 - Roles des Joueurs/Tripot_ Samvel Rauk_Varek_Pisteur_20260603_172631.pdf | 2026-06-03 17:26 | - |
@@ -57,7 +56,7 @@ Aucun rôle à régénérer : tous les PDF sont à jour.
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Guelievre_Marech_Gouvernante.md | 2026-06-03 22:09 | Tripot/2 - Roles des Joueurs/Tripot_Guelievre_Marech_Gouvernante_20260613_201549.pdf | 2026-06-13 20:15 | 2026-06-13 20:15:56 |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Lira_Vestrann_Croupiere.md | 2026-06-13 19:28 | Tripot/2 - Roles des Joueurs/Tripot_Lira_Vestrann_Croupiere_20260613_201557.pdf | 2026-06-13 20:16 | 2026-06-13 20:16:05 |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Lydwen_Oracle.md | 2026-06-03 16:39 | Tripot/2 - Roles des Joueurs/Tripot_Lydwen_Oracle_20260603_164015.pdf | 2026-06-03 16:40 | - |
-| PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Marda_Velyss_Patronne.md | 2026-06-23 18:44 | Tripot/2 - Roles des Joueurs/Tripot_Marda_Velyss_Patronne_20260623_192104.pdf | 2026-06-23 19:21 | 2026-06-23 19:21:11 |
+| PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Marda_Velyss_Patronne.md | 2026-06-23 18:44 | Tripot/2 - Roles des Joueurs/Tripot_Marda_Velyss_Patronne_20260623_192104.pdf | 2026-06-23 19:21 | 2026-06-13 20:16:13 |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Sira_Vestrann_Croupiere.md | 2026-06-13 19:28 | Tripot/2 - Roles des Joueurs/Tripot_Sira_Vestrann_Croupiere_20260613_201614.pdf | 2026-06-13 20:16 | 2026-06-13 20:16:23 |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Soren_Homme_de_main.md | 2026-06-02 18:25 | Tripot/2 - Roles des Joueurs/Tripot_Soren_Homme_de_main_20260602_183301.pdf | 2026-06-02 18:33 | - |
 | PDF à jour | Tripot | Tripot/2 - Roles des Joueurs/Tripot_Theodran_Veyr_Varek_Coulisses.md | 2026-06-23 17:45 | Tripot/2 - Roles des Joueurs/Tripot_Theodran_Veyr_Varek_Coulisses_20260623_192112.pdf | 2026-06-23 19:21 | 2026-06-23 19:21:20 |

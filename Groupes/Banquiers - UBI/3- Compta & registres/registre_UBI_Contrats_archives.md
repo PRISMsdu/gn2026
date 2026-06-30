@@ -1384,10 +1384,11 @@ Récapitulatif 529 : revenus UBI sur droits de garde : 867 couronnes.
 | PR-IV-530-006 | Accord commercial | Il-Irion ↔ Sfaal | 18'300 couronnes | 366 couronnes | 530-IV-17 | 530-V-24 | Exécuté, soldé, classé |
 | MN-IV-530-004 | Accord commercial | Palyr ↔ Sfaal | 12'600 couronnes | 252 couronnes | 530-VI-12 | 530-VII-20 | Exécuté, soldé, classé |
 | TR-IV-530-005 | Contrat de transport | Palyr ↔ Ther-Félis | 19'850 couronnes | 397 couronnes | 530-VII-06 | 530-IX-10 | Exécuté, soldé, classé |
+| CC-IV-530-007 | Convention confidentielle | Il-Irion ↔ Aquiléa | 16'800 couronnes | 336 couronnes | 530-IX-14 | 531-I-22 | Exécuté, soldé, classé |
 | CO-II-530-003 | Contrat commercial | Ther-Félis ↔ Il-Irion | 10'400 couronnes | 208 couronnes | 530-VIII-01 | 530-XII-24 | Exécuté, soldé, classé |
 | SE-I-530-001 | Contrat de service | Arthas ↔ Ther-Félis | 3'150 couronnes | 63 couronnes | 530-XII-22 | 530-XII-06 | Exécuté, soldé, classé |
 
-Récapitulatif 530 : revenus UBI sur droits de garde : 1'479 couronnes.
+Récapitulatif 530 : revenus UBI sur droits de garde : 1'815 couronnes.
 
 ### 531
 

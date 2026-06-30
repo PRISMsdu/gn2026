@@ -37,7 +37,7 @@ Epopée en Krondaar
 | Nom du personnage | Maren Holt |
 | Joueur | Romain |
 | E-mail joueur | romain.chapelon@gmail.com |
-| Rôle dans le groupe | Commandant militaire de la délégation |
+| Rôle dans le groupe | Commandant militaire et chef de la sécurité de la délégation |
 | Classe / profession | Guerrier |
 | Compétences | Skipper ; Ambidextrie |
 | Groupe | Palyr |
@@ -45,7 +45,7 @@ Epopée en Krondaar
 | Niveau de magie | N.A. |
 | Armes autorisées | toutes |
 | Armure autorisée | Cuir clouté maximum |
-| Remarques | Mandat Arguetheim ; Bureau des Lignes ; responsabilité des Cinq Feux ; porte-parole public du dossier fer Sfaal. |
+| Remarques | Mandat Arguetheim ; sûreté de Corvyn, escortes, contact Tavish ; Bureau des Lignes ; responsabilité des Cinq Feux ; porte-parole public du dossier fer Sfaal. |
 | Argent | 100 couronnes |
 | Pugilat | 3 |
 
@@ -107,7 +107,7 @@ Thoran est ton pair sur le quai et sur les contrats de fret. Vous vous êtes dé
 
 Lysa te passe les lignes de paiement quand l'Arguetheim se concrétise. Tu ne lui demandes pas le détail du dossier Melian. Ce n'est pas ton canal.
 
-Saevar tient la sûreté. Tu lui fais confiance pour les escortes et les salles fermées. Tu sais qu'il fréquente le Tripot. Tant que ça ne contamine pas les livraisons ni les entretiens militaires, tu ne pousses pas.
+Tu tiens la sûreté mandatée de la délégation : protection de Corvyn, escortes de Brina et Syndri, salles fermées, sûreté du rendez-vous Tavish. Kaelen Voss fréquente le Tripot sous une identité de couverture ; tu sais qu'il est endetté et accro au jeu. Tant que ça ne contamine pas les livraisons, l'armement ni les entretiens militaires, tu ne pousses pas.
 
 Brina et Syndri ne sont pas sous ton commandement. Brina voyage pour le cairn et une recherche personnelle. Syndri soigne la délégation et cherche à identifier une matière rare pour le Conseil.
 
@@ -128,6 +128,7 @@ Sur le week-end de la Convention, c'est à toi d'organiser leurs actions commune
 
 # Tes missions et objectifs
 
+- Sûreté de la délégation : protection de Corvyn dans le fort, les commissions et les espaces publics ; escortes de Brina et Syndri ; sûreté du contact Tavish.
 - Mandat Arguetheim : demander officiellement l'Arguetheim à Ulghart, avec Lysa pour l'achat et les papiers ; réceptionner le métal pour le haut commandement avant la fin du samedi ; cadre militaire lisible autour de Gorvan du Dolmen Rouge.
 - Bureau des Lignes — Cinq Feux : convoquer les officiers de liaison dès 19 h à l'auberge du fort, fixer l'ordre du jour, recueillir leurs rapports et porter une synthèse commune vers le haut commandement.
 - Fer Sfaal : porter en public le dossier du dernier chargement aux côtés de Thoran ; chercher où la chaîne a rompu sans pousser Palyr à une rupture sans preuve.
@@ -150,6 +151,25 @@ Lysa l'a mandaté à Ther-Félis pour trouver de l'Arguetheim. Gorvan doit livre
 ## Dernier chargement Sfaal — Palyr
 
 Sceaux conformes au départ. Creusets défectueux à Palyr. Sfaal et Palyr s'accusent sans preuve claire sur la route. Tu cherches transbordement, mélange ou substitution entre le quai scellé et les fours, sans forcer une accusation publique prématurée.
+
+## Sûreté, renseignement et relais à Ulghart
+
+Tu connais les noms des personnes qui touchent à la sûreté, aux filatures, aux informateurs ou aux accès sensibles pendant la Convention. Ces noms ne font pas tous des alliés. Ils te servent à savoir qui peut bloquer une porte, protéger un chef de délégation ou fermer un accès avant toi.
+
+- Isar Dornelis, Il-Irion : renseignement et réseaux de la maison Dornelis.
+- Marek Thorne, Il-Irion : opérateur hors île et contacts marchands.
+- Garrick Halvaren, Il-Irion : sécurité de la coalition des grandes familles.
+- Horgrim Dval, UBI à Ulghart : chef de la garde privée de la banque.
+- Sybrel Dornik, UBI à Ulghart : surveillance intérieure.
+- Maître Corvus, UBI à Ulghart : gardien des coffres.
+- Kaelen Veynar, UBI à Ulghart : exécuteur de contrats.
+- Bastion Kharvek, Arthas : chef de la sécurité de la délégation d'Arthas.
+- Grisbe Jab-fer, Sfaal : chef de la sécurité de la délégation de Sfaal.
+- Sven Orlac, Ther-Félis : marin et homme de main pour les opérations sensibles.
+- Dorian Marest, Ther-Félis : traités de transit et ligne politique sur l'UBI.
+- Ardan Trevil, Tripot à Ulghart : capitaine des gardes du Tripot.
+
+Kaelen Voss tient une identité de couverture au Tripot et sur certains fils de quai. Ce n'est pas ton canal officiel : tu ne mélanges pas ses dettes personnelles avec les escortes mandatées.
 
 ---
 

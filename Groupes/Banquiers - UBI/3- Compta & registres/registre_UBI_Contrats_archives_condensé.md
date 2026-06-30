@@ -139,7 +139,7 @@ Note d'audit : les exercices 475, 478, 491, 494, 513, 519 ne figurent pas comme 
 | 527 | 6 | 56'250 | - | 1'175 | - | Exécuté, soldé, classé : 5; Enregistré, classé : 1 | Accord commercial : 2; Contrat commercial : 1; Contrat de service : 1 |
 | 528 | 5 | 51'300 | - | 1'026 | - | Exécuté, soldé, classé : 5 | Contrat commercial : 2; Accord commercial : 1; Contrat d'exploitation : 1 |
 | 529 | 4 | 37'025 | - | 867 | - | Exécuté, soldé, classé : 3; Exécuté, remboursé, classé : 1 | Contrat d'exclusivité : 2; Contrat de prêt bancaire : 1; Contrat de service : 1 |
-| 530 | 6 | 73'950 | - | 1'479 | - | Exécuté, soldé, classé : 6 | Contrat de service : 2; Accord commercial : 2; Contrat de transport : 1 |
+| 530 | 7 | 90'750 | - | 1'815 | - | Exécuté, soldé, classé : 7 | Contrat de service : 2; Accord commercial : 2; Contrat de transport : 1; Convention confidentielle : 1 |
 | 531 | 8 | 83'200 | - | 1'852 | - | Exécuté, soldé, classé : 7; Exécuté, remboursé, classé : 1 | Contrat commercial : 3; Accord commercial : 3; Contrat d'exclusivité : 1 |
 | 532 | 7 | 68'250 | - | 1'870 | - | Exécuté, soldé, classé : 3; Exécuté, remboursé, classé : 3; Enregistré, classé : 1 | Contrat de prêt bancaire : 3; Contrat commercial : 2; Contrat d'exploitation : 1 |
 | 533 | 9 | 77'425 | - | 1'667 | - | Exécuté, soldé, classé : 7; Enregistré, classé : 1; Exécuté, remboursé, classé : 1 | Accord commercial : 2; Contrat commercial : 2; Contrat de service : 2 |

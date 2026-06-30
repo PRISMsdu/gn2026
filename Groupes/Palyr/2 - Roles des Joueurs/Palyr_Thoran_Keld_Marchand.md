@@ -4,6 +4,7 @@
   Rôle joueur Palyr ; même groupe : back collectif distribué par l'équipe.
   Sources rédaction : intrigue MJ, back de groupe joueurs (hors secrets MJ réservés à l'intrigue ou à la fiche perso).
   Texte joueur : tutoiement, in-univers. Pas de chemins de fichiers ni de méta technique hors la section « Connaissances ».
+  Pièce joueur STY-547-PAL-THO-01 : `../1 - Back de groupe/Lettre_approvisionnement_Styrgie_Thoran_Keld.md` (à remettre avec les papiers de mission).
 -->
 
 Grandeur Nature Celtiana  
@@ -98,7 +99,7 @@ Tu peux fournir des informations de quai à Kaelen Voss, mais tu ne choisis pas 
 
 Corvyn t'a donné un mandat clair : commerce, Sfaal, routes de fret, Styrgie en coulisse. Tu remontes ce qui dépasse ton périmètre et tu n'empiètes pas sur la diplomatie d'Ilara.
 
-Tu sais que Saevar joue au Tripot et qu'il est endetté. c'est un risque important pour la délégation, tu dois le gérer pour que l'affaire n'explose pas au mauvais moments pour vous.
+Tu sais que Kaelen joue au Tripot et qu'il est endetté. C'est un risque important pour la délégation ; tu dois le gérer pour que l'affaire n'explose pas au mauvais moment pour vous.
 
 Maren Holt porte les dossiers d'armement sous Corvyn : réquisitions, Bibliothèque, réception pour le haut commandement. Lysa Morwyn a mandaté Gorvan Tresselune à Ther-Félis il y a environ un mois pour l'Arguetheim. La vente doit être conclue au plus tard en fin de journée du samedi. 
 

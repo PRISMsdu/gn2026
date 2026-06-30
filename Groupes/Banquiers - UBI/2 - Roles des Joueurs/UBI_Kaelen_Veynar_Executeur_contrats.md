@@ -127,6 +127,10 @@ Les familles nobles que tu as récupérées savent qui tu es et ce que tu peux r
 
 # Connaissances
 
+## Réseau marchands et trésoriers — cinq cités
+
+Tu connais les trésoriers et marchands des cinq cités qui ont signé sous pression, retardé un versement ou mis un gage en jeu. Le détail par cité, maison et interlocuteur à Ulghart est sur la fiche partagée `Reseau_marchands_tresoriers.md` (annexe recouvrement, avec Vaelric Dorn).
+
 ## Appui aux mandats et dossiers nobles — UBI
 
 Pendant cinq ans tu as accompagné les opérations que la banque voulait faire aboutir, y compris quand la méthode ne devait pas apparaître au registre. Chaque intervention t'a donné une prise sur une maison noble ou une famille marchande : dette cachée, gage honteux, accord verbal ou témoin intimidable.

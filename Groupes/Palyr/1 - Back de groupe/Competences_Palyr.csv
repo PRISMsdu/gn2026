@@ -1,10 +1,18 @@
 ﻿Nom;Joueur;email;Fonction;Classe;Competence;PointSanté;Argent
+
 Corvyn Valdrak;Clément;clement.alonso@gmx.fr;Représentant mandaté du Légat;Guerrier - diplomate;"Pugilat (7) ; Erudit";6;1500 couronnes
+
 Ilara Vandesse;Margaux;romain.chapelon@gmail.com;Diplomate;Diplomate;"Erudit ; Secourisme";4;150 couronnes
+
 Lysa Morwyn;Sirine;hydromel88@orange.fr;Trésorière;Erudit;Erudit - Secourisme;4;250 couronnes
+
 Thoran Keld;Xavier;Xavier.jegonday@hotmail.fr;Marchand;Marchand;"Erudit";4;200 couronnes
-Kaelen Voss;Christophe;c.munier087@gmail.com;Capitaine de frégate;Guerrier;"Skipper ; Raboutage";5;50 couronnes
-Saevar Dren;Robin;robin.kc831@gmail.com;Chef de la sécurité;Guerrier;"Pugilat (8) ; Torture";5;50 couronnes
-Maren Holt;Romain;romain.chapelon@gmail.com;Commandant militaire;Guerrier;"Skipper ; Ambidextrie";5;100 couronnes
+
+Kaelen Voss;Christophe;c.munier087@gmail.com;Capitaine de frégate;Guerrier;"Skipper ; Raboutage ; Pugilat (8) ; Torture";5;50 couronnes
+
+Maren Holt;Romain;romain.chapelon@gmail.com;Commandant militaire ; Chef de la sécurité;Guerrier;"Skipper ; Ambidextrie";5;100 couronnes
+
 Syndri Ashfeld;Tom;tom.lafenetre@gmail.com;Herboriste;Herboriste;Chirurgie;4;300 couronnes
+
 Brina Lyrd;Veronique ;ceratoveronique@gmail.com;Druidesse (cairn Lyrd);Druide (B);Secourisme;3;20 couronnes
+

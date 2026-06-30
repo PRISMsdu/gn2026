@@ -14,4 +14,11 @@ Fiches individuelles remises à chaque joueur. Convention de nommage : `UBI_NomD
 | `UBI_Sybrel_Dornik_Ombre.md` | Surveillance intérieure — ombre |
 | `UBI_Corvus_Gardien_des_coffres.md` | Gardien des coffres |
 
+Annexes partagées (plusieurs PJ UBI) :
+
+| Fichier | Usage |
+|---------|--------|
+| `Reseau_marchands_tresoriers.md` | Trésoriers et marchands des cinq cités — Vaelric Dorn, Kaelen Veynar |
+| `CC-IV-530-007.md` | Convention scellée Il-Irion ↔ Aquiléa (530) — passé d'Horgrim Dval ; pièce orga ou copie en coffre |
+
 Gabarit : `Groupes/_templates/2 - Roles de groupe/template_GROUPE_NomDuPersonnage_role.md`.

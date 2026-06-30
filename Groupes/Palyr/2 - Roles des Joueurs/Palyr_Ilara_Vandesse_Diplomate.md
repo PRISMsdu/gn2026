@@ -103,7 +103,7 @@ Lysa partage le dossier banque avec toi. Elle tient la précision des chiffres e
 
 Thoran ne croise pas beaucoup tes lignes. Il tient le commerce et les contrats de minerai. Kaelen Voss commande la frégate et la régate. Les échanges de Thoran avec Arthas sur le fret peuvent recouper tes discussions avec Aurelian Marvek et Cassiane Jakmar sur la banque. Tu lui transmets ce dont il a besoin pour ne pas créer de friction involontaire avec Arthas.
 
-Saevar assure la sécurité de la délégation. Sa situation au Tripot peut créer des fuites au mauvais moment. Si une information sur tes preuves UBI, sur tes échanges avec Arthas ou sur le commerce discret de Thoran avec la Styrgie sort par le Tripot, plusieurs dossiers deviennent vulnérables. Tu surveilles les personnes que Saevar approche pendant la Régate sans lui en expliquer la raison.
+Maren Holt assure la sûreté officielle de la délégation. Kaelen Voss fréquente le Tripot et tient une identité de couverture sur certains fils de quai. Sa situation au casino peut créer des fuites au mauvais moment. Si une information sur tes preuves UBI, sur tes échanges avec Arthas ou sur le commerce discret de Thoran avec la Styrgie sort par le Tripot, plusieurs dossiers deviennent vulnérables. Tu surveilles les sorties de Kaelen pendant la Régate sans lui en expliquer la raison.
 
 Tu dois agir avant la passation du conseil UBI. Après la passation, Cyrion Valdris peut obtenir le siège d'Il-Irion, Seraphin Kaelthorne peut reprendre les chiffres, Lucan Marivent peut verrouiller les procédures, et Isar Dornelis peut identifier les relais de Palyr. Pendant la Régate, tu peux encore les affronter en séance avec les preuves de Lysa et l'arbitrage de Corvyn.
 

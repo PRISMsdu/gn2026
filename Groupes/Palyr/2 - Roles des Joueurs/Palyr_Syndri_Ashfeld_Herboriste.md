@@ -92,11 +92,11 @@ Une information plus fragile circule aussi. Edorian aurait un objet lié à ces 
 
 À Ulghart, tu installes un espace de soin dans les quartiers de Palyr. Tu y gardes eau propre, alcool, bandes, aiguilles et plantes courantes. Tu traites plaies, fièvres, intoxications et épuisement.
 
-Le fort donne aussi des plantes que Palyr ne cultive pas. Tu veux récolter mousses des remparts, herbes amères des fossés et écorces des bosquets proches. Tu sors accompagné si Saevar ou Corvyn l'exige. Tu prélèves peu et tu laisses les racines en place.
+Le fort donne aussi des plantes que Palyr ne cultive pas. Tu veux récolter mousses des remparts, herbes amères des fossés et écorces des bosquets proches. Tu sors accompagné si Maren ou Corvyn l'exige. Tu prélèves peu et tu laisses les racines en place.
 
 Si tu obtiens un composant ancien de l'UBI, tu le testes par étapes : odeur à froid, odeur à chaud, dissolution dans l'eau, dissolution dans l'alcool, combustion d'une très petite quantité. Tu arrêtes l'épreuve dès qu'une réaction devient dangereuse.
 
-Tu surveilles aussi les repas et les boissons de la délégation. Un poison peut passer par un verre, une pommade, une poudre sur les doigts ou un linge de soin. Tu demandes à Saevar de garder les inconnus loin de ton espace de travail.
+Tu surveilles aussi les repas et les boissons de la délégation. Un poison peut passer par un verre, une pommade, une poudre sur les doigts ou un linge de soin. Tu demandes à Maren de garder les inconnus loin de ton espace de travail.
 
 ## Marda Velyss et maître Therne
 
@@ -112,7 +112,7 @@ Corvyn attend que tu maintiennes la délégation en état d'agir. Il veut aussi 
 
 Lysa peut t'aider à voir des documents ou des réserves gardées par l'UBI. Tu lui demandes du temps, une table, de la lumière et un accès propre aux composants. Tu ne lui demandes pas les comptes de Palyr.
 
-Saevar t'accompagne si tu dois sortir récolter ou voir un blessé hors des quartiers. Thoran t'appelle si un marin revient avec une plaie de quai. Kaelen t'appelle si un homme d'équipage tombe malade avant la régate.
+Maren Holt t'accompagne si tu dois sortir récolter ou voir un blessé hors des quartiers. Thoran t'appelle si un marin revient avec une plaie de quai. Kaelen t'appelle si un homme d'équipage tombe malade avant la régate.
 
 
 ---

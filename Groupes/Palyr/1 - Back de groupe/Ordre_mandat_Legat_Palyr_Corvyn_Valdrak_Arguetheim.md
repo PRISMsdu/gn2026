@@ -63,15 +63,13 @@ Messire Corvyn Valdrak peut déléguer par écrit une partie de l’exécution �
 
 - **dame Lysa Morwyn** : trésorière ; paiements, coffres et contrats financiers, dans les limites de son ordre propre et du présent mandat ;
 
-- **messire Maren Holt** : commandant militaire ; réceptions, registres militaires, Bibliothèque du fort et dossiers d’armement, sous réserve qu’il ne puisse outrepasser messire Corvyn Valdrak ;
+- **messire Maren Holt** : commandant militaire, sûreté de la délégation, contacts de passage et rendez-vous Tavish ; réceptions, registres militaires, Bibliothèque du fort et dossiers d’armement, sous réserve qu’il ne puisse outrepasser messire Corvyn Valdrak ;
 
 - **dame Ilara Vandesse** : diplomate ; commissions et votes préparés en son nom ;
 
 - **messire Thoran Keld** : commerce maritime et contrats de fret ;
 
 - **messire Kaelen Voss** : commandement de la frégate de Palyr, régate et équipage ;
-
-- **messire Saevar Dren** : sûreté et contacts de passage.
 
 Tout mandataire rend compte sans retard au chef de délégation. Un acte contraire à son ordre écrit ou oral consigné au registre de la délégation est nul devant les greffes du fort et de l’UBI, jusqu’à régularisation par le visa de messire Corvyn Valdrak.
 

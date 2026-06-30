@@ -107,7 +107,7 @@ Tu gardes la copie sur toi. Tu ne la montres pas à tout le monde. Si un clerc, 
 
 Corvyn Valdrak dirige la délégation. Tu voyages avec son groupe, mais il ne te donne pas d'ordres militaires ou politiques. Tu lui indiques où tu vas quand cela concerne la sécurité du groupe.
 
-Saevar Dren peut t'accompagner si Corvyn exige une escorte. Tu acceptes quand cela facilite les déplacements dans le fort. Tu refuses si l'escorte bloque ton entretien avec un druide.
+Maren Holt peut t'accompagner si Corvyn exige une escorte. Tu acceptes quand cela facilite les déplacements dans le fort. Tu refuses si l'escorte bloque ton entretien avec un druide.
 
 Syndri Ashfeld travaille sur les plantes, les soins et les composants anciens. Tu travailles sur une copie de gravure. Tu ne mélanges pas son enquête et ta recherche.
 

@@ -51,6 +51,24 @@ h1 {
   transform-origin: left center;
 }
 
+#contenu-registre h1 .registre-cite-blason {
+  float: left;
+  width: 16mm;
+  height: 16mm;
+  object-fit: contain;
+  margin: 0 4mm 1mm 0;
+}
+
+#contenu-registre h1 .registre-cite-titre-texte {
+  display: block;
+  padding-top: 2mm;
+}
+
+body.registre-coffre-inventaire h1 {
+  overflow: hidden;
+  min-height: 18mm;
+}
+
 h2 {
   font-family: "Caveat", cursive;
   font-style: italic;

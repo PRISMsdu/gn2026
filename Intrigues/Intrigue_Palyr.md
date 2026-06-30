@@ -2,17 +2,16 @@
 
 <!--
   DOCUMENT ORGA pour le groupe (scénaristes / MJ).
-
-  - Fichier ciable : `Intrigues/Intrigue_Palyr.md`.
-  - Document joueurs collectif : `Groupes/Palyr/1 - Back de groupe/Back_groupe_Palyr.md`
-  - Ce fichier contient secrets, mandats et liaisons fixes ; le back joueur n’en reprend pas tout.
+  MJ : Kaelen Voss porte l'identité Saevar Dren au Tripot et sur opérations extérieures ;
+  les fiches Tripot/Mafia gardent le nom Saevar Dren — joueur Christophe.
+  Dette Lira : 2 422 couronnes (alignée registre Tripot).
 -->
 
 ## Informations générales
 
 - **Nom de l'intrigue** : Le Renversement des Fondations
 - **Groupe concerné** : Palyr
-- **Effectif** : 9 PJ — 3 féminins (Ilara, Lysa, Brina), 6 masculins (Corvyn, Thoran, Kaelen Voss, Saevar, Maren, Syndri)
+- **Effectif** : 8 PJ — 3 féminins (Ilara, Lysa, Brina), 5 masculins (Corvyn, Thoran, Kaelen Voss, Maren, Syndri)
 
 ---
 
@@ -26,11 +25,9 @@
 
 **Thoran Keld** renégocie les contrats de routes et de fret. Il porte la lettre de relance du commerce gris Styrgie (armes, matériel) et le rendez-vous avec l’envoyé secret au mot « cale close avant l’aube ».
 
-**Kaelen Voss** commande la frégate de Palyr et mène la régate. Corvyn lui remet les moyens pour soudoyer les juges si nécessaire.
+**Kaelen Voss** commande la frégate de Palyr et mène la régate. Corvyn lui remet les moyens pour soudoyer les juges si nécessaire. Il fréquente le Tripot sous l’identité **Saevar Dren** (dit Saever aux tables) et sur plusieurs opérations extérieures. Dette Lira : **2 422 couronnes** (secret fiche Kaelen).
 
-**Saevar Dren** assure la sécurité de la délégation. Il est endetté au Tripot (secret : 8 234 couronnes, fiche Saevar seule).
-
-**Maren Holt** est le commandant militaire visible. Il **exécute** les dossiers d’armement (dont l’Arguetheim) sous l’autorité de **Corvyn Valdrak**, qui porte le mandat général du Légat sur la délégation ([`Ordre_mandat_Legat_Palyr_Corvyn_Valdrak_Arguetheim.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Legat_Palyr_Corvyn_Valdrak_Arguetheim.md)) : réception, vérification du métal, paiement conjoint avec Lysa ; Maren ne peut pas outrepasser Corvyn. En secret, il dirige la commission des **Cinq Feux** : note de situation [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) (BDL-547-SIT-01) ; ordre affichable [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md) (ORD-HCM-547-CIN-MAR-01). Les autres PJ Palyr ne connaissent pas la note de situation au départ.
+**Maren Holt** est commandant militaire et **chef de la sécurité** mandaté : escortes, protection de Corvyn, sûreté du contact Tavish. Il **exécute** les dossiers d’armement (dont l’Arguetheim) sous l’autorité de **Corvyn Valdrak**, qui porte le mandat général du Légat sur la délégation ([`Ordre_mandat_Legat_Palyr_Corvyn_Valdrak_Arguetheim.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Legat_Palyr_Corvyn_Valdrak_Arguetheim.md)) : réception, vérification du métal, paiement conjoint avec Lysa ; Maren ne peut pas outrepasser Corvyn. En secret, il dirige la commission des **Cinq Feux** : note de situation [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) (BDL-547-SIT-01) ; ordre affichable [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md) (ORD-HCM-547-CIN-MAR-01). Les autres PJ Palyr ne connaissent pas la note de situation au départ.
 
 **Syndri Ashfeld** est herboriste. Il cherche l’objet magique de grande puissance que Edorian tient ou a classé en coffre.
 
@@ -70,7 +67,7 @@ Références : [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) 
 
 | Cité | Liaison | Rôle officiel à Ulghart |
 |------|---------|-------------------------|
-| Palyr | **Maren Holt** | Commandant militaire de la délégation |
+| Palyr | **Maren Holt** | Commandant militaire et chef de la sécurité de la délégation |
 | Il-Irion | **Isar Dornelis** | Réseaux, audits (Maison Dornelis) |
 | Ther-Félis | **Sven Orlac** | Marin, skipper, régate |
 | Arthas | **Bastion Kharvek** | Chef de la sécurité |
@@ -80,7 +77,7 @@ Les autres membres de la délégation Palyr ne connaissent pas la note BDL-547-S
 
 Le joueur Maren reçoit la note de situation et l’ordre ORD-HCM-547-CIN-MAR-01 (voir fiches et pièces).
 
-### Les neuf mandats (récap)
+### Les huit mandats (récap)
 
 **Corvyn Valdrak (H)** — Chef de délégation, mandat du Légat. Il fixe les priorités, parle avec Edorian, et tranche quand Ilara, Lysa, Maren et Thoran tirent la délégation dans des directions différentes.
 
@@ -90,11 +87,9 @@ Le joueur Maren reçoit la note de situation et l’ordre ORD-HCM-547-CIN-MAR-01
 
 **Thoran Keld (H)** — Marchand. Il renégocie les routes et contrats de fret (Guilde des Ports Unis, paraphes, entrepôts). Il confronte Sfaal sur le dernier chargement et tient la lettre Styrgie. Il n’est pas le contact Gorvan ni le capitaine de la frégate.
 
-**Kaelen Voss (H)** — Capitaine de frégate. Il commande la frégate de Palyr, l’équipage et la régate. Corvyn lui remet la bourse des juges en dernier recours.
+**Kaelen Voss (H)** — Capitaine de frégate. Il commande la frégate de Palyr, l’équipage et la régate. Corvyn lui remet la bourse des juges en dernier recours. Identité de couverture **Saevar Dren** au Tripot et sur opérations extérieures ; dette Lira **2 422 couronnes**.
 
-**Saevar Dren (H)** — Chef de la sécurité. Il protège la délégation et tient des contacts à Ther-Félis et sur les quais. Il joue au Tripot et doit de l’argent à Lira (8 234 couronnes, secret sur sa fiche).
-
-**Maren Holt (H)** — Commandant militaire et liaison Les Cinq Feux (secret). Voir sections ci-dessus.
+**Maren Holt (H)** — Commandant militaire, chef de la sécurité mandaté, liaison Les Cinq Feux (secret). Voir sections ci-dessus.
 
 **Syndri Ashfeld (H)** — Herboriste mandaté par le Conseil. Il traque l’objet magique de grande puissance lié à Edorian et au coffre de Palyr. Ligne distincte de l’artefact que Brina a trouvé au cairn.
 
@@ -105,7 +100,7 @@ Le joueur Maren reçoit la note de situation et l’ordre ORD-HCM-547-CIN-MAR-01
 
 Avant le départ, le Conseil reçoit un pli signé **Tavish Kaironi** ([`Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_Tavish_Kaironi_au_Conseil_de_Palyr.md)). Tavish relaie les **Fils du Levant** (visibles), issus des **Premiers Nés**. Ils proposent un nouvel ordre entre les îles pour réduire le poids d’Il-Irion. Palyr est intéressée car cela correspond à son objectif sur la banque. Le courrier demande un entretien discret à Ulghart et la formule « le fer et le serment ».
 
-Corvyn décide si la délégation répond. Saevar contrôle la sûreté du contact. Brina n’est pas dans ce fil. Tavish est premier né (MJ seulement).
+Corvyn décide si la délégation répond. Maren contrôle la sûreté du contact. Brina n’est pas dans ce fil. Tavish est premier né (MJ seulement).
 
 ---
 
@@ -128,7 +123,7 @@ Corvyn décide si la délégation répond. Saevar contrôle la sûreté du conta
 **Régate et Tripot**
 
 - Remporter ou défendre le prestige de la régate (Kaelen Voss, frégate).
-- Corvyn veut fermer le Tripot ou en limiter l’influence ; Saevar y est endetté.
+- Corvyn veut fermer le Tripot ou en limiter l’influence ; Kaelen y est endetté (registre Tripot : Saevar Dren).
 
 **Lignes personnelles des PJ**
 
@@ -161,14 +156,14 @@ Seules les relations **nommées** dans les intrigues ou fiches du dépôt. Pas d
 | **Gazette / presse d’Ulghart** | Brina | Article qui fait le lien avec l’artefact trouvé à Palyr. |
 | **Marda (Tripot)** | Corvyn, Lysa | Corvyn veut fermer le casino ; Marda négocie la fuite d’Edorian avec Palyr. |
 | **Soren (Tripot)** | Lysa | Lysa le retrouve et lui annonce qu’il est nommé capitaine de la Brigade ; il se cache, raisons inconnues. |
-| **Lira (Tripot)** | Saevar | Saevar lui doit 8 234 couronnes. |
+| **Lira (Tripot)** | Kaelen (Saevar Dren) | Kaelen lui doit 2 422 couronnes au nom Saevar Dren ; fiches Tripot inchangées. |
 | **Melian (UBI)** | Lysa | Dénonciation : 2 000 couronnes ; 1 000 payées ; lettre sans références ; second paquet après solde ; protection à tenir. |
 | **Gorvan (Dolmen Rouge)** | Lysa, Maren | Lysa : contact Ther-Félis, vente et papiers (samedi fin de journée max) ; Maren : réception militaire pour le haut commandement. |
 | **Horgrim, Selvara (UBI)** | Lysa | Gardes et archives : accès coffre, blocages possibles. |
 | **Isar Dornelis (Il-Irion)** | Maren | Autre liaison Les Cinq Feux ; même réseau, lignes banque et coffres. |
 | **Sven Orlac (Ther-Félis)** | Maren, Thoran | Liaison Cinq Feux (Ther-Félis) ; Thoran tient les routes maritimes. |
-| **Saevar — réseaux Ther-Félis** | Saevar | Contacts gris de Saevar (fiche joueur). |
-| **Tavish Kaironi** | Corvyn, Saevar | Signataire du courrier Fils du Levant ; rendez-vous à Ulghart. |
+| **Saevar Dren — réseaux couverture** | Kaelen Voss | Identité Kaelen au Tripot et sur opérations extérieures ; fiches autres groupes nomment Saevar Dren. |
+| **Tavish Kaironi** | Corvyn, Maren | Signataire du courrier Fils du Levant ; rendez-vous à Ulghart. |
 | **Premiers Nés / Fils du Levant** | Corvyn (si réponse au courrier) | Courrier Conseil ; fil banque et six gardes (intrigue UBI), distinct de Brina. |
 | **Légat de Palyr (PNJ)** | Brina, Lysa, Corvyn | Brina est sa sœur (le Légat reste à Palyr) ; le Légat a signé le mandat coffre de Lysa |
 | **Styrgie (commerce gris)** | Thoran | Lettre STY-547-PAL-THO-01 ; envoyé secret à Ulghart ; mot « cale close avant l’aube ». Orga : Lucan Drest (MiVI), couverture marchande — ne pas nommer MiVI sur la pièce joueur. |
@@ -186,8 +181,8 @@ Seules les relations **nommées** dans les intrigues ou fiches du dépôt. Pas d
 | Ilara Vandesse | F | Diplomate | Directrice adjointe UBI ; Arthas |
 | Lysa Morwyn | F | Trésorière | Mandat coffre Palyr ; contact Gorvan / Arguetheim ; ordre BN (Soren), secret |
 | Thoran Keld | H | Marchand, capitaine | Routes ; régate ; lettre Styrgie et rendez-vous discret |
-| Saevar Dren | H | Sécurité | Tripot / Lira, secret |
-| Maren Holt | H | Commandant militaire | Réception Arguetheim ; Hanse ; Cinq Feux, secret |
+| Kaelen Voss | H | Capitaine de frégate | Régate ; Tripot / Saevar Dren ; dette Lira 2 422, secret |
+| Maren Holt | H | Commandant militaire ; sécurité | Réception Arguetheim ; Hanse ; Tavish ; Cinq Feux, secret |
 | Syndri Ashfeld | H | Herboriste | Coffre UBI / objet Edorian |
 | Brina Lyrd | F | Druidesse (cairn Lyrd) | Artefact branchies ; Bibliothèque ; sœur du Légat de Palyr |
 
@@ -211,7 +206,7 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 - Lettre commerce gris Styrgie : [`Lettre_approvisionnement_Styrgie_Thoran_Keld.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Lettre_approvisionnement_Styrgie_Thoran_Keld.md)
 - Cinq Feux (situation) : [`Histoire_Bureau_des_lignes.md`](Histoire_Bureau_des_lignes.md) ; ordre Maren : [`Ordre_mandat_Bureau_Lignes_Maren_Holt.md`](../Groupes/Palyr/1%20-%20Back%20de%20groupe/Ordre_mandat_Bureau_Lignes_Maren_Holt.md)
 - Fer Sfaal : [`Intrigue_Sfaal.md`](Intrigue_Sfaal.md)
-- Fiches joueur : `Groupes/Palyr/2 - Roles des Joueurs/Palyr_Maren_Holt_Commandant_militaire.md`, `Palyr_Syndri_Ashfeld_Herboriste.md`, `Palyr_Brina_Lyrd_Druidesse.md`
+- Fiches joueur : `Groupes/Palyr/2 - Roles des Joueurs/Palyr_Kaelen_Voss_Capitaine_fregate.md`, `Palyr_Maren_Holt_Commandant_militaire.md`, `Palyr_Syndri_Ashfeld_Herboriste.md`, `Palyr_Brina_Lyrd_Druidesse.md`
 - Ordre BN Soren : à rédiger (Lysa seule)
 
 ---
@@ -222,7 +217,7 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 
 **Lysa** tient deux mandats distincts. Le mandat du Légat est légitime pour tout le groupe. L’ordre Brigade noire est secret : retrouver Soren au Tripot et lui annoncer la capitainerie, sans autre agent BN sur place.
 
-**Saevar** joue au Tripot. Corvyn le sait endetté, pas le montant exact. La dette peut servir de levier à la mafia ou à l’UBI si l’information circule.
+**Kaelen** joue au Tripot sous Saevar Dren. Corvyn le sait endetté, pas le montant exact. La dette peut servir de levier à la mafia ou à l’UBI si l’information circule.
 
 **Brina** est la sœur du **Légat de Palyr**. Ce lien ne donne pas de commandement sur la délégation, mais il ouvre des portes : Lysa tient un mandat signé par le Légat ; les greffes et les questeurs traitent Brina avec déférence quand le nom circule.
 
@@ -237,7 +232,7 @@ Orga : prévoir au moins deux retrouvailles utiles pour le mandat Arguetheim (Ly
 
 **Lysa** : attachée financière Brigade noire sous couverture de trésorière. Corvyn et les autres PJ ne le savent pas. Ordre BN : retrouver Soren au Tripot, lui annoncer qu’il devient capitaine. Soren se cache (motifs non communiqués à Lysa). Aucun relais BN à Ulghart.
 
-**Saevar** : dette de 8 234 couronnes à Lira. Chiffre uniquement sur `Palyr_Saevar_Dren_Chef_securite.md`.
+**Kaelen** : dette de 2 422 couronnes à Lira au nom **Saevar Dren** ; identité de couverture aussi pour opérations extérieures. Chiffre sur `Palyr_Kaelen_Voss_Capitaine_fregate.md`. Fiches Tripot inchangées.
 
 **Maren** : directeur Cinq Feux. Pièces : `Histoire_Bureau_des_lignes.md` (secret délégation Palyr) + `Ordre_mandat_Bureau_Lignes_Maren_Holt.md` (affichable).
 

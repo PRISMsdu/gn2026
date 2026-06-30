@@ -68,7 +68,7 @@ La Convention d’Ulghart est le prochain rendez-vous commun. Les banquiers, les
 
 Le Conseil a d’abord vérifié les besoins du voyage : quelqu’un pour parler en séance, pour les chiffres et les coffres, pour le commerce et la mer, pour la défense et l’armement, et un chef capable de trancher quand les instructions se croisent.
 
-Neuf personnes partent pour Ulghart. Six portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Kaelen Voss, Saevar. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Brina Lyrd (druidesse du cairn Lyrd, sœur du Légat resté à Palyr, artefact trouvé sur le site).
+Huit personnes partent pour Ulghart. Cinq portent le mandat du Légat dans les fonctions habituelles : Corvyn, Ilara, Lysa, Thoran, Kaelen Voss. Trois autres couvrent des dossiers que le Conseil ne pouvait pas laisser sur l’île : Maren Holt (commandement militaire et sûreté de la délégation ; armement et Arguetheim sous Corvyn), Syndri Ashfeld (herboriste, objet magique lié au coffre Palyr à l’UBI), Brina Lyrd (druidesse du cairn Lyrd, sœur du Légat resté à Palyr, artefact trouvé sur le site).
 
 On vous a reçus un par un, puis en petit groupe : cas limites, mises en situation (audience, quai hostile, salon), formulations courtes pour les halls publics, mots de passe et lieux de rendez-vous pour les messages urgents.
 
@@ -90,9 +90,9 @@ Corvyn Valdrak porte l’ordre du Légat sur toute la délégation à la Convent
 
 Thoran Keld renégocie routes et fret (Guilde des Ports Unis, paraphes, entrepôts) et confronte Sfaal sur le dernier chargement. Le Conseil lui a remis une lettre pour relancer les achats discrets d’armes et de matériel vers la Styrgie : Thoran est le seul interlocuteur désigné ; un envoyé secret le contactera à Ulghart au mot « cale close avant l’aube ». Ce fil n’est pas dans le mandat public du Légat.
 
-Kaelen Voss commande la frégate de Palyr et mène la régate. Corvyn lui a remis les moyens pour soudoyer les juges si nécessaire ; si cela fuite, Palyr porte le scandale. Thoran fournit les contrats de quai et le fret ; Kaelen tient l’équipage et la course.
+Kaelen Voss commande la frégate de Palyr et mène la régate. Corvyn lui a remis les moyens pour soudoyer les juges si nécessaire ; si cela fuite, Palyr porte le scandale. Thoran fournit les contrats de quai et le fret ; Kaelen tient l’équipage et la course. Kaelen fréquente le Tripot sous le nom de couverture Saevar Dren et doit de l’argent à Lira ; Corvyn sait qu’il est endetté et accro au jeu, pas le montant. Ce même nom sert aussi à plusieurs opérations extérieures hors mandat officiel.
 
-Saevar Dren tient la sûreté de la délégation, les contacts discrets (Ther-Félis, milieux gris, mercenaires de passage) et celle d’un éventuel rendez-vous Tavish. Il joue au Tripot et doit de l’argent à Lira ; Corvyn sait qu’il est endetté, pas le montant. Si la dette éclate, la mafia ou la banque peuvent s’en servir contre la délégation.
+Maren Holt tient la sûreté mandatée de la délégation : protection de Corvyn, escortes, salles fermées, sûreté du rendez-vous Tavish. Il exécute sous Corvyn les dossiers militaires et d’armement — dont l’Arguetheim.
 
 Syndri Ashfeld vous appuiera grâce à ces compétences d'Herboriste. Prennez soin lde lui et il prendra soin de vous.
 
@@ -108,13 +108,13 @@ Brina Lyrd, protégée par votre Légat, a ses propres raisons d'aller sur Ulgha
 - Institution : faire adopter et occuper le poste de directrice adjointe porté par Ilara ; faire avancer une solution où Arthas pèse davantage qu’Il-Irion.
 - Arthas : consolider l’alliance et les accords discrets préparés avant le voyage.
 - Styrgie (commerce gris) : Thoran tient la lettre de relance et le rendez-vous avec l’envoyé secret, hors registres confédéraux et hors mandat public du Légat.
-- Tripot : gérer la ligne politique contre le casino et la dette de Saevar.
+- Tripot : gérer la ligne politique contre le casino et la dette de Kaelen.
 - Brina : aide, protection, retour avec la délégation.
 - Fils du Levant : décider si Palyr répond au courrier de Tavish (« le fer et le serment ») et jusqu’où engager la cité hors mandat du Légat.
 
 ---
 
-## Composition du groupe — neuf mandats pour Ulghart
+## Composition du groupe — huit mandats pour Ulghart
 
 | Nom | Rôle | En bref | Joueur |
 |-----|------|---------|--------|
@@ -122,9 +122,8 @@ Brina Lyrd, protégée par votre Légat, a ses propres raisons d'aller sur Ulgha
 | Ilara Vandesse | Diplomate | Directrice adjointe à l’UBI ; axe Arthas ; coordination avec Lysa et Corvyn sur le dossier banque. | Margaux |
 | Lysa Morwyn | Trésorière | Mandat coffre Légat ; contact Gorvan (Dolmen Rouge) ; achat Arguetheim (vente samedi fin de journée max) ; Melian ; archives. | Sirine |
 | Thoran Keld | Marchand | Routes et fret ; Sfaal ; filière de remplacement ; lettre Styrgie et rendez-vous discret (armes, matériel). | Xavier |
-| Kaelen Voss | Capitaine de frégate | Régate ; équipage ; frégate de Palyr ; bourse des juges (Corvyn). | Christophe |
-| Saevar Dren | Chef de la sécurité | Sûreté ; Ther-Félis ; Tripot et Lira ; contact Tavish. | Robin |
-| Maren Holt | Commandant militaire | Armement et Arguetheim sous Corvyn ; Hanse des Lames ; fer Sfaal ; Bibliothèque. | Romain |
+| Kaelen Voss | Capitaine de frégate | Régate ; équipage ; frégate de Palyr ; Tripot / identité Saevar Dren ; bourse des juges (Corvyn). | Christophe |
+| Maren Holt | Commandant militaire ; chef de la sécurité | Armement et Arguetheim sous Corvyn ; sûreté, escortes, Tavish ; Hanse des Lames ; fer Sfaal ; Bibliothèque. | Romain |
 | Syndri Ashfeld | Herboriste | Objet magique lié à Edorian ? | Tom |
 | Brina Lyrd | Druidesse (cairn Lyrd) | Artefact hommes-branchies ; Bibliothèque ; druide confrère ; sœur du Légat de Palyr. | Veronique |
 

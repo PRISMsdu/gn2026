@@ -123,6 +123,10 @@ Varek est ton seul contact direct avec l'extérieur. Tout ce qui ne doit pas lai
 
 # Connaissances
 
+## Réseau marchands et trésoriers — cinq cités
+
+Tu connais les trésoriers et marchands des cinq cités qui signent, empruntent ou retiennent un paiement à l'UBI. Le détail par cité, maison et interlocuteur à Ulghart est sur la fiche partagée `Reseau_marchands_tresoriers.md` (annexe recouvrement, avec Kaelen Veynar).
+
 ## Mandats de recouvrement — UBI
 
 Tu interviens quand l'UBI veut récupérer une somme, faire signer un débiteur, saisir un bien ou contraindre une maison à respecter un acte. Ton mandat bancaire te donne une autorité officielle : dans une cité, tu peux demander l'appui des gardes des polices locales ; au fort, tu peux demander l'appui d'un garde présent sur site si la demande reste liée au recouvrement.

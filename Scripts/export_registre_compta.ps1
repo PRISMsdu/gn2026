@@ -18,6 +18,11 @@
     .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Tripot\3 - Comptabilite\Registre_Matelas_Marda.md"
     .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Tripot\3 - Comptabilite\Registre_Matelas_540.md" -nochangepage
 
+    .\Scripts\export_registre_compta.ps1 -MarkdownPath "Groupes\Banquiers - UBI\3- Compta & registres\registre_coffre_inventaire_Sfaal.md"
+
+  Blason cité (optionnel) : -CiteSlug ou détection depuis registre_coffre_inventaire_<Cité>.md ;
+  blason injecté à gauche du titre (h1). Catalogue : LivretsLocaux/Blasons/.
+
   Sortie : PDF horodaté dans le même dossier que le .md.
 #>
 
@@ -40,11 +45,20 @@ param(
 
   [string] $PandocPath = "",
 
+  [string] $CiteSlug = "",
+
+  [string] $BlasonPath = "",
+
   [Alias('nochangepage')]
   [switch] $SkipHrPageBreak
 )
 
 $ErrorActionPreference = "Stop"
+
+. (Join-Path $PSScriptRoot 'Export-ImageForPrint.ps1')
+. (Join-Path $PSScriptRoot 'Resolve-ExportBlasonPath.ps1')
+
+$exportImageCacheDir = Get-ExportImageCacheDir -ScriptsRoot $PSScriptRoot
 
 function ConvertTo-HtmlUriPath {
   param([string] $Path)
@@ -197,6 +211,35 @@ function Export-HtmlFileToPdf {
   }
 }
 
+function Get-CoffreInventaireCiteSlug {
+  param([string] $BaseName)
+
+  if ($BaseName -notmatch '^registre_coffre_inventaire_(.+)$') { return $null }
+
+  switch ($Matches[1]) {
+    'Ther-Felis' { return 'Ther-Félis' }
+    default { return $Matches[1] }
+  }
+}
+
+function Add-RegistreCiteBlasonToH1 {
+  param(
+    [string] $BodyInner,
+    [string] $BlasonSrc
+  )
+  if ([string]::IsNullOrWhiteSpace($BlasonSrc)) { return $BodyInner }
+  if (-not ([regex]'(?s)<h1[^>]*>').IsMatch($BodyInner)) { return $BodyInner }
+
+  $blasonHtml = '<img src="' + $BlasonSrc + '" class="registre-cite-blason" alt="Blason de la cité" />'
+  $rxOpenH1 = [regex]'(?s)(<h1[^>]*>)([\s\S]*?)(</h1>)'
+  return $rxOpenH1.Replace($BodyInner, {
+      param($m)
+      $inner = [regex]::Replace($m.Groups[2].Value, '<[^>]+>', '').Trim()
+      $titleSpan = '<span class="registre-cite-titre-texte">' + [System.Net.WebUtility]::HtmlEncode($inner) + '</span>'
+      return $m.Groups[1].Value + $blasonHtml + $titleSpan + $m.Groups[3].Value
+    }, 1)
+}
+
 # --- Resolution du chemin .md ---
 
 $md = Resolve-Path -LiteralPath $MarkdownPath
@@ -226,6 +269,7 @@ if (-not $pandocExe) {
 }
 
 $tempBody = [System.IO.Path]::GetTempFileName() + ".html"
+$markdownRaw = Get-Content -LiteralPath $md.Path -Raw -Encoding UTF8
 try {
   & $pandocExe $md.Path -f markdown -t html5 --standalone=false -o $tempBody
   $bodyInner = Get-Content -Path $tempBody -Raw -Encoding UTF8
@@ -255,6 +299,46 @@ if ($mH1.Success) {
 }
 $titleEncoded = [System.Net.WebUtility]::HtmlEncode($titlePlain)
 
+# --- Blason cité (titre h1) ---
+
+$resolvedCiteSlug = if (-not [string]::IsNullOrWhiteSpace($CiteSlug)) {
+  $CiteSlug
+} else {
+  Get-CoffreInventaireCiteSlug -BaseName $baseName
+}
+
+$resolvedBlasonPath = $null
+if (-not [string]::IsNullOrWhiteSpace($BlasonPath)) {
+  if (-not (Test-Path -LiteralPath $BlasonPath)) {
+    Write-Error "BlasonPath introuvable : $BlasonPath"
+  }
+  $resolvedBlasonPath = (Resolve-Path -LiteralPath $BlasonPath).Path
+} elseif ($resolvedCiteSlug) {
+  $catalogDir = Get-ExportBlasonCatalogDir -ScriptsRoot $PSScriptRoot
+  $preferred = Get-ExportBlasonPreferredNames -Slug $resolvedCiteSlug
+  if ($preferred.Count -gt 0) {
+    $resolvedBlasonPath = Find-BlasonImageInDirectory -Directory $catalogDir -PreferredNames $preferred
+  }
+  if (-not $resolvedBlasonPath) {
+    $resolvedBlasonPath = Resolve-ExportBlasonPath `
+      -MarkdownDirectory $mdDir `
+      -MarkdownPath $md.Path `
+      -InstitutionNom $resolvedCiteSlug `
+      -MarkdownRaw $markdownRaw `
+      -ScriptsRoot $PSScriptRoot `
+      -ForcedBlasonPath $null
+  }
+}
+
+if ($resolvedBlasonPath) {
+  $blasonPrint = Optimize-ExportImageForPrint -SourcePath $resolvedBlasonPath -MaxEdgePx 192 -CacheDir $exportImageCacheDir
+  $blasonSrc = Get-RelativeUriPath -FromAbsoluteFile $outFile -ToAbsoluteFile $blasonPrint
+  Write-Host "Blason ($resolvedCiteSlug) : $resolvedBlasonPath"
+  $bodyInner = Add-RegistreCiteBlasonToH1 -BodyInner $bodyInner -BlasonSrc $blasonSrc
+} elseif ($resolvedCiteSlug) {
+  Write-Warning "Aucun blason trouve pour $resolvedCiteSlug."
+}
+
 # --- Assemblage HTML ---
 
 $shellPath = Join-Path $PSScriptRoot "registre_shell.html"
@@ -268,6 +352,8 @@ if ($baseName -match 'VIP') {
   $bodyClass = "registre-vip"
 } elseif ($baseName -match 'Matelas') {
   $bodyClass = "registre-matelas"
+} elseif ($baseName -match 'coffre_inventaire') {
+  $bodyClass = "registre-coffre-inventaire"
 } elseif ($baseName -match 'UBI') {
   $bodyClass = "registre-ubi"
 }

@@ -117,7 +117,7 @@ Ilara partage le dossier banque avec toi. Elle veut utiliser les preuves pour fo
 
 Selvara Quenndral est l'archiviste de l'UBI. Elle tient les codes des chambres closes et les registres des coffres. Tu dois décider si tu la traites en alliée, en levier ou en cible. Elle a ses propres raisons de vouloir se distancer du conseil sortant. Ça peut jouer en ta faveur si tu l'approches au bon moment, avec les bons arguments.
 
-Saevar est au Tripot. Il est accro au jeu. Sa présence au casino et ses contacts là-bas peuvent faire fuiter des bribes d'information au mauvais moment. Tu n'as pas l'intention de lui expliquer pourquoi tu surveilles ses sorties. Tu surveilles quand même.
+Kaelen Voss est au Tripot. Il est accro au jeu. Sa présence au casino et ses contacts là-bas peuvent faire fuiter des bribes d'information au mauvais moment. Tu n'as pas l'intention de lui expliquer pourquoi tu surveilles ses sorties. Tu surveilles quand même.
 
 Melian est fragile. Tu lui as promis une protection que tu n'es pas certaine de pouvoir tenir si les deux missions entrent en collision. Tu gardes ce problème pour toi.
 
